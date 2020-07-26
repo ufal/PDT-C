@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-077-p1s1w2">
@@ -437,7 +437,7 @@
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-077-p2s3w4">
@@ -486,7 +486,7 @@
 <LM>w#w-ln95049-077-p2s3w9</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-077-p2s3w10">
 <src.rf>manual</src.rf>
@@ -883,7 +883,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95049-077-p3s2w2">
@@ -1100,7 +1100,7 @@
 <LM>w#w-ln95049-077-p4s1w13</LM>
 </w.rf>
 <form>americko</form>
-<tag lemma="americký" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="americký" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95049-077-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-077-p4s1w32">
@@ -1469,7 +1469,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-077-p4s2w20">
@@ -1539,7 +1539,7 @@
 <LM>w#w-ln95049-077-p5s1w3</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
 </m>
 <m id="m-ln95049-077-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1931,7 +1931,7 @@
 <LM>w#w-ln95049-077-p5s1w52</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9ZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
 </m>
 <m id="m-ln95049-077-p5s1w53">
 <src.rf>manual</src.rf>
@@ -1939,7 +1939,7 @@
 <LM>w#w-ln95049-077-p5s1w53</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95049-077-p5s1w54">
 <src.rf>manual</src.rf>
@@ -2845,7 +2845,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95049-077-p5s1w167">
@@ -2878,7 +2878,7 @@
 <LM>w#w-ln95049-077-p5s1w170</LM>
 </w.rf>
 <form>joint</form>
-<tag lemma="joint_,t_^(j._venture;_společný_podnik)" src="auto" selected="1">AAIXX----1A----</tag>
+<tag lemma="joint_^(j._venture;_společný_podnik)" src="auto" selected="1">AAIXX----1A----</tag>
 </m>
 <m id="m-ln95049-077-p5s1w171">
 <src.rf>manual</src.rf>
@@ -2886,7 +2886,7 @@
 <LM>w#w-ln95049-077-p5s1w171</LM>
 </w.rf>
 <form>ventures</form>
-<tag lemma="venture_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="venture" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-077-p5s1w172">
 <src.rf>manual</src.rf>
@@ -3006,7 +3006,7 @@
 <LM>w#w-ln95049-077-p5s1w186</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln95049-077-p5s1w187">
 <src.rf>manual</src.rf>
@@ -3329,7 +3329,7 @@
 <LM>w#w-ln95049-077-p6s1w32</LM>
 </w.rf>
 <form>miliardy</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="miliarda`1000000000" src="orig" selected="1">CzFS2----------</tag>
 </m>
 <m id="m-ln95049-077-p6s1w33">
 <src.rf>manual</src.rf>
@@ -3430,7 +3430,7 @@
 <LM>w#w-ln95049-077-p6s2w10</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95049-077-p6s2w11">
 <src.rf>manual</src.rf>
@@ -3558,7 +3558,7 @@
 <LM>w#w-ln95049-077-p6s2w26</LM>
 </w.rf>
 <form>jednu</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS4----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS4----------</tag>
 </m>
 <m id="m-ln95049-077-p6s2w27">
 <src.rf>manual</src.rf>
@@ -3566,7 +3566,7 @@
 <LM>w#w-ln95049-077-p6s2w27</LM>
 </w.rf>
 <form>miliardu</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="miliarda`1000000000" src="orig" selected="1">CzFS4----------</tag>
 </m>
 <m id="m-ln95049-077-p6s2w28">
 <src.rf>manual</src.rf>

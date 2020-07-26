@@ -53,7 +53,7 @@
 <LM>w#w-lnd92251-055-p2s1w3</LM>
 </w.rf>
 <form>dos</form>
-<tag lemma="dos-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="dos-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-lnd92251-055-p2s1w4">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-lnd92251-055-p2s2w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSZS1FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-lnd92251-055-p2s2w10">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-lnd92251-055-p2s5w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92251-055-p2s5w4">
 <src.rf>manual</src.rf>

@@ -141,7 +141,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-113-p4s2w4">
@@ -686,7 +686,7 @@
 <LM>w#w-mf920922-113-p4s5w8</LM>
 </w.rf>
 <form>šest</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf920922-113-p4s5w9">
 <src.rf>manual</src.rf>

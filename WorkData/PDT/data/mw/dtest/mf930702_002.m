@@ -103,7 +103,7 @@
 <form>čtk</form>
 <tag>
 <AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-002-p2s1w4">
@@ -122,7 +122,7 @@
 <form>lh</form>
 <tag>
 <AM lemma="lh-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lh-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lh-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-002-p2s1w6">
@@ -343,7 +343,7 @@
 <LM>w#w-mf930702-002-p2s3w2</LM>
 </w.rf>
 <form>něj</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS2--3-------</tag>
 </m>
 <m id="m-mf930702-002-p2s3w3">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-mf930702-002-p2s6w3</LM>
 </w.rf>
 <form>nich</form>
-<tag lemma="on-1" src="orig" selected="1">P5XP2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP2--3-------</tag>
 </m>
 <m id="m-mf930702-002-p2s6w4">
 <src.rf>manual</src.rf>

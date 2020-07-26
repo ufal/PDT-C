@@ -29,7 +29,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-2_:B_;m_^(Lidové_noviny,_nakl.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 </s>
@@ -636,7 +636,7 @@
 <form>QUEEN</form>
 <tag>
 <AM lemma="Queen_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="QUEEN-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Queen-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-083-p3s1w13">
@@ -930,7 +930,7 @@
 <LM>w#w-lnd92256-083-p3s3w9</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-lnd92256-083-p3s3w10">
 <src.rf>manual</src.rf>
@@ -938,7 +938,7 @@
 <LM>w#w-lnd92256-083-p3s3w10</LM>
 </w.rf>
 <form>můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-lnd92256-083-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1094,7 +1094,7 @@
 <form>QUEEN</form>
 <tag>
 <AM lemma="Queen_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="QUEEN-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Queen-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-083-p3s4w15">
@@ -1307,7 +1307,7 @@
 <LM>w#w-lnd92256-083-p4s1w8</LM>
 </w.rf>
 <form>PS</form>
-<tag lemma="PS-2_:B_;m_^(poštovní_schránka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="PS-2_;m_^(poštovní_schránka)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd92256-083-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1371,7 +1371,7 @@
 <LM>w#w-lnd92256-083-p4s1w16</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="telefon" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-lnd92256-083-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1429,7 +1429,7 @@
 </w.rf>
 <form>l</form>
 <tag>
-<AM lemma="linka_:B" src="orig" selected="1">NNFXX-----A---1</AM>
+<AM lemma="linka" src="orig" selected="1">BNFXX-----A---1</AM>
 <AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>

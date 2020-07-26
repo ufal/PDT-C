@@ -19,7 +19,7 @@
 <LM>w#w-lnd91301-007-p1s1w1</LM>
 </w.rf>
 <form>Komu</form>
-<tag lemma="kdo" src="orig" selected="1">PKM-3----------</tag>
+<tag lemma="kdo" src="orig" selected="1">PQ--3----------</tag>
 </m>
 <m id="m-lnd91301-007-p1s1w2">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-lnd91301-007-p3s4w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd91301-007-p3s4w3">
 <src.rf>manual</src.rf>

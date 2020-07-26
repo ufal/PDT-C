@@ -427,7 +427,7 @@
 <LM>w#w-wsj2410-001-p1s0W31</LM>
 </w.rf>
 <form>třemi</form>
-<tag lemma="tři`3" src="auto" recommended="1">ClXP7----------</tag>
+<tag lemma="tři`3" src="auto" recommended="1">Cl-P7----------</tag>
 </m>
 <m id="m-wsj2410-001-p1s0W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1043,7 +1043,7 @@
 <LM>w#w-wsj2410-001-p1s2W21</LM>
 </w.rf>
 <form>HDP</form>
-<tag lemma="HDP_:B_^(hrubý_domácí_produkt)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="HDP_^(hrubý_domácí_produkt)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2410-001-p1s2W22-Ta">
 <src.rf>tagger-a</src.rf>

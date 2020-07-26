@@ -26,7 +26,7 @@
 <form>SHEARSON</form>
 <tag>
 <AM lemma="SHEARSON" src="auto">X@-------------</AM>
-<AM lemma="SHEARSON-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Shearson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2002-001-p1s0W3-Ta">
@@ -37,7 +37,7 @@
 <form>LEHMAN</form>
 <tag>
 <AM lemma="Lehman_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="LEHMAN-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Lehman-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2002-001-p1s0W4-Ta">
@@ -48,7 +48,7 @@
 <form>HUTTON</form>
 <tag>
 <AM lemma="Hutton_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="HUTTON-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hutton-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2002-001-p1s0W5-Ta">
@@ -561,7 +561,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -883,7 +883,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>

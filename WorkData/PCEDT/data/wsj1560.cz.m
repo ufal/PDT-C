@@ -55,7 +55,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj1560-001-p1s0W5-Ta">
@@ -64,7 +64,7 @@
 <LM>w#w-wsj1560-001-p1s0W5</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj1560-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -376,7 +376,7 @@
 <form>ně</form>
 <tag>
 <AM lemma="on-1" src="auto">P5NS4--3-------</AM>
-<AM lemma="on-1" src="auto" recommended="1">P5XP4--3-------</AM>
+<AM lemma="on-1" src="auto" recommended="1">PEXP4--3------1</AM>
 </tag>
 </m>
 <m id="m-wsj1560-001-p1s1W10-Ta">
@@ -488,7 +488,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj1560-001-p1s2W5-Ta">
@@ -1645,7 +1645,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1790,7 +1790,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1966,7 +1966,7 @@
 <form>někoho</form>
 <tag>
 <AM lemma="někdo" src="auto">PZM-2----------</AM>
-<AM lemma="někdo" src="auto" recommended="1">PZM-4----------</AM>
+<AM lemma="někdo" src="auto" recommended="1">PK--4----------</AM>
 </tag>
 </m>
 <m id="m-wsj1560-001-p1s7W4-Ta">
@@ -1983,7 +1983,7 @@
 <LM>w#w-wsj1560-001-p1s7W5</LM>
 </w.rf>
 <form>kdo</form>
-<tag lemma="kdo" src="auto" recommended="1">PKM-1----------</tag>
+<tag lemma="kdo" src="auto" recommended="1">PQ--1----------</tag>
 </m>
 <m id="m-wsj1560-001-p1s7W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2156,7 +2156,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXZS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -2402,7 +2402,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj1560-001-p1s7W41-Ta">
@@ -2627,7 +2627,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -2814,7 +2814,7 @@
 <LM>w#w-wsj1560-001-p1s10W4</LM>
 </w.rf>
 <form>třemi</form>
-<tag lemma="tři`3" src="auto" recommended="1">ClXP7----------</tag>
+<tag lemma="tři`3" src="auto" recommended="1">Cl-P7----------</tag>
 </m>
 <m id="m-wsj1560-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3392,7 +3392,7 @@
 <tag>
 <AM lemma="být" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
-<AM lemma="on-1_^(oni/ono)" src="auto" recommended="1">PPXP4--3-------</AM>
+<AM lemma="on-1" src="auto" recommended="1">PEXP4--3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1560-001-p1s12W11-Ta">
@@ -3640,7 +3640,7 @@
 <LM>w#w-wsj1560-001-p1s13W2</LM>
 </w.rf>
 <form>Kdo</form>
-<tag lemma="kdo" src="auto" recommended="1">PKM-1----------</tag>
+<tag lemma="kdo" src="auto" recommended="1">PQ--1----------</tag>
 </m>
 <m id="m-wsj1560-001-p1s13W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3670,7 +3670,7 @@
 <tag>
 <AM lemma="kolika" src="auto">NNFP2-----A----</AM>
 <AM lemma="kolik" src="auto">C?--1----------</AM>
-<AM lemma="kolik" src="auto" recommended="1">C?--4----------</AM>
+<AM lemma="kolik" src="auto" recommended="1">Ca--4----------</AM>
 </tag>
 </m>
 <m id="m-wsj1560-001-p1s13W6-Ta">
@@ -3881,7 +3881,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj1560-001-p1s15W4-Ta">
@@ -4120,7 +4120,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -4718,7 +4718,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj1560-001-p1s20W4-Ta">

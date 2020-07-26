@@ -75,7 +75,7 @@
 <LM>w#w-ln95045-007-p1s1w8</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXP2FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP2FS3-------</tag>
 </m>
 <m id="m-ln95045-007-p1s1w9">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-ln95045-007-p1s2w3</LM>
 </w.rf>
 <form>vydělat</form>
-<tag lemma="vydělat-1_:W_^(peníze)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95045-007-p1s2w4">
 <src.rf>manual</src.rf>

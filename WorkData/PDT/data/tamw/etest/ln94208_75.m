@@ -37,7 +37,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-75-p1s1w4">
@@ -84,7 +84,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-75-p2s1Bw2">
@@ -241,7 +241,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-75-p2s2w9">
@@ -383,7 +383,7 @@
 <LM>w#w-ln94208-75-p2s3w14</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="on-1_^(oni/ono)" src="orig" selected="1">PPXP4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP4--3-------</tag>
 </m>
 <m id="m-ln94208-75-p2s3w15">
 <src.rf>manual</src.rf>
@@ -441,7 +441,7 @@
 <LM>w#w-ln94208-75-p2s4w5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94208-75-p2s4w6">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-ln94208-75-p2s4w6</LM>
 </w.rf>
 <form>mu</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
 </m>
 <m id="m-ln94208-75-p2s4w7">
 <src.rf>manual</src.rf>

@@ -91,7 +91,7 @@
 <LM>w#w-ln94201-122-p1s1w10</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94201-122-p1s1w11">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <form>stane</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94201-122-p1s1w12">
@@ -110,7 +110,7 @@
 <LM>w#w-ln94201-122-p1s1w12</LM>
 </w.rf>
 <form>jedním</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS7----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS7----------</tag>
 </m>
 <m id="m-ln94201-122-p1s1w13">
 <src.rf>manual</src.rf>

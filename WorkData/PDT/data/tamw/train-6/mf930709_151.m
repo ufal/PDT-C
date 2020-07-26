@@ -59,7 +59,7 @@
 <LM>w#w-mf930709-151-p1s1w6</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 </s>
 <s id="m-mf930709-151-p2s1A">
@@ -183,7 +183,7 @@
 <LM>w#w-mf930709-151-p2s1Bw13</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf930709-151-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-mf930709-151-p2s2w10</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="virus_,x" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="virus" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930709-151-p2s2w11">
 <src.rf>manual</src.rf>
@@ -281,7 +281,7 @@
 <LM>w#w-mf930709-151-p2s2w11</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="HIV_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf930709-151-p2s2w12">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-mf930709-151-p2s2w14</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf930709-151-p2s2w15">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-mf930709-151-p2s4w10</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9XP2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP2----------</tag>
 </m>
 <m id="m-mf930709-151-p2s4w11">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-mf930709-151-p2s4w14</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="HIV_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf930709-151-p2s4w15">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-mf930709-151-p2s4w15</LM>
 </w.rf>
 <form>postižen</form>
-<tag lemma="postihnout" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="postihnout" src="orig" selected="1">VsYS----X-AP---</tag>
 </m>
 <m id="m-mf930709-151-p2s4w16">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-mf930709-151-p2s5w19</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="HIV_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf930709-151-p2s5w20">
 <src.rf>manual</src.rf>

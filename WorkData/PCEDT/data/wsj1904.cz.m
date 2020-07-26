@@ -396,7 +396,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
-<AM lemma="Co-77_:B" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">B%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1904-001-p1s0W29-Ta">
@@ -1530,7 +1530,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1822,7 +1822,7 @@
 <LM>w#w-wsj1904-001-p1s3W34</LM>
 </w.rf>
 <form>čímž</form>
-<tag lemma="což-1" src="auto" recommended="1">PE--7----------</tag>
+<tag lemma="což-1" src="auto" recommended="1">PQ--7----------</tag>
 </m>
 <m id="m-wsj1904-001-p1s3W35-Ta">
 <src.rf>tagger-a</src.rf>

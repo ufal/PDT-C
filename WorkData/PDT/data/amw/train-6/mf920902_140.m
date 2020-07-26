@@ -62,7 +62,7 @@
 <LM>w#w-mf920902-140-p1s1Aw6</LM>
 </w.rf>
 <form>vydělají</form>
-<tag lemma="vydělat-1_:W_^(peníze)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 </s>
 <s id="m-mf920902-140-p1s1B">
@@ -96,7 +96,7 @@
 <LM>w#w-mf920902-140-p1s1Bw4</LM>
 </w.rf>
 <form>DVĚ</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP4----------</tag>
 </m>
 <m id="m-mf920902-140-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -104,7 +104,7 @@
 <LM>w#w-mf920902-140-p1s1Bw5</LM>
 </w.rf>
 <form>TŘETINY</form>
-<tag lemma="třetina" src="orig" selected="1">CyFP4----------</tag>
+<tag lemma="třetina" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf920902-140-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-mf920902-140-p2s2w9</LM>
 </w.rf>
 <form>vydělá</form>
-<tag lemma="vydělat-1_:W_^(peníze)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920902-140-p2s2w10">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-mf920902-140-p2s4w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920902-140-p2s4w4">
 <src.rf>manual</src.rf>

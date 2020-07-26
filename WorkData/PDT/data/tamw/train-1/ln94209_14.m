@@ -62,7 +62,7 @@
 <LM>w#w-ln94209-14-p1s1w6</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94209-14-p1s1w7">
 <src.rf>manual</src.rf>
@@ -96,7 +96,7 @@
 <LM>w#w-ln94209-14-p2s1Aw3</LM>
 </w.rf>
 <form>gag</form>
-<tag lemma="gag-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="gag-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-ln94209-14-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -114,7 +114,7 @@
 <form>čtk</form>
 <tag>
 <AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p2s1Aw6">
@@ -322,7 +322,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p2s1Bw24">
@@ -453,7 +453,7 @@
 <LM>w#w-ln94209-14-p2s2w15</LM>
 </w.rf>
 <form>deseti</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="deset`10" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln94209-14-p2s2w16">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-ln94209-14-p2s2w24</LM>
 </w.rf>
 <form>třicet</form>
-<tag lemma="třicet`30" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="třicet`30" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94209-14-p2s2w25">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-ln94209-14-p2s3w23</LM>
 </w.rf>
 <form>nim</form>
-<tag lemma="on-1" src="orig" selected="1">P5XP3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP3--3------1</tag>
 </m>
 <m id="m-ln94209-14-p2s3w24">
 <src.rf>manual</src.rf>
@@ -949,7 +949,7 @@
 <LM>w#w-ln94209-14-p2s4w6</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94209-14-p2s4w7">
 <src.rf>manual</src.rf>

@@ -111,7 +111,7 @@
 <form>ge</form>
 <tag>
 <AM lemma="ge-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ge-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ge-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-076-p1s2w4">
@@ -301,7 +301,7 @@
 <LM>w#w-lnd94105-076-p1s3w21</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd94105-076-p1s3w22">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-lnd94105-076-p1s6w19</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd94105-076-p1s6w20">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-lnd94105-076-p1s7w13</LM>
 </w.rf>
 <form>třech</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-lnd94105-076-p1s7w14">
 <src.rf>manual</src.rf>
@@ -1172,7 +1172,7 @@
 <LM>w#w-lnd94105-076-p1s9w9</LM>
 </w.rf>
 <form>padesáti</form>
-<tag lemma="padesát`50" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="padesát`50" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-lnd94105-076-p1s9w10">
 <src.rf>manual</src.rf>
@@ -1405,7 +1405,7 @@
 <LM>w#w-lnd94105-076-p1s9w33</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd94105-076-p1s9w34">
 <src.rf>manual</src.rf>
@@ -1529,7 +1529,7 @@
 <LM>w#w-lnd94105-076-p1s10w7</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd94105-076-p1s10w8">
 <src.rf>manual</src.rf>
@@ -1945,7 +1945,7 @@
 <LM>w#w-lnd94105-076-p1s14w6</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-lnd94105-076-p1s14w7">
 <src.rf>manual</src.rf>

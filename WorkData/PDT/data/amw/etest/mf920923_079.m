@@ -54,7 +54,7 @@
 </w.rf>
 <form>vin</form>
 <tag>
-<AM lemma="vin-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="vin-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="vina" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -170,7 +170,7 @@
 <LM>w#w-mf920923-079-p1s1Cw12</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920923-079-p1s1Cw13">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <form>doc</form>
 <tag>
 <AM lemma="docent_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="doc_:B_^(docent)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="doc_^(docent)" src="manual" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920923-079-p1s1Cw44">
@@ -440,7 +440,7 @@
 <form>MUDr</form>
 <tag>
 <AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920923-079-p1s1Cw46">
@@ -491,7 +491,7 @@
 <LM>w#w-mf920923-079-p1s2w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920923-079-p1s2w3">
 <src.rf>manual</src.rf>

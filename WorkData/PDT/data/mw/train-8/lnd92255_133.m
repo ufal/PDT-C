@@ -233,7 +233,7 @@
 <LM>w#w-lnd92255-133-p2s3w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-133-p2s3w5">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-lnd92255-133-p2s3w12</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-133-p2s3w13">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-3_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-133-p2s4w13">
@@ -798,7 +798,7 @@
 <LM>w#w-lnd92255-133-p2s5w15</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-133-p2s5w16">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 <LM>w#w-lnd92255-133-p2s6w4</LM>
 </w.rf>
 <form>sebe</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P6-X2----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P6--2----------</tag>
 </m>
 <m id="m-lnd92255-133-p2s6w5">
 <src.rf>manual</src.rf>
@@ -912,7 +912,7 @@
 <LM>w#w-lnd92255-133-p2s6w7</LM>
 </w.rf>
 <form>sedmi</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="sedm`7" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-lnd92255-133-p2s6w8">
 <src.rf>manual</src.rf>
@@ -928,7 +928,7 @@
 <LM>w#w-lnd92255-133-p2s6w9</LM>
 </w.rf>
 <form>osmi</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="osm`8" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-lnd92255-133-p2s6w10">
 <src.rf>manual</src.rf>

@@ -119,7 +119,7 @@
 <LM>w#w-ln95041-105-p2s1Bw7</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95041-105-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln95041-105-p2s1Bw13</LM>
 </w.rf>
 <form>oběma</form>
-<tag lemma="oba`2" src="orig" selected="1">ClXP3----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnXP3----------</tag>
 </m>
 <m id="m-ln95041-105-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-ln95041-105-p2s5w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95041-105-p2s5w4">
 <src.rf>manual</src.rf>
@@ -866,7 +866,7 @@
 <LM>w#w-ln95041-105-p2s6w16</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-ln95041-105-p2s6w17">
 <src.rf>manual</src.rf>
@@ -1064,7 +1064,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-105-p2s8w8">
@@ -1091,7 +1091,7 @@
 <LM>w#w-ln95041-105-p2s9w2</LM>
 </w.rf>
 <form>něj</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS2--3-------</tag>
 </m>
 <m id="m-ln95041-105-p2s9w3">
 <src.rf>manual</src.rf>

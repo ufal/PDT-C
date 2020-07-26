@@ -85,7 +85,7 @@
 <LM>w#w-lnd91301-045-p2s1w7</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd91301-045-p2s1w8">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-lnd91301-045-p2s3w2</LM>
 </w.rf>
 <form>šesti</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-lnd91301-045-p2s3w3">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-lnd91301-045-p2s3w9</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd91301-045-p2s3w10">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <AM lemma="JD-1_:B_^(juliánský_den)" src="auto">NNIXX-----A----</AM>
 <AM lemma="JD-2_:B_^(juliánské_datum)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="JD-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="JD-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JD-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-045-p3s1w3">

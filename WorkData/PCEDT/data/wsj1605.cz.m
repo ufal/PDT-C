@@ -422,7 +422,7 @@
 <LM>w#w-wsj1605-001-p1s2W2</LM>
 </w.rf>
 <form>nimi</form>
-<tag lemma="on-1" src="auto" recommended="1">P5XP7--3-------</tag>
+<tag lemma="on-1" src="auto" recommended="1">PEXP7--3------1</tag>
 </m>
 <m id="m-wsj1605-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

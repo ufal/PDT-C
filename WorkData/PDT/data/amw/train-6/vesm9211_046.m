@@ -308,7 +308,7 @@
 <LM>w#w-vesm9211-046-p2s3w6</LM>
 </w.rf>
 <form>jim</form>
-<tag lemma="on-1" src="orig" selected="1">PPXP3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP3--3-------</tag>
 </m>
 <m id="m-vesm9211-046-p2s3w7">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-vesm9211-046-p2s3w26</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-046-p2s3w27">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-vesm9211-046-p3s1w9</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-vesm9211-046-p3s1w10">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-vesm9211-046-p3s2w3</LM>
 </w.rf>
 <form>postiženo</form>
-<tag lemma="postihnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="postihnout" src="orig" selected="1">VsNS----X-AP---</tag>
 </m>
 <m id="m-vesm9211-046-p3s2w4">
 <src.rf>manual</src.rf>
@@ -784,7 +784,7 @@
 <LM>w#w-vesm9211-046-p3s2w13</LM>
 </w.rf>
 <form>blefarospasmus</form>
-<tag lemma="blefarospasmus_;U_,x" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="blefarospasmus_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9211-046-p3s2w14">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 <LM>w#w-vesm9211-046-p3s2w25</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-vesm9211-046-p3s2w26">
 <src.rf>manual</src.rf>
@@ -1164,7 +1164,7 @@
 <LM>w#w-vesm9211-046-p3s4w5</LM>
 </w.rf>
 <form>myorelaxantií</form>
-<tag lemma="myorelaxantium_;U_,t" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="myorelaxantium_;U" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9211-046-p3s4w6">
 <src.rf>manual</src.rf>

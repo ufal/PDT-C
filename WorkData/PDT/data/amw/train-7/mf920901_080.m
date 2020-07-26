@@ -297,7 +297,7 @@
 <LM>w#w-mf920901-080-p2s3w12</LM>
 </w.rf>
 <form>nich</form>
-<tag lemma="on-1" src="orig" selected="1">P5XP2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP2--3-------</tag>
 </m>
 <m id="m-mf920901-080-p2s3w13">
 <src.rf>manual</src.rf>

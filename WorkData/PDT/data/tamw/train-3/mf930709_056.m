@@ -126,7 +126,7 @@
 <LM>w#w-mf930709-056-p1s1w13</LM>
 </w.rf>
 <form>sedmi</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="sedm`7" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf930709-056-p1s1w14">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-mf930709-056-p1s1w21</LM>
 </w.rf>
 <form>šesti</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-P6----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-mf930709-056-p1s1w22">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-mf930709-056-p1s2w2</LM>
 </w.rf>
 <form>ho</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS4--3-------</tag>
 </m>
 <m id="m-mf930709-056-p1s2w3">
 <src.rf>manual</src.rf>

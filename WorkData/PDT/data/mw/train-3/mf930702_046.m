@@ -504,7 +504,7 @@
 <LM>w#w-mf930702-046-p2s2w8</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930702-046-p2s2w9">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-mf930702-046-p2s2w9</LM>
 </w.rf>
 <form>umějí</form>
-<tag lemma="umět_:T_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-046-p2s2w10">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <form>spa</form>
 <tag>
 <AM lemma="spa-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="spa-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="spa-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-046-p3s1w3">
@@ -919,7 +919,7 @@
 <LM>w#w-mf930702-046-p4s2w11</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-mf930702-046-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1116,7 +1116,7 @@
 <form>ČT</form>
 <tag>
 <AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_;m_^(Česká_televize)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-046-p4s3w5">
@@ -1177,7 +1177,7 @@
 <form>zat</form>
 <tag>
 <AM lemma="zat-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="zat-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="zat-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-046-p5s1w3">

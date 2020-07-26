@@ -83,7 +83,7 @@
 <AM lemma="kov-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kov" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kov" src="auto">NNIS4-----A----</AM>
-<AM lemma="kov-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kov-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-048-p3s1w4">
@@ -126,7 +126,7 @@
 <LM>w#w-lnd92251-048-p3s2w3</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-lnd92251-048-p3s2w4">
 <src.rf>manual</src.rf>
@@ -200,7 +200,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">BAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-048-p3s2w13">
@@ -219,7 +219,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost_:B" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="společnost" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-048-p3s2w15">
@@ -480,7 +480,7 @@
 <LM>w#w-lnd92251-048-p3s4w20</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 <m id="m-lnd92251-048-p3s4w21">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-048-p3s4w22">
@@ -653,7 +653,7 @@
 <LM>w#w-lnd92251-048-p3s5w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92251-048-p3s5w3">
 <src.rf>manual</src.rf>
@@ -863,7 +863,7 @@
 <LM>w#w-lnd92251-048-p3s6w9</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-lnd92251-048-p3s6w10">
 <src.rf>manual</src.rf>

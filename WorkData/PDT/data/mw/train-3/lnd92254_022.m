@@ -53,7 +53,7 @@
 <LM>w#w-lnd92254-022-p2s1w2</LM>
 </w.rf>
 <form>přítelkyně</form>
-<tag lemma="přítelkyně_^(^FY*4)" src="auto" selected="1">NNFP1-----A----</tag>
+<tag lemma="přítelkyně" src="auto" selected="1">NNFP1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92254-022-p3s1">
@@ -260,7 +260,7 @@
 <LM>w#w-lnd92254-022-p3s3w2</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-lnd92254-022-p3s3w3">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-lnd92254-022-p3s3w11</LM>
 </w.rf>
 <form>osmi</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="osm`8" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-lnd92254-022-p3s3w12">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-lnd92254-022-p3s5w4</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-lnd92254-022-p3s5w5">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-lnd92254-022-p3s6w3</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXP1FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-lnd92254-022-p3s6w4">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-lnd92254-022-p3s6w4</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-lnd92254-022-p3s6w5">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-lnd92254-022-p3s6w5</LM>
 </w.rf>
 <form>přítelkyně</form>
-<tag lemma="přítelkyně_^(^FY*4)" src="auto" selected="1">NNFP1-----A----</tag>
+<tag lemma="přítelkyně" src="auto" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92254-022-p3s6w6">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-lnd92254-022-p3s6w6</LM>
 </w.rf>
 <form>mu</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
 </m>
 <m id="m-lnd92254-022-p3s6w7">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-lnd92254-022-p3s6w22</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-lnd92254-022-p3s6w23">
 <src.rf>manual</src.rf>

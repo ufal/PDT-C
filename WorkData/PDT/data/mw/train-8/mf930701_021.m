@@ -247,7 +247,7 @@
 <LM>w#w-mf930701-021-p2s2w6</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIXX----------</tag>
 </m>
 <m id="m-mf930701-021-p2s2w7">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milion)" src="manual">NNIS2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIS2----------</AM>
 </tag>
 </m>
 <m id="m-mf930701-021-p2s2w19">
@@ -386,7 +386,7 @@
 <form>milionu</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIS2----------</AM>
 </tag>
 </m>
 <m id="m-mf930701-021-p2s2w23">

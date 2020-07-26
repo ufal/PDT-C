@@ -410,7 +410,7 @@
 </w.rf>
 <form>miliard</form>
 <tag>
-<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">CzFP2----------</AM></tag>
 <form_change>spell</form_change></m>
 <m id="m-wsj0164-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-wsj0164-001-p1s0W34</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="miliarda`1000000000" src="auto" recommended="1">CzFP2----------</tag>
 </m>
 <m id="m-wsj0164-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -802,7 +802,7 @@
 </w.rf>
 <form>miliard</form>
 <tag>
-<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">CzFP2----------</AM></tag>
 <form_change>spell</form_change></m>
 <m id="m-wsj0164-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -900,7 +900,7 @@
 <LM>w#w-wsj0164-001-p1s2W20</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="miliarda`1000000000" src="auto" recommended="1">CzFP2----------</tag>
 </m>
 <m id="m-wsj0164-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1016,7 +1016,7 @@
 <AM lemma="bilión" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS3-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS6-----A----</AM>
-<AM lemma="bilion_,s_^(^DD**bilión)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="bilion`1000000000000_,s_^(^DD**bilión)" src="manual" selected="1">CzIS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0164-001-p1s3W6-Ta">
@@ -1184,7 +1184,7 @@
 <AM lemma="bilión" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS3-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS6-----A----</AM>
-<AM lemma="bilion_,s_^(^DD**bilión)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="bilion`1000000000000_,s_^(^DD**bilión)" src="manual" selected="1">CzIS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0164-001-p1s3W21-Ta">
@@ -1319,7 +1319,7 @@
 </w.rf>
 <form>sedmi</form>
 <tag>
-<AM lemma="sedm`7" src="auto" recommended="1">Cn-P2----------</AM>
+<AM lemma="sedm`7" src="auto" recommended="1">Cl-P2----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-P3----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-P6----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-P7----------</AM>
@@ -1593,7 +1593,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>

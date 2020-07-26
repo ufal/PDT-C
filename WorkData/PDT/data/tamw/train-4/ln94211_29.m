@@ -87,7 +87,7 @@
 <form>il</form>
 <tag>
 <AM lemma="il-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="il-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="il-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p2s1Aw4">
@@ -157,7 +157,7 @@
 <LM>w#w-ln94211-29-p2s1Bw6</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94211-29-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-ln94211-29-p2s2w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94211-29-p2s2w4">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-ln94211-29-p3s1w26</LM>
 </w.rf>
 <form>rafinersko</form>
-<tag lemma="rafinerský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="rafinerský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94211-29-p3s1w27">
 <src.rf>manual</src.rf>
@@ -931,7 +931,7 @@
 <LM>w#w-ln94211-29-p3s3w2</LM>
 </w.rf>
 <form>něj</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS2--3-------</tag>
 </m>
 <m id="m-ln94211-29-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1017,7 +1017,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p3s3w13">
@@ -1050,7 +1050,7 @@
 <LM>w#w-ln94211-29-p3s3w16</LM>
 </w.rf>
 <form>miliardy</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="miliarda`1000000000" src="orig" selected="1">CzFS2----------</tag>
 </m>
 <m id="m-ln94211-29-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1340,7 +1340,7 @@
 <LM>w#w-ln94211-29-p3s5w13</LM>
 </w.rf>
 <form>někým</form>
-<tag lemma="někdo" src="orig" selected="1">PZM-7----------</tag>
+<tag lemma="někdo" src="orig" selected="1">PK--7----------</tag>
 </m>
 <m id="m-ln94211-29-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1356,7 +1356,7 @@
 <LM>w#w-ln94211-29-p3s5w15</LM>
 </w.rf>
 <form>kdo</form>
-<tag lemma="kdo" src="orig" selected="1">PKM-1----------</tag>
+<tag lemma="kdo" src="orig" selected="1">PQ--1----------</tag>
 </m>
 <m id="m-ln94211-29-p3s5w16">
 <src.rf>manual</src.rf>
@@ -1567,7 +1567,7 @@
 <LM>w#w-ln94211-29-p3s7w1</LM>
 </w.rf>
 <form>Můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln94211-29-p3s7w2">
 <src.rf>manual</src.rf>
@@ -1577,7 +1577,7 @@
 <form>říci</form>
 <tag>
 <AM lemma="říci" src="auto">Vf--------A---1</AM>
-<AM lemma="říci_:W" src="manual" selected="1">Vf--------A---1</AM>
+<AM lemma="říci" src="manual" selected="1">Vf--------A-P-1</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p3s7w3">
@@ -1866,7 +1866,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p3s8w24">

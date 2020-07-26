@@ -1064,7 +1064,7 @@
 <form>kolika</form>
 <tag>
 <AM lemma="kolika" src="auto">NNFS1-----A----</AM>
-<AM lemma="kolik" src="auto" recommended="1">C?--2----------</AM>
+<AM lemma="kolik" src="auto" recommended="1">Ca--2----------</AM>
 <AM lemma="kolik" src="auto">C?--3----------</AM>
 <AM lemma="kolik" src="auto">C?--6----------</AM>
 <AM lemma="kolik" src="auto">C?--7----------</AM>

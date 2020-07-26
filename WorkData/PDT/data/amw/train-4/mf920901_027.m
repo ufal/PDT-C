@@ -167,7 +167,7 @@
 <LM>w#w-mf920901-027-p2s1Bw7</LM>
 </w.rf>
 <form>vydává</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vydávat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-027-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-mf920901-027-p2s1Bw10</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---b</tag>
 </m>
 <m id="m-mf920901-027-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-mf920901-027-p4s1w11</LM>
 </w.rf>
 <form>jedním</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS7----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS7----------</tag>
 </m>
 <m id="m-mf920901-027-p4s1w12">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-mf920901-027-p4s3w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXP4FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP4FS3-------</tag>
 </m>
 <m id="m-mf920901-027-p4s3w10">
 <src.rf>manual</src.rf>

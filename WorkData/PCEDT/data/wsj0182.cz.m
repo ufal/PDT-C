@@ -795,7 +795,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1333,7 +1333,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1604,7 +1604,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj0182-001-p1s4W32-Ta">
@@ -1769,7 +1769,7 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-wsj0182-001-p1s5W10-Ta">
@@ -1795,7 +1795,7 @@
 <AM lemma="dm-10_:B_;m_,t_^(dm_av=dram_avoirdupois=doušek-jed.hmotn.)" src="auto">NNIXX-----A----</AM>
 <AM lemma="dm-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="DM-9_:B_^(Deutsche_Mark)" src="manual">NNFXX-----A----</AM>
-<AM lemma="DM-9_:B_^(Deutsche_Mark)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DM-9_^(Deutsche_Mark)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0182-001-p1s5W12-Ta">
@@ -1826,7 +1826,7 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-wsj0182-001-p1s5W15-Ta">
@@ -1843,7 +1843,7 @@
 <LM>w#w-wsj0182-001-p1s5W16</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_^(U.S._dolar)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="USD_^(U.S._dolar)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0182-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1957,7 +1957,7 @@
 <form>mld</form>
 <tag>
 <AM lemma="miliarda`1000000000_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---b</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFXX---------b</AM>
 </tag>
 </m>
 <m id="m-wsj0182-001-p1s5W27-Ta">
@@ -1982,7 +1982,7 @@
 <AM lemma="dm-2_:B_^(decimetr)" src="auto">NNIXX-----A----</AM>
 <AM lemma="dm-10_:B_;m_,t_^(dm_av=dram_avoirdupois=doušek-jed.hmotn.)" src="auto">NNIXX-----A----</AM>
 <AM lemma="dm-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="DM-9_:B_^(Deutsche_Mark)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DM-9_^(Deutsche_Mark)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0182-001-p1s5W29-Ta">

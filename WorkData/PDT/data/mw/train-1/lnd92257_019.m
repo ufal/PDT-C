@@ -249,7 +249,7 @@
 <LM>w#w-lnd92257-019-p3s2w22</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSZS1FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-lnd92257-019-p3s2w23">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-lnd92257-019-p3s3w6</LM>
 </w.rf>
 <form>něho</form>
-<tag lemma="on-1" src="auto" selected="1">P5ZS4--3------1</tag>
+<tag lemma="on-1" src="auto" selected="1">PEZS4--3------1</tag>
 </m>
 <m id="m-lnd92257-019-p3s3w7">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-lnd92257-019-p3s3w9</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-lnd92257-019-p3s3w10">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-019-p3s3w23">

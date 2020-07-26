@@ -61,7 +61,7 @@
 <LM>w#w-ln95040-101-p2s1w5</LM>
 </w.rf>
 <form>přepadl</form>
-<tag lemma="přepadnout" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přepadnout" src="auto" selected="1">VpYS----R-AA---</tag>
 </m>
 <m id="m-ln95040-101-p2s1w6">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-ln95040-101-p2s2w10</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95040-101-p2s2w11">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln95040-101-p2s2w12</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-ln95040-101-p2s2w13">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-ln95040-101-p2s2w19</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-ln95040-101-p2s2w20">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-ln95040-101-p2s4w2</LM>
 </w.rf>
 <form>jí</form>
-<tag lemma="on-1_^(ona)" src="orig" selected="1">PPFS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS3--3------1</tag>
 </m>
 <m id="m-ln95040-101-p2s4w3">
 <src.rf>manual</src.rf>

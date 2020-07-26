@@ -82,7 +82,7 @@
 <AM lemma="li-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="li-2" src="auto">J,-------------</AM>
 <AM lemma="li-99_:B_;Y" src="manual">J,-------------</AM>
-<AM lemma="li-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="li-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-022-p2s1Aw4">
@@ -359,7 +359,7 @@
 <LM>w#w-mf930709-022-p2s2w12</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9XP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
 </m>
 <m id="m-mf930709-022-p2s2w13">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-mf930709-022-p2s2w16</LM>
 </w.rf>
 <form>obsaženy</form>
-<tag lemma="obsáhnout" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="obsáhnout" src="orig" selected="1">VsTP----X-AP---</tag>
 </m>
 <m id="m-mf930709-022-p2s2w17">
 <src.rf>manual</src.rf>
@@ -1289,7 +1289,7 @@
 <LM>w#w-mf930709-022-p4s5w12</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIXX----------</tag>
 </m>
 <m id="m-mf930709-022-p4s5w13">
 <src.rf>manual</src.rf>
@@ -1337,7 +1337,7 @@
 <LM>w#w-mf930709-022-p4s5w18</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP2----------</tag>
 </m>
 <m id="m-mf930709-022-p4s5w19">
 <src.rf>manual</src.rf>
@@ -1361,7 +1361,7 @@
 <LM>w#w-mf930709-022-p4s5w21</LM>
 </w.rf>
 <form>miliardy</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="miliarda`1000000000" src="orig" selected="1">CzFS2----------</tag>
 </m>
 <m id="m-mf930709-022-p4s5w22">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-022-p5s2w5">
@@ -1496,7 +1496,7 @@
 <LM>w#w-mf930709-022-p5s2w5</LM>
 </w.rf>
 <form>vázána</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-mf930709-022-p5s2w6">
 <src.rf>manual</src.rf>

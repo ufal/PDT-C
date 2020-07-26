@@ -489,7 +489,7 @@
 <LM>w#w-mf920923-080-p2s2w16</LM>
 </w.rf>
 <form>třemi</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP7----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-mf920923-080-p2s2w17">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-mf920923-080-p2s2w17</LM>
 </w.rf>
 <form>tisíci</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIP7----------</tag>
 </m>
 <m id="m-mf920923-080-p2s2w18">
 <src.rf>manual</src.rf>
@@ -669,7 +669,7 @@
 <LM>w#w-mf920923-080-p2s4w2</LM>
 </w.rf>
 <form>něj</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS2--3-------</tag>
 </m>
 <m id="m-mf920923-080-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 <LM>w#w-mf920923-080-p2s5w17</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9FS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS6----------</tag>
 </m>
 <m id="m-mf920923-080-p2s5w18">
 <src.rf>manual</src.rf>
@@ -1114,7 +1114,7 @@
 <LM>w#w-mf920923-080-p2s6w1</LM>
 </w.rf>
 <form>Nic</form>
-<tag lemma="nic" src="orig" selected="1">PW--1----------</tag>
+<tag lemma="nic" src="orig" selected="1">PY--1----------</tag>
 </m>
 <m id="m-mf920923-080-p2s6w2">
 <src.rf>manual</src.rf>

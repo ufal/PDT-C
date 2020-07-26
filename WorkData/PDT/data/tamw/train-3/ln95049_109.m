@@ -105,7 +105,7 @@
 <AM lemma="lab-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="laboratorní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="laboratoř_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="lab-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lab-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-109-p2s1Aw4">
@@ -427,7 +427,7 @@
 <LM>w#w-ln95049-109-p2s3w13</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95049-109-p2s3w14">
 <src.rf>manual</src.rf>

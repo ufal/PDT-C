@@ -267,7 +267,7 @@
 <LM>w#w-wsj0511-001-p1s1W5</LM>
 </w.rf>
 <form>třemi</form>
-<tag lemma="tři`3" src="auto" recommended="1">ClXP7----------</tag>
+<tag lemma="tři`3" src="auto" recommended="1">Cl-P7----------</tag>
 </m>
 <m id="m-wsj0511-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -323,7 +323,7 @@
 <tag>
 <AM lemma="pět-2_^(zpívat)" src="auto">Vf--------A-I--</AM>
 <AM lemma="pět-1`5" src="auto">Cn-S1----------</AM>
-<AM lemma="pět-1`5" src="auto" recommended="1">Cn-S4----------</AM>
+<AM lemma="pět-1`5" src="auto" recommended="1">Cl-S4----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-S5----------</AM>
 </tag>
 </m>
@@ -839,7 +839,7 @@
 <LM>w#w-wsj0511-001-p1s3W21</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="auto" recommended="1">ClXP2----------</tag>
+<tag lemma="tři`3" src="auto" recommended="1">Cl-P2----------</tag>
 </m>
 <m id="m-wsj0511-001-p1s3W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -886,7 +886,7 @@
 <form>třicet</form>
 <tag>
 <AM lemma="třicet`30" src="auto">Cn-S1----------</AM>
-<AM lemma="třicet`30" src="auto" recommended="1">Cn-S4----------</AM>
+<AM lemma="třicet`30" src="auto" recommended="1">Cl-S4----------</AM>
 <AM lemma="třicet`30" src="auto">Cn-S5----------</AM>
 </tag>
 </m>

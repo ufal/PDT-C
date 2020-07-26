@@ -83,7 +83,7 @@
 <LM>w#w-cmpr9417-030-p2s1w9</LM>
 </w.rf>
 <form>ně</form>
-<tag lemma="on-1" src="orig" selected="1">P5XP4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP4--3------1</tag>
 </m>
 <m id="m-cmpr9417-030-p2s1w10">
 <src.rf>manual</src.rf>
@@ -315,7 +315,7 @@
 <LM>w#w-cmpr9417-030-p2s3w7</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-cmpr9417-030-p2s3w8">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-cmpr9417-030-p3s1w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-cmpr9417-030-p3s1w4">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-cmpr9417-030-p3s1w7</LM>
 </w.rf>
 <form>kolik</form>
-<tag lemma="kolik" src="orig" selected="1">C?--4----------</tag>
+<tag lemma="kolik" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-cmpr9417-030-p3s1w8">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-cmpr9417-030-p3s4w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="on-1_^(oni/ono)" src="orig" selected="1">PPXP4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP4--3-------</tag>
 </m>
 <m id="m-cmpr9417-030-p3s4w3">
 <src.rf>manual</src.rf>
@@ -991,7 +991,7 @@
 <LM>w#w-cmpr9417-030-p4s1w2</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-cmpr9417-030-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1103,7 +1103,7 @@
 <LM>w#w-cmpr9417-030-p4s2w9</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9417-030-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1605,7 +1605,7 @@
 <LM>w#w-cmpr9417-030-p6s3w15</LM>
 </w.rf>
 <form>nich</form>
-<tag lemma="on-1" src="orig" selected="1">P5XP6--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP6--3-------</tag>
 </m>
 <m id="m-cmpr9417-030-p6s3w16">
 <src.rf>manual</src.rf>
@@ -1613,7 +1613,7 @@
 <LM>w#w-cmpr9417-030-p6s3w16</LM>
 </w.rf>
 <form>nic</form>
-<tag lemma="nic" src="orig" selected="1">PW--4----------</tag>
+<tag lemma="nic" src="orig" selected="1">PY--4----------</tag>
 </m>
 <m id="m-cmpr9417-030-p6s3w17">
 <src.rf>manual</src.rf>
@@ -1671,7 +1671,7 @@
 <LM>w#w-cmpr9417-030-p6s4w5</LM>
 </w.rf>
 <form>kolik</form>
-<tag lemma="kolik" src="orig" selected="1">C?--4----------</tag>
+<tag lemma="kolik" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-cmpr9417-030-p6s4w6">
 <src.rf>manual</src.rf>

@@ -250,7 +250,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -937,7 +937,7 @@
 </w.rf>
 <form>obou</form>
 <tag>
-<AM lemma="oba`2" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="oba`2" src="auto" recommended="1">CnXP2----------</AM>
 <AM lemma="oba`2" src="auto">ClXP6----------</AM>
 </tag>
 </m>
@@ -1117,7 +1117,7 @@
 </w.rf>
 <form>dva</form>
 <tag>
-<AM lemma="dva`2" src="auto" recommended="1">ClYP1----------</AM>
+<AM lemma="dva`2" src="auto" recommended="1">CnYP1----------</AM>
 <AM lemma="dva`2" src="auto">ClYP4----------</AM>
 <AM lemma="dva`2" src="auto">ClYP5----------</AM>
 </tag>
@@ -1172,7 +1172,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj1678-001-p1s3W19-Ta">
@@ -1184,7 +1184,7 @@
 <tag>
 <AM lemma="být" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
-<AM lemma="on-1_^(oni/ono)" src="auto" recommended="1">PPXP4--3-------</AM>
+<AM lemma="on-1" src="auto" recommended="1">PEXP4--3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1678-001-p1s3W20-Ta">
@@ -1538,7 +1538,7 @@
 </w.rf>
 <form>obou</form>
 <tag>
-<AM lemma="oba`2" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="oba`2" src="auto" recommended="1">CnXP2----------</AM>
 <AM lemma="oba`2" src="auto">ClXP6----------</AM>
 </tag>
 </m>
@@ -2182,7 +2182,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -2616,7 +2616,7 @@
 <LM>w#w-wsj1678-001-p1s7W14</LM>
 </w.rf>
 <form>kdo</form>
-<tag lemma="kdo" src="auto" recommended="1">PKM-1----------</tag>
+<tag lemma="kdo" src="auto" recommended="1">PQ--1----------</tag>
 </m>
 <m id="m-wsj1678-001-p1s7W15-Ta">
 <src.rf>tagger-a</src.rf>

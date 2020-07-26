@@ -91,7 +91,7 @@
 <LM>w#w-mf920922-120-p1s1w10</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSZS6FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-mf920922-120-p1s1w11">
 <src.rf>manual</src.rf>

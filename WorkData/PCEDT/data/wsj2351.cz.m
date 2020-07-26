@@ -38,7 +38,7 @@
 <tag>
 <AM lemma="dva`2" src="auto">ClFD7----------</AM>
 <AM lemma="dva`2" src="auto">ClXP3----------</AM>
-<AM lemma="dva`2" src="auto" recommended="1">ClXP7----------</AM>
+<AM lemma="dva`2" src="auto" recommended="1">CnXP7----------</AM>
 </tag>
 </m>
 <m id="m-wsj2351-001-p1s0W4-Ta">
@@ -362,7 +362,7 @@
 <LM>w#w-wsj2351-001-p1s1W6</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -612,7 +612,7 @@
 <AM lemma="devět`9" src="auto">Cn-P2----------</AM>
 <AM lemma="devět`9" src="auto">Cn-P3----------</AM>
 <AM lemma="devět`9" src="auto">Cn-P6----------</AM>
-<AM lemma="devět`9" src="auto" recommended="1">Cn-P7----------</AM>
+<AM lemma="devět`9" src="auto" recommended="1">Cl-P7----------</AM>
 </tag>
 </m>
 <m id="m-wsj2351-001-p1s2W18-Ta">
@@ -968,7 +968,7 @@
 <AM lemma="kterýkoli" src="auto">PZFP1---------1</AM>
 <AM lemma="kterýkoli" src="auto">PZFP4---------1</AM>
 <AM lemma="kterýkoli" src="auto">PZFP5---------1</AM>
-<AM lemma="kterýkoli" src="auto" recommended="1">PZFS2---------1</AM>
+<AM lemma="kterýkoliv" src="auto" recommended="1">PZFS2----------</AM>
 <AM lemma="kterýkoli" src="auto">PZFS3---------1</AM>
 <AM lemma="kterýkoli" src="auto">PZFS6---------1</AM>
 <AM lemma="kterýkoli" src="auto">PZIP1---------1</AM>
@@ -993,7 +993,7 @@
 <LM>w#w-wsj2351-001-p1s3W14</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="auto" recommended="1">ClXP2----------</tag>
+<tag lemma="tři`3" src="auto" recommended="1">Cl-P2----------</tag>
 </m>
 <m id="m-wsj2351-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1374,7 +1374,7 @@
 <LM>w#w-wsj2351-001-p1s5W8</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1426,7 +1426,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1607,7 +1607,7 @@
 <LM>w#w-wsj2351-001-p1s7W2</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1616,7 +1616,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1858,7 +1858,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -2273,7 +2273,7 @@
 <LM>w#w-wsj2351-001-p1s8W23</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s8W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2559,7 +2559,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -2585,7 +2585,7 @@
 <LM>w#w-wsj2351-001-p1s10W4</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3169,7 +3169,7 @@
 <LM>w#w-wsj2351-001-p1s11W11</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s11W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4194,7 +4194,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj2351-001-p1s13W16-Ta">
@@ -4479,7 +4479,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -4532,7 +4532,7 @@
 <LM>w#w-wsj2351-001-p1s14W7</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s14W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4942,7 +4942,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -5265,7 +5265,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -5506,7 +5506,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -5763,7 +5763,7 @@
 <LM>w#w-wsj2351-001-p1s17W41</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s17W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6102,7 +6102,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -6262,7 +6262,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj2351-001-p1s20W10-Ta">
@@ -6327,7 +6327,7 @@
 <tag>
 <AM lemma="být" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
-<AM lemma="on-1_^(oni/ono)" src="auto" recommended="1">PPXP4--3-------</AM>
+<AM lemma="on-1" src="auto" recommended="1">PEXP4--3-------</AM>
 </tag>
 </m>
 <m id="m-wsj2351-001-p1s20W16-Ta">
@@ -6408,7 +6408,7 @@
 <LM>w#w-wsj2351-001-p1s20W23</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s20W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6564,7 +6564,7 @@
 <LM>w#w-wsj2351-001-p1s21W8</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s21W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6865,7 +6865,7 @@
 <LM>w#w-wsj2351-001-p1s22W12</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s22W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6946,7 +6946,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -6978,7 +6978,7 @@
 <LM>w#w-wsj2351-001-p1s22W21</LM>
 </w.rf>
 <form>nimi</form>
-<tag lemma="on-1" src="auto" recommended="1">P5XP7--3-------</tag>
+<tag lemma="on-1" src="auto" recommended="1">PEXP7--3------1</tag>
 </m>
 <m id="m-wsj2351-001-p1s22W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7190,7 +7190,7 @@
 <LM>w#w-wsj2351-001-p1s23W5</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s23W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7515,7 +7515,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -7527,7 +7527,7 @@
 </w.rf>
 <form>obě</form>
 <tag>
-<AM lemma="oba`2" src="auto" recommended="1" selected="1">ClHP1----------</AM>
+<AM lemma="oba`2" src="auto" recommended="1" selected="1">CnHP1----------</AM>
 <AM lemma="oba`2" src="auto">ClHP4----------</AM>
 <AM lemma="oba`2" src="auto">ClHP5----------</AM>
 </tag>
@@ -7920,7 +7920,7 @@
 <LM>w#w-wsj2351-001-p1s25W2</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s25W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7990,7 +7990,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXP1FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
@@ -8256,7 +8256,7 @@
 <LM>w#w-wsj2351-001-p1s26W22</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s26W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8398,7 +8398,7 @@
 <LM>w#w-wsj2351-001-p1s27W5</LM>
 </w.rf>
 <form>třetina</form>
-<tag lemma="třetina" src="auto" recommended="1">CyFS1----------</tag>
+<tag lemma="třetina" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s27W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8618,7 +8618,7 @@
 <LM>w#w-wsj2351-001-p1s28W7</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s28W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8642,7 +8642,7 @@
 <LM>w#w-wsj2351-001-p1s28W10</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="auto" recommended="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="auto" recommended="1">PEFS4--3-------</tag>
 </m>
 <m id="m-wsj2351-001-p1s28W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8952,7 +8952,7 @@
 <LM>w#w-wsj2351-001-p1s29W4</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s29W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8979,7 +8979,7 @@
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP3FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS6FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS7FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS7FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj2351-001-p1s29W8-Ta">
@@ -9171,7 +9171,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -9805,7 +9805,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -10297,7 +10297,7 @@
 <LM>w#w-wsj2351-001-p1s34W20</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s34W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10485,7 +10485,7 @@
 <LM>w#w-wsj2351-001-p1s35W11</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s35W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10780,7 +10780,7 @@
 </w.rf>
 <form>jejím</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXP3FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP3FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS6FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS7FS3-------</AM>
 </tag>
@@ -11153,7 +11153,7 @@
 </w.rf>
 <form>což</form>
 <tag>
-<AM lemma="což-1" src="auto" recommended="1">PE--1----------</AM>
+<AM lemma="což-1" src="auto" recommended="1">PQ--1----------</AM>
 <AM lemma="což-1" src="auto">PE--4----------</AM>
 <AM lemma="což-2_^(cožpak:_což_jsem_to_neříkal?)" src="auto">TT-------------</AM>
 <AM lemma="což-3_^(nu_což,_...;_což_o_to,_...)" src="auto">II-------------</AM>
@@ -11250,7 +11250,7 @@
 <LM>w#w-wsj2351-001-p1s36W32</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj2351-001-p1s36W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11602,7 +11602,7 @@
 <LM>w#w-wsj2351-001-p1s38W2</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s38W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11934,7 +11934,7 @@
 </w.rf>
 <form>půl</form>
 <tag>
-<AM lemma="půl-1" src="auto" recommended="1">ClXXX----------</AM>
+<AM lemma="půl-1" src="auto" recommended="1">Cl-XX----------</AM>
 <AM lemma="půle" src="auto">NNFS1-----A----</AM>
 <AM lemma="půle" src="auto">NNFS4-----A----</AM>
 </tag>
@@ -12031,7 +12031,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -12042,7 +12042,7 @@
 <LM>w#w-wsj2351-001-p1s39W24</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s39W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12180,7 +12180,7 @@
 <form>dva</form>
 <tag>
 <AM lemma="dva`2" src="auto" recommended="1">ClYP1----------</AM>
-<AM lemma="dva`2" src="auto" selected="1">ClYP4----------</AM>
+<AM lemma="dva`2" src="auto" selected="1">CnYP4----------</AM>
 <AM lemma="dva`2" src="auto">ClYP5----------</AM>
 </tag>
 </m>
@@ -12415,7 +12415,7 @@
 <LM>w#w-wsj2351-001-p1s40W31</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s40W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12535,7 +12535,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj2351-001-p1s42W4-Ta">
@@ -12610,7 +12610,7 @@
 <LM>w#w-wsj2351-001-p1s42W11</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s42W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12626,7 +12626,7 @@
 <LM>w#w-wsj2351-001-p1s42W13</LM>
 </w.rf>
 <form>něčemu</form>
-<tag lemma="něco" src="auto" recommended="1">PZ--3----------</tag>
+<tag lemma="něco" src="auto" recommended="1">PK--3----------</tag>
 </m>
 <m id="m-wsj2351-001-p1s42W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12862,7 +12862,7 @@
 <form>dvě</form>
 <tag>
 <AM lemma="dva`2" src="auto">ClHP1----------</AM>
-<AM lemma="dva`2" src="auto" recommended="1">ClHP4----------</AM>
+<AM lemma="dva`2" src="auto" recommended="1">CnHP4----------</AM>
 <AM lemma="dva`2" src="auto">ClHP5----------</AM>
 </tag>
 </m>
@@ -13146,7 +13146,7 @@
 <LM>w#w-wsj2351-001-p1s43W9</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s43W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13167,7 +13167,7 @@
 <form>její</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFXXFS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSIS4FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9IS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
@@ -13813,7 +13813,7 @@
 <LM>w#w-wsj2351-001-p1s46W2</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s46W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13998,7 +13998,7 @@
 <LM>w#w-wsj2351-001-p1s46W15</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj2351-001-p1s46W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14198,7 +14198,7 @@
 <LM>w#w-wsj2351-001-p1s46W35</LM>
 </w.rf>
 <form>CBS</form>
-<tag lemma="CBS_:B_;m_^(am.elevizní_společnost)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="CBS_;m_^(am.elevizní_společnost)" src="auto" recommended="1">BNFXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s46W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14402,7 +14402,7 @@
 <LM>w#w-wsj2351-001-p1s47W17</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s47W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14934,7 +14934,7 @@
 <LM>w#w-wsj2351-001-p1s48W29</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s48W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14966,7 +14966,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXZS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -15066,7 +15066,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -15181,7 +15181,7 @@
 <LM>w#w-wsj2351-001-p1s49W16</LM>
 </w.rf>
 <form>čehož</form>
-<tag lemma="což-1" src="auto" recommended="1">PE--2----------</tag>
+<tag lemma="což-1" src="auto" recommended="1">PQ--2----------</tag>
 </m>
 <m id="m-wsj2351-001-p1s49W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15313,7 +15313,7 @@
 <LM>w#w-wsj2351-001-p1s50W4</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s50W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15613,7 +15613,7 @@
 <LM>w#w-wsj2351-001-p1s51W6</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s51W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15776,7 +15776,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -15988,7 +15988,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -16038,7 +16038,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -16049,7 +16049,7 @@
 <LM>w#w-wsj2351-001-p1s53W17</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s53W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16204,7 +16204,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -16215,7 +16215,7 @@
 <LM>w#w-wsj2351-001-p1s54W11</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2351-001-p1s54W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16345,7 +16345,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>

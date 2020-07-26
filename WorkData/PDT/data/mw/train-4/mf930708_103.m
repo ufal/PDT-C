@@ -231,7 +231,7 @@
 <LM>w#w-mf930708-103-p8s1w3</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_:T_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-103-p8s1w4">
 <src.rf>manual</src.rf>
@@ -330,7 +330,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_;m_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-3_;m_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-103-p11s1w5">

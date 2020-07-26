@@ -239,7 +239,7 @@
 <LM>w#w-mf920924-065-p2s1w15</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-mf920924-065-p2s1w16">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-mf920924-065-p2s5Aw4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920924-065-p2s5Aw5">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-mf920924-065-p2s5Aw10</LM>
 </w.rf>
 <form>kolik</form>
-<tag lemma="kolik" src="orig" selected="1">C?--4----------</tag>
+<tag lemma="kolik" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-mf920924-065-p2s5Aw11">
 <src.rf>manual</src.rf>
@@ -1245,7 +1245,7 @@
 <LM>w#w-mf920924-065-p2s6w4</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf920924-065-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1638,7 +1638,7 @@
 <LM>w#w-mf920924-065-p2s9w8</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920924-065-p2s9w9">
 <src.rf>manual</src.rf>
@@ -2557,7 +2557,7 @@
 <tag>
 <AM lemma="LSD_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="LSD-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="LSD_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LSD" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-065-p2s12w23">
@@ -3153,7 +3153,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-065-p2s15w16">

@@ -266,7 +266,7 @@
 <LM>w#w-ln94200-86-p2s1Cw18</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln94200-86-p2s1Cw19">
 <src.rf>manual</src.rf>

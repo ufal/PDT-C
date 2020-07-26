@@ -35,7 +35,7 @@
 <LM>w#w-ln94210-142-p1s1w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94210-142-p1s1w4">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <form>bo</form>
 <tag>
 <AM lemma="bo-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bo-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bo-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-142-p2s1Aw4">
@@ -339,7 +339,7 @@
 <LM>w#w-ln94210-142-p2s2w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94210-142-p2s2w3">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-ln94210-142-p2s2w3</LM>
 </w.rf>
 <form>jí</form>
-<tag lemma="on-1_^(ona)" src="orig" selected="1">PPFS2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS2--3------1</tag>
 </m>
 <m id="m-ln94210-142-p2s2w4">
 <src.rf>manual</src.rf>

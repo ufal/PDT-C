@@ -56,7 +56,7 @@
 <LM>w#w-mf930701-086-p2s1w2</LM>
 </w.rf>
 <form>EKOL</form>
-<tag lemma="Ekol_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="Ekol_;m" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-mf930701-086-p2s1w3">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <LM>w#w-mf930701-086-p18s1w8</LM>
 </w.rf>
 <form>Koupím</form>
-<tag lemma="koupit_:W_^(něco_sobě/někomu)" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m-mf930701-086-p18s1w9">
 <src.rf>manual</src.rf>
@@ -4341,7 +4341,7 @@
 <LM>w#w-mf930701-086-p87s1w6</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930701-086-p87s1w7">
 <src.rf>manual</src.rf>

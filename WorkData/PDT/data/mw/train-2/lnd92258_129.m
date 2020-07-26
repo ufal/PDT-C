@@ -101,7 +101,7 @@
 <LM>w#w-lnd92258-129-p1s2w2</LM>
 </w.rf>
 <form>ní</form>
-<tag lemma="on-1" src="orig" selected="1">P5FS7--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS7--3-------</tag>
 </m>
 <m id="m-lnd92258-129-p1s2w3">
 <src.rf>manual</src.rf>

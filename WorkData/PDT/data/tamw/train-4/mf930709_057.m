@@ -157,7 +157,7 @@
 <LM>w#w-mf930709-057-p2s1w15</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930709-057-p2s1w16">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 <AM lemma="cosi" src="auto" recommended="1">PZ--1----------</AM>
 <AM lemma="cosi" src="auto">PZ--4----------</AM>
 <AM lemma="cosi_,t" src="manual">Db-------------</AM>
-<AM lemma="COSI-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cosi-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-057-p2s2w14">
@@ -375,7 +375,7 @@
 <AM lemma="fan_,l" src="auto">NNIS4-----A----</AM>
 <AM lemma="fana_,l_^(pánev)" src="auto">NNFP2-----A----</AM>
 <AM lemma="fan_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="FAN-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Fan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-057-p2s2w15">
@@ -390,7 +390,7 @@
 <AM lemma="Tutte_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tutte_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="tutte_,t_^(jen_Cosi_fan_tutte,_it.)" src="auto">PLFP1----------</AM>
-<AM lemma="TUTTE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tutte-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-057-p2s2w16">
@@ -431,7 +431,7 @@
 <LM>w#w-mf930709-057-p2s2w20</LM>
 </w.rf>
 <form>třech</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-mf930709-057-p2s2w21">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-mf930709-057-p2s2w23</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf930709-057-p2s2w24">
 <src.rf>manual</src.rf>

@@ -175,7 +175,7 @@
 <LM>w#w-ln95046-114-p2s2w8</LM>
 </w.rf>
 <form>stála</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95046-114-p2s2w9">
 <src.rf>manual</src.rf>

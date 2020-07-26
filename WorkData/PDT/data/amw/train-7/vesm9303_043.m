@@ -231,7 +231,7 @@
 <LM>w#w-vesm9303-043-p2s1w20</LM>
 </w.rf>
 <form>miliónu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIS2----------</tag>
 </m>
 <m id="m-vesm9303-043-p2s1w21">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-vesm9303-043-p2s2w8</LM>
 </w.rf>
 <form>milióny</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIP7----------</tag>
 </m>
 <m id="m-vesm9303-043-p2s2w9">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-vesm9303-043-p2s3w19</LM>
 </w.rf>
 <form>milióny</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIP7----------</tag>
 </m>
 <m id="m-vesm9303-043-p2s3w20">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpYS---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-vesm9303-043-p2s4w34">
@@ -1266,7 +1266,7 @@
 <LM>w#w-vesm9303-043-p3s1w37</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag lemma="tj-1_^(to_je/jest)" src="orig" selected="1">J^------------b</tag>
 </m>
 <m id="m-vesm9303-043-p3s1w38">
 <src.rf>manual</src.rf>
@@ -1306,7 +1306,7 @@
 <LM>w#w-vesm9303-043-p3s1w42</LM>
 </w.rf>
 <form>milióny</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIP7----------</tag>
 </m>
 <m id="m-vesm9303-043-p3s1w43">
 <src.rf>manual</src.rf>
@@ -1412,7 +1412,7 @@
 <LM>w#w-vesm9303-043-p3s2w11</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-vesm9303-043-p3s2w12">
 <src.rf>manual</src.rf>

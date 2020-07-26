@@ -204,7 +204,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-003-p3s2w15">
@@ -554,7 +554,7 @@
 <LM>w#w-mf930713-003-p3s5w24</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="on-1_^(oni/ono)" src="orig" selected="1">PPXP4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP4--3-------</tag>
 </m>
 <m id="m-mf930713-003-p3s5w25">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-mf930713-003-p3s5w26</LM>
 </w.rf>
 <form>vypovědět</form>
-<tag lemma="vypovědět" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vypovědět" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-003-p3s5w27">
 <src.rf>manual</src.rf>

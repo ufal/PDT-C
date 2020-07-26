@@ -19,7 +19,7 @@
 <LM>w#w-ln94211-83-p1s1w1</LM>
 </w.rf>
 <form>Devět</form>
-<tag lemma="devět`9" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="devět`9" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-ln94211-83-p1s1w2">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-ln94211-83-p1s2w1</LM>
 </w.rf>
 <form>Šest</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-ln94211-83-p1s2w2">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-ln94211-83-p1s2w3</LM>
 </w.rf>
 <form>nich</form>
-<tag lemma="on-1" src="orig" selected="1">P5XP2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP2--3-------</tag>
 </m>
 <m id="m-ln94211-83-p1s2w4">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln94211-83-p1s3w14</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="pět-1`5" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94211-83-p1s3w15">
 <src.rf>manual</src.rf>

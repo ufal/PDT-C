@@ -116,7 +116,7 @@
 <LM>w#w-mf930708-039-p2s1w5</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIXX----------</tag>
 </m>
 <m id="m-mf930708-039-p2s1w6">
 <src.rf>manual</src.rf>

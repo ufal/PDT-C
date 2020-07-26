@@ -98,7 +98,7 @@
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dr-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dr-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-118-p2s1Aw4">
@@ -207,7 +207,7 @@
 <form>ČOI</form>
 <tag>
 <AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI_:B_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČOI_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-118-p2s1Bw12">
@@ -240,7 +240,7 @@
 <LM>w#w-ln94211-118-p2s1Bw15</LM>
 </w.rf>
 <form>sedm</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="sedm`7" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94211-118-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <form>ČOI</form>
 <tag>
 <AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI_:B_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČOI_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-118-p2s3w6">
@@ -415,7 +415,7 @@
 <LM>w#w-ln94211-118-p2s3w7</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="pět-1`5" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94211-118-p2s3w8">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-ln94211-118-p2s3w8</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIXX----------</tag>
 </m>
 <m id="m-ln94211-118-p2s3w9">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-ln94211-118-p2s3w20</LM>
 </w.rf>
 <form>čtyři</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-ln94211-118-p2s3w21">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-ln94211-118-p2s3w21</LM>
 </w.rf>
 <form>tisíce</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIP4----------</tag>
 </m>
 <m id="m-ln94211-118-p2s3w22">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <form>ČOI</form>
 <tag>
 <AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI_:B_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČOI_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-118-p3s1w3">
@@ -761,7 +761,7 @@
 <LM>w#w-ln94211-118-p3s2w5</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP2----------</tag>
 </m>
 <m id="m-ln94211-118-p3s2w6">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-118-p4s1w3">
@@ -886,7 +886,7 @@
 <LM>w#w-ln94211-118-p4s1w13</LM>
 </w.rf>
 <form>jich</form>
-<tag lemma="on-1" src="orig" selected="1">PPXP2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP2--3------1</tag>
 </m>
 <m id="m-ln94211-118-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1286,7 +1286,7 @@
 <form>ČOI</form>
 <tag>
 <AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI_:B_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČOI_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-118-p4s4w5">
@@ -1491,7 +1491,7 @@
 <LM>w#w-ln94211-118-p4s5w9</LM>
 </w.rf>
 <form>ho</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS4--3-------</tag>
 </m>
 <m id="m-ln94211-118-p4s5w10">
 <src.rf>manual</src.rf>
@@ -1533,7 +1533,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-118-p4s5w15">

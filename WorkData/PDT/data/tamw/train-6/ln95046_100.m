@@ -135,7 +135,7 @@
 <LM>w#w-ln95046-100-p2s1Bw10</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95046-100-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-ln95046-100-p2s2w6</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSZS1FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln95046-100-p2s2w7">
 <src.rf>manual</src.rf>
@@ -323,7 +323,7 @@
 <form>ČT</form>
 <tag>
 <AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_;m_^(Česká_televize)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-100-p2s2w18">
@@ -430,7 +430,7 @@
 <LM>w#w-ln95046-100-p2s3w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95046-100-p2s3w3">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-100-p2s3w7">
@@ -721,7 +721,7 @@
 <form>ČT</form>
 <tag>
 <AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_;m_^(Česká_televize)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-100-p2s4w15">
@@ -738,7 +738,7 @@
 <LM>w#w-ln95046-100-p2s4w16</LM>
 </w.rf>
 <form>jednom</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS6----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS6----------</tag>
 </m>
 <m id="m-ln95046-100-p2s4w17">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-ln95046-100-p2s5w12</LM>
 </w.rf>
 <form>osmdesáti</form>
-<tag lemma="osmdesát`80" src="orig" selected="1">Cn-P6----------</tag>
+<tag lemma="osmdesát`80" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-ln95046-100-p2s5w13">
 <src.rf>manual</src.rf>

@@ -1168,7 +1168,7 @@
 <form>miliony</form>
 <tag>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP1-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP4----------</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP5-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -1656,7 +1656,7 @@
 <LM>w#w-wsj2258-001-p1s4W21</LM>
 </w.rf>
 <form>čímž</form>
-<tag lemma="což-1" src="auto" recommended="1">PE--7----------</tag>
+<tag lemma="což-1" src="auto" recommended="1">PQ--7----------</tag>
 </m>
 <m id="m-wsj2258-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1769,7 +1769,7 @@
 <LM>w#w-wsj2258-001-p1s4W31</LM>
 </w.rf>
 <form>jednom</form>
-<tag lemma="jeden`1" src="auto" recommended="1">ClZS6----------</tag>
+<tag lemma="jeden`1" src="auto" recommended="1">CnZS6----------</tag>
 </m>
 <m id="m-wsj2258-001-p1s4W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1813,7 +1813,7 @@
 <tag>
 <AM lemma="jeden`1" src="auto">ClFS2----------</AM>
 <AM lemma="jeden`1" src="auto">ClFS3----------</AM>
-<AM lemma="jeden`1" src="auto" recommended="1">ClFS6----------</AM>
+<AM lemma="jeden`1" src="auto" recommended="1">CnFS6----------</AM>
 </tag>
 </m>
 <m id="m-wsj2258-001-p1s4W36-Ta">

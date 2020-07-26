@@ -27,7 +27,7 @@
 <LM>w#w-mf920901-092-p1s1w2</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-mf920901-092-p1s1w3">
 <src.rf>manual</src.rf>
@@ -170,7 +170,7 @@
 <LM>w#w-mf920901-092-p2s2w1</LM>
 </w.rf>
 <form>Mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
 </m>
 <m id="m-mf920901-092-p2s2w2">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-mf920901-092-p3s1w5</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP4----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP4----------</tag>
 </m>
 <m id="m-mf920901-092-p3s1w6">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-mf920901-092-p3s1w21</LM>
 </w.rf>
 <form>bránit</form>
-<tag lemma="bránit_:T_^(klást_překážky)" src="auto" selected="1">Vf--------A----</tag>
+<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920901-092-p3s1w22">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-mf920901-092-p4s2w7</LM>
 </w.rf>
 <form>jedním</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS7----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS7----------</tag>
 </m>
 <m id="m-mf920901-092-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1479,7 +1479,7 @@
 <LM>w#w-mf920901-092-p5s1w39</LM>
 </w.rf>
 <form>bránit</form>
-<tag lemma="bránit_:T_^(klást_překážky)" src="auto" selected="1">Vf--------A----</tag>
+<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920901-092-p5s1w40">
 <src.rf>manual</src.rf>
@@ -1996,7 +1996,7 @@
 <LM>w#w-mf920901-092-p6s3w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920901-092-p6s3w3">
 <src.rf>manual</src.rf>
@@ -2172,7 +2172,7 @@
 <LM>w#w-mf920901-092-p6s4w2</LM>
 </w.rf>
 <form>jednou</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS7----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS7----------</tag>
 </m>
 <m id="m-mf920901-092-p6s4w3">
 <src.rf>manual</src.rf>
@@ -2196,7 +2196,7 @@
 <LM>w#w-mf920901-092-p6s4w5</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSIS4FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-mf920901-092-p6s4w6">
 <src.rf>manual</src.rf>
@@ -2372,7 +2372,7 @@
 <LM>w#w-mf920901-092-p6s4w27</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920901-092-p6s4w28">
 <src.rf>manual</src.rf>
@@ -2388,7 +2388,7 @@
 <LM>w#w-mf920901-092-p6s4w29</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920901-092-p6s4w30">
 <src.rf>manual</src.rf>
@@ -2699,7 +2699,7 @@
 <form>ing</form>
 <tag>
 <AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ing_^(inženýr)" src="manual" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920901-092-p9s1w3">
@@ -2839,7 +2839,7 @@
 <LM>w#w-mf920901-092-p9s1w19</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="rok" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf920901-092-p9s1w20">
 <src.rf>manual</src.rf>
@@ -3235,7 +3235,7 @@
 <LM>w#w-mf920901-092-p9s3w3</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="KSČ-1_;m_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920901-092-p9s3w4">
 <src.rf>manual</src.rf>

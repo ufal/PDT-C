@@ -20,7 +20,7 @@
 <AM lemma="Bulla_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="bull_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="bulla_,a_^(^DD**bula)" src="auto">NNFP2-----A----</AM>
-<AM lemma="BULL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Bull-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2374-001-p1s0W2-Ta">
@@ -42,7 +42,7 @@
 <form>INFORMATION</form>
 <tag>
 <AM lemma="INFORMATION" src="auto">X@-------------</AM>
-<AM lemma="INFORMATION-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Information-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2374-001-p1s0W4-Ta">
@@ -53,7 +53,7 @@
 <form>SYSTEMS</form>
 <tag>
 <AM lemma="SYSTEMS" src="auto">X@-------------</AM>
-<AM lemma="SYSTEMS-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2374-001-p1s0W5-Ta">

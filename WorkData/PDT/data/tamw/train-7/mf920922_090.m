@@ -56,7 +56,7 @@
 <form>ouš</form>
 <tag>
 <AM lemma="ouš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ouš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ouš-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-090-p1s1Aw6">
@@ -107,7 +107,7 @@
 <LM>w#w-mf920922-090-p1s1Bw4</LM>
 </w.rf>
 <form>herečky</form>
-<tag lemma="herečka_^(^FM*3c)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="herečka" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf920922-090-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <tag>
 <AM lemma="au-2_,t_^(au-pair)" src="orig">AAXXX----1A----</AM>
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
-<AM lemma="au-2_^(au-pair)" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-090-p1s1Bw34">
@@ -515,7 +515,7 @@
 <LM>w#w-mf920922-090-p1s2w2</LM>
 </w.rf>
 <form>šedesát</form>
-<tag lemma="šedesát`60" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="šedesát`60" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf920922-090-p1s2w3">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-mf920922-090-p1s2w14</LM>
 </w.rf>
 <form>hereček</form>
-<tag lemma="herečka_^(^FM*3c)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="herečka" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920922-090-p1s2w15">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <LM>w#w-mf920922-090-p1s3w1</LM>
 </w.rf>
 <form>Dvanáct</form>
-<tag lemma="dvanáct`12" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="dvanáct`12" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-mf920922-090-p1s3w2">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 <LM>w#w-mf920922-090-p1s3w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920922-090-p1s3w4">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <tag>
 <AM lemma="au-2_,t_^(au-pair)" src="orig">AAXXX----1A----</AM>
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
-<AM lemma="au-2_^(au-pair)" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-090-p1s4w10">
@@ -857,7 +857,7 @@
 <LM>w#w-mf920922-090-p1s4w12</LM>
 </w.rf>
 <form>padesát</form>
-<tag lemma="padesát`50" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="padesát`50" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-mf920922-090-p1s4w13">
 <src.rf>manual</src.rf>

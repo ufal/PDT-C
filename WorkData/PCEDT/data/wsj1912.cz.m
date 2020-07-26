@@ -212,7 +212,7 @@
 <LM>w#w-wsj1912-001-p1s0W16</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="miliarda`1000000000" src="auto" recommended="1">CzFP2----------</tag>
 </m>
 <m id="m-wsj1912-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -752,7 +752,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1361,7 +1361,7 @@
 </w.rf>
 <form>což</form>
 <tag>
-<AM lemma="což-1" src="auto" recommended="1">PE--1----------</AM>
+<AM lemma="což-1" src="auto" recommended="1">PQ--1----------</AM>
 <AM lemma="což-1" src="auto">PE--4----------</AM>
 <AM lemma="což-2_^(cožpak:_což_jsem_to_neříkal?)" src="auto">TT-------------</AM>
 <AM lemma="což-3_^(nu_což,_...;_což_o_to,_...)" src="auto">II-------------</AM>
@@ -1374,7 +1374,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1665,7 +1665,7 @@
 <tag>
 <AM lemma="osm`8" src="auto">Cn-P2----------</AM>
 <AM lemma="osm`8" src="auto">Cn-P3----------</AM>
-<AM lemma="osm`8" src="auto" recommended="1">Cn-P6----------</AM>
+<AM lemma="osm`8" src="auto" recommended="1">Cl-P6----------</AM>
 <AM lemma="osm`8" src="auto">Cn-P7----------</AM>
 </tag>
 </m>
@@ -1895,7 +1895,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1994,7 +1994,7 @@
 <tag>
 <AM lemma="šest`6" src="auto">Cn-P2----------</AM>
 <AM lemma="šest`6" src="auto">Cn-P3----------</AM>
-<AM lemma="šest`6" src="auto" recommended="1">Cn-P6----------</AM>
+<AM lemma="šest`6" src="auto" recommended="1">Cl-P6----------</AM>
 <AM lemma="šest`6" src="auto">Cn-P7----------</AM>
 </tag>
 </m>
@@ -2067,7 +2067,7 @@
 <LM>w#w-wsj1912-001-p1s6W1</LM>
 </w.rf>
 <form>Obsaženo</form>
-<tag lemma="obsáhnout" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="obsáhnout" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj1912-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2673,7 +2673,7 @@
 <LM>w#w-wsj1912-001-p1s8W16</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="miliarda`1000000000" src="auto" recommended="1">CzFP2----------</tag>
 </m>
 <m id="m-wsj1912-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>

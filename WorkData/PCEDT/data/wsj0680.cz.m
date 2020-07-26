@@ -584,7 +584,7 @@
 <LM>w#w-wsj0680-001-p1s1W22</LM>
 </w.rf>
 <form>sebou</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P6-X7----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P6--7----------</tag>
 </m>
 <m id="m-wsj0680-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>

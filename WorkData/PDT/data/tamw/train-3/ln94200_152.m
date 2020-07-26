@@ -85,7 +85,7 @@
 <LM>w#w-ln94200-152-p2s1w6</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94200-152-p2s1w7">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-ln94200-152-p3s1w12</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94200-152-p3s1w13">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <form>ber</form>
 <tag>
 <AM lemma="ber-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ber-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ber-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-152-p4s2w3">
@@ -571,7 +571,7 @@
 <form>hk</form>
 <tag>
 <AM lemma="hk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hk-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-152-p4s2w5">

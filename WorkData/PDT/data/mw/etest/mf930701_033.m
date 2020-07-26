@@ -71,7 +71,7 @@
 <form>rů</form>
 <tag>
 <AM lemma="rů-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rů-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="rů-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-033-p2s1w4">
@@ -104,7 +104,7 @@
 <LM>w#w-mf930701-033-p2s1w7</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930701-033-p2s1w8">
 <src.rf>manual</src.rf>
@@ -184,7 +184,7 @@
 <LM>w#w-mf930701-033-p2s1w17</LM>
 </w.rf>
 <form>třicet</form>
-<tag lemma="třicet`30" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="třicet`30" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf930701-033-p2s1w18">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-mf930701-033-p2s3w19</LM>
 </w.rf>
 <form>Natural</form>
-<tag lemma="Natural_,t" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="Natural" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930701-033-p2s3w20">
 <src.rf>manual</src.rf>

@@ -71,7 +71,7 @@
 <form>or</form>
 <tag>
 <AM lemma="or-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="or-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="or-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-037-p2s1Aw4">
@@ -534,7 +534,7 @@
 <LM>w#w-mf930709-037-p2s4w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930709-037-p2s4w3">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-mf930709-037-p2s4w12</LM>
 </w.rf>
 <form>jednoho</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS2----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS2----------</tag>
 </m>
 <m id="m-mf930709-037-p2s4w13">
 <src.rf>manual</src.rf>
@@ -754,7 +754,7 @@
 <LM>w#w-mf930709-037-p2s5w10</LM>
 </w.rf>
 <form>sedm</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="sedm`7" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-mf930709-037-p2s5w11">
 <src.rf>manual</src.rf>

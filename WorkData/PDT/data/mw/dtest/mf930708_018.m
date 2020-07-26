@@ -281,7 +281,7 @@
 <LM>w#w-mf930708-018-p2s1w27</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf930708-018-p2s1w28">
 <src.rf>manual</src.rf>

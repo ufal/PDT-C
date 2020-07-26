@@ -93,7 +93,7 @@
 <LM>w#w-cmpr9415-055-p3s1w6</LM>
 </w.rf>
 <form>NÍ</form>
-<tag lemma="on-1" src="orig" selected="1">P5FS2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS2--3-------</tag>
 </m>
 <m id="m-cmpr9415-055-p3s1w7">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-cmpr9415-055-p3s1w12</LM>
 </w.rf>
 <form>ní</form>
-<tag lemma="on-1" src="orig" selected="1">P5FS6--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS6--3-------</tag>
 </m>
 <m id="m-cmpr9415-055-p3s1w13">
 <src.rf>manual</src.rf>

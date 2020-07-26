@@ -165,7 +165,7 @@
 <LM>w#w-mf930702-084-p2s1w11</LM>
 </w.rf>
 <form>jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClYS1----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnYS1----------</tag>
 </m>
 <m id="m-mf930702-084-p2s1w12">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-mf930702-084-p2s1w13</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf930702-084-p2s1w14">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-mf930702-084-p2s2w5</LM>
 </w.rf>
 <form>nic</form>
-<tag lemma="nic" src="orig" selected="1">PW--1----------</tag>
+<tag lemma="nic" src="orig" selected="1">PY--1----------</tag>
 </m>
 <m id="m-mf930702-084-p2s2w6">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <form>Mircea</form>
 <tag>
 <AM lemma="Mircea_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mircea_;Y_,t" src="auto" recommended="1" selected="1">NNMXX-----A----</AM>
+<AM lemma="Mircea_;Y" src="auto" recommended="1" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-084-p2s2w17">
@@ -554,7 +554,7 @@
 <LM>w#w-mf930702-084-p2s3w15</LM>
 </w.rf>
 <form>mu</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
 </m>
 <m id="m-mf930702-084-p2s3w16">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-mf930702-084-p2s3w16</LM>
 </w.rf>
 <form>jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClYS1----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnYS1----------</tag>
 </m>
 <m id="m-mf930702-084-p2s3w17">
 <src.rf>manual</src.rf>

@@ -388,7 +388,7 @@
 <LM>w#w-mf930713-018-p2s2w16</LM>
 </w.rf>
 <form>Art</form>
-<tag lemma="Art-3_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Art-3_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf930713-018-p2s2w17">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 <LM>w#w-mf930713-018-p2s4w10</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930713-018-p2s4w11">
 <src.rf>manual</src.rf>

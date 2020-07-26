@@ -55,7 +55,7 @@
 <form>ben</form>
 <tag>
 <AM lemma="ben-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ben-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ben-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-092-p2s1w4">
@@ -283,7 +283,7 @@
 <LM>w#w-mf920923-092-p2s2w25</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920923-092-p2s2w26">
 <src.rf>manual</src.rf>

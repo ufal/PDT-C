@@ -30,7 +30,7 @@
 <tag>
 <AM lemma="Sierra_;G_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="sierra_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="SIERRA-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sierra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1511-001-p1s0W3-Ta">
@@ -42,7 +42,7 @@
 <tag>
 <AM lemma="Tucson_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Tucson_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="TUCSON-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tucson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1511-001-p1s0W4-Ta">
@@ -182,7 +182,7 @@
 </w.rf>
 <form>milionu</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIS2----------</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -268,7 +268,7 @@
 <LM>w#w-wsj1511-001-p1s0W23</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1511-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>

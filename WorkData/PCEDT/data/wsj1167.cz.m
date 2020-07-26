@@ -470,7 +470,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -760,7 +760,7 @@
 <form>čtyřech</form>
 <tag>
 <AM lemma="čtyři`4" src="auto">ClXP2---------1</AM>
-<AM lemma="čtyři`4" src="auto" recommended="1">ClXP6----------</AM>
+<AM lemma="čtyři`4" src="auto" recommended="1">Cl-P6----------</AM>
 </tag>
 </m>
 <m id="m-wsj1167-001-p1s3W4-Ta">
@@ -1073,7 +1073,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1167-001-p1s4W16-Ta">

@@ -53,7 +53,7 @@
 <LM>w#w-lnd92255-028-p2s1w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-028-p2s1w4">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 <LM>w#w-lnd92255-028-p2s3w10</LM>
 </w.rf>
 <form>spací</form>
-<tag lemma="spací_^(^IC*3át)" src="auto" selected="1">AAIP4----1A----</tag>
+<tag lemma="spací" src="auto" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-lnd92255-028-p2s3w11">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-lnd92255-028-p2s4w7</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-028-p2s4w8">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-lnd92255-028-p2s4w23</LM>
 </w.rf>
 <form>hrací</form>
-<tag lemma="hrací_^(^IC*3át)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="hrací" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-lnd92255-028-p2s4w24">
 <src.rf>manual</src.rf>

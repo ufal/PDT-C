@@ -83,7 +83,7 @@
 <LM>w#w-lnd92255-121-p1s1w9</LM>
 </w.rf>
 <form>dvaceti</form>
-<tag lemma="dvacet`20" src="orig" selected="1">Cn-P6----------</tag>
+<tag lemma="dvacet`20" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-lnd92255-121-p1s1w10">
 <src.rf>manual</src.rf>

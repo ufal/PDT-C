@@ -237,7 +237,7 @@
 <LM>w#w-mf930708-106-p2s1w24</LM>
 </w.rf>
 <form>spadá</form>
-<tag lemma="spadat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="spadat" src="orig" selected="1">VB-S---3P-AA---</tag>
 </m>
 <m id="m-mf930708-106-p2s1w25">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-mf930708-106-p2s3w18</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP4----------</tag>
 </m>
 <m id="m-mf930708-106-p2s3w19">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -812,7 +812,7 @@
 <LM>w#w-mf930708-106-p2s5w5</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ME-1_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---b</tag>
 </m>
 <m id="m-mf930708-106-p2s5w6">
 <src.rf>manual</src.rf>
@@ -926,7 +926,7 @@
 <LM>w#w-mf930708-106-p2s6w5</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ME-1_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---b</tag>
 </m>
 <m id="m-mf930708-106-p2s6w6">
 <src.rf>manual</src.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-mf930708-106-p3s1w31</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930708-106-p3s1w32">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 <LM>w#w-mf930708-106-p3s1w32</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-106-p3s1w33">
 <src.rf>manual</src.rf>

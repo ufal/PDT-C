@@ -35,7 +35,7 @@
 <LM>w#w-lnd91301-097-p1s1w3</LM>
 </w.rf>
 <form>milión</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIS4----------</tag>
 </m>
 </s>
 <s id="m-lnd91301-097-p2s1">
@@ -47,7 +47,7 @@
 <form>MOOSE</form>
 <tag>
 <AM lemma="Moose_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="MOOSE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Moose-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-097-p2s1w2">
@@ -59,7 +59,7 @@
 <tag>
 <AM lemma="Jawa-1_;m" src="orig">NNFP2-----A----</AM>
 <AM lemma="Jawa_;m" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="JAW-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Jaw-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-097-p2s1w3">
@@ -110,7 +110,7 @@
 <LM>w#w-lnd91301-097-p3s1w5</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd91301-097-p3s1w6">
 <src.rf>manual</src.rf>
@@ -137,7 +137,7 @@
 <LM>w#w-lnd91301-097-p3s1w8</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd91301-097-p3s1w9">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-lnd91301-097-p3s1w28</LM>
 </w.rf>
 <form>patnáct</form>
-<tag lemma="patnáct`15" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="patnáct`15" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-lnd91301-097-p3s1w29">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-lnd91301-097-p3s1w38</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="on-1_^(oni/ono)" src="orig" selected="1">PPNS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PENS4--3-------</tag>
 </m>
 <m id="m-lnd91301-097-p3s1w39">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-lnd91301-097-p3s2w8</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-lnd91301-097-p3s2w9">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-lnd91301-097-p3s2w10</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd91301-097-p3s2w11">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-lnd91301-097-p3s3w15</LM>
 </w.rf>
 <form>milión</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIS4----------</tag>
 </m>
 <m id="m-lnd91301-097-p3s3w16">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-lnd91301-097-p3s5Aw1</LM>
 </w.rf>
 <form>Oni</form>
-<tag lemma="on-1" src="orig" selected="1">PPMP1--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEMP1--3-------</tag>
 </m>
 <m id="m-lnd91301-097-p3s5Aw2">
 <src.rf>manual</src.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-lnd91301-097-p3s7w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd91301-097-p3s7w3">
 <src.rf>manual</src.rf>
@@ -1405,7 +1405,7 @@
 <LM>w#w-lnd91301-097-p3s9w1</LM>
 </w.rf>
 <form>Kdo</form>
-<tag lemma="kdo" src="orig" selected="1">PKM-1----------</tag>
+<tag lemma="kdo" src="orig" selected="1">PQ--1----------</tag>
 </m>
 <m id="m-lnd91301-097-p3s9w2">
 <src.rf>manual</src.rf>
@@ -1429,7 +1429,7 @@
 <LM>w#w-lnd91301-097-p3s9w4</LM>
 </w.rf>
 <form>něco</form>
-<tag lemma="něco" src="orig" selected="1">PZ--4----------</tag>
+<tag lemma="něco" src="orig" selected="1">PK--4----------</tag>
 </m>
 <m id="m-lnd91301-097-p3s9w5">
 <src.rf>manual</src.rf>

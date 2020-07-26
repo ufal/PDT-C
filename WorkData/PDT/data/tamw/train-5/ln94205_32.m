@@ -71,7 +71,7 @@
 <form>mrk</form>
 <tag>
 <AM lemma="mrk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mrk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mrk-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-32-p2s1Aw4">
@@ -154,7 +154,7 @@
 <LM>w#w-ln94205-32-p2s1Bw8</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94205-32-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <form>DPH</form>
 <tag>
 <AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPH-1_^(daň_z_přidané_hodnoty)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-32-p2s2w5">
@@ -403,7 +403,7 @@
 <form>DPH</form>
 <tag>
 <AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPH-1_^(daň_z_přidané_hodnoty)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-32-p2s3w9">
@@ -606,7 +606,7 @@
 <LM>w#w-ln94205-32-p3s1w19</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94205-32-p3s1w20">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <form>EU</form>
 <tag>
 <AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_;m_^(Evropská_Unie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-32-p3s1w22">
@@ -677,7 +677,7 @@
 <form>DPH</form>
 <tag>
 <AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPH-1_^(daň_z_přidané_hodnoty)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-32-p3s2w6">
@@ -808,7 +808,7 @@
 <LM>w#w-ln94205-32-p3s3w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94205-32-p3s3w4">
 <src.rf>manual</src.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-ln94205-32-p3s4w5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94205-32-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1028,7 +1028,7 @@
 <form>DPH</form>
 <tag>
 <AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPH-1_^(daň_z_přidané_hodnoty)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-32-p3s4w14">
@@ -1159,7 +1159,7 @@
 <LM>w#w-ln94205-32-p3s5w10</LM>
 </w.rf>
 <form>jedno</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClNS4----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnNS4----------</tag>
 </m>
 <m id="m-ln94205-32-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1259,7 +1259,7 @@
 <form>DPH</form>
 <tag>
 <AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DPH-1_^(daň_z_přidané_hodnoty)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-32-p3s6w8">

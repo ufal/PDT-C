@@ -223,7 +223,7 @@
 <LM>w#w-lnd94105-123-p1s3w14</LM>
 </w.rf>
 <form>kolik</form>
-<tag lemma="kolik" src="orig" selected="1">C?--1----------</tag>
+<tag lemma="kolik" src="orig" selected="1">Ca--1----------</tag>
 </m>
 <m id="m-lnd94105-123-p1s3w15">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-lnd94105-123-p1s4w17</LM>
 </w.rf>
 <form>čtyřiadvacet</form>
-<tag lemma="čtyřiadvacet`24" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="čtyřiadvacet`24" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-lnd94105-123-p1s4w18">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-lnd94105-123-p1s6w23</LM>
 </w.rf>
 <form>obou</form>
-<tag lemma="oba`2" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnXP6----------</tag>
 </m>
 <m id="m-lnd94105-123-p1s6w24">
 <src.rf>manual</src.rf>
@@ -775,7 +775,7 @@
 <LM>w#w-lnd94105-123-p1s6w27</LM>
 </w.rf>
 <form>čtrnáct</form>
-<tag lemma="čtrnáct`14" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="čtrnáct`14" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-lnd94105-123-p1s6w28">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-lnd94105-123-p1s7w16</LM>
 </w.rf>
 <form>jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClIS4----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnIS4----------</tag>
 </m>
 <m id="m-lnd94105-123-p1s7w17">
 <src.rf>manual</src.rf>
@@ -1200,7 +1200,7 @@
 <LM>w#w-lnd94105-123-p1s9w11</LM>
 </w.rf>
 <form>jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClIS4----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnIS4----------</tag>
 </m>
 <m id="m-lnd94105-123-p1s9w12">
 <src.rf>manual</src.rf>
@@ -1365,7 +1365,7 @@
 <LM>w#w-lnd94105-123-p1s10w9</LM>
 </w.rf>
 <form>jedno</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClNS1----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnNS1----------</tag>
 </m>
 <m id="m-lnd94105-123-p1s10w10">
 <src.rf>manual</src.rf>

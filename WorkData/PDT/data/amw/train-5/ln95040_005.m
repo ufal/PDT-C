@@ -37,7 +37,7 @@
 <form>VŠE</form>
 <tag>
 <AM lemma="VŠE_:B_;m_^(Vysoká_škola_ekonomická)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VŠE_:B_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VŠE_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-005-p1s1w4">
@@ -46,7 +46,7 @@
 <LM>w#w-ln95040-005-p1s1w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95040-005-p1s1w5">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-ln95040-005-p2s1Bw9</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95040-005-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -244,7 +244,7 @@
 <form>VŠE</form>
 <tag>
 <AM lemma="VŠE_:B_;m_^(Vysoká_škola_ekonomická)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VŠE_:B_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VŠE_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-005-p2s1Bw22">
@@ -553,7 +553,7 @@
 <LM>w#w-ln95040-005-p2s3w19</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-ln95040-005-p2s3w20">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-ln95040-005-p2s3w26</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95040-005-p2s3w27">
 <src.rf>manual</src.rf>

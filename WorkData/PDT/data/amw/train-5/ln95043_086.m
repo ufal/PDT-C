@@ -83,7 +83,7 @@
 <LM>w#w-ln95043-086-p1s1w9</LM>
 </w.rf>
 <form>přivezla</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-086-p1s1w10">
 <src.rf>manual</src.rf>

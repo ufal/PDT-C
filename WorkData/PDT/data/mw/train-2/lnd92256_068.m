@@ -134,7 +134,7 @@
 <LM>w#w-lnd92256-068-p3s2w4</LM>
 </w.rf>
 <form>šesti</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-lnd92256-068-p3s2w5">
 <src.rf>manual</src.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-lnd92256-068-p3s2w6</LM>
 </w.rf>
 <form>sedmi</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="sedm`7" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-lnd92256-068-p3s2w7">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 <LM>w#w-lnd92256-068-p3s3w4</LM>
 </w.rf>
 <form>deset</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="deset`10" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-lnd92256-068-p3s3w5">
 <src.rf>manual</src.rf>

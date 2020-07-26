@@ -461,7 +461,7 @@
 <LM>w#w-lnd92254-007-p3s4w12</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-lnd92254-007-p3s4w13">
 <src.rf>manual</src.rf>

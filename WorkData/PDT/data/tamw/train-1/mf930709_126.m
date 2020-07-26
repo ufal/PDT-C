@@ -31,7 +31,7 @@
 <form>ČT</form>
 <tag>
 <AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_;m_^(Česká_televize)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-126-p2s1w2">
@@ -466,7 +466,7 @@
 <LM>w#w-mf930709-126-p12s1w2</LM>
 </w.rf>
 <form>Tisíc</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIS4----------</tag>
 </m>
 <m id="m-mf930709-126-p12s1w3">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <form>AIR</form>
 <tag>
 <AM lemma="air_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="AIR-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-126-p13s1w3">
@@ -645,7 +645,7 @@
 <LM>w#w-mf930709-126-p16s1w4</LM>
 </w.rf>
 <form>pěti</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="pět-1`5" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf930709-126-p16s1w5">
 <src.rf>manual</src.rf>
@@ -1389,7 +1389,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1533,7 +1533,7 @@
 <form>JUDr</form>
 <tag>
 <AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JUDr_^(doktor_práv)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-126-p33s1w5">
@@ -1705,7 +1705,7 @@
 <form>ČT</form>
 <tag>
 <AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_;m_^(Česká_televize)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-126-p37s1w2">
@@ -2010,7 +2010,7 @@
 <form>JUMP</form>
 <tag>
 <AM lemma="Jump-1_;m_,t_^(angl.,_skok,_souč._názvu)" src="auto">NNIXX-----A----</AM>
-<AM lemma="JUMP-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Jump-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-126-p45s1w3">
@@ -2873,7 +2873,7 @@
 <form>ČT</form>
 <tag>
 <AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_;m_^(Česká_televize)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-126-p68s1w2">
@@ -3176,7 +3176,7 @@
 <form>CNN</form>
 <tag>
 <AM lemma="CNN-1_:B_;m_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-126-p76s1w3">
@@ -3742,7 +3742,7 @@
 <form>JUMP</form>
 <tag>
 <AM lemma="Jump-1_;m_,t_^(angl.,_skok,_souč._názvu)" src="auto">NNIXX-----A----</AM>
-<AM lemma="JUMP-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Jump-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-126-p97s1w3">
@@ -3840,7 +3840,7 @@
 <LM>w#w-mf930709-126-p100s1w2</LM>
 </w.rf>
 <form>Stars</form>
-<tag lemma="Stars_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Stars" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930709-126-p100s1w3">
 <src.rf>manual</src.rf>
@@ -3950,7 +3950,7 @@
 <form>CNN</form>
 <tag>
 <AM lemma="CNN-1_:B_;m_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-126-p104s1w3">

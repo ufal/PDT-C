@@ -248,7 +248,7 @@
 <LM>w#w-ln95046-036-p2s2w10</LM>
 </w.rf>
 <form>miliónu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIS2----------</tag>
 </m>
 <m id="m-ln95046-036-p2s2w11">
 <src.rf>manual</src.rf>

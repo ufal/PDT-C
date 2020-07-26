@@ -107,7 +107,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="on-1_^(oni/ono)" recommended="1">PPXP4--3-------</AM>
+<AM lemma="on-1" recommended="1">PEXP4--3-------</AM>
 <AM lemma="být">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)">PPNS4--3-------</AM>
 </tag>
@@ -117,7 +117,7 @@
 <LM>w#w-jh_11-SCzechM-p1076-s1-w7</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="jh_11-SCzechM-p1076-s1-w8">
 <w.rf>
@@ -179,7 +179,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="on-1_^(oni/ono)" recommended="1">PPXP4--3-------</AM>
+<AM lemma="on-1" recommended="1">PEXP4--3-------</AM>
 <AM lemma="být">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)">PPNS4--3-------</AM>
 </tag>
@@ -368,7 +368,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -1421,7 +1421,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -1617,7 +1617,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -1833,7 +1833,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -1859,7 +1859,7 @@
 <LM>w#w-jh_11-SCzechM-p1113-s1-w1</LM>
 </w.rf>
 <form>umím</form>
-<tag lemma="umět_:T_^(mít_schopnost_něco_dělat)" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="umět_^(mít_schopnost_něco_dělat)" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="jh_11-SCzechM-p1113-s1-w2">
 <w.rf>
@@ -2450,7 +2450,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -2683,7 +2683,7 @@
 </w.rf>
 <form>jednou</form>
 <tag>
-<AM lemma="jeden`1" recommended="1">ClFS7----------</AM>
+<AM lemma="jeden`1" recommended="1">CnFS7----------</AM>
 <AM lemma="jednou-1">Cv-------------</AM>
 <AM lemma="jednou-2">Db-------------</AM>
 </tag>
@@ -2802,7 +2802,7 @@
 </w.rf>
 <form>si</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--3----------</AM>
 <AM lemma="být">VB-S---2P-AA--7</AM>
 </tag>
 </m>
@@ -2993,7 +2993,7 @@
 </w.rf>
 <form>ně</form>
 <tag>
-<AM lemma="on-1" recommended="1">P5XP4--3-------</AM>
+<AM lemma="on-1" recommended="1">PEXP4--3------1</AM>
 <AM lemma="on-1">P5NS4--3-------</AM>
 </tag>
 </m>
@@ -3052,7 +3052,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -3262,7 +3262,7 @@
 <LM>w#w-jh_11-SCzechM-p1145-s1-w11</LM>
 </w.rf>
 <form>vypadal</form>
-<tag lemma="vypadat_:T" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vypadat" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="jh_11-SCzechM-p1145-s1-w12">
 <w.rf>
@@ -3955,7 +3955,7 @@
 </w.rf>
 <form>padesát</form>
 <tag>
-<AM lemma="padesát`50" recommended="1">Cn-S4----------</AM>
+<AM lemma="padesát`50" recommended="1">Cl-S4----------</AM>
 <AM lemma="padesát`50">Cn-S1----------</AM>
 <AM lemma="padesát`50">Cn-S5----------</AM>
 </tag>
@@ -4131,7 +4131,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -4265,7 +4265,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -4634,7 +4634,7 @@
 </w.rf>
 <form>oba</form>
 <tag>
-<AM lemma="oba`2" recommended="1">ClYP1----------</AM>
+<AM lemma="oba`2" recommended="1">CnYP1----------</AM>
 <AM lemma="oba`2">ClYP4----------</AM>
 <AM lemma="oba`2">ClYP5----------</AM>
 </tag>
@@ -4757,7 +4757,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -5078,7 +5078,7 @@
 </w.rf>
 <form>cokoliv</form>
 <tag>
-<AM lemma="cokoli" recommended="1">PZ--4---------1</AM>
+<AM lemma="cokoliv" recommended="1">PK--4----------</AM>
 <AM lemma="cokoli">PZ--1---------1</AM>
 <AM lemma="cokoli">PZ--5---------1</AM>
 </tag>
@@ -5213,7 +5213,7 @@
 <LM>w#w-jh_11-SCzechM-p1182-s1-w9</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" recommended="1">VB-S---3P-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="jh_11-SCzechM-p1182-s1-w10">
 <w.rf>
@@ -5404,7 +5404,7 @@
 <LM>w#w-jh_11-SCzechM-p1186-s1-w6</LM>
 </w.rf>
 <form>jedním</form>
-<tag lemma="jeden`1" recommended="1">ClZS7----------</tag>
+<tag lemma="jeden`1" recommended="1">CnZS7----------</tag>
 </m>
 <m id="jh_11-SCzechM-p1186-s1-w7">
 <w.rf>

@@ -128,7 +128,7 @@
 <LM>w#w-cmpr9416-007-p4s1w10</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-cmpr9416-007-p4s1w11">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 <LM>w#w-cmpr9416-007-p4s1w11</LM>
 </w.rf>
 <form>desetiny</form>
-<tag lemma="desetina" src="orig" selected="1">CyFP4----------</tag>
+<tag lemma="desetina" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9416-007-p4s1w12">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <LM>w#w-cmpr9416-007-p4s3w20</LM>
 </w.rf>
 <form>vypovědět</form>
-<tag lemma="vypovědět" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vypovědět" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9416-007-p4s3w21">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <form>EU</form>
 <tag>
 <AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_;m_^(Evropská_Unie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-007-p4s3w29">
@@ -483,7 +483,7 @@
 <LM>w#w-cmpr9416-007-p4s3w30</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSIS4FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-cmpr9416-007-p4s3w31">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-007-p4s4w7">
@@ -616,7 +616,7 @@
 <LM>w#w-cmpr9416-007-p4s4w13</LM>
 </w.rf>
 <form>což</form>
-<tag lemma="což-1" src="orig" selected="1">PE--1----------</tag>
+<tag lemma="což-1" src="orig" selected="1">PQ--1----------</tag>
 </m>
 <m id="m-cmpr9416-007-p4s4w14">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-cmpr9416-007-p4s4w26</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9416-007-p4s4w27">
 <src.rf>manual</src.rf>

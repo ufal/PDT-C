@@ -29,7 +29,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-163-p1s1w3">
@@ -89,7 +89,7 @@
 <LM>w#w-mf930708-163-p1s1w9</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930708-163-p1s1w10">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 <LM>w#w-mf930708-163-p1s1w29</LM>
 </w.rf>
 <form>oběma</form>
-<tag lemma="oba`2" src="orig" selected="1">ClXP3----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnXP3----------</tag>
 </m>
 <m id="m-mf930708-163-p1s1w30">
 <src.rf>manual</src.rf>

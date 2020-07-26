@@ -48,7 +48,7 @@
 <form>CRITICAL</form>
 <tag>
 <AM lemma="CRITICAL" src="auto">X@-------------</AM>
-<AM lemma="CRITICAL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Critical-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1710-001-p1s0W5-Ta">
@@ -60,7 +60,7 @@
 <tag>
 <AM lemma="Carus_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="care-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="CARE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Care-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1710-001-p1s0W6-Ta">
@@ -255,7 +255,7 @@
 <LM>w#w-wsj1710-001-p1s0W23</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1710-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1155,7 +1155,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXP2FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>

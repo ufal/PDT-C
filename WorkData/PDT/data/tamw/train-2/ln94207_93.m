@@ -45,7 +45,7 @@
 <LM>w#w-ln94207-93-p2s1w2</LM>
 </w.rf>
 <form>on</form>
-<tag lemma="on-1" src="orig" selected="1">PPYS1--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEYS1--3-------</tag>
 </m>
 </s>
 <s id="m-ln94207-93-p2s1B">
@@ -55,7 +55,7 @@
 <LM>w#w-ln94207-93-p2s1w3</LM>
 </w.rf>
 <form>On</form>
-<tag lemma="on-1" src="orig" selected="1">PPYS1--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEYS1--3-------</tag>
 </m>
 <m id="m-ln94207-93-p2s1w4">
 <src.rf>manual</src.rf>
@@ -73,7 +73,7 @@
 <LM>w#w-ln94207-93-p2s2w1</LM>
 </w.rf>
 <form>Ono</form>
-<tag lemma="on-1" src="orig" selected="1">PPNS1--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PENS1--3-------</tag>
 </m>
 <m id="m-ln94207-93-p2s2w2">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <form>Říci</form>
 <tag>
 <AM lemma="říci" src="auto">Vf--------A---1</AM>
-<AM lemma="říci_:W" src="manual" selected="1">Vf--------A---1</AM>
+<AM lemma="říci" src="manual" selected="1">Vf--------A-P-1</AM>
 </tag>
 </m>
 <m id="m-ln94207-93-p4s1w2">
@@ -380,7 +380,7 @@
 <LM>w#w-ln94207-93-p9s1w1</LM>
 </w.rf>
 <form>Ono</form>
-<tag lemma="on-1" src="orig" selected="1">PPNS1--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PENS1--3-------</tag>
 </m>
 <m id="m-ln94207-93-p9s1w2">
 <src.rf>manual</src.rf>

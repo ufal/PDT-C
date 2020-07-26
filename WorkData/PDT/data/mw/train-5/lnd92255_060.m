@@ -73,7 +73,7 @@
 <form>PORT</form>
 <tag>
 <AM lemma="port" src="orig">NNIS1-----A----</AM>
-<AM lemma="PORT-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Port-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-060-p3s1w2">
@@ -86,7 +86,7 @@
 <AM lemma="Moresby_;G" src="orig">NNXXX-----A----</AM>
 <AM lemma="Moresby_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Moresby_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="MORESBY-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Moresby-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-060-p3s1w3">
@@ -300,7 +300,7 @@
 <LM>w#w-lnd92255-060-p3s2w24</LM>
 </w.rf>
 <form>on</form>
-<tag lemma="on-1" src="orig" selected="1">PPYS1--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEYS1--3-------</tag>
 </m>
 <m id="m-lnd92255-060-p3s2w25">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-lnd92255-060-p3s2w26</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-060-p3s2w27">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-lnd92255-060-p3s2w30</LM>
 </w.rf>
 <form>vydá</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92255-060-p3s2w31">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <LM>w#w-lnd92255-060-p3s5w9</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-060-p3s5w10">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-lnd92255-060-p3s5w10</LM>
 </w.rf>
 <form>jim</form>
-<tag lemma="on-1" src="orig" selected="1">PPXP3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP3--3-------</tag>
 </m>
 <m id="m-lnd92255-060-p3s5w11">
 <src.rf>manual</src.rf>

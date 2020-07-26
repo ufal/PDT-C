@@ -12,7 +12,7 @@
 <LM>w#w-d1t3658-1</LM>
 </w.rf>
 <form>Kdo</form>
-<tag lemma="kdo" src="auto" recommended="1">PKM-1----------</tag>
+<tag lemma="kdo" src="auto" recommended="1">PQ--1----------</tag>
 </m>
 <m id="m038-d1t3658-2">
 <w.rf>
@@ -81,7 +81,7 @@
 <LM>w#w-d1t3666-5</LM>
 </w.rf>
 <form>Alenka</form>
-<tag lemma="Alenka_;Y_^(^DI*2)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Alenka_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m038-d1t3666-7">
 <w.rf>
@@ -124,7 +124,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
-<AM lemma="jeho_^(**můj)_(přivlast.)" src="manual" selected="1">PSZS1FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9ZS1FS3-------</AM>
 </tag>
 </m>
 <m id="m038-d1t3670-3">
@@ -230,7 +230,7 @@
 <LM>w#w-d1t3683-11</LM>
 </w.rf>
 <form>Alenka</form>
-<tag lemma="Alenka_;Y_^(^DI*2)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Alenka_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m038-562-2149">
 <w.rf>
@@ -759,7 +759,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>

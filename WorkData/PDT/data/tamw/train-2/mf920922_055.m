@@ -195,7 +195,7 @@
 <LM>w#w-mf920922-055-p1s1w23</LM>
 </w.rf>
 <form>nevydala</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 </s>
 </mdata>

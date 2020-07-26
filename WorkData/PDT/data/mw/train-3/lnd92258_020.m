@@ -80,7 +80,7 @@
 <AM lemma="hoj" src="auto" recommended="1">II-------------</AM>
 <AM lemma="hojit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="hojit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="hoj-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hoj-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-020-p2s1w6">
@@ -158,7 +158,7 @@
 <LM>w#w-lnd92258-020-p2s2w7</LM>
 </w.rf>
 <form>deset</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="deset`10" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-lnd92258-020-p2s2w8">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-lnd92258-020-p2s2w16</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="on-1_^(oni/ono)" src="orig" selected="1">PPXP4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP4--3-------</tag>
 </m>
 <m id="m-lnd92258-020-p2s2w17">
 <src.rf>manual</src.rf>
@@ -419,7 +419,7 @@
 <LM>w#w-lnd92258-020-p2s3w3</LM>
 </w.rf>
 <form>třinácti</form>
-<tag lemma="třináct`13" src="orig" selected="1">Cn-P7----------</tag>
+<tag lemma="třináct`13" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-lnd92258-020-p2s3w4">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-lnd92258-020-p2s3w8</LM>
 </w.rf>
 <form>šesti</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-P7----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-lnd92258-020-p2s3w9">
 <src.rf>manual</src.rf>

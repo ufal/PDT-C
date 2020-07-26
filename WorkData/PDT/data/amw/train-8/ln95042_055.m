@@ -79,7 +79,7 @@
 <LM>w#w-ln95042-055-p2s1Bw4</LM>
 </w.rf>
 <form>Sejmu</form>
-<tag lemma="Sejm_;m_,t" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Sejm_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95042-055-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -394,7 +394,7 @@
 <LM>w#w-ln95042-055-p2s3w5</LM>
 </w.rf>
 <form>jim</form>
-<tag lemma="on-1" src="orig" selected="1">PPXP3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP3--3-------</tag>
 </m>
 <m id="m-ln95042-055-p2s3w6">
 <src.rf>manual</src.rf>

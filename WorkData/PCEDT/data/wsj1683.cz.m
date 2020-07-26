@@ -30,7 +30,7 @@
 <tag>
 <AM lemma="MC-3`1100" src="auto">C}-------------</AM>
 <AM lemma="MC-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="MC-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Mc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1683-001-p1s0W3-Ta">
@@ -41,7 +41,7 @@
 <form>SHIPPING</form>
 <tag>
 <AM lemma="SHIPPING" src="auto">X@-------------</AM>
-<AM lemma="SHIPPING-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Shipping-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1683-001-p1s0W4-Ta">
@@ -703,7 +703,7 @@
 </w.rf>
 <form>což</form>
 <tag>
-<AM lemma="což-1" src="auto" recommended="1">PE--1----------</AM>
+<AM lemma="což-1" src="auto" recommended="1">PQ--1----------</AM>
 <AM lemma="což-1" src="auto">PE--4----------</AM>
 <AM lemma="což-2_^(cožpak:_což_jsem_to_neříkal?)" src="auto">TT-------------</AM>
 <AM lemma="což-3_^(nu_což,_...;_což_o_to,_...)" src="auto">II-------------</AM>
@@ -845,7 +845,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>

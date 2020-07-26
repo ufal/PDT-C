@@ -71,7 +71,7 @@
 <form>wil</form>
 <tag>
 <AM lemma="wil-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="wil-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="wil-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-011-p1s1Bw4">
@@ -262,7 +262,7 @@
 <form>plk</form>
 <tag>
 <AM lemma="plukovník_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="plk_:B_^(plukovník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="plk_^(plukovník)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-011-p1s2w5">

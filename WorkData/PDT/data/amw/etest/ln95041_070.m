@@ -51,7 +51,7 @@
 <LM>w#w-ln95041-070-p1s1w5</LM>
 </w.rf>
 <form>předán</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95041-070-p1s1w6">
 <src.rf>manual</src.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-ln95041-070-p3s1Bw17</LM>
 </w.rf>
 <form>předali</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95041-070-p3s1Bw18">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-ln95041-070-p4s2w14</LM>
 </w.rf>
 <form>zastavil</form>
-<tag lemma="zastavit-1_:W_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-070-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1002,7 +1002,7 @@
 <LM>w#w-ln95041-070-p4s5w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-070-p4s5w4">
 <src.rf>manual</src.rf>
@@ -1566,7 +1566,7 @@
 <LM>w#w-ln95041-070-p5s2w12</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95041-070-p5s2w13">
 <src.rf>manual</src.rf>
@@ -1632,7 +1632,7 @@
 <LM>w#w-ln95041-070-p5s3w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95041-070-p5s3w4">
 <src.rf>manual</src.rf>
@@ -1688,7 +1688,7 @@
 <LM>w#w-ln95041-070-p5s3w10</LM>
 </w.rf>
 <form>němu</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS3--3------1</tag>
 </m>
 <m id="m-ln95041-070-p5s3w11">
 <src.rf>manual</src.rf>

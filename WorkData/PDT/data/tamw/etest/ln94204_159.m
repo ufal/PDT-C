@@ -1074,7 +1074,7 @@
 <LM>w#w-ln94204-159-p5s1w4</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94204-159-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <LM>w#w-ln94204-159-p6s1w12</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag lemma="například" src="orig" selected="1">Db------------b</tag>
 </m>
 <m id="m-ln94204-159-p6s1w13">
 <src.rf>manual</src.rf>
@@ -1464,7 +1464,7 @@
 <form>USAID</form>
 <tag>
 <AM lemma="USAID-1_:B_;m_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="USAID-88_;m_,t_^(United_States_Agency_for_Inter._Devel." src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USAID-88_;m_^(United_States_Agency_for_Inter._Devel." src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-159-p7s1w6">
@@ -1481,7 +1481,7 @@
 <LM>w#w-ln94204-159-p7s1w7</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94204-159-p7s1w8">
 <src.rf>manual</src.rf>
@@ -1807,7 +1807,7 @@
 <LM>w#w-ln94204-159-p8s1w13</LM>
 </w.rf>
 <form>miliardy</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="miliarda`1000000000" src="orig" selected="1">CzFS2----------</tag>
 </m>
 <m id="m-ln94204-159-p8s1w14">
 <src.rf>manual</src.rf>
@@ -1815,7 +1815,7 @@
 <LM>w#w-ln94204-159-p8s1w14</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag lemma="USD_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-ln94204-159-p8s1w15">
 <src.rf>manual</src.rf>
@@ -1839,7 +1839,7 @@
 <LM>w#w-ln94204-159-p8s1w17</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9XP2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP2----------</tag>
 </m>
 <m id="m-ln94204-159-p8s1w18">
 <src.rf>manual</src.rf>

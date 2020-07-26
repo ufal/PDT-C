@@ -51,7 +51,7 @@
 <LM>w#w-lnd91301-041-p1s1w5</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="televize" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 </s>
 <s id="m-lnd91301-041-p2s1">
@@ -169,7 +169,7 @@
 <form>NOU</form>
 <tag>
 <AM lemma="nou-98_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="NOU-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Nou-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-041-p3s1Aw13">
@@ -188,7 +188,7 @@
 <form>HAU</form>
 <tag>
 <AM lemma="hau-98" src="orig">NNNXX-----A----</AM>
-<AM lemma="HAU-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hau-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-041-p3s1Aw15">
@@ -456,7 +456,7 @@
 <LM>w#w-lnd91301-041-p3s2w11</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-lnd91301-041-p3s2w12">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-lnd91301-041-p3s3w1</LM>
 </w.rf>
 <form>ČTV</form>
-<tag lemma="ČTV-1_:B_;m_^(Česká_televize)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČTV-1_;m_^(Česká_televize)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd91301-041-p3s3w2">
 <src.rf>manual</src.rf>
@@ -991,7 +991,7 @@
 <LM>w#w-lnd91301-041-p3s4w17</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-lnd91301-041-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1150,7 +1150,7 @@
 <LM>w#w-lnd91301-041-p3s6w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd91301-041-p3s6w3">
 <src.rf>manual</src.rf>
@@ -1182,7 +1182,7 @@
 <LM>w#w-lnd91301-041-p3s6w6</LM>
 </w.rf>
 <form>osmnáct</form>
-<tag lemma="osmnáct`18" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="osmnáct`18" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-lnd91301-041-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1280,7 +1280,7 @@
 <LM>w#w-lnd91301-041-p3s7w10</LM>
 </w.rf>
 <form>leccos</form>
-<tag lemma="leccos" src="orig" selected="1">PZ--4----------</tag>
+<tag lemma="leccos" src="orig" selected="1">PK--4----------</tag>
 </m>
 <m id="m-lnd91301-041-p3s7w11">
 <src.rf>manual</src.rf>
@@ -1352,7 +1352,7 @@
 <LM>w#w-lnd91301-041-p3s7w19</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-lnd91301-041-p3s7w20">
 <src.rf>manual</src.rf>

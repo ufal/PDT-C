@@ -87,7 +87,7 @@
 <form>hai</form>
 <tag>
 <AM lemma="hai-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hai-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hai-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-123-p2s1Aw4">
@@ -370,7 +370,7 @@
 <LM>w#w-mf930709-123-p2s2w2</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-mf930709-123-p2s2w3">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-mf930709-123-p2s2w6</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSZS6FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-mf930709-123-p2s2w7">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-mf930709-123-p2s2w15</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-mf930709-123-p2s2w16">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-mf930709-123-p2s3w4</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf930709-123-p2s3w5">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-mf930709-123-p2s4w8</LM>
 </w.rf>
 <form>přítelkyni</form>
-<tag lemma="přítelkyně_^(^FY*4)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="přítelkyně" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930709-123-p2s4w9">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 <LM>w#w-mf930709-123-p2s4w12</LM>
 </w.rf>
 <form>ní</form>
-<tag lemma="on-1" src="orig" selected="1">P5FS2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS2--3-------</tag>
 </m>
 <m id="m-mf930709-123-p2s4w13">
 <src.rf>manual</src.rf>
@@ -883,7 +883,7 @@
 <LM>w#w-mf930709-123-p2s5w17</LM>
 </w.rf>
 <form>ho</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS4--3-------</tag>
 </m>
 <m id="m-mf930709-123-p2s5w18">
 <src.rf>manual</src.rf>

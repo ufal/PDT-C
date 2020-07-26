@@ -149,7 +149,7 @@
 <LM>w#w-cmpr9410-009-p5s3w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-cmpr9410-009-p5s3w3">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 <LM>w#w-cmpr9410-009-p7s4w18</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-cmpr9410-009-p7s4w19">
 <src.rf>manual</src.rf>
@@ -935,7 +935,7 @@
 <LM>w#w-cmpr9410-009-p7s4w21</LM>
 </w.rf>
 <form>spadá</form>
-<tag lemma="spadat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="spadat" src="orig" selected="1">VB-S---3P-AA---</tag>
 </m>
 <m id="m-cmpr9410-009-p7s4w22">
 <src.rf>manual</src.rf>

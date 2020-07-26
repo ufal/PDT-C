@@ -75,7 +75,7 @@
 <LM>w#w-lnd92253-067-p1s1w8</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="rok" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-lnd92253-067-p1s1w9">
 <src.rf>manual</src.rf>

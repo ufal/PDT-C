@@ -61,7 +61,7 @@
 <LM>w#w-ln94202-39-p2s1Aw3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mot-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-ln94202-39-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-ln94202-39-p2s1Bw8</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94202-39-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-ln94202-39-p2s2w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94202-39-p2s2w4">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-ln94202-39-p2s2w7</LM>
 </w.rf>
 <form>sedmnáct</form>
-<tag lemma="sedmnáct`17" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="sedmnáct`17" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94202-39-p2s2w8">
 <src.rf>manual</src.rf>

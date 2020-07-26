@@ -1616,7 +1616,7 @@
 <LM>w#w-lnd92259-101-p8s2w38</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag lemma="B-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
 </m>
 <m id="m-lnd92259-101-p8s2w39">
 <src.rf>manual</src.rf>
@@ -2406,7 +2406,7 @@
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92259-101-p10s1w27">

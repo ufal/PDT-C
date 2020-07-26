@@ -426,7 +426,7 @@
 <LM>w#w-cmpr9413-016-p5s2w11</LM>
 </w.rf>
 <form>Vysokoškolákov</form>
-<tag lemma="Vysokoškolák_;G_,t" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Vysokoškolák_;G" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-cmpr9413-016-p5s2w12">
 <src.rf>manual</src.rf>
@@ -1154,7 +1154,7 @@
 <form>TRAVELLING</form>
 <tag>
 <AM lemma="Travelling_;m_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="TRAVELLING-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Travelling-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-016-p7s1w2">
@@ -1687,7 +1687,7 @@
 <form>VERCAJCH</form>
 <tag>
 <AM lemma="Vercajch_;m_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="VERCAJCH-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Vercajch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-016-p8s1w2">
@@ -3533,7 +3533,7 @@
 <LM>w#w-cmpr9413-016-p18s1w5</LM>
 </w.rf>
 <form>dřevoobráběcích</form>
-<tag lemma="dřevoobráběcí_^(^IC*2t)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="dřevoobráběcí" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-cmpr9413-016-p18s1w6">
 <src.rf>manual</src.rf>

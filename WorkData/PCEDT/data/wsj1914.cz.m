@@ -144,7 +144,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -685,7 +685,7 @@
 <LM>w#w-wsj1914-001-p1s1W23</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj1914-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -754,7 +754,7 @@
 <tag>
 <AM lemma="sedm`7" src="auto">Cn-P2----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-P3----------</AM>
-<AM lemma="sedm`7" src="auto" recommended="1">Cn-P6----------</AM>
+<AM lemma="sedm`7" src="auto" recommended="1">Cl-P6----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-P7----------</AM>
 </tag>
 </m>
@@ -1162,7 +1162,7 @@
 <AM lemma="pět-2_^(zpívat)" src="auto">Vf--------A-I-2</AM>
 <AM lemma="pět-1`5" src="auto">Cn-P2----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-P3----------</AM>
-<AM lemma="pět-1`5" src="auto" recommended="1">Cn-P6----------</AM>
+<AM lemma="pět-1`5" src="auto" recommended="1">Cl-P6----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-P7----------</AM>
 <AM lemma="pět-3`5" src="auto">A2--------A----</AM>
 </tag>
@@ -1930,7 +1930,7 @@
 </w.rf>
 <form>dvanácti</form>
 <tag>
-<AM lemma="dvanáct`12" src="auto" recommended="1">Cn-P2----------</AM>
+<AM lemma="dvanáct`12" src="auto" recommended="1">Cl-P2----------</AM>
 <AM lemma="dvanáct`12" src="auto">Cn-P3----------</AM>
 <AM lemma="dvanáct`12" src="auto">Cn-P6----------</AM>
 <AM lemma="dvanáct`12" src="auto">Cn-P7----------</AM>

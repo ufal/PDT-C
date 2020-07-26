@@ -77,7 +77,7 @@
 <LM>w#w-lnd92255-115-p2s1w1</LM>
 </w.rf>
 <form>Devět</form>
-<tag lemma="devět`9" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="devět`9" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-lnd92255-115-p2s1w2">
 <src.rf>manual</src.rf>
@@ -112,7 +112,7 @@
 </w.rf>
 <form>tom</form>
 <tag>
-<AM lemma="tom-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="tom-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
 </tag>
 </m>
@@ -326,7 +326,7 @@
 <LM>w#w-lnd92255-115-p3s3w2</LM>
 </w.rf>
 <form>devět</form>
-<tag lemma="devět`9" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="devět`9" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-lnd92255-115-p3s3w3">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-lnd92255-115-p3s3w8</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-115-p3s3w9">
 <src.rf>manual</src.rf>
@@ -506,7 +506,7 @@
 <LM>w#w-lnd92255-115-p3s3w24</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-115-p3s3w25">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Francouzkou</form>
-<tag lemma="Francouzka_;E_^(^FM*2)" src="auto" selected="1">NNFS7-----A----</tag>
+<tag lemma="Francouzka_;E" src="auto" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92255-115-p3s4w12">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-lnd92255-115-p3s4w18</LM>
 </w.rf>
 <form>Japonkou</form>
-<tag lemma="Japonka_;E_^(^FM*2ec)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Japonka_;E" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92255-115-p3s4w19">
 <src.rf>manual</src.rf>

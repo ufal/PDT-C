@@ -157,7 +157,7 @@
 <LM>w#w-cmpr9410-020-p3s1w17</LM>
 </w.rf>
 <form>vydávají</form>
-<tag lemma="vydávat-2_:T_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*6at-2)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vydávat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*6at-2)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9410-020-p3s1w18">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <tag>
 <AM lemma="Ltd_:B_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Ltd-77" src="manual">F%-------------</AM>
-<AM lemma="Ltd-77_:B" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">B%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-020-p3s1w34">
@@ -495,7 +495,7 @@
 <LM>w#w-cmpr9410-020-p3s2w18</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9410-020-p3s2w19">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-cmpr9410-020-p3s3w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-cmpr9410-020-p3s3w3">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-cmpr9410-020-p3s4w10</LM>
 </w.rf>
 <form>ho</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS4--3-------</tag>
 </m>
 <m id="m-cmpr9410-020-p3s4w11">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-cmpr9410-020-p3s4w19</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-cmpr9410-020-p3s4w20">
 <src.rf>manual</src.rf>

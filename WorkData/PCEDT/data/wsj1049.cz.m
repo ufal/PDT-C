@@ -29,7 +29,7 @@
 <form>NICHOLS</form>
 <tag>
 <AM lemma="Nichols_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="NICHOLS-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Nichols-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1049-001-p1s0W3-Ta">
@@ -42,7 +42,7 @@
 <AM lemma="Institute-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="institut" src="auto">NNIS5-----A----</AM>
 <AM lemma="institute-77_,t" src="auto">F%-------------</AM>
-<AM lemma="INSTITUTE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Institute-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1049-001-p1s0W4-Ta">
@@ -146,7 +146,7 @@
 </w.rf>
 <form>dvě</form>
 <tag>
-<AM lemma="dva`2" src="auto" recommended="1">ClHP1----------</AM>
+<AM lemma="dva`2" src="auto" recommended="1">CnHP1----------</AM>
 <AM lemma="dva`2" src="auto">ClHP4----------</AM>
 <AM lemma="dva`2" src="auto">ClHP5----------</AM>
 </tag>
@@ -184,7 +184,7 @@
 <LM>w#w-wsj1049-001-p1s0W14</LM>
 </w.rf>
 <form>jednu</form>
-<tag lemma="jeden`1" src="auto" recommended="1">ClFS4----------</tag>
+<tag lemma="jeden`1" src="auto" recommended="1">CnFS4----------</tag>
 </m>
 <m id="m-wsj1049-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>

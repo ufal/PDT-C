@@ -280,7 +280,7 @@
 <LM>w#w-lnd92252-030-p2s1w2</LM>
 </w.rf>
 <form>Tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-lnd92252-030-p2s1w3">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-lnd92252-030-p2s1w14</LM>
 </w.rf>
 <form>napadeni</form>
-<tag lemma="napadnout" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="napadnout" src="orig" selected="1">VsMP----X-AP---</tag>
 </m>
 <m id="m-lnd92252-030-p2s1w15">
 <src.rf>manual</src.rf>

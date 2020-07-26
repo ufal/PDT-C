@@ -163,7 +163,7 @@
 <LM>w#w-mf930703-124-p1s1w19</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-124-p1s1w20">
 <src.rf>manual</src.rf>

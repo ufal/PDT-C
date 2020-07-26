@@ -63,7 +63,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -498,7 +498,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -1386,7 +1386,7 @@
 </w.rf>
 <form>což</form>
 <tag>
-<AM lemma="což-1" recommended="1">PE--1----------</AM>
+<AM lemma="což-1" recommended="1">PQ--1----------</AM>
 <AM lemma="což-1">PE--4----------</AM>
 <AM lemma="což-2_^(cožpak:_což_jsem_to_neříkal?)">TT-------------</AM>
 <AM lemma="což-3_^(nu_což,_...;_což_o_to,_...)">II-------------</AM>
@@ -1534,7 +1534,7 @@
 <LM>w#w-mu_19-SCzechM-p2015-s1-w24</LM>
 </w.rf>
 <form>čtvrtinu</form>
-<tag lemma="čtvrtina" recommended="1">CyFS4----------</tag>
+<tag lemma="čtvrtina" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="mu_19-SCzechM-p2015-s1-w25">
 <w.rf>
@@ -2564,7 +2564,7 @@
 <LM>w#w-mu_19-SCzechM-p2021-s1-w32</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="mu_19-SCzechM-p2021-s1-w33">
 <w.rf>
@@ -3318,7 +3318,7 @@
 </w.rf>
 <form>si</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--3----------</AM>
 <AM lemma="být">VB-S---2P-AA--7</AM>
 </tag>
 </m>
@@ -3328,7 +3328,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="on-1_^(oni/ono)" recommended="1">PPXP4--3-------</AM>
+<AM lemma="on-1" recommended="1">PEXP4--3-------</AM>
 <AM lemma="být">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)">PPNS4--3-------</AM>
 </tag>
@@ -4648,7 +4648,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -5027,7 +5027,7 @@
 </w.rf>
 <form>obou</form>
 <tag>
-<AM lemma="oba`2" recommended="1">ClXP6----------</AM>
+<AM lemma="oba`2" recommended="1">CnXP6----------</AM>
 <AM lemma="oba`2">ClXP2----------</AM>
 </tag>
 </m>

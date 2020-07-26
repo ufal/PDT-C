@@ -21,7 +21,7 @@
 <form>KSČM</form>
 <tag>
 <AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-57-p1s1w2">
@@ -118,7 +118,7 @@
 <form>KSČM</form>
 <tag>
 <AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-57-p2s1Cw3">
@@ -347,7 +347,7 @@
 <form>KSČM</form>
 <tag>
 <AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-57-p2s2w6">
@@ -435,7 +435,7 @@
 <form>KSČM</form>
 <tag>
 <AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-57-p3s1w4">
@@ -721,7 +721,7 @@
 <tag>
 <AM lemma="spadeno_^(^NO*3nout)_(mít_spadeno)" src="orig">Db-------------</AM>
 <AM lemma="spadený" src="auto" recommended="1">ACNS------A----</AM>
-<AM lemma="spadnout" src="auto" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="spadnout" src="auto" selected="1">VsNS----X-AP---</AM>
 </tag>
 </m>
 <m id="m-ln94206-57-p3s2w6">
@@ -964,7 +964,7 @@
 <LM>w#w-ln94206-57-p4s1w23</LM>
 </w.rf>
 <form>jimi</form>
-<tag lemma="on-1" src="orig" selected="1">PPXP7--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP7--3-------</tag>
 </m>
 <m id="m-ln94206-57-p4s1w24">
 <src.rf>manual</src.rf>

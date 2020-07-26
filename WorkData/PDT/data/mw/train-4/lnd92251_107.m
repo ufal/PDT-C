@@ -35,7 +35,7 @@
 <LM>w#w-lnd92251-107-p1s1w3</LM>
 </w.rf>
 <form>dostižen</form>
-<tag lemma="dostihnout" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="dostihnout" src="orig" selected="1">VsYS----X-AP---</tag>
 </m>
 </s>
 <s id="m-lnd92251-107-p2s1">
@@ -381,7 +381,7 @@
 <LM>w#w-lnd92251-107-p2s3w15</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92251-107-p2s3w16">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-lnd92251-107-p2s3w16</LM>
 </w.rf>
 <form>jim</form>
-<tag lemma="on-1" src="orig" selected="1">PPXP3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP3--3-------</tag>
 </m>
 <m id="m-lnd92251-107-p2s3w17">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-lnd92251-107-p2s3w21</LM>
 </w.rf>
 <form>třetiny</form>
-<tag lemma="třetina" src="orig" selected="1">CyFS2----------</tag>
+<tag lemma="třetina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-107-p2s3w22">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-lnd92251-107-p2s4w1</LM>
 </w.rf>
 <form>Dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP4----------</tag>
 </m>
 <m id="m-lnd92251-107-p2s4w2">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-lnd92251-107-p2s6w8</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-lnd92251-107-p2s6w9">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-lnd92251-107-p2s8w10</LM>
 </w.rf>
 <form>čemž</form>
-<tag lemma="což-1" src="orig" selected="1">PE--6----------</tag>
+<tag lemma="což-1" src="orig" selected="1">PQ--6----------</tag>
 </m>
 <m id="m-lnd92251-107-p2s8w11">
 <src.rf>manual</src.rf>
@@ -2179,7 +2179,7 @@
 <LM>w#w-lnd92251-107-p6s8w1</LM>
 </w.rf>
 <form>Třetiny</form>
-<tag lemma="třetina" src="orig" selected="1">CyFP1----------</tag>
+<tag lemma="třetina" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92251-107-p6s8w2">
 <src.rf>manual</src.rf>
@@ -2851,7 +2851,7 @@
 <LM>w#w-lnd92251-107-p9s10w1</LM>
 </w.rf>
 <form>Třetiny</form>
-<tag lemma="třetina" src="orig" selected="1">CyFP1----------</tag>
+<tag lemma="třetina" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92251-107-p9s10w2">
 <src.rf>manual</src.rf>
@@ -3447,7 +3447,7 @@
 <LM>w#w-lnd92251-107-p11s11w1</LM>
 </w.rf>
 <form>Třetiny</form>
-<tag lemma="třetina" src="orig" selected="1">CyFP1----------</tag>
+<tag lemma="třetina" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92251-107-p11s11w2">
 <src.rf>manual</src.rf>

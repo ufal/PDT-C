@@ -35,7 +35,7 @@
 <LM>w#w-ln94201-75-p1s1w3</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln94201-75-p1s1w4">
 <src.rf>manual</src.rf>
@@ -164,7 +164,7 @@
 <LM>w#w-ln94201-75-p2s1w14</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln94201-75-p2s1w15">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-ln94201-75-p2s3w17</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-ln94201-75-p2s3w18">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-ln94201-75-p2s4w3</LM>
 </w.rf>
 <form>Joz</form>
-<tag lemma="Jozef_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag lemma="Jozef_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
 </m>
 <m id="m-ln94201-75-p2s4w4">
 <src.rf>manual</src.rf>

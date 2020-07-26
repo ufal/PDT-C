@@ -111,7 +111,7 @@
 <LM>w#w-ln94204-110-p2s1Bw7</LM>
 </w.rf>
 <form>přistižen</form>
-<tag lemma="přistihnout" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přistihnout" src="orig" selected="1">VsYS----X-AP---</tag>
 </m>
 <m id="m-ln94204-110-p2s1Bw8">
 <src.rf>manual</src.rf>

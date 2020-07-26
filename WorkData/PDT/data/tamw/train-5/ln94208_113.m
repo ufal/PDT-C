@@ -128,7 +128,7 @@
 <LM>w#w-ln94208-113-p2s1w13</LM>
 </w.rf>
 <form>což</form>
-<tag lemma="což-1" src="orig" selected="1">PE--1----------</tag>
+<tag lemma="což-1" src="orig" selected="1">PQ--1----------</tag>
 </m>
 <m id="m-ln94208-113-p2s1w14">
 <src.rf>manual</src.rf>

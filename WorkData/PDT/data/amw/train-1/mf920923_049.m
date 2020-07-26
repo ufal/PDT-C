@@ -86,7 +86,7 @@
 <tag>
 <AM lemma="Pro_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="pro-7_^(předpona,_sam.)" src="auto" selected="1">A2--------A----</AM>
+<AM lemma="pro-7_^(předpona,_sam.)" src="auto" selected="1">S2--------A----</AM>
 <AM lemma="pro_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Pro-77" src="manual">F%-------------</AM>
 </tag>
@@ -559,7 +559,7 @@
 <tag>
 <AM lemma="Pro_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="pro-7_^(předpona,_sam.)" src="auto" selected="1">A2--------A----</AM>
+<AM lemma="pro-7_^(předpona,_sam.)" src="auto" selected="1">S2--------A----</AM>
 <AM lemma="pro_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Pro-77" src="manual">F%-------------</AM>
 </tag>
@@ -654,7 +654,7 @@
 <tag>
 <AM lemma="ACE-2_:B_;m_,t_^(Allied_Command_Europe)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ace_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="ACE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Ace-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-049-p4s2w21">
@@ -1212,7 +1212,7 @@
 <LM>w#w-mf920923-049-p4s7w15</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920923-049-p4s7w16">
 <src.rf>manual</src.rf>

@@ -81,7 +81,7 @@
 <LM>w#w-lnd92252-005-p3s2w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92252-005-p3s2w4">
 <src.rf>manual</src.rf>
@@ -360,7 +360,7 @@
 <LM>w#w-lnd92252-005-p3s4w11</LM>
 </w.rf>
 <form>Sajudis</form>
-<tag lemma="Sajudis_;m_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sajudis_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-005-p3s4w12">
 <src.rf>manual</src.rf>
@@ -632,7 +632,7 @@
 <LM>w#w-lnd92252-005-p3s6w11</LM>
 </w.rf>
 <form>sedm</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="sedm`7" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-lnd92252-005-p3s6w12">
 <src.rf>manual</src.rf>

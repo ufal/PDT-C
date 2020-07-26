@@ -105,7 +105,7 @@
 <form>haš</form>
 <tag>
 <AM lemma="haš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="haš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="haš-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-21-p2s1Bw4">
@@ -124,7 +124,7 @@
 <form>če</form>
 <tag>
 <AM lemma="če-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="če-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="če-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-21-p2s1Bw6">
@@ -210,7 +210,7 @@
 <LM>w#w-ln94209-21-p2s1Cw8</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94209-21-p2s1Cw9">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-ln94209-21-p2s2w4</LM>
 </w.rf>
 <form>něho</form>
-<tag lemma="on-1" src="auto" selected="1">P5ZS2--3------1</tag>
+<tag lemma="on-1" src="auto" selected="1">PEZS2--3------1</tag>
 </m>
 <m id="m-ln94209-21-p2s2w5">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-21-p2s2w16">

@@ -93,7 +93,7 @@
 <LM>w#w-ln94201-68-p2s1w8</LM>
 </w.rf>
 <form>tisíce</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIS2----------</tag>
 </m>
 <m id="m-ln94201-68-p2s1w9">
 <src.rf>manual</src.rf>
@@ -179,7 +179,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-3_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-68-p2s1w18">
@@ -560,7 +560,7 @@
 <LM>w#w-ln94201-68-p2s5w4</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94201-68-p2s5w5">
 <src.rf>manual</src.rf>

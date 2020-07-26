@@ -179,7 +179,7 @@
 <LM>w#w-wsj0901-001-p1s1W12</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milión`1000000" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj0901-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -342,7 +342,7 @@
 </w.rf>
 <form>jeden</form>
 <tag>
-<AM lemma="jeden`1" src="auto" recommended="1">ClIS4----------</AM>
+<AM lemma="jeden`1" src="auto" recommended="1">CnIS4----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
 <AM lemma="jíst" src="auto">VsYS----X-API--</AM>
@@ -860,7 +860,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -904,7 +904,7 @@
 </w.rf>
 <form>miliónu</form>
 <tag>
-<AM lemma="milión`1000000" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="milión`1000000" src="auto" recommended="1">CzIS2----------</AM>
 <AM lemma="milión`1000000" src="auto">NNIS3-----A----</AM>
 <AM lemma="milión`1000000" src="auto">NNIS6-----A----</AM>
 </tag>

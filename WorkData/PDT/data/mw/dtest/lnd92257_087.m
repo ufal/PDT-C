@@ -389,7 +389,7 @@
 <LM>w#w-lnd92257-087-p2s3w20</LM>
 </w.rf>
 <form>obou</form>
-<tag lemma="oba`2" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnXP2----------</tag>
 </m>
 <m id="m-lnd92257-087-p2s3w21">
 <src.rf>manual</src.rf>

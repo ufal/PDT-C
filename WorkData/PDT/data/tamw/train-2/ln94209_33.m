@@ -69,7 +69,7 @@
 <LM>w#w-ln94209-33-p2s1Aw4</LM>
 </w.rf>
 <form>vet</form>
-<tag lemma="vet-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="vet-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-ln94209-33-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-ln94209-33-p2s1Bw15</LM>
 </w.rf>
 <form>ukradl</form>
-<tag lemma="ukrást_:W" src="auto" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="ukrást" src="auto" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94209-33-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-33-p2s1Bw20">
@@ -278,7 +278,7 @@
 <LM>w#w-ln94209-33-p2s1Bw23</LM>
 </w.rf>
 <form>osmi</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-P7----------</tag>
+<tag lemma="osm`8" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-ln94209-33-p2s1Bw24">
 <src.rf>manual</src.rf>

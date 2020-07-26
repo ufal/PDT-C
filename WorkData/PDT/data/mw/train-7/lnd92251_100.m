@@ -35,7 +35,7 @@
 <LM>w#w-lnd92251-100-p1s1w3</LM>
 </w.rf>
 <form>SE</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92251-100-p1s1w4">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-lnd92251-100-p1s1w4</LM>
 </w.rf>
 <form>NEZASTAVILY</form>
-<tag lemma="zastavit-1_:W_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-lnd92251-100-p1s1w5">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-lnd92251-100-p2s1w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92251-100-p2s1w4">
 <src.rf>manual</src.rf>
@@ -286,7 +286,7 @@
 <LM>w#w-lnd92251-100-p3s3w8</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-lnd92251-100-p3s3w9">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 <LM>w#w-lnd92251-100-p3s4w10</LM>
 </w.rf>
 <form>čemž</form>
-<tag lemma="což-1" src="orig" selected="1">PE--6----------</tag>
+<tag lemma="což-1" src="orig" selected="1">PQ--6----------</tag>
 </m>
 <m id="m-lnd92251-100-p3s4w11">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-lnd92251-100-p3s5w3</LM>
 </w.rf>
 <form>čtyřech</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-lnd92251-100-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1060,7 +1060,7 @@
 <LM>w#w-lnd92251-100-p5s8w1</LM>
 </w.rf>
 <form>Třetiny</form>
-<tag lemma="třetina" src="orig" selected="1">CyFP1----------</tag>
+<tag lemma="třetina" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92251-100-p5s8w2">
 <src.rf>manual</src.rf>
@@ -1612,7 +1612,7 @@
 <LM>w#w-lnd92251-100-p7s10w1</LM>
 </w.rf>
 <form>Třetiny</form>
-<tag lemma="třetina" src="orig" selected="1">CyFP1----------</tag>
+<tag lemma="třetina" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92251-100-p7s10w2">
 <src.rf>manual</src.rf>

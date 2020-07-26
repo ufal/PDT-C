@@ -240,7 +240,7 @@
 <LM>w#w-mf930702-080-p2s1w24</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9ZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
 </m>
 <m id="m-mf930702-080-p2s1w25">
 <src.rf>manual</src.rf>

@@ -67,7 +67,7 @@
 <LM>w#w-ln94206-128-p2s11w7</LM>
 </w.rf>
 <form>devíti</form>
-<tag lemma="devět`9" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="devět`9" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln94206-128-p2s11w8">
 <src.rf>manual</src.rf>

@@ -55,7 +55,7 @@
 <form>ivh</form>
 <tag>
 <AM lemma="ivh-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ivh-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ivh-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-54-p2s1Aw4">
@@ -418,7 +418,7 @@
 <LM>w#w-ln94200-54-p2s4w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94200-54-p2s4w4">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-ln94200-54-p2s4w10</LM>
 </w.rf>
 <form>jedna</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS1----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS1----------</tag>
 </m>
 <m id="m-ln94200-54-p2s4w11">
 <src.rf>manual</src.rf>
@@ -674,7 +674,7 @@
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**mil" src="manual">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-ln94200-54-p2s5w22">

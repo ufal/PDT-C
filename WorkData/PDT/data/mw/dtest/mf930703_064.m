@@ -173,7 +173,7 @@
 <LM>w#w-mf930703-064-p2s1w18</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930703-064-p2s1w19">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <form>ČT</form>
 <tag>
 <AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_;m_^(Česká_televize)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-064-p2s1w23">
@@ -330,7 +330,7 @@
 <LM>w#w-mf930703-064-p2s2w9</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-mf930703-064-p2s2w10">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-mf930703-064-p2s3w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930703-064-p2s3w5">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <form>spa</form>
 <tag>
 <AM lemma="spa-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="spa-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="spa-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-064-p3s1w3">
@@ -903,7 +903,7 @@
 <LM>w#w-mf930703-064-p4s2w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930703-064-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1154,7 +1154,7 @@
 <form>ČT</form>
 <tag>
 <AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_;m_^(Česká_televize)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-064-p4s3w13">
@@ -1331,7 +1331,7 @@
 <tag>
 <AM lemma="raf-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="rafnout" src="auto" recommended="1">VpYS----R-AAP-6</AM>
-<AM lemma="raf-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="raf-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-064-p5s1w3">

@@ -48,7 +48,7 @@
 <form>HDP</form>
 <tag>
 <AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HDP_^(hrubý_domácí_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-059-p2s1w5">
@@ -109,7 +109,7 @@
 <form>HDP</form>
 <tag>
 <AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HDP_^(hrubý_domácí_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-059-p4s1w2">

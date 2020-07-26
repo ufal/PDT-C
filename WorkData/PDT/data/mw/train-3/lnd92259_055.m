@@ -288,7 +288,7 @@
 <LM>w#w-lnd92259-055-p2s3w5</LM>
 </w.rf>
 <form>obě</form>
-<tag lemma="oba`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-lnd92259-055-p2s3w6">
 <src.rf>manual</src.rf>

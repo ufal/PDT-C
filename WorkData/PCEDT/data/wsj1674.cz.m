@@ -29,7 +29,7 @@
 <form>MARK</form>
 <tag>
 <AM lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="MARK-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Mark-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1674-001-p1s0W3-Ta">
@@ -40,7 +40,7 @@
 <form>RESOURCES</form>
 <tag>
 <AM lemma="RESOURCES" src="auto">X@-------------</AM>
-<AM lemma="RESOURCES-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Resources-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1674-001-p1s0W4-Ta">
@@ -53,7 +53,7 @@
 <AM lemma="INC-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Inc-77_:B" src="auto">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
-<AM lemma="INC-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1674-001-p1s0W5-Ta">
@@ -192,7 +192,7 @@
 <LM>w#w-wsj1674-001-p1s0W17</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1674-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -243,7 +243,7 @@
 </w.rf>
 <form>milionu</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIS2----------</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -841,7 +841,7 @@
 <form>jejího</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSMS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS2FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS2FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1674-001-p1s1W33-Ta">

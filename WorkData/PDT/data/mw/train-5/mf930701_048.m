@@ -54,7 +54,7 @@
 </w.rf>
 <form>lb</form>
 <tag>
-<AM lemma="lb-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="lb-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="libra-2_:B_^(váhová_jednotka)" src="auto" recommended="1">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -571,7 +571,7 @@
 <LM>w#w-mf930701-048-p2s5w3</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-mf930701-048-p2s5w4">
 <src.rf>manual</src.rf>

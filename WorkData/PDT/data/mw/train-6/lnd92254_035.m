@@ -558,7 +558,7 @@
 <LM>w#w-lnd92254-035-p3s4w15</LM>
 </w.rf>
 <form>předali</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-035-p3s4w16">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-lnd92254-035-p3s5w3</LM>
 </w.rf>
 <form>předat</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92254-035-p3s5w4">
 <src.rf>manual</src.rf>

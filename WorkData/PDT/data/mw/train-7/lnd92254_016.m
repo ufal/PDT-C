@@ -142,7 +142,7 @@
 <form>LIBRI</form>
 <tag>
 <AM lemma="Libri_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="LIBRI-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Libri-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-016-p1s1w16">
@@ -255,7 +255,7 @@
 <LM>w#w-lnd92254-016-p1s2w4</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92254-016-p1s2w5">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-lnd92254-016-p2s3w5</LM>
 </w.rf>
 <form>ho</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS4--3-------</tag>
 </m>
 <m id="m-lnd92254-016-p2s3w6">
 <src.rf>manual</src.rf>

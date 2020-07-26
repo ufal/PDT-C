@@ -59,7 +59,7 @@
 <LM>w#w-mf930703-138-p1s1w6</LM>
 </w.rf>
 <form>tádžicko</form>
-<tag lemma="tádžický" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="tádžický" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930703-138-p1s1w7">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-mf930703-138-p2s1w4</LM>
 </w.rf>
 <form>čtyřicet</form>
-<tag lemma="čtyřicet`40" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="čtyřicet`40" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf930703-138-p2s1w5">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-mf930703-138-p2s1w6</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-mf930703-138-p2s1w7">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-mf930703-138-p2s1w14</LM>
 </w.rf>
 <form>jedné</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS6----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS6----------</tag>
 </m>
 <m id="m-mf930703-138-p2s1w15">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-mf930703-138-p2s1w31</LM>
 </w.rf>
 <form>tádžicko</form>
-<tag lemma="tádžický" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="tádžický" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930703-138-p2s1w32">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-mf930703-138-p3s1w11</LM>
 </w.rf>
 <form>tádžicko</form>
-<tag lemma="tádžický" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="tádžický" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930703-138-p3s1w12">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-mf930703-138-p3s1w17</LM>
 </w.rf>
 <form>deset</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="deset`10" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf930703-138-p3s1w18">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-mf930703-138-p3s2w12</LM>
 </w.rf>
 <form>čtyři</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-mf930703-138-p3s2w13">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <LM>w#w-mf930703-138-p3s2w20</LM>
 </w.rf>
 <form>padesát</form>
-<tag lemma="padesát`50" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="padesát`50" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-mf930703-138-p3s2w21">
 <src.rf>manual</src.rf>

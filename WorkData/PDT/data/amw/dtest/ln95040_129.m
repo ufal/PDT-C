@@ -294,7 +294,7 @@
 <LM>w#w-ln95040-129-p2s1Bw27</LM>
 </w.rf>
 <form>obou</form>
-<tag lemma="oba`2" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnXP2----------</tag>
 </m>
 <m id="m-ln95040-129-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-ln95040-129-p2s1Bw30</LM>
 </w.rf>
 <form>společensko</form>
-<tag lemma="společenský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="společenský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95040-129-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -424,7 +424,7 @@
 <LM>w#w-ln95040-129-p2s2w8</LM>
 </w.rf>
 <form>patnácti</form>
-<tag lemma="patnáct`15" src="orig" selected="1">Cn-P7----------</tag>
+<tag lemma="patnáct`15" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-ln95040-129-p2s2w9">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-ln95040-129-p2s4w1</LM>
 </w.rf>
 <form>Jedním</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS7----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS7----------</tag>
 </m>
 <m id="m-ln95040-129-p2s4w2">
 <src.rf>manual</src.rf>

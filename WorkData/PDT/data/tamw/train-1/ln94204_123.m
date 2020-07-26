@@ -27,7 +27,7 @@
 <LM>w#w-ln94204-123-p2s9w2</LM>
 </w.rf>
 <form>šv</form>
-<tag lemma="šv-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="šv-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-ln94204-123-p2s9w3">
 <src.rf>manual</src.rf>

@@ -417,7 +417,7 @@
 <LM>w#w-wsj1845-001-p1s0W36</LM>
 </w.rf>
 <form>čímž</form>
-<tag lemma="což-1" src="auto" recommended="1">PE--7----------</tag>
+<tag lemma="což-1" src="auto" recommended="1">PQ--7----------</tag>
 </m>
 <m id="m-wsj1845-001-p1s0W37-Ta">
 <src.rf>tagger-a</src.rf>

@@ -294,7 +294,7 @@
 <LM>w#w-lnd94103-053-p1s3w29</LM>
 </w.rf>
 <form>izraelsko</form>
-<tag lemma="izraelský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="izraelský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd94103-053-p1s3w30">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-lnd94103-053-p1s4Aw16</LM>
 </w.rf>
 <form>izraelsko</form>
-<tag lemma="izraelský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="izraelský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd94103-053-p1s4Aw17">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <form>mohl</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="moci_:T_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd94103-053-p1s4Bw7">

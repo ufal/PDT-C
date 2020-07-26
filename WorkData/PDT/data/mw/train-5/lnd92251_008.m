@@ -575,7 +575,7 @@
 <LM>w#w-lnd92251-008-p2s4w2</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-lnd92251-008-p2s4w3">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-lnd92251-008-p2s4w5</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd92251-008-p2s4w6">
 <src.rf>manual</src.rf>

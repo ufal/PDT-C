@@ -53,7 +53,7 @@
 <LM>w#w-mf920922-062-p2s1w3</LM>
 </w.rf>
 <form>Sveti</form>
-<tag lemma="Sveti_;G_,t" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="Sveti_;G" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-mf920922-062-p2s1w4">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-3_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-062-p2s1w11">
@@ -152,7 +152,7 @@
 <AM lemma="Bobby_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="bobby_,t_^(důvěrné_označení_policisty_v_anglickém_prostředí)" src="auto">NNMS1-----A----</AM>
 <AM lemma="bobby_,t_^(důvěrné_označení_policisty_v_anglickém_prostředí)" src="auto">NNMS5-----A----</AM>
-<AM lemma="Bobby_;Y_,t" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Bobby_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-062-p2s1w15">
@@ -227,7 +227,7 @@
 <LM>w#w-mf920922-062-p2s2w2</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-mf920922-062-p2s2w3">
 <src.rf>manual</src.rf>

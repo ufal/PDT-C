@@ -87,7 +87,7 @@
 <form>BROLNu</form>
 <tag>
 <AM lemma="BROLN_:B_;m" src="orig">NNIS2-----A----</AM>
-<AM lemma="Broln_:B_;m_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="Broln_;m_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto" recommended="1" selected="1">BNIS2-----A----</AM>
 <AM lemma="Broln_:B_;m_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto">NNIS3-----A----</AM>
 <AM lemma="Broln_:B_;m_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -148,7 +148,7 @@
 <LM>w#w-lnd91301-037-p2s2w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="on-1_^(oni/ono)" src="orig" selected="1">PPXP4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP4--3-------</tag>
 </m>
 <m id="m-lnd91301-037-p2s2w4">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-lnd91301-037-p2s6w5</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-lnd91301-037-p2s6w6">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-lnd91301-037-p2s6w10</LM>
 </w.rf>
 <form>čtrnáct</form>
-<tag lemma="čtrnáct`14" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="čtrnáct`14" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-lnd91301-037-p2s6w11">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-lnd91301-037-p2s6w12</LM>
 </w.rf>
 <form>patnáct</form>
-<tag lemma="patnáct`15" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="patnáct`15" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-lnd91301-037-p2s6w13">
 <src.rf>manual</src.rf>
@@ -857,7 +857,7 @@
 <LM>w#w-lnd91301-037-p2s7w6</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-lnd91301-037-p2s7w7">
 <src.rf>manual</src.rf>

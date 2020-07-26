@@ -91,7 +91,7 @@
 <LM>w#w-lnd91303-014-p1s1w10</LM>
 </w.rf>
 <form>jednu</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS4----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS4----------</tag>
 </m>
 <m id="m-lnd91303-014-p1s1w11">
 <src.rf>manual</src.rf>

@@ -392,7 +392,7 @@
 <LM>w#w-wsj0169-001-p1s0W27</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_^(U.S._dolar)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="USD_^(U.S._dolar)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0169-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -456,7 +456,7 @@
 <tag>
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
-<AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="auto" recommended="1">CzIXX---------b</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -474,7 +474,7 @@
 <LM>w#w-wsj0169-001-p1s0W35</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_^(U.S._dolar)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="USD_^(U.S._dolar)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0169-001-p1s0W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-wsj0169-001-p1s0W41</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_^(U.S._dolar)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="USD_^(U.S._dolar)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0169-001-p1s0W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -610,7 +610,7 @@
 <tag>
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
-<AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="auto" recommended="1">CzIXX---------b</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -628,7 +628,7 @@
 <LM>w#w-wsj0169-001-p1s0W48</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_^(U.S._dolar)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="USD_^(U.S._dolar)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0169-001-p1s0W49-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1337,7 +1337,7 @@
 <LM>w#w-wsj0169-001-p1s3W22</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_^(U.S._dolar)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="USD_^(U.S._dolar)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0169-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1700,7 +1700,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0169-001-p1s5W13-Ta">
@@ -1799,7 +1799,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0169-001-p1s6W10-Ta">

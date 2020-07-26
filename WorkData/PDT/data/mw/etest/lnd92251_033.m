@@ -32,7 +32,7 @@
 <form>BOHEMICA</form>
 <tag>
 <AM lemma="Bohemica_;m" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Bohemica_,t" src="auto" recommended="1" selected="1">AAXXX----1A----</AM>
+<AM lemma="Bohemica" src="auto" recommended="1" selected="1">AAXXX----1A----</AM>
 <AM lemma="BOHEMICA-77" src="manual">F%-------------</AM>
 </tag>
 </m>
@@ -630,7 +630,7 @@
 <LM>w#w-lnd92251-033-p1s3w16</LM>
 </w.rf>
 <form>třicet</form>
-<tag lemma="třicet`30" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="třicet`30" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-lnd92251-033-p1s3w17">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-033-p1s3w22">
@@ -700,7 +700,7 @@
 </w.rf>
 <form>zla</form>
 <tag>
-<AM lemma="zla-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="zla-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="zlo" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="zlo" src="auto">NNNP4-----A----</AM>
 <AM lemma="zlo" src="auto">NNNP5-----A----</AM>
@@ -757,7 +757,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

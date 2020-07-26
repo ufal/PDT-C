@@ -127,7 +127,7 @@
 <LM>w#w-wsj1967-001-p1s0W11</LM>
 </w.rf>
 <form>čtyř</form>
-<tag lemma="čtyři`4" src="auto" recommended="1">ClXP2----------</tag>
+<tag lemma="čtyři`4" src="auto" recommended="1">Cl-P2----------</tag>
 </m>
 <m id="m-wsj1967-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-vesm9212-022-p1s2w1</LM>
 </w.rf>
 <form>Carcinogenesis</form>
-<tag lemma="Carcinogenesis_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Carcinogenesis_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-vesm9212-022-p1s2w2">
 <src.rf>manual</src.rf>
@@ -94,7 +94,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Carcinogenesis</form>
-<tag lemma="Carcinogenesis_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Carcinogenesis_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-vesm9212-022-p2s2w2">
 <src.rf>manual</src.rf>
@@ -176,7 +176,7 @@
 <LM>w#w-vesm9212-022-p3s2w1</LM>
 </w.rf>
 <form>Carcinogenesis</form>
-<tag lemma="Carcinogenesis_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Carcinogenesis_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-vesm9212-022-p3s2w2">
 <src.rf>manual</src.rf>

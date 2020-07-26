@@ -111,7 +111,7 @@
 <LM>w#w-ln94203-34-p2s1Bw6</LM>
 </w.rf>
 <form>devatenácti</form>
-<tag lemma="devatenáct`19" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="devatenáct`19" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln94203-34-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-34-p2s2w6">
@@ -364,7 +364,7 @@
 <LM>w#w-ln94203-34-p2s2w13</LM>
 </w.rf>
 <form>jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClYS1----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnYS1----------</tag>
 </m>
 <m id="m-ln94203-34-p2s2w14">
 <src.rf>manual</src.rf>

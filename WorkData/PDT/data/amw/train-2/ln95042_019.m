@@ -101,7 +101,7 @@
 <LM>w#w-ln95042-019-p2s1w8</LM>
 </w.rf>
 <form>táhnou</form>
-<tag lemma="táhnout_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="táhnout" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95042-019-p2s1w9">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-ln95042-019-p2s3w6</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-ln95042-019-p2s3w7">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-ln95042-019-p2s3w34</LM>
 </w.rf>
 <form>předat</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95042-019-p2s3w35">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-ln95042-019-p3s2w1</LM>
 </w.rf>
 <form>Česko</form>
-<tag lemma="český" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95042-019-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1297,7 +1297,7 @@
 <LM>w#w-ln95042-019-p5s1w6</LM>
 </w.rf>
 <form>Devět</form>
-<tag lemma="devět`9" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="devět`9" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-ln95042-019-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1528,7 +1528,7 @@
 <LM>w#w-ln95042-019-p5s3w8</LM>
 </w.rf>
 <form>Devět</form>
-<tag lemma="devět`9" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="devět`9" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-ln95042-019-p5s3w9">
 <src.rf>manual</src.rf>
@@ -1844,7 +1844,7 @@
 <LM>w#w-ln95042-019-p6s3w1</LM>
 </w.rf>
 <form>Přeložila</form>
-<tag lemma="přeložit-3_:W_^(z_jazyka)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95042-019-p6s3w2">
 <src.rf>manual</src.rf>

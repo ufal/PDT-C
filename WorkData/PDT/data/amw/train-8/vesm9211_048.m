@@ -118,7 +118,7 @@
 <LM>w#w-vesm9211-048-p1s1w13</LM>
 </w.rf>
 <form>jednu</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS4----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS4----------</tag>
 </m>
 <m id="m-vesm9211-048-p1s1w14">
 <src.rf>manual</src.rf>

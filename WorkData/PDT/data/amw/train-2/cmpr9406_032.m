@@ -221,7 +221,7 @@
 <LM>w#w-cmpr9406-032-p3s1w23</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9406-032-p3s1w24">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 <AM lemma="mód" src="auto">NNIS5-----A----</AM>
 <AM lemma="mode_,t" src="auto">XX-------------</AM>
 <AM lemma="Mode_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="MODE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Mode-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p5s1w2">
@@ -591,7 +591,7 @@
 <form>WOCHE</form>
 <tag>
 <AM lemma="Woche_;m_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="WOCHE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Woche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p5s1w4">
@@ -1901,7 +1901,7 @@
 <AM lemma="mód" src="auto">NNIS5-----A----</AM>
 <AM lemma="mode_,t" src="auto">XX-------------</AM>
 <AM lemma="Mode_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="MODE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Mode-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p13s1w2">
@@ -1920,7 +1920,7 @@
 <form>WOCHE</form>
 <tag>
 <AM lemma="Woche_;m_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="WOCHE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Woche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p13s1w4">
@@ -2104,7 +2104,7 @@
 <AM lemma="Herbst-2_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Herbst_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Herbst-2_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="HERBST-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Herbst-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p14s1w4">
@@ -2296,7 +2296,7 @@
 <AM lemma="Herbst-2_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Herbst_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Herbst-2_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="HERBST-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Herbst-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p15s1w4">
@@ -3894,7 +3894,7 @@
 <AM lemma="Heim_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Heim_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Heim-2_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="HEIM-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Heim-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p23s2w2">
@@ -3913,7 +3913,7 @@
 <form>HANDWERK</form>
 <tag>
 <AM lemma="Handwerk_;m_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="HANDWERK-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Handwerk-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p23s2w4">
@@ -4264,7 +4264,7 @@
 <form>Ing</form>
 <tag>
 <AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ing_^(inženýr)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-032-p24s1w20">

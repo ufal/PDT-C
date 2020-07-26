@@ -93,7 +93,7 @@
 <LM>w#w-mf930701-159-p2s1w3</LM>
 </w.rf>
 <form>Třiceti</form>
-<tag lemma="třicet`30" src="orig" selected="1">Cn-P7----------</tag>
+<tag lemma="třicet`30" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-mf930701-159-p2s1w4">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-mf930701-159-p2s1w4</LM>
 </w.rf>
 <form>osmi</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-P7----------</tag>
+<tag lemma="osm`8" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-mf930701-159-p2s1w5">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-mf930701-159-p2s1w7</LM>
 </w.rf>
 <form>jednomu</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS3----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS3----------</tag>
 </m>
 <m id="m-mf930701-159-p2s1w8">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-mf930701-159-p2s1w13</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930701-159-p2s1w14">
 <src.rf>manual</src.rf>

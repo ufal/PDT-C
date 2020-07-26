@@ -678,7 +678,7 @@
 <LM>w#w-mf920925-022-p4s1Aw1</LM>
 </w.rf>
 <form>Deset</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="deset`10" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-mf920925-022-p4s1Aw2">
 <src.rf>manual</src.rf>

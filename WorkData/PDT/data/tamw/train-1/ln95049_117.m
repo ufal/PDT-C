@@ -150,7 +150,7 @@
 <LM>w#w-ln95049-117-p1s1w17</LM>
 </w.rf>
 <form>herečka</form>
-<tag lemma="herečka_^(^FM*3c)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="herečka" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-117-p1s1w18">
 <src.rf>manual</src.rf>

@@ -87,7 +87,7 @@
 <LM>w#w-ln94203-26-p2s1Bw2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94203-26-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-ln94203-26-p2s1Bw39</LM>
 </w.rf>
 <form>čtvrtinu</form>
-<tag lemma="čtvrtina" src="orig" selected="1">CyFS4----------</tag>
+<tag lemma="čtvrtina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94203-26-p2s1Bw40">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 <LM>w#w-ln94203-26-p2s3w7</LM>
 </w.rf>
 <form>jednou</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS7----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS7----------</tag>
 </m>
 <m id="m-ln94203-26-p2s3w8">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-ln94203-26-p2s3w8</LM>
 </w.rf>
 <form>miliardou</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="miliarda`1000000000" src="orig" selected="1">CzFS7----------</tag>
 </m>
 <m id="m-ln94203-26-p2s3w9">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Kč_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="Kč_:B_^(koruna_česká)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-26-p2s3w10">
@@ -1011,7 +1011,7 @@
 <LM>w#w-ln94203-26-p2s5w13</LM>
 </w.rf>
 <form>jednou</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS7----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS7----------</tag>
 </m>
 <m id="m-ln94203-26-p2s5w14">
 <src.rf>manual</src.rf>

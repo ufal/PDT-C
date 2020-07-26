@@ -74,7 +74,7 @@
 <form>lh</form>
 <tag>
 <AM lemma="lh-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lh-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lh-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-034-p2s1w4">
@@ -431,7 +431,7 @@
 <LM>w#w-mf930702-034-p2s1w39</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf930702-034-p2s2w1">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-mf930702-034-p2s3w5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930702-034-p2s3w6">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-mf930702-034-p2s3w14</LM>
 </w.rf>
 <form>měřicí</form>
-<tag lemma="měřicí_^(^IC*2t)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="měřicí" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930702-034-p2s3w15">
 <src.rf>manual</src.rf>

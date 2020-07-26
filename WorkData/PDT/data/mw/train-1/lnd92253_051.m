@@ -202,7 +202,7 @@
 <LM>w#w-lnd92253-051-p3s2w11</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92253-051-p3s2w12">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-lnd92253-051-p3s5w1</LM>
 </w.rf>
 <form>Trávicí</form>
-<tag lemma="trávicí_^(^IC*2t)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="trávicí" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92253-051-p3s5w2">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-lnd92253-051-p3s6w21</LM>
 </w.rf>
 <form>čtyřech</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-lnd92253-051-p3s6w22">
 <src.rf>manual</src.rf>

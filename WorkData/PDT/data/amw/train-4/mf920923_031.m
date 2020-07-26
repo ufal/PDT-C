@@ -97,7 +97,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -144,7 +144,7 @@
 <LM>w#w-mf920923-031-p4s1w2</LM>
 </w.rf>
 <form>býv</form>
-<tag lemma="bývalý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag lemma="bývalý" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf920923-031-p4s1w3">
 <src.rf>manual</src.rf>
@@ -161,7 +161,7 @@
 </w.rf>
 <form>zem</form>
 <tag>
-<AM lemma="zemědělský_:B" src="orig" selected="1">AAXXX----1A---8</AM>
+<AM lemma="zemědělský" src="orig" selected="1">AAXXX----1A---b</AM>
 <AM lemma="země" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="země" src="auto">NNFS4-----A---1</AM>
 </tag>
@@ -225,7 +225,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -254,7 +254,7 @@
 <LM>w#w-mf920923-031-p4s1w14</LM>
 </w.rf>
 <form>hosp</form>
-<tag lemma="hospodářský_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag lemma="hospodářský" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf920923-031-p4s1w15">
 <src.rf>manual</src.rf>
@@ -326,7 +326,7 @@
 <LM>w#w-mf920923-031-p4s1w23</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="číslo" src="orig" selected="1">NNNXX-----A---b</tag>
 </m>
 <m id="m-mf920923-031-p4s1w24">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-mf920923-031-p10s1w1</LM>
 </w.rf>
 <form>Tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="telefon" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf920923-031-p10s1w2">
 <src.rf>manual</src.rf>

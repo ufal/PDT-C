@@ -468,7 +468,7 @@
 <form>obě</form>
 <tag>
 <AM lemma="oba`2" src="auto">ClHP1----------</AM>
-<AM lemma="oba`2" src="auto" recommended="1">ClHP4----------</AM>
+<AM lemma="oba`2" src="auto" recommended="1">CnHP4----------</AM>
 <AM lemma="oba`2" src="auto">ClHP5----------</AM>
 </tag>
 </m>
@@ -916,7 +916,7 @@
 </w.rf>
 <form>obě</form>
 <tag>
-<AM lemma="oba`2" src="auto" recommended="1">ClHP1----------</AM>
+<AM lemma="oba`2" src="auto" recommended="1">CnHP1----------</AM>
 <AM lemma="oba`2" src="auto">ClHP4----------</AM>
 <AM lemma="oba`2" src="auto">ClHP5----------</AM>
 </tag>

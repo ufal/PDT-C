@@ -63,7 +63,7 @@
 <form>ouš</form>
 <tag>
 <AM lemma="ouš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ouš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ouš-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-083-p2s1w4">
@@ -405,7 +405,7 @@
 <LM>w#w-mf920925-083-p2s4w3</LM>
 </w.rf>
 <form>předal</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-083-p2s4w4">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-mf920925-083-p2s4w7</LM>
 </w.rf>
 <form>dvacet</form>
-<tag lemma="dvacet`20" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="dvacet`20" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf920925-083-p2s4w8">
 <src.rf>manual</src.rf>

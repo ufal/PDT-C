@@ -432,7 +432,7 @@
 <form>říci</form>
 <tag>
 <AM lemma="říci" src="auto">Vf--------A---1</AM>
-<AM lemma="říci_:W" src="manual" selected="1">Vf--------A---1</AM>
+<AM lemma="říci" src="manual" selected="1">Vf--------A-P-1</AM>
 </tag>
 </m>
 <m id="m-lnd92258-098-p2s2w28">
@@ -462,7 +462,7 @@
 <form>milionům</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP3-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP3-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP3----------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-098-p2s2w31">
@@ -625,7 +625,7 @@
 <LM>w#w-lnd92258-098-p3s1w16</LM>
 </w.rf>
 <form>oni</form>
-<tag lemma="on-1" src="orig" selected="1">PPMP1--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEMP1--3-------</tag>
 </m>
 <m id="m-lnd92258-098-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-lnd92258-098-p4s1w16</LM>
 </w.rf>
 <form>národný</form>
-<tag lemma="národný_,t" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="národný" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-lnd92258-098-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1151,7 +1151,7 @@
 <LM>w#w-lnd92258-098-p4s1w20</LM>
 </w.rf>
 <form>národnostný</form>
-<tag lemma="národnostný_,t" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="národnostný" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-lnd92258-098-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1280,7 +1280,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-3_:T_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-098-p4s3w6">
@@ -1385,7 +1385,7 @@
 <LM>w#w-lnd92258-098-p4s3w18</LM>
 </w.rf>
 <form>nic</form>
-<tag lemma="nic" src="orig" selected="1">PW--4----------</tag>
+<tag lemma="nic" src="orig" selected="1">PY--4----------</tag>
 </m>
 <m id="m-lnd92258-098-p4s3w19">
 <src.rf>manual</src.rf>
@@ -1857,7 +1857,7 @@
 <LM>w#w-lnd92258-098-p5s3w3</LM>
 </w.rf>
 <form>jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClYS1----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnYS1----------</tag>
 </m>
 <m id="m-lnd92258-098-p5s3w4">
 <src.rf>manual</src.rf>

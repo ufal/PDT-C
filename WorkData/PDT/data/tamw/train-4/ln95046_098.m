@@ -857,7 +857,7 @@
 <LM>w#w-ln95046-098-p2s8w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95046-098-p2s8w3">
 <src.rf>manual</src.rf>
@@ -955,7 +955,7 @@
 <LM>w#w-ln95046-098-p2s9w6</LM>
 </w.rf>
 <form>dvanácti</form>
-<tag lemma="dvanáct`12" src="orig" selected="1">Cn-P7----------</tag>
+<tag lemma="dvanáct`12" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-ln95046-098-p2s9w7">
 <src.rf>manual</src.rf>

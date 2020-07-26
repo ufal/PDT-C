@@ -780,7 +780,7 @@
 <LM>w#w-wsj0715-001-p1s2W16</LM>
 </w.rf>
 <form>čtyř</form>
-<tag lemma="čtyři`4" src="auto" recommended="1">ClXP2----------</tag>
+<tag lemma="čtyři`4" src="auto" recommended="1">Cl-P2----------</tag>
 </m>
 <m id="m-wsj0715-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>

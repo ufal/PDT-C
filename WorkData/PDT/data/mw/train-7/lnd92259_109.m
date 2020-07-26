@@ -232,7 +232,7 @@
 <LM>w#w-lnd92259-109-p1s2w2</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP4----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP4----------</tag>
 </m>
 <m id="m-lnd92259-109-p1s2w3">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-lnd92259-109-p1s3w7</LM>
 </w.rf>
 <form>němuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9ZS3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS3---------1</tag>
 </m>
 <m id="m-lnd92259-109-p1s3w8">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 <LM>w#w-lnd92259-109-p1s3w9</LM>
 </w.rf>
 <form>Honzou</form>
-<tag lemma="Honza_;Y_^(^HN**Jan)" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Honza_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92259-109-p1s3w10">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-109-p1s4w17">
@@ -811,7 +811,7 @@
 <form>jaf</form>
 <tag>
 <AM lemma="jaf-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jaf-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jaf-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-109-p2s1w3">
@@ -862,7 +862,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

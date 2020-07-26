@@ -78,7 +78,7 @@
 <LM>w#w-ln95044-020-p1s1w8</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-ln95044-020-p1s1w9">
 <src.rf>manual</src.rf>
@@ -118,7 +118,7 @@
 <LM>w#w-ln95044-020-p1s1w13</LM>
 </w.rf>
 <form>Robem</form>
-<tag lemma="Rob_;Y_,t" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Rob_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95044-020-p1s1w14">
 <src.rf>manual</src.rf>

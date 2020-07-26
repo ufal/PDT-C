@@ -72,7 +72,7 @@
 <tag>
 <AM lemma="is-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._je,_v_názvech_apod.)" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="is-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="is-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-125-p2s1Aw4">
@@ -281,7 +281,7 @@
 <LM>w#w-mf930713-125-p2s1Bw23</LM>
 </w.rf>
 <form>jedenácti</form>
-<tag lemma="jedenáct`11" src="orig" selected="1">Cn-P6----------</tag>
+<tag lemma="jedenáct`11" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-mf930713-125-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-mf930713-125-p2s1Bw27</LM>
 </w.rf>
 <form>něm</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS6--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS6--3-------</tag>
 </m>
 <m id="m-mf930713-125-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -602,7 +602,7 @@
 <LM>w#w-mf930713-125-p2s4w10</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930713-125-p2s4w11">
 <src.rf>manual</src.rf>

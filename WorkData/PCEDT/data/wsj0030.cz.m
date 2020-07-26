@@ -220,7 +220,7 @@
 <LM>w#w-wsj0030-001-p1s0W17</LM>
 </w.rf>
 <form>čímž</form>
-<tag lemma="což-1" src="auto" recommended="1">PE--7----------</tag>
+<tag lemma="což-1" src="auto" recommended="1">PQ--7----------</tag>
 </m>
 <m id="m-wsj0030-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>

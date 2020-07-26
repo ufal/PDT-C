@@ -183,7 +183,7 @@
 <LM>w#w-ln95044-029-p2s1Bw17</LM>
 </w.rf>
 <form>osmi</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-P7----------</tag>
+<tag lemma="osm`8" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-ln95044-029-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-ln95044-029-p2s2w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95044-029-p2s2w3">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-ln95044-029-p2s2w8</LM>
 </w.rf>
 <form>sedmnácti</form>
-<tag lemma="sedmnáct`17" src="orig" selected="1">Cn-P6----------</tag>
+<tag lemma="sedmnáct`17" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-ln95044-029-p2s2w9">
 <src.rf>manual</src.rf>

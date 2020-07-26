@@ -117,7 +117,7 @@
 <LM>w#w-vesm9212-036-p2s1w9</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-vesm9212-036-p2s1w10">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-vesm9212-036-p2s2w11</LM>
 </w.rf>
 <form>hypothalamu</form>
-<tag lemma="hypotalamus_;U_,x" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="hypotalamus_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9212-036-p2s2w12">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-vesm9212-036-p2s3w1</LM>
 </w.rf>
 <form>Hypothalamus</form>
-<tag lemma="hypotalamus_;U_,x" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="hypotalamus_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9212-036-p2s3w2">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-vesm9212-036-p2s3w18</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-vesm9212-036-p2s3w19">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-vesm9212-036-p2s3w35</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-036-p2s3w36">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-vesm9212-036-p2s4w7</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag lemma="například" src="orig" selected="1">Db------------b</tag>
 </m>
 <m id="m-vesm9212-036-p2s4w8">
 <src.rf>manual</src.rf>
@@ -915,7 +915,7 @@
 <LM>w#w-vesm9212-036-p2s4w25</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-vesm9212-036-p2s4w26">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 <form>Vol</form>
 <tag>
 <AM lemma="volume_:B_,t_^(u_publikací)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="volume_:B_^(u_publikací)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="volume_^(u_publikací)" src="manual" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-036-p2s5w12">
@@ -1275,7 +1275,7 @@
 <form>No</form>
 <tag>
 <AM lemma="number_:B_,t_^(number,_číslo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="number_:B_^(number,_číslo)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="number_^(number,_číslo)" src="manual" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-036-p2s5w16">
@@ -1372,7 +1372,7 @@
 <LM>w#w-vesm9212-036-p2s5w27</LM>
 </w.rf>
 <form>hypothalamů</form>
-<tag lemma="hypotalamus_;U_,x" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hypotalamus_;U" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9212-036-p2s5w28">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 <LM>w#w-vesm9212-036-p2s8w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-vesm9212-036-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1582,7 +1582,7 @@
 <LM>w#w-vesm9212-036-p2s8w23</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9212-036-p2s8w24">
 <src.rf>manual</src.rf>

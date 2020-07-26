@@ -566,7 +566,7 @@
 <LM>w#w-ln95044-124-p2s3w14</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln95044-124-p2s3w15">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-ln95044-124-p2s3w30</LM>
 </w.rf>
 <form>herečka</form>
-<tag lemma="herečka_^(^FM*3c)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="herečka" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-124-p2s3w31">
 <src.rf>manual</src.rf>

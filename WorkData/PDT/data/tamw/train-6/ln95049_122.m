@@ -563,7 +563,7 @@
 <LM>w#w-ln95049-122-p2s4w7</LM>
 </w.rf>
 <form>jednom</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS6----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS6----------</tag>
 </m>
 <m id="m-ln95049-122-p2s4w8">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-ln95049-122-p2s5w11</LM>
 </w.rf>
 <form>nevypadali</form>
-<tag lemma="vypadat_:T" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="vypadat" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln95049-122-p2s5w12">
 <src.rf>manual</src.rf>

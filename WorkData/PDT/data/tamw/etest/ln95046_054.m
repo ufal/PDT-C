@@ -99,7 +99,7 @@
 <LM>w#w-ln95046-054-p1s1w11</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-ln95046-054-p1s1w12">
 <src.rf>manual</src.rf>

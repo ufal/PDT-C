@@ -87,7 +87,7 @@
 <form>zj</form>
 <tag>
 <AM lemma="zj-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="zj-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="zj-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-122-p2s1w4">
@@ -536,7 +536,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-122-p2s4w10">
@@ -1002,7 +1002,7 @@
 <LM>w#w-mf930703-122-p3s2w16</LM>
 </w.rf>
 <form>deset</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="deset`10" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf930703-122-p3s2w17">
 <src.rf>manual</src.rf>

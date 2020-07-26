@@ -513,7 +513,7 @@
 <LM>w#w-ln95047-047-p4s1w15</LM>
 </w.rf>
 <form>Dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-ln95047-047-p4s1w16">
 <src.rf>manual</src.rf>

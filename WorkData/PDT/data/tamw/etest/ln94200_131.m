@@ -89,7 +89,7 @@
 <LM>w#w-ln94200-131-p1s1Aw8</LM>
 </w.rf>
 <form>Madeleine</form>
-<tag lemma="Madeleine_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Madeleine_;Y" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94200-131-p1s1Aw9">
 <src.rf>manual</src.rf>

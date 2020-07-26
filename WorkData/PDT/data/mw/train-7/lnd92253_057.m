@@ -43,7 +43,7 @@
 <LM>w#w-lnd92253-057-p1s1w4</LM>
 </w.rf>
 <form>jíž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS2---------1</tag>
 </m>
 <m id="m-lnd92253-057-p1s1w5">
 <src.rf>manual</src.rf>

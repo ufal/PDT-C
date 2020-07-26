@@ -29,7 +29,7 @@
 <form>WEIRTON</form>
 <tag>
 <AM lemma="WEIRTON" src="auto">X@-------------</AM>
-<AM lemma="WEIRTON-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Weirton-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1533-001-p1s0W3-Ta">
@@ -40,7 +40,7 @@
 <form>STEEL</form>
 <tag>
 <AM lemma="STEEL" src="auto">X@-------------</AM>
-<AM lemma="STEEL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Steel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1533-001-p1s0W4-Ta">
@@ -168,7 +168,7 @@
 <LM>w#w-wsj1533-001-p1s0W15</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1533-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -193,7 +193,7 @@
 </w.rf>
 <form>což</form>
 <tag>
-<AM lemma="což-1" src="auto" recommended="1">PE--1----------</AM>
+<AM lemma="což-1" src="auto" recommended="1">PQ--1----------</AM>
 <AM lemma="což-1" src="auto">PE--4----------</AM>
 <AM lemma="což-2_^(cožpak:_což_jsem_to_neříkal?)" src="auto">TT-------------</AM>
 <AM lemma="což-3_^(nu_což,_...;_což_o_to,_...)" src="auto">II-------------</AM>
@@ -1060,7 +1060,7 @@
 </w.rf>
 <form>milionu</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIS2----------</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
 </tag>

@@ -63,7 +63,7 @@
 <form>ina</form>
 <tag>
 <AM lemma="ina-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ina-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ina-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-036-p2s1w4">
@@ -138,7 +138,7 @@
 <LM>w#w-mf920923-036-p2s2w7</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920923-036-p2s2w8">
 <src.rf>manual</src.rf>
@@ -178,7 +178,7 @@
 <LM>w#w-mf920923-036-p2s2w12</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="pět-1`5" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf920923-036-p2s2w13">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-mf920923-036-p2s2w27</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 <m id="m-mf920923-036-p2s2w28">
 <src.rf>manual</src.rf>

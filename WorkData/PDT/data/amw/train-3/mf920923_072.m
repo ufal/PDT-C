@@ -71,7 +71,7 @@
 <form>hv</form>
 <tag>
 <AM lemma="hv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hv-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-072-p2s1Aw6">
@@ -154,7 +154,7 @@
 <LM>w#w-mf920923-072-p2s1Bw8</LM>
 </w.rf>
 <form>třech</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-mf920923-072-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -330,7 +330,7 @@
 <LM>w#w-mf920923-072-p2s1Bw30</LM>
 </w.rf>
 <form>třináct</form>
-<tag lemma="třináct`13" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="třináct`13" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-mf920923-072-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-072-p2s2w9">
@@ -689,7 +689,7 @@
 <LM>w#w-mf920923-072-p2s3w18</LM>
 </w.rf>
 <form>třetinu</form>
-<tag lemma="třetina" src="orig" selected="1">CyFS4----------</tag>
+<tag lemma="třetina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920923-072-p2s3w19">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-mf920923-072-p3s1w13</LM>
 </w.rf>
 <form>milióny</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIP1----------</tag>
 </m>
 <m id="m-mf920923-072-p3s1w14">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-072-p3s1w15">

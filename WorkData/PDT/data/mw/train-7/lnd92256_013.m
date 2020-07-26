@@ -63,7 +63,7 @@
 <form>mot</form>
 <tag>
 <AM lemma="mot-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mot-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mot-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-013-p2s1w4">
@@ -187,7 +187,7 @@
 <LM>w#w-lnd92256-013-p2s2w12</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9FS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS6----------</tag>
 </m>
 <m id="m-lnd92256-013-p2s2w13">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-lnd92256-013-p2s3w6</LM>
 </w.rf>
 <form>vydáno</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92256-013-p2s3w7">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-lnd92256-013-p2s4w17</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9FS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS2----------</tag>
 </m>
 <m id="m-lnd92256-013-p2s4w18">
 <src.rf>manual</src.rf>

@@ -207,7 +207,7 @@
 <LM>w#w-lnd92258-067-p2s2w18</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 <m id="m-lnd92258-067-p2s2w19">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-lnd92258-067-p2s4w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92258-067-p2s4w3">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-lnd92258-067-p2s5w11</LM>
 </w.rf>
 <form>deset</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="deset`10" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-lnd92258-067-p2s5w12">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-lnd92258-067-p2s6w4</LM>
 </w.rf>
 <form>Biriatou</form>
-<tag lemma="Biriatou_;G_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Biriatou_;G" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92258-067-p2s6w5">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-lnd92258-067-p2s6w6</LM>
 </w.rf>
 <form>francouzsko</form>
-<tag lemma="francouzský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="francouzský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92258-067-p2s6w7">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-lnd92258-067-p2s6w10</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92258-067-p2s6w11">
 <src.rf>manual</src.rf>

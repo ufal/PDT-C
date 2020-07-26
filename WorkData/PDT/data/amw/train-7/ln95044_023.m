@@ -193,7 +193,7 @@
 <LM>w#w-ln95044-023-p2s1Cw7</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-ln95044-023-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-ln95044-023-p3s1w5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95044-023-p3s1w6">
 <src.rf>manual</src.rf>
@@ -682,7 +682,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="Č-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Český_:B" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="Český" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95044-023-p3s1w35">
@@ -870,7 +870,7 @@
 <LM>w#w-ln95044-023-p3s2w7</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-ln95044-023-p3s2w8">
 <src.rf>manual</src.rf>
@@ -926,7 +926,7 @@
 <LM>w#w-ln95044-023-p3s2w14</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln95044-023-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1136,7 +1136,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="Č-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Český_:B" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="Český" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95044-023-p3s3w25">
@@ -1179,7 +1179,7 @@
 <LM>w#w-ln95044-023-p3s4w2</LM>
 </w.rf>
 <form>osm</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="osm`8" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-ln95044-023-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1307,7 +1307,7 @@
 <LM>w#w-ln95044-023-p3s4w18</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95044-023-p3s4w19">
 <src.rf>manual</src.rf>

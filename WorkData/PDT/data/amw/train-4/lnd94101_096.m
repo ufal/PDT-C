@@ -183,7 +183,7 @@
 <LM>w#w-lnd94101-096-p1s3w16</LM>
 </w.rf>
 <form>čtyřboji</form>
-<tag lemma="čtyřboj_,x" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="čtyřboj" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd94101-096-p1s3w17">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-lnd94101-096-p1s5w14</LM>
 </w.rf>
 <form>odlétám</form>
-<tag lemma="odlétat_:T_:W" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="odlétat" src="orig" selected="1">VB-S---1P-AA---</tag>
 </m>
 <m id="m-lnd94101-096-p1s5w15">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <form>ME</form>
 <tag>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ME-1_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-096-p1s6w9">
@@ -579,7 +579,7 @@
 <LM>w#w-lnd94101-096-p1s6w14</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd94101-096-p1s6w15">
 <src.rf>manual</src.rf>

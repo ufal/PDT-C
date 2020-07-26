@@ -99,7 +99,7 @@
 <LM>w#w-mf930708-073-p1s1w11</LM>
 </w.rf>
 <form>jednom</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS6----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS6----------</tag>
 </m>
 <m id="m-mf930708-073-p1s1w12">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-mf930708-073-p1s4w10</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9XP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
 </m>
 <m id="m-mf930708-073-p1s4w11">
 <src.rf>manual</src.rf>
@@ -755,7 +755,7 @@
 <form>lík</form>
 <tag>
 <AM lemma="lík-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lík-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lík-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-073-p2s1w3">
@@ -774,7 +774,7 @@
 <LM>w#w-mf930708-073-p2s2w1</LM>
 </w.rf>
 <form>Čtrnáct</form>
-<tag lemma="čtrnáct`14" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="čtrnáct`14" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-mf930708-073-p2s2w2">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <LM>w#w-mf930708-073-p2s3w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930708-073-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1332,7 +1332,7 @@
 <LM>w#w-mf930708-073-p2s5w4</LM>
 </w.rf>
 <form>ní</form>
-<tag lemma="on-1" src="orig" selected="1">P5FS6--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS6--3-------</tag>
 </m>
 <m id="m-mf930708-073-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1394,7 +1394,7 @@
 <AM lemma="mas-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
-<AM lemma="mas-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mas-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-073-p3s1w3">

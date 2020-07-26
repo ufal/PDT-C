@@ -83,7 +83,7 @@
 <LM>w#w-mf920925-103-p1s1w9</LM>
 </w.rf>
 <form>jednom</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS6----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS6----------</tag>
 </m>
 <m id="m-mf920925-103-p1s1w10">
 <src.rf>manual</src.rf>

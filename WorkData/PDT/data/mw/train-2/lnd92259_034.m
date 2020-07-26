@@ -61,7 +61,7 @@
 <LM>w#w-lnd92259-034-p2s1w3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="motto_,x" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="motto" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92259-034-p2s1w4">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-lnd92259-034-p2s2w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92259-034-p2s2w5">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-lnd92259-034-p2s3w18</LM>
 </w.rf>
 <form>patnácti</form>
-<tag lemma="patnáct`15" src="orig" selected="1">Cn-P3----------</tag>
+<tag lemma="patnáct`15" src="orig" selected="1">Cl-P3----------</tag>
 </m>
 <m id="m-lnd92259-034-p2s3w19">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-lnd92259-034-p2s3w19</LM>
 </w.rf>
 <form>tisícům</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIP3-----A----</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIP3----------</tag>
 </m>
 <m id="m-lnd92259-034-p2s3w20">
 <src.rf>manual</src.rf>

@@ -80,7 +80,7 @@
 <tag>
 <AM lemma="and-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="and-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="and-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-026-p1s2w4">
@@ -100,7 +100,7 @@
 <tag>
 <AM lemma="pet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pet_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="pet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pet-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-026-p1s2w6">
@@ -429,7 +429,7 @@
 <LM>w#w-lnd94104-026-p1s4w13</LM>
 </w.rf>
 <form>třem</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP3----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P3----------</tag>
 </m>
 <m id="m-lnd94104-026-p1s4w14">
 <src.rf>manual</src.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-lnd94104-026-p1s5w8</LM>
 </w.rf>
 <form>předán</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94104-026-p1s5w9">
 <src.rf>manual</src.rf>

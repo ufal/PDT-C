@@ -834,7 +834,7 @@
 <form>mav</form>
 <tag>
 <AM lemma="mav-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mav-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mav-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-11-p3s3Aw3">
@@ -946,7 +946,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-11-p3s3Bw13">
@@ -1227,7 +1227,7 @@
 <LM>w#w-ln94211-11-p3s5w11</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94211-11-p3s5w12">
 <src.rf>manual</src.rf>

@@ -58,7 +58,7 @@
 </w.rf>
 <form>Antonio</form>
 <tag>
-<AM lemma="Antonio_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Antonio_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>

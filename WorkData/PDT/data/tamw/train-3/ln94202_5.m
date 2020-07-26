@@ -264,7 +264,7 @@
 <LM>w#w-ln94202-5-p2s2w11</LM>
 </w.rf>
 <form>jich</form>
-<tag lemma="on-1" src="orig" selected="1">PPXP2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP2--3------1</tag>
 </m>
 <m id="m-ln94202-5-p2s2w12">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-ln94202-5-p2s2w19</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIS1----------</tag>
 </m>
 <m id="m-ln94202-5-p2s2w20">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <LM>w#w-ln94202-5-p3s1w10</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIXX----------</tag>
 </m>
 <m id="m-ln94202-5-p3s1w11">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-ln94202-5-p3s2w16</LM>
 </w.rf>
 <form>zintenzivnila</form>
-<tag lemma="zintenzívnit_:T" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zintenzívnit" src="auto" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94202-5-p3s2w17">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-ln94202-5-p3s2w19</LM>
 </w.rf>
 <form>třemi</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP7----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-ln94202-5-p3s2w20">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-ln94202-5-p3s4w13</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP6----------</tag>
 </m>
 <m id="m-ln94202-5-p3s4w14">
 <src.rf>manual</src.rf>

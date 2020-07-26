@@ -115,7 +115,7 @@
 <LM>w#w-mf920922-065-p2s3w1</LM>
 </w.rf>
 <form>Alpsko</form>
-<tag lemma="alpský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="alpský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf920922-065-p2s3w2">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <form>ccm</form>
 <tag>
 <AM lemma="ccm_:B_^(centimetr_krychlový)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ccm_:B_^(centimetr_krychlový)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ccm_^(centimetr_krychlový)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-065-p2s3w28">

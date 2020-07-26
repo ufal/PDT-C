@@ -43,7 +43,7 @@
 <LM>w#w-mf920922-117-p1s1w4</LM>
 </w.rf>
 <form>sobě</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P6-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P6--3----------</tag>
 </m>
 </s>
 <s id="m-mf920922-117-p2s1">
@@ -95,7 +95,7 @@
 <LM>w#w-mf920922-117-p3s1w4</LM>
 </w.rf>
 <form>sobě</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P6-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P6--3----------</tag>
 </m>
 </s>
 <s id="m-mf920922-117-p4s1">
@@ -481,7 +481,7 @@
 <AM lemma="tříminutový" src="orig">AAIP6----1A----</AM>
 <AM lemma="tři`3" src="auto" recommended="1">ClXP2----------</AM>
 <AM lemma="tři`3" src="manual">A2--------A----</AM>
-<AM lemma="tři-2`3" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="tři-2`3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-117-p4s3w18">

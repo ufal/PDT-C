@@ -79,7 +79,7 @@
 <LM>w#w-ln95047-113-p2s1Bw1</LM>
 </w.rf>
 <form>Dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP4----------</tag>
 </m>
 <m id="m-ln95047-113-p2s1Bw2">
 <src.rf>manual</src.rf>

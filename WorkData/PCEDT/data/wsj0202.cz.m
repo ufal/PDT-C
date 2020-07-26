@@ -30,7 +30,7 @@
 <tag>
 <AM lemma="Bell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bella_;Y_,t" src="auto">NNFP2-----A----</AM>
-<AM lemma="BELL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Bell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0202-001-p1s0W3-Ta">
@@ -41,7 +41,7 @@
 <form>INDUSTRIES</form>
 <tag>
 <AM lemma="INDUSTRIES" src="auto">X@-------------</AM>
-<AM lemma="INDUSTRIES-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0202-001-p1s0W4-Ta">
@@ -166,7 +166,7 @@
 </w.rf>
 <form>sedmi</form>
 <tag>
-<AM lemma="sedm`7" src="auto" recommended="1">Cn-P2----------</AM>
+<AM lemma="sedm`7" src="auto" recommended="1">Cl-P2----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-P3----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-P6----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-P7----------</AM>

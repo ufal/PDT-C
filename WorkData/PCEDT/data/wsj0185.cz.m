@@ -32,7 +32,7 @@
 <AM lemma="Inter_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Inter_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="inter" src="auto">A2--------A----</AM>
-<AM lemma="INTER-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Inter-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0185-001-p1s0W3-Ta">
@@ -58,7 +58,7 @@
 <AM lemma="telit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="telit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="tlo_,n" src="auto">NNNP2-----A----</AM>
-<AM lemma="TEL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0185-001-p1s0W5-Ta">
@@ -503,7 +503,7 @@
 <form>sedm</form>
 <tag>
 <AM lemma="sedm`7" src="auto">Cn-S1----------</AM>
-<AM lemma="sedm`7" src="auto" recommended="1">Cn-S4----------</AM>
+<AM lemma="sedm`7" src="auto" recommended="1">Cl-S4----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-S5----------</AM>
 </tag>
 </m>

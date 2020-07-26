@@ -689,7 +689,7 @@
 <LM>w#w-ln95045-122-p4s1w17</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP4----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP4----------</tag>
 </m>
 <m id="m-ln95045-122-p4s1w18">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-ln95045-122-p4s2w4</LM>
 </w.rf>
 <form>jedenačtyřiceti</form>
-<tag lemma="jedenačtyřicet`41" src="orig" selected="1">Cn-P7----------</tag>
+<tag lemma="jedenačtyřicet`41" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-ln95045-122-p4s2w5">
 <src.rf>manual</src.rf>

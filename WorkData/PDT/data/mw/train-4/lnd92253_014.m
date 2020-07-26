@@ -73,7 +73,7 @@
 </w.rf>
 <form>tk</form>
 <tag>
-<AM lemma="tk-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="tk-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="tknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 </tag>
 </m>
@@ -676,7 +676,7 @@
 <LM>w#w-lnd92253-014-p3s4w26</LM>
 </w.rf>
 <form>čtyři</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-lnd92253-014-p3s4w27">
 <src.rf>manual</src.rf>

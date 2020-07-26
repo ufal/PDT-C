@@ -390,7 +390,7 @@
 <LM>w#w-mf920924-023-p2s2w6</LM>
 </w.rf>
 <form>pětadvaceti</form>
-<tag lemma="pětadvacet`25" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="pětadvacet`25" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf920924-023-p2s2w7">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-mf920924-023-p2s4w8</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf920924-023-p2s4w9">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-mf920924-023-p2s5w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920924-023-p2s5w5">
 <src.rf>manual</src.rf>

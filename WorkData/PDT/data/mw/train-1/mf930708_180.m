@@ -183,7 +183,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SSSR_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-180-p2s1w16">
@@ -282,7 +282,7 @@
 <LM>w#w-mf930708-180-p2s2w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930708-180-p2s2w2">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-mf930708-180-p2s4w9</LM>
 </w.rf>
 <form>sovětsko</form>
-<tag lemma="sovětský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="sovětský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930708-180-p2s4w10">
 <src.rf>manual</src.rf>

@@ -71,7 +71,7 @@
 <form>hč</form>
 <tag>
 <AM lemma="hč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hč-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-079-p2s1w4">
@@ -142,7 +142,7 @@
 <LM>w#w-mf920925-079-p2s2w6</LM>
 </w.rf>
 <form>miliónu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIS2----------</tag>
 </m>
 <m id="m-mf920925-079-p2s2w7">
 <src.rf>manual</src.rf>

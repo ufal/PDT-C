@@ -87,7 +87,7 @@
 <form>nak</form>
 <tag>
 <AM lemma="nak-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nak-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nak-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-091-p2s1Aw4">
@@ -218,7 +218,7 @@
 <LM>w#w-mf930713-091-p2s1Bw14</LM>
 </w.rf>
 <form>sedmdesáti</form>
-<tag lemma="sedmdesát`70" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="sedmdesát`70" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf930713-091-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-mf930713-091-p2s2w4</LM>
 </w.rf>
 <form>ně</form>
-<tag lemma="on-1" src="orig" selected="1">P5XP4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP4--3------1</tag>
 </m>
 <m id="m-mf930713-091-p2s2w5">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-mf930713-091-p2s2w13</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930713-091-p2s2w14">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-mf930713-091-p2s3w14</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="on-1_^(oni/ono)" src="orig" selected="1">PPXP4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP4--3-------</tag>
 </m>
 <m id="m-mf930713-091-p2s3w15">
 <src.rf>manual</src.rf>

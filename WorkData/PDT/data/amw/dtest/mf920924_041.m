@@ -53,7 +53,7 @@
 <LM>w#w-mf920924-041-p1s1Bw3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920924-041-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -132,7 +132,7 @@
 <AM lemma="čisticí_^(^IC**čistit)" src="orig">AGIP2-----A----</AM>
 <AM lemma="čisticí_^(^IC*2t)" src="auto">AAFP2----1A----</AM>
 <AM lemma="čisticí_^(^IC*2t)" src="auto">AAFP6----1A----</AM>
-<AM lemma="čisticí_^(^IC*2t)" src="auto" recommended="1" selected="1">AAIP2----1A----</AM>
+<AM lemma="čisticí" src="auto" recommended="1" selected="1">AAIP2----1A----</AM>
 <AM lemma="čisticí_^(^IC*2t)" src="auto">AAIP6----1A----</AM>
 <AM lemma="čisticí_^(^IC*2t)" src="auto">AAMP2----1A----</AM>
 <AM lemma="čisticí_^(^IC*2t)" src="auto">AAMP6----1A----</AM>
@@ -240,7 +240,7 @@
 <LM>w#w-mf920924-041-p1s2w18</LM>
 </w.rf>
 <form>ho</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS4--3-------</tag>
 </m>
 <m id="m-mf920924-041-p1s2w19">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-mf920924-041-p1s3w4</LM>
 </w.rf>
 <form>jedné</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS6----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS6----------</tag>
 </m>
 <m id="m-mf920924-041-p1s3w5">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-mf920924-041-p1s3w9</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920924-041-p1s3w10">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-mf920924-041-p1s4w16</LM>
 </w.rf>
 <form>něm</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS6--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS6--3-------</tag>
 </m>
 <m id="m-mf920924-041-p1s4w17">
 <src.rf>manual</src.rf>
@@ -799,7 +799,7 @@
 <LM>w#w-mf920924-041-p1s5w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920924-041-p1s5w4">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 <LM>w#w-mf920924-041-p1s5w5</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-041-p1s5w6">
 <src.rf>manual</src.rf>

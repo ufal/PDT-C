@@ -223,7 +223,7 @@
 <LM>w#w-mf930708-072-p3s1w14</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP2----------</tag>
 </m>
 <m id="m-mf930708-072-p3s1w15">
 <src.rf>manual</src.rf>
@@ -2815,7 +2815,7 @@
 <form>aj</form>
 <tag>
 <AM lemma="aj-1_:B_^(a_jiný/á/é)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="aj-1_:B_^(a_jiný/á/é)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="aj-1_^(a_jiný/á/é)" src="manual" selected="1">BAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-072-p18s4w46">
@@ -2970,7 +2970,7 @@
 <LM>w#w-mf930708-072-p19s1w17</LM>
 </w.rf>
 <form>třiceti</form>
-<tag lemma="třicet`30" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="třicet`30" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf930708-072-p19s1w18">
 <src.rf>manual</src.rf>
@@ -2978,7 +2978,7 @@
 <LM>w#w-mf930708-072-p19s1w18</LM>
 </w.rf>
 <form>čtyř</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf930708-072-p19s1w19">
 <src.rf>manual</src.rf>
@@ -5509,7 +5509,7 @@
 <LM>w#w-mf930708-072-p40s2w7</LM>
 </w.rf>
 <form>Karl</form>
-<tag lemma="Karl_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karl_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-072-p40s2w8">
 <src.rf>manual</src.rf>
@@ -5552,7 +5552,7 @@
 <LM>w#w-mf930708-072-p40s2w12</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930708-072-p40s2w13">
 <src.rf>manual</src.rf>
@@ -5975,7 +5975,7 @@
 <LM>w#w-mf930708-072-p42s1w8</LM>
 </w.rf>
 <form>pěti</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="pět-1`5" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf930708-072-p42s1w9">
 <src.rf>manual</src.rf>
@@ -6442,7 +6442,7 @@
 <LM>w#w-mf930708-072-p46s1w11</LM>
 </w.rf>
 <form>frýdecko</form>
-<tag lemma="frýdecký" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="frýdecký" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930708-072-p46s1w12">
 <src.rf>manual</src.rf>
@@ -8165,7 +8165,7 @@
 <form>LUDUS</form>
 <tag>
 <AM lemma="Ludus_;m_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="LUDUS-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Ludus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-072-p63s1w15">
@@ -8176,7 +8176,7 @@
 <form>MUSICUS</form>
 <tag>
 <AM lemma="Musicus_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="MUSICUS-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Musicus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-072-p63s1w16">
@@ -8421,7 +8421,7 @@
 <LM>w#w-mf930708-072-p66s1w12</LM>
 </w.rf>
 <form>Kolik</form>
-<tag lemma="kolik" src="orig" selected="1">C?--4----------</tag>
+<tag lemma="kolik" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-mf930708-072-p66s1w13">
 <src.rf>manual</src.rf>

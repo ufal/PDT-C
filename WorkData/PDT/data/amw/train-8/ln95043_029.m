@@ -43,7 +43,7 @@
 <LM>w#w-ln95043-029-p1s1w4</LM>
 </w.rf>
 <form>čtyři</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-ln95043-029-p1s1w5">
 <src.rf>manual</src.rf>

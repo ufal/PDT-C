@@ -109,7 +109,7 @@
 <LM>w#w-lnd92258-094-p2s1w10</LM>
 </w.rf>
 <form>někdo</form>
-<tag lemma="někdo" src="orig" selected="1">PZM-1----------</tag>
+<tag lemma="někdo" src="orig" selected="1">PK--1----------</tag>
 </m>
 <m id="m-lnd92258-094-p2s1w11">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-lnd92258-094-p2s2w12</LM>
 </w.rf>
 <form>hodil</form>
-<tag lemma="hodit_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="hodit" src="orig" selected="1">VpYS----R-AA---</tag>
 </m>
 <m id="m-lnd92258-094-p2s2w13">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-lnd92258-094-p2s2w13</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-lnd92258-094-p2s2w14">
 <src.rf>manual</src.rf>

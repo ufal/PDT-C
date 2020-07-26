@@ -169,7 +169,7 @@
 <LM>w#w-lnd92251-064-p3s2w11</LM>
 </w.rf>
 <form>arabsko</form>
-<tag lemma="arabský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="arabský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92251-064-p3s2w12">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 <LM>w#w-lnd92251-064-p3s4w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92251-064-p3s4w3">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-lnd92251-064-p3s4w6</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-lnd92251-064-p3s4w7">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-lnd92251-064-p3s4w16</LM>
 </w.rf>
 <form>čtyřmi</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP7----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-lnd92251-064-p3s4w17">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-lnd92251-064-p3s4w19</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92251-064-p3s4w20">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-lnd92251-064-p3s6w6</LM>
 </w.rf>
 <form>Izraelsko</form>
-<tag lemma="izraelský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="izraelský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92251-064-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-lnd92251-064-p3s6w14</LM>
 </w.rf>
 <form>Arabsko</form>
-<tag lemma="arabský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="arabský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92251-064-p3s6w15">
 <src.rf>manual</src.rf>

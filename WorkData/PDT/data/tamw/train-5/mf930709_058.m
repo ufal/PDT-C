@@ -297,7 +297,7 @@
 <LM>w#w-mf930709-058-p2s3w12</LM>
 </w.rf>
 <form>něčeho</form>
-<tag lemma="něco" src="orig" selected="1">PZ--2----------</tag>
+<tag lemma="něco" src="orig" selected="1">PK--2----------</tag>
 </m>
 <m id="m-mf930709-058-p2s3w13">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-mf930709-058-p2s3w18</LM>
 </w.rf>
 <form>čemuž</form>
-<tag lemma="což-1" src="orig" selected="1">PE--3----------</tag>
+<tag lemma="což-1" src="orig" selected="1">PQ--3----------</tag>
 </m>
 <m id="m-mf930709-058-p2s3w19">
 <src.rf>manual</src.rf>
@@ -984,7 +984,7 @@
 <LM>w#w-mf930709-058-p2s7w3</LM>
 </w.rf>
 <form>oba</form>
-<tag lemma="oba`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-mf930709-058-p2s7w4">
 <src.rf>manual</src.rf>

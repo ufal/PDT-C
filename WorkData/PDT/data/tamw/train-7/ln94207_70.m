@@ -211,7 +211,7 @@
 <LM>w#w-ln94207-70-p1s1w25</LM>
 </w.rf>
 <form>vodicích</form>
-<tag lemma="vodicí_^(^IC*2t)" src="auto" selected="1">AAMP2----1A----</tag>
+<tag lemma="vodicí" src="auto" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln94207-70-p1s1w26">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-70-p1s2w7">
@@ -396,7 +396,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

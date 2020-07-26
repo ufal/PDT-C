@@ -71,7 +71,7 @@
 <form>bar</form>
 <tag>
 <AM lemma="bar-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bar-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bar-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-037-p2s1Aw4">
@@ -106,7 +106,7 @@
 <LM>w#w-mf930713-037-p2s1Bw2</LM>
 </w.rf>
 <form>jednou</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS7----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS7----------</tag>
 </m>
 <m id="m-mf930713-037-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930713-037-p2s1Bw12">
@@ -254,7 +254,7 @@
 <LM>w#w-mf930713-037-p2s1Bw20</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930713-037-p2s1Bw21">
 <src.rf>manual</src.rf>

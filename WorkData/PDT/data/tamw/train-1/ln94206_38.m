@@ -53,7 +53,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-38-p1s1w6">
@@ -98,7 +98,7 @@
 <LM>w#w-ln94206-38-p2s1Bw1</LM>
 </w.rf>
 <form>Šedesát</form>
-<tag lemma="šedesát`60" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="šedesát`60" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-ln94206-38-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -106,7 +106,7 @@
 <LM>w#w-ln94206-38-p2s1Bw2</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-ln94206-38-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-38-p2s2w12">
@@ -622,7 +622,7 @@
 <LM>w#w-ln94206-38-p2s4w12</LM>
 </w.rf>
 <form>předáno</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94206-38-p2s4w13">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-ln94206-38-p2s5w2</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-ln94206-38-p2s5w3">
 <src.rf>manual</src.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-ln94206-38-p2s6w7</LM>
 </w.rf>
 <form>něj</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS2--3-------</tag>
 </m>
 <m id="m-ln94206-38-p2s6w8">
 <src.rf>manual</src.rf>

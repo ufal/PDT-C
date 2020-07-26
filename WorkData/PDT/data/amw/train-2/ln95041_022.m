@@ -217,7 +217,7 @@
 <LM>w#w-ln95041-022-p2s1w22</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP4----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP4----------</tag>
 </m>
 <m id="m-ln95041-022-p2s1w23">
 <src.rf>manual</src.rf>

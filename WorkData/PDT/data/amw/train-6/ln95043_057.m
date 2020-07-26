@@ -259,7 +259,7 @@
 <form>Plzeňačka</form>
 <tag>
 <AM lemma="Plzeňák_;E" src="orig">NNFS1-----A----</AM>
-<AM lemma="Plzeňačka_;E_^(^FM*4ák)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Plzeňačka_;E" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="plzeňačka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -367,7 +367,7 @@
 <LM>w#w-ln95043-057-p3s2w5</LM>
 </w.rf>
 <form>zasažen</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsYS----X-AP---</tag>
 </m>
 <m id="m-ln95043-057-p3s2w6">
 <src.rf>manual</src.rf>

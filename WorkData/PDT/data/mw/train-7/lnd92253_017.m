@@ -62,7 +62,7 @@
 </w.rf>
 <form>jab</form>
 <tag>
-<AM lemma="jab-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="jab-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="jab_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="jab_,t" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -256,7 +256,7 @@
 <LM>w#w-lnd92253-017-p2s3w4</LM>
 </w.rf>
 <form>jednou</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS7----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS7----------</tag>
 </m>
 <m id="m-lnd92253-017-p2s3w5">
 <src.rf>manual</src.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-lnd92253-017-p2s5w6</LM>
 </w.rf>
 <form>bydlí</form>
-<tag lemma="bydlet_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92253-017-p2s5w7">
 <src.rf>manual</src.rf>

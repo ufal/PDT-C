@@ -107,7 +107,7 @@
 <LM>w#w-ln94208-123-p2s1w7</LM>
 </w.rf>
 <form>jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClYS1----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnYS1----------</tag>
 </m>
 <m id="m-ln94208-123-p2s1w8">
 <src.rf>manual</src.rf>

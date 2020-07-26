@@ -71,7 +71,7 @@
 <form>kva</form>
 <tag>
 <AM lemma="kva-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kva-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kva-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-24-p2s1w4">
@@ -330,7 +330,7 @@
 <LM>w#w-ln94201-24-p2s2w15</LM>
 </w.rf>
 <form>šedesáti</form>
-<tag lemma="šedesát`60" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="šedesát`60" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln94201-24-p2s2w16">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-ln94201-24-p2s2w17</LM>
 </w.rf>
 <form>sedmdesáti</form>
-<tag lemma="sedmdesát`70" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="sedmdesát`70" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln94201-24-p2s2w18">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-ln94201-24-p2s3w4</LM>
 </w.rf>
 <form>něm</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS6--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS6--3-------</tag>
 </m>
 <m id="m-ln94201-24-p2s3w5">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-ln94201-24-p2s3w18</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94201-24-p2s3w19">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-ln94201-24-p2s3w19</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln94201-24-p2s3w20">
 <src.rf>manual</src.rf>

@@ -51,7 +51,7 @@
 <LM>w#w-mf930709-143-p1s1w5</LM>
 </w.rf>
 <form>pěti</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-P3----------</tag>
+<tag lemma="pět-1`5" src="orig" selected="1">Cl-P3----------</tag>
 </m>
 <m id="m-mf930709-143-p1s1w6">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-mf930709-143-p2s1Bw28</LM>
 </w.rf>
 <form>pěti</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-P3----------</tag>
+<tag lemma="pět-1`5" src="orig" selected="1">Cl-P3----------</tag>
 </m>
 <m id="m-mf930709-143-p2s1Bw29">
 <src.rf>manual</src.rf>

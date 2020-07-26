@@ -30,7 +30,7 @@
 <tag>
 <AM lemma="American-1_;m_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="AMERICAN-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0246-001-p1s0W3-Ta">
@@ -41,7 +41,7 @@
 <form>BRANDS</form>
 <tag>
 <AM lemma="Brands_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="BRANDS-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Brands-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0246-001-p1s0W4-Ta">
@@ -1320,7 +1320,7 @@
 </w.rf>
 <form>milionu</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIS2----------</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
 </tag>

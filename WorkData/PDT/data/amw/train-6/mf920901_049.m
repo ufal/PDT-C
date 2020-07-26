@@ -53,7 +53,7 @@
 <LM>w#w-mf920901-049-p2s1w2</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="KB-1_;m_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920901-049-p2s1w3">
 <src.rf>manual</src.rf>
@@ -184,7 +184,7 @@
 <LM>w#w-mf920901-049-p2s1w18</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-mf920901-049-p2s1w19">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-mf920901-049-p2s4w3</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-5_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag lemma="V-5_;G" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf920901-049-p2s4w4">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 </w.rf>
 <form>Brit</form>
 <tag>
-<AM lemma="Británie_:B_;G" src="orig" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Británie_;G" src="orig" selected="1">NNFXX-----A---b</AM>
 <AM lemma="Brit_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Brita_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Britský_:B_;m" src="auto">AAXXX----1A---9</AM>
@@ -636,7 +636,7 @@
 <LM>w#w-mf920901-049-p2s6w3</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-5_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag lemma="V-5_;G" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf920901-049-p2s6w4">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 </w.rf>
 <form>Brit</form>
 <tag>
-<AM lemma="Británie_:B_;G" src="orig" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Británie_;G" src="orig" selected="1">NNFXX-----A---b</AM>
 <AM lemma="Brit_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Brita_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Britský_:B_;m" src="auto">AAXXX----1A---9</AM>

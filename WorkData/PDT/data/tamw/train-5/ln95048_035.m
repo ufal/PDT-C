@@ -206,7 +206,7 @@
 <LM>w#w-ln95048-035-p1s1w24</LM>
 </w.rf>
 <form>DOPRAPO</form>
-<tag lemma="DOPRAPO_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="DOPRAPO_;m" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-ln95048-035-p1s1w25">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 <LM>w#w-ln95048-035-p1s3w5</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95048-035-p1s3w6">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-ln95048-035-p1s4w5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95048-035-p1s4w6">
 <src.rf>manual</src.rf>
@@ -498,7 +498,7 @@
 <LM>w#w-ln95048-035-p1s4w8</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-035-p1s4w9">
 <src.rf>manual</src.rf>

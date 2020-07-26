@@ -63,7 +63,7 @@
 <LM>w#w-mf920925-078-p2s2w1</LM>
 </w.rf>
 <form>Padesát</form>
-<tag lemma="padesát`50" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="padesát`50" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf920925-078-p2s2w2">
 <src.rf>manual</src.rf>

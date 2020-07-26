@@ -45,7 +45,7 @@
 <LM>w#w-ln94209-40-p2s1w3</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP4----------</tag>
 </m>
 <m id="m-ln94209-40-p2s1w4">
 <src.rf>manual</src.rf>

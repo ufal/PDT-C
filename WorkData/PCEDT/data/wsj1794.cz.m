@@ -68,7 +68,7 @@
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="DAF-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="DAF_:B_;m_^(vozidlo)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s0W6-Ta">
@@ -666,7 +666,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -896,7 +896,7 @@
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="DAF-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="DAF_:B_;m_^(vozidlo)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s1W48-Ta">
@@ -1500,7 +1500,7 @@
 </w.rf>
 <form>dvěma</form>
 <tag>
-<AM lemma="dva`2" src="auto" recommended="1">ClFD7----------</AM>
+<AM lemma="dva`2" src="auto" recommended="1">CnFD7----------</AM>
 <AM lemma="dva`2" src="auto">ClXP3----------</AM>
 <AM lemma="dva`2" src="auto">ClXP7----------</AM>
 </tag>
@@ -1951,7 +1951,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -2026,7 +2026,7 @@
 <form>DAF</form>
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="DAF_:B_;m_^(vozidlo)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s5W9-Ta">
@@ -2090,7 +2090,7 @@
 <form>tři</form>
 <tag>
 <AM lemma="tři`3" src="auto">ClXP1----------</AM>
-<AM lemma="tři`3" src="auto" recommended="1">ClXP4----------</AM>
+<AM lemma="tři`3" src="auto" recommended="1">Cl-P4----------</AM>
 <AM lemma="tři`3" src="auto">ClXP5----------</AM>
 <AM lemma="třít" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="třít" src="auto">Vi-S---3--A-I-4</AM>
@@ -2104,7 +2104,7 @@
 <form>miliardy</form>
 <tag>
 <AM lemma="miliarda`1000000000" src="auto">NNFP1-----A----</AM>
-<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">CzFP4----------</AM>
 <AM lemma="miliarda`1000000000" src="auto">NNFP5-----A----</AM>
 <AM lemma="miliarda`1000000000" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -2158,7 +2158,7 @@
 </w.rf>
 <form>milionu</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIS2----------</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -2208,7 +2208,7 @@
 <AM lemma="miliarda`1000000000" src="auto">NNFP1-----A----</AM>
 <AM lemma="miliarda`1000000000" src="auto">NNFP4-----A----</AM>
 <AM lemma="miliarda`1000000000" src="auto">NNFP5-----A----</AM>
-<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">CzFS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s5W26-Ta">
@@ -2304,7 +2304,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -2444,7 +2444,7 @@
 <AM lemma="miliarda`1000000000" src="auto">NNFP1-----A----</AM>
 <AM lemma="miliarda`1000000000" src="auto">NNFP4-----A----</AM>
 <AM lemma="miliarda`1000000000" src="auto">NNFP5-----A----</AM>
-<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">CzFS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s6W9-Ta">
@@ -2838,7 +2838,7 @@
 <form>DAF</form>
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="DAF_:B_;m_^(vozidlo)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s7W24-Ta">
@@ -2864,7 +2864,7 @@
 </w.rf>
 <form>obě</form>
 <tag>
-<AM lemma="oba`2" src="auto" recommended="1">ClHP1----------</AM>
+<AM lemma="oba`2" src="auto" recommended="1">CnHP1----------</AM>
 <AM lemma="oba`2" src="auto">ClHP4----------</AM>
 <AM lemma="oba`2" src="auto">ClHP5----------</AM>
 </tag>
@@ -3065,7 +3065,7 @@
 </w.rf>
 <form>dvě</form>
 <tag>
-<AM lemma="dva`2" src="auto" recommended="1">ClHP1----------</AM>
+<AM lemma="dva`2" src="auto" recommended="1">CnHP1----------</AM>
 <AM lemma="dva`2" src="auto">ClHP4----------</AM>
 <AM lemma="dva`2" src="auto">ClHP5----------</AM>
 </tag>
@@ -3663,7 +3663,7 @@
 <form>DAF</form>
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="DAF_:B_;m_^(vozidlo)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s9W32-Ta">
@@ -3830,7 +3830,7 @@
 <form>DAF</form>
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="DAF_:B_;m_^(vozidlo)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s10W6-Ta">
@@ -4604,7 +4604,7 @@
 <form>DAF</form>
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="DAF_:B_;m_^(vozidlo)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s12W3-Ta">
@@ -4910,7 +4910,7 @@
 <form>DAF</form>
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="DAF_:B_;m_^(vozidlo)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s13W7-Ta">

@@ -25,7 +25,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -81,7 +81,7 @@
 <form>QUANTUM</form>
 <tag>
 <AM lemma="Quanto_;m_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
-<AM lemma="QUANTUM-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Quantum-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0614-001-p1s0W8-Ta">
@@ -92,7 +92,7 @@
 <form>CHEMICAL</form>
 <tag>
 <AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="CHEMICAL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Chemical-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0614-001-p1s0W9-Ta">

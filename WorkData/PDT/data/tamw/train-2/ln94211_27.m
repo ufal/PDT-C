@@ -822,7 +822,7 @@
 <LM>w#w-ln94211-27-p3s4w2</LM>
 </w.rf>
 <form>něco</form>
-<tag lemma="něco" src="orig" selected="1">PZ--4----------</tag>
+<tag lemma="něco" src="orig" selected="1">PK--4----------</tag>
 </m>
 <m id="m-ln94211-27-p3s4w3">
 <src.rf>manual</src.rf>
@@ -894,7 +894,7 @@
 <LM>w#w-ln94211-27-p3s4w11</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP4----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP4----------</tag>
 </m>
 <m id="m-ln94211-27-p3s4w12">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <form>biliony</form>
 <tag>
 <AM lemma="bilión" src="orig">NNIP4-----A----</AM>
-<AM lemma="bilion`1000000000_,s_^(^DD**bilión)" src="manual" selected="1">NNIP4-----A----</AM>
+<AM lemma="bilion`1000000000000_,s_^(^DD**bilión)" src="manual" selected="1">CzIP4----------</AM>
 </tag>
 </m>
 <m id="m-ln94211-27-p3s4w13">
@@ -953,7 +953,7 @@
 <LM>w#w-ln94211-27-p3s4w18</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="miliarda`1000000000" src="orig" selected="1">CzFP2----------</tag>
 </m>
 <m id="m-ln94211-27-p3s4w19">
 <src.rf>manual</src.rf>

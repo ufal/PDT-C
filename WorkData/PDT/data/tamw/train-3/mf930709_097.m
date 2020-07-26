@@ -148,7 +148,7 @@
 <tag>
 <AM lemma="vit-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vít" src="auto" recommended="1">VsYS----X-API--</AM>
-<AM lemma="vit-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vit-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s2Aw5">
@@ -482,7 +482,7 @@
 <LM>w#w-mf930709-097-p2s3w11</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930709-097-p2s3w12">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s6w11">
@@ -1038,7 +1038,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s7w16">
@@ -1466,7 +1466,7 @@
 <AM lemma="BMW-2_:B_;m_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="manual">NNNXX-----A---8</AM>
-<AM lemma="BMW_:B_;m_^(vozidlo)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s10w12">
@@ -1925,7 +1925,7 @@
 <LM>w#w-mf930709-097-p2s13w19</LM>
 </w.rf>
 <form>devět</form>
-<tag lemma="devět`9" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="devět`9" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf930709-097-p2s13w20">
 <src.rf>manual</src.rf>
@@ -1957,7 +1957,7 @@
 <LM>w#w-mf930709-097-p2s13w23</LM>
 </w.rf>
 <form>šestnáct</form>
-<tag lemma="šestnáct`16" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="šestnáct`16" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf930709-097-p2s13w24">
 <src.rf>manual</src.rf>

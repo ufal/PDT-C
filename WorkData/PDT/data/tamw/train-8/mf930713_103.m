@@ -71,7 +71,7 @@
 <form>SUPERPRESTIGE</form>
 <tag>
 <AM lemma="Superprestige_;m_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="SUPERPRESTIGE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Superprestige-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-103-p2s1w3">
@@ -991,7 +991,7 @@
 <LM>w#w-mf930713-103-p2s15w8</LM>
 </w.rf>
 <form>šesti</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf930713-103-p2s15w9">
 <src.rf>manual</src.rf>
@@ -1395,7 +1395,7 @@
 <LM>w#w-mf930713-103-p2s18w14</LM>
 </w.rf>
 <form>jedna</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS1----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS1----------</tag>
 </m>
 <m id="m-mf930713-103-p2s18w15">
 <src.rf>manual</src.rf>

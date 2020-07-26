@@ -63,7 +63,7 @@
 <form>hč</form>
 <tag>
 <AM lemma="hč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hč-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-024-p2s1w4">
@@ -90,7 +90,7 @@
 <LM>w#w-mf920924-024-p2s2w1</LM>
 </w.rf>
 <form>Osm</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="osm`8" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-mf920924-024-p2s2w2">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-mf920924-024-p2s2w16</LM>
 </w.rf>
 <form>jí</form>
-<tag lemma="on-1_^(ona)" src="orig" selected="1">PPFS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS3--3------1</tag>
 </m>
 <m id="m-mf920924-024-p2s2w17">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-mf920924-024-p2s4w33</LM>
 </w.rf>
 <form>obráběcí</form>
-<tag lemma="obráběcí_^(^IC*2t)" src="auto" selected="1">AAIP4----1A----</tag>
+<tag lemma="obráběcí" src="auto" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-mf920924-024-p2s4w34">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-mf920924-024-p2s6w15</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920924-024-p2s6w16">
 <src.rf>manual</src.rf>

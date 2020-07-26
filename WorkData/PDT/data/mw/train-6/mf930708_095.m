@@ -35,7 +35,7 @@
 <LM>w#w-mf930708-095-p1s1w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930708-095-p1s1w4">
 <src.rf>manual</src.rf>
@@ -79,7 +79,7 @@
 <form>nak</form>
 <tag>
 <AM lemma="nak-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nak-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nak-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-095-p2s1w4">
@@ -216,7 +216,7 @@
 <LM>w#w-mf930708-095-p2s1w20</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930708-095-p2s1w21">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <form>technička</form>
 <tag>
 <AM lemma="technik" src="orig">NNFS1-----A----</AM>
-<AM lemma="technička_^(^FM*3k)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="technička" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-095-p2s2w28">
@@ -581,7 +581,7 @@
 <LM>w#w-mf930708-095-p2s3w2</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXP2FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP2FS3-------</tag>
 </m>
 <m id="m-mf930708-095-p2s3w3">
 <src.rf>manual</src.rf>

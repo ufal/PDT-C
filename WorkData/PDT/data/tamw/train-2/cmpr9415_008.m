@@ -196,7 +196,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-008-p5s1w5">
@@ -235,7 +235,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-008-p6s1w3">
@@ -806,7 +806,7 @@
 <LM>w#w-cmpr9415-008-p9s5w6</LM>
 </w.rf>
 <form>sedm</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="sedm`7" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-cmpr9415-008-p9s5w7">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 <LM>w#w-cmpr9415-008-p9s5w13</LM>
 </w.rf>
 <form>uvítací</form>
-<tag lemma="uvítací_^(^IC*2t)_(př._proslov)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="uvítací_^(př._proslov)" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-cmpr9415-008-p9s5w14">
 <src.rf>manual</src.rf>
@@ -1110,7 +1110,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-008-p9s6w23">
@@ -1154,7 +1154,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-008-p9s6w28">

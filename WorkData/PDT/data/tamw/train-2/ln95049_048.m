@@ -168,7 +168,7 @@
 <LM>w#w-ln95049-048-p1s2w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95049-048-p1s2w3">
 <src.rf>manual</src.rf>
@@ -176,7 +176,7 @@
 <LM>w#w-ln95049-048-p1s2w3</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-048-p1s2w4">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 </w.rf>
 <form>k</form>
 <tag>
-<AM lemma="knocked_:B_,t" src="orig" selected="1">AAXXX----1A---8</AM>
+<AM lemma="knocked" src="orig" selected="1">AAXXX----1A---b</AM>
 <AM lemma="k-1" src="auto" recommended="1">RR--3----------</AM>
 <AM lemma="k-33" src="auto">Q3-------------</AM>
 <AM lemma="k-4`kůň_:B_^(jednotka_výkonu)" src="auto">NNMXX-----A---8</AM>
@@ -258,7 +258,7 @@
 </w.rf>
 <form>o</form>
 <tag>
-<AM lemma="out_:B_,t" src="orig" selected="1">NNIXX-----A---8</AM>
+<AM lemma="out" src="orig" selected="1">NNIXX-----A---b</AM>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto">RR--6----------</AM>
 <AM lemma="o-33" src="auto">Q3-------------</AM>

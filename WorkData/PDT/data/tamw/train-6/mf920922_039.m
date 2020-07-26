@@ -194,7 +194,7 @@
 <LM>w#w-mf920922-039-p2s2w18</LM>
 </w.rf>
 <form>Stoličnaja</form>
-<tag lemma="Stoličnaja-1_,t_^(vodka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Stoličnaja-1_^(vodka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-039-p2s2w19">
 <src.rf>manual</src.rf>
@@ -236,7 +236,7 @@
 <LM>w#w-mf920922-039-p2s3w2</LM>
 </w.rf>
 <form>vydán</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920922-039-p2s3w3">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-mf920922-039-p2s4w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920922-039-p2s4w5">
 <src.rf>manual</src.rf>

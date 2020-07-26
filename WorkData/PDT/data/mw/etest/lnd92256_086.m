@@ -59,7 +59,7 @@
 <LM>w#w-lnd92256-086-p1s1w6</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92256-086-p1s1w7">
 <src.rf>manual</src.rf>
@@ -86,7 +86,7 @@
 <LM>w#w-lnd92256-086-p1s1w9</LM>
 </w.rf>
 <form>dvacet</form>
-<tag lemma="dvacet`20" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="dvacet`20" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-lnd92256-086-p1s1w10">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 <LM>w#w-lnd92256-086-p1s2w7</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-lnd92256-086-p1s2w8">
 <src.rf>manual</src.rf>
@@ -477,7 +477,7 @@
 <AM lemma="Orchestre_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="orchestr" src="auto">NNIS5-----A----</AM>
 <AM lemma="orchestre_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="ORCHESTRE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Orchestre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s4w4">
@@ -488,7 +488,7 @@
 <form>NATIONAL</form>
 <tag>
 <AM lemma="National-1_;m_,t_^(souč._názvů,_např._N._Semiconductor)" src="orig">AAXXX----1A----</AM>
-<AM lemma="NATIONAL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s4w5">
@@ -502,7 +502,7 @@
 <AM lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="jít" src="auto">VB-S---1P-AAI-6</AM>
 <AM lemma="du_,t" src="auto">XX-------------</AM>
-<AM lemma="DU-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Du-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s4w6">
@@ -514,7 +514,7 @@
 <tag>
 <AM lemma="capitole_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Kapitol_;G_,x" src="auto" recommended="1">NNIS5-----A----</AM>
-<AM lemma="CAPITOLE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Capitole-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s4w7">
@@ -525,7 +525,7 @@
 <form>DE</form>
 <tag>
 <AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
-<AM lemma="DE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="De-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s4w8">
@@ -536,7 +536,7 @@
 <form>TOULOUSE</form>
 <tag>
 <AM lemma="Toulouse_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="TOULOUSE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Toulouse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s4w9">

@@ -55,7 +55,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_;m_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-3_;m_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-105-p2s1w4">
@@ -239,7 +239,7 @@
 <LM>w#w-mf930708-105-p2s3w8</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930708-105-p2s3w9">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-mf930708-105-p2s4w2</LM>
 </w.rf>
 <form>mu</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
 </m>
 <m id="m-mf930708-105-p2s4w3">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-mf930708-105-p2s4w5</LM>
 </w.rf>
 <form>vyňali</form>
-<tag lemma="vyjmout_,a_,x" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyjmout_,a" src="auto" selected="1">VpMP----R-AA---</tag>
 </m>
 <m id="m-mf930708-105-p2s4w6">
 <src.rf>manual</src.rf>

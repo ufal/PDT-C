@@ -19,7 +19,7 @@
 <LM>w#w-mf920901-123-p1s1w1</LM>
 </w.rf>
 <form>Jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClYS1----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnYS1----------</tag>
 </m>
 <m id="m-mf920901-123-p1s1w2">
 <src.rf>manual</src.rf>

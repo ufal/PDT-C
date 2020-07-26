@@ -95,7 +95,7 @@
 <LM>w#w-ln95046-031-p2s1Bw4</LM>
 </w.rf>
 <form>sebou</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P6-X7----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P6--7----------</tag>
 </m>
 <m id="m-ln95046-031-p2s1Bw5">
 <src.rf>manual</src.rf>

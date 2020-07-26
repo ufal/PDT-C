@@ -62,7 +62,7 @@
 <tag>
 <AM lemma="ZOO_:B" src="orig">NNFXX-----A----</AM>
 <AM lemma="zoo_:B_^(^zoologická_zahrada)" src="manual">NNFXX-----A----</AM>
-<AM lemma="zoo_:B_^(zoologická_zahrada)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="zoo_^(zoologická_zahrada)" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -209,7 +209,7 @@
 <LM>w#w-ln95047-081-p2s1w18</LM>
 </w.rf>
 <form>ní</form>
-<tag lemma="on-1" src="orig" selected="1">P5FS6--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS6--3-------</tag>
 </m>
 <m id="m-ln95047-081-p2s1w19">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-ln95047-081-p2s3w16</LM>
 </w.rf>
 <form>deset</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="deset`10" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-ln95047-081-p2s3w17">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-ln95047-081-p2s3w20</LM>
 </w.rf>
 <form>šest</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-ln95047-081-p2s3w21">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-ln95047-081-p2s3w24</LM>
 </w.rf>
 <form>čtyři</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-ln95047-081-p2s3w25">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-ln95047-081-p2s3w29</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-ln95047-081-p2s3w30">
 <src.rf>manual</src.rf>

@@ -1200,7 +1200,7 @@
 <LM>w#w-lnd92252-088-p3s5w16</LM>
 </w.rf>
 <form>obě</form>
-<tag lemma="oba`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-lnd92252-088-p3s5w17">
 <src.rf>manual</src.rf>
@@ -1301,7 +1301,7 @@
 <LM>w#w-lnd92252-088-p3s6w7</LM>
 </w.rf>
 <form>Lok</form>
-<tag lemma="Lokomotiva_:B_;m_^(sport.:_souč._názvu_klubu)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Lokomotiva_;m_^(sport.:_souč._názvu_klubu)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd92252-088-p3s6w8">
 <src.rf>manual</src.rf>
@@ -1333,7 +1333,7 @@
 <LM>w#w-lnd92252-088-p3s7w3</LM>
 </w.rf>
 <form>obě</form>
-<tag lemma="oba`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-lnd92252-088-p3s7w4">
 <src.rf>manual</src.rf>
@@ -3520,7 +3520,7 @@
 <LM>w#w-lnd92252-088-p6s12w7</LM>
 </w.rf>
 <form>USK</form>
-<tag lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="USK-1_^(univerzitní_sportovní_klub)" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-lnd92252-088-p6s12w8">
 <src.rf>manual</src.rf>
@@ -5595,7 +5595,7 @@
 <AM lemma="Ter_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ter_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="tera_^(budhistický_chrám)" src="auto">NNFP2-----A----</AM>
-<AM lemma="TER-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TER-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-088-p8s1w3">

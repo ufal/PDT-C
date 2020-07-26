@@ -144,7 +144,7 @@
 <LM>w#w-vesm9301-027-p1s1Bw12</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="rok" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-vesm9301-027-p1s1Bw13">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-vesm9301-027-p1s1Bw15</LM>
 </w.rf>
 <form>zastavena</form>
-<tag lemma="zastavit-1_:W_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-vesm9301-027-p1s1Bw16">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-vesm9301-027-p1s2w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-vesm9301-027-p1s2w3">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-vesm9301-027-p1s4w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-vesm9301-027-p1s4w4">
 <src.rf>manual</src.rf>
@@ -916,7 +916,7 @@
 <LM>w#w-vesm9301-027-p1s5w26</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="rok" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-vesm9301-027-p1s5w27">
 <src.rf>manual</src.rf>

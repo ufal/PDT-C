@@ -59,7 +59,7 @@
 <LM>w#w-ln94204-8-p1s1w6</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94204-8-p1s1w7">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <form>tzn</form>
 <tag>
 <AM lemma="tzn-1_:B_:T_^(to_znamená)" src="orig">VB-S---3P-AA--8</AM>
-<AM lemma="tzn-1_:B_^(to_znamená)" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="tzn-1_^(to_znamená)" src="manual" selected="1">BB-S---3P-AA---</AM>
 </tag>
 </m>
 <m id="m-ln94204-8-p1s1w17">
@@ -256,7 +256,7 @@
 <LM>w#w-ln94204-8-p1s2w8</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94204-8-p1s2w9">
 <src.rf>manual</src.rf>

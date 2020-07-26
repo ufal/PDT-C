@@ -926,7 +926,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s1W22-Ta">
@@ -1202,7 +1202,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s2W3-Ta">
@@ -1845,7 +1845,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS1FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -2127,7 +2127,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s4W6-Ta">
@@ -2831,7 +2831,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -3156,7 +3156,7 @@
 <tag>
 <AM lemma="pět-2_^(zpívat)" src="auto">Vf--------A-I--</AM>
 <AM lemma="pět-1`5" src="auto">Cn-S1----------</AM>
-<AM lemma="pět-1`5" src="auto" recommended="1">Cn-S4----------</AM>
+<AM lemma="pět-1`5" src="auto" recommended="1">Cl-S4----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-S5----------</AM>
 </tag>
 </m>
@@ -3421,7 +3421,7 @@
 <form>nich</form>
 <tag>
 <AM lemma="on-1" src="auto">P5XP2--3-------</AM>
-<AM lemma="on-1" src="auto" recommended="1">P5XP6--3-------</AM>
+<AM lemma="on-1" src="auto" recommended="1">PEXP6--3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s6W36-Ta">
@@ -3695,7 +3695,7 @@
 </w.rf>
 <form>dvou</form>
 <tag>
-<AM lemma="dva`2" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="dva`2" src="auto" recommended="1">CnXP2----------</AM>
 <AM lemma="dva`2" src="auto">ClXP6----------</AM>
 </tag>
 </m>
@@ -4312,7 +4312,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s9W10-Ta">
@@ -4540,7 +4540,7 @@
 <LM>w#w-wsj1184-001-p1s9W25</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1184-001-p1s9W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4902,7 +4902,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -5090,7 +5090,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -5323,7 +5323,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s12W25-Ta">
@@ -5332,7 +5332,7 @@
 <LM>w#w-wsj1184-001-p1s12W25</LM>
 </w.rf>
 <form>nařčena</form>
-<tag lemma="nařknout" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="nařknout" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj1184-001-p1s12W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5603,7 +5603,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -5793,7 +5793,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s13W24-Ta">
@@ -5879,7 +5879,7 @@
 </w.rf>
 <form>milion</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" selected="1">CzIS1----------</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -6055,7 +6055,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s14W11-Ta">
@@ -6623,7 +6623,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -6850,7 +6850,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s15W11-Ta">
@@ -7665,7 +7665,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s17W8-Ta">
@@ -8138,7 +8138,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s18W18-Ta">
@@ -8415,7 +8415,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s19W3-Ta">
@@ -8659,7 +8659,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -8775,7 +8775,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s19W31-Ta">
@@ -9313,7 +9313,7 @@
 </w.rf>
 <form>dvě</form>
 <tag>
-<AM lemma="dva`2" src="auto" recommended="1">ClHP1----------</AM>
+<AM lemma="dva`2" src="auto" recommended="1">CnHP1----------</AM>
 <AM lemma="dva`2" src="auto">ClHP4----------</AM>
 <AM lemma="dva`2" src="auto">ClHP5----------</AM>
 </tag>
@@ -9328,7 +9328,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXP1FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
@@ -9458,7 +9458,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -9501,7 +9501,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s20W26-Ta">
@@ -9554,7 +9554,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -9694,7 +9694,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -9832,7 +9832,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s21W6-Ta">
@@ -9842,7 +9842,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -10031,7 +10031,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -10200,7 +10200,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_:B_;m_^(General_Electric_Company)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s22W5-Ta">
@@ -10210,7 +10210,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -10703,7 +10703,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>

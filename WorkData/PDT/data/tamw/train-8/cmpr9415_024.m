@@ -255,7 +255,7 @@
 <LM>w#w-cmpr9415-024-p5s2w14</LM>
 </w.rf>
 <form>Technologicko</form>
-<tag lemma="technologický" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="technologický" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-cmpr9415-024-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1426,7 +1426,7 @@
 <LM>w#w-cmpr9415-024-p9s1w29</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="telefon" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-cmpr9415-024-p9s1w30">
 <src.rf>manual</src.rf>

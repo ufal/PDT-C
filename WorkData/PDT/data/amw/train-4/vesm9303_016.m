@@ -141,7 +141,7 @@
 <LM>w#w-vesm9303-016-p1s2w4</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-vesm9303-016-p1s2w5">
 <src.rf>manual</src.rf>

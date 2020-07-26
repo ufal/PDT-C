@@ -477,7 +477,7 @@
 <LM>w#w-mf920901-014-p2s2w15</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920901-014-p2s2w16">
 <src.rf>manual</src.rf>

@@ -163,7 +163,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj0813-001-p1s1W3-Ta">
@@ -495,7 +495,7 @@
 <LM>w#w-wsj0813-001-p1s2W2</LM>
 </w.rf>
 <form>DSP</form>
-<tag lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="DSP" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0813-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

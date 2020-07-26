@@ -445,7 +445,7 @@
 <LM>w#w-lnd94105-075-p1s6w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd94105-075-p1s6w4">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-lnd94105-075-p1s6w16</LM>
 </w.rf>
 <form>třech</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-lnd94105-075-p1s6w17">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-lnd94105-075-p1s6w17</LM>
 </w.rf>
 <form>čtvrtinách</form>
-<tag lemma="čtvrtina" src="orig" selected="1">CyFP6----------</tag>
+<tag lemma="čtvrtina" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-lnd94105-075-p1s6w18">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-lnd94105-075-p1s8w2</LM>
 </w.rf>
 <form>postiženo</form>
-<tag lemma="postihnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="postihnout" src="orig" selected="1">VsNS----X-AP---</tag>
 </m>
 <m id="m-lnd94105-075-p1s8w3">
 <src.rf>manual</src.rf>

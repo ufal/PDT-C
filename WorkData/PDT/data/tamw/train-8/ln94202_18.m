@@ -71,7 +71,7 @@
 <LM>w#w-ln94202-18-p2s1w4</LM>
 </w.rf>
 <form>deseti</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="deset`10" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln94202-18-p2s1w5">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-ln94202-18-p2s1w12</LM>
 </w.rf>
 <form>jednu</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS4----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS4----------</tag>
 </m>
 <m id="m-ln94202-18-p2s1w13">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-ln94202-18-p2s4w2</LM>
 </w.rf>
 <form>ikr</form>
-<tag lemma="ikr-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ikr-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-ln94202-18-p2s4w3">
 <src.rf>manual</src.rf>

@@ -37,7 +37,7 @@
 <form>OPEC</form>
 <tag>
 <AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -74,7 +74,7 @@
 <form>OPEC</form>
 <tag>
 <AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-030-p2s1w5">
@@ -452,7 +452,7 @@
 <form>OPEC</form>
 <tag>
 <AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-030-p2s3w18">
@@ -595,7 +595,7 @@
 <form>OPEC</form>
 <tag>
 <AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-030-p2s5w5">

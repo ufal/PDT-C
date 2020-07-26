@@ -83,7 +83,7 @@
 <LM>w#w-mf920902-114-p1s1w10</LM>
 </w.rf>
 <form>ho</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS4--3-------</tag>
 </m>
 <m id="m-mf920902-114-p1s1w11">
 <src.rf>manual</src.rf>

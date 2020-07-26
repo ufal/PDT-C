@@ -245,7 +245,7 @@
 <LM>w#w-ln95046-042-p2s1Bw24</LM>
 </w.rf>
 <form>obou</form>
-<tag lemma="oba`2" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnXP2----------</tag>
 </m>
 <m id="m-ln95046-042-p2s1Bw25">
 <src.rf>manual</src.rf>

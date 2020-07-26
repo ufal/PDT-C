@@ -29,7 +29,7 @@
 <form>DILLARD</form>
 <tag>
 <AM lemma="Dillard_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="DILLARD-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Dillard-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1679-001-p1s0W3-Ta">
@@ -41,7 +41,7 @@
 <tag>
 <AM lemma="department" src="auto">NNIS1-----A----</AM>
 <AM lemma="department" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="DEPARTMENT-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Department-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1679-001-p1s0W4-Ta">
@@ -52,7 +52,7 @@
 <form>STORES</form>
 <tag>
 <AM lemma="STORES" src="auto">X@-------------</AM>
-<AM lemma="STORES-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Stores-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1679-001-p1s0W5-Ta">
@@ -127,7 +127,7 @@
 <LM>w#w-wsj1679-001-p1s0W12</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1679-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>

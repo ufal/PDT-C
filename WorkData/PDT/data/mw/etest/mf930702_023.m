@@ -43,7 +43,7 @@
 <LM>w#w-mf930702-023-p1s1w4</LM>
 </w.rf>
 <form>vypadají</form>
-<tag lemma="vypadat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vypadat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-023-p1s1w5">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-mf930702-023-p2s1w3</LM>
 </w.rf>
 <form>lh</form>
-<tag lemma="lh-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="lh-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-mf930702-023-p2s1w4">
 <src.rf>manual</src.rf>
@@ -204,7 +204,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-023-p2s2w2">
@@ -322,7 +322,7 @@
 <LM>w#w-mf930702-023-p2s2w15</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930702-023-p2s2w16">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-mf930702-023-p2s4w5</LM>
 </w.rf>
 <form>nich</form>
-<tag lemma="on-1" src="orig" selected="1">P5XP2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP2--3-------</tag>
 </m>
 <m id="m-mf930702-023-p2s4w6">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-023-p2s5w2">

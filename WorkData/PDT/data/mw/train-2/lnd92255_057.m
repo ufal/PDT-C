@@ -362,7 +362,7 @@
 <LM>w#w-lnd92255-057-p3s4w2</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92255-057-p3s4w3">
 <src.rf>manual</src.rf>
@@ -450,7 +450,7 @@
 <LM>w#w-lnd92255-057-p3s4w13</LM>
 </w.rf>
 <form>gruzínsko</form>
-<tag lemma="gruzínský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="gruzínský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92255-057-p3s4w14">
 <src.rf>manual</src.rf>

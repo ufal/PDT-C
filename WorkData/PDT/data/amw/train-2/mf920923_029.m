@@ -511,7 +511,7 @@
 <LM>w#w-mf920923-029-p2s3w1</LM>
 </w.rf>
 <form>Navrženo</form>
-<tag lemma="navrhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VsNS----X-AP---</tag>
 </m>
 <m id="m-mf920923-029-p2s3w2">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-mf920923-029-p2s3w3</LM>
 </w.rf>
 <form>ni</form>
-<tag lemma="on-1" src="orig" selected="1">P5FS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3------1</tag>
 </m>
 <m id="m-mf920923-029-p2s3w4">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-mf920923-029-p2s3w4</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-029-p2s3w5">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-mf920923-029-p2s3w14</LM>
 </w.rf>
 <form>třech</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-mf920923-029-p2s3w15">
 <src.rf>manual</src.rf>

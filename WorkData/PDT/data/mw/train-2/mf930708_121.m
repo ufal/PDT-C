@@ -355,7 +355,7 @@
 <form>zda</form>
 <tag>
 <AM lemma="zda" src="orig">J,-------------</AM>
-<AM lemma="zda-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="zda-99_;Y" src="manual" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-121-p3s1w4">
@@ -1023,7 +1023,7 @@
 <LM>w#w-mf930708-121-p4s1w2</LM>
 </w.rf>
 <form>n</form>
-<tag lemma="nad-1_:B" src="orig" selected="1">RR--7---------8</tag>
+<tag lemma="nad-1" src="orig" selected="1">RR--7---------b</tag>
 </m>
 <m id="m-mf930708-121-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-mf930708-121-p4s3w2</LM>
 </w.rf>
 <form>rá</form>
-<tag lemma="rá-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="rá-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-mf930708-121-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1649,7 +1649,7 @@
 <LM>w#w-mf930708-121-p4s5w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930708-121-p4s5w3">
 <src.rf>manual</src.rf>
@@ -1779,7 +1779,7 @@
 <LM>w#w-mf930708-121-p4s6w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930708-121-p4s6w4">
 <src.rf>manual</src.rf>
@@ -1803,7 +1803,7 @@
 <LM>w#w-mf930708-121-p4s6w6</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-mf930708-121-p4s6w7">
 <src.rf>manual</src.rf>
@@ -1878,7 +1878,7 @@
 </w.rf>
 <form>str</form>
 <tag>
-<AM lemma="str-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="str-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="strana-4_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -2202,7 +2202,7 @@
 <LM>w#w-mf930708-121-p5s5w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930708-121-p5s5w3">
 <src.rf>manual</src.rf>

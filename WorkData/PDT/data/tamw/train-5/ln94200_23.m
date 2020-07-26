@@ -80,7 +80,7 @@
 <LM>w#w-ln94200-23-p2s1Aw3</LM>
 </w.rf>
 <form>ali</form>
-<tag lemma="ali-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ali-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-ln94200-23-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -96,7 +96,7 @@
 <LM>w#w-ln94200-23-p2s1Aw5</LM>
 </w.rf>
 <form>ma</form>
-<tag lemma="ma-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ma-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-ln94200-23-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-23-p2s1Bw24">
@@ -781,7 +781,7 @@
 <LM>w#w-ln94200-23-p3s3w9</LM>
 </w.rf>
 <form>napjaté</form>
-<tag lemma="napjatý_,x_^(*4nout)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="napjatý_^(*4nout)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln94200-23-p3s3w10">
 <src.rf>manual</src.rf>
@@ -914,7 +914,7 @@
 <LM>w#w-ln94200-23-p3s4w15</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSNS4FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9NS4FS3-------</tag>
 </m>
 <m id="m-ln94200-23-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1022,7 +1022,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-23-p4s1w11">
@@ -1055,7 +1055,7 @@
 <LM>w#w-ln94200-23-p4s1w14</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94200-23-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1326,7 +1326,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-23-p4s3w3">

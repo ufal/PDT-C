@@ -174,7 +174,7 @@
 <LM>w#w-ln95048-013-p1s1w20</LM>
 </w.rf>
 <form>pohľady</form>
-<tag lemma="pohľad_;m_,t" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="pohľad_;m" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln95048-013-p1s1w21">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 <LM>w#w-ln95048-013-p1s3w1</LM>
 </w.rf>
 <form>Vydal</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-013-p1s3w2">
 <src.rf>manual</src.rf>

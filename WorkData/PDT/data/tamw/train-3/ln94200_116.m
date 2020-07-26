@@ -180,7 +180,7 @@
 <LM>w#w-ln94200-116-p2s1Bw14</LM>
 </w.rf>
 <form>napjatých</form>
-<tag lemma="napjatý_,x_^(*4nout)" src="orig" selected="1">AAIP6----1A----</tag>
+<tag lemma="napjatý_^(*4nout)" src="orig" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-ln94200-116-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -204,7 +204,7 @@
 <LM>w#w-ln94200-116-p2s1Bw17</LM>
 </w.rf>
 <form>oběma</form>
-<tag lemma="oba`2" src="orig" selected="1">ClXP7----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnXP7----------</tag>
 </m>
 <m id="m-ln94200-116-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-ln94200-116-p2s2w21</LM>
 </w.rf>
 <form>zastaví</form>
-<tag lemma="zastavit-1_:W_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94200-116-p2s2w22">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-ln94200-116-p2s3w8</LM>
 </w.rf>
 <form>albánsko</form>
-<tag lemma="albánský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="albánský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94200-116-p2s3w9">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-ln94200-116-p2s4Aw1</LM>
 </w.rf>
 <form>Řecko</form>
-<tag lemma="řecký" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="řecký" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94200-116-p2s4Aw2">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-ln94200-116-p2s4Bw3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94200-116-p2s4Bw4">
 <src.rf>manual</src.rf>

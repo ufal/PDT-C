@@ -77,7 +77,7 @@
 <LM>w#w-lnd94105-096-p1s2w4</LM>
 </w.rf>
 <form>ma</form>
-<tag lemma="ma-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ma-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-lnd94105-096-p1s2w5">
 <src.rf>manual</src.rf>
@@ -145,7 +145,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-096-p1s3w7">
@@ -234,7 +234,7 @@
 <LM>w#w-lnd94105-096-p1s3w17</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd94105-096-p1s3w18">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-lnd94105-096-p1s5w3</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP6----------</tag>
 </m>
 <m id="m-lnd94105-096-p1s5w4">
 <src.rf>manual</src.rf>

@@ -74,7 +74,7 @@
 <form>jsl</form>
 <tag>
 <AM lemma="jsl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jsl-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-077-p2s1w4">
@@ -237,7 +237,7 @@
 <LM>w#w-mf930701-077-p2s2w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="on-1_^(oni/ono)" src="orig" selected="1">PPXP4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP4--3-------</tag>
 </m>
 <m id="m-mf930701-077-p2s2w4">
 <src.rf>manual</src.rf>
@@ -783,7 +783,7 @@
 <LM>w#w-mf930701-077-p2s5w10</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="on-1_^(oni/ono)" src="orig" selected="1">PPXP4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP4--3-------</tag>
 </m>
 <m id="m-mf930701-077-p2s5w11">
 <src.rf>manual</src.rf>
@@ -1205,7 +1205,7 @@
 <LM>w#w-mf930701-077-p2s8w9</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9XP2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP2----------</tag>
 </m>
 <m id="m-mf930701-077-p2s8w10">
 <src.rf>manual</src.rf>

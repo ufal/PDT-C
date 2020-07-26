@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-076-p1s1w2</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-mf930708-076-p1s1w3">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <form>jsl</form>
 <tag>
 <AM lemma="jsl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jsl-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-076-p2s1w4">
@@ -258,7 +258,7 @@
 <LM>w#w-mf930708-076-p2s2w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930708-076-p2s2w4">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-mf930708-076-p2s3w2</LM>
 </w.rf>
 <form>ní</form>
-<tag lemma="on-1" src="orig" selected="1">P5FS6--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS6--3-------</tag>
 </m>
 <m id="m-mf930708-076-p2s3w3">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-mf930708-076-p2s4w7</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-mf930708-076-p2s4w8">
 <src.rf>manual</src.rf>

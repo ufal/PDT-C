@@ -59,7 +59,7 @@
 <tag>
 <AM lemma="The-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="the-77_,t" src="auto">F%-------------</AM>
-<AM lemma="THE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2139-001-p1s0W5-Ta">
@@ -116,7 +116,7 @@
 <tag>
 <AM lemma="Mac_;Y_^(MacIntosh)" src="auto">NNMP4-----A----</AM>
 <AM lemma="Mac_;Y_^(MacIntosh)" src="auto" recommended="1">NNMP7-----A----</AM>
-<AM lemma="MACY-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Macy-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2139-001-p1s0W10-Ta">
@@ -142,7 +142,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
-<AM lemma="CO-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2139-001-p1s0W12-Ta">

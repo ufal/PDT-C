@@ -610,7 +610,7 @@
 <LM>w#w-wsj0008-001-p1s2W11</LM>
 </w.rf>
 <form>bilionů</form>
-<tag lemma="bilión" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="bilion`1000000000000_,s_^(^DD**bilión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj0008-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -647,7 +647,7 @@
 <LM>w#w-wsj0008-001-p1s2W15</LM>
 </w.rf>
 <form>bilionů</form>
-<tag lemma="bilión" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="bilion`1000000000000_,s_^(^DD**bilión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj0008-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -962,7 +962,7 @@
 </w.rf>
 <form>bilionu</form>
 <tag>
-<AM lemma="bilión" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="bilion`1000000000000_,s_^(^DD**bilión)" src="auto" recommended="1">CzIS2----------</AM>
 <AM lemma="bilión" src="auto">NNIS3-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -1169,7 +1169,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0008-001-p1s5W7-Ta">

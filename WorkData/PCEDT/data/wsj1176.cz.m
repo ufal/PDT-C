@@ -270,7 +270,7 @@
 <form>jejího</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSMS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS2FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS2FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1176-001-p1s0W26-Ta">
@@ -922,7 +922,7 @@
 <form>řek</form>
 <tag>
 <AM lemma="říci" src="auto">VmYS------A-P--</AM>
-<AM lemma="říci" src="auto" selected="1">VpYS---XR-AAP-6</AM>
+<AM lemma="říci" src="auto" selected="1">VpYS----R-AAP-6</AM>
 <AM lemma="řeka" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -949,7 +949,7 @@
 </w.rf>
 <form>Jednou</form>
 <tag>
-<AM lemma="jeden`1" src="auto" recommended="1">ClFS7----------</AM>
+<AM lemma="jeden`1" src="auto" recommended="1">CnFS7----------</AM>
 <AM lemma="jednou-1" src="auto">Cv-------------</AM>
 <AM lemma="jednou-2" src="auto">Db-------------</AM>
 </tag>
@@ -1699,7 +1699,7 @@
 <LM>w#w-wsj1176-001-p1s3W46</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1176-001-p1s3W47-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2069,7 +2069,7 @@
 <LM>w#w-wsj1176-001-p1s4W27</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj1176-001-p1s4W28-Ta">
 <src.rf>tagger-a</src.rf>

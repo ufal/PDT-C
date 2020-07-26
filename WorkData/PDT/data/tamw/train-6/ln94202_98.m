@@ -88,7 +88,7 @@
 <tag>
 <AM lemma="tom-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
-<AM lemma="tom-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tom-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-98-p2s1Aw6">
@@ -719,7 +719,7 @@
 <LM>w#w-ln94202-98-p3s1w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94202-98-p3s1w5">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-ln94202-98-p3s1w9</LM>
 </w.rf>
 <form>Teplicko</form>
-<tag lemma="teplický" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="teplický" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94202-98-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1044,7 +1044,7 @@
 <LM>w#w-ln94202-98-p3s2w26</LM>
 </w.rf>
 <form>což</form>
-<tag lemma="což-1" src="orig" selected="1">PE--1----------</tag>
+<tag lemma="což-1" src="orig" selected="1">PQ--1----------</tag>
 </m>
 <m id="m-ln94202-98-p3s2w27">
 <src.rf>manual</src.rf>
@@ -1344,7 +1344,7 @@
 <LM>w#w-ln94202-98-p3s4w6</LM>
 </w.rf>
 <form>kolíčků</form>
-<tag lemma="kolíček_^(^DI*3k)" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="kolíček" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94202-98-p3s4w7">
 <src.rf>manual</src.rf>

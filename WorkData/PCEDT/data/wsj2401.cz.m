@@ -662,7 +662,7 @@
 <LM>w#w-wsj2401-001-p1s4W15</LM>
 </w.rf>
 <form>přistiženi</form>
-<tag lemma="přistihnout" src="auto" recommended="1">VsMP---XX-APP--</tag>
+<tag lemma="přistihnout" src="auto" recommended="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-wsj2401-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>

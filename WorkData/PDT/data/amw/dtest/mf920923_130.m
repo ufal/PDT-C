@@ -43,7 +43,7 @@
 <LM>w#w-mf920923-130-p1s1w4</LM>
 </w.rf>
 <form>zastaveny</form>
-<tag lemma="zastavit-1_:W_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 </s>
 <s id="m-mf920923-130-p2s1">
@@ -161,7 +161,7 @@
 <LM>w#w-mf920923-130-p4s2w10</LM>
 </w.rf>
 <form>obě</form>
-<tag lemma="oba`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-mf920923-130-p4s2w11">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-mf920923-130-p4s4w20</LM>
 </w.rf>
 <form>vrženo</form>
-<tag lemma="vrhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vrhnout" src="orig" selected="1">VsNS----X-AP---</tag>
 </m>
 <m id="m-mf920923-130-p4s4w21">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-mf920923-130-p4s4w23</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="miliarda`1000000000" src="orig" selected="1">CzFP2----------</tag>
 </m>
 <m id="m-mf920923-130-p4s4w24">
 <src.rf>manual</src.rf>

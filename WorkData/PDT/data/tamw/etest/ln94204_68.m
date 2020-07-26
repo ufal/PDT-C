@@ -29,7 +29,7 @@
 <form>přepadli</form>
 <tag>
 <AM lemma="přepadnout" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="přepadnout_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="přepadnout" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94204-68-p1s1w3">
@@ -74,7 +74,7 @@
 <form>vet</form>
 <tag>
 <AM lemma="vet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vet-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-68-p2s1Aw4">
@@ -231,7 +231,7 @@
 <LM>w#w-ln94204-68-p2s2w8</LM>
 </w.rf>
 <form>mu</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
 </m>
 <m id="m-ln94204-68-p2s2w9">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln94204-68-p2s2w10</LM>
 </w.rf>
 <form>ukradli</form>
-<tag lemma="ukrást_:W" src="auto" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="ukrást" src="auto" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln94204-68-p2s2w11">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-ln94204-68-p2s3w11</LM>
 </w.rf>
 <form>ho</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS4--3-------</tag>
 </m>
 <m id="m-ln94204-68-p2s3w12">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-ln94204-68-p2s4w3</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP2----------</tag>
 </m>
 <m id="m-ln94204-68-p2s4w4">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-ln94204-68-p2s4w19</LM>
 </w.rf>
 <form>předán</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94204-68-p2s4w20">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 <LM>w#w-ln94204-68-p2s5w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94204-68-p2s5w2">
 <src.rf>manual</src.rf>

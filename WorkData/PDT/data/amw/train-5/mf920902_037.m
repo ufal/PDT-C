@@ -385,7 +385,7 @@
 <LM>w#w-mf920902-037-p1s1Bw15</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf920902-037-p1s1Bw16">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-mf920902-037-p1s1Bw16</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag lemma="takzvaný" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf920902-037-p1s1Bw17">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-mf920902-037-p1s1Bw26</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9ZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
 </m>
 <m id="m-mf920902-037-p1s1Bw27">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-mf920902-037-p1s1Bw27</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920902-037-p1s1Bw28">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-mf920902-037-p1s1Cw3</LM>
 </w.rf>
 <form>Garry</form>
-<tag lemma="Garry_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Garry_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-037-p1s1Cw4">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-mf920902-037-p1s1Cw6</LM>
 </w.rf>
 <form>Pretty</form>
-<tag lemma="pretty_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="pretty" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920902-037-p1s1Cw7">
 <src.rf>manual</src.rf>
@@ -692,7 +692,7 @@
 <LM>w#w-mf920902-037-p1s1Cw7</LM>
 </w.rf>
 <form>Woman</form>
-<tag lemma="woman_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="woman" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-037-p1s1Cw8">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 <LM>w#w-mf920902-037-p1s1Cw19</LM>
 </w.rf>
 <form>niž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9FS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS4---------1</tag>
 </m>
 <m id="m-mf920902-037-p1s1Cw20">
 <src.rf>manual</src.rf>

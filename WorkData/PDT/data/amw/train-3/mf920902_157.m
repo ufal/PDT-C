@@ -440,7 +440,7 @@
 <LM>w#w-mf920902-157-p4s3w18</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920902-157-p4s3w19">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-mf920902-157-p4s5w4</LM>
 </w.rf>
 <form>vyňaty</form>
-<tag lemma="vyjmout" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vyjmout" src="orig" selected="1">VsTP----X-AP---</tag>
 </m>
 <m id="m-mf920902-157-p4s5w5">
 <src.rf>manual</src.rf>

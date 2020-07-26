@@ -154,7 +154,7 @@
 <LM>w#w-ln95047-119-p2s1Bw11</LM>
 </w.rf>
 <form>anglicko</form>
-<tag lemma="anglický" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="anglický" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95047-119-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-ln95047-119-p2s1Bw19</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95047-119-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-ln95047-119-p2s2w6</LM>
 </w.rf>
 <form>anglicko</form>
-<tag lemma="anglický" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="anglický" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95047-119-p2s2w7">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-ln95047-119-p2s3w1</LM>
 </w.rf>
 <form>Obě</form>
-<tag lemma="oba`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-ln95047-119-p2s3w2">
 <src.rf>manual</src.rf>

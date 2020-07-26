@@ -61,7 +61,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-3_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-027-p1s1w7">
@@ -265,7 +265,7 @@
 <LM>w#w-ln95049-027-p2s2w2</LM>
 </w.rf>
 <form>předá</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95049-027-p2s2w3">
 <src.rf>manual</src.rf>

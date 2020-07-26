@@ -70,7 +70,7 @@
 </w.rf>
 <form>mag</form>
 <tag>
-<AM lemma="mag-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="mag-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -306,7 +306,7 @@
 <LM>w#w-ln94204-37-p2s2w2</LM>
 </w.rf>
 <form>Medilit</form>
-<tag lemma="Medilit_;m_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Medilit_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-37-p2s2w3">
 <src.rf>manual</src.rf>
@@ -376,7 +376,7 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-ln94204-37-p2s2w9">
@@ -666,7 +666,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-37-p2s4w4">
@@ -717,7 +717,7 @@
 <form>MUDr</form>
 <tag>
 <AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-37-p2s4w10">
@@ -774,7 +774,7 @@
 <LM>w#w-ln94204-37-p2s4w16</LM>
 </w.rf>
 <form>čtyři</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-ln94204-37-p2s4w17">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <LM>w#w-ln94204-37-p2s4w19</LM>
 </w.rf>
 <form>nadšeni</form>
-<tag lemma="nadchnout" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="nadchnout" src="orig" selected="1">VsMP----X-AP---</tag>
 </m>
 <m id="m-ln94204-37-p2s4w20">
 <src.rf>manual</src.rf>

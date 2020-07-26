@@ -79,7 +79,7 @@
 <form>škr</form>
 <tag>
 <AM lemma="škr-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="škr-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="škr-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-22-p2s1Aw4">
@@ -122,7 +122,7 @@
 <LM>w#w-ln94206-22-p2s1Bw3</LM>
 </w.rf>
 <form>osmi</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="osm`8" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln94206-22-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -727,7 +727,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-22-p3s3w9">

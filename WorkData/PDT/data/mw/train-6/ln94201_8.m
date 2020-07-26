@@ -277,7 +277,7 @@
 <LM>w#w-ln94201-8-p2s2w8</LM>
 </w.rf>
 <form>jich</form>
-<tag lemma="on-1" src="orig" selected="1">PPXP2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP2--3------1</tag>
 </m>
 <m id="m-ln94201-8-p2s2w9">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <LM>w#w-ln94201-8-p3s1w10</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="miliarda`1000000000" src="orig" selected="1">CzFP2----------</tag>
 </m>
 <m id="m-ln94201-8-p3s1w11">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-8-p3s2w21">
@@ -867,7 +867,7 @@
 <LM>w#w-ln94201-8-p3s3w17</LM>
 </w.rf>
 <form>pětadvaceti</form>
-<tag lemma="pětadvacet`25" src="orig" selected="1">Cn-P6----------</tag>
+<tag lemma="pětadvacet`25" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-ln94201-8-p3s3w18">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-ln94201-8-p4s1w4</LM>
 </w.rf>
 <form>devatenáct</form>
-<tag lemma="devatenáct`19" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="devatenáct`19" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94201-8-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1293,7 +1293,7 @@
 <LM>w#w-ln94201-8-p4s3w23</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP2----------</tag>
 </m>
 <m id="m-ln94201-8-p4s3w24">
 <src.rf>manual</src.rf>

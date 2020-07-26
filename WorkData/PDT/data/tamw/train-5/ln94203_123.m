@@ -820,7 +820,7 @@
 <form>sn</form>
 <tag>
 <AM lemma="sn-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="sn-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sn-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-123-p3s12w3">
@@ -839,7 +839,7 @@
 <form>šv</form>
 <tag>
 <AM lemma="šv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šv-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-123-p3s12w5">

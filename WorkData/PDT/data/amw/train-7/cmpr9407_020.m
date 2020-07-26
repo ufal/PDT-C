@@ -305,7 +305,7 @@
 <LM>w#w-cmpr9407-020-p13s2w13</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9407-020-p13s2w14">
 <src.rf>manual</src.rf>

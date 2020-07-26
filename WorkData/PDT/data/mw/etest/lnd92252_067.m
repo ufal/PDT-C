@@ -707,7 +707,7 @@
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSFR-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-067-p4s1Aw5">
@@ -1116,7 +1116,7 @@
 <LM>w#w-lnd92252-067-p6s1Aw7</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd92252-067-p6s1Aw8">
 <src.rf>manual</src.rf>
@@ -1132,7 +1132,7 @@
 <LM>w#w-lnd92252-067-p6s1Aw9</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="SR-1_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd92252-067-p6s1Aw10">
 <src.rf>manual</src.rf>
@@ -1180,7 +1180,7 @@
 <LM>w#w-lnd92252-067-p6s1Aw15</LM>
 </w.rf>
 <form>oběma</form>
-<tag lemma="oba`2" src="orig" selected="1">ClXP7----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnXP7----------</tag>
 </m>
 <m id="m-lnd92252-067-p6s1Aw16">
 <src.rf>manual</src.rf>
@@ -2196,7 +2196,7 @@
 <LM>w#w-lnd92252-067-p7s1Bw2</LM>
 </w.rf>
 <form>herečka</form>
-<tag lemma="herečka_^(^FM*3c)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="herečka" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-067-p7s1Bw3">
 <src.rf>manual</src.rf>
@@ -2761,7 +2761,7 @@
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSFR-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-067-p18s1w7">
@@ -2857,7 +2857,7 @@
 <LM>w#w-lnd92252-067-p19s1w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd92252-067-p19s1w4">
 <src.rf>manual</src.rf>
@@ -4241,7 +4241,7 @@
 <form>VAN</form>
 <tag>
 <AM lemma="vana" src="orig">NNFP2-----A----</AM>
-<AM lemma="VAN-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Van-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-067-p41s1w5">
@@ -4755,7 +4755,7 @@
 <LM>w#w-lnd92252-067-p52s1w2</LM>
 </w.rf>
 <form>herečka</form>
-<tag lemma="herečka_^(^FM*3c)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="herečka" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-067-p52s1w3">
 <src.rf>manual</src.rf>

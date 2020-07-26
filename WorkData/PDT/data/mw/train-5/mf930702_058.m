@@ -688,7 +688,7 @@
 <LM>w#w-mf930702-058-p3s1w28</LM>
 </w.rf>
 <form>BMW</form>
-<tag lemma="BMW_:B_;m_^(vozidlo)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="BMW_;m_^(vozidlo)" src="auto" selected="1">BNNXX-----A----</tag>
 </m>
 <m id="m-mf930702-058-p3s1w29">
 <src.rf>manual</src.rf>
@@ -1371,7 +1371,7 @@
 <form>ks</form>
 <tag>
 <AM lemma="kus" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kus_:B" src="auto" recommended="1" selected="1">NNXXX-----A---8</AM>
+<AM lemma="kus" src="auto" recommended="1" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-058-p3s1w109">

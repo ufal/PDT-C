@@ -93,7 +93,7 @@
 <LM>w#w-cmpr9406-018-p2s1w7</LM>
 </w.rf>
 <form>PF</form>
-<tag lemma="PF_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag lemma="PF" src="auto" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-cmpr9406-018-p2s1w8">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-018-p7s1w5">
@@ -510,7 +510,7 @@
 <LM>w#w-cmpr9406-018-p8s2w4</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9406-018-p8s2w5">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 <LM>w#w-cmpr9406-018-p9s2w2</LM>
 </w.rf>
 <form>ho</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS4--3-------</tag>
 </m>
 <m id="m-cmpr9406-018-p9s2w3">
 <src.rf>manual</src.rf>

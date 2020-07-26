@@ -262,7 +262,7 @@
 <LM>w#w-mf920902-032-p2s1w28</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-mf920902-032-p2s1w29">
 <src.rf>manual</src.rf>

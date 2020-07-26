@@ -450,7 +450,7 @@
 <LM>w#w-mf930702-044-p4s1w11</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-mf930702-044-p4s1w12">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-mf930702-044-p6s1w9</LM>
 </w.rf>
 <form>jedenácti</form>
-<tag lemma="jedenáct`11" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="jedenáct`11" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf930702-044-p6s1w10">
 <src.rf>manual</src.rf>
@@ -876,7 +876,7 @@
 <LM>w#w-mf930702-044-p6s1w12</LM>
 </w.rf>
 <form>osmi</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="osm`8" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf930702-044-p6s1w13">
 <src.rf>manual</src.rf>

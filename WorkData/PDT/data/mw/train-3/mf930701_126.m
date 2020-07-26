@@ -64,7 +64,7 @@
 <tag>
 <AM lemma="fj-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="FJ-1_:B_,x_^(francouzský_jazyk)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="fj-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fj-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-126-p2s1w4">
@@ -137,7 +137,7 @@
 <LM>w#w-mf930701-126-p2s1w12</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP6----------</tag>
 </m>
 <m id="m-mf930701-126-p2s1w13">
 <src.rf>manual</src.rf>

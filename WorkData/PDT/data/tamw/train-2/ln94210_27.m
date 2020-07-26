@@ -19,7 +19,7 @@
 <LM>w#w-ln94210-27-p1s1w1</LM>
 </w.rf>
 <form>Šest</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-ln94210-27-p1s1w2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <form>šv</form>
 <tag>
 <AM lemma="šv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šv-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-27-p2s1Aw4">
@@ -106,7 +106,7 @@
 <form>sn</form>
 <tag>
 <AM lemma="sn-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="sn-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sn-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-27-p2s1Aw6">
@@ -335,7 +335,7 @@
 <LM>w#w-ln94210-27-p2s2w1</LM>
 </w.rf>
 <form>Tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-ln94210-27-p2s2w2">
 <src.rf>manual</src.rf>

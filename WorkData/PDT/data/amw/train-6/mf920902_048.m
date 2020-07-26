@@ -228,7 +228,7 @@
 <form>BMW</form>
 <tag>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="auto">NNNXX-----A----</AM>
-<AM lemma="BMW_:B_;m_^(vozidlo)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920902-048-p2s2w3">
@@ -408,7 +408,7 @@
 <AM lemma="D-3`500" src="auto">C}-------------</AM>
 <AM lemma="D-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="D-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="D-6_:B_;m" src="auto" selected="1">NNXXX-----A---8</AM>
+<AM lemma="D-6_;m" src="auto" selected="1">NNXXX-----A---b</AM>
 <AM lemma="D-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="D-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="D-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
@@ -691,7 +691,7 @@
 <LM>w#w-mf920902-048-p2s4w6</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-048-p2s4w7">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <form>BMW</form>
 <tag>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="auto">NNNXX-----A----</AM>
-<AM lemma="BMW_:B_;m_^(vozidlo)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920902-048-p3s2w8">
@@ -1488,7 +1488,7 @@
 <LM>w#w-mf920902-048-p4s2w6</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920902-048-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1586,7 +1586,7 @@
 <LM>w#w-mf920902-048-p4s3w4</LM>
 </w.rf>
 <form>zastavila</form>
-<tag lemma="zastavit-1_:W_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920902-048-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1886,7 +1886,7 @@
 <LM>w#w-mf920902-048-p5s1w20</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf920902-048-p5s1w21">
 <src.rf>manual</src.rf>
@@ -2006,7 +2006,7 @@
 <LM>w#w-mf920902-048-p5s1w35</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920902-048-p5s1w36">
 <src.rf>manual</src.rf>
@@ -2014,7 +2014,7 @@
 <LM>w#w-mf920902-048-p5s1w36</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf920902-048-p5s1w37">
 <src.rf>manual</src.rf>
@@ -2106,7 +2106,7 @@
 <form>MUDr</form>
 <tag>
 <AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920902-048-p5s2w8">
@@ -2190,7 +2190,7 @@
 <LM>w#w-mf920902-048-p5s2w17</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NA--1</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-mf920902-048-p5s2w18">
 <src.rf>manual</src.rf>
@@ -2378,7 +2378,7 @@
 <LM>w#w-mf920902-048-p5s4w4</LM>
 </w.rf>
 <form>mu</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
 </m>
 <m id="m-mf920902-048-p5s4w5">
 <src.rf>manual</src.rf>
@@ -2890,7 +2890,7 @@
 <LM>w#w-mf920902-048-p7s1w5</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="strana-4" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920902-048-p7s1w6">
 <src.rf>manual</src.rf>

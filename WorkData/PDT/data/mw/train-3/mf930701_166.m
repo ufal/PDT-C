@@ -133,7 +133,7 @@
 <LM>w#w-mf930701-166-p2s1w6</LM>
 </w.rf>
 <form>hodili</form>
-<tag lemma="hodit_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="hodit" src="orig" selected="1">VpMP----R-AA---</tag>
 </m>
 <m id="m-mf930701-166-p2s1w7">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-mf930701-166-p2s2w19</LM>
 </w.rf>
 <form>nikdo</form>
-<tag lemma="nikdo" src="orig" selected="1">PWM-1----------</tag>
+<tag lemma="nikdo" src="orig" selected="1">PY--1----------</tag>
 </m>
 <m id="m-mf930701-166-p2s2w20">
 <src.rf>manual</src.rf>

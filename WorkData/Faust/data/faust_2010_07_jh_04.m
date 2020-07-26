@@ -153,7 +153,7 @@
 <LM>w#w-jh_04-SCzechM-p0331-s1-w1</LM>
 </w.rf>
 <form>Někdo</form>
-<tag lemma="někdo" recommended="1">PZM-1----------</tag>
+<tag lemma="někdo" recommended="1">PK--1----------</tag>
 </m>
 <m id="jh_04-SCzechM-p0331-s1-w2">
 <w.rf>
@@ -275,7 +275,7 @@
 </w.rf>
 <form>nic</form>
 <tag>
-<AM lemma="nic" recommended="1">PW--1----------</AM>
+<AM lemma="nic" recommended="1">PY--1----------</AM>
 <AM lemma="nic">PW--4----------</AM>
 </tag>
 </m>
@@ -362,7 +362,7 @@
 </w.rf>
 <form>si</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--3----------</AM>
 <AM lemma="být">VB-S---2P-AA--7</AM>
 </tag>
 </m>
@@ -889,7 +889,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -1157,7 +1157,7 @@
 </w.rf>
 <form>něco</form>
 <tag>
-<AM lemma="něco" recommended="1">PZ--4----------</AM>
+<AM lemma="něco" recommended="1">PK--4----------</AM>
 <AM lemma="něco">PZ--1----------</AM>
 </tag>
 </m>
@@ -1381,7 +1381,7 @@
 </w.rf>
 <form>ho</form>
 <tag>
-<AM lemma="on-1" recommended="1">PHZS4--3-------</AM>
+<AM lemma="on-1" recommended="1">P5ZS4--3-------</AM>
 <AM lemma="ho">II-------------</AM>
 <AM lemma="on-1">PHZS2--3-------</AM>
 </tag>
@@ -1420,7 +1420,7 @@
 </w.rf>
 <form>si</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--3----------</AM>
 <AM lemma="být">VB-S---2P-AA--7</AM>
 </tag>
 </m>
@@ -2643,7 +2643,7 @@
 </w.rf>
 <form>si</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--3----------</AM>
 <AM lemma="být">VB-S---2P-AA--7</AM>
 </tag>
 </m>
@@ -3135,7 +3135,7 @@
 <LM>w#w-jh_04-SCzechM-p0356-s1-w21</LM>
 </w.rf>
 <form>jednu</form>
-<tag lemma="jeden`1" recommended="1">ClFS4----------</tag>
+<tag lemma="jeden`1" recommended="1">CnFS4----------</tag>
 </m>
 <m id="jh_04-SCzechM-p0356-s1-w22">
 <w.rf>
@@ -3271,7 +3271,7 @@
 <LM>w#w-jh_04-SCzechM-p0356-s1-w36</LM>
 </w.rf>
 <form>nikdo</form>
-<tag lemma="nikdo" recommended="1">PWM-1----------</tag>
+<tag lemma="nikdo" recommended="1">PY--1----------</tag>
 </m>
 <m id="jh_04-SCzechM-p0356-s1-w37">
 <w.rf>
@@ -3392,7 +3392,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -3578,7 +3578,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -3887,7 +3887,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -3991,7 +3991,7 @@
 <LM>w#w-jh_04-SCzechM-p0369-s1-w21</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" recommended="1">PPFS4--3-------</tag>
+<tag lemma="on-1" recommended="1">PEFS4--3-------</tag>
 </m>
 <m id="jh_04-SCzechM-p0369-s1-w22">
 <w.rf>
@@ -4091,7 +4091,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -4522,7 +4522,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -4585,7 +4585,7 @@
 </w.rf>
 <form>sebe</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P6-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P6--4----------</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)">P6-X2----------</AM>
 </tag>
 </m>
@@ -4644,7 +4644,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" recommended="1">PSXXXZS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS4--3-------</AM>
 </tag>
@@ -4791,7 +4791,7 @@
 </w.rf>
 <form>si</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--3----------</AM>
 <AM lemma="být">VB-S---2P-AA--7</AM>
 </tag>
 </m>
@@ -5489,7 +5489,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -5803,7 +5803,7 @@
 </w.rf>
 <form>ní</form>
 <tag>
-<AM lemma="on-1" recommended="1">P5FS2--3-------</AM>
+<AM lemma="on-1" recommended="1">PEFS2--3-------</AM>
 <AM lemma="on-1">P5FS3--3-------</AM>
 <AM lemma="on-1">P5FS4--3------6</AM>
 <AM lemma="on-1">P5FS6--3-------</AM>
@@ -5860,7 +5860,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -5887,7 +5887,7 @@
 </w.rf>
 <form>ni</form>
 <tag>
-<AM lemma="on-1" recommended="1">P5FS4--3-------</AM>
+<AM lemma="on-1" recommended="1">PEFS4--3------1</AM>
 <AM lemma="ni_,a">J^-------------</AM>
 </tag>
 </m>
@@ -6027,7 +6027,7 @@
 <form>tři</form>
 <tag>
 <AM lemma="tři`3" recommended="1">ClXP4----------</AM>
-<AM lemma="tři`3" selected="1">ClXP1----------</AM>
+<AM lemma="tři`3" selected="1">Cl-P1----------</AM>
 <AM lemma="tři`3">ClXP5----------</AM>
 <AM lemma="třít">Vi-S---2--A-I--</AM>
 <AM lemma="třít">Vi-S---3--A-I-4</AM>
@@ -6044,7 +6044,7 @@
 <AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="CD-2_:B_,t_^(Cash_Deposit)">NNIXX-----A---8</AM>
 <AM lemma="kadmium_:B_;U_,t">NNNXX-----A---8</AM>
-<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_04-SCzechM-p0406-s1-w2">
@@ -6370,7 +6370,7 @@
 </w.rf>
 <form>Nic</form>
 <tag>
-<AM lemma="nic" recommended="1">PW--1----------</AM>
+<AM lemma="nic" recommended="1">PY--1----------</AM>
 <AM lemma="Nico_;m">NNNP2-----A----</AM>
 <AM lemma="nic">PW--4----------</AM>
 </tag>
@@ -6381,7 +6381,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -6595,7 +6595,7 @@
 </w.rf>
 <form>si</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--3----------</AM>
 <AM lemma="být">VB-S---2P-AA--7</AM>
 </tag>
 </m>
@@ -6840,7 +6840,7 @@
 <AM lemma="pár-1">ClXP6----------</AM>
 <AM lemma="pár-1">ClXP7----------</AM>
 <AM lemma="pár-2">NNIS1-----A----</AM>
-<AM lemma="pár-1" src="manual" selected="1">ClXXX----------</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
 </tag>
 </m>
 <m id="jh_04-SCzechM-p0413-s1-w4">
@@ -7340,7 +7340,7 @@
 </w.rf>
 <form>si</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--3----------</AM>
 <AM lemma="být">VB-S---2P-AA--7</AM>
 </tag>
 </m>
@@ -7545,7 +7545,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>

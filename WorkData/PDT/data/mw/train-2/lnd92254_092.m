@@ -295,7 +295,7 @@
 <LM>w#w-lnd92254-092-p2s1w31</LM>
 </w.rf>
 <form>jedenácti</form>
-<tag lemma="jedenáct`11" src="orig" selected="1">Cn-P6----------</tag>
+<tag lemma="jedenáct`11" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-lnd92254-092-p2s1w32">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-lnd92254-092-p2s1w41</LM>
 </w.rf>
 <form>oba</form>
-<tag lemma="oba`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-lnd92254-092-p2s1w42">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="mlít" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="mel-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mel-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-092-p3s1w3">

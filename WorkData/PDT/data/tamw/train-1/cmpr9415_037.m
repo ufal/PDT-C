@@ -191,7 +191,7 @@
 <LM>w#w-cmpr9415-037-p4s2w2</LM>
 </w.rf>
 <form>třech</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-cmpr9415-037-p4s2w3">
 <src.rf>manual</src.rf>

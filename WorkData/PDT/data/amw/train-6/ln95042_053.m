@@ -43,7 +43,7 @@
 <LM>w#w-ln95042-053-p1s1w4</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 </s>
 <s id="m-ln95042-053-p2s1A">
@@ -130,7 +130,7 @@
 <LM>w#w-ln95042-053-p2s1Bw8</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln95042-053-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -190,7 +190,7 @@
 <LM>w#w-ln95042-053-p2s1Bw15</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 <m id="m-ln95042-053-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 <LM>w#w-ln95042-053-p2s2w6</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95042-053-p2s2w7">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-ln95042-053-p2s2w7</LM>
 </w.rf>
 <form>mu</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
 </m>
 <m id="m-ln95042-053-p2s2w8">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-ln95042-053-p2s3w10</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln95042-053-p2s3w11">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-ln95042-053-p2s4w5</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln95042-053-p2s4w6">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-ln95042-053-p2s5w2</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95042-053-p2s5w3">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-ln95042-053-p2s6w1</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln95042-053-p2s6w2">
 <src.rf>manual</src.rf>

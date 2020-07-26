@@ -29,7 +29,7 @@
 <form>ITEL</form>
 <tag>
 <AM lemma="ITEL" src="auto">X@-------------</AM>
-<AM lemma="ITEL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Itel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0211-001-p1s0W3-Ta">
@@ -40,7 +40,7 @@
 <form>CORP</form>
 <tag>
 <AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="CORP-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0211-001-p1s0W4-Ta">

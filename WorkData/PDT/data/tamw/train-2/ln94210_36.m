@@ -77,7 +77,7 @@
 <AM lemma="pech-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pech" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pech" src="auto">NNIS4-----A----</AM>
-<AM lemma="pech-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pech-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-36-p2s1Aw4">
@@ -666,7 +666,7 @@
 <LM>w#w-ln94210-36-p2s4w2</LM>
 </w.rf>
 <form>něj</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS2--3-------</tag>
 </m>
 <m id="m-ln94210-36-p2s4w3">
 <src.rf>manual</src.rf>

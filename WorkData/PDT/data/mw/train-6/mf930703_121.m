@@ -77,7 +77,7 @@
 <AM lemma="lup" src="auto">NNIS4-----A----</AM>
 <AM lemma="lupa" src="auto">NNFP2-----A----</AM>
 <AM lemma="lupnout" src="auto">VpYS----R-AAP-6</AM>
-<AM lemma="lup-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lup-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-121-p2s1w4">
@@ -471,7 +471,7 @@
 <LM>w#w-mf930703-121-p3s1w4</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf930703-121-p3s1w5">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <tag>
 <AM lemma="tk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="tknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
-<AM lemma="tk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tk-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-121-p4s1w4">
@@ -1065,7 +1065,7 @@
 <LM>w#w-mf930703-121-p6s1w12</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930703-121-p6s1w13">
 <src.rf>manual</src.rf>

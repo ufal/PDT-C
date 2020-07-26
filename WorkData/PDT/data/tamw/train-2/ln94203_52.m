@@ -64,7 +64,7 @@
 <tag>
 <AM lemma="pet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pet_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="pet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pet-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-52-p2s1Aw4">
@@ -605,7 +605,7 @@
 <LM>w#w-ln94203-52-p2s6w9</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94203-52-p2s6w10">
 <src.rf>manual</src.rf>

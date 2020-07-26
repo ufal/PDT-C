@@ -3117,7 +3117,7 @@
 <AM lemma="Hypo_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="hypa_,h_,n_^(rána,_úder)" src="auto">NNFS5-----A----</AM>
 <AM lemma="hypo" src="auto">A2--------A----</AM>
-<AM lemma="HYPO-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hypo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-068-p39s1w6">
@@ -3128,7 +3128,7 @@
 <form>BANK</form>
 <tag>
 <AM lemma="bank" src="orig">NNIS1-----A----</AM>
-<AM lemma="BANK-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-068-p39s1w7">
@@ -3252,7 +3252,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-068-p40s1w5">

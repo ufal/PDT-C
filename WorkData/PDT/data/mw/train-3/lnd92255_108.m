@@ -287,7 +287,7 @@
 <LM>w#w-lnd92255-108-p1s3w5</LM>
 </w.rf>
 <form>oba</form>
-<tag lemma="oba`2" src="orig" selected="1">ClYP4----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnYP4----------</tag>
 </m>
 <m id="m-lnd92255-108-p1s3w6">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-lnd92255-108-p1s3w9</LM>
 </w.rf>
 <form>nula</form>
-<tag lemma="nula" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nula" src="orig" selected="1">CzFS1----------</tag>
 </m>
 <m id="m-lnd92255-108-p1s3w10">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <form>SR</form>
 <tag>
 <AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SR-1_;G_^(Slovenská_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-108-p2s1w9">

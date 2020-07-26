@@ -265,7 +265,7 @@
 <LM>w#w-lnd92259-008-p3s3w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92259-008-p3s3w5">
 <src.rf>manual</src.rf>
@@ -281,7 +281,7 @@
 <LM>w#w-lnd92259-008-p3s3w6</LM>
 </w.rf>
 <form>sedmnáct</form>
-<tag lemma="sedmnáct`17" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="sedmnáct`17" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-lnd92259-008-p3s3w7">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-lnd92259-008-p3s3w11</LM>
 </w.rf>
 <form>jich</form>
-<tag lemma="on-1" src="orig" selected="1">PPXP2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP2--3------1</tag>
 </m>
 <m id="m-lnd92259-008-p3s3w12">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-lnd92259-008-p3s3w13</LM>
 </w.rf>
 <form>osmnáct</form>
-<tag lemma="osmnáct`18" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="osmnáct`18" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-lnd92259-008-p3s3w14">
 <src.rf>manual</src.rf>

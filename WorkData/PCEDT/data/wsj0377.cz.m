@@ -49,7 +49,7 @@
 <LM>w#w-wsj0377-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag lemma="corp-77" src="auto" recommended="1">B%-------------</tag>
 </m>
 <m id="m-wsj0377-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -288,7 +288,7 @@
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP3FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS6FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS7FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS7FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj0377-001-p1s1W2-Ta">
@@ -940,7 +940,7 @@
 <LM>w#w-wsj0377-001-p1s2W29</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj0377-001-p1s2W30-Ta">
 <src.rf>tagger-a</src.rf>

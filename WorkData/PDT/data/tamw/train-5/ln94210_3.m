@@ -211,7 +211,7 @@
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="nalézt-2" src="auto">Vf--------A----</AM>
-<AM lemma="nalézt-2_:W" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="nalézt-2" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-ln94210-3-p2s1Bw18">
@@ -500,7 +500,7 @@
 <LM>w#w-ln94210-3-p3s1w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94210-3-p3s1w3">
 <src.rf>manual</src.rf>

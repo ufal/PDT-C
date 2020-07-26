@@ -56,7 +56,7 @@
 <tag>
 <AM lemma="sob-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="sob" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="sob-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sob-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-051-p2s1w4">
@@ -200,7 +200,7 @@
 <LM>w#w-mf920902-051-p2s3w4</LM>
 </w.rf>
 <form>vypadal</form>
-<tag lemma="vypadat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vypadat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-051-p2s3w5">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-mf920902-051-p2s3w20</LM>
 </w.rf>
 <form>dvacet</form>
-<tag lemma="dvacet`20" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="dvacet`20" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf920902-051-p2s3w21">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-mf920902-051-p2s4w11</LM>
 </w.rf>
 <form>ZOO</form>
-<tag lemma="ZOO_:B" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="ZOO" src="orig" selected="1">BNNXX-----A----</tag>
 </m>
 <m id="m-mf920902-051-p2s4w12">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-mf920902-051-p2s4w20</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920902-051-p2s4w21">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <LM>w#w-mf920902-051-p2s6w12</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="on-1_^(oni/ono)" src="orig" selected="1">PPXP4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP4--3-------</tag>
 </m>
 <m id="m-mf920902-051-p2s6w13">
 <src.rf>manual</src.rf>

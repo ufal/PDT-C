@@ -446,7 +446,7 @@
 <LM>w#w-mf920922-047-p12s1w3</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIS4----------</tag>
 </m>
 <m id="m-mf920922-047-p12s1w4">
 <src.rf>manual</src.rf>

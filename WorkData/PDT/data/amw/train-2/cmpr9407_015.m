@@ -21,7 +21,7 @@
 <form>FOR</form>
 <tag>
 <AM lemma="fórum" src="orig">NNNP2-----A----</AM>
-<AM lemma="FOR-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="For-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-015-p2s1w2">
@@ -81,7 +81,7 @@
 <LM>w#w-cmpr9407-015-p3s1w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-cmpr9407-015-p3s1w5">
 <src.rf>manual</src.rf>
@@ -740,7 +740,7 @@
 <form>FOR</form>
 <tag>
 <AM lemma="fórum" src="orig">NNNP2-----A----</AM>
-<AM lemma="FOR-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="For-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-015-p4s3w5">
@@ -891,7 +891,7 @@
 <LM>w#w-cmpr9407-015-p4s3w22</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9FS7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS7----------</tag>
 </m>
 <m id="m-cmpr9407-015-p4s3w23">
 <src.rf>manual</src.rf>
@@ -944,7 +944,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-015-p4s3w29">

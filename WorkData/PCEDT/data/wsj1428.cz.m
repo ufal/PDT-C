@@ -42,7 +42,7 @@
 <LM>w#w-wsj1428-001-p1s0W3</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-wsj1428-001-p1s2W5</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-wsj1428-001-p1s2W14</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1140,7 +1140,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1253,7 +1253,7 @@
 <LM>w#w-wsj1428-001-p1s3W13</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1602,7 +1602,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1670,7 +1670,7 @@
 <LM>w#w-wsj1428-001-p1s5W8</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1988,7 +1988,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -2043,7 +2043,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -2111,7 +2111,7 @@
 <LM>w#w-wsj1428-001-p1s6W15</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s6W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2212,7 +2212,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -2271,7 +2271,7 @@
 <LM>w#w-wsj1428-001-p1s7W3</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2525,7 +2525,7 @@
 <LM>w#w-wsj1428-001-p1s7W23</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s7W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2579,7 +2579,7 @@
 <LM>w#w-wsj1428-001-p1s7W29</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1428-001-p1s7W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2612,7 +2612,7 @@
 </w.rf>
 <form>což</form>
 <tag>
-<AM lemma="což-1" src="auto" recommended="1">PE--1----------</AM>
+<AM lemma="což-1" src="auto" recommended="1">PQ--1----------</AM>
 <AM lemma="což-1" src="auto">PE--4----------</AM>
 <AM lemma="což-2_^(cožpak:_což_jsem_to_neříkal?)" src="auto">TT-------------</AM>
 <AM lemma="což-3_^(nu_což,_...;_což_o_to,_...)" src="auto">II-------------</AM>
@@ -2774,7 +2774,7 @@
 </w.rf>
 <form>milionu</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIS2----------</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -2813,7 +2813,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj1428-001-p1s7W49-Ta">
@@ -2844,7 +2844,7 @@
 <LM>w#w-wsj1428-001-p1s7W51</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s7W52-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2943,7 +2943,7 @@
 <LM>w#w-wsj1428-001-p1s8W9</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s8W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3026,7 +3026,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -3068,7 +3068,7 @@
 <LM>w#w-wsj1428-001-p1s9W7</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3115,7 +3115,7 @@
 </w.rf>
 <form>tři</form>
 <tag>
-<AM lemma="tři`3" src="auto" selected="1">ClXP1----------</AM>
+<AM lemma="tři`3" src="auto" selected="1">Cl-P1----------</AM>
 <AM lemma="tři`3" src="auto" recommended="1">ClXP4----------</AM>
 <AM lemma="tři`3" src="auto">ClXP5----------</AM>
 <AM lemma="třít" src="auto">Vi-S---2--A-I--</AM>
@@ -3129,7 +3129,7 @@
 </w.rf>
 <form>miliony</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" selected="1">NNIP1-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" selected="1">CzIP1----------</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP5-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP7-----A----</AM>
@@ -3208,7 +3208,7 @@
 </w.rf>
 <form>sedm</form>
 <tag>
-<AM lemma="sedm`7" src="auto" recommended="1">Cn-S1----------</AM>
+<AM lemma="sedm`7" src="auto" recommended="1">Cl-S1----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-S4----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-S5----------</AM>
 </tag>
@@ -3219,7 +3219,7 @@
 <LM>w#w-wsj1428-001-p1s9W21</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1428-001-p1s9W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3524,7 +3524,7 @@
 <AM lemma="pět-2_^(zpívat)" src="auto">Vf--------A-I-2</AM>
 <AM lemma="pět-1`5" src="auto">Cn-P2----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-P3----------</AM>
-<AM lemma="pět-1`5" src="auto" recommended="1">Cn-P6----------</AM>
+<AM lemma="pět-1`5" src="auto" recommended="1">Cl-P6----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-P7----------</AM>
 <AM lemma="pět-3`5" src="auto">A2--------A----</AM>
 </tag>
@@ -3580,7 +3580,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXZS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -3688,7 +3688,7 @@
 <LM>w#w-wsj1428-001-p1s11W4</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s11W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3727,7 +3727,7 @@
 <LM>w#w-wsj1428-001-p1s11W8</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1428-001-p1s11W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3755,7 +3755,7 @@
 <LM>w#w-wsj1428-001-p1s11W11</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1428-001-p1s11W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4101,7 +4101,7 @@
 <LM>w#w-wsj1428-001-p1s13W16</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s13W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4129,7 +4129,7 @@
 <LM>w#w-wsj1428-001-p1s13W19</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1428-001-p1s13W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5174,7 +5174,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -5185,7 +5185,7 @@
 <LM>w#w-wsj1428-001-p1s16W26</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj1428-001-p1s16W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5369,7 +5369,7 @@
 </w.rf>
 <form>oba</form>
 <tag>
-<AM lemma="oba`2" src="auto" recommended="1">ClYP1----------</AM>
+<AM lemma="oba`2" src="auto" recommended="1">CnYP1----------</AM>
 <AM lemma="oba`2" src="auto">ClYP4----------</AM>
 <AM lemma="oba`2" src="auto">ClYP5----------</AM>
 </tag>
@@ -5509,7 +5509,7 @@
 <LM>w#w-wsj1428-001-p1s17W16</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s17W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5970,7 +5970,7 @@
 <LM>w#w-wsj1428-001-p1s18W22</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s18W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6351,7 +6351,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -6582,7 +6582,7 @@
 <LM>w#w-wsj1428-001-p1s20W14</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s20W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6706,7 +6706,7 @@
 </w.rf>
 <form>jeden</form>
 <tag>
-<AM lemma="jeden`1" src="auto" recommended="1">ClIS4----------</AM>
+<AM lemma="jeden`1" src="auto" recommended="1">CnIS4----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
 <AM lemma="jíst" src="auto">VsYS----X-API--</AM>
@@ -6720,7 +6720,7 @@
 <form>milion</form>
 <tag>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS1-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIS4----------</AM>
 </tag>
 </m>
 <m id="m-wsj1428-001-p1s20W24-Ta">
@@ -6767,7 +6767,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -6854,7 +6854,7 @@
 </w.rf>
 <form>něhož</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P9ZS2----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS2----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9ZS4----------</AM>
 </tag>
 </m>
@@ -7476,7 +7476,7 @@
 <LM>w#w-wsj1428-001-p1s24W6</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s24W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7966,7 +7966,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -8165,7 +8165,7 @@
 <AM lemma="jíst" src="auto">VB-P---3P-AAI--</AM>
 <AM lemma="jíst" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(ona)" src="auto">PPFS2--3-------</AM>
-<AM lemma="on-1_^(ona)" src="auto" recommended="1">PPFS3--3-------</AM>
+<AM lemma="on-1" src="auto" recommended="1">PEFS3--3------1</AM>
 <AM lemma="on-1_^(ona)" src="auto">PPFS4--3------6</AM>
 <AM lemma="on-1_^(ona)" src="auto">PPFS7--3-------</AM>
 </tag>
@@ -8634,7 +8634,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -8787,7 +8787,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -8975,7 +8975,7 @@
 </w.rf>
 <form>milionu</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIS2----------</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -9635,7 +9635,7 @@
 <LM>w#w-wsj1428-001-p1s33W6</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s33W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9684,7 +9684,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -9810,7 +9810,7 @@
 <LM>w#w-wsj1428-001-p1s33W20</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s33W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9964,7 +9964,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -10395,7 +10395,7 @@
 <LM>w#w-wsj1428-001-p1s35W18</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s35W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10559,7 +10559,7 @@
 <form>pěti</form>
 <tag>
 <AM lemma="pět-2_^(zpívat)" src="auto">Vf--------A-I-2</AM>
-<AM lemma="pět-1`5" src="auto" recommended="1">Cn-P2----------</AM>
+<AM lemma="pět-1`5" src="auto" recommended="1">Cl-P2----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-P3----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-P6----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-P7----------</AM>
@@ -10572,7 +10572,7 @@
 <LM>w#w-wsj1428-001-p1s35W28</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1428-001-p1s35W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10610,7 +10610,7 @@
 </w.rf>
 <form>milionu</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIS2----------</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -11004,7 +11004,7 @@
 <form>jejího</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSMS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS2FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS2FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1428-001-p1s37W7-Ta">
@@ -11054,7 +11054,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -11351,7 +11351,7 @@
 <LM>w#w-wsj1428-001-p1s38W24</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="OPEC_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1428-001-p1s38W25-Ta">
 <src.rf>tagger-a</src.rf>

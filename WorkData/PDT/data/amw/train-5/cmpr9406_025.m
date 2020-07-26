@@ -185,7 +185,7 @@
 <LM>w#w-cmpr9406-025-p4s1w4</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="A-0_;Y" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-cmpr9406-025-p4s1w5">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-cmpr9406-025-p4s1w7</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda_:B" src="orig" selected="1">NNFXX-----A---1</tag>
+<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
 </m>
 <m id="m-cmpr9406-025-p4s1w8">
 <src.rf>manual</src.rf>
@@ -320,7 +320,7 @@
 <LM>w#w-cmpr9406-025-p6s1w3</LM>
 </w.rf>
 <form>mm</form>
-<tag lemma="mm-1`milimetr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="mm-1`milimetr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-cmpr9406-025-p6s1w4">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Kč" src="auto" recommended="1" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-025-p7s1w4">
@@ -1111,7 +1111,7 @@
 <LM>w#w-cmpr9406-025-p8s6Bw5</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-cmpr9406-025-p8s6Bw6">
 <src.rf>manual</src.rf>

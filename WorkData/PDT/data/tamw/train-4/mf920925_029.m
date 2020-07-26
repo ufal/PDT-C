@@ -353,7 +353,7 @@
 <LM>w#w-mf920925-029-p1s2w11</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXP2FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP2FS3-------</tag>
 </m>
 <m id="m-mf920925-029-p1s2w12">
 <src.rf>manual</src.rf>

@@ -149,7 +149,7 @@
 <LM>w#w-ln94200-157-p2s1w14</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94200-157-p2s1w15">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-ln94200-157-p2s5w1</LM>
 </w.rf>
 <form>MSFL</form>
-<tag lemma="MSFL_:B" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="MSFL" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-ln94200-157-p2s5w2">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-ln94200-157-p2s6w10</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94200-157-p2s6w11">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-ln94200-157-p2s6w13</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94200-157-p2s6w14">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 <LM>w#w-ln94200-157-p3s1w14</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94200-157-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1437,7 +1437,7 @@
 <LM>w#w-ln94200-157-p3s5w10</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94200-157-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1461,7 +1461,7 @@
 <LM>w#w-ln94200-157-p3s5w13</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94200-157-p3s5w14">
 <src.rf>manual</src.rf>

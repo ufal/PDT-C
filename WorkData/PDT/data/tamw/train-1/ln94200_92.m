@@ -53,7 +53,7 @@
 <LM>w#w-ln94200-92-p2s1Aw3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mot-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-ln94200-92-p2s1Aw4">
 <src.rf>manual</src.rf>

@@ -62,7 +62,7 @@
 <LM>w#w-mf920902-109-p1s1Aw6</LM>
 </w.rf>
 <form>jh</form>
-<tag lemma="jh-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jh-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-mf920902-109-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -196,7 +196,7 @@
 <LM>w#w-mf920902-109-p1s1Bw14</LM>
 </w.rf>
 <form>předal</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-109-p1s1Bw15">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-mf920902-109-p1s2w9</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf920902-109-p1s2w10">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-ln94205-83-p1s1w2</LM>
 </w.rf>
 <form>Tygřice</form>
-<tag lemma="tygřice_^(^FC*4r)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="tygřice" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-83-p1s1w3">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-ln94205-83-p2s1Bw3</LM>
 </w.rf>
 <form>vzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-83-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-ln94205-83-p2s1Bw20</LM>
 </w.rf>
 <form>Tygřice</form>
-<tag lemma="tygřice_^(^FC*4r)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="tygřice" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-83-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-ln94205-83-p2s1Bw25</LM>
 </w.rf>
 <form>ní</form>
-<tag lemma="on-1" src="orig" selected="1">P5FS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS3--3-------</tag>
 </m>
 <m id="m-ln94205-83-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-ln94205-83-p2s5w5</LM>
 </w.rf>
 <form>Tygřice</form>
-<tag lemma="tygřice_^(^FC*4r)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="tygřice" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-83-p2s5w6">
 <src.rf>manual</src.rf>

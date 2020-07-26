@@ -464,7 +464,7 @@
 <LM>w#w-ln95046-117-p3s1w17</LM>
 </w.rf>
 <form>osm</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="osm`8" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln95046-117-p3s1w18">
 <src.rf>manual</src.rf>

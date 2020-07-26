@@ -35,7 +35,7 @@
 <LM>w#w-cmpr9410-013-p3s1w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-cmpr9410-013-p3s1w4">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-cmpr9410-013-p5s2w5</LM>
 </w.rf>
 <form>sehnat</form>
-<tag lemma="sehnat" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="sehnat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9410-013-p5s2w6">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-cmpr9410-013-p9s1w6</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-cmpr9410-013-p9s1w7">
 <src.rf>manual</src.rf>
@@ -1014,7 +1014,7 @@
 <LM>w#w-cmpr9410-013-p9s3w9</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9410-013-p9s3w10">
 <src.rf>manual</src.rf>
@@ -1614,7 +1614,7 @@
 <LM>w#w-cmpr9410-013-p10s2w15</LM>
 </w.rf>
 <form>Pedagogicko</form>
-<tag lemma="pedagogický" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="pedagogický" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-cmpr9410-013-p10s2w16">
 <src.rf>manual</src.rf>
@@ -1871,7 +1871,7 @@
 <LM>w#w-cmpr9410-013-p12s1w3</LM>
 </w.rf>
 <form>Pedagogicko</form>
-<tag lemma="pedagogický" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="pedagogický" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-cmpr9410-013-p12s1w4">
 <src.rf>manual</src.rf>

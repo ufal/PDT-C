@@ -105,7 +105,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -136,7 +136,7 @@
 <LM>w#w-ln94202-109-p2s3w3</LM>
 </w.rf>
 <form>Angl</form>
-<tag lemma="Anglie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Anglie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s3w4">
 <src.rf>manual</src.rf>
@@ -187,7 +187,7 @@
 <LM>w#w-ln94202-109-p2s5w3</LM>
 </w.rf>
 <form>Nig</form>
-<tag lemma="Nigérie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Nigérie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s5w4">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-ln94202-109-p2s22w3</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kanada_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Kanada_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s22w4">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-ln94202-109-p2s24w3</LM>
 </w.rf>
 <form>Austr</form>
-<tag lemma="Austrálie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Austrálie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s24w4">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-ln94202-109-p2s27w3</LM>
 </w.rf>
 <form>Austr</form>
-<tag lemma="Austrálie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Austrálie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s27w4">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-ln94202-109-p2s29w3</LM>
 </w.rf>
 <form>Angl</form>
-<tag lemma="Anglie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Anglie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s29w4">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-ln94202-109-p2s31w3</LM>
 </w.rf>
 <form>Skot</form>
-<tag lemma="Skotsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="Skotsko_;G" src="orig" selected="1">NNNXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s31w4">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-ln94202-109-p2s34w3</LM>
 </w.rf>
 <form>Nig</form>
-<tag lemma="Nigérie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Nigérie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s34w4">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-ln94202-109-p2s36w3</LM>
 </w.rf>
 <form>Austr</form>
-<tag lemma="Austrálie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Austrálie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s36w4">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-ln94202-109-p2s38w3</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kanada_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Kanada_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s38w4">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-ln94202-109-p2s42w3</LM>
 </w.rf>
 <form>Nig</form>
-<tag lemma="Nigérie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Nigérie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s42w4">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -939,7 +939,7 @@
 <LM>w#w-ln94202-109-p2s45w3</LM>
 </w.rf>
 <form>Austr</form>
-<tag lemma="Austrálie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Austrálie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s45w4">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-ln94202-109-p2s47w3</LM>
 </w.rf>
 <form>Nig</form>
-<tag lemma="Nigérie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Nigérie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s47w4">
 <src.rf>manual</src.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-ln94202-109-p2s49w3</LM>
 </w.rf>
 <form>Austr</form>
-<tag lemma="Austrálie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Austrálie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s49w4">
 <src.rf>manual</src.rf>
@@ -1096,7 +1096,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -1152,7 +1152,7 @@
 </w.rf>
 <form>Jam</form>
 <tag>
-<AM lemma="Jamajka_:B_;G" src="orig" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Jamajka_;G" src="orig" selected="1">NNFXX-----A---b</AM>
 <AM lemma="Jam_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jam_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Jama_;G" src="auto">NNFP2-----A----</AM>
@@ -1202,7 +1202,7 @@
 <LM>w#w-ln94202-109-p2s54w3</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kanada_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Kanada_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s54w4">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -1253,7 +1253,7 @@
 <LM>w#w-ln94202-109-p2s56w3</LM>
 </w.rf>
 <form>přek</form>
-<tag lemma="překážka_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="překážka" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s56w4">
 <src.rf>manual</src.rf>
@@ -1312,7 +1312,7 @@
 </w.rf>
 <form>Jam</form>
 <tag>
-<AM lemma="Jamajka_:B_;G" src="orig" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Jamajka_;G" src="orig" selected="1">NNFXX-----A---b</AM>
 <AM lemma="Jam_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jam_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Jama_;G" src="auto">NNFP2-----A----</AM>
@@ -1371,7 +1371,7 @@
 <LM>w#w-ln94202-109-p2s59w3</LM>
 </w.rf>
 <form>Angl</form>
-<tag lemma="Anglie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Anglie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s59w4">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 <LM>w#w-ln94202-109-p2s61w3</LM>
 </w.rf>
 <form>Angl</form>
-<tag lemma="Anglie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Anglie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s61w4">
 <src.rf>manual</src.rf>
@@ -1477,7 +1477,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -1490,7 +1490,7 @@
 <LM>w#w-ln94202-109-p2s63w3</LM>
 </w.rf>
 <form>přek</form>
-<tag lemma="překážka_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="překážka" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s63w4">
 <src.rf>manual</src.rf>
@@ -1548,7 +1548,7 @@
 <LM>w#w-ln94202-109-p2s64w3</LM>
 </w.rf>
 <form>Angl</form>
-<tag lemma="Anglie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Anglie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s64w4">
 <src.rf>manual</src.rf>
@@ -1599,7 +1599,7 @@
 <LM>w#w-ln94202-109-p2s67w3</LM>
 </w.rf>
 <form>obě</form>
-<tag lemma="oba`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-ln94202-109-p2s67w4">
 <src.rf>manual</src.rf>
@@ -1608,7 +1608,7 @@
 </w.rf>
 <form>Jam</form>
 <tag>
-<AM lemma="Jamajka_:B_;G" src="orig" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Jamajka_;G" src="orig" selected="1">NNFXX-----A---b</AM>
 <AM lemma="Jam_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jam_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Jama_;G" src="auto">NNFP2-----A----</AM>
@@ -1728,7 +1728,7 @@
 <LM>w#w-ln94202-109-p2s71w5</LM>
 </w.rf>
 <form>Zél</form>
-<tag lemma="Zéland_:B_;G" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="Zéland_;G" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s71w6">
 <src.rf>manual</src.rf>
@@ -1821,7 +1821,7 @@
 <LM>w#w-ln94202-109-p2s74w3</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kanada_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Kanada_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s74w4">
 <src.rf>manual</src.rf>
@@ -1863,7 +1863,7 @@
 <LM>w#w-ln94202-109-p2s76w3</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kanada_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Kanada_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s76w4">
 <src.rf>manual</src.rf>
@@ -1905,7 +1905,7 @@
 <LM>w#w-ln94202-109-p2s78w3</LM>
 </w.rf>
 <form>Angl</form>
-<tag lemma="Anglie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Anglie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s78w4">
 <src.rf>manual</src.rf>
@@ -1947,7 +1947,7 @@
 <LM>w#w-ln94202-109-p2s80w3</LM>
 </w.rf>
 <form>Skot</form>
-<tag lemma="Skotsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="Skotsko_;G" src="orig" selected="1">NNNXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s80w4">
 <src.rf>manual</src.rf>
@@ -2008,7 +2008,7 @@
 <LM>w#w-ln94202-109-p2s82w5</LM>
 </w.rf>
 <form>Zél</form>
-<tag lemma="Zéland_:B_;G" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="Zéland_;G" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s82w6">
 <src.rf>manual</src.rf>
@@ -2084,7 +2084,7 @@
 <LM>w#w-ln94202-109-p2s85w3</LM>
 </w.rf>
 <form>Austr</form>
-<tag lemma="Austrálie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Austrálie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s85w4">
 <src.rf>manual</src.rf>
@@ -2126,7 +2126,7 @@
 <LM>w#w-ln94202-109-p2s88w3</LM>
 </w.rf>
 <form>Angl</form>
-<tag lemma="Anglie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Anglie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s88w4">
 <src.rf>manual</src.rf>
@@ -2218,7 +2218,7 @@
 <LM>w#w-ln94202-109-p2s91w3</LM>
 </w.rf>
 <form>Austr</form>
-<tag lemma="Austrálie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Austrálie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s91w4">
 <src.rf>manual</src.rf>
@@ -2260,7 +2260,7 @@
 <LM>w#w-ln94202-109-p2s93w3</LM>
 </w.rf>
 <form>Angl</form>
-<tag lemma="Anglie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Anglie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s93w4">
 <src.rf>manual</src.rf>
@@ -2318,7 +2318,7 @@
 <LM>w#w-ln94202-109-p2s95w5</LM>
 </w.rf>
 <form>Nig</form>
-<tag lemma="Nigérie_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Nigérie_;G" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s95w6">
 <src.rf>manual</src.rf>
@@ -2468,7 +2468,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -2928,7 +2928,7 @@
 <LM>w#w-ln94202-109-p29s1w1</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="MS-3_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p29s1w2">
 <src.rf>manual</src.rf>

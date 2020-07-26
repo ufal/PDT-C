@@ -255,7 +255,7 @@
 </w.rf>
 <form>si</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 <AM lemma="být" src="auto">VB-S---2P-AA--7</AM>
 </tag>
 </m>
@@ -525,7 +525,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -599,7 +599,7 @@
 <LM>w#w-d1t2426-3</LM>
 </w.rf>
 <form>pověděl</form>
-<tag lemma="povědět" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="povědět" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m140-d-m-d1e2421-x2-punct-punct">
 <w.rf>

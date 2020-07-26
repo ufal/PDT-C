@@ -89,7 +89,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p3s1w4">
@@ -185,7 +185,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p5s1w5">
@@ -354,7 +354,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p7s1w10">
@@ -901,7 +901,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="moře_:B" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="moře" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s3w17">
@@ -938,7 +938,7 @@
 <form>tří</form>
 <tag>
 <AM lemma="třílůžkový" src="orig">AAIP6----1A----</AM>
-<AM lemma="tři`3" src="auto" recommended="1" selected="1">ClXP2----------</AM>
+<AM lemma="tři`3" src="auto" recommended="1" selected="1">Cl-P2----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s4w4">
@@ -957,7 +957,7 @@
 <form>čtyř</form>
 <tag>
 <AM lemma="čtyřlůžkový" src="orig">AAIP6----1A----</AM>
-<AM lemma="čtyři`4" src="auto" recommended="1" selected="1">ClXP2----------</AM>
+<AM lemma="čtyři`4" src="auto" recommended="1" selected="1">Cl-P2----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s4w6">
@@ -1241,7 +1241,7 @@
 <LM>w#w-cmpr9415-009-p9s8Aw5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-cmpr9415-009-p9s8Aw6">
 <src.rf>manual</src.rf>

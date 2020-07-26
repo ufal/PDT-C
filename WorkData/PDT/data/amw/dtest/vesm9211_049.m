@@ -217,7 +217,7 @@
 <LM>w#w-vesm9211-049-p1s2w14</LM>
 </w.rf>
 <form>čtyřiceti</form>
-<tag lemma="čtyřicet`40" src="orig" selected="1">Cn-P7----------</tag>
+<tag lemma="čtyřicet`40" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-vesm9211-049-p1s2w15">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-vesm9211-049-p1s2w31</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-vesm9211-049-p1s2w32">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <form>přičíněl</form>
 <tag>
 <AM lemma="přičínět" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="přičínět_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přičínět" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-vesm9211-049-p1s2w33">
@@ -396,7 +396,7 @@
 <LM>w#w-vesm9211-049-p1s2w37</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9211-049-p1s2w38">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-vesm9211-049-p1s3w19</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-vesm9211-049-p1s3w20">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 <LM>w#w-vesm9211-049-p1s3w32</LM>
 </w.rf>
 <form>mu</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
 </m>
 <m id="m-vesm9211-049-p1s3w33">
 <src.rf>manual</src.rf>

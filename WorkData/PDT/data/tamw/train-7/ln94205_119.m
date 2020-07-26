@@ -63,7 +63,7 @@
 <form>Tae</form>
 <tag>
 <AM lemma="tae_,t_^(tae-kwon-do)" src="orig">AAXXX----1A----</AM>
-<AM lemma="tae_^(tae-kwon-do)" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="tae_^(tae-kwon-do)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-119-p2s1Aw2">
@@ -82,7 +82,7 @@
 <form>kwon</form>
 <tag>
 <AM lemma="kwon_,t_^(tae-kwon-do)" src="orig">AAXXX----1A----</AM>
-<AM lemma="kwon_^(tae-kwon-do)" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="kwon_^(tae-kwon-do)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-119-p2s1Aw4">
@@ -380,7 +380,7 @@
 <LM>w#w-ln94205-119-p2s2w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94205-119-p2s2w3">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-ln94205-119-p3s2w8</LM>
 </w.rf>
 <form>něco</form>
-<tag lemma="něco" src="orig" selected="1">PZ--4----------</tag>
+<tag lemma="něco" src="orig" selected="1">PK--4----------</tag>
 </m>
 <m id="m-ln94205-119-p3s2w9">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-ln94205-119-p3s2w11</LM>
 </w.rf>
 <form>dvacet</form>
-<tag lemma="dvacet`20" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="dvacet`20" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-ln94205-119-p3s2w12">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <LM>w#w-ln94205-119-p3s2w23</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP4----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP4----------</tag>
 </m>
 <m id="m-ln94205-119-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1259,7 +1259,7 @@
 <LM>w#w-ln94205-119-p4s2w10</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94205-119-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1291,7 +1291,7 @@
 <LM>w#w-ln94205-119-p4s2w14</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-ln94205-119-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1349,7 +1349,7 @@
 <form>tae</form>
 <tag>
 <AM lemma="tae_,t_^(tae-kwon-do)" src="orig">AAXXX----1A----</AM>
-<AM lemma="tae_^(tae-kwon-do)" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="tae_^(tae-kwon-do)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-119-p4s2w22">
@@ -1368,7 +1368,7 @@
 <form>kwon</form>
 <tag>
 <AM lemma="kwon_,t_^(tae-kwon-do)" src="orig">AAXXX----1A----</AM>
-<AM lemma="kwon_^(tae-kwon-do)" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="kwon_^(tae-kwon-do)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-119-p4s2w24">

@@ -260,7 +260,7 @@
 <LM>w#w-lnd91303-106-p3s1w26</LM>
 </w.rf>
 <form>něm</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS6--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS6--3-------</tag>
 </m>
 <m id="m-lnd91303-106-p3s1w27">
 <src.rf>manual</src.rf>

@@ -99,7 +99,7 @@
 <form>AQUA</form>
 <tag>
 <AM lemma="aqua_,t_^(voda)" src="orig">NNFXX-----A----</AM>
-<AM lemma="AQUA-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Aqua-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p5s1w2">
@@ -118,7 +118,7 @@
 <form>THERM</form>
 <tag>
 <AM lemma="Therm_;m_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="THERM-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Therm-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p5s1w4">
@@ -131,7 +131,7 @@
 <AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="INTERNATIONAL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p5s1w5">
@@ -381,7 +381,7 @@
 <AM lemma="Internationale_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="internationale_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="internationale_,t" src="manual">AAXXX----1A----</AM>
-<AM lemma="INTERNATIONALE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Internationale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p6s1w2">
@@ -407,7 +407,7 @@
 <form>PLUS</form>
 <tag>
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="orig">NNIS4-----A----</AM>
-<AM lemma="PLUS-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Plus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p6s1w4">
@@ -496,7 +496,7 @@
 <LM>w#w-cmpr9415-029-p6s1w14</LM>
 </w.rf>
 <form>psacích</form>
-<tag lemma="psací_^(^IC*3át)" src="auto" selected="1">AAFP2----1A----</tag>
+<tag lemma="psací" src="auto" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-cmpr9415-029-p6s1w15">
 <src.rf>manual</src.rf>
@@ -1754,7 +1754,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p12s1w14">
@@ -1773,7 +1773,7 @@
 <form>SR</form>
 <tag>
 <AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="SR-1_;G_^(Slovenská_republika)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p12s1w16">
@@ -2352,7 +2352,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p14s3w4">
@@ -3338,7 +3338,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-029-p19s1w6">
@@ -3965,7 +3965,7 @@
 <LM>w#w-cmpr9415-029-p21s4w3</LM>
 </w.rf>
 <form>balicí</form>
-<tag lemma="balicí_^(^IC*2t)" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="balicí" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9415-029-p21s4w4">
 <src.rf>manual</src.rf>

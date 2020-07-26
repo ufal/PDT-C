@@ -2012,7 +2012,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-048-p8s3w6">
@@ -2470,7 +2470,7 @@
 <form>TJ</form>
 <tag>
 <AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-2_:B_;m_^(tělovýchovná_jednota)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="TJ-2_;m_^(tělovýchovná_jednota)" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-048-p10s1w36">
@@ -3902,7 +3902,7 @@
 <LM>w#w-cmpr9416-048-p15s2w20</LM>
 </w.rf>
 <form>BOX</form>
-<tag lemma="box-2_,t_^(krabice,_schránka)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="box-2_^(krabice,_schránka)" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-cmpr9416-048-p15s2w21">
 <src.rf>manual</src.rf>

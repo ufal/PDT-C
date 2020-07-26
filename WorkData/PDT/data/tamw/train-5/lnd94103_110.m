@@ -67,7 +67,7 @@
 <LM>w#w-lnd94103-110-p1s1Aw7</LM>
 </w.rf>
 <form>williamsu</form>
-<tag lemma="Williams-2_;m_,t_^(vozidlo)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Williams-2_;m_^(vozidlo)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-110-p1s1B">

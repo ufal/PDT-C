@@ -233,7 +233,7 @@
 <LM>w#w-mf920922-126-p2s2w18</LM>
 </w.rf>
 <form>zastavily</form>
-<tag lemma="zastavit-1_:W_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920922-126-p2s2w19">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-mf920922-126-p2s3w23</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920922-126-p2s3w24">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 <AM lemma="Suchumsko_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Suchumsko_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Suchumsko_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="suchumský" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="suchumský" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-126-p3s1w2">
@@ -678,7 +678,7 @@
 <LM>w#w-mf920922-126-p3s2w3</LM>
 </w.rf>
 <form>něm</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS6--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS6--3-------</tag>
 </m>
 <m id="m-mf920922-126-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1132,7 +1132,7 @@
 <LM>w#w-mf920922-126-p4s3w5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920922-126-p4s3w6">
 <src.rf>manual</src.rf>

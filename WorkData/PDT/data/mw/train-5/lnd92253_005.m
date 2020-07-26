@@ -27,7 +27,7 @@
 <LM>w#w-lnd92253-005-p1s1w2</LM>
 </w.rf>
 <form>ČTYŘIASEDMDESÁTI</form>
-<tag lemma="čtyřiasedmdesát`74" src="orig" selected="1">Cn-P7----------</tag>
+<tag lemma="čtyřiasedmdesát`74" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-lnd92253-005-p1s1w3">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-lnd92253-005-p1s1w10</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92253-005-p1s1w11">
 <src.rf>manual</src.rf>

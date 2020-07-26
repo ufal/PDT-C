@@ -94,7 +94,7 @@
 <LM>w#w-lnd92258-089-p2s1w8</LM>
 </w.rf>
 <form>což</form>
-<tag lemma="což-1" src="orig" selected="1">PE--1----------</tag>
+<tag lemma="což-1" src="orig" selected="1">PQ--1----------</tag>
 </m>
 <m id="m-lnd92258-089-p2s1w9">
 <src.rf>manual</src.rf>

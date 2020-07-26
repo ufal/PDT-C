@@ -51,7 +51,7 @@
 <LM>w#w-cmpr9417-038-p2s1w5</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-cmpr9417-038-p2s1w6">
 <src.rf>manual</src.rf>

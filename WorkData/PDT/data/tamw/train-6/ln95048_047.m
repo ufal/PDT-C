@@ -118,7 +118,7 @@
 <LM>w#w-ln95048-047-p2s1w10</LM>
 </w.rf>
 <form>retro</form>
-<tag lemma="retro-1_,t" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="retro-1" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s1w11">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-ln95048-047-p2s3w10</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95048-047-p2s3w11">
 <src.rf>manual</src.rf>
@@ -1190,7 +1190,7 @@
 <LM>w#w-ln95048-047-p2s6w3</LM>
 </w.rf>
 <form>mu</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
 </m>
 <m id="m-ln95048-047-p2s6w4">
 <src.rf>manual</src.rf>

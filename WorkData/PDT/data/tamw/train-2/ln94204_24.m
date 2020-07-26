@@ -494,7 +494,7 @@
 <LM>w#w-ln94204-24-p4s1w6</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="pět-1`5" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94204-24-p4s1w7">
 <src.rf>manual</src.rf>
@@ -638,7 +638,7 @@
 <LM>w#w-ln94204-24-p4s1w24</LM>
 </w.rf>
 <form>hnacích</form>
-<tag lemma="hnací_^(^IC*3át)" src="auto" selected="1">AANP2----1A----</tag>
+<tag lemma="hnací" src="auto" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-ln94204-24-p4s1w25">
 <src.rf>manual</src.rf>

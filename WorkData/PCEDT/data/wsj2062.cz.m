@@ -29,7 +29,7 @@
 <form>ONE</form>
 <tag>
 <AM lemma="one-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="ONE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="One-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2062-001-p1s0W3-Ta">
@@ -43,7 +43,7 @@
 <AM lemma="Liberta_;m" src="auto">NNFP4-----A----</AM>
 <AM lemma="Liberta_;m" src="auto">NNFP5-----A----</AM>
 <AM lemma="Liberta_;m" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="LIBERTY-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Liberty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2062-001-p1s0W4-Ta">
@@ -54,7 +54,7 @@
 <form>PROPERTIES</form>
 <tag>
 <AM lemma="PROPERTIES" src="auto">X@-------------</AM>
-<AM lemma="PROPERTIES-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Properties-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2062-001-p1s0W5-Ta">
@@ -1091,7 +1091,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1148,7 +1148,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj2062-001-p1s3W9-Ta">
@@ -1450,7 +1450,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj2062-001-p1s4W19-Ta">

@@ -277,7 +277,7 @@
 <LM>w#w-lnd92258-083-p2s1w17</LM>
 </w.rf>
 <form>asfalto</form>
-<tag lemma="asfalto" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="asfalto" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92258-083-p2s1w18">
 <src.rf>manual</src.rf>

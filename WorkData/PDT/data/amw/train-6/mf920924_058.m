@@ -55,7 +55,7 @@
 <form>peo</form>
 <tag>
 <AM lemma="peo-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="peo-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="peo-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-058-p2s1w4">
@@ -457,7 +457,7 @@
 <LM>w#w-mf920924-058-p2s4w13</LM>
 </w.rf>
 <form>přivézt</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920924-058-p2s4w14">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-mf920924-058-p2s5w16</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="on-1_^(oni/ono)" src="orig" selected="1">PPXP4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP4--3-------</tag>
 </m>
 <m id="m-mf920924-058-p2s5w17">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <LM>w#w-mf920924-058-p2s5w17</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920924-058-p2s5w18">
 <src.rf>manual</src.rf>

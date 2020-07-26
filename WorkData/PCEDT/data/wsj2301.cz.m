@@ -801,7 +801,7 @@
 <LM>w#w-wsj2301-001-p1s2W1</LM>
 </w.rf>
 <form>Myslel</form>
-<tag lemma="myslet" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="myslet" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2301-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -819,7 +819,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj2301-001-p1s2W4-Ta">

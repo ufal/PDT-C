@@ -239,7 +239,7 @@
 <LM>w#w-mf930708-154-p3s1w21</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televizní_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag lemma="televizní" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf930708-154-p3s1w22">
 <src.rf>manual</src.rf>
@@ -976,7 +976,7 @@
 <LM>w#w-mf930708-154-p7s1w38</LM>
 </w.rf>
 <form>fr</form>
-<tag lemma="francouzský_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag lemma="francouzský" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf930708-154-p7s1w39">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 <LM>w#w-mf930708-154-p7s1w41</LM>
 </w.rf>
 <form>ital</form>
-<tag lemma="italský_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag lemma="italský" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf930708-154-p7s1w42">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 <LM>w#w-mf930708-154-p7s1w48</LM>
 </w.rf>
 <form>švéd</form>
-<tag lemma="švédský_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag lemma="švédský" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf930708-154-p7s1w49">
 <src.rf>manual</src.rf>

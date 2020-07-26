@@ -77,7 +77,7 @@
 <LM>w#w-lnd94104-037-p1s2w3</LM>
 </w.rf>
 <form>haš</form>
-<tag lemma="haš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="haš-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-lnd94104-037-p1s2w4">
 <src.rf>manual</src.rf>

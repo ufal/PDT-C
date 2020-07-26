@@ -78,7 +78,7 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="gap-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -664,7 +664,7 @@
 <LM>w#w-lnd92257-028-p2s4w15</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92257-028-p2s4w16">
 <src.rf>manual</src.rf>

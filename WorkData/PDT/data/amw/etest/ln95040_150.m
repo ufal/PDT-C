@@ -35,7 +35,7 @@
 <LM>w#w-ln95040-150-p1s1w3</LM>
 </w.rf>
 <form>miliardy</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="miliarda`1000000000" src="orig" selected="1">CzFS2----------</tag>
 </m>
 <m id="m-ln95040-150-p1s1w4">
 <src.rf>manual</src.rf>

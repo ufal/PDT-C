@@ -86,7 +86,7 @@
 </w.rf>
 <form>man</form>
 <tag>
-<AM lemma="man-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="man-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="man" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -275,7 +275,7 @@
 <LM>w#w-mf930703-035-p2s2w4</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-mf930703-035-p2s2w5">
 <src.rf>manual</src.rf>

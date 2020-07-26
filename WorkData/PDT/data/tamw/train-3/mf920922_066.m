@@ -1105,7 +1105,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-066-p3s2w7">
@@ -1688,7 +1688,7 @@
 <form>SANTO</form>
 <tag>
 <AM lemma="Santo_;G_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="SANTO-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Santo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-066-p5s1w2">
@@ -1699,7 +1699,7 @@
 <form>DOMINGO</form>
 <tag>
 <AM lemma="Domingo_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="DOMINGO-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Domingo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-066-p5s1w3">
@@ -1802,7 +1802,7 @@
 <LM>w#w-mf920922-066-p5s2w11</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920922-066-p5s2w12">
 <src.rf>manual</src.rf>

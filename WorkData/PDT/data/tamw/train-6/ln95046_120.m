@@ -448,7 +448,7 @@
 <LM>w#w-ln95046-120-p3s1w14</LM>
 </w.rf>
 <form>sedm</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="sedm`7" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln95046-120-p3s1w15">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-ln95046-120-p4s1w3</LM>
 </w.rf>
 <form>čtyřdveřovou</form>
-<tag lemma="čtyřdveřový_,x" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="čtyřdveřový" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln95046-120-p4s1w4">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-ln95046-120-p4s1w12</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95046-120-p4s1w13">
 <src.rf>manual</src.rf>

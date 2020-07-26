@@ -37,7 +37,7 @@
 <LM>w#w-ln95047-123-p2s1w2</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln95047-123-p2s1w3">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <form>Hewlett</form>
 <tag>
 <AM lemma="Hewlett-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hewlett-1_;m_^(Hewlett-Packard)" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="Hewlett-1_;m_^(Hewlett-Packard)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-123-p3s1w5">
@@ -563,7 +563,7 @@
 <LM>w#w-ln95047-123-p3s1w21</LM>
 </w.rf>
 <form>barvicích</form>
-<tag lemma="barvicí_^(^IC*2t)" src="auto" selected="1">AAFP2----1A----</tag>
+<tag lemma="barvicí" src="auto" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln95047-123-p3s1w22">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 <LM>w#w-ln95047-123-p3s2w2</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-ln95047-123-p3s2w3">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-ln95047-123-p3s2w8</LM>
 </w.rf>
 <form>miliónu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIS2----------</tag>
 </m>
 <m id="m-ln95047-123-p3s2w9">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-123-p3s2w10">

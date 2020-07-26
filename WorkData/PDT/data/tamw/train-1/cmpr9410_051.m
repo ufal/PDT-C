@@ -19,7 +19,7 @@
 <LM>w#w-cmpr9410-051-p3s1w1</LM>
 </w.rf>
 <form>KOLIK</form>
-<tag lemma="kolik" src="orig" selected="1">C?--4----------</tag>
+<tag lemma="kolik" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-cmpr9410-051-p3s1w2">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-cmpr9410-051-p3s1w4</LM>
 </w.rf>
 <form>JEDEN</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClIS4----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnIS4----------</tag>
 </m>
 <m id="m-cmpr9410-051-p3s1w5">
 <src.rf>manual</src.rf>

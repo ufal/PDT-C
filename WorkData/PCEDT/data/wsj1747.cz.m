@@ -47,7 +47,7 @@
 <form>VIACOM</form>
 <tag>
 <AM lemma="VIACOM" src="auto">X@-------------</AM>
-<AM lemma="VIACOM-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Viacom-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1747-001-p1s0W4-Ta">
@@ -160,7 +160,7 @@
 </w.rf>
 <form>milionů</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM></tag>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</AM></tag>
 <form_change>spell</form_change></m>
 <m id="m-wsj1747-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-wsj1747-001-p1s0W17</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1747-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>

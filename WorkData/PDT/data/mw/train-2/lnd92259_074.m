@@ -664,7 +664,7 @@
 <LM>w#w-lnd92259-074-p4s1w7</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92259-074-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1021,7 +1021,7 @@
 <LM>w#w-lnd92259-074-p5s1w12</LM>
 </w.rf>
 <form>Perrenoud</form>
-<tag lemma="Perrenoud_;m_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perrenoud_;m" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-074-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1588,7 +1588,7 @@
 <form>UK</form>
 <tag>
 <AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-074-p6s1w34">
@@ -1945,7 +1945,7 @@
 <LM>w#w-lnd92259-074-p8s1w11</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-074-p8s1w12">
 <src.rf>manual</src.rf>

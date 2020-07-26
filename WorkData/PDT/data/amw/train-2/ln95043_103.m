@@ -662,7 +662,7 @@
 <LM>w#w-ln95043-103-p3s2w13</LM>
 </w.rf>
 <form>jedním</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS7----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS7----------</tag>
 </m>
 <m id="m-ln95043-103-p3s2w14">
 <src.rf>manual</src.rf>

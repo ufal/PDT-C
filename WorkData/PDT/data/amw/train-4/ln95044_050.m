@@ -159,7 +159,7 @@
 <LM>w#w-ln95044-050-p2s2w1</LM>
 </w.rf>
 <form>Jedním</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS7----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS7----------</tag>
 </m>
 <m id="m-ln95044-050-p2s2w2">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-ln95044-050-p3s1w28</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-ln95044-050-p3s1w29">
 <src.rf>manual</src.rf>
@@ -909,7 +909,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95044-050-p3s2w34">
@@ -1168,7 +1168,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95044-050-p3s3w25">
@@ -1371,7 +1371,7 @@
 <LM>w#w-ln95044-050-p4s1w21</LM>
 </w.rf>
 <form>herečka</form>
-<tag lemma="herečka_^(^FM*3c)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="herečka" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-050-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1501,7 +1501,7 @@
 <LM>w#w-ln95044-050-p4s2w5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95044-050-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1517,7 +1517,7 @@
 <LM>w#w-ln95044-050-p4s2w7</LM>
 </w.rf>
 <form>čínsko</form>
-<tag lemma="čínský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="čínský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95044-050-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1557,7 +1557,7 @@
 <LM>w#w-ln95044-050-p4s2w12</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln95044-050-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1653,7 +1653,7 @@
 <LM>w#w-ln95044-050-p4s2w23</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln95044-050-p4s2w24">
 <src.rf>manual</src.rf>

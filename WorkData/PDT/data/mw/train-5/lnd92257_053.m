@@ -305,7 +305,7 @@
 <LM>w#w-lnd92257-053-p3s2w26</LM>
 </w.rf>
 <form>dvěma</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP3----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP3----------</tag>
 </m>
 <m id="m-lnd92257-053-p3s2w27">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <form>zoo</form>
 <tag>
 <AM lemma="ZOO_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZOO_:B" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="ZOO" src="auto" selected="1">BNFXX-----A----</AM>
 <AM lemma="ZOO_:B" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -505,7 +505,7 @@
 <LM>w#w-lnd92257-053-p3s4w1</LM>
 </w.rf>
 <form>Bioložka</form>
-<tag lemma="bioložka_^(^FM*3g)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="bioložka" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-053-p3s4w2">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-lnd92257-053-p3s4w5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92257-053-p3s4w6">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-lnd92257-053-p3s4w7</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92257-053-p3s4w8">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <LM>w#w-lnd92257-053-p3s4w19</LM>
 </w.rf>
 <form>jí</form>
-<tag lemma="on-1_^(ona)" src="orig" selected="1">PPFS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS3--3------1</tag>
 </m>
 <m id="m-lnd92257-053-p3s4w20">
 <src.rf>manual</src.rf>

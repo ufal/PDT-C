@@ -65,7 +65,7 @@
 <AM lemma="mn-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mn-3_:B_^(malé_napětí)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="mnoho-1_:B_,a" src="auto">Ca--X---------8</AM>
-<AM lemma="mn-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mn-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-111-p2s1w4">
@@ -146,7 +146,7 @@
 <LM>w#w-mf930708-111-p2s1w13</LM>
 </w.rf>
 <form>jednou</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS7----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS7----------</tag>
 </m>
 <m id="m-mf930708-111-p2s1w14">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-mf930708-111-p2s2w11</LM>
 </w.rf>
 <form>mu</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
 </m>
 <m id="m-mf930708-111-p2s2w12">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <form>sehnal</form>
 <tag>
 <AM lemma="sehnat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="sehnat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="sehnat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930708-111-p2s2w22">

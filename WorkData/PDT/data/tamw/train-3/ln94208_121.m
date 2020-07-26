@@ -192,7 +192,7 @@
 <LM>w#w-ln94208-121-p2s1Bw12</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-ln94208-121-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-ln94208-121-p2s1Bw17</LM>
 </w.rf>
 <form>jedenáct</form>
-<tag lemma="jedenáct`11" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="jedenáct`11" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94208-121-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-ln94208-121-p2s3w1</LM>
 </w.rf>
 <form>Čtyřiadvacet</form>
-<tag lemma="čtyřiadvacet`24" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="čtyřiadvacet`24" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94208-121-p2s3w2">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <form>milionu</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIS2----------</AM>
 </tag>
 </m>
 <m id="m-ln94208-121-p2s3w10">
@@ -564,7 +564,7 @@
 <LM>w#w-ln94208-121-p2s4w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94208-121-p2s4w2">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <form>milionu</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIS2----------</AM>
 </tag>
 </m>
 <m id="m-ln94208-121-p2s4w9">

@@ -29,7 +29,7 @@
 <form>NEWHALL</form>
 <tag>
 <AM lemma="NEWHALL" src="auto">X@-------------</AM>
-<AM lemma="NEWHALL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Newhall-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1806-001-p1s0W3-Ta">
@@ -40,7 +40,7 @@
 <form>LAND</form>
 <tag>
 <AM lemma="Land_;E" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="LAND-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Land-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1806-001-p1s0W4-Ta">
@@ -59,7 +59,7 @@
 <form>FARMING</form>
 <tag>
 <AM lemma="FARMING" src="auto">X@-------------</AM>
-<AM lemma="FARMING-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Farming-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1806-001-p1s0W6-Ta">
@@ -897,7 +897,7 @@
 </w.rf>
 <form>Obě</form>
 <tag>
-<AM lemma="oba`2" src="auto" recommended="1">ClHP1----------</AM>
+<AM lemma="oba`2" src="auto" recommended="1">CnHP1----------</AM>
 <AM lemma="oba`2" src="auto">ClHP4----------</AM>
 <AM lemma="oba`2" src="auto">ClHP5----------</AM>
 </tag>

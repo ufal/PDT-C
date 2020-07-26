@@ -80,7 +80,7 @@
 <LM>w#w-mf930701-004-p2s1w3</LM>
 </w.rf>
 <form>kw</form>
-<tag lemma="kw-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="kw-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-mf930701-004-p2s1w4">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-mf930701-004-p3s1w8</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf930701-004-p3s1w9">
 <src.rf>manual</src.rf>

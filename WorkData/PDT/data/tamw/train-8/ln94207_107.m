@@ -375,7 +375,7 @@
 <LM>w#w-ln94207-107-p2s2w23</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94207-107-p2s2w24">
 <src.rf>manual</src.rf>
@@ -890,7 +890,7 @@
 </w.rf>
 <form>lin</form>
 <tag>
-<AM lemma="lin-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="lin-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>

@@ -45,7 +45,7 @@
 <form>KGB</form>
 <tag>
 <AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p1s1w5">
@@ -62,7 +62,7 @@
 <LM>w#w-ln94200-65-p1s1w6</LM>
 </w.rf>
 <form>nevydal</form>
-<tag lemma="vydat-2_:W_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 </s>
 <s id="m-ln94200-65-p2s1A">
@@ -212,7 +212,7 @@
 <form>CIA</form>
 <tag>
 <AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIA-1_:B_;m_^(Central_Intelligence_Agency,_USA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CIA-1_;m_^(Central_Intelligence_Agency,_USA)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw17">
@@ -264,7 +264,7 @@
 <LM>w#w-ln94200-65-p2s1Bw22</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <form>KGB</form>
 <tag>
 <AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw29">
@@ -331,7 +331,7 @@
 <LM>w#w-ln94200-65-p2s1Bw30</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-2_:W_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-ln94200-65-p2s1Bw32</LM>
 </w.rf>
 <form>jednoho</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClMS4----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnMS4----------</tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <form>CIA</form>
 <tag>
 <AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIA-1_:B_;m_^(Central_Intelligence_Agency,_USA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CIA-1_;m_^(Central_Intelligence_Agency,_USA)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw36">
@@ -404,7 +404,7 @@
 <LM>w#w-ln94200-65-p2s2w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94200-65-p2s2w3">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <form>KGB</form>
 <tag>
 <AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p2s3w8">
@@ -563,7 +563,7 @@
 <form>FBI</form>
 <tag>
 <AM lemma="FBI_:B_;m_,t_^(Fed._Bureau_of_Investigation)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FBI_:B_;m_^(Fed._Bureau_of_Investigation)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FBI_;m_^(Fed._Bureau_of_Investigation)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p2s3w15">

@@ -86,7 +86,7 @@
 <tag>
 <AM lemma="tk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="tknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
-<AM lemma="tk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tk-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-001-p2s1w4">
@@ -111,7 +111,7 @@
 <LM>w#w-mf930703-001-p2s1w6</LM>
 </w.rf>
 <form>Dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-mf930703-001-p2s1w7">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-mf930703-001-p2s3w5</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-mf930703-001-p2s3w6">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-mf930703-001-p2s4w5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930703-001-p2s4w6">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <form>čehokoliv</form>
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--2----------</AM>
-<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--2---------1</AM>
+<AM lemma="cokoliv" src="auto" recommended="1" selected="1">PK--2----------</AM>
 </tag>
 </m>
 <m id="m-mf930703-001-p2s5w3">
@@ -555,7 +555,7 @@
 <LM>w#w-mf930703-001-p2s5w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-001-p2s5w4">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-mf930703-001-p2s5w11</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-001-p2s5w12">
 <src.rf>manual</src.rf>

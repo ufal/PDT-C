@@ -79,7 +79,7 @@
 <LM>w#w-lnd94104-056-p1s3w2</LM>
 </w.rf>
 <form>patnácti</form>
-<tag lemma="patnáct`15" src="orig" selected="1">Cn-P3----------</tag>
+<tag lemma="patnáct`15" src="orig" selected="1">Cl-P3----------</tag>
 </m>
 <m id="m-lnd94104-056-p1s3w3">
 <src.rf>manual</src.rf>

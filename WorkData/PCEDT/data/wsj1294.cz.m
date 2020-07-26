@@ -1112,7 +1112,7 @@
 <LM>w#w-wsj1294-001-p1s2W38</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1294-001-p1s2W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1939,7 +1939,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -2112,7 +2112,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -2224,7 +2224,7 @@
 </w.rf>
 <form>jeden</form>
 <tag>
-<AM lemma="jeden`1" src="auto" selected="1">ClIS4----------</AM>
+<AM lemma="jeden`1" src="auto" selected="1">CnIS4----------</AM>
 <AM lemma="jeden`1" src="auto" recommended="1">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
 <AM lemma="jíst" src="auto">VsYS----X-API--</AM>
@@ -2339,7 +2339,7 @@
 </w.rf>
 <form>což</form>
 <tag>
-<AM lemma="což-1" src="auto" recommended="1">PE--1----------</AM>
+<AM lemma="což-1" src="auto" recommended="1">PQ--1----------</AM>
 <AM lemma="což-1" src="auto">PE--4----------</AM>
 <AM lemma="což-2_^(cožpak:_což_jsem_to_neříkal?)" src="auto">TT-------------</AM>
 <AM lemma="což-3_^(nu_což,_...;_což_o_to,_...)" src="auto">II-------------</AM>
@@ -3465,7 +3465,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -3642,7 +3642,7 @@
 <LM>w#w-wsj1294-001-p1s12W3</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="auto" recommended="1">ClXP2----------</tag>
+<tag lemma="tři`3" src="auto" recommended="1">Cl-P2----------</tag>
 </m>
 <m id="m-wsj1294-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4614,7 +4614,7 @@
 </w.rf>
 <form>dvou</form>
 <tag>
-<AM lemma="dva`2" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="dva`2" src="auto" recommended="1">CnXP2----------</AM>
 <AM lemma="dva`2" src="auto">ClXP6----------</AM>
 </tag>
 </m>
@@ -4624,7 +4624,7 @@
 <LM>w#w-wsj1294-001-p1s14W17</LM>
 </w.rf>
 <form>třetin</form>
-<tag lemma="třetina" src="auto" recommended="1">CyFP2----------</tag>
+<tag lemma="třetina" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1294-001-p1s14W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4933,7 +4933,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -5195,7 +5195,7 @@
 <LM>w#w-wsj1294-001-p1s15W28</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1294-001-p1s15W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5798,7 +5798,7 @@
 <form>jednoho</form>
 <tag>
 <AM lemma="jeden`1" src="auto">ClMS4----------</AM>
-<AM lemma="jeden`1" src="auto" recommended="1">ClZS2----------</AM>
+<AM lemma="jeden`1" src="auto" recommended="1">CnZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1294-001-p1s17W9-Ta">
@@ -5931,7 +5931,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -8078,7 +8078,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -8432,7 +8432,7 @@
 <LM>w#w-wsj1294-001-p1s24W9</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1294-001-p1s24W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8636,7 +8636,7 @@
 </w.rf>
 <form>něco</form>
 <tag>
-<AM lemma="něco" src="auto" recommended="1">PZ--1----------</AM>
+<AM lemma="něco" src="auto" recommended="1">PK--1----------</AM>
 <AM lemma="něco" src="auto">PZ--4----------</AM>
 </tag>
 </m>
@@ -8760,7 +8760,7 @@
 <LM>w#w-wsj1294-001-p1s26W6</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1294-001-p1s26W7-Ta">
 <src.rf>tagger-a</src.rf>

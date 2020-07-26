@@ -352,7 +352,7 @@
 <LM>w#w-lnd92251-093-p2s4w6</LM>
 </w.rf>
 <form>zatčeno</form>
-<tag lemma="zatknout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsNS----X-AP---</tag>
 </m>
 <m id="m-lnd92251-093-p2s4w7">
 <src.rf>manual</src.rf>

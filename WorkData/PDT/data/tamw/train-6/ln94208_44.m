@@ -475,7 +475,7 @@
 <LM>w#w-ln94208-44-p2s3w5</LM>
 </w.rf>
 <form>oba</form>
-<tag lemma="oba`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-ln94208-44-p2s3w6">
 <src.rf>manual</src.rf>

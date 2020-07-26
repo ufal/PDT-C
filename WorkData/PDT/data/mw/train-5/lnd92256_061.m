@@ -63,7 +63,7 @@
 <form>rk</form>
 <tag>
 <AM lemma="rk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="rk-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-061-p2s1w4">
@@ -497,7 +497,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-061-p2s4w8">

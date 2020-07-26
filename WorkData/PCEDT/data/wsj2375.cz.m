@@ -216,7 +216,7 @@
 <LM>w#w-wsj2375-001-p1s0W17</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milión`1000000" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj2375-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1063,7 +1063,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1162,7 +1162,7 @@
 <form>jednoho</form>
 <tag>
 <AM lemma="jeden`1" src="auto">ClMS4----------</AM>
-<AM lemma="jeden`1" src="auto" recommended="1">ClZS2----------</AM>
+<AM lemma="jeden`1" src="auto" recommended="1">CnZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj2375-001-p1s3W16-Ta">
@@ -1298,7 +1298,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1371,7 +1371,7 @@
 <form>FRANKLIN</form>
 <tag>
 <AM lemma="Franklin_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="FRANKLIN-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Franklin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2375-001-p1s5W2-Ta">
@@ -1382,7 +1382,7 @@
 <form>SAVINGS</form>
 <tag>
 <AM lemma="SAVINGS" src="auto">X@-------------</AM>
-<AM lemma="SAVINGS-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Savings-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2375-001-p1s5W3-Ta">
@@ -1393,7 +1393,7 @@
 <form>ASSOCIATION</form>
 <tag>
 <AM lemma="ASSOCIATION" src="auto">X@-------------</AM>
-<AM lemma="ASSOCIATION-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Association-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2375-001-p1s5W4-Ta">
@@ -1430,7 +1430,7 @@
 </w.rf>
 <form>Kan</form>
 <tag>
-<AM lemma="Kanada_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kanada_;G" src="auto" recommended="1">NNFXX-----A---b</AM>
 <AM lemma="Kano_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="kana" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -1803,7 +1803,7 @@
 <LM>w#w-wsj2375-001-p1s6W30</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milión`1000000" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj2375-001-p1s6W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2048,7 +2048,7 @@
 </w.rf>
 <form>jednou</form>
 <tag>
-<AM lemma="jeden`1" src="auto" recommended="1">ClFS7----------</AM>
+<AM lemma="jeden`1" src="auto" recommended="1">CnFS7----------</AM>
 <AM lemma="jednou-1" src="auto">Cv-------------</AM>
 <AM lemma="jednou-2" src="auto">Db-------------</AM>
 </tag>
@@ -2676,7 +2676,7 @@
 <LM>w#w-wsj2375-001-p1s9W6</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj2375-001-p1s9W7-Ta">
 <src.rf>tagger-a</src.rf>

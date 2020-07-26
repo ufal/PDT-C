@@ -61,7 +61,7 @@
 <LM>w#w-lnd92252-075-p2s1w4</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 </s>
 <s id="m-lnd92252-075-p3s1">
@@ -297,7 +297,7 @@
 <LM>w#w-lnd92252-075-p8s1w4</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-075-p8s1w5">
 <src.rf>manual</src.rf>

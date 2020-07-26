@@ -63,7 +63,7 @@
 <form>kva</form>
 <tag>
 <AM lemma="kva-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kva-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kva-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-43-p2s1Aw4">
@@ -90,7 +90,7 @@
 <LM>w#w-ln94205-43-p2s1Bw1</LM>
 </w.rf>
 <form>Sedmnáct</form>
-<tag lemma="sedmnáct`17" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="sedmnáct`17" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94205-43-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-ln94205-43-p2s2w6</LM>
 </w.rf>
 <form>osmnáct</form>
-<tag lemma="osmnáct`18" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="osmnáct`18" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94205-43-p2s2w7">
 <src.rf>manual</src.rf>
@@ -506,7 +506,7 @@
 <LM>w#w-ln94205-43-p2s3w4</LM>
 </w.rf>
 <form>nic</form>
-<tag lemma="nic" src="orig" selected="1">PW--4----------</tag>
+<tag lemma="nic" src="orig" selected="1">PY--4----------</tag>
 </m>
 <m id="m-ln94205-43-p2s3w5">
 <src.rf>manual</src.rf>

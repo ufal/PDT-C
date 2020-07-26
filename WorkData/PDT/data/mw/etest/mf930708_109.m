@@ -82,7 +82,7 @@
 <form>cg</form>
 <tag>
 <AM lemma="cg-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="cg-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="cg-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-109-p2s1w4">
@@ -107,7 +107,7 @@
 <LM>w#w-mf930708-109-p2s1w6</LM>
 </w.rf>
 <form>Deset</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="deset`10" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf930708-109-p2s1w7">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <LM>w#w-mf930708-109-p2s1w22</LM>
 </w.rf>
 <form>šest</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf930708-109-p2s1w23">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-mf930708-109-p2s1w24">
@@ -480,7 +480,7 @@
 <LM>w#w-mf930708-109-p2s2w24</LM>
 </w.rf>
 <form>ním</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS7--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS7--3------1</tag>
 </m>
 <m id="m-mf930708-109-p2s2w25">
 <src.rf>manual</src.rf>
@@ -1222,7 +1222,7 @@
 <form>šá</form>
 <tag>
 <AM lemma="šá-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šá-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šá-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-109-p3s1w4">
@@ -1481,7 +1481,7 @@
 <LM>w#w-mf930708-109-p3s2w5</LM>
 </w.rf>
 <form>nic</form>
-<tag lemma="nic" src="orig" selected="1">PW--4----------</tag>
+<tag lemma="nic" src="orig" selected="1">PY--4----------</tag>
 </m>
 <m id="m-mf930708-109-p3s2w6">
 <src.rf>manual</src.rf>

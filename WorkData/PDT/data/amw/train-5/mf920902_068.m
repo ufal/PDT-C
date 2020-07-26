@@ -45,7 +45,7 @@
 <LM>w#w-mf920902-068-p2s1w1</LM>
 </w.rf>
 <form>Devětadvacet</form>
-<tag lemma="devětadvacet`29" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="devětadvacet`29" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf920902-068-p2s1w2">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-mf920902-068-p2s1w7</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920902-068-p2s1w8">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-mf920902-068-p2s2w5</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag lemma="doktor_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---b</tag>
 </m>
 <m id="m-mf920902-068-p2s2w6">
 <src.rf>manual</src.rf>
@@ -349,7 +349,7 @@
 <LM>w#w-mf920902-068-p2s2w12</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag lemma="akciový_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf920902-068-p2s2w13">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-mf920902-068-p2s2w14</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920902-068-p2s2w15">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-mf920902-068-p2s2w22</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag lemma="československý" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf920902-068-p2s2w23">
 <src.rf>manual</src.rf>
@@ -783,7 +783,7 @@
 <LM>w#w-mf920902-068-p3s1w29</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP4----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP4----------</tag>
 </m>
 <m id="m-mf920902-068-p3s1w30">
 <src.rf>manual</src.rf>
@@ -801,7 +801,7 @@
 <form>VW</form>
 <tag>
 <AM lemma="VW-1_:B_;m_,t_^(automobil_značky_Volkswagen)" src="orig">NNIXX-----A----</AM>
-<AM lemma="VW_:B_;m_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="VW_;m_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920902-068-p3s1w32">
@@ -826,7 +826,7 @@
 <LM>w#w-mf920902-068-p3s1w34</LM>
 </w.rf>
 <form>čtyři</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-mf920902-068-p3s1w35">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 <tag>
 <AM lemma="Volkswagen-2_;m_,x_^(vozidlo)" src="orig">NNIP4-----A----</AM>
 <AM lemma="volkswagen_;m_,x_^(vozidlo)" src="auto">NNIP1-----A----</AM>
-<AM lemma="volkswagen_;m_,x_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
+<AM lemma="volkswagen_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
 <AM lemma="volkswagen_;m_,x_^(vozidlo)" src="auto">NNIP5-----A----</AM>
 <AM lemma="volkswagen_;m_,x_^(vozidlo)" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -992,7 +992,7 @@
 <LM>w#w-mf920902-068-p3s1w54</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_:B_^(a_podobně)" src="auto" selected="1">Db------------8</tag>
+<tag lemma="apod_^(a_podobně)" src="auto" selected="1">Db------------b</tag>
 </m>
 <m id="m-mf920902-068-p3s1w55">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-mf920902-068-p3s2w15</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf920902-068-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1146,7 +1146,7 @@
 <LM>w#w-mf920902-068-p3s2w18</LM>
 </w.rf>
 <form>oběma</form>
-<tag lemma="oba`2" src="orig" selected="1">ClXP3----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnXP3----------</tag>
 </m>
 <m id="m-mf920902-068-p3s2w19">
 <src.rf>manual</src.rf>

@@ -71,7 +71,7 @@
 <form>spa</form>
 <tag>
 <AM lemma="spa-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="spa-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="spa-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-060-p2s1w6">
@@ -338,7 +338,7 @@
 <LM>w#w-mf930703-060-p2s2w2</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930703-060-p2s2w3">
 <src.rf>manual</src.rf>
@@ -354,7 +354,7 @@
 <LM>w#w-mf930703-060-p2s2w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930703-060-p2s2w5">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-060-p2s2w24">
@@ -684,7 +684,7 @@
 <LM>w#w-mf930703-060-p2s4w11</LM>
 </w.rf>
 <form>čtrnáct</form>
-<tag lemma="čtrnáct`14" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="čtrnáct`14" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf930703-060-p2s4w12">
 <src.rf>manual</src.rf>
@@ -949,7 +949,7 @@
 <LM>w#w-mf930703-060-p2s7w9</LM>
 </w.rf>
 <form>prováděcích</form>
-<tag lemma="prováděcí_^(^IC*2t)" src="auto" selected="1">AAIP6----1A----</tag>
+<tag lemma="prováděcí" src="auto" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-mf930703-060-p2s7w10">
 <src.rf>manual</src.rf>

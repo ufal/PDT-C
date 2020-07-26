@@ -43,7 +43,7 @@
 <LM>w#w-mf930703-034-p1s1w4</LM>
 </w.rf>
 <form>ČSA</form>
-<tag lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČSA-1_;m_^(Čs./České_aerolinie)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf930703-034-p1s1w5">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-mf930703-034-p1s1w5</LM>
 </w.rf>
 <form>nic</form>
-<tag lemma="nic" src="orig" selected="1">PW--4----------</tag>
+<tag lemma="nic" src="orig" selected="1">PY--4----------</tag>
 </m>
 <m id="m-mf930703-034-p1s1w6">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-mf930703-034-p1s1w14</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag lemma="takzvaný" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf930703-034-p1s1w15">
 <src.rf>manual</src.rf>
@@ -307,7 +307,7 @@
 <LM>w#w-mf930703-034-p1s1w37</LM>
 </w.rf>
 <form>resp</form>
-<tag lemma="respektive_:B" src="auto" selected="1">Db------------8</tag>
+<tag lemma="respektive" src="auto" selected="1">Db------------b</tag>
 </m>
 <m id="m-mf930703-034-p1s1w38">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-mf930703-034-p1s2w17</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag lemma="akciový_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf930703-034-p1s2w18">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-mf930703-034-p1s2w19</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf930703-034-p1s2w20">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-mf930703-034-p1s3w1</LM>
 </w.rf>
 <form>ČSA</form>
-<tag lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČSA-1_;m_^(Čs./České_aerolinie)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf930703-034-p1s3w2">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-mf930703-034-p1s4w12</LM>
 </w.rf>
 <form>ČSA</form>
-<tag lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČSA-1_;m_^(Čs./České_aerolinie)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf930703-034-p1s4w13">
 <src.rf>manual</src.rf>
@@ -754,7 +754,7 @@
 <LM>w#w-mf930703-034-p1s5w2</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-034-p1s5w3">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-mf930703-034-p1s6w3</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag lemma="například" src="orig" selected="1">Db------------b</tag>
 </m>
 <m id="m-mf930703-034-p1s6w4">
 <src.rf>manual</src.rf>

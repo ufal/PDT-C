@@ -59,7 +59,7 @@
 <LM>w#w-ln95043-004-p1s1w6</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-ln95043-004-p1s1w7">
 <src.rf>manual</src.rf>

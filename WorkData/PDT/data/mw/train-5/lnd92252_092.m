@@ -193,7 +193,7 @@
 <LM>w#w-lnd92252-092-p3s2w13</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9ZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
 </m>
 <m id="m-lnd92252-092-p3s2w14">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-lnd92252-092-p3s3w15</LM>
 </w.rf>
 <form>přivezl</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-092-p3s3w16">
 <src.rf>manual</src.rf>
@@ -929,7 +929,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-33" src="orig">Q3-------------</AM>
-<AM lemma="Banský_:B" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="Banský" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p4s2w64">
@@ -1864,7 +1864,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Banský_:B" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="Banský" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p8s1w4">
@@ -1996,7 +1996,7 @@
 <form>Hr</form>
 <tag>
 <AM lemma="Hradec-2_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Hradec-2_:B_;G" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="Hradec-2_;G" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 <AM lemma="hr-1" src="auto">Db-------------</AM>
 <AM lemma="hr-2" src="auto">II-------------</AM>
 </tag>
@@ -2135,7 +2135,7 @@
 </w.rf>
 <form>Br</form>
 <tag>
-<AM lemma="Bratislava_:B_;G" src="orig" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Bratislava_;G" src="orig" selected="1">NNFXX-----A---b</AM>
 <AM lemma="Br-4_:B_;U_^(bromum,_brom)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="Britain_:B_;G_,t_^(Britain,_Británie)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="British_:B_;m_,t_^(British,_britský)" src="auto">AAXXX----1A---8</AM>
@@ -2314,7 +2314,7 @@
 <form>Lok</form>
 <tag>
 <AM lemma="Lokomotiva_:B_;m_^(sport.:_souč._názvu_klubu)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Lokomotiva_:B_;m" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Lokomotiva_;m" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p15s1w4">
@@ -2515,7 +2515,7 @@
 <AM lemma="Británie_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="br-1_:B_,t_^(brand,_obchodní_značka,_známka,_jakost,...)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="br-7_:B_,t_^(bills_receivable,_směnečné_pohledávky)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Bratislava_:B_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Bratislava_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p18s1w5">

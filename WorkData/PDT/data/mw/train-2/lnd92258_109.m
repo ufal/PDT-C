@@ -197,7 +197,7 @@
 <LM>w#w-lnd92258-109-p1s2w20</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="náměstí_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="náměstí" src="orig" selected="1">NNNXX-----A---b</tag>
 </m>
 <m id="m-lnd92258-109-p1s2w21">
 <src.rf>manual</src.rf>

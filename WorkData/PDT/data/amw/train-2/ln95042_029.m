@@ -27,7 +27,7 @@
 <LM>w#w-ln95042-029-p1s1w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95042-029-p1s1w3">
 <src.rf>manual</src.rf>
@@ -169,7 +169,7 @@
 <LM>w#w-ln95042-029-p2s1Cw5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95042-029-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-ln95042-029-p2s2w19</LM>
 </w.rf>
 <form>Villebonem</form>
-<tag lemma="Villebon_;m_,t" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Villebon_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95042-029-p2s2w20">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-ln95042-029-p3s1w11</LM>
 </w.rf>
 <form>Ukrajinky</form>
-<tag lemma="Ukrajinka_;E_^(^FM*2ec)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Ukrajinka_;E" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95042-029-p3s1w12">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-ln95042-029-p3s2w4</LM>
 </w.rf>
 <form>Hanačky</form>
-<tag lemma="Hanačka_;E_^(^FM*4ák)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Hanačka_;E" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95042-029-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1320,7 +1320,7 @@
 <LM>w#w-ln95042-029-p4s1w6</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95042-029-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1466,7 +1466,7 @@
 <LM>w#w-ln95042-029-p4s2w13</LM>
 </w.rf>
 <form>Villebon</form>
-<tag lemma="Villebon_;m_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Villebon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-029-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1620,7 +1620,7 @@
 <LM>w#w-ln95042-029-p4s3w14</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95042-029-p4s3w15">
 <src.rf>manual</src.rf>
@@ -1678,7 +1678,7 @@
 <LM>w#w-ln95042-029-p4s4w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95042-029-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1766,7 +1766,7 @@
 <LM>w#w-ln95042-029-p4s4w14</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-ln95042-029-p4s4w15">
 <src.rf>manual</src.rf>

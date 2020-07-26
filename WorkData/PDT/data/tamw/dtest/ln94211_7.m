@@ -545,7 +545,7 @@
 <LM>w#w-ln94211-7-p7s3w11</LM>
 </w.rf>
 <form>šesti</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln94211-7-p7s3w12">
 <src.rf>manual</src.rf>

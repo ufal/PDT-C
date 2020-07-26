@@ -222,7 +222,7 @@
 <LM>w#w-mf930703-021-p1s1w26</LM>
 </w.rf>
 <form>patnáct</form>
-<tag lemma="patnáct`15" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="patnáct`15" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf930703-021-p1s1w27">
 <src.rf>manual</src.rf>

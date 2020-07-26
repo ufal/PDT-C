@@ -158,7 +158,7 @@
 <LM>w#w-mf930703-102-p5s1w4</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-mf930703-102-p5s1w5">
 <src.rf>manual</src.rf>

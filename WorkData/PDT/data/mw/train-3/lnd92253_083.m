@@ -155,7 +155,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_;m_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-3_;m_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p3s2w14">
@@ -409,7 +409,7 @@
 <LM>w#w-lnd92253-083-p5s5w3</LM>
 </w.rf>
 <form>oba</form>
-<tag lemma="oba`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-lnd92253-083-p5s5w4">
 <src.rf>manual</src.rf>
@@ -2603,7 +2603,7 @@
 <tag>
 <AM lemma="Mladý_:B_;G_^(např._Ml._Boleslav)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="ml-1`mililitr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="mladý_:B" src="auto" selected="1">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="auto" selected="1">AAXXX----2A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p11s1w8">

@@ -325,7 +325,7 @@
 <LM>w#w-mf930708-069-p8s1w5</LM>
 </w.rf>
 <form>Honzou</form>
-<tag lemma="Honza_;Y_^(^HN**Jan)" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Honza_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-069-p9s1">
@@ -3993,7 +3993,7 @@
 <LM>w#w-mf930708-069-p83s1w6</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930708-069-p83s1w7">
 <src.rf>manual</src.rf>
@@ -4248,7 +4248,7 @@
 <form>FM</form>
 <tag>
 <AM lemma="FM-1_:B_^(frekvenční_modulace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FM-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Fm-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -4829,7 +4829,7 @@
 <form>CD</form>
 <tag>
 <AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -4890,7 +4890,7 @@
 <form>CD</form>
 <tag>
 <AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

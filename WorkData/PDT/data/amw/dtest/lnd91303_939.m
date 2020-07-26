@@ -62,7 +62,7 @@
 <form>mlp</form>
 <tag>
 <AM lemma="mlp-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mlp-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mlp-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-939-p2s1Bw4">
@@ -358,7 +358,7 @@
 <LM>w#w-lnd91303-939-p3s1w20</LM>
 </w.rf>
 <form>nich</form>
-<tag lemma="on-1" src="orig" selected="1">P5XP2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP2--3-------</tag>
 </m>
 <m id="m-lnd91303-939-p3s1w21">
 <src.rf>manual</src.rf>

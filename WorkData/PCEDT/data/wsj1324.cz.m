@@ -33,7 +33,7 @@
 </w.rf>
 <form>AEG</form>
 <tag>
-<AM lemma="AEG_:B_;m" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="AEG_;m" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 <AM lemma="AEG-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -299,7 +299,7 @@
 </w.rf>
 <form>Oba</form>
 <tag>
-<AM lemma="oba`2" src="auto" recommended="1">ClYP1----------</AM>
+<AM lemma="oba`2" src="auto" recommended="1">CnYP1----------</AM>
 <AM lemma="oba`2" src="auto">ClYP4----------</AM>
 <AM lemma="oba`2" src="auto">ClYP5----------</AM>
 </tag>
@@ -574,7 +574,7 @@
 <LM>w#w-wsj1324-001-p1s2W2</LM>
 </w.rf>
 <form>AEG</form>
-<tag lemma="AEG_:B_;m" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="AEG_;m" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1324-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-wsj1324-001-p1s3W10</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1324-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -876,7 +876,7 @@
 </w.rf>
 <form>milionu</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIS2----------</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -1232,7 +1232,7 @@
 <LM>w#w-wsj1324-001-p1s6W2</LM>
 </w.rf>
 <form>AEG</form>
-<tag lemma="AEG_:B_;m" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="AEG_;m" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1324-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>

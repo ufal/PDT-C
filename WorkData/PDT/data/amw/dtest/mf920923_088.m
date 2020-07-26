@@ -63,7 +63,7 @@
 <form>hč</form>
 <tag>
 <AM lemma="hč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hč-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-088-p2s1w4">
@@ -146,7 +146,7 @@
 <LM>w#w-mf920923-088-p2s2Aw8</LM>
 </w.rf>
 <form>přepadli</form>
-<tag lemma="přepadnout" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přepadnout" src="auto" selected="1">VpMP----R-AA---</tag>
 </m>
 <m id="m-mf920923-088-p2s2Aw9">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-mf920923-088-p2s2Aw15</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-mf920923-088-p2s2Aw16">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 <LM>w#w-mf920923-088-p2s2Bw10</LM>
 </w.rf>
 <form>vydala</form>
-<tag lemma="vydat-2_:W_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-088-p2s2Bw11">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-088-p2s2Bw28">
@@ -554,7 +554,7 @@
 <LM>w#w-mf920923-088-p2s3w2</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-mf920923-088-p2s3w3">
 <src.rf>manual</src.rf>

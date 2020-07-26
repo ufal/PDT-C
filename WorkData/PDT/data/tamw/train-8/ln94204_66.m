@@ -61,7 +61,7 @@
 <LM>w#w-ln94204-66-p2s1Aw4</LM>
 </w.rf>
 <form>vet</form>
-<tag lemma="vet-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="vet-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-ln94204-66-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Kč" src="auto" recommended="1" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-66-p2s2w9">
@@ -375,7 +375,7 @@
 <LM>w#w-ln94204-66-p2s3w2</LM>
 </w.rf>
 <form>ho</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS4--3-------</tag>
 </m>
 <m id="m-ln94204-66-p2s3w3">
 <src.rf>manual</src.rf>

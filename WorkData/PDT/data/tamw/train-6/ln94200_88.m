@@ -55,7 +55,7 @@
 <form>mot</form>
 <tag>
 <AM lemma="mot-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mot-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mot-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-88-p2s1Aw4">
@@ -347,7 +347,7 @@
 <LM>w#w-ln94200-88-p2s2w18</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94200-88-p2s2w19">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-ln94200-88-p2s3w3</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94200-88-p2s3w4">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-ln94200-88-p2s3w7</LM>
 </w.rf>
 <form>čtyřiadvaceti</form>
-<tag lemma="čtyřiadvacet`24" src="orig" selected="1">Cn-P6----------</tag>
+<tag lemma="čtyřiadvacet`24" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-ln94200-88-p2s3w8">
 <src.rf>manual</src.rf>

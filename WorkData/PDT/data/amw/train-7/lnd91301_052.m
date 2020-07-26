@@ -141,7 +141,7 @@
 <form>NON</form>
 <tag>
 <AM lemma="nona" src="orig">NNFP2-----A----</AM>
-<AM lemma="NON-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Non-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-052-p1s1w17">
@@ -152,7 +152,7 @@
 <form>STOP</form>
 <tag>
 <AM lemma="stop-1_^(zastavení,_i_stopování)" src="auto">NNIS1-----A----</AM>
-<AM lemma="STOP-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Stop-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-052-p1s1w18">
@@ -317,7 +317,7 @@
 <LM>w#w-lnd91301-052-p1s3w1</LM>
 </w.rf>
 <form>Nikdo</form>
-<tag lemma="nikdo" src="orig" selected="1">PWM-1----------</tag>
+<tag lemma="nikdo" src="orig" selected="1">PY--1----------</tag>
 </m>
 <m id="m-lnd91301-052-p1s3w2">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-lnd91301-052-p1s4w14</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd91301-052-p1s4w15">
 <src.rf>manual</src.rf>

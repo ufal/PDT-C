@@ -2025,7 +2025,7 @@
 <AM lemma="ZOO_:B" src="auto">NNFXX-----A----</AM>
 <AM lemma="ZOO_:B" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="ZOO-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ZOO_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZOO" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p9s1w13">
@@ -2685,7 +2685,7 @@
 <LM>w#w-mf930701-146-p9s1w94</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930701-146-p9s1w95">
 <src.rf>manual</src.rf>

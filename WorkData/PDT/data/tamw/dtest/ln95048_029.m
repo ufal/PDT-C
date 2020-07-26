@@ -102,7 +102,7 @@
 <LM>w#w-ln95048-029-p2s1Aw7</LM>
 </w.rf>
 <form>vydává</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vydávat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-029-p2s1Aw8">
 <src.rf>manual</src.rf>
@@ -1092,7 +1092,7 @@
 <LM>w#w-ln95048-029-p2s5w4</LM>
 </w.rf>
 <form>otištěna</form>
-<tag lemma="otisknout" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="otisknout" src="orig" selected="1">VsQW----X-AP---</tag>
 </m>
 <m id="m-ln95048-029-p2s5w5">
 <src.rf>manual</src.rf>

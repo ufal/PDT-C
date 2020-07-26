@@ -63,7 +63,7 @@
 <form>brp</form>
 <tag>
 <AM lemma="brp-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="brp-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="brp-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-035-p2s1w3">
@@ -98,7 +98,7 @@
 <LM>w#w-mf920922-035-p2s2w2</LM>
 </w.rf>
 <form>dvaatřicet</form>
-<tag lemma="dvaatřicet`32" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="dvaatřicet`32" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf920922-035-p2s2w3">
 <src.rf>manual</src.rf>
@@ -106,7 +106,7 @@
 <LM>w#w-mf920922-035-p2s2w3</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIS4----------</tag>
 </m>
 <m id="m-mf920922-035-p2s2w4">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-mf920922-035-p2s2w15</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf920922-035-p2s2w16">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-mf920922-035-p2s4w13</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920922-035-p2s4w14">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-mf920922-035-p2s5w5</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920922-035-p2s5w6">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 <form>VZP</form>
 <tag>
 <AM lemma="VZP-1_:B_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VZP-1_:B_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VZP-1_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-035-p2s5w29">

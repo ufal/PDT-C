@@ -171,7 +171,7 @@
 <LM>w#w-lnd92254-059-p1s1w20</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92254-059-p1s1w21">
 <src.rf>manual</src.rf>

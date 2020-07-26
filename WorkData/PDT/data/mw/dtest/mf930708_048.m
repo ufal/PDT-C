@@ -95,7 +95,7 @@
 <form>UNESCO</form>
 <tag>
 <AM lemma="Unesco_:B_;m_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNESCO_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-048-p2s1w9">
@@ -356,7 +356,7 @@
 <form>UNESCO</form>
 <tag>
 <AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UNESCO_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-048-p2s2w26">
@@ -505,7 +505,7 @@
 <LM>w#w-mf930708-048-p2s4w7</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-mf930708-048-p2s4w8">
 <src.rf>manual</src.rf>

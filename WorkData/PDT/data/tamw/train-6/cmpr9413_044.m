@@ -266,7 +266,7 @@
 <AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFXX----1A----</AM>
 <AM lemma="la-1_,t_^(it._člen)" src="manual">AAXXX----1A----</AM>
 <AM lemma="la-4_,t_^(it._člen)" src="manual">AAXXX----1A----</AM>
-<AM lemma="LA-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p6s1w8">
@@ -285,7 +285,7 @@
 <AM lemma="Bella-2_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="bella-2_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="bella_,t" src="manual">AAXXX----1A----</AM>
-<AM lemma="BELLA-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Bella-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p6s1w9">
@@ -297,7 +297,7 @@
 <tag>
 <AM lemma="Donna_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="donna_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="DONNA-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Donna-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p6s1w10">
@@ -4945,7 +4945,7 @@
 <form>FAIR</form>
 <tag>
 <AM lemma="fair" src="orig">AAXXX----1A----</AM>
-<AM lemma="FAIR-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Fair-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p19s1w6">
@@ -4956,7 +4956,7 @@
 <form>FASHION</form>
 <tag>
 <AM lemma="Fashion_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="FASHION-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Fashion-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p19s1w7">
@@ -6461,7 +6461,7 @@
 <AM lemma="comma-1_;U_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="comma-2_,t_^(angl._čárka)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="comma-3_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="COMMA-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Comma-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p27s1w7">
@@ -6480,7 +6480,7 @@
 <form>TRANSPED</form>
 <tag>
 <AM lemma="Transped_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="TRANSPED-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Transped-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p27s1w9">
@@ -7184,7 +7184,7 @@
 <form>SCAN</form>
 <tag>
 <AM lemma="scan" src="orig">NNIS1-----A----</AM>
-<AM lemma="SCAN-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Scan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p28s1w7">
@@ -7195,7 +7195,7 @@
 <form>SHOW</form>
 <tag>
 <AM lemma="show" src="orig">NNFXX-----A----</AM>
-<AM lemma="SHOW-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Show-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p28s1w8">
@@ -7470,7 +7470,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p28s2w10">

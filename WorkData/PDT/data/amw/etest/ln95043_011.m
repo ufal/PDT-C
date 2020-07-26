@@ -35,7 +35,7 @@
 <LM>w#w-ln95043-011-p1s1w3</LM>
 </w.rf>
 <form>přítelkyně</form>
-<tag lemma="přítelkyně_^(^FY*4)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="přítelkyně" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-011-p1s1w4">
 <src.rf>manual</src.rf>

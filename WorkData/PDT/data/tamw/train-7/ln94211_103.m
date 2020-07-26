@@ -263,7 +263,7 @@
 <LM>w#w-ln94211-103-p2s2w10</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94211-103-p2s2w11">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-ln94211-103-p2s2w11</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94211-103-p2s2w12">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-ln94211-103-p2s3w2</LM>
 </w.rf>
 <form>šedesáti</form>
-<tag lemma="šedesát`60" src="orig" selected="1">Cn-P7----------</tag>
+<tag lemma="šedesát`60" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-ln94211-103-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <LM>w#w-ln94211-103-p2s5w16</LM>
 </w.rf>
 <form>nahrávací</form>
-<tag lemma="nahrávací_^(^IC*4t)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="nahrávací" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94211-103-p2s5w17">
 <src.rf>manual</src.rf>
@@ -1267,7 +1267,7 @@
 <LM>w#w-ln94211-103-p3s1w25</LM>
 </w.rf>
 <form>bicí</form>
-<tag lemma="bicí-1_^(^IC*5ít)" src="auto" selected="1">AAIP4----1A----</tag>
+<tag lemma="bicí-1" src="auto" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln94211-103-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1495,7 +1495,7 @@
 <LM>w#w-ln94211-103-p4s2w1</LM>
 </w.rf>
 <form>Jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln94211-103-p4s2w2">
 <src.rf>manual</src.rf>

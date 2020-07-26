@@ -383,7 +383,7 @@
 <LM>w#w-lnd92253-002-p2s3w5</LM>
 </w.rf>
 <form>dvěma</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP7----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP7----------</tag>
 </m>
 <m id="m-lnd92253-002-p2s3w6">
 <src.rf>manual</src.rf>

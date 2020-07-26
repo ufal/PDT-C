@@ -291,7 +291,7 @@
 <LM>w#w-ln95044-010-p2s2w6</LM>
 </w.rf>
 <form>IPB</form>
-<tag lemma="IPB_:B_;m_^(Investiční_a_poštovní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="IPB_;m_^(Investiční_a_poštovní_banka)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln95044-010-p2s2w7">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 <LM>w#w-ln95044-010-p3s1w19</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln95044-010-p3s1w20">
 <src.rf>manual</src.rf>

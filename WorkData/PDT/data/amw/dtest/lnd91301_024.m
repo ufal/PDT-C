@@ -52,7 +52,7 @@
 <LM>w#w-lnd91301-024-p1s1w5</LM>
 </w.rf>
 <form>nevymyslel</form>
-<tag lemma="vymyslet" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="vymyslet" src="orig" selected="1">VpYS----R-NA---</tag>
 </m>
 <m id="m-lnd91301-024-p1s1w6">
 <src.rf>manual</src.rf>

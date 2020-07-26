@@ -434,7 +434,7 @@
 <LM>w#w-mf920924-011-p1s6w6</LM>
 </w.rf>
 <form>nestojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-mf920924-011-p1s6w7">
 <src.rf>manual</src.rf>

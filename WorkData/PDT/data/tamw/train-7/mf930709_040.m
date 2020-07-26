@@ -379,7 +379,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televizní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="TV-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tv-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-040-p8s1w3">
@@ -850,7 +850,7 @@
 <AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFP1-----A----</AM>
 <AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFP4-----A----</AM>
 <AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFP5-----A----</AM>
-<AM lemma="Esplanade_:B_;m_^(hotel)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Esplanade_;m_^(hotel)" src="auto" recommended="1" selected="1">BNFS1-----A----</AM>
 <AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFS2-----A----</AM>
 <AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFS5-----A----</AM>
 </tag>

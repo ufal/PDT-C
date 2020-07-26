@@ -247,7 +247,7 @@
 <LM>w#w-lnd94104-141-p1s3w21</LM>
 </w.rf>
 <form>osmi</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-P3----------</tag>
+<tag lemma="osm`8" src="orig" selected="1">Cl-P3----------</tag>
 </m>
 <m id="m-lnd94104-141-p1s3w22">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-141-p1s5w2">
@@ -617,7 +617,7 @@
 <LM>w#w-lnd94104-141-p1s5w13</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-lnd94104-141-p1s5w14">
 <src.rf>manual</src.rf>

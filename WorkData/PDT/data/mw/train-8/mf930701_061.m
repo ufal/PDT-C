@@ -59,7 +59,7 @@
 <LM>w#w-mf930701-061-p1s1w6</LM>
 </w.rf>
 <form>jednu</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS4----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS4----------</tag>
 </m>
 <m id="m-mf930701-061-p1s1w7">
 <src.rf>manual</src.rf>

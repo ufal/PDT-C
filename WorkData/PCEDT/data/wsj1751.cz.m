@@ -31,7 +31,7 @@
 <AM lemma="empir" src="auto">NNIS5-----A----</AM>
 <AM lemma="empire_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="empire_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="EMPIRE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Empire-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1751-001-p1s0W3-Ta">
@@ -42,7 +42,7 @@
 <form>PENCIL</form>
 <tag>
 <AM lemma="PENCIL" src="auto">X@-------------</AM>
-<AM lemma="PENCIL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pencil-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1751-001-p1s0W4-Ta">

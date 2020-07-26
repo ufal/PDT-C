@@ -73,7 +73,7 @@
 </w.rf>
 <form>kor</form>
 <tag>
-<AM lemma="kor-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="kor-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="kora_,a" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -221,7 +221,7 @@
 <LM>w#w-mf920924-022-p2s3w4</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf920924-022-p2s3w5">
 <src.rf>manual</src.rf>

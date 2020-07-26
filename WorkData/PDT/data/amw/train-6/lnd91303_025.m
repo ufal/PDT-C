@@ -348,7 +348,7 @@
 <LM>w#w-lnd91303-025-p1s3w4</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-lnd91303-025-p1s3w5">
 <src.rf>manual</src.rf>

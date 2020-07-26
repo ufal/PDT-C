@@ -117,7 +117,7 @@
 <LM>w#w-lnd92255-073-p1s2w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-073-p1s2w3">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-lnd92255-073-p1s2w4</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-073-p1s2w5">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-lnd92255-073-p1s2w9</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-073-p1s2w10">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <form>VOX</form>
 <tag>
 <AM lemma="Vox_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="VOX-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Vox-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-073-p1s3w7">
@@ -316,7 +316,7 @@
 <form>POPULI</form>
 <tag>
 <AM lemma="Populi_;m_,t" src="orig">NNMP2-----A----</AM>
-<AM lemma="POPULI-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Populi-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-073-p1s3w8">
@@ -333,7 +333,7 @@
 <LM>w#w-lnd92255-073-p1s3w9</LM>
 </w.rf>
 <form>osmi</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-P3----------</tag>
+<tag lemma="osm`8" src="orig" selected="1">Cl-P3----------</tag>
 </m>
 <m id="m-lnd92255-073-p1s3w10">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-lnd92255-073-p1s3w15</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-073-p1s3w16">
 <src.rf>manual</src.rf>

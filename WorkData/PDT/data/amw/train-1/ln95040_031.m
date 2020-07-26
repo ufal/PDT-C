@@ -217,7 +217,7 @@
 <LM>w#w-ln95040-031-p2s2w6</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95040-031-p2s2w7">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <form>ujal</form>
 <tag>
 <AM lemma="ujmout_,x" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="ujmout" src="manual" selected="1">VpYS---XR-AA--1</AM>
+<AM lemma="ujmout" src="manual" selected="1">VpYS----R-AA--1</AM>
 </tag>
 </m>
 <m id="m-ln95040-031-p2s2w10">
@@ -462,7 +462,7 @@
 <LM>w#w-ln95040-031-p2s3w5</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln95040-031-p2s3w6">
 <src.rf>manual</src.rf>

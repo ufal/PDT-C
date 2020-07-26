@@ -63,7 +63,7 @@
 <form>čen</form>
 <tag>
 <AM lemma="čen-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="čen-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="čen-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-078-p2s1Aw4">
@@ -856,7 +856,7 @@
 <LM>w#w-mf930709-078-p2s6w3</LM>
 </w.rf>
 <form>čtyři</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-mf930709-078-p2s6w4">
 <src.rf>manual</src.rf>
@@ -955,7 +955,7 @@
 <LM>w#w-mf930709-078-p2s6w15</LM>
 </w.rf>
 <form>Kdo</form>
-<tag lemma="kdo" src="orig" selected="1">PKM-1----------</tag>
+<tag lemma="kdo" src="orig" selected="1">PQ--1----------</tag>
 </m>
 <m id="m-mf930709-078-p2s6w16">
 <src.rf>manual</src.rf>

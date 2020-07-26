@@ -578,7 +578,7 @@
 <LM>w#w-mf930709-128-p4s1w29</LM>
 </w.rf>
 <form>Čtyři</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-mf930709-128-p4s1w30">
 <src.rf>manual</src.rf>

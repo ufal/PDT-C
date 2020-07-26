@@ -432,7 +432,7 @@
 <LM>w#w-mf920922-109-p18s1w2</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf920922-109-p18s1w3">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <form>WAS</form>
 <tag>
 <AM lemma="was_,t" src="orig">PQ--X----------</AM>
-<AM lemma="WAS-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Was-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-109-p40s1w3">
@@ -975,7 +975,7 @@
 <LM>w#w-mf920922-109-p48s1w3</LM>
 </w.rf>
 <form>jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClYS1----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnYS1----------</tag>
 </m>
 <m id="m-mf920922-109-p48s1w4">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <LM>w#w-mf920922-109-p49s1w2</LM>
 </w.rf>
 <form>Tisíc</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIS1----------</tag>
 </m>
 <m id="m-mf920922-109-p49s1w3">
 <src.rf>manual</src.rf>
@@ -1243,7 +1243,7 @@
 <tag>
 <AM lemma="BBC_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BBC-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="BBC_:B_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BBC_;m" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-109-p60s1w3">
@@ -1589,7 +1589,7 @@
 <form>CNN</form>
 <tag>
 <AM lemma="CNN-1_:B_;m_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

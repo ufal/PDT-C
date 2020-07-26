@@ -1098,7 +1098,7 @@
 <form>Hr</form>
 <tag>
 <AM lemma="Hradec-2_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Hradec-2_:B_;G" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="Hradec-2_;G" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 <AM lemma="hr-1" src="auto">Db-------------</AM>
 <AM lemma="hr-2" src="auto">II-------------</AM>
 </tag>
@@ -1419,7 +1419,7 @@
 <LM>w#w-lnd92254-097-p4s2w15</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="MS-5_;m_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---b</tag>
 </m>
 <m id="m-lnd92254-097-p4s2w16">
 <src.rf>manual</src.rf>

@@ -77,7 +77,7 @@
 <LM>w#w-mf930701-118-p2s1w7</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930701-118-p2s1w8">
 <src.rf>manual</src.rf>
@@ -307,7 +307,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-118-p2s2w13">
@@ -709,7 +709,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-118-p3s4w4">
@@ -811,7 +811,7 @@
 <LM>w#w-mf930701-118-p3s5w3</LM>
 </w.rf>
 <form>Trinid</form>
-<tag lemma="Trinidad_:B_;G" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="Trinidad_;G" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf930701-118-p3s5w4">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-118-p3s7w4">
@@ -1119,7 +1119,7 @@
 <LM>w#w-mf930701-118-p3s10w3</LM>
 </w.rf>
 <form>Švýc</form>
-<tag lemma="Švýcarsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="Švýcarsko_;G" src="orig" selected="1">NNNXX-----A---b</tag>
 </m>
 <m id="m-mf930701-118-p3s10w4">
 <src.rf>manual</src.rf>
@@ -1199,7 +1199,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-118-p3s12w4">

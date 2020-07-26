@@ -751,7 +751,7 @@
 <LM>w#w-lnd92255-125-p4s1w9</LM>
 </w.rf>
 <form>Fiorentina</form>
-<tag lemma="Fiorentina_;m_,t" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fiorentina_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-125-p4s1w10">
 <src.rf>manual</src.rf>
@@ -3118,7 +3118,7 @@
 <LM>w#w-lnd92255-125-p6s3w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-125-p6s3w3">
 <src.rf>manual</src.rf>
@@ -3126,7 +3126,7 @@
 <LM>w#w-lnd92255-125-p6s3w3</LM>
 </w.rf>
 <form>ujali</form>
-<tag lemma="ujmout_,x" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ujmout" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-125-p6s3w4">
 <src.rf>manual</src.rf>
@@ -3286,7 +3286,7 @@
 <LM>w#w-lnd92255-125-p6s3w23</LM>
 </w.rf>
 <form>Julio</form>
-<tag lemma="Julio_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Julio_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-125-p6s3w24">
 <src.rf>manual</src.rf>
@@ -3320,7 +3320,7 @@
 <LM>w#w-lnd92255-125-p6s4w2</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP4----------</tag>
 </m>
 <m id="m-lnd92255-125-p6s4w3">
 <src.rf>manual</src.rf>
@@ -4039,7 +4039,7 @@
 <LM>w#w-lnd92255-125-p7s5w12</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-125-p7s5w13">
 <src.rf>manual</src.rf>

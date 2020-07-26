@@ -366,7 +366,7 @@
 <LM>w#w-lnd92257-043-p3s3w5</LM>
 </w.rf>
 <form>šest</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-lnd92257-043-p3s3w6">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-lnd92257-043-p3s3w7</LM>
 </w.rf>
 <form>devět</form>
-<tag lemma="devět`9" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="devět`9" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-lnd92257-043-p3s3w8">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-lnd92257-043-p3s4w22</LM>
 </w.rf>
 <form>rusko</form>
-<tag lemma="ruský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="ruský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92257-043-p3s4w23">
 <src.rf>manual</src.rf>

@@ -112,7 +112,7 @@
 <LM>w#w-mf930709-086-p1s2Bw5</LM>
 </w.rf>
 <form>Mika</form>
-<tag lemma="Mike_;Y_,t" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mike_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-086-p1s2Bw6">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-mf930709-086-p1s2Bw27</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-mf930709-086-p1s2Bw28">
 <src.rf>manual</src.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-mf930709-086-p1s2Bw28</LM>
 </w.rf>
 <form>tisíce</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIP4----------</tag>
 </m>
 <m id="m-mf930709-086-p1s2Bw29">
 <src.rf>manual</src.rf>
@@ -336,7 +336,7 @@
 <LM>w#w-mf930709-086-p1s2Bw33</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930709-086-p1s2Bw34">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-mf930709-086-p1s3w3</LM>
 </w.rf>
 <form>předán</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930709-086-p1s3w4">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <AM lemma="Patricie_;Y" src="auto">NNFS4-----A----</AM>
 <AM lemma="Patricie_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="patricius" src="auto">NNMP7-----A----</AM>
-<AM lemma="Patricia_;Y_,t" src="manual" selected="1">NNFS3-----A----</AM>
+<AM lemma="Patricia_;Y" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-086-p1s3w6">
@@ -719,7 +719,7 @@
 <LM>w#w-mf930709-086-p2s2Bw6</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930709-086-p2s2Bw7">
 <src.rf>manual</src.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-mf930709-086-p2s4w24</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="on-1_^(vidím_ho)" src="orig" selected="1">PPYS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEYS4--3-------</tag>
 </m>
 <m id="m-mf930709-086-p2s4w25">
 <src.rf>manual</src.rf>

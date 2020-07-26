@@ -122,7 +122,7 @@
 <LM>w#w-wsj0065-001-p1s0W12</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj0065-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -632,7 +632,7 @@
 </w.rf>
 <form>Inc</form>
 <tag>
-<AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Inc-77" src="auto" recommended="1">B%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
 </tag>
 </m>

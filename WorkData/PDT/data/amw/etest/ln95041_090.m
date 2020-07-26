@@ -104,7 +104,7 @@
 <LM>w#w-ln95041-090-p2s1Bw1</LM>
 </w.rf>
 <form>Šest</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-ln95041-090-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -128,7 +128,7 @@
 <LM>w#w-ln95041-090-p2s1Bw4</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_:T_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-090-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-ln95041-090-p2s1Bw19</LM>
 </w.rf>
 <form>nich</form>
-<tag lemma="on-1" src="orig" selected="1">P5XP2--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP2--3-------</tag>
 </m>
 <m id="m-ln95041-090-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <LM>w#w-ln95041-090-p2s1Bw22</LM>
 </w.rf>
 <form>šesti</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-P6----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-ln95041-090-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <form>PASNet</form>
 <tag>
 <AM lemma="PASNet_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PASNet_:B_;m" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="PASNet_;m" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95041-090-p2s2w8">
@@ -439,7 +439,7 @@
 <LM>w#w-ln95041-090-p2s3w2</LM>
 </w.rf>
 <form>jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClIS4----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnIS4----------</tag>
 </m>
 <m id="m-ln95041-090-p2s3w3">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <form>PASNet</form>
 <tag>
 <AM lemma="PASNet_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PASNet_:B_;m" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="PASNet_;m" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95041-090-p3s1w2">
@@ -880,7 +880,7 @@
 <LM>w#w-ln95041-090-p3s3w2</LM>
 </w.rf>
 <form>jedné</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS6----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS6----------</tag>
 </m>
 <m id="m-ln95041-090-p3s3w3">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-ln95041-090-p3s4w2</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95041-090-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1142,7 +1142,7 @@
 <form>PASNet</form>
 <tag>
 <AM lemma="PASNet_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PASNet_:B_;m" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="PASNet_;m" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95041-090-p4s1w2">
@@ -1207,7 +1207,7 @@
 <LM>w#w-ln95041-090-p4s1w10</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95041-090-p4s1w11">
 <src.rf>manual</src.rf>

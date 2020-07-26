@@ -89,7 +89,7 @@
 <LM>w#w-ln94203-23-p1s1w9</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="IRA-1_;m_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94203-23-p1s1w10">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-ln94203-23-p2s1Bw5</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="IRA-1_;m_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94203-23-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-ln94203-23-p2s3w7</LM>
 </w.rf>
 <form>si</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X3----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--3----------</tag>
 </m>
 <m id="m-ln94203-23-p2s3w8">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-ln94203-23-p2s3w24</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="IRA-1_;m_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94203-23-p2s3w25">
 <src.rf>manual</src.rf>
@@ -912,7 +912,7 @@
 <LM>w#w-ln94203-23-p2s4w1</LM>
 </w.rf>
 <form>Oba</form>
-<tag lemma="oba`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-ln94203-23-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1357,7 +1357,7 @@
 <LM>w#w-ln94203-23-p3s2w16</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="IRA-1_;m_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94203-23-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1671,7 +1671,7 @@
 <LM>w#w-ln94203-23-p4s1w32</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94203-23-p4s1w33">
 <src.rf>manual</src.rf>

@@ -859,7 +859,7 @@
 <LM>w#w-ln94210-65-p3s4w5</LM>
 </w.rf>
 <form>obě</form>
-<tag lemma="oba`2" src="orig" selected="1">ClHP4----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnHP4----------</tag>
 </m>
 <m id="m-ln94210-65-p3s4w6">
 <src.rf>manual</src.rf>

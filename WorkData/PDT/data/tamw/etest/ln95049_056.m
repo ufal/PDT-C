@@ -183,7 +183,7 @@
 <LM>w#w-ln95049-056-p2s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSIS4FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-ln95049-056-p2s2w2">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-ln95049-056-p2s2w4</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-ln95049-056-p2s2w5">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-ln95049-056-p3s2w8</LM>
 </w.rf>
 <form>navržena</form>
-<tag lemma="navrhnout" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VsQW----X-AP---</tag>
 </m>
 <m id="m-ln95049-056-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1039,7 +1039,7 @@
 <LM>w#w-ln95049-056-p4s1w13</LM>
 </w.rf>
 <form>Alenka</form>
-<tag lemma="Alenka_;Y_^(^DI*2)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Alenka_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-056-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1502,7 +1502,7 @@
 <LM>w#w-ln95049-056-p5s2w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSZS1FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln95049-056-p5s2w10">
 <src.rf>manual</src.rf>
@@ -1670,7 +1670,7 @@
 <tag>
 <AM lemma="mlk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mlknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
-<AM lemma="mlk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mlk-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-056-p5s3w3">

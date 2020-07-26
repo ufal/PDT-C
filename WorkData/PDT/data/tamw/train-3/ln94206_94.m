@@ -813,7 +813,7 @@
 <LM>w#w-ln94206-94-p2s5w5</LM>
 </w.rf>
 <form>šicí</form>
-<tag lemma="šicí_^(^IC*3ít)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="šicí" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94206-94-p2s5w6">
 <src.rf>manual</src.rf>

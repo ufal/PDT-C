@@ -70,7 +70,7 @@
 <LM>w#w-ln95047-106-p1s1w7</LM>
 </w.rf>
 <form>milióny</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIP4----------</tag>
 </m>
 </s>
 <s id="m-ln95047-106-p2s1A">
@@ -266,7 +266,7 @@
 <LM>w#w-ln95047-106-p2s1Bw22</LM>
 </w.rf>
 <form>čtyř</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln95047-106-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-ln95047-106-p2s1Bw23</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 <m id="m-ln95047-106-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -930,7 +930,7 @@
 <form>vázáni</form>
 <tag>
 <AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="vázat_:T_^(např._provazem;_se_k_čemu)" src="manual" selected="1">VsMP---XX-AP---</AM>
+<AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="manual" selected="1">VsMP----X-API--</AM>
 </tag>
 </m>
 <m id="m-ln95047-106-p2s5w11">

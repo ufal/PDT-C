@@ -54,7 +54,7 @@
 </w.rf>
 <form>pet</form>
 <tag>
-<AM lemma="pet-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="pet-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="pet_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
 </tag>
 </m>

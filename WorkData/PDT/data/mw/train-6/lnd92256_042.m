@@ -63,7 +63,7 @@
 <form>jku</form>
 <tag>
 <AM lemma="jku-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jku-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jku-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-042-p2s1w4">
@@ -358,7 +358,7 @@
 <LM>w#w-lnd92256-042-p2s4w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92256-042-p2s4w3">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <LM>w#w-lnd92256-042-p2s4w4</LM>
 </w.rf>
 <form>zastavily</form>
-<tag lemma="zastavit-1_:W_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-042-p2s4w5">
 <src.rf>manual</src.rf>
@@ -443,7 +443,7 @@
 <form>JAMU</form>
 <tag>
 <AM lemma="JAMU_:B_;m_^(Janáčkova_akademie_múzických_umění)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JAMU_:B_;m_^(Janáčkova_akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JAMU_;m_^(Janáčkova_akademie_múzických_umění)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-042-p2s4w13">
@@ -691,7 +691,7 @@
 <LM>w#w-lnd92256-042-p2s6w6</LM>
 </w.rf>
 <form>padesát</form>
-<tag lemma="padesát`50" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="padesát`50" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-lnd92256-042-p2s6w7">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-lnd92256-042-p2s6w12</LM>
 </w.rf>
 <form>sedmdesát</form>
-<tag lemma="sedmdesát`70" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="sedmdesát`70" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-lnd92256-042-p2s6w13">
 <src.rf>manual</src.rf>
@@ -758,7 +758,7 @@
 <LM>w#w-lnd92256-042-p2s6w14</LM>
 </w.rf>
 <form>devadesát</form>
-<tag lemma="devadesát`90" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="devadesát`90" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-lnd92256-042-p2s6w15">
 <src.rf>manual</src.rf>
@@ -817,7 +817,7 @@
 <LM>w#w-lnd92256-042-p2s6w21</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92256-042-p2s6w22">
 <src.rf>manual</src.rf>

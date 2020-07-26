@@ -334,7 +334,7 @@
 <LM>w#w-lnd94101-068-p1s3w4</LM>
 </w.rf>
 <form>jedú</form>
-<tag lemma="jedú_,t" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="jedú" src="orig" selected="1">VB-P---3P-AA---</tag>
 </m>
 <m id="m-lnd94101-068-p1s3w5">
 <src.rf>manual</src.rf>

@@ -163,7 +163,7 @@
 <LM>w#w-lnd91301-067-p1s1w17</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_:W_^(něco_sobě/někomu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-067-p1s1w18">
 <src.rf>manual</src.rf>

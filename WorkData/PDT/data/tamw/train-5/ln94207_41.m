@@ -80,7 +80,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-41-p1s1w9">
@@ -246,7 +246,7 @@
 <LM>w#w-ln94207-41-p2s1w14</LM>
 </w.rf>
 <form>nebydlí</form>
-<tag lemma="bydlet_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln94207-41-p2s1w15">
 <src.rf>manual</src.rf>
@@ -968,7 +968,7 @@
 <LM>w#w-ln94207-41-p3s2w9</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94207-41-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1361,7 +1361,7 @@
 <form>apod</form>
 <tag>
 <AM lemma="apod_:B_^(a_podobně)" src="auto">Db------------8</AM>
-<AM lemma="apod_:B_^(a_podobně)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="apod_^(a_podobně)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-41-p4s2w18">
@@ -1380,7 +1380,7 @@
 <LM>w#w-ln94207-41-p4s3w1</LM>
 </w.rf>
 <form>Nemohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NA--1</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m-ln94207-41-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <form>čemkoliv</form>
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--6----------</AM>
-<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--6---------1</AM>
+<AM lemma="cokoliv" src="auto" recommended="1" selected="1">PK--6----------</AM>
 </tag>
 </m>
 <m id="m-ln94207-41-p4s3w6">
@@ -1547,7 +1547,7 @@
 <LM>w#w-ln94207-41-p4s5w1</LM>
 </w.rf>
 <form>Nemohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NA--1</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m-ln94207-41-p4s5w2">
 <src.rf>manual</src.rf>
@@ -1613,7 +1613,7 @@
 <LM>w#w-ln94207-41-p4s6w1</LM>
 </w.rf>
 <form>Nemohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NA--1</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m-ln94207-41-p4s6w2">
 <src.rf>manual</src.rf>

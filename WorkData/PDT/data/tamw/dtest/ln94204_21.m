@@ -149,7 +149,7 @@
 <form>NORD</form>
 <tag>
 <AM lemma="Nord_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="NORD-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Nord-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-21-p2s1w16">
@@ -402,7 +402,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-21-p2s1w46">

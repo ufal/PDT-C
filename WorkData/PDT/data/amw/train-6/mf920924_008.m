@@ -61,7 +61,7 @@
 <LM>w#w-mf920924-008-p1s1Bw3</LM>
 </w.rf>
 <form>lík</form>
-<tag lemma="lík-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="lík-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-mf920924-008-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <LM>w#w-mf920924-008-p1s1Cw2</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf920924-008-p1s1Cw3">
 <src.rf>manual</src.rf>

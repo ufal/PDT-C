@@ -69,7 +69,7 @@
 <LM>w#w-mf930701-014-p2s1w3</LM>
 </w.rf>
 <form>Čtyři</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-mf930701-014-p2s1w4">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-mf930701-014-p2s2w5</LM>
 </w.rf>
 <form>sedmnácti</form>
-<tag lemma="sedmnáct`17" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="sedmnáct`17" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf930701-014-p2s2w6">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-mf930701-014-p2s2w7</LM>
 </w.rf>
 <form>sedmadvaceti</form>
-<tag lemma="sedmadvacet`27" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="sedmadvacet`27" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf930701-014-p2s2w8">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-mf930701-014-p2s2w12</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP6----------</tag>
 </m>
 <m id="m-mf930701-014-p2s2w13">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <LM>w#w-mf930701-014-p2s4w8</LM>
 </w.rf>
 <form>čtyři</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-mf930701-014-p2s4w9">
 <src.rf>manual</src.rf>

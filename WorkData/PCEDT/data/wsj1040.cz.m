@@ -29,7 +29,7 @@
 <form>ONEIDA</form>
 <tag>
 <AM lemma="Oneida_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="ONEIDA-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Oneida-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1040-001-p1s0W3-Ta">
@@ -38,7 +38,7 @@
 <LM>w#w-wsj1040-001-p1s0W3</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag lemma="Ltd-77" src="auto" recommended="1">B%-------------</tag>
 </m>
 <m id="m-wsj1040-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -640,7 +640,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1041,7 +1041,7 @@
 </w.rf>
 <form>milionu</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIS2----------</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -1359,7 +1359,7 @@
 <LM>w#w-wsj1040-001-p1s5W20</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="auto" recommended="1">J^-------------</tag>
+<tag lemma="tj-1_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
 </m>
 <m id="m-wsj1040-001-p1s5W21-Ta">
 <src.rf>tagger-a</src.rf>

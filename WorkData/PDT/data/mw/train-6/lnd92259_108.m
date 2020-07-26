@@ -20,7 +20,7 @@
 </w.rf>
 <form>Pěti</form>
 <tag>
-<AM lemma="pět-1`5" src="orig" selected="1">A2--------A----</AM>
+<AM lemma="pět-1`5" src="orig" selected="1">S2--------A----</AM>
 <AM lemma="pět-2_^(zpívat)" src="auto">Vf--------A-I-2</AM>
 <AM lemma="pět-1`5" src="auto">Cn-P2----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-P3----------</AM>

@@ -382,7 +382,7 @@
 <LM>w#w-wsj2434-001-p1s1W8</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj2434-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -439,7 +439,7 @@
 <form>jakýmkoliv</form>
 <tag>
 <AM lemma="jakýkoli" src="auto">PZXP3---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZZS7---------1</AM>
+<AM lemma="jakýkoliv" src="auto" recommended="1">PZZS7----------</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W13-Ta">
@@ -914,7 +914,7 @@
 <form>jakoukoliv</form>
 <tag>
 <AM lemma="jakýkoli" src="auto">PZFS4---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS7---------1</AM>
+<AM lemma="jakýkoliv" src="auto" recommended="1">PZFS7----------</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W53-Ta">
@@ -1347,7 +1347,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>

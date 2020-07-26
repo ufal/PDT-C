@@ -180,7 +180,7 @@
 <LM>w#w-mf930708-032-p1s2w4</LM>
 </w.rf>
 <form>zasaženi</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsMP----X-AP---</tag>
 </m>
 <m id="m-mf930708-032-p1s2w5">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-mf930708-032-p1s4w15</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-032-p1s4w16">
 <src.rf>manual</src.rf>

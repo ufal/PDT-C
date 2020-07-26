@@ -35,7 +35,7 @@
 <LM>w#w-ln95041-014-p1s1w3</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP6----------</tag>
 </m>
 <m id="m-ln95041-014-p1s1w4">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-ln95041-014-p1s1w4</LM>
 </w.rf>
 <form>třetinách</form>
-<tag lemma="třetina" src="orig" selected="1">CyFP6----------</tag>
+<tag lemma="třetina" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln95041-014-p1s1w5">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-ln95041-014-p1s2w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95041-014-p1s2w2">
 <src.rf>manual</src.rf>

@@ -21,7 +21,7 @@
 <form>US</form>
 <tag>
 <AM lemma="US-1_:B_;m_,t_^(letecká_společnost_Usair)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="US-2_:B_^(americký)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="US-2_^(americký)" src="manual" selected="1">BAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-095-p1s1w2">
@@ -32,7 +32,7 @@
 <form>OPEN</form>
 <tag>
 <AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
-<AM lemma="OPEN-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-095-p1s1w3">
@@ -185,7 +185,7 @@
 <LM>w#w-lnd92251-095-p1s1w21</LM>
 </w.rf>
 <form>tištěn</form>
-<tag lemma="tisknout" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="tisknout" src="orig" selected="1">VsYS----X-AP---</tag>
 </m>
 <m id="m-lnd92251-095-p1s1w22">
 <src.rf>manual</src.rf>

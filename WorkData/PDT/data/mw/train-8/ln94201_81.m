@@ -62,7 +62,7 @@
 </w.rf>
 <form>pol</form>
 <tag>
-<AM lemma="pol-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="pol-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="politický_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="polohový_:B" src="auto">AAXXX----1A---8</AM>
@@ -165,7 +165,7 @@
 <LM>w#w-ln94201-81-p2s1w15</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP2----------</tag>
 </m>
 <m id="m-ln94201-81-p2s1w16">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-ln94201-81-p2s4w2</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="MS-5_;m_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---b</tag>
 </m>
 <m id="m-ln94201-81-p2s4w3">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-ln94201-81-p2s6w8</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94201-81-p2s6w9">
 <src.rf>manual</src.rf>

@@ -65,7 +65,7 @@
 <form>SAN</form>
 <tag>
 <AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="SAN-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-065-p3s1w2">
@@ -76,7 +76,7 @@
 <form>SALVADOR</form>
 <tag>
 <AM lemma="Salvador_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="SALVADOR-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Salvador-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-065-p3s1w3">
@@ -280,7 +280,7 @@
 <LM>w#w-lnd92255-065-p3s3w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-065-p3s3w5">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-lnd92255-065-p3s3w13</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd92255-065-p3s3w14">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 <LM>w#w-lnd92255-065-p3s4w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92255-065-p3s4w5">
 <src.rf>manual</src.rf>

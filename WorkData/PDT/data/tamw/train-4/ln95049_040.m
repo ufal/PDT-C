@@ -341,7 +341,7 @@
 <LM>w#w-ln95049-040-p2s2w8</LM>
 </w.rf>
 <form>ním</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS7--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS7--3------1</tag>
 </m>
 <m id="m-ln95049-040-p2s2w9">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <LM>w#w-ln95049-040-p2s5w24</LM>
 </w.rf>
 <form>kanadsko</form>
-<tag lemma="kanadský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="kanadský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95049-040-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1043,7 +1043,7 @@
 <form>bra</form>
 <tag>
 <AM lemma="bra-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bra-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bra-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-040-p2s6Bw3">

@@ -228,7 +228,7 @@
 <LM>w#w-ln94207-96-p2s3w14</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vypadat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-96-p2s3w15">
 <src.rf>manual</src.rf>
@@ -1200,7 +1200,7 @@
 <LM>w#w-ln94207-96-p5s3w1</LM>
 </w.rf>
 <form>Přeložili</form>
-<tag lemma="přeložit-3_:W_^(z_jazyka)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94207-96-p5s3w2">
 <src.rf>manual</src.rf>
@@ -1439,7 +1439,7 @@
 <LM>w#w-ln94207-96-p6s6w5</LM>
 </w.rf>
 <form>pěti</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="pět-1`5" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln94207-96-p6s6w6">
 <src.rf>manual</src.rf>

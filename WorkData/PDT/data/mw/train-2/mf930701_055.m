@@ -35,7 +35,7 @@
 <LM>w#w-mf930701-055-p1s1w3</LM>
 </w.rf>
 <form>EKOL</form>
-<tag lemma="Ekol_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="Ekol_;m" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-mf930701-055-p1s1w4">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <form>Joe</form>
 <tag>
 <AM lemma="Joe_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Joe_;Y_,t" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Joe_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Joe_;Y_,t" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>

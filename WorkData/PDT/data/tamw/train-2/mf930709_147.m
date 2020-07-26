@@ -777,7 +777,7 @@
 <LM>w#w-mf930709-147-p2s4w2</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="orig" selected="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS4--3-------</tag>
 </m>
 <m id="m-mf930709-147-p2s4w3">
 <src.rf>manual</src.rf>

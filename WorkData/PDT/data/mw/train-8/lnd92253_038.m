@@ -35,7 +35,7 @@
 <LM>w#w-lnd92253-038-p1s1w3</LM>
 </w.rf>
 <form>Deset</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="deset`10" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-lnd92253-038-p1s1w4">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <LM>w#w-lnd92253-038-p1s3w1</LM>
 </w.rf>
 <form>Tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-lnd92253-038-p1s3w2">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-lnd92253-038-p1s3w12</LM>
 </w.rf>
 <form>libanonsko</form>
-<tag lemma="libanonský" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="libanonský" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92253-038-p1s3w13">
 <src.rf>manual</src.rf>
@@ -567,7 +567,7 @@
 <LM>w#w-lnd92253-038-p1s4w4</LM>
 </w.rf>
 <form>jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClYS1----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnYS1----------</tag>
 </m>
 <m id="m-lnd92253-038-p1s4w5">
 <src.rf>manual</src.rf>

@@ -109,7 +109,7 @@
 <LM>w#w-ln95041-049-p2s1w7</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95041-049-p2s1w8">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-ln95041-049-p2s2w8</LM>
 </w.rf>
 <form>paedagogika</form>
-<tag lemma="paedagogika_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="paedagogika_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95041-049-p2s2w9">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-ln95041-049-p2s4w12</LM>
 </w.rf>
 <form>čtyřech</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="čtyři`4" src="orig" selected="1">Cl-P6----------</tag>
 </m>
 <m id="m-ln95041-049-p2s4w13">
 <src.rf>manual</src.rf>

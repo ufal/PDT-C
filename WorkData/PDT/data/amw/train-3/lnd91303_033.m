@@ -92,7 +92,7 @@
 <form>fsch</form>
 <tag>
 <AM lemma="fsch-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="fsch-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fsch-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-033-p3s1Aw4">
@@ -111,7 +111,7 @@
 <form>mlp</form>
 <tag>
 <AM lemma="mlp-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mlp-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mlp-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-033-p3s1Aw6">
@@ -666,7 +666,7 @@
 <LM>w#w-lnd91303-033-p3s2w26</LM>
 </w.rf>
 <form>nim</form>
-<tag lemma="on-1" src="orig" selected="1">P5XP3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP3--3------1</tag>
 </m>
 <m id="m-lnd91303-033-p3s2w27">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-lnd91303-033-p4s1w5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd91303-033-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1540,7 +1540,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-033-p4s3w75">
@@ -1605,7 +1605,7 @@
 <LM>w#w-lnd91303-033-p4s3w82</LM>
 </w.rf>
 <form>nějž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9ZS2---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2---------2</tag>
 </m>
 <m id="m-lnd91303-033-p4s3w83">
 <src.rf>manual</src.rf>
@@ -1613,7 +1613,7 @@
 <LM>w#w-lnd91303-033-p4s3w83</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd91303-033-p4s3w84">
 <src.rf>manual</src.rf>

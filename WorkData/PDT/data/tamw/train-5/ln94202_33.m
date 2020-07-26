@@ -143,7 +143,7 @@
 <LM>w#w-ln94202-33-p2s1Bw12</LM>
 </w.rf>
 <form>sedm</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="sedm`7" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94202-33-p2s1Bw13">
 <src.rf>manual</src.rf>

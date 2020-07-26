@@ -29,7 +29,7 @@
 <form>FIRST</form>
 <tag>
 <AM lemma="FIRST" src="auto">X@-------------</AM>
-<AM lemma="FIRST-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="First-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0270-001-p1s0W3-Ta">
@@ -41,7 +41,7 @@
 <tag>
 <AM lemma="American-1_;m_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="AMERICAN-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0270-001-p1s0W4-Ta">
@@ -52,7 +52,7 @@
 <form>FINANCIAL</form>
 <tag>
 <AM lemma="FINANCIAL" src="auto">X@-------------</AM>
-<AM lemma="FINANCIAL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0270-001-p1s0W5-Ta">
@@ -140,7 +140,7 @@
 <LM>w#w-wsj0270-001-p1s0W11</LM>
 </w.rf>
 <form>jednu</form>
-<tag lemma="jeden`1" src="auto" recommended="1">ClFS4----------</tag>
+<tag lemma="jeden`1" src="auto" recommended="1">CnFS4----------</tag>
 </m>
 <m id="m-wsj0270-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -950,7 +950,7 @@
 <form>nichž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9XP2----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P9XP6----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP6----------</AM>
 </tag>
 </m>
 <m id="m-wsj0270-001-p1s1W29-Ta">

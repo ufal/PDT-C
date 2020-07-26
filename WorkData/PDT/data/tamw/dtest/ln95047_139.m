@@ -316,7 +316,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-139-p2s1Bw32">
@@ -823,7 +823,7 @@
 <LM>w#w-ln95047-139-p4s1w6</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95047-139-p4s1w7">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-139-p4s1w9">
@@ -918,7 +918,7 @@
 <AM lemma="Servus_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="servus" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="servus_,h_,s" src="auto">II-------------</AM>
-<AM lemma="servus_,t" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="servus" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-139-p4s1w18">

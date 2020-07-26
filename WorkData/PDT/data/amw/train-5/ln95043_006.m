@@ -115,7 +115,7 @@
 <LM>w#w-ln95043-006-p1s1w13</LM>
 </w.rf>
 <form>Lok</form>
-<tag lemma="Lokomotiva_:B_;m_^(sport.:_souč._názvu_klubu)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Lokomotiva_;m_^(sport.:_souč._názvu_klubu)" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln95043-006-p1s1w14">
 <src.rf>manual</src.rf>

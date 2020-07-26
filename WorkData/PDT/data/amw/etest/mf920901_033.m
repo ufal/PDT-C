@@ -85,7 +85,7 @@
 <LM>w#w-mf920901-033-p2s1w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920901-033-p2s1w7">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-mf920901-033-p2s2w8</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="st-1_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">BNIXX-----A----</tag>
 </m>
 <m id="m-mf920901-033-p2s2w9">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-mf920901-033-p2s2w20</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="st-1_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">BNIXX-----A----</tag>
 </m>
 <m id="m-mf920901-033-p2s2w21">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-mf920901-033-p2s4w5</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="st-1_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">BNIXX-----A----</tag>
 </m>
 <m id="m-mf920901-033-p2s4w6">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -538,7 +538,7 @@
 <LM>w#w-mf920901-033-p2s4w13</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="st-1_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">BNIXX-----A----</tag>
 </m>
 <m id="m-mf920901-033-p2s4w14">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -637,7 +637,7 @@
 <LM>w#w-mf920901-033-p2s6w8</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda_:B" src="orig" selected="1">NNFXX-----A---1</tag>
+<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
 </m>
 <m id="m-mf920901-033-p2s6w9">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -758,7 +758,7 @@
 <LM>w#w-mf920901-033-p2s6w22</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda_:B" src="orig" selected="1">NNFXX-----A---1</tag>
+<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
 </m>
 <m id="m-mf920901-033-p2s6w23">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-mf920901-033-p2s7w3</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="SR-1_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920901-033-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1002,7 +1002,7 @@
 <LM>w#w-mf920901-033-p3s1w9</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920901-033-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1058,7 +1058,7 @@
 <LM>w#w-mf920901-033-p3s1w16</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920901-033-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1140,7 +1140,7 @@
 <LM>w#w-mf920901-033-p3s2w9</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920901-033-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1196,7 +1196,7 @@
 <LM>w#w-mf920901-033-p3s2w16</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920901-033-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1255,7 +1255,7 @@
 <LM>w#w-mf920901-033-p4s1w6</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="st-1_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">BNIXX-----A----</tag>
 </m>
 <m id="m-mf920901-033-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1287,7 +1287,7 @@
 <LM>w#w-mf920901-033-p4s1w10</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="rok" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf920901-033-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1336,7 +1336,7 @@
 <LM>w#w-mf920901-033-p4s1w16</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="st-1_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">BNIXX-----A----</tag>
 </m>
 <m id="m-mf920901-033-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1368,7 +1368,7 @@
 <LM>w#w-mf920901-033-p4s1w20</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="rok" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf920901-033-p4s1w21">
 <src.rf>manual</src.rf>

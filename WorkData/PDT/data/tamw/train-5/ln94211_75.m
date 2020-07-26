@@ -752,7 +752,7 @@
 <LM>w#w-ln94211-75-p2s6w10</LM>
 </w.rf>
 <form>sobě</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P6-X6----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P6--6----------</tag>
 </m>
 <m id="m-ln94211-75-p2s6w11">
 <src.rf>manual</src.rf>

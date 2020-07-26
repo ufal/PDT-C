@@ -29,7 +29,7 @@
 <form>FREDERICK</form>
 <tag>
 <AM lemma="Frederick_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="FREDERICK-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Frederick-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1864-001-p1s0W3-Ta">
@@ -74,7 +74,7 @@
 <AM lemma="OF-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Of-77" src="auto">F%-------------</AM>
 <AM lemma="of-77_,t" src="auto">F%-------------</AM>
-<AM lemma="OF-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Of-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1864-001-p1s0W6-Ta">
@@ -86,7 +86,7 @@
 <tag>
 <AM lemma="Hollywood_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hollywood_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="HOLLYWOOD-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hollywood-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1864-001-p1s0W7-Ta">
@@ -188,7 +188,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS1FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -344,7 +344,7 @@
 <tag>
 <AM lemma="pět-2_^(zpívat)" src="auto">Vf--------A-I--</AM>
 <AM lemma="pět-1`5" src="auto">Cn-S1----------</AM>
-<AM lemma="pět-1`5" src="auto" recommended="1">Cn-S4----------</AM>
+<AM lemma="pět-1`5" src="auto" recommended="1">Cl-S4----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-S5----------</AM>
 </tag>
 </m>

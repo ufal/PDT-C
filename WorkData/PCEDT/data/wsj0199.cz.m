@@ -524,7 +524,7 @@
 <form>čtvrtině</form>
 <tag>
 <AM lemma="čtvrtina" src="auto">CyFS3----------</AM>
-<AM lemma="čtvrtina" src="auto" recommended="1">CyFS6----------</AM>
+<AM lemma="čtvrtina" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0199-001-p1s2W15-Ta">

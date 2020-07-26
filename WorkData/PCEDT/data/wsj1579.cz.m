@@ -178,7 +178,7 @@
 <LM>w#w-wsj1579-001-p1s0W16</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj1579-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>

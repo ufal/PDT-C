@@ -131,7 +131,7 @@
 <LM>w#w-ln95040-056-p1s1w15</LM>
 </w.rf>
 <form>devatenáct</form>
-<tag lemma="devatenáct`19" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="devatenáct`19" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-ln95040-056-p1s1w16">
 <src.rf>manual</src.rf>

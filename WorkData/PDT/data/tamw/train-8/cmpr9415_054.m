@@ -19,7 +19,7 @@
 <LM>w#w-cmpr9415-054-p2s1w1</LM>
 </w.rf>
 <form>Kolik</form>
-<tag lemma="kolik" src="orig" selected="1">C?--4----------</tag>
+<tag lemma="kolik" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-cmpr9415-054-p2s1w2">
 <src.rf>manual</src.rf>

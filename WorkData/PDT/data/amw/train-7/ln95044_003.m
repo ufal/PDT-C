@@ -263,7 +263,7 @@
 <LM>w#w-ln95044-003-p2s1Bw24</LM>
 </w.rf>
 <form>mm</form>
-<tag lemma="mm-1`milimetr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="mm-1`milimetr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-ln95044-003-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -1063,7 +1063,7 @@
 <LM>w#w-ln95044-003-p3s1w22</LM>
 </w.rf>
 <form>zaváděcí</form>
-<tag lemma="zaváděcí_^(^IC*2t)" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="zaváděcí" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95044-003-p3s1w23">
 <src.rf>manual</src.rf>

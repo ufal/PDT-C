@@ -610,7 +610,7 @@
 <LM>w#w-mf930713-077-p3s1w21</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-mf930713-077-p3s1w22">
 <src.rf>manual</src.rf>

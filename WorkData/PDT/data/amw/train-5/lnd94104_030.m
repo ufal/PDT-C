@@ -27,7 +27,7 @@
 <LM>w#w-lnd94104-030-p1s1w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd94104-030-p1s1w3">
 <src.rf>manual</src.rf>
@@ -83,7 +83,7 @@
 <LM>w#w-lnd94104-030-p1s1w9</LM>
 </w.rf>
 <form>napjatou</form>
-<tag lemma="napjatý_,x_^(*4nout)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="napjatý_^(*4nout)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd94104-030-p1s1w10">
 <src.rf>manual</src.rf>

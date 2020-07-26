@@ -177,7 +177,7 @@
 <LM>w#w-ln95047-108-p1s2w8</LM>
 </w.rf>
 <form>pytlíků</form>
-<tag lemma="pytlík-1_^(^DI*3el)" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="pytlík-1" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95047-108-p1s2w9">
 <src.rf>manual</src.rf>

@@ -65,7 +65,7 @@
 <AM lemma="ha-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ha-1`hektar_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ha-2" src="auto">II-------------</AM>
-<AM lemma="ha-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ha-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-143-p2s1w4">
@@ -92,7 +92,7 @@
 <LM>w#w-lnd92258-143-p2s2w1</LM>
 </w.rf>
 <form>Dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-lnd92258-143-p2s2w2">
 <src.rf>manual</src.rf>
@@ -100,7 +100,7 @@
 <LM>w#w-lnd92258-143-p2s2w2</LM>
 </w.rf>
 <form>tisíce</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIP1----------</tag>
 </m>
 <m id="m-lnd92258-143-p2s2w3">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-lnd92258-143-p2s6w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92258-143-p2s6w4">
 <src.rf>manual</src.rf>

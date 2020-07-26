@@ -249,7 +249,7 @@
 <LM>w#w-lnd94104-035-p1s4w15</LM>
 </w.rf>
 <form>pěti</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-P7----------</tag>
+<tag lemma="pět-1`5" src="orig" selected="1">Cl-P7----------</tag>
 </m>
 <m id="m-lnd94104-035-p1s4w16">
 <src.rf>manual</src.rf>

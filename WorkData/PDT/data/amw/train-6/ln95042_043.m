@@ -101,7 +101,7 @@
 <LM>w#w-ln95042-043-p2s1Bw4</LM>
 </w.rf>
 <form>kdo</form>
-<tag lemma="kdo" src="orig" selected="1">PKM-1----------</tag>
+<tag lemma="kdo" src="orig" selected="1">PQ--1----------</tag>
 </m>
 <m id="m-ln95042-043-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>remizoval</form>
-<tag lemma="remizovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="remizovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-043-p2s2w7">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-ln95042-043-p2s4w5</LM>
 </w.rf>
 <form>mu</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
 </m>
 <m id="m-ln95042-043-p2s4w6">
 <src.rf>manual</src.rf>

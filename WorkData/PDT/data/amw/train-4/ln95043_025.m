@@ -78,7 +78,7 @@
 <LM>w#w-ln95043-025-p2s1Aw3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95043-025-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-ln95043-025-p2s1Cw11</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_:B_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-ln95043-025-p2s1Cw12">
 <src.rf>manual</src.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-ln95043-025-p2s1Cw16</LM>
 </w.rf>
 <form>přeložen</form>
-<tag lemma="přeložit-1_:W_^(přemístit)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přeložit-1_^(přemístit)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95043-025-p2s1Cw17">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-ln95043-025-p2s3w13</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln95043-025-p2s3w14">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-ln95043-025-p2s3w23</LM>
 </w.rf>
 <form>setin</form>
-<tag lemma="setina" src="orig" selected="1">CyFP2----------</tag>
+<tag lemma="setina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95043-025-p2s3w24">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-ln95043-025-p2s4w13</LM>
 </w.rf>
 <form>ho</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS4--3-------</tag>
 </m>
 <m id="m-ln95043-025-p2s4w14">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 <LM>w#w-ln95043-025-p2s4w19</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9ZS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS4----------</tag>
 </m>
 <m id="m-ln95043-025-p2s4w20">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <LM>w#w-ln95043-025-p2s4w25</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_:B_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-ln95043-025-p2s4w26">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <LM>w#w-ln95043-025-p2s5Aw2</LM>
 </w.rf>
 <form>sedmi</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="sedm`7" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln95043-025-p2s5Aw3">
 <src.rf>manual</src.rf>
@@ -1025,7 +1025,7 @@
 <LM>w#w-ln95043-025-p2s5Aw6</LM>
 </w.rf>
 <form>sebou</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P6-X7----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P6--7----------</tag>
 </m>
 </s>
 <s id="m-ln95043-025-p2s5B">
@@ -1043,7 +1043,7 @@
 <LM>w#w-ln95043-025-p2s5Bw2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95043-025-p2s5Bw3">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <LM>w#w-ln95043-025-p2s5Bw23</LM>
 </w.rf>
 <form>mu</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
 </m>
 <m id="m-ln95043-025-p2s5Bw24">
 <src.rf>manual</src.rf>
@@ -1291,7 +1291,7 @@
 <LM>w#w-ln95043-025-p3s1Bw4</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_:B_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-ln95043-025-p3s1Bw5">
 <src.rf>manual</src.rf>
@@ -1433,7 +1433,7 @@
 <LM>w#w-ln95043-025-p3s2w4</LM>
 </w.rf>
 <form>setiny</form>
-<tag lemma="setina" src="orig" selected="1">CyFS2----------</tag>
+<tag lemma="setina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95043-025-p3s2w5">
 <src.rf>manual</src.rf>

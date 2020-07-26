@@ -59,7 +59,7 @@
 <LM>w#w-ln94210-93-p1s1Aw6</LM>
 </w.rf>
 <form>jednoho</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS2----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS2----------</tag>
 </m>
 <m id="m-ln94210-93-p1s1Aw7">
 <src.rf>manual</src.rf>

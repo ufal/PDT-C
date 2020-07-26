@@ -167,7 +167,7 @@
 </w.rf>
 <form>kys</form>
 <tag>
-<AM lemma="kys_:B" src="orig" selected="1">AAXXX----1A---8</AM>
+<AM lemma="kys" src="orig" selected="1">AAXXX----1A---b</AM>
 <AM lemma="kys" src="auto">NNIS1-----A----</AM>
 <AM lemma="kys" src="auto">NNIS4-----A----</AM>
 <AM lemma="kyselina_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
@@ -212,7 +212,7 @@
 <LM>w#w-mf920901-019-p1s1w24</LM>
 </w.rf>
 <form>chem</form>
-<tag lemma="chemický_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag lemma="chemický" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf920901-019-p1s1w25">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-mf920901-019-p4s1w1</LM>
 </w.rf>
 <form>Tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="telefon" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf920901-019-p4s1w2">
 <src.rf>manual</src.rf>

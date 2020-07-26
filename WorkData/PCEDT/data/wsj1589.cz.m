@@ -20,7 +20,7 @@
 <AM lemma="Coca_;m" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
 <AM lemma="coca_;U_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="COCA-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1589-001-p1s0W2-Ta">
@@ -46,7 +46,7 @@
 <AM lemma="Colo_;m" src="auto">NNNP5-----A----</AM>
 <AM lemma="Colo_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
-<AM lemma="COLA-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1589-001-p1s0W4-Ta">

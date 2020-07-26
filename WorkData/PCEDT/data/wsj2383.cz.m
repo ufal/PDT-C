@@ -60,7 +60,7 @@
 <AM lemma="Asko_;m" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Asko_;m" src="auto">NNNS4-----A----</AM>
 <AM lemma="Asko_;m" src="auto">NNNS5-----A----</AM>
-<AM lemma="ASKO-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Asko-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2383-001-p1s0W4-Ta">
@@ -367,7 +367,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -918,7 +918,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -1008,7 +1008,7 @@
 <LM>w#w-wsj2383-001-p1s2W4</LM>
 </w.rf>
 <form>napadeny</form>
-<tag lemma="napadnout" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="napadnout" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj2383-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2255,7 +2255,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
@@ -2266,7 +2266,7 @@
 <LM>w#w-wsj2383-001-p1s6W3</LM>
 </w.rf>
 <form>myslelo</form>
-<tag lemma="myslet" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="myslet" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj2383-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2509,7 +2509,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXZS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>

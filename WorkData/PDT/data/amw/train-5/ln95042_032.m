@@ -405,7 +405,7 @@
 <LM>w#w-ln95042-032-p2s4w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95042-032-p2s4w2">
 <src.rf>manual</src.rf>

@@ -73,7 +73,7 @@
 <LM>w#w-lnd91303-030-p4s1w2</LM>
 </w.rf>
 <form>školicího</form>
-<tag lemma="školicí_^(^IC*2t)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="školicí" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-lnd91303-030-p4s1w3">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-030-p4s2w12">
@@ -850,7 +850,7 @@
 <LM>w#w-lnd91303-030-p4s5w9</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd91303-030-p4s5w10">
 <src.rf>manual</src.rf>

@@ -59,7 +59,7 @@
 <LM>w#w-mf920902-009-p1s1Aw6</LM>
 </w.rf>
 <form>tnt</form>
-<tag lemma="tnt-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="tnt-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-mf920902-009-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-mf920902-009-p1s2w8</LM>
 </w.rf>
 <form>patnácti</form>
-<tag lemma="patnáct`15" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="patnáct`15" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf920902-009-p1s2w9">
 <src.rf>manual</src.rf>

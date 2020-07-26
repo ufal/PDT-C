@@ -290,7 +290,7 @@
 <LM>w#w-ln95045-052-p2s1Bw26</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95045-052-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -602,7 +602,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-052-p2s2w32">
@@ -815,7 +815,7 @@
 <form>SR</form>
 <tag>
 <AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SR-1_;G_^(Slovenská_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-052-p3s1w25">
@@ -882,7 +882,7 @@
 <LM>w#w-ln95045-052-p3s2w7</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-ln95045-052-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1020,7 +1020,7 @@
 <LM>w#w-ln95045-052-p3s3w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95045-052-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1076,7 +1076,7 @@
 <LM>w#w-ln95045-052-p3s3w8</LM>
 </w.rf>
 <form>SRo</form>
-<tag lemma="SRo_:B_;m" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="SRo_;m" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-ln95045-052-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1227,7 +1227,7 @@
 <form>Sme</form>
 <tag>
 <AM lemma="Sme_;m_,t_^(noviny)" src="orig">NNXXX-----A----</AM>
-<AM lemma="Sme_;m_,t" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Sme_;m" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 <AM lemma="být" src="auto">VB-P---1P-AAI-6</AM>
 </tag>
 </m>
@@ -1791,7 +1791,7 @@
 <LM>w#w-ln95045-052-p4s3w14</LM>
 </w.rf>
 <form>něj</form>
-<tag lemma="on-1" src="orig" selected="1">P5ZS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS4--3-------</tag>
 </m>
 <m id="m-ln95045-052-p4s3w15">
 <src.rf>manual</src.rf>

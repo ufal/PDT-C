@@ -100,7 +100,7 @@
 <LM>w#w-ln94204-26-p1s1w10</LM>
 </w.rf>
 <form>šedesát</form>
-<tag lemma="šedesát`60" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="šedesát`60" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94204-26-p1s1w11">
 <src.rf>manual</src.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-ln94204-26-p1s2w2</LM>
 </w.rf>
 <form>stáčecí</form>
-<tag lemma="stáčecí_^(^IC*2t)" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="stáčecí" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94204-26-p1s2w3">
 <src.rf>manual</src.rf>
@@ -174,7 +174,7 @@
 <LM>w#w-ln94204-26-p1s2w5</LM>
 </w.rf>
 <form>šedesát</form>
-<tag lemma="šedesát`60" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="šedesát`60" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94204-26-p1s2w6">
 <src.rf>manual</src.rf>

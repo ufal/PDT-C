@@ -298,7 +298,7 @@
 <LM>w#w-lnd91301-100-p3s1w31</LM>
 </w.rf>
 <form>čehož</form>
-<tag lemma="což-1" src="orig" selected="1">PE--2----------</tag>
+<tag lemma="což-1" src="orig" selected="1">PQ--2----------</tag>
 </m>
 <m id="m-lnd91301-100-p3s1w32">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-lnd91301-100-p3s9w4</LM>
 </w.rf>
 <form>nevydaly</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-lnd91301-100-p3s9w5">
 <src.rf>manual</src.rf>

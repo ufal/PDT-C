@@ -188,7 +188,7 @@
 <LM>w#w-lnd92257-017-p3s2w13</LM>
 </w.rf>
 <form>mu</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
 </m>
 <m id="m-lnd92257-017-p3s2w14">
 <src.rf>manual</src.rf>
@@ -334,7 +334,7 @@
 <LM>w#w-lnd92257-017-p3s3w5</LM>
 </w.rf>
 <form>anesteziologicko</form>
-<tag lemma="anesteziologický" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="anesteziologický" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92257-017-p3s3w6">
 <src.rf>manual</src.rf>

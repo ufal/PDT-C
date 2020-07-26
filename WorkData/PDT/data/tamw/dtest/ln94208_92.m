@@ -323,7 +323,7 @@
 <LM>w#w-ln94208-92-p2s1w27</LM>
 </w.rf>
 <form>šesti</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="šest`6" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-ln94208-92-p2s1w28">
 <src.rf>manual</src.rf>
@@ -419,7 +419,7 @@
 <tag>
 <AM lemma="Rozladěn_;m" src="orig">NNMS1-----A----</AM>
 <AM lemma="rozladit" src="auto" recommended="1">VsYS---XX-AP---</AM>
-<AM lemma="rozladit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="rozladit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94208-92-p2s1w38">
@@ -1231,7 +1231,7 @@
 <LM>w#w-ln94208-92-p4s2w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94208-92-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <LM>w#w-ln94208-92-p4s2w12</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94208-92-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1738,7 +1738,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94208-92-p4s5Aw4">
@@ -1783,7 +1783,7 @@
 <form>iha</form>
 <tag>
 <AM lemma="iha-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="iha-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="iha-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-92-p4s5Bw3">

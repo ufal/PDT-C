@@ -29,7 +29,7 @@
 <form>ad</form>
 <tag>
 <AM lemma="adalší_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="ad-1_:B_^(a_další)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="ad-1_^(a_další)" src="manual" selected="1">BAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-110-p1s1w3">

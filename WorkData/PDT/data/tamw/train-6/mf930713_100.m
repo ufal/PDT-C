@@ -130,7 +130,7 @@
 <LM>w#w-mf930713-100-p2s1Bw9</LM>
 </w.rf>
 <form>sehnal</form>
-<tag lemma="sehnat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sehnat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-100-p2s1Bw10">
 <src.rf>manual</src.rf>

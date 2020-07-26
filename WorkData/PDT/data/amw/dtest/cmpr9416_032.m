@@ -291,7 +291,7 @@
 <LM>w#w-cmpr9416-032-p4s2w7</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="on-1_^(oni/ono)" src="orig" selected="1">PPXP4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP4--3-------</tag>
 </m>
 <m id="m-cmpr9416-032-p4s2w8">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-cmpr9416-032-p4s3w4</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9416-032-p4s3w5">
 <src.rf>manual</src.rf>

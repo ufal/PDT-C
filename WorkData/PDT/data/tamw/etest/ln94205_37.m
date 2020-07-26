@@ -420,7 +420,7 @@
 <LM>w#w-ln94205-37-p2s2w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94205-37-p2s2w3">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-ln94205-37-p2s6w4</LM>
 </w.rf>
 <form>odňat</form>
-<tag lemma="odejmout" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="odejmout" src="orig" selected="1">VsYS----X-AP---</tag>
 </m>
 <m id="m-ln94205-37-p2s6w5">
 <src.rf>manual</src.rf>

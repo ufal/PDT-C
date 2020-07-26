@@ -43,7 +43,7 @@
 <LM>w#w-ln94211-94-p1s1w4</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP2----------</tag>
 </m>
 <m id="m-ln94211-94-p1s1w5">
 <src.rf>manual</src.rf>

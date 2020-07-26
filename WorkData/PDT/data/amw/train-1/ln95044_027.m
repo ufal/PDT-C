@@ -119,7 +119,7 @@
 <LM>w#w-ln95044-027-p2s1Bw8</LM>
 </w.rf>
 <form>Ukrajinka</form>
-<tag lemma="Ukrajinka_;E_^(^FM*2ec)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ukrajinka_;E" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-027-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-ln95044-027-p2s2w7</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95044-027-p2s2w8">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-ln95044-027-p2s2w30</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln95044-027-p2s2w31">
 <src.rf>manual</src.rf>

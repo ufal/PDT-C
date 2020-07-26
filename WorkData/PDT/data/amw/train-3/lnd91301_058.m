@@ -882,7 +882,7 @@
 <LM>w#w-lnd91301-058-p4s5Bw1</LM>
 </w.rf>
 <form>Tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P4----------</tag>
 </m>
 <m id="m-lnd91301-058-p4s5Bw2">
 <src.rf>manual</src.rf>

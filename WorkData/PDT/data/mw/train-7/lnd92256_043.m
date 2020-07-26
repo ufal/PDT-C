@@ -103,7 +103,7 @@
 <LM>w#w-lnd92256-043-p3s1w3</LM>
 </w.rf>
 <form>jku</form>
-<tag lemma="jku-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jku-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-lnd92256-043-p3s1w4">
 <src.rf>manual</src.rf>
@@ -969,7 +969,7 @@
 <LM>w#w-lnd92256-043-p4s2w29</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-lnd92256-043-p4s2w30">
 <src.rf>manual</src.rf>
@@ -1398,7 +1398,7 @@
 <LM>w#w-lnd92256-043-p5s3w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd92256-043-p5s3w5">
 <src.rf>manual</src.rf>

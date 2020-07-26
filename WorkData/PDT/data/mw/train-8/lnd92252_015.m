@@ -491,7 +491,7 @@
 <LM>w#w-lnd92252-015-p3s4w15</LM>
 </w.rf>
 <form>zejí</form>
-<tag lemma="zet" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="zet" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92252-015-p3s4w16">
 <src.rf>manual</src.rf>

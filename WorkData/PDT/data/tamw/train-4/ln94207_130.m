@@ -93,7 +93,7 @@
 <LM>w#w-ln94207-130-p2s1w9</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P9ZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
 </m>
 <m id="m-ln94207-130-p2s1w10">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-130-p2s1w15">
@@ -596,7 +596,7 @@
 <LM>w#w-ln94207-130-p3s1w34</LM>
 </w.rf>
 <form>bráněno</form>
-<tag lemma="bránit_^(klást_překážky)" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="bránit_^(klást_překážky)" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-ln94207-130-p3s1w35">
 <src.rf>manual</src.rf>

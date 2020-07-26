@@ -526,7 +526,7 @@
 <LM>w#w-lnd92259-058-p1s3w14</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="číslo" src="orig" selected="1">NNNXX-----A---b</tag>
 </m>
 <m id="m-lnd92259-058-p1s3w15">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 </w.rf>
 <form>ú</form>
 <tag>
-<AM lemma="účet_:B" src="orig" selected="1">NNIXX-----A---8</AM>
+<AM lemma="účet" src="orig" selected="1">NNIXX-----A---b</AM>
 <AM lemma="ú-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="ú-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>
@@ -604,7 +604,7 @@
 <LM>w#w-lnd92259-058-p2s1w2</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria_,t_^(záliv_podobný_fjordu)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="ria_^(záliv_podobný_fjordu)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-058-p2s1w3">
 <src.rf>manual</src.rf>
@@ -656,7 +656,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 </s>

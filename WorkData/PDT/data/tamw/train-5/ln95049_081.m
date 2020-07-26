@@ -201,7 +201,7 @@
 <LM>w#w-ln95049-081-p2s1Bw15</LM>
 </w.rf>
 <form>ní</form>
-<tag lemma="on-1" src="orig" selected="1">P5FS7--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEFS7--3-------</tag>
 </m>
 <m id="m-ln95049-081-p2s1Bw16">
 <src.rf>manual</src.rf>

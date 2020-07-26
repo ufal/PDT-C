@@ -87,7 +87,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -1623,7 +1623,7 @@
 </w.rf>
 <form>jedné</form>
 <tag>
-<AM lemma="jeden`1" recommended="1">ClFS2----------</AM>
+<AM lemma="jeden`1" recommended="1">CnFS2----------</AM>
 <AM lemma="jeden`1">ClFS3----------</AM>
 <AM lemma="jeden`1">ClFS6----------</AM>
 </tag>
@@ -1634,7 +1634,7 @@
 </w.rf>
 <form>čtvrtiny</form>
 <tag>
-<AM lemma="čtvrtina" recommended="1">CyFS2----------</AM>
+<AM lemma="čtvrtina" recommended="1">NNFS2-----A----</AM>
 <AM lemma="čtvrtina">CyFP1----------</AM>
 <AM lemma="čtvrtina">CyFP4----------</AM>
 <AM lemma="čtvrtina">CyFP5----------</AM>
@@ -1850,7 +1850,7 @@
 <LM>w#w-es_19-SCzechM-p2018-s1-w16</LM>
 </w.rf>
 <form>jich</form>
-<tag lemma="on-1" recommended="1">PPXP2--3-------</tag>
+<tag lemma="on-1" recommended="1">PEXP2--3------1</tag>
 </m>
 <m id="es_19-SCzechM-p2018-s1-w17">
 <w.rf>
@@ -2638,7 +2638,7 @@
 <LM>w#w-es_19-SCzechM-p2021-s1-w31</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="es_19-SCzechM-p2021-s1-w32">
 <w.rf>
@@ -2669,7 +2669,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -2788,7 +2788,7 @@
 <form>jednoho</form>
 <tag>
 <AM lemma="jeden`1" recommended="1">ClZS2----------</AM>
-<AM lemma="jeden`1" selected="1">ClMS4----------</AM>
+<AM lemma="jeden`1" selected="1">CnMS4----------</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2026-s1-w5">
@@ -3099,7 +3099,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -3110,7 +3110,7 @@
 </w.rf>
 <form>jí</form>
 <tag>
-<AM lemma="on-1_^(ona)" recommended="1">PPFS3--3-------</AM>
+<AM lemma="on-1" recommended="1">PEFS3--3------1</AM>
 <AM lemma="jíst_^(konzumovat_jídlo)">VB-P---3P-AA---</AM>
 <AM lemma="jíst_^(konzumovat_jídlo)">VB-S---3P-AA---</AM>
 <AM lemma="on-1_^(ona)">PPFS2--3-------</AM>
@@ -3266,7 +3266,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--4----------</AM>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
 </tag>
@@ -3422,7 +3422,7 @@
 </w.rf>
 <form>si</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--3----------</AM>
 <AM lemma="být">VB-S---2P-AA--7</AM>
 </tag>
 </m>
@@ -3432,7 +3432,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="on-1_^(oni/ono)" recommended="1">PPXP4--3-------</AM>
+<AM lemma="on-1" recommended="1">PEXP4--3-------</AM>
 <AM lemma="být">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)">PPNS4--3-------</AM>
 </tag>
@@ -3884,7 +3884,7 @@
 </w.rf>
 <form>si</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--3----------</AM>
 <AM lemma="být">VB-S---2P-AA--7</AM>
 </tag>
 </m>
@@ -3894,7 +3894,7 @@
 </w.rf>
 <form>ho</form>
 <tag>
-<AM lemma="on-1" recommended="1">PHZS4--3-------</AM>
+<AM lemma="on-1" recommended="1">P5ZS4--3-------</AM>
 <AM lemma="ho">II-------------</AM>
 <AM lemma="on-1">PHZS2--3-------</AM>
 </tag>
@@ -4144,7 +4144,7 @@
 <LM>w#w-es_19-SCzechM-p2034-s1-w61</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" recommended="1">PPFS4--3-------</tag>
+<tag lemma="on-1" recommended="1">PEFS4--3-------</tag>
 </m>
 <m id="es_19-SCzechM-p2034-s1-w62">
 <w.rf>
@@ -5120,7 +5120,7 @@
 </w.rf>
 <form>obou</form>
 <tag>
-<AM lemma="oba`2" recommended="1">ClXP6----------</AM>
+<AM lemma="oba`2" recommended="1">CnXP6----------</AM>
 <AM lemma="oba`2">ClXP2----------</AM>
 </tag>
 </m>
@@ -5523,7 +5523,7 @@
 </w.rf>
 <form>jednoho</form>
 <tag>
-<AM lemma="jeden`1" recommended="1">ClZS2----------</AM>
+<AM lemma="jeden`1" recommended="1">CnZS2----------</AM>
 <AM lemma="jeden`1">ClMS4----------</AM>
 </tag>
 </m>
@@ -7634,7 +7634,7 @@
 <form>http</form>
 <tag>
 <AM lemma="HTTP-1_:B_,t_,x_^(Hypertext_transfer_protocol)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="http-1_:B_^(Hypertext_transfer_protocol)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="http-1_^(Hypertext_transfer_protocol)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w40">

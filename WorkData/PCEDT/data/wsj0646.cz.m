@@ -29,7 +29,7 @@
 <form>MEDICINE</form>
 <tag>
 <AM lemma="MEDICINE" src="auto">X@-------------</AM>
-<AM lemma="MEDICINE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Medicine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0646-001-p1s0W3-Ta">
@@ -40,7 +40,7 @@
 <form>SHOPPE</form>
 <tag>
 <AM lemma="SHOPPE" src="auto">X@-------------</AM>
-<AM lemma="SHOPPE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Shoppe-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0646-001-p1s0W4-Ta">
@@ -53,7 +53,7 @@
 <AM lemma="International-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
-<AM lemma="INTERNATIONAL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0646-001-p1s0W5-Ta">
@@ -556,7 +556,7 @@
 </w.rf>
 <form>níž</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P9FS2----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJFS2----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9FS3----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9FS6----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9FS7----------</AM>
@@ -711,7 +711,7 @@
 <form>čtyři</form>
 <tag>
 <AM lemma="čtyři`4" src="auto">ClXP1----------</AM>
-<AM lemma="čtyři`4" src="auto" recommended="1">ClXP4----------</AM>
+<AM lemma="čtyři`4" src="auto" recommended="1">Cl-P4----------</AM>
 <AM lemma="čtyři`4" src="auto">ClXP5----------</AM>
 </tag>
 </m>

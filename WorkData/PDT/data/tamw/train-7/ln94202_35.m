@@ -64,7 +64,7 @@
 <tag>
 <AM lemma="ob-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ob-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="ob-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ob-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-35-p2s1Aw4">
@@ -125,7 +125,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-35-p2s1Bw6">
@@ -134,7 +134,7 @@
 <LM>w#w-ln94202-35-p2s1Bw6</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94202-35-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-ln94202-35-p2s2w1</LM>
 </w.rf>
 <form>Jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXXP3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln94202-35-p2s2w2">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <tag>
 <AM lemma="Pro_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="pro-1" src="auto">RR--4----------</AM>
-<AM lemma="pro-7_^(předpona,_sam.)" src="auto" recommended="1" selected="1">A2--------A----</AM>
+<AM lemma="pro-7_^(předpona,_sam.)" src="auto" recommended="1" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-35-p2s2w6">
@@ -542,7 +542,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-35-p2s3w7">

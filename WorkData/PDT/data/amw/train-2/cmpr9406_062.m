@@ -85,7 +85,7 @@
 <LM>w#w-cmpr9406-062-p3s1Aw2</LM>
 </w.rf>
 <form>SE</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-cmpr9406-062-p3s1Aw3">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-cmpr9406-062-p3s1Aw9</LM>
 </w.rf>
 <form>NEHODÍ</form>
-<tag lemma="hodit_:T_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="hodit" src="orig" selected="1">VB-S---3P-NA---</tag>
 </m>
 <m id="m-cmpr9406-062-p3s1Aw10">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-cmpr9406-062-p3s1Bw9</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-cmpr9406-062-p3s1Bw10">
 <src.rf>manual</src.rf>

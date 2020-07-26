@@ -50,7 +50,7 @@
 <form>GRAND</form>
 <tag>
 <AM lemma="Grand-1_;m_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
-<AM lemma="GRAND-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-125-p1s2w2">
@@ -61,7 +61,7 @@
 <form>PRIX</form>
 <tag>
 <AM lemma="Prix-1_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="PRIX-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-125-p1s2w3">
@@ -89,7 +89,7 @@
 <form>MILIONU</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIS2----------</AM>
 </tag>
 </m>
 </s>
@@ -119,7 +119,7 @@
 <tag>
 <AM lemma="vit-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vít" src="auto" recommended="1">VsYS----X-API--</AM>
-<AM lemma="vit-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vit-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-125-p2s1w4">
@@ -182,7 +182,7 @@
 <LM>w#w-mf930701-125-p2s1w10</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930701-125-p2s1w11">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
 <AM lemma="milión`1000000_,s_^(^DD**milión)" src="manual">NNIS2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIS2----------</AM>
 </tag>
 </m>
 <m id="m-mf930701-125-p2s1w20">
@@ -352,7 +352,7 @@
 <LM>w#w-mf930701-125-p2s2w9</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIXX----------</tag>
 </m>
 <m id="m-mf930701-125-p2s2w10">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-mf930701-125-p2s3w45</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930701-125-p2s3w46">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <LM>w#w-mf930701-125-p2s4w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930701-125-p2s4w5">
 <src.rf>manual</src.rf>

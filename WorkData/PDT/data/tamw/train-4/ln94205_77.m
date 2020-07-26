@@ -489,7 +489,7 @@
 <LM>w#w-ln94205-77-p2s2w21</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="on-1_^(oni/ono)" src="orig" selected="1">PPNS4--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PENS4--3-------</tag>
 </m>
 <m id="m-ln94205-77-p2s2w22">
 <src.rf>manual</src.rf>

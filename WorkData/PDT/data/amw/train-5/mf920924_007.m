@@ -447,7 +447,7 @@
 <LM>w#w-mf920924-007-p2s2w15</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_:W_^(něco_sobě/někomu)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-007-p2s2w16">
 <src.rf>manual</src.rf>

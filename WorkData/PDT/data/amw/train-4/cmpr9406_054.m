@@ -436,7 +436,7 @@
 <LM>w#w-cmpr9406-054-p3s3Bw1</LM>
 </w.rf>
 <form>Komu</form>
-<tag lemma="kdo" src="orig" selected="1">PKM-3----------</tag>
+<tag lemma="kdo" src="orig" selected="1">PQ--3----------</tag>
 </m>
 <m id="m-cmpr9406-054-p3s3Bw2">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-cmpr9406-054-p3s4Bw1</LM>
 </w.rf>
 <form>Jednomu</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS3----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS3----------</tag>
 </m>
 <m id="m-cmpr9406-054-p3s4Bw2">
 <src.rf>manual</src.rf>

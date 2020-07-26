@@ -58,7 +58,7 @@
 <form>for</form>
 <tag>
 <AM lemma="fórum" src="orig">NNNP2-----A----</AM>
-<AM lemma="for-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="for-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-025-p2s1w4">
@@ -263,7 +263,7 @@
 <LM>w#w-lnd92255-025-p2s2w22</LM>
 </w.rf>
 <form>nimi</form>
-<tag lemma="on-1" src="orig" selected="1">P5XP7--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">PEXP7--3------1</tag>
 </m>
 <m id="m-lnd92255-025-p2s2w23">
 <src.rf>manual</src.rf>

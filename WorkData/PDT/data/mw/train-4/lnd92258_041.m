@@ -54,7 +54,7 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="gap-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -83,7 +83,7 @@
 <LM>w#w-lnd92258-041-p2s2w1</LM>
 </w.rf>
 <form>Devětašedesát</form>
-<tag lemma="devětašedesát`69" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="devětašedesát`69" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-lnd92258-041-p2s2w2">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-lnd92258-041-p2s3w19</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92258-041-p2s3w20">
 <src.rf>manual</src.rf>

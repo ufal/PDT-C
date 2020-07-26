@@ -259,7 +259,7 @@
 <LM>w#w-mf920923-098-p1s2w8</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP4----------</tag>
 </m>
 <m id="m-mf920923-098-p1s2w9">
 <src.rf>manual</src.rf>

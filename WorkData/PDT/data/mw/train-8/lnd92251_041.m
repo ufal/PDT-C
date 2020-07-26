@@ -63,7 +63,7 @@
 <form>luč</form>
 <tag>
 <AM lemma="luč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="luč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="luč-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-041-p2s1w4">
@@ -90,7 +90,7 @@
 <LM>w#w-lnd92251-041-p2s2w1</LM>
 </w.rf>
 <form>Jedním</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS7----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS7----------</tag>
 </m>
 <m id="m-lnd92251-041-p2s2w2">
 <src.rf>manual</src.rf>
@@ -106,7 +106,7 @@
 <LM>w#w-lnd92251-041-p2s2w3</LM>
 </w.rf>
 <form>dvaatřiceti</form>
-<tag lemma="dvaatřicet`32" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="dvaatřicet`32" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-lnd92251-041-p2s2w4">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <form>PhDr</form>
 <tag>
 <AM lemma="PhDr-1_:B_,t_^(philosophiae_doctor)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="PhDr_:B_^(philosophiae_doctor)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PhDr_^(philosophiae_doctor)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-041-p2s3w19">

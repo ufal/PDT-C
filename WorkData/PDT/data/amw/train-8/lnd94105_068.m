@@ -165,7 +165,7 @@
 <form>AMU</form>
 <tag>
 <AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_;m_^(Akademie_múzických_umění)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s21w20">
@@ -280,7 +280,7 @@
 <LM>w#w-lnd94105-068-p1s22w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd94105-068-p1s22w5">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-lnd94105-068-p1s22w17</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="pět-1`5" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-lnd94105-068-p1s22w18">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 <form>AMU</form>
 <tag>
 <AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_;m_^(Akademie_múzických_umění)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s22w21">
@@ -469,7 +469,7 @@
 <LM>w#w-lnd94105-068-p1s23w6</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94105-068-p1s23w7">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-lnd94105-068-p1s24w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd94105-068-p1s24w3">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <form>AMU</form>
 <tag>
 <AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_;m_^(Akademie_múzických_umění)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s24w6">
@@ -605,7 +605,7 @@
 <LM>w#w-lnd94105-068-p1s24w10</LM>
 </w.rf>
 <form>jednoho</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS2----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnZS2----------</tag>
 </m>
 <m id="m-lnd94105-068-p1s24w11">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <LM>w#w-lnd94105-068-p1s25w3</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-lnd94105-068-p1s25w4">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-lnd94105-068-p1s25w7</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd94105-068-p1s25w8">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <form>AMU</form>
 <tag>
 <AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_;m_^(Akademie_múzických_umění)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s25w29">
@@ -1345,7 +1345,7 @@
 <form>AMU</form>
 <tag>
 <AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_;m_^(Akademie_múzických_umění)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s28w11">
@@ -1968,7 +1968,7 @@
 <form>AMU</form>
 <tag>
 <AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_;m_^(Akademie_múzických_umění)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s32w12">
@@ -2299,7 +2299,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s35Bw3">
@@ -2316,7 +2316,7 @@
 <LM>w#w-lnd94105-068-p1s35Bw4</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnHP1----------</tag>
 </m>
 <m id="m-lnd94105-068-p1s35Bw5">
 <src.rf>manual</src.rf>
@@ -2356,7 +2356,7 @@
 <LM>w#w-lnd94105-068-p1s35Bw9</LM>
 </w.rf>
 <form>osmnáct</form>
-<tag lemma="osmnáct`18" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="osmnáct`18" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-lnd94105-068-p1s35Bw10">
 <src.rf>manual</src.rf>
@@ -2416,7 +2416,7 @@
 <form>AMU</form>
 <tag>
 <AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_;m_^(Akademie_múzických_umění)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s36w6">

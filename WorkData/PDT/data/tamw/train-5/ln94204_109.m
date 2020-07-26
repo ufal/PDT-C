@@ -322,7 +322,7 @@
 <LM>w#w-ln94204-109-p2s1Bw33</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP6----------</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-ln94204-109-p2s2w38</LM>
 </w.rf>
 <form>nezastavil</form>
-<tag lemma="zastavit-1_:W_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94204-109-p2s2w39">
 <src.rf>manual</src.rf>

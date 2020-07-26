@@ -335,7 +335,7 @@
 <LM>w#w-wsj1771-001-p1s2W21</LM>
 </w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="auto" recommended="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="auto" recommended="1">PEFS4--3-------</tag>
 </m>
 <m id="m-wsj1771-001-p1s2W22-Ta">
 <src.rf>tagger-a</src.rf>

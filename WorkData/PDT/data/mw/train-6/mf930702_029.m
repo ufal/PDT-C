@@ -79,7 +79,7 @@
 <form>šim</form>
 <tag>
 <AM lemma="šim-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šim-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šim-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-029-p2s1w4">
@@ -546,7 +546,7 @@
 <LM>w#w-mf930702-029-p3s1w13</LM>
 </w.rf>
 <form>jejími</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXP7FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP7FS3-------</tag>
 </m>
 <m id="m-mf930702-029-p3s1w14">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 <LM>w#w-mf930702-029-p3s1w18</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIXX----------</tag>
 </m>
 <m id="m-mf930702-029-p3s1w19">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 <LM>w#w-mf930702-029-p3s2w5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930702-029-p3s2w6">
 <src.rf>manual</src.rf>

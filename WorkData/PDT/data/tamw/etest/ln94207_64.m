@@ -70,7 +70,7 @@
 </w.rf>
 <form>mel</form>
 <tag>
-<AM lemma="mel-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="mel-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="mlít" src="auto">Vi-S---3--A-I-4</AM>
@@ -297,7 +297,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94207-64-p2s1Bw26">
@@ -314,7 +314,7 @@
 <LM>w#w-ln94207-64-p2s1Bw27</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94207-64-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <AM lemma="obchodní" src="orig">A2--------A----</AM>
 <AM lemma="obchodně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="obchodní-2" src="manual">A2--------A----</AM>
-<AM lemma="obchodní" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="obchodní" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-64-p4s1w17">
@@ -1013,7 +1013,7 @@
 <LM>w#w-ln94207-64-p4s2w15</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94207-64-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1254,7 +1254,7 @@
 <LM>w#w-ln94207-64-p5s2w2</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
 </m>
 <m id="m-ln94207-64-p5s2w3">
 <src.rf>manual</src.rf>

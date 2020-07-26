@@ -35,7 +35,7 @@
 <LM>w#w-mf920924-135-p1s1w3</LM>
 </w.rf>
 <form>TŘEM</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP3----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P3----------</tag>
 </m>
 <m id="m-mf920924-135-p1s1w4">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-mf920924-135-p1s1w4</LM>
 </w.rf>
 <form>TISÍCŮM</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIP3-----A----</tag>
+<tag lemma="tisíc`1000" src="orig" selected="1">CzIP3----------</tag>
 </m>
 <m id="m-mf920924-135-p1s1w5">
 <src.rf>manual</src.rf>

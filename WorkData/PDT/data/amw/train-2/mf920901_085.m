@@ -53,7 +53,7 @@
 <LM>w#w-mf920901-085-p2s1w3</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920901-085-p2s1w4">
 <src.rf>manual</src.rf>
@@ -980,7 +980,7 @@
 <LM>w#w-mf920901-085-p3s3w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920901-085-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1276,7 +1276,7 @@
 <LM>w#w-mf920901-085-p3s3w41</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="st-1_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">BNIXX-----A----</tag>
 </m>
 <m id="m-mf920901-085-p3s3w42">
 <src.rf>manual</src.rf>

@@ -85,7 +85,7 @@
 <LM>w#w-lnd92259-100-p2s1w7</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP1----------</tag>
+<tag lemma="tři`3" src="orig" selected="1">Cl-P1----------</tag>
 </m>
 <m id="m-lnd92259-100-p2s1w8">
 <src.rf>manual</src.rf>

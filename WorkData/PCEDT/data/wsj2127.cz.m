@@ -19,7 +19,7 @@
 <tag>
 <AM lemma="Continental_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Continental_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="CONTINENTAL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Continental-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2127-001-p1s0W2-Ta">
@@ -30,7 +30,7 @@
 <form>MORTGAGE</form>
 <tag>
 <AM lemma="MORTGAGE" src="auto">X@-------------</AM>
-<AM lemma="MORTGAGE-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Mortgage-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2127-001-p1s0W3-Ta">
@@ -49,7 +49,7 @@
 <form>EQUITY</form>
 <tag>
 <AM lemma="equity_,t_^(soustava_jurisprudence_v_Anglii)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="EQUITY-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Equity-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2127-001-p1s0W5-Ta">
@@ -61,7 +61,7 @@
 <tag>
 <AM lemma="trust" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trust" src="auto">NNIS4-----A----</AM>
-<AM lemma="TRUST-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Trust-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2127-001-p1s0W6-Ta">
@@ -445,7 +445,7 @@
 <LM>w#w-wsj2127-001-p1s1W16</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_^(U.S._dolar)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="USD_^(U.S._dolar)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2127-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>

@@ -303,7 +303,7 @@
 <LM>w#w-cmpr9417-021-p3s4w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-cmpr9417-021-p3s4w3">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-cmpr9417-021-p3s4w3</LM>
 </w.rf>
 <form>stává</form>
-<tag lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="stávat-2_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-021-p3s4w4">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-cmpr9417-021-p3s5w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-cmpr9417-021-p3s5w7">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <AM lemma="řídicí_^(^IC**řídit)" src="orig">AGIP2-----A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAFP2----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAFP6----1A----</AM>
-<AM lemma="řídicí_^(^IC*2t)" src="auto" recommended="1" selected="1">AAIP2----1A----</AM>
+<AM lemma="řídicí" src="auto" recommended="1" selected="1">AAIP2----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAIP6----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAMP2----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAMP6----1A----</AM>
@@ -678,7 +678,7 @@
 <LM>w#w-cmpr9417-021-p3s6w12</LM>
 </w.rf>
 <form>čímž</form>
-<tag lemma="což-1" src="orig" selected="1">PE--7----------</tag>
+<tag lemma="což-1" src="orig" selected="1">PQ--7----------</tag>
 </m>
 <m id="m-cmpr9417-021-p3s6w13">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-cmpr9417-021-p3s6w13</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-cmpr9417-021-p3s6w14">
 <src.rf>manual</src.rf>

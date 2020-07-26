@@ -418,7 +418,7 @@
 <LM>w#w-mf920923-015-p2s2w5</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 <m id="m-mf920923-015-p2s2w6">
 <src.rf>manual</src.rf>

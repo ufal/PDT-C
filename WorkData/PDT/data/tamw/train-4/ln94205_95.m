@@ -115,7 +115,7 @@
 <LM>w#w-ln94205-95-p1s1Aw13</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP6----------</tag>
 </m>
 <m id="m-ln94205-95-p1s1Aw14">
 <src.rf>manual</src.rf>

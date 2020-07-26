@@ -29,7 +29,7 @@
 <form>GOODY</form>
 <tag>
 <AM lemma="GOODY" src="auto">X@-------------</AM>
-<AM lemma="GOODY-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Goody-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0068-001-p1s0W3-Ta">
@@ -40,7 +40,7 @@
 <form>PRODUCTS</form>
 <tag>
 <AM lemma="PRODUCTS" src="auto">X@-------------</AM>
-<AM lemma="PRODUCTS-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Products-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0068-001-p1s0W4-Ta">
@@ -1055,7 +1055,7 @@
 </w.rf>
 <form>milionu</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIS2----------</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
 </tag>

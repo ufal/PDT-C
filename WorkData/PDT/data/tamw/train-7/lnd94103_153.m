@@ -319,7 +319,7 @@
 <LM>w#w-lnd94103-153-p1s5w7</LM>
 </w.rf>
 <form>oba</form>
-<tag lemma="oba`2" src="orig" selected="1">ClYP4----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnYP4----------</tag>
 </m>
 <m id="m-lnd94103-153-p1s5w8">
 <src.rf>manual</src.rf>

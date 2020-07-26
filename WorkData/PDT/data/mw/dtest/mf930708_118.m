@@ -71,7 +71,7 @@
 <form>zda</form>
 <tag>
 <AM lemma="zda" src="orig">J,-------------</AM>
-<AM lemma="zda-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="zda-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-118-p2s1w4">

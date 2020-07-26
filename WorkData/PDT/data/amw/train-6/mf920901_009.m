@@ -69,7 +69,7 @@
 <LM>w#w-mf920901-009-p1s1Bw2</LM>
 </w.rf>
 <form>SE</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920901-009-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 <LM>w#w-mf920901-009-p2s1w8</LM>
 </w.rf>
 <form>biliónu</form>
-<tag lemma="bilión" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="bilión`1000000000000" src="orig" selected="1">CzIS2----------</tag>
 </m>
 <m id="m-mf920901-009-p2s1w9">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-mf920901-009-p2s1w11</LM>
 </w.rf>
 <form>což</form>
-<tag lemma="což-1" src="orig" selected="1">PE--1----------</tag>
+<tag lemma="což-1" src="orig" selected="1">PQ--1----------</tag>
 </m>
 <m id="m-mf920901-009-p2s1w12">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-mf920901-009-p2s2w3</LM>
 </w.rf>
 <form>sedm</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="sedm`7" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf920901-009-p2s2w4">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-mf920901-009-p2s2w11</LM>
 </w.rf>
 <form>biliónu</form>
-<tag lemma="bilión" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="bilión`1000000000000" src="orig" selected="1">CzIS2----------</tag>
 </m>
 <m id="m-mf920901-009-p2s2w12">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-mf920901-009-p2s2w22</LM>
 </w.rf>
 <form>biliónu</form>
-<tag lemma="bilión" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="bilión`1000000000000" src="orig" selected="1">CzIS2----------</tag>
 </m>
 <m id="m-mf920901-009-p2s2w23">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-mf920901-009-p2s5w6</LM>
 </w.rf>
 <form>biliónů</form>
-<tag lemma="bilión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="bilión`1000000000000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 <m id="m-mf920901-009-p2s5w7">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-mf920901-009-p2s5w13</LM>
 </w.rf>
 <form>biliónů</form>
-<tag lemma="bilión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="bilión`1000000000000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 <m id="m-mf920901-009-p2s5w14">
 <src.rf>manual</src.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-mf920901-009-p3s1w16</LM>
 </w.rf>
 <form>deseti</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-P2----------</tag>
+<tag lemma="deset`10" src="orig" selected="1">Cl-P2----------</tag>
 </m>
 <m id="m-mf920901-009-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-mf920901-009-p3s1w22</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="pět-1`5" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-mf920901-009-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-mf920901-009-p3s2w24</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf920901-009-p3s2w25">
 <src.rf>manual</src.rf>
@@ -1686,7 +1686,7 @@
 <LM>w#w-mf920901-009-p3s5w13</LM>
 </w.rf>
 <form>jej</form>
-<tag lemma="on-1" src="orig" selected="1">PPZS4--3------2</tag>
+<tag lemma="on-1" src="orig" selected="1">PEZS4--3------2</tag>
 </m>
 <m id="m-mf920901-009-p3s5w14">
 <src.rf>manual</src.rf>
@@ -2046,7 +2046,7 @@
 <LM>w#w-mf920901-009-p3s7w10</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnXP6----------</tag>
 </m>
 <m id="m-mf920901-009-p3s7w11">
 <src.rf>manual</src.rf>
@@ -2421,7 +2421,7 @@
 <LM>w#w-mf920901-009-p4s2w10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSIS4FS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-mf920901-009-p4s2w11">
 <src.rf>manual</src.rf>

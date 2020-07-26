@@ -29,7 +29,7 @@
 <form>ENGRAPH</form>
 <tag>
 <AM lemma="ENGRAPH" src="auto">X@-------------</AM>
-<AM lemma="ENGRAPH-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Engraph-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1417-001-p1s0W3-Ta">
@@ -42,7 +42,7 @@
 <AM lemma="INC-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Inc-77_:B" src="auto">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
-<AM lemma="INC-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1417-001-p1s0W4-Ta">
@@ -590,7 +590,7 @@
 <form>jednoho</form>
 <tag>
 <AM lemma="jeden`1" src="auto">ClMS4----------</AM>
-<AM lemma="jeden`1" src="auto" recommended="1">ClZS2----------</AM>
+<AM lemma="jeden`1" src="auto" recommended="1">CnZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1417-001-p1s1W8-Ta">

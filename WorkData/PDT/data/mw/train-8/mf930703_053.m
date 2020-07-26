@@ -59,7 +59,7 @@
 <LM>w#w-mf930703-053-p1s1w6</LM>
 </w.rf>
 <form>aš</form>
-<tag lemma="aš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="aš-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
 </m>
 <m id="m-mf930703-053-p1s1w7">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-mf930703-053-p1s2w2</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-mf930703-053-p1s2w3">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-mf930703-053-p1s2w4</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S1----------</tag>
+<tag lemma="pět-1`5" src="orig" selected="1">Cl-S1----------</tag>
 </m>
 <m id="m-mf930703-053-p1s2w5">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-mf930703-053-p1s3w1</LM>
 </w.rf>
 <form>Dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP1----------</tag>
+<tag lemma="dva`2" src="orig" selected="1">CnYP1----------</tag>
 </m>
 <m id="m-mf930703-053-p1s3w2">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-mf930703-053-p1s4w20</LM>
 </w.rf>
 <form>nezelo</form>
-<tag lemma="zet" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="zet" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf930703-053-p1s4w21">
 <src.rf>manual</src.rf>

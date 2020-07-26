@@ -623,7 +623,7 @@
 <tag>
 <AM lemma="ZČU-1_:B_;m_^(Západočeská_univerzita)" src="auto">NNFXX-----A----</AM>
 <AM lemma="ZČU-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ZČU-1_:B_;m_^(Západočeská_univerzita)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ZČU-1_;m_^(Západočeská_univerzita)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-086-p1s3w13">

@@ -19,7 +19,7 @@
 <LM>w#w-lnd91303-022-p1s1w1</LM>
 </w.rf>
 <form>HEREČKA</form>
-<tag lemma="herečka_^(^FM*3c)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="herečka" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91303-022-p1s1w2">
 <src.rf>manual</src.rf>
@@ -142,7 +142,7 @@
 <LM>w#w-lnd91303-022-p1s1w16</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd91303-022-p1s1w17">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <LM>w#w-lnd91303-022-p1s2w20</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-lnd91303-022-p1s2w21">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <form>zat</form>
 <tag>
 <AM lemma="zat-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="zat-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="zat-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-022-p2s1w3">
@@ -617,7 +617,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

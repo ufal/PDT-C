@@ -29,7 +29,7 @@
 <form>BROWN</form>
 <tag>
 <AM lemma="Brown_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="BROWN-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Brown-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0432-001-p1s0W3-Ta">
@@ -53,7 +53,7 @@
 <AM lemma="forman-1" src="auto">NNMS1-----A----</AM>
 <AM lemma="forman-2_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="forman-2_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="FORMAN-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Forman-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0432-001-p1s0W5-Ta">

@@ -641,7 +641,7 @@
 <LM>w#w-lnd94105-115-p1s6w14</LM>
 </w.rf>
 <form>jedenáct</form>
-<tag lemma="jedenáct`11" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="jedenáct`11" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-lnd94105-115-p1s6w15">
 <src.rf>manual</src.rf>

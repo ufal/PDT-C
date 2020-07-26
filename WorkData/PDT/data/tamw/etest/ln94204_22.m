@@ -29,7 +29,7 @@
 <form>PVC</form>
 <tag>
 <AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PVC_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVC" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p1s1w3">
@@ -54,7 +54,7 @@
 <LM>w#w-ln94204-22-p1s1w5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94204-22-p1s1w6">
 <src.rf>manual</src.rf>
@@ -182,7 +182,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p2s1w15">
@@ -258,7 +258,7 @@
 <form>PVC</form>
 <tag>
 <AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PVC_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVC" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p2s1w24">
@@ -291,7 +291,7 @@
 <LM>w#w-ln94204-22-p2s1w27</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NA--1</tag>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-ln94204-22-p2s1w28">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-ln94204-22-p2s2w6</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94204-22-p2s2w7">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-ln94204-22-p3s1w12</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94204-22-p3s1w13">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <form>PVC</form>
 <tag>
 <AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PVC_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVC" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p3s1w24">
@@ -853,7 +853,7 @@
 <LM>w#w-ln94204-22-p3s1w41</LM>
 </w.rf>
 <form>třetinu</form>
-<tag lemma="třetina" src="orig" selected="1">CyFS4----------</tag>
+<tag lemma="třetina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94204-22-p3s1w42">
 <src.rf>manual</src.rf>
@@ -903,7 +903,7 @@
 <LM>w#w-ln94204-22-p4s1w5</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94204-22-p4s1w6">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p4s1w8">
@@ -1035,7 +1035,7 @@
 <LM>w#w-ln94204-22-p4s1w21</LM>
 </w.rf>
 <form>osm</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="osm`8" src="orig" selected="1">Cl-S4----------</tag>
 </m>
 <m id="m-ln94204-22-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1292,7 +1292,7 @@
 <LM>w#w-ln94204-22-p4s4w4</LM>
 </w.rf>
 <form>se</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7-X4----------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="orig" selected="1">P7--4----------</tag>
 </m>
 <m id="m-ln94204-22-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1462,7 +1462,7 @@
 <LM>w#w-ln94204-22-p5s1w14</LM>
 </w.rf>
 <form>jednu</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS4----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS4----------</tag>
 </m>
 <m id="m-ln94204-22-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1512,7 +1512,7 @@
 <form>PVC</form>
 <tag>
 <AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PVC_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVC" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p5s1w21">
@@ -1540,7 +1540,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p5s1w24">
@@ -1607,7 +1607,7 @@
 <LM>w#w-ln94204-22-p5s2w4</LM>
 </w.rf>
 <form>jedna</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS1----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS1----------</tag>
 </m>
 <m id="m-ln94204-22-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1718,7 +1718,7 @@
 <form>PVC</form>
 <tag>
 <AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PVC_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PVC" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p5s3w4">

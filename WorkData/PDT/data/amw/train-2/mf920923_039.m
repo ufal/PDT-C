@@ -257,7 +257,7 @@
 <LM>w#w-mf920923-039-p1s2w2</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf920923-039-p1s2w3">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-mf920923-039-p1s2w6</LM>
 </w.rf>
 <form>mu</form>
-<tag lemma="on-1" src="orig" selected="1">PHZS3--3-------</tag>
+<tag lemma="on-1" src="orig" selected="1">P5ZS3--3-------</tag>
 </m>
 <m id="m-mf920923-039-p1s2w7">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-mf920923-039-p1s2w9</LM>
 </w.rf>
 <form>odňato</form>
-<tag lemma="odejmout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="odejmout" src="orig" selected="1">VsNS----X-AP---</tag>
 </m>
 <m id="m-mf920923-039-p1s2w10">
 <src.rf>manual</src.rf>

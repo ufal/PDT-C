@@ -155,7 +155,7 @@
 <LM>w#w-ln95044-137-p2s1Bw8</LM>
 </w.rf>
 <form>jedna</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS1----------</tag>
+<tag lemma="jeden`1" src="orig" selected="1">CnFS1----------</tag>
 </m>
 <m id="m-ln95044-137-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -256,7 +256,7 @@
 <LM>w#w-ln95044-137-p2s1Bw20</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="miliarda`1000000000" src="orig" selected="1">CzFP2----------</tag>
 </m>
 <m id="m-ln95044-137-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-ln95044-137-p2s1Bw27</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="milión`1000000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 <m id="m-ln95044-137-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-ln95044-137-p2s1Bw28</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag lemma="USD_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-ln95044-137-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-ln95044-137-p2s2w7</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="miliarda`1000000000" src="orig" selected="1">CzFP2----------</tag>
 </m>
 <m id="m-ln95044-137-p2s2w8">
 <src.rf>manual</src.rf>
@@ -734,7 +734,7 @@
 <LM>w#w-ln95044-137-p3s1w10</LM>
 </w.rf>
 <form>biliónu</form>
-<tag lemma="bilión" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="bilión`1000000000000" src="orig" selected="1">CzIS2----------</tag>
 </m>
 <m id="m-ln95044-137-p3s1w11">
 <src.rf>manual</src.rf>
@@ -802,7 +802,7 @@
 <LM>w#w-ln95044-137-p3s1w18</LM>
 </w.rf>
 <form>biliónu</form>
-<tag lemma="bilión" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="bilión`1000000000000" src="orig" selected="1">CzIS2----------</tag>
 </m>
 <m id="m-ln95044-137-p3s1w19">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <LM>w#w-ln95044-137-p3s1w19</LM>
 </w.rf>
 <form>ITL</form>
-<tag lemma="ITL_:B_^(italská_lira)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ITL_^(italská_lira)" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln95044-137-p3s1w20">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-ln95044-137-p3s2w6</LM>
 </w.rf>
 <form>nic</form>
-<tag lemma="nic" src="orig" selected="1">PW--4----------</tag>
+<tag lemma="nic" src="orig" selected="1">PY--4----------</tag>
 </m>
 <m id="m-ln95044-137-p3s2w7">
 <src.rf>manual</src.rf>

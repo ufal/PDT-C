@@ -18,7 +18,7 @@
 <form>MACMILLAN</form>
 <tag>
 <AM lemma="Macmillan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="MACMILLAN-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Macmillan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2074-001-p1s0W2-Ta">
@@ -29,7 +29,7 @@
 <form>BLOEDEL</form>
 <tag>
 <AM lemma="BLOEDEL" src="auto">X@-------------</AM>
-<AM lemma="BLOEDEL-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Bloedel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2074-001-p1s0W3-Ta">
@@ -86,7 +86,7 @@
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3----------</AM>
 </tag>
 </m>
 <m id="m-wsj2074-001-p1s0W9-Ta">
@@ -111,7 +111,7 @@
 <LM>w#w-wsj2074-001-p1s0W11</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj2074-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -160,7 +160,7 @@
 <LM>w#w-wsj2074-001-p1s0W16</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">CzIP2----------</tag>
 </m>
 <m id="m-wsj2074-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -408,7 +408,7 @@
 </w.rf>
 <form>se</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>

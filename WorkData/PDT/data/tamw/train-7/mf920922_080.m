@@ -93,7 +93,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-080-p1s1w11">
@@ -207,7 +207,7 @@
 <LM>w#w-mf920922-080-p1s1w24</LM>
 </w.rf>
 <form>nejedno</form>
-<tag lemma="nejeden" src="orig" selected="1">CwNS4----------</tag>
+<tag lemma="nejeden" src="orig" selected="1">CyNS4----------</tag>
 </m>
 <m id="m-mf920922-080-p1s1w25">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-mf920922-080-p1s2w4</LM>
 </w.rf>
 <form>komu</form>
-<tag lemma="kdo" src="orig" selected="1">PKM-3----------</tag>
+<tag lemma="kdo" src="orig" selected="1">PQ--3----------</tag>
 </m>
 <m id="m-mf920922-080-p1s2w5">
 <src.rf>manual</src.rf>
