@@ -34,7 +34,7 @@ def process_block(block):
     for line in block.split("\n")[:-1]:
         lemma, tag, form = line.rstrip("\n").split("\t")
 
-        raw_lemma, sense, reference, style, terms, derivations, comments = correct_lemmas.parse_lemma_and_validate(form, lemma, tag)
+        raw_lemma, sense, reference, style, terms, derivations, comments = correct_lemmas.parse_lemma_and_validate(form, lemma, tag, label="")
 
         if tag.startswith("X"):
             print("M-X Tag starts with X for lemma {} and tag {}".format(lemma, tag))

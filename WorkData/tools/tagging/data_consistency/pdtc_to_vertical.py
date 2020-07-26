@@ -12,6 +12,9 @@ if __name__ == "__main__":
         form, recommended, selected, alls = None, None, None, []
         with open(path, "r", encoding="utf-8") as path_file:
             for line in path_file:
+                if line.startswith("<m "):
+                    node = xml.etree.ElementTree.fromstring(line + "</m>").get("id")
+
                 if line.startswith("<form>"):
                     form = xml.etree.ElementTree.fromstring(line).text
 
@@ -32,6 +35,9 @@ if __name__ == "__main__":
                         print("Missing recommended and selected for {}, {} analyses, skipping".format(form, len(alls)), file=sys.stderr)
                     else:
                         lemma, tag = selected if selected is not None else recommended
-                        print(form, lemma, tag, sep="\t")
+                        print(form, lemma, tag, node, sep="\t")
 
                     form, recommended, selected, alls = None, None, None, []
+
+                if line.startswith("</s"):
+                    print()

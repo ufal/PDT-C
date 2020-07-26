@@ -1,0 +1,4 @@
+MAILTO=straka@ufal.mff.cuni.cz
+
+# m h  dom mon dow   command
+0   4  *   *   *     . ~/.profile && cd /home/straka/repos/pdt-c/WorkData/tools/tagging/data_consistency/ && sh daily_checks.sh

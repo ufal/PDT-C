@@ -4,6 +4,8 @@ use strict;
 use utf8;
 use open qw(:std :utf8);
 
+use File::Basename;
+
 use Ufal::MorphoDiTa;
 
 @ARGV >= 1 or die "Usage: $0 dictionary_file [resensing_file]\n";
@@ -29,21 +31,21 @@ if (@ARGV) {
 
 my $lemmas = Ufal::MorphoDiTa::TaggedLemmas->new();
 
-open (my $f_uniquelemma_comment_change, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >uniquelemma_comment_change.txt") or die;
-open (my $f_uniquelemma_resensed_comment_change, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >uniquelemma_resensed_comment_change.txt") or die;
-open (my $f_uniquelemma_sense_change, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >uniquelemma_sense_change.txt") or die;
-open (my $f_uniquelemma_tag_change, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >uniquelemma_tag_change.txt") or die;
-open (my $f_unique_rest, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >unique_rest.txt") or die;
-open (my $f_multiplelemma_sense_change, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >multiplelemma_sense_change.txt") or die;
-open (my $f_multiplelemma_tag_change, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >multiplelemma_tag_change.txt") or die;
-open (my $f_multiple_rest, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >multiple_rest.txt") or die;
+my $group_script = "python3 " . dirname($0) . "/consistency_vertical_grouper.py";
+open (my $f_uniquelemma_comment_change, "|-", "$group_script uniquelemma_comment_change.txt") or die;
+open (my $f_uniquelemma_resensed_comment_change, "|-", "$group_script uniquelemma_resensed_comment_change.txt") or die;
+open (my $f_uniquelemma_sense_change, "|-", "$group_script uniquelemma_sense_change.txt") or die;
+open (my $f_uniquelemma_tag_change, "|-", "$group_script uniquelemma_tag_change.txt") or die;
+open (my $f_unique_rest, "|-", "$group_script unique_rest.txt") or die;
+open (my $f_multiple_uniquetag, "|-", "$group_script multiple_uniquetag.txt") or die;
+open (my $f_multiple_nonuniquetag, "|-", "$group_script multiple_non-uniquetag.txt") or die;
 
 my ($total, $full_matches, $uniquelemma_resensed_comment_change, $uniquelemma_comment_change, $uniquelemma_sense_change) = (0, 0, 0, 0, 0);
-my ($uniquelemma_tag_change, $unique_rest, $multiplelemma_sense_change, $multiplelemma_tag_change, $multiple_rest, $no_analysis) = (0, 0, 0, 0, 0, 0);
+my ($uniquelemma_tag_change, $unique_rest, $multiple_uniquetag, $multiple_nonuniquetag, $no_analysis) = (0, 0, 0, 0, 0);
 while (<>) {
   chomp;
   next if /^$/;
-  my ($form, $lemma, $tag) = split /\t/;
+  my ($form, $lemma, $tag, $node) = split /\t/;
   $total++;
   if ($dictionary->analyze($form, $Ufal::MorphoDiTa::Morpho::NO_GUESSER, $lemmas) < 0) {
     $no_analysis++;
@@ -75,67 +77,55 @@ while (<>) {
   # Unique replacements
   if (@match_indices == 1 && $tags[$match_indices[0]] eq $tag && $dictionary->lemmaId($lemmas[$match_indices[0]]) eq $dictionary->lemmaId($lemma)) {
     $uniquelemma_comment_change++;
-    print $f_uniquelemma_comment_change "$form $lemma $tag -> $lemmas[$match_indices[0]] $tags[$match_indices[0]]\n";
+    print $f_uniquelemma_comment_change "$node $form $lemma $tag -> $lemmas[$match_indices[0]] $tags[$match_indices[0]]\n";
     next;
   }
   if (@match_indices == 1 && $tags[$match_indices[0]] eq $tag && $dictionary->lemmaId($lemmas[$match_indices[0]]) eq ($resensing{$dictionary->lemmaId($lemma)} || "")) {
     $uniquelemma_resensed_comment_change++;
-    print $f_uniquelemma_resensed_comment_change "$form $lemma $tag -> $lemmas[$match_indices[0]] $tags[$match_indices[0]]\n";
+    print $f_uniquelemma_resensed_comment_change "$node $form $lemma $tag -> $lemmas[$match_indices[0]] $tags[$match_indices[0]]\n";
     next;
   }
   if (@match_indices == 1 && $tags[$match_indices[0]] eq $tag) {
     $uniquelemma_sense_change++;
-    print $f_uniquelemma_sense_change "$form $lemma $tag -> $lemmas[$match_indices[0]] $tags[$match_indices[0]]\n";
+    print $f_uniquelemma_sense_change "$node $form $lemma $tag -> $lemmas[$match_indices[0]] $tags[$match_indices[0]]\n";
     next;
   }
   if (@match_indices == 1 && $lemmas[$match_indices[0]] eq $lemma) {
     $uniquelemma_tag_change++;
-    print $f_uniquelemma_tag_change "$form $lemma $tag -> $lemmas[$match_indices[0]] $tags[$match_indices[0]]\n";
+    print $f_uniquelemma_tag_change "$node $form $lemma $tag -> $lemmas[$match_indices[0]] $tags[$match_indices[0]]\n";
     next;
-  }
-
-  # Multiple replacements
-  if (@match_indices > 1) {
-    my $all_matches = 1;
-    foreach my $i (@match_indices) {
-      $all_matches = 0 unless $tags[$i] eq $tag && $dictionary->rawLemma($lemmas[$i]) eq $dictionary->rawLemma($lemma);
-    }
-    if ($all_matches) {
-      $multiplelemma_sense_change++;
-      print $f_multiplelemma_sense_change "$form $lemma $tag ->";
-      foreach my $i (@match_indices) {
-        print $f_multiplelemma_sense_change " $lemmas[$i] $tags[$i]";
-      }
-      print $f_multiplelemma_sense_change "\n";
-      next;
-    }
-
-    $all_matches = 1;
-    foreach my $i (@match_indices) {
-      $all_matches = 0 unless $dictionary->lemmaId($lemmas[$i]) eq $dictionary->lemmaId($lemma);
-    }
-    if ($all_matches) {
-      $multiplelemma_tag_change++;
-      print $f_multiplelemma_tag_change "$form $lemma $tag ->";
-      foreach my $i (@match_indices) {
-        print $f_multiplelemma_tag_change " $lemmas[$i] $tags[$i]";
-      }
-      print $f_multiplelemma_tag_change "\n";
-      next;
-    }
   }
 
   # Rest changes
   if (@lemmas == 1) {
     $unique_rest++;
-    print $f_unique_rest "$form $lemma $tag -> $lemmas[0] $tags[0]\n";
+    print $f_unique_rest "$node $form $lemma $tag -> $lemmas[0] $tags[0]\n";
   } else {
-    $multiple_rest++;
-    print $f_multiple_rest "$form $lemma $tag ->";
-    foreach my $i (0..$#lemmas) {
-      print $f_multiple_rest " $lemmas[$i] $tags[$i]";
+    # Count matching tags
+    my @match_indices = ();
+    for (my $i = 0; $i < @lemmas; $i++) {
+      next unless $tags[$i] eq $tag;
+      push @match_indices, $i;
     }
-    print $f_multiple_rest "\n";
+
+    my $f_multiple_output;
+    if (@match_indices == 1) {
+      $multiple_uniquetag++;
+      $f_multiple_output = $f_multiple_uniquetag;
+    } else {
+      $multiple_nonuniquetag++;
+      $f_multiple_output = $f_multiple_nonuniquetag;
+    }
+
+    print $f_multiple_output "$node $form $lemma $tag ->";
+    foreach my $i (@match_indices) {
+      print $f_multiple_output " $lemmas[$i] $tags[$i]";
+    }
+    foreach my $i (0..$#lemmas) {
+      next if $tags[$i] eq $tag;
+      print $f_multiple_output " $lemmas[$i] $tags[$i]";
+    }
+    print $f_multiple_output "\n";
   }
 }
 
@@ -146,7 +136,6 @@ printf "Uniquelemma_resensed_comment_change: %.2f%% (%d forms) (cummulative %.2f
 printf "Uniquelemma_sense_change: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $uniquelemma_sense_change / $total, $uniquelemma_sense_change, 100. * ($cummulative += $uniquelemma_sense_change) / $total;
 printf "Uniquelemma_tag_change: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $uniquelemma_tag_change / $total, $uniquelemma_tag_change, 100. * ($cummulative += $uniquelemma_tag_change) / $total;
 printf "Unique rest: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $unique_rest / $total, $unique_rest, 100. * ($cummulative += $unique_rest) / $total;
-printf "Multiplelemma_sense_change: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $multiplelemma_sense_change / $total, $multiplelemma_sense_change, 100. * ($cummulative += $multiplelemma_sense_change) / $total;
-printf "Multiplelemma_tag_change: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $multiplelemma_tag_change / $total, $multiplelemma_tag_change, 100. * ($cummulative += $multiplelemma_tag_change) / $total;
-printf "Multiple rest: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $multiple_rest / $total, $multiple_rest, 100. * ($cummulative += $multiple_rest) / $total;
+printf "Multiple_uniquetag: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $multiple_uniquetag / $total, $multiple_uniquetag, 100. * ($cummulative += $multiple_uniquetag) / $total;
+printf "Multiple_non-uniquetag: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $multiple_nonuniquetag / $total, $multiple_nonuniquetag, 100. * ($cummulative += $multiple_nonuniquetag) / $total;
 printf "No analysis: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $no_analysis / $total, $no_analysis, 100. * ($cummulative += $no_analysis) / $total;
