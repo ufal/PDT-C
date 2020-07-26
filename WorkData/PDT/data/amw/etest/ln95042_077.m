@@ -336,7 +336,7 @@
 <LM>w#w-ln95042-077-p2s2w7</LM>
 </w.rf>
 <form>Jitka</form>
-<tag lemma="Jitka-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jitka-1_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-077-p2s2w8">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <LM>w#w-ln95042-077-p2s4w2</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95042-077-p2s4w3">
 <src.rf>manual</src.rf>

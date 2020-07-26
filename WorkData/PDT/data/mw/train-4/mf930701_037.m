@@ -70,7 +70,7 @@
 </w.rf>
 <form>mas</form>
 <tag>
-<AM lemma="mas-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="mas-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -193,7 +193,7 @@
 <LM>w#w-mf930701-037-p2s1w19</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-037-p2s1w20">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-mf930701-037-p2s1w29</LM>
 </w.rf>
 <form>Mňága</form>
-<tag lemma="Mňága_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mňága_;m" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-037-p2s1w30">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <form>Žďorp</form>
 <tag>
 <AM lemma="Žďorp_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Žďorp" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Žďorp_;m" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-037-p2s1w32">
@@ -369,7 +369,7 @@
 <LM>w#w-mf930701-037-p2s2w8</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-037-p2s2w9">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-mf930701-037-p2s3w13</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-037-p2s3w14">
 <src.rf>manual</src.rf>

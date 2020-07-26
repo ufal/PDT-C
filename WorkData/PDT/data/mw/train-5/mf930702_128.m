@@ -167,7 +167,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-128-p2s1w11">
@@ -627,7 +627,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-128-p2s4w9">

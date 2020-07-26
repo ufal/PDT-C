@@ -172,7 +172,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-036-p3s2w10">

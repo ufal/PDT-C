@@ -621,7 +621,7 @@
 <LM>w#w-ln95040-012-p3s2w1</LM>
 </w.rf>
 <form>Koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-012-p3s2w2">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-ln95040-012-p3s6Aw11</LM>
 </w.rf>
 <form>událostech</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln95040-012-p3s6Aw12">
 <src.rf>manual</src.rf>
@@ -1329,7 +1329,7 @@
 <LM>w#w-ln95040-012-p4s2Aw14</LM>
 </w.rf>
 <form>zastavil</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-012-p4s2Aw15">
 <src.rf>manual</src.rf>
@@ -1511,7 +1511,7 @@
 <LM>w#w-ln95040-012-p4s2Bw8</LM>
 </w.rf>
 <form>pojede</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3F-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95040-012-p4s2Bw9">
 <src.rf>manual</src.rf>

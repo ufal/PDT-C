@@ -117,7 +117,7 @@
 <LM>w#w-lnd94103-133-p1s1Bw8</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s1Bw9">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-lnd94103-133-p1s1Bw11</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 </s>
 <s id="m-lnd94103-133-p1s1C">
@@ -193,7 +193,7 @@
 <LM>w#w-lnd94103-133-p1s2w4</LM>
 </w.rf>
 <form>bra</form>
-<tag lemma="bra-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="bra-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s2w5">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-lnd94103-133-p1s3w10</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s3w11">
 <src.rf>manual</src.rf>
@@ -1026,7 +1026,7 @@
 <LM>w#w-lnd94103-133-p1s7w12</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-lnd94103-133-p1s7w13">
 <src.rf>manual</src.rf>
@@ -1701,7 +1701,7 @@
 <LM>w#w-lnd94103-133-p1s10w4</LM>
 </w.rf>
 <form>Spartou</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s10w5">
 <src.rf>manual</src.rf>
@@ -1823,7 +1823,7 @@
 <LM>w#w-lnd94103-133-p1s11w6</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s11w7">
 <src.rf>manual</src.rf>

@@ -1362,7 +1362,7 @@
 <LM>w#w-wsj2341-001-p1s3W1</LM>
 </w.rf>
 <form>Méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2341-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2155,7 +2155,7 @@
 <LM>w#w-wsj2341-001-p1s4W34</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2341-001-p1s4W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2555,7 +2555,7 @@
 <LM>w#w-wsj2341-001-p1s5W24</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2341-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3204,7 +3204,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2341-001-p1s8W2-Ta">
@@ -4152,7 +4152,7 @@
 <LM>w#w-wsj2341-001-p1s9W27</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2341-001-p1s9W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4565,7 +4565,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2341-001-p1s12W2-Ta">
@@ -4905,7 +4905,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2341-001-p1s13W9-Ta">
@@ -5160,7 +5160,7 @@
 <LM>w#w-wsj2341-001-p1s14W13</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2341-001-p1s14W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5652,7 +5652,7 @@
 <LM>w#w-wsj2341-001-p1s17W17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2341-001-p1s17W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7494,7 +7494,7 @@
 <LM>w#w-wsj2341-001-p1s23W2</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2341-001-p1s23W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7744,7 +7744,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2341-001-p1s25W2-Ta">
@@ -9940,7 +9940,7 @@
 <tag>
 <AM lemma="Felden_;G_^(osada)" src="auto" recommended="1">NNIS5-----A----</AM>
 <AM lemma="Feldene_;m" src="manual">NNXXX-----A----</AM>
-<AM lemma="Feldene_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Feldene_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2341-001-p1s30W11-Ta">
@@ -10276,7 +10276,7 @@
 <LM>w#w-wsj2341-001-p1s31W12</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2341-001-p1s31W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11267,7 +11267,7 @@
 <LM>w#w-wsj2341-001-p1s36W5</LM>
 </w.rf>
 <form>postiženy</form>
-<tag lemma="postihnout" src="auto" recommended="1">VsTP----X-APP--</tag>
+<tag lemma="postihnout" src="auto" recommended="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-wsj2341-001-p1s36W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12007,7 +12007,7 @@
 <LM>w#w-wsj2341-001-p1s38W8</LM>
 </w.rf>
 <form>Kalamazoo</form>
-<tag lemma="Kalamazoo_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag lemma="Kalamazoo_;G_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj2341-001-p1s38W9-Ta">
 <src.rf>tagger-a</src.rf>

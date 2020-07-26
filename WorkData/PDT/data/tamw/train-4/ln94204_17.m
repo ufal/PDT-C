@@ -214,7 +214,7 @@
 <LM>w#w-ln94204-17-p2s2w1</LM>
 </w.rf>
 <form>Vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-17-p2s2w2">
 <src.rf>manual</src.rf>
@@ -1053,7 +1053,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-17-p3s7w9">
@@ -1690,7 +1690,7 @@
 <LM>w#w-ln94204-17-p5s1w9</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94204-17-p5s1w10">
 <src.rf>manual</src.rf>

@@ -223,7 +223,7 @@
 <LM>w#w-mf930703-131-p2s2w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="OSN_;m_^(Organizace_spojených_národů)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930703-131-p2s2w4">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-mf930703-131-p3s1w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="OSN_;m_^(Organizace_spojených_národů)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930703-131-p3s1w4">
 <src.rf>manual</src.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-mf930703-131-p3s1w13</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930703-131-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1818,7 +1818,7 @@
 <LM>w#w-mf930703-131-p6s3w22</LM>
 </w.rf>
 <form>zasaženy</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsTP----X-AP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-mf930703-131-p6s3w23">
 <src.rf>manual</src.rf>

@@ -93,7 +93,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-123-p1s1w11">
@@ -612,7 +612,7 @@
 <LM>w#w-mf930702-123-p2s3w2</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-123-p2s3w3">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNFXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-123-p2s4w7">
@@ -1067,7 +1067,7 @@
 <LM>w#w-mf930702-123-p3s2w8</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930702-123-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1424,7 +1424,7 @@
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČR-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-123-p4s1w3">
@@ -1452,7 +1452,7 @@
 <LM>w#w-mf930702-123-p4s1w5</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf930702-123-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1494,7 +1494,7 @@
 <form>kdekoliv</form>
 <tag>
 <AM lemma="kdekoliv" src="orig">Db-------------</AM>
-<AM lemma="kdekoli" src="auto" recommended="1" selected="1">Db------------1</AM>
+<AM lemma="kdekoliv_,s_^(^DD**kdekoli)" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-123-p4s1w11">

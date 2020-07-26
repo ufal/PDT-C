@@ -77,7 +77,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1156,7 +1156,7 @@
 <LM>w#w-lnd94104-046-p1s9w7</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-lnd94104-046-p1s9w8">
 <src.rf>manual</src.rf>
@@ -1172,7 +1172,7 @@
 <LM>w#w-lnd94104-046-p1s9w9</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-046-p1s9w10">
 <src.rf>manual</src.rf>
@@ -1394,7 +1394,7 @@
 <LM>w#w-lnd94104-046-p1s11w18</LM>
 </w.rf>
 <form>přejali</form>
-<tag lemma="přejmout" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="přejmout_^(převzít)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-046-p1s11w19">
 <src.rf>manual</src.rf>
@@ -1498,7 +1498,7 @@
 <LM>w#w-lnd94104-046-p1s11w31</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94104-046-p1s11w32">
 <src.rf>manual</src.rf>
@@ -1532,7 +1532,7 @@
 <LM>w#w-lnd94104-046-p1s12w1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94104-046-p1s12w2">
 <src.rf>manual</src.rf>

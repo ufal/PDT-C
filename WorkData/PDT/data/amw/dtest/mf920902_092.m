@@ -598,7 +598,7 @@
 <LM>w#w-mf920902-092-p2s5w17</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf920902-092-p2s5w18">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 <LM>w#w-mf920902-092-p2s6w11</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" selected="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-mf920902-092-p2s6w12">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-mf920902-092-p2s7w6</LM>
 </w.rf>
 <form>zamyslet</form>
-<tag lemma="zamyslet" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zamyslit" src="orig" selected="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-mf920902-092-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1015,7 +1015,7 @@
 <LM>w#w-mf920902-092-p2s8w12</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-092-p2s8w13">
 <src.rf>manual</src.rf>
@@ -1413,7 +1413,7 @@
 <LM>w#w-mf920902-092-p2s11w9</LM>
 </w.rf>
 <form>báli</form>
-<tag lemma="bát" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920902-092-p2s11w10">
 <src.rf>manual</src.rf>

@@ -653,7 +653,7 @@
 <LM>w#w-ln95042-083-p2s4w17</LM>
 </w.rf>
 <form>Lola</form>
-<tag lemma="Lola_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lola_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-083-p2s4w18">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-ln95042-083-p2s5w3</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95042-083-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1061,7 +1061,7 @@
 <form>KB</form>
 <tag>
 <AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_;m_^(Komerční_banka)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-083-p2s7w9">

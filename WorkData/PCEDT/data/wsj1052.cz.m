@@ -3698,7 +3698,7 @@
 <LM>w#w-wsj1052-001-p1s13W5</LM>
 </w.rf>
 <form>TW</form>
-<tag lemma="terawatt" src="auto" recommended="1">NNIXX-----A---8</tag>
+<tag lemma="terawatt" src="auto" recommended="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-wsj1052-001-p1s13W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4121,7 +4121,7 @@
 <LM>w#w-wsj1052-001-p1s15W21</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1052-001-p1s15W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4348,7 +4348,7 @@
 <LM>w#w-wsj1052-001-p1s17W11</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1052-001-p1s17W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4501,7 +4501,7 @@
 <LM>w#w-wsj1052-001-p1s18W8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1052-001-p1s18W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4642,7 +4642,7 @@
 <LM>w#w-wsj1052-001-p1s19W4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1052-001-p1s19W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5019,7 +5019,7 @@
 <LM>w#w-wsj1052-001-p1s21W17</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1052-001-p1s21W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6429,7 +6429,7 @@
 <LM>w#w-wsj1052-001-p1s29W13</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1052-001-p1s29W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -175,7 +175,7 @@
 <LM>w#w-lnd92253-055-p3s2w12</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92253-055-p3s2w13">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <LM>w#w-lnd92253-055-p3s5w3</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92253-055-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1351,7 +1351,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-055-p3s6w26">
@@ -1384,7 +1384,7 @@
 <LM>w#w-lnd92253-055-p3s6w29</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92253-055-p3s6w30">
 <src.rf>manual</src.rf>

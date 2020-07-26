@@ -399,7 +399,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč" src="auto" recommended="1" selected="1">NNFXX-----A---b</AM>
+<AM lemma="Kč_^(koruna_česká)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-017-p7s1w4">
@@ -1708,7 +1708,7 @@
 <LM>w#w-cmpr9406-017-p9s1Bw5</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9406-017-p9s1Bw6">
 <src.rf>manual</src.rf>

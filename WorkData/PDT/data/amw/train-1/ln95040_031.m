@@ -243,7 +243,7 @@
 <form>ujal</form>
 <tag>
 <AM lemma="ujmout_,x" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="ujmout" src="manual" selected="1">VpYS----R-AA--1</AM>
+<AM lemma="ujmout" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95040-031-p2s2w10">
@@ -668,7 +668,7 @@
 <LM>w#w-ln95040-031-p2s5w6</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95040-031-p2s5w7">
 <src.rf>manual</src.rf>

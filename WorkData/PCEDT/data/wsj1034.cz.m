@@ -329,7 +329,7 @@
 <LM>w#w-wsj1034-001-p1s0W29</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1034-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -894,7 +894,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -3251,7 +3251,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1034-001-p1s8W13-Ta">

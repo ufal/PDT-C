@@ -313,7 +313,7 @@
 <form>Nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-038-p3s2w2">
@@ -504,7 +504,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
+<AM lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-038-p4s1w2">
@@ -669,7 +669,7 @@
 <LM>w#w-cmpr9407-038-p4s1w21</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9407-038-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1205,7 +1205,7 @@
 <LM>w#w-cmpr9407-038-p5s1w23</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-cmpr9407-038-p5s1w25">
 <src.rf>manual</src.rf>
@@ -1650,7 +1650,7 @@
 <LM>w#w-cmpr9407-038-p8s1w19</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-cmpr9407-038-p8s1w20">
 <src.rf>manual</src.rf>
@@ -1817,7 +1817,7 @@
 <LM>w#w-cmpr9407-038-p9s1w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-038-p9s1w4">
 <src.rf>manual</src.rf>
@@ -2262,7 +2262,7 @@
 <LM>w#w-cmpr9407-038-p10s1w11</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9407-038-p10s1w12">
 <src.rf>manual</src.rf>
@@ -2302,7 +2302,7 @@
 <LM>w#w-cmpr9407-038-p10s1w17</LM>
 </w.rf>
 <form>vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9407-038-p10s1w18">
 <src.rf>manual</src.rf>
@@ -2674,7 +2674,7 @@
 <LM>w#w-cmpr9407-038-p11s2w3</LM>
 </w.rf>
 <form>pomalu</form>
-<tag lemma="pomalu" src="orig" selected="1">Db-------------</tag>
+<tag lemma="pomalu" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9407-038-p11s2w4">
 <src.rf>manual</src.rf>

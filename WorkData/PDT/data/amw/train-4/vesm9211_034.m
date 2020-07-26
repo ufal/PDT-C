@@ -70,7 +70,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -170,7 +170,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-034-p1s1Bw11">
@@ -447,7 +447,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-034-p1s1Bw43">
@@ -1053,7 +1053,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--7----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-034-p2s1w38">
@@ -1272,7 +1272,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-034-p3s1w3">
@@ -2136,7 +2136,7 @@
 <form>kg</form>
 <tag>
 <AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-034-p5s2w7">
@@ -2207,7 +2207,7 @@
 <form>ha</form>
 <tag>
 <AM lemma="ha-1`hektar_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-034-p5s2w15">
@@ -2291,7 +2291,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-034-p5s2w24">
@@ -2326,7 +2326,7 @@
 <form>s</form>
 <tag>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-034-p5s2w28">

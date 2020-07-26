@@ -225,7 +225,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-125-p2s1Bw18">
@@ -250,7 +250,7 @@
 <LM>w#w-ln95045-125-p2s1Bw20</LM>
 </w.rf>
 <form>zato</form>
-<tag lemma="zato" src="orig" selected="1">J,-------------</tag>
+<tag lemma="zato" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95045-125-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-ln95045-125-p2s2w22</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95045-125-p2s2w23">
 <src.rf>manual</src.rf>
@@ -630,7 +630,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-125-p2s3w13">
@@ -724,7 +724,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-125-p2s3w24">
@@ -833,7 +833,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-125-p2s3w37">

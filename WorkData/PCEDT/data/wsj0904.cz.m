@@ -3361,7 +3361,7 @@
 <LM>w#w-wsj0904-001-p1s9W6</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0904-001-p1s9W7-Ta">
 <src.rf>tagger-a</src.rf>

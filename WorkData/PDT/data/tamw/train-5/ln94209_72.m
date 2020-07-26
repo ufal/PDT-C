@@ -945,7 +945,7 @@
 <LM>w#w-ln94209-72-p3s4w3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln94209-72-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1009,7 +1009,7 @@
 <LM>w#w-ln94209-72-p3s4w11</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94209-72-p3s4w12">
 <src.rf>manual</src.rf>

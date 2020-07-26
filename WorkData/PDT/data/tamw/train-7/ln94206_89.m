@@ -819,7 +819,7 @@
 <LM>w#w-ln94206-89-p2s5w24</LM>
 </w.rf>
 <form>nenechal</form>
-<tag lemma="nechat" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94206-89-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1397,7 +1397,7 @@
 <LM>w#w-ln94206-89-p2s7w43</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94206-89-p2s7w44">
 <src.rf>manual</src.rf>
@@ -1551,7 +1551,7 @@
 <LM>w#w-ln94206-89-p3s1w11</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94206-89-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1871,7 +1871,7 @@
 <LM>w#w-ln94206-89-p3s3w13</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94206-89-p3s3w14">
 <src.rf>manual</src.rf>
@@ -2372,7 +2372,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-89-p4s2w2">
@@ -2780,7 +2780,7 @@
 <LM>w#w-ln94206-89-p5s1w1</LM>
 </w.rf>
 <form>Ponechme</form>
-<tag lemma="ponechat" src="orig" selected="1">Vi-P---1--A----</tag>
+<tag lemma="ponechat" src="orig" selected="1">Vi-P---1--A-P-1</tag>
 </m>
 <m id="m-ln94206-89-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2841,7 +2841,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-89-p5s1w9">
@@ -3134,7 +3134,7 @@
 <LM>w#w-ln94206-89-p5s3w13</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94206-89-p5s3w14">
 <src.rf>manual</src.rf>
@@ -3641,7 +3641,7 @@
 <LM>w#w-ln94206-89-p5s7w17</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94206-89-p5s7w18">
 <src.rf>manual</src.rf>

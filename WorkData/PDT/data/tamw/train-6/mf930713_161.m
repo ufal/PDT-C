@@ -521,7 +521,7 @@
 <LM>w#w-mf930713-161-p2s2w25</LM>
 </w.rf>
 <form>nechá</form>
-<tag lemma="nechat" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930713-161-p2s2w26">
 <src.rf>manual</src.rf>
@@ -1696,7 +1696,7 @@
 <LM>w#w-mf930713-161-p2s10w8</LM>
 </w.rf>
 <form>beztak</form>
-<tag lemma="beztak" src="orig" selected="1">Db-------------</tag>
+<tag lemma="beztak" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930713-161-p2s10w9">
 <src.rf>manual</src.rf>
@@ -1915,7 +1915,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-161-p2s13w5">
@@ -2044,7 +2044,7 @@
 <LM>w#w-mf930713-161-p2s13w20</LM>
 </w.rf>
 <form>nekoupíte</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VB-P---2P-NAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VB-P---2P-NAP--</tag>
 </m>
 <m id="m-mf930713-161-p2s13w21">
 <src.rf>manual</src.rf>
@@ -2491,7 +2491,7 @@
 <LM>w#w-mf930713-161-p2s17w11</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-161-p2s17w12">
 <src.rf>manual</src.rf>
@@ -2916,7 +2916,7 @@
 <LM>w#w-mf930713-161-p2s21w22</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-161-p2s21w23">
 <src.rf>manual</src.rf>

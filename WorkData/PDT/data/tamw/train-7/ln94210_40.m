@@ -53,7 +53,7 @@
 <form>ROH</form>
 <tag>
 <AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ROH-1_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ROH_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -526,7 +526,7 @@
 <form>ROH</form>
 <tag>
 <AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ROH-1_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ROH_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-40-p2s2w33">
@@ -667,7 +667,7 @@
 <form>ROH</form>
 <tag>
 <AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ROH-1_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ROH_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-40-p2s3w17">
@@ -694,7 +694,7 @@
 <LM>w#w-ln94210-40-p2s4w2</LM>
 </w.rf>
 <form>Jitka</form>
-<tag lemma="Jitka-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jitka-1_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-40-p2s4w3">
 <src.rf>manual</src.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-ln94210-40-p2s4w16</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94210-40-p2s4w17">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <form>ROH</form>
 <tag>
 <AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ROH-1_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ROH_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-40-p2s4w25">
@@ -1045,7 +1045,7 @@
 <form>ROH</form>
 <tag>
 <AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ROH-1_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ROH_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-40-p2s5w21">

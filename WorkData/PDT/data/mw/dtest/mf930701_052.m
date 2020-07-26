@@ -78,7 +78,7 @@
 </w.rf>
 <form>mý</form>
 <tag>
-<AM lemma="mý-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="mý-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS2-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-S1------6</AM>
@@ -542,7 +542,7 @@
 <LM>w#w-mf930701-052-p2s4w1</LM>
 </w.rf>
 <form>Nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930701-052-p2s4w2">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-mf930701-052-p2s5w11</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930701-052-p2s5w12">
 <src.rf>manual</src.rf>

@@ -71,7 +71,7 @@
 <form>VÍCE</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-042-p1s1Bw5">
@@ -265,7 +265,7 @@
 <LM>w#w-mf920925-042-p2s1w22</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf920925-042-p2s1w23">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-042-p2s4w7">
@@ -1293,7 +1293,7 @@
 <form>mld</form>
 <tag>
 <AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFXX---------b</AM>
 </tag>
 </m>
 <m id="m-mf920925-042-p4s1w26">
@@ -1551,7 +1551,7 @@
 <LM>w#w-mf920925-042-p5s2w1</LM>
 </w.rf>
 <form>Zato</form>
-<tag lemma="zato" src="orig" selected="1">J,-------------</tag>
+<tag lemma="zato" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920925-042-p5s2w2">
 <src.rf>manual</src.rf>

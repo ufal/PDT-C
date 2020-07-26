@@ -194,7 +194,7 @@
 <form>NHL</form>
 <tag>
 <AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NHL_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-033-p2s1Cw8">
@@ -460,7 +460,7 @@
 <LM>w#w-ln95049-033-p2s2w10</LM>
 </w.rf>
 <form>Rangers</form>
-<tag lemma="Rangers_;m" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Rangers-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-ln95049-033-p2s2w11">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-ln95049-033-p2s2w13</LM>
 </w.rf>
 <form>Hartfordem</form>
-<tag lemma="Hartford_;G" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Hartford_;G_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95049-033-p2s2w14">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 <LM>w#w-ln95049-033-p3s2w11</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-033-p3s2w12">
 <src.rf>manual</src.rf>
@@ -912,7 +912,7 @@
 <LM>w#w-ln95049-033-p3s3w2</LM>
 </w.rf>
 <form>remizoval</form>
-<tag lemma="remizovat" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="remizovat_,s_^(^DD**remízovat)" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95049-033-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1593,7 +1593,7 @@
 <LM>w#w-ln95049-033-p4s2w5</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-033-p4s2w6">
 <src.rf>manual</src.rf>

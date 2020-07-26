@@ -35,7 +35,7 @@
 <LM>w#w-mf930713-066-p1s1w3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-mf930713-066-p1s1w4">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-mf930713-066-p3s1w3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-mf930713-066-p3s1w4">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-mf930713-066-p5s3w5</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="orig" selected="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACMP------A----</tag>
 </m>
 <m id="m-mf930713-066-p5s3w6">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-mf930713-066-p5s3w8</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-mf930713-066-p5s3w9">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-mf930713-066-p5s5w1</LM>
 </w.rf>
 <form>Abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-mf930713-066-p5s5w3">
 <src.rf>manual</src.rf>
@@ -953,7 +953,7 @@
 <LM>w#w-mf930713-066-p9s1w2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="orig" selected="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACQW------A----</tag>
 </m>
 <m id="m-mf930713-066-p9s1w3">
 <src.rf>manual</src.rf>
@@ -1151,7 +1151,7 @@
 <LM>w#w-mf930713-066-p9s1w26</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf930713-066-p9s1w27">
 <src.rf>manual</src.rf>
@@ -1167,7 +1167,7 @@
 <LM>w#w-mf930713-066-p9s1w28</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930713-066-p9s1w29">
 <src.rf>manual</src.rf>
@@ -1337,7 +1337,7 @@
 <LM>w#w-mf930713-066-p9s2w7</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf930713-066-p9s2w8">
 <src.rf>manual</src.rf>
@@ -1449,7 +1449,7 @@
 <LM>w#w-mf930713-066-p9s2w21</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-066-p9s2w22">
 <src.rf>manual</src.rf>

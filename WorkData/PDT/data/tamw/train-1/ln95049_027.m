@@ -265,7 +265,7 @@
 <LM>w#w-ln95049-027-p2s2w2</LM>
 </w.rf>
 <form>předá</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95049-027-p2s2w3">
 <src.rf>manual</src.rf>

@@ -79,7 +79,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930708-172-p2s1w4">
@@ -349,7 +349,7 @@
 <LM>w#w-mf930708-172-p3s2w14</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930708-172-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1273,7 +1273,7 @@
 <LM>w#w-mf930708-172-p4s3w7</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930708-172-p4s3w8">
 <src.rf>manual</src.rf>

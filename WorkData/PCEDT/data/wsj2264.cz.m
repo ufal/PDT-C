@@ -857,7 +857,7 @@
 <LM>w#w-wsj2264-001-p1s4W3</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2264-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1160,7 +1160,7 @@
 <LM>w#w-wsj2264-001-p1s5W15</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2264-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4225,7 +4225,7 @@
 <LM>w#w-wsj2264-001-p1s13W16</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2264-001-p1s13W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4486,7 +4486,7 @@
 <LM>w#w-wsj2264-001-p1s14W11</LM>
 </w.rf>
 <form>zatčen</form>
-<tag lemma="zatknout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="zatknout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj2264-001-p1s14W12-Ta">
 <src.rf>tagger-a</src.rf>

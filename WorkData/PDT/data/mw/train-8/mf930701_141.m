@@ -581,7 +581,7 @@
 <LM>w#w-mf930701-141-p2s3w6</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-141-p2s3w7">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-mf930701-141-p2s3w9</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-mf930701-141-p2s3w10">
 <src.rf>manual</src.rf>

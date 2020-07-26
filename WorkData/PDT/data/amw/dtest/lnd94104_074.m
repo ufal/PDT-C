@@ -332,7 +332,7 @@
 <LM>w#w-lnd94104-074-p1s2w1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94104-074-p1s2w2">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-lnd94104-074-p1s2w21</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94104-074-p1s2w22">
 <src.rf>manual</src.rf>
@@ -1285,7 +1285,7 @@
 <LM>w#w-lnd94104-074-p1s6w6</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-074-p1s6w7">
 <src.rf>manual</src.rf>
@@ -1359,7 +1359,7 @@
 <LM>w#w-lnd94104-074-p1s7w5</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-074-p1s7w6">
 <src.rf>manual</src.rf>
@@ -1716,7 +1716,7 @@
 <LM>w#w-lnd94104-074-p1s8w6</LM>
 </w.rf>
 <form>zatčen</form>
-<tag lemma="zatknout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-lnd94104-074-p1s8w7">
 <src.rf>manual</src.rf>
@@ -2619,7 +2619,7 @@
 <LM>w#w-lnd94104-074-p1s15w9</LM>
 </w.rf>
 <form>stranou</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94104-074-p1s15w10">
 <src.rf>manual</src.rf>
@@ -2685,7 +2685,7 @@
 <LM>w#w-lnd94104-074-p1s16w7</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="mj_^(mimo_jiné)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-lnd94104-074-p1s16w8">
 <src.rf>manual</src.rf>
@@ -3357,7 +3357,7 @@
 <LM>w#w-lnd94104-074-p1s18w6</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94104-074-p1s18w7">
 <src.rf>manual</src.rf>
@@ -3661,7 +3661,7 @@
 <LM>w#w-lnd94104-074-p1s19w12</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-1" src="orig" selected="1">ClXS2----------</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-lnd94104-074-p1s19w13">
 <src.rf>manual</src.rf>
@@ -3887,7 +3887,7 @@
 <LM>w#w-lnd94104-074-p1s20w16</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-074-p1s20w17">
 <src.rf>manual</src.rf>
@@ -4121,7 +4121,7 @@
 <LM>w#w-lnd94104-074-p1s22w4</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94104-074-p1s22w5">
 <src.rf>manual</src.rf>
@@ -4249,7 +4249,7 @@
 <LM>w#w-lnd94104-074-p1s22w20</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94104-074-p1s22w21">
 <src.rf>manual</src.rf>
@@ -4537,7 +4537,7 @@
 <LM>w#w-lnd94104-074-p1s24w14</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd94104-074-p1s24w15">
 <src.rf>manual</src.rf>
@@ -4545,7 +4545,7 @@
 <LM>w#w-lnd94104-074-p1s24w15</LM>
 </w.rf>
 <form>déle</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd94104-074-p1s24w16">
 <src.rf>manual</src.rf>
@@ -4667,7 +4667,7 @@
 <LM>w#w-lnd94104-074-p1s25w8</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd94104-074-p1s25w9">
 <src.rf>manual</src.rf>
@@ -5181,7 +5181,7 @@
 <LM>w#w-lnd94104-074-p1s27w15</LM>
 </w.rf>
 <form>Nobelovou</form>
-<tag lemma="Nobelův_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Nobelův_;Y_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-lnd94104-074-p1s27w16">
 <src.rf>manual</src.rf>
@@ -5621,7 +5621,7 @@
 <LM>w#w-lnd94104-074-p1s29w15</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-074-p1s29w16">
 <src.rf>manual</src.rf>
@@ -6022,7 +6022,7 @@
 <LM>w#w-lnd94104-074-p1s32w6</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-074-p1s32w7">
 <src.rf>manual</src.rf>
@@ -6056,7 +6056,7 @@
 <form>KwaZulu</form>
 <tag>
 <AM lemma="Kwazulu-2_;G_^(Kwazulu_v_Natalu)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Kwazulu_;G_^(jen_v_názvu_Kwazulu_Natal)" src="auto" recommended="1" selected="1">AAXXX----1A----</AM>
+<AM lemma="Kwazulu-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-074-p1s32w11">
@@ -6503,7 +6503,7 @@
 <LM>w#w-lnd94104-074-p1s36w16</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-074-p1s36w17">
 <src.rf>manual</src.rf>

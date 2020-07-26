@@ -149,7 +149,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-047-p1s1w18">
@@ -2220,7 +2220,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-047-p6s2w5">

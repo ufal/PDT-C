@@ -842,7 +842,7 @@
 <LM>w#w-lnd91301-057-p5s5w5</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd91301-057-p5s5w6">
 <src.rf>manual</src.rf>
@@ -1209,7 +1209,7 @@
 <LM>w#w-lnd91301-057-p6s2Bw22</LM>
 </w.rf>
 <form>zatčen</form>
-<tag lemma="zatknout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-lnd91301-057-p6s2Bw23">
 <src.rf>manual</src.rf>

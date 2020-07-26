@@ -319,7 +319,7 @@
 <LM>w#w-ln95046-037-p2s3w6</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-ln95046-037-p2s3w7">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-ln95046-037-p2s3w8</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln95046-037-p2s3w9">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-ln95046-037-p2s3w9</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95046-037-p2s3w10">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-ln95046-037-p2s4w8</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln95046-037-p2s4w9">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-ln95046-037-p2s6w4</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="mj_^(mimo_jiné)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-ln95046-037-p2s6w5">
 <src.rf>manual</src.rf>
@@ -875,7 +875,7 @@
 <form>ČSA</form>
 <tag>
 <AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSA-1_;m_^(Čs./České_aerolinie)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSA_;m_^(Čs./České_aerolinie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-037-p2s6w11">
@@ -1217,7 +1217,7 @@
 <LM>w#w-ln95046-037-p2s7w26</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95046-037-p2s7w27">
 <src.rf>manual</src.rf>

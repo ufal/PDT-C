@@ -2975,7 +2975,7 @@
 <LM>w#w-wsj0927-001-p1s10W1</LM>
 </w.rf>
 <form>Dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0927-001-p1s10W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3178,7 +3178,7 @@
 <LM>w#w-wsj0927-001-p1s11W6</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0927-001-p1s11W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4197,7 +4197,7 @@
 <LM>w#w-wsj0927-001-p1s15W7</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0927-001-p1s15W8-Ta">
 <src.rf>tagger-a</src.rf>

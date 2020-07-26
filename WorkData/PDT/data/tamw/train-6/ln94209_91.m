@@ -159,7 +159,7 @@
 <LM>w#w-ln94209-91-p2s1Aw13</LM>
 </w.rf>
 <form>Francouzka</form>
-<tag lemma="Francouzka_;E" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Francouzka_;E_^(*2)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-91-p2s1Aw14">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <LM>w#w-ln94209-91-p2s1Bw2</LM>
 </w.rf>
 <form>zpravodajka</form>
-<tag lemma="zpravodajka-2_^(člověk)_(*4-2)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="zpravodajka-2_^(*4-2)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-91-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-ln94209-91-p2s2w2</LM>
 </w.rf>
 <form>Magdalenu</form>
-<tag lemma="Magdalena_;Y" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Magdalena_;G_;Y_,s_^(^DD**Magdaléna)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94209-91-p2s2w3">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-ln94209-91-p2s3w5</LM>
 </w.rf>
 <form>Francouzkou</form>
-<tag lemma="Francouzka_;E" src="auto" selected="1">NNFS7-----A----</tag>
+<tag lemma="Francouzka_;E_^(*2)" src="auto" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94209-91-p2s3w6">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-ln94209-91-p2s3w20</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94209-91-p2s3w21">
 <src.rf>manual</src.rf>
@@ -2058,7 +2058,7 @@
 <LM>w#w-ln94209-91-p4s5w15</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94209-91-p4s5w16">
 <src.rf>manual</src.rf>
@@ -2326,7 +2326,7 @@
 <LM>w#w-ln94209-91-p4s7w5</LM>
 </w.rf>
 <form>Magdalena</form>
-<tag lemma="Magdalena_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Magdalena_;G_;Y_,s_^(^DD**Magdaléna)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-91-p4s7w6">
 <src.rf>manual</src.rf>
@@ -2390,7 +2390,7 @@
 <LM>w#w-ln94209-91-p4s7w13</LM>
 </w.rf>
 <form>bránila</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94209-91-p4s7w14">
 <src.rf>manual</src.rf>
@@ -2544,7 +2544,7 @@
 <LM>w#w-ln94209-91-p4s8w16</LM>
 </w.rf>
 <form>Francouzka</form>
-<tag lemma="Francouzka_;E" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Francouzka_;E_^(*2)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-91-p4s8w17">
 <src.rf>manual</src.rf>
@@ -2634,7 +2634,7 @@
 <LM>w#w-ln94209-91-p4s9w9</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="orig" selected="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACQW------A----</tag>
 </m>
 <m id="m-ln94209-91-p4s9w10">
 <src.rf>manual</src.rf>
@@ -2815,7 +2815,7 @@
 <LM>w#w-ln94209-91-p4s10w11</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94209-91-p4s10w12">
 <src.rf>manual</src.rf>
@@ -3043,7 +3043,7 @@
 <LM>w#w-ln94209-91-p4s12w3</LM>
 </w.rf>
 <form>gamů</form>
-<tag lemma="game_^(hra)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="game-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94209-91-p4s12w4">
 <src.rf>manual</src.rf>
@@ -3676,7 +3676,7 @@
 <LM>w#w-ln94209-91-p5s1w46</LM>
 </w.rf>
 <form>šampion</form>
-<tag lemma="šampion" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="šampion_,s_^(^DD**šampión)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-91-p5s1w47">
 <src.rf>manual</src.rf>
@@ -3734,7 +3734,7 @@
 <LM>w#w-ln94209-91-p5s2w4</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94209-91-p5s2w5">
 <src.rf>manual</src.rf>
@@ -4096,7 +4096,7 @@
 <LM>w#w-ln94209-91-p5s3w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94209-91-p5s3w4">
 <src.rf>manual</src.rf>
@@ -4408,7 +4408,7 @@
 <LM>w#w-ln94209-91-p5s4w20</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94209-91-p5s4w21">
 <src.rf>manual</src.rf>

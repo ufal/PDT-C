@@ -19,7 +19,7 @@
 <LM>w#w-mf930702-060-p1s1w1</LM>
 </w.rf>
 <form>Strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-060-p1s1w2">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-mf930702-060-p2s4w7</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930702-060-p2s4w8">
 <src.rf>manual</src.rf>

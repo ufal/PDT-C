@@ -228,7 +228,7 @@
 <LM>w#w-ln95042-043-p2s1Bw17</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95042-043-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>remizoval</form>
-<tag lemma="remizovat" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="remizovat_,s_^(^DD**remízovat)" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95042-043-p2s2w7">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-ln95042-043-p2s4w10</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-ln95042-043-p2s4w11">
 <src.rf>manual</src.rf>

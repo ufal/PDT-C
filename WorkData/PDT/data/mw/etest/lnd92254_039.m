@@ -55,7 +55,7 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="StB_;m_^(Státní_bezpečnost)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -830,7 +830,7 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="StB_;m_^(Státní_bezpečnost)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-039-p3s5w16">
@@ -922,7 +922,7 @@
 <LM>w#w-lnd92254-039-p3s5w26</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92254-039-p3s5w27">
 <src.rf>manual</src.rf>

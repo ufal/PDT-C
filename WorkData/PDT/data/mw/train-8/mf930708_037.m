@@ -1038,7 +1038,7 @@
 <LM>w#w-mf930708-037-p4s3w18</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-mf930708-037-p4s4">
@@ -1193,7 +1193,7 @@
 <LM>w#w-mf930708-037-p4s5w13</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf930708-037-p4s5w14">
 <src.rf>manual</src.rf>
@@ -1763,7 +1763,7 @@
 <LM>w#w-mf930708-037-p6s1w20</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-037-p6s1w21">
 <src.rf>manual</src.rf>
@@ -2374,7 +2374,7 @@
 <LM>w#w-mf930708-037-p7s3w9</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf930708-037-p7s3w10">
 <src.rf>manual</src.rf>
@@ -2488,7 +2488,7 @@
 <LM>w#w-mf930708-037-p7s4w11</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-037-p7s4w12">
 <src.rf>manual</src.rf>

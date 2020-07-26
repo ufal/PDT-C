@@ -143,7 +143,7 @@
 <LM>w#w-ln95045-098-p2s1Bw6</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95045-098-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -933,7 +933,7 @@
 <LM>w#w-ln95045-098-p3s2w23</LM>
 </w.rf>
 <form>nemocech</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP6-----A---1</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP6-----A---1</tag>
 </m>
 <m id="m-ln95045-098-p3s2w24">
 <src.rf>manual</src.rf>

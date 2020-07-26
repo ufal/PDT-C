@@ -265,7 +265,7 @@
 <LM>w#w-ln94202-74-p2s2w3</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94202-74-p2s2w4">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-ln94202-74-p2s3w23</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94202-74-p2s3w24">
 <src.rf>manual</src.rf>

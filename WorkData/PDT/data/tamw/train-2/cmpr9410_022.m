@@ -707,7 +707,7 @@
 <LM>w#w-cmpr9410-022-p8s3w4</LM>
 </w.rf>
 <form>předány</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsTP----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-cmpr9410-022-p8s3w5">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-cmpr9410-022-p8s4w5</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9410-022-p8s4w6">
 <src.rf>manual</src.rf>
@@ -1195,7 +1195,7 @@
 <LM>w#w-cmpr9410-022-p10s1w7</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9410-022-p10s1w8">
 <src.rf>manual</src.rf>
@@ -1412,7 +1412,7 @@
 <LM>w#w-cmpr9410-022-p10s2w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9410-022-p10s2w4">
 <src.rf>manual</src.rf>
@@ -1512,7 +1512,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-022-p10s3w9">
@@ -1722,7 +1722,7 @@
 <form>nám</form>
 <tag>
 <AM lemma="náměstí_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-022-p11s1w6">
@@ -1813,7 +1813,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-022-p11s1w17">

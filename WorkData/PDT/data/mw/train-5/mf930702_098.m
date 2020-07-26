@@ -135,7 +135,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-098-p2s1w7">
@@ -168,7 +168,7 @@
 <LM>w#w-mf930702-098-p2s1w10</LM>
 </w.rf>
 <form>tajně</form>
-<tag lemma="tajně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="tajně-1_^(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930702-098-p2s1w11">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-mf930702-098-p2s2w4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-mf930702-098-p2s2w5">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-mf930702-098-p3s1w4</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-098-p3s1w5">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 <LM>w#w-mf930702-098-p3s1w8</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-mf930702-098-p3s1w9">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-mf930702-098-p5s1w1</LM>
 </w.rf>
 <form>Nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930702-098-p5s1w2">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-mf930702-098-p5s2w1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930702-098-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1555,7 +1555,7 @@
 <LM>w#w-mf930702-098-p5s7w8</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930702-098-p5s7w9">
 <src.rf>manual</src.rf>
@@ -1907,7 +1907,7 @@
 <form>scenárista</form>
 <tag>
 <AM lemma="scenárista" src="orig">NNMS1-----A----</AM>
-<AM lemma="scenárista_,s_^(^DD**scénárista)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="scenárista" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-098-p6s2w9">
@@ -1978,7 +1978,7 @@
 <LM>w#w-mf930702-098-p6s3w3</LM>
 </w.rf>
 <form>ideologicko</form>
-<tag lemma="ideologický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="ideologicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930702-098-p6s3w4">
 <src.rf>manual</src.rf>
@@ -2143,7 +2143,7 @@
 <LM>w#w-mf930702-098-p6s4w17</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-098-p6s4w18">
 <src.rf>manual</src.rf>
@@ -2223,7 +2223,7 @@
 <LM>w#w-mf930702-098-p6s4w27</LM>
 </w.rf>
 <form>politiku</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930702-098-p6s4w28">
 <src.rf>manual</src.rf>
@@ -2593,7 +2593,7 @@
 <form>stě</form>
 <tag>
 <AM lemma="sto-2`100" src="orig">NNNP4-----A---1</AM>
-<AM lemma="sto`100" src="manual" selected="1">CzNXX---------2</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
 </tag>
 </m>
 <m id="m-mf930702-098-p8s2w11">
@@ -4287,7 +4287,7 @@
 <LM>w#w-mf930702-098-p12s4w1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930702-098-p12s4w2">
 <src.rf>manual</src.rf>
@@ -4453,7 +4453,7 @@
 <LM>w#w-mf930702-098-p12s6w4</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-098-p12s6w5">
 <src.rf>manual</src.rf>

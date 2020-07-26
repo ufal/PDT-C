@@ -142,7 +142,7 @@
 <LM>w#w-ln94208-110-p2s1Bw5</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94208-110-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-ln94208-110-p2s2w4</LM>
 </w.rf>
 <form>nestává</form>
-<tag lemma="stávat-2_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="stávat-2_^(*5t-2)_(*5t-3)" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94208-110-p2s2w5">
 <src.rf>manual</src.rf>

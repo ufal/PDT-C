@@ -268,7 +268,7 @@
 <form>ÖMV</form>
 <tag>
 <AM lemma="ÖMV_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÖMV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ÖMV_;m_^(Österreichische_Mineralölverwaltung)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-022-p2s2w14">
@@ -506,7 +506,7 @@
 <LM>w#w-mf930701-022-p3s1w22</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930701-022-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1601,7 +1601,7 @@
 <form>ÖMV</form>
 <tag>
 <AM lemma="ÖMV_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÖMV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ÖMV_;m_^(Österreichische_Mineralölverwaltung)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-022-p5s1w7">
@@ -1790,7 +1790,7 @@
 <form>ÖMV</form>
 <tag>
 <AM lemma="ÖMV_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÖMV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ÖMV_;m_^(Österreichische_Mineralölverwaltung)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-022-p5s2w2">
@@ -2417,7 +2417,7 @@
 <form>ÖMV</form>
 <tag>
 <AM lemma="ÖMV_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ÖMV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ÖMV_;m_^(Österreichische_Mineralölverwaltung)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-022-p6s2w3">

@@ -425,7 +425,7 @@
 <LM>w#w-d1t1976-8</LM>
 </w.rf>
 <form>Mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m137-d1t1976-10">
 <w.rf>
@@ -591,7 +591,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m137-d1t1978-11">
@@ -1034,7 +1034,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m137-d1t2007-6">
@@ -1191,7 +1191,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1213,7 +1213,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m137-d1t2014-7">
@@ -1442,7 +1442,7 @@
 <LM>w#w-d1t2025-9</LM>
 </w.rf>
 <form>Koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m137-d1t2025-10">
 <w.rf>
@@ -2099,7 +2099,7 @@
 <LM>w#w-d1t2063-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m137-201-202">
 <w.rf>

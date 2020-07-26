@@ -61,7 +61,7 @@
 <LM>w#w-cmpr9416-034-p3s1w3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-cmpr9416-034-p3s1w4">
 <src.rf>manual</src.rf>
@@ -266,7 +266,7 @@
 <LM>w#w-cmpr9416-034-p3s2w3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-cmpr9416-034-p3s2w4">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-cmpr9416-034-p3s2w4</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-034-p3s2w5">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-cmpr9416-034-p4s1w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-034-p4s1w4">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 <LM>w#w-cmpr9416-034-p4s1w9</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9416-034-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1342,7 +1342,7 @@
 <LM>w#w-cmpr9416-034-p5s1w15</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9416-034-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1494,7 +1494,7 @@
 <form>stává</form>
 <tag>
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-034-p5s2w4">
@@ -1551,7 +1551,7 @@
 <LM>w#w-cmpr9416-034-p5s2w10</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-cmpr9416-034-p5s2w11">
 <src.rf>manual</src.rf>
@@ -2047,7 +2047,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-034-p6s1w15">
@@ -2326,7 +2326,7 @@
 <form>odst</form>
 <tag>
 <AM lemma="odstavec_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="odstavec" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="odstavec" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-034-p6s1w49">
@@ -2367,7 +2367,7 @@
 <LM>w#w-cmpr9416-034-p6s1w53</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9416-034-p6s1w54">
 <src.rf>manual</src.rf>

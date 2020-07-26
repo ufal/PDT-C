@@ -336,7 +336,7 @@
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="orig">RR--7----------</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94204-42-p2s3w3">
@@ -347,7 +347,7 @@
 <form>r</form>
 <tag>
 <AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
-<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-42-p2s3w4">
@@ -366,7 +366,7 @@
 <form>o</form>
 <tag>
 <AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
-<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-42-p2s3w6">
@@ -543,7 +543,7 @@
 <LM>w#w-ln94204-42-p2s3w26</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94204-42-p2s3w27">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-ln94204-42-p2s3w35</LM>
 </w.rf>
 <form>zaměstnává</form>
-<tag lemma="zaměstnávat-1_^(všeob._význam:_činnost,_zaměstnání)_(*6at-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="zaměstnávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-42-p2s3w36">
 <src.rf>manual</src.rf>
@@ -745,7 +745,7 @@
 <LM>w#w-ln94204-42-p2s5w3</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94204-42-p2s5w4">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-42-p2s5w13">
@@ -898,7 +898,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-42-p2s6w9">
@@ -915,7 +915,7 @@
 <LM>w#w-ln94204-42-p2s6w10</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94204-42-p2s6w11">
 <src.rf>manual</src.rf>

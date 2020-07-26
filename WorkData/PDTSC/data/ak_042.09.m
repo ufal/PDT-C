@@ -464,7 +464,7 @@
 <LM>w#w-d1t2302-4</LM>
 </w.rf>
 <form>brejlích</form>
-<tag lemma="brejle_,h_,s_^(^DD**brýle)" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="brejle_,s_^(^DD**brýle)" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m042-d1e2297-x2-189">
 <w.rf>
@@ -1013,7 +1013,7 @@
 <LM>w#w-d1t2346-8</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m042-232-233">
 <w.rf>
@@ -1671,7 +1671,7 @@
 <LM>w#w-d1t2395-2</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m042-d1t2395-3">
 <w.rf>
@@ -2022,7 +2022,7 @@
 <LM>w#w-d1t2438-4</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m042-d-id131434-punct">
 <w.rf>
@@ -2243,7 +2243,7 @@
 <LM>w#w-d1t2442-5</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m042-d1t2442-6">
 <w.rf>
@@ -2508,7 +2508,7 @@
 <LM>w#w-d1t2446-17</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m042-d1t2446-18">
 <w.rf>
@@ -2967,7 +2967,7 @@
 <LM>w#w-d1t2512-5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m042-d-id133523-punct">
 <w.rf>
@@ -3065,7 +3065,7 @@
 <LM>w#w-d1t2518-12</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m042-d1t2518-13">
 <w.rf>

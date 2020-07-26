@@ -3174,7 +3174,7 @@
 <LM>w#w-wsj0194-001-p1s9W5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0194-001-p1s9W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4169,7 +4169,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0194-001-p1s12W20-Ta">
@@ -4359,7 +4359,7 @@
 <LM>w#w-wsj0194-001-p1s13W5</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0194-001-p1s13W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5590,7 +5590,7 @@
 <LM>w#w-wsj0194-001-p1s15W16</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0194-001-p1s15W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6260,7 +6260,7 @@
 <LM>w#w-wsj0194-001-p1s17W20</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0194-001-p1s17W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6377,7 +6377,7 @@
 <LM>w#w-wsj0194-001-p1s17W28</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0194-001-p1s17W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8500,7 +8500,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0194-001-p1s26W2-Ta">

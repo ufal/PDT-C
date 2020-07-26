@@ -109,7 +109,7 @@
 <LM>w#w-ln94200-37-p2s1w8</LM>
 </w.rf>
 <form>Grada</form>
-<tag lemma="Grada_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Grada_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-37-p2s1w9">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-ln94200-37-p2s3w19</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94200-37-p2s3w20">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-ln94200-37-p2s4w13</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94200-37-p2s4w14">
 <src.rf>manual</src.rf>
@@ -736,7 +736,7 @@
 <LM>w#w-ln94200-37-p3s1w9</LM>
 </w.rf>
 <form>Odysea</form>
-<tag lemma="odyssea" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="odysea_,s_^(^DD**odyssea)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-37-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1593,7 +1593,7 @@
 <LM>w#w-ln94200-37-p3s4w15</LM>
 </w.rf>
 <form>snem</form>
-<tag lemma="sen" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94200-37-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1979,7 +1979,7 @@
 <LM>w#w-ln94200-37-p3s6w14</LM>
 </w.rf>
 <form>esejů</form>
-<tag lemma="esej" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="esej-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94200-37-p3s6w15">
 <src.rf>manual</src.rf>

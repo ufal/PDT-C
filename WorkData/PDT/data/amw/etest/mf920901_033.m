@@ -85,7 +85,7 @@
 <LM>w#w-mf920901-033-p2s1w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-033-p2s1w7">
 <src.rf>manual</src.rf>

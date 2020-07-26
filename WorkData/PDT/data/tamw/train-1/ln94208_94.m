@@ -69,7 +69,7 @@
 <LM>w#w-ln94208-94-p2s1w3</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-94-p2s1w4">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-ln94208-94-p2s3Aw12</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-94-p2s3Aw13">
 <src.rf>manual</src.rf>

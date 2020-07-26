@@ -1505,7 +1505,7 @@
 </w.rf>
 <form>Polákům</form>
 <tag>
-<AM lemma="Polák_;E" src="auto" recommended="1">NNMP3-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="auto" recommended="1">NNMP3-----A----</AM>
 <AM lemma="Poláky_;G" src="auto">NNIP3-----A----</AM>
 <AM lemma="polák-1_;U" src="auto">NNMP3-----A----</AM>
 </tag>

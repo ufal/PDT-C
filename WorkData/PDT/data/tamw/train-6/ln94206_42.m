@@ -399,7 +399,7 @@
 <LM>w#w-ln94206-42-p2s2w20</LM>
 </w.rf>
 <form>politiku</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94206-42-p2s2w21">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-ln94206-42-p3s1w6</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94206-42-p3s1w7">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-ln94206-42-p3s1w33</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94206-42-p3s1w34">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 <LM>w#w-ln94206-42-p3s2w11</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94206-42-p3s2w12">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-42-p3s3w15">
@@ -1691,7 +1691,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-42-p5s2w31">
@@ -1880,7 +1880,7 @@
 <LM>w#w-ln94206-42-p5s4w9</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94206-42-p5s4w10">
 <src.rf>manual</src.rf>
@@ -1952,7 +1952,7 @@
 <LM>w#w-ln94206-42-p5s4w18</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94206-42-p5s4w19">
 <src.rf>manual</src.rf>
@@ -1979,7 +1979,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-42-p5s4w22">

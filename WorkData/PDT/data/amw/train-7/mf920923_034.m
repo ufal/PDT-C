@@ -61,7 +61,7 @@
 <LM>w#w-mf920923-034-p2s1w3</LM>
 </w.rf>
 <form>nak</form>
-<tag lemma="nak-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="nak-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920923-034-p2s1w4">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <form>MUDr</form>
 <tag>
 <AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-034-p2s5w7">

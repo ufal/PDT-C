@@ -310,7 +310,7 @@
 <form>A</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p3s1w2">
@@ -329,7 +329,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p3s1w4">
@@ -381,7 +381,7 @@
 <LM>w#w-ln94205-23-p3s1w9</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94205-23-p3s1w10">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <form>s</form>
 <tag>
 <AM lemma="státní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="státní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="státní" src="manual" selected="1">AAXXX----1A---a</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p3s1w11">
@@ -410,7 +410,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p3s1w13">
@@ -1283,7 +1283,7 @@
 <form>mil</form>
 <tag>
 <AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p4s4w9">

@@ -829,7 +829,7 @@
 <form>ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
+<AM lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-132-p5s3w16">
@@ -1649,7 +1649,7 @@
 <LM>w#w-mf930709-132-p6s5w9</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf930709-132-p6s5w10">
 <src.rf>manual</src.rf>
@@ -1947,7 +1947,7 @@
 <LM>w#w-mf930709-132-p6s6w27</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930709-132-p6s6w28">
 <src.rf>manual</src.rf>
@@ -2501,7 +2501,7 @@
 <LM>w#w-mf930709-132-p6s9w17</LM>
 </w.rf>
 <form>životně</form>
-<tag lemma="životně_^(souvisí_se_životem;_prostředí,...)_(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="životně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930709-132-p6s9w18">
 <src.rf>manual</src.rf>
@@ -2589,7 +2589,7 @@
 <LM>w#w-mf930709-132-p6s9w28</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930709-132-p6s9w29">
 <src.rf>manual</src.rf>

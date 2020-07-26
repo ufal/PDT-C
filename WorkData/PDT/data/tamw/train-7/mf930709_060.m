@@ -521,7 +521,7 @@
 <LM>w#w-mf930709-060-p3s3w3</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930709-060-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1278,7 +1278,7 @@
 <form>ČSA</form>
 <tag>
 <AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSA-1_;m_^(Čs./České_aerolinie)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSA_;m_^(Čs./České_aerolinie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-060-p5s1w10">
@@ -1443,7 +1443,7 @@
 <form>ČSA</form>
 <tag>
 <AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSA-1_;m_^(Čs./České_aerolinie)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSA_;m_^(Čs./České_aerolinie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-060-p5s2w11">

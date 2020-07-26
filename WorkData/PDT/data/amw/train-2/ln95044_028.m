@@ -439,7 +439,7 @@
 <LM>w#w-ln95044-028-p2s3w16</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95044-028-p2s3w17">
 <src.rf>manual</src.rf>

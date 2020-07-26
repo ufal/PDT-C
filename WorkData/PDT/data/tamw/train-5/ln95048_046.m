@@ -183,7 +183,7 @@
 <LM>w#w-ln95048-046-p2s3w1</LM>
 </w.rf>
 <form>Nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln95048-046-p2s3w2">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-ln95048-046-p2s10w7</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-046-p2s10w8">
 <src.rf>manual</src.rf>
@@ -1154,7 +1154,7 @@
 <form>stává</form>
 <tag>
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95048-046-p2s13w14">
@@ -2243,7 +2243,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95048-046-p2s22w7">
 <src.rf>manual</src.rf>
@@ -2856,7 +2856,7 @@
 <LM>w#w-ln95048-046-p2s24w40</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-ln95048-046-p2s24w41">
 <src.rf>manual</src.rf>
@@ -2975,7 +2975,7 @@
 <LM>w#w-ln95048-046-p3s3Aw1</LM>
 </w.rf>
 <form>Přeložil</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-046-p3s3Aw2">
 <src.rf>manual</src.rf>

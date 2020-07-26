@@ -863,7 +863,7 @@
 <LM>w#w-lnd92252-096-p4s1w15</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92252-096-p4s1w16">
 <src.rf>manual</src.rf>
@@ -879,7 +879,7 @@
 <LM>w#w-lnd92252-096-p4s1w17</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-096-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1426,7 +1426,7 @@
 <LM>w#w-lnd92252-096-p6s2w27</LM>
 </w.rf>
 <form>řecko</form>
-<tag lemma="řecký" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="řecko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92252-096-p6s2w28">
 <src.rf>manual</src.rf>

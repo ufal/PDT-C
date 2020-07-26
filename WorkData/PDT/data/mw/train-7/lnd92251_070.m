@@ -290,7 +290,7 @@
 <LM>w#w-lnd92251-070-p2s2w6</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92251-070-p2s2w7">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-lnd92251-070-p2s2w13</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92251-070-p2s2w14">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-lnd92251-070-p2s3w22</LM>
 </w.rf>
 <form>můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-lnd92251-070-p2s3w23">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-lnd92251-070-p2s4w10</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92251-070-p2s4w11">
 <src.rf>manual</src.rf>
@@ -980,7 +980,7 @@
 <AM lemma="Flor_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Flor_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="flóra_,x" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Flora_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Flora_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-070-p4s1w15">
@@ -1015,7 +1015,7 @@
 <LM>w#w-lnd92251-070-p4s2w2</LM>
 </w.rf>
 <form>Vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-lnd92251-070-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1127,7 +1127,7 @@
 <LM>w#w-lnd92251-070-p4s2w16</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-lnd92251-070-p4s2w17">
 <src.rf>manual</src.rf>

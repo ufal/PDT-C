@@ -51,7 +51,7 @@
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSFR-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-073-p2s1w4">
@@ -140,7 +140,7 @@
 <LM>w#w-mf920902-073-p2s1w14</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-mf920902-073-p2s1w15">
 <src.rf>manual</src.rf>
@@ -172,7 +172,7 @@
 <LM>w#w-mf920902-073-p2s1w18</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-mf920902-073-p2s1w19">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-mf920902-073-p3s1w25</LM>
 </w.rf>
 <form>našemu</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS3-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS3-P1-------</tag>
 </m>
 <m id="m-mf920902-073-p3s1w26">
 <src.rf>manual</src.rf>

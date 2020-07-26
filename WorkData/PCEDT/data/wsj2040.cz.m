@@ -246,7 +246,7 @@
 <LM>w#w-wsj2040-001-p1s0W20</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2040-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2388,7 +2388,7 @@
 <LM>w#w-wsj2040-001-p1s7W45</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2040-001-p1s7W46-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3539,7 +3539,7 @@
 <LM>w#w-wsj2040-001-p1s13W16</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m-wsj2040-001-p1s13W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3558,7 +3558,7 @@
 <LM>w#w-wsj2040-001-p1s13W18</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m-wsj2040-001-p1s13W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5443,7 +5443,7 @@
 <LM>w#w-wsj2040-001-p1s18W17</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2040-001-p1s18W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5643,7 +5643,7 @@
 <LM>w#w-wsj2040-001-p1s19W16</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2040-001-p1s19W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9619,7 +9619,7 @@
 <LM>w#w-wsj2040-001-p1s31W8</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2040-001-p1s31W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12010,7 +12010,7 @@
 <LM>w#w-wsj2040-001-p1s38W8</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2040-001-p1s38W9-Ta">
 <src.rf>tagger-a</src.rf>

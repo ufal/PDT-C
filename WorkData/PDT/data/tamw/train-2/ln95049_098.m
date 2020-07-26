@@ -29,7 +29,7 @@
 <form>ČSSD</form>
 <tag>
 <AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSSD_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-098-p1s1w3">
@@ -378,7 +378,7 @@
 <LM>w#w-ln95049-098-p2s2w2</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95049-098-p2s2w3">
 <src.rf>manual</src.rf>

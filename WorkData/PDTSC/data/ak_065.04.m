@@ -22,7 +22,7 @@
 <LM>w#w-d1t1115-3</LM>
 </w.rf>
 <form>uměli</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m065-d-id97727-punct">
 <w.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-d1t1146-4</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m065-d1t1146-5">
 <w.rf>
@@ -758,7 +758,7 @@
 </w.rf>
 <form>Jitka</form>
 <tag>
-<AM lemma="Jitka-1_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Jitka-1_;Y_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Jitka-2_;m" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -831,7 +831,7 @@
 <LM>w#w-d1t1166-3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m065-d1t1166-4">
 <w.rf>
@@ -1922,7 +1922,7 @@
 <LM>w#w-d1t1242-11</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m065-d1t1242-13">
 <w.rf>
@@ -3186,7 +3186,7 @@
 <LM>w#w-d1t1314-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m065-d1t1314-4">
 <w.rf>
@@ -3287,7 +3287,7 @@
 <LM>w#w-d1t1320-6</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m065-d1t1320-7">
 <w.rf>
@@ -4494,7 +4494,7 @@
 <LM>w#w-d1t1401-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m065-d1t1401-2">
 <w.rf>

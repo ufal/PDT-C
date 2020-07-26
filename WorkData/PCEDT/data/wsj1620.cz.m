@@ -2467,7 +2467,7 @@
 <LM>w#w-wsj1620-001-p1s5W9</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1620-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2487,7 +2487,7 @@
 <LM>w#w-wsj1620-001-p1s5W11</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1620-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>

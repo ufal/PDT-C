@@ -457,7 +457,7 @@
 <LM>w#w-ln94204-160-p2s3w4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94204-160-p2s3w5">
 <src.rf>manual</src.rf>
@@ -1260,7 +1260,7 @@
 <LM>w#w-ln94204-160-p4s3w9</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94204-160-p4s3w10">
 <src.rf>manual</src.rf>

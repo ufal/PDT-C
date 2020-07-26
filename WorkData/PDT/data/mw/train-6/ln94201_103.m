@@ -35,7 +35,7 @@
 <LM>w#w-ln94201-103-p1s1w3</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94201-103-p2s1">
@@ -117,7 +117,7 @@
 <LM>w#w-ln94201-103-p2s1w10</LM>
 </w.rf>
 <form>neprávem</form>
-<tag lemma="právem" src="auto" selected="1">Db--------N----</tag>
+<tag lemma="právem" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-ln94201-103-p2s1w11">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SSSR_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-103-p2s2w14">
@@ -354,7 +354,7 @@
 <LM>w#w-ln94201-103-p2s2w25</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94201-103-p2s2w26">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-ln94201-103-p2s3w3</LM>
 </w.rf>
 <form>rad</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94201-103-p2s3w4">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SSSR_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-103-p3s1w6">
@@ -796,7 +796,7 @@
 <LM>w#w-ln94201-103-p3s3w14</LM>
 </w.rf>
 <form>pasů</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94201-103-p3s3w15">
 <src.rf>manual</src.rf>
@@ -860,7 +860,7 @@
 <LM>w#w-ln94201-103-p3s3w22</LM>
 </w.rf>
 <form>pasů</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94201-103-p3s3w23">
 <src.rf>manual</src.rf>
@@ -1210,7 +1210,7 @@
 <LM>w#w-ln94201-103-p4s3w11</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_^(a_tak_dále)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="atd_^(a_tak_dále)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-ln94201-103-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1382,7 +1382,7 @@
 <LM>w#w-ln94201-103-p5s1w12</LM>
 </w.rf>
 <form>slovensko</form>
-<tag lemma="slovenský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="slovensko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94201-103-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1984,7 +1984,7 @@
 <LM>w#w-ln94201-103-p8s2w3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94201-103-p8s2w4">
 <src.rf>manual</src.rf>

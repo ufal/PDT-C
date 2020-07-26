@@ -287,7 +287,7 @@
 <LM>w#w-d1t1935-1</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m133-d-id129204-punct">
 <w.rf>
@@ -2416,7 +2416,7 @@
 <LM>w#w-d1t2040-3</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m133-d1t2040-4">
 <w.rf>
@@ -2729,7 +2729,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m133-d1t2049-3">
@@ -3117,7 +3117,7 @@
 <LM>w#w-d1t2070-5</LM>
 </w.rf>
 <form>nejradši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------3A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m133-d-id134632-punct">
 <w.rf>
@@ -3131,7 +3131,7 @@
 <LM>w#w-d1t2070-7</LM>
 </w.rf>
 <form>kdybychom</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m133-d1t2070-8">
 <w.rf>
@@ -3303,7 +3303,7 @@
 <LM>w#w-d1t2074-1</LM>
 </w.rf>
 <form>nerada</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------N----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------N----</tag>
 </m>
 <m id="m133-d1t2074-2">
 <w.rf>
@@ -3345,7 +3345,7 @@
 <LM>w#w-d1t2074-6</LM>
 </w.rf>
 <form>nerada</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------N----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------N----</tag>
 </m>
 <m id="m133-d1t2074-7">
 <w.rf>
@@ -3372,7 +3372,7 @@
 <LM>w#w-d1t2074-9</LM>
 </w.rf>
 <form>nerada</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------N----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------N----</tag>
 </m>
 <m id="m133-d1t2074-10">
 <w.rf>
@@ -4880,7 +4880,7 @@
 <LM>w#w-d1t2137-9</LM>
 </w.rf>
 <form>miminkem</form>
-<tag lemma="miminko_,e" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag lemma="miminko" src="auto" recommended="1">NNNS7-----A----</tag>
 </m>
 <m id="m133-42-43">
 <w.rf>
@@ -5849,7 +5849,7 @@
 <LM>w#w-d1t2201-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m133-d1t2201-1">
 <w.rf>

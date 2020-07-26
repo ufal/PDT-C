@@ -2792,7 +2792,7 @@
 <LM>w#w-18-26</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m137-18-27">
 <w.rf>
@@ -3472,7 +3472,7 @@
 <LM>w#w-d1t1642-1</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m137-d1t1642-2">
 <w.rf>
@@ -3533,7 +3533,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m137-d-m-d1e1669-x2-punct-punct">
@@ -5395,7 +5395,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m137-d1t1750-1">

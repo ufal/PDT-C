@@ -119,7 +119,7 @@
 <LM>w#w-ln94200-103-p2s1Bw8</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94200-103-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 <LM>w#w-ln94200-103-p2s2w29</LM>
 </w.rf>
 <form>okem</form>
-<tag lemma="oko" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94200-103-p2s2w30">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-ln94200-103-p2s6w3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94200-103-p2s6w4">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">CzIP2----------</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-ln94200-103-p2s6w8">
@@ -1255,7 +1255,7 @@
 <LM>w#w-ln94200-103-p3s1w8</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln94200-103-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1711,7 +1711,7 @@
 <LM>w#w-ln94200-103-p3s4w28</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94200-103-p3s4w29">
 <src.rf>manual</src.rf>
@@ -1719,7 +1719,7 @@
 <LM>w#w-ln94200-103-p3s4w29</LM>
 </w.rf>
 <form>vydělat</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94200-103-p3s4w30">
 <src.rf>manual</src.rf>
@@ -1913,7 +1913,7 @@
 <LM>w#w-ln94200-103-p3s5w15</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94200-103-p3s5w16">
 <src.rf>manual</src.rf>

@@ -620,7 +620,7 @@
 <LM>w#w-ln95048-054-p2s3w23</LM>
 </w.rf>
 <form>politiku</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-054-p2s3w24">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-ln95048-054-p2s5w1</LM>
 </w.rf>
 <form>Právem</form>
-<tag lemma="právem" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="právem" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95048-054-p2s5w2">
 <src.rf>manual</src.rf>
@@ -1123,7 +1123,7 @@
 <LM>w#w-ln95048-054-p3s1w4</LM>
 </w.rf>
 <form>nemohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m-ln95048-054-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1283,7 +1283,7 @@
 <LM>w#w-ln95048-054-p3s1w24</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-054-p3s1w25">
 <src.rf>manual</src.rf>
@@ -1379,7 +1379,7 @@
 <LM>w#w-ln95048-054-p3s1w36</LM>
 </w.rf>
 <form>politiku</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-054-p3s1w37">
 <src.rf>manual</src.rf>
@@ -1959,7 +1959,7 @@
 <LM>w#w-ln95048-054-p3s3Bw24</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95048-054-p3s3Bw25">
 <src.rf>manual</src.rf>
@@ -2454,7 +2454,7 @@
 <LM>w#w-ln95048-054-p3s5w7</LM>
 </w.rf>
 <form>zamyslet</form>
-<tag lemma="zamyslet" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zamyslit" src="orig" selected="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-ln95048-054-p3s5w8">
 <src.rf>manual</src.rf>
@@ -2544,7 +2544,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-054-p3s5w19">
@@ -3005,7 +3005,7 @@
 <form>resp</form>
 <tag>
 <AM lemma="respektive_:B" src="auto">Db------------8</AM>
-<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------b</AM>
 </tag>
 </m>
 <m id="m-ln95048-054-p4s2w14">
@@ -3126,7 +3126,7 @@
 <LM>w#w-ln95048-054-p4s2w28</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95048-054-p4s2w29">
 <src.rf>manual</src.rf>
@@ -3509,7 +3509,7 @@
 <LM>w#w-ln95048-054-p4s4w8</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95048-054-p4s4w9">
 <src.rf>manual</src.rf>
@@ -3593,7 +3593,7 @@
 <LM>w#w-ln95048-054-p4s4w18</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95048-054-p4s4w19">
 <src.rf>manual</src.rf>
@@ -3938,7 +3938,7 @@
 <LM>w#w-ln95048-054-p5s1w24</LM>
 </w.rf>
 <form>nemůžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-ln95048-054-p5s1w25">
 <src.rf>manual</src.rf>
@@ -4156,7 +4156,7 @@
 <LM>w#w-ln95048-054-p5s2w1</LM>
 </w.rf>
 <form>Politika</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-054-p5s2w2">
 <src.rf>manual</src.rf>

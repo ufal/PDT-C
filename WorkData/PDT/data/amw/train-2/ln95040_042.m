@@ -215,7 +215,7 @@
 <LM>w#w-ln95040-042-p2s1Bw21</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln95040-042-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -2200,7 +2200,7 @@
 <LM>w#w-ln95040-042-p4s1w38</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95040-042-p4s1w39">
 <src.rf>manual</src.rf>
@@ -3512,7 +3512,7 @@
 <LM>w#w-ln95040-042-p5s4w14</LM>
 </w.rf>
 <form>bardáma</form>
-<tag lemma="bardáma_,h_,l" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="bardáma_,h" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-042-p5s4w15">
 <src.rf>manual</src.rf>

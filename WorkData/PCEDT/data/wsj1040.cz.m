@@ -38,7 +38,7 @@
 <LM>w#w-wsj1040-001-p1s0W3</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77" src="auto" recommended="1">B%-------------</tag>
+<tag lemma="Ltd-77" src="auto" recommended="1">F%-------------</tag>
 </m>
 <m id="m-wsj1040-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-wsj1040-001-p1s1W30</LM>
 </w.rf>
 <form>datem</form>
-<tag lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS7-----A----</tag>
 </m>
 <m id="m-wsj1040-001-p1s1W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1359,7 +1359,7 @@
 <LM>w#w-wsj1040-001-p1s5W20</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
+<tag lemma="tj_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
 </m>
 <m id="m-wsj1040-001-p1s5W21-Ta">
 <src.rf>tagger-a</src.rf>

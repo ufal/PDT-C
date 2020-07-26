@@ -187,7 +187,7 @@
 <LM>w#w-d1t2424-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m044-d1t2424-3">
 <w.rf>
@@ -262,7 +262,7 @@
 <LM>w#w-d1t2442-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m044-d1t2442-4">
 <w.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-d1t2485-3</LM>
 </w.rf>
 <form>myslel</form>
-<tag lemma="myslet" src="auto" recommended="1">VpYS----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m044-d-id126993-punct">
 <w.rf>
@@ -1593,7 +1593,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m044-d1e2534-x2-948">
@@ -2595,7 +2595,7 @@
 <LM>w#w-d1t2565-5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m044-d-m-d1e2538-x3-punct-punct">
 <w.rf>
@@ -2708,7 +2708,7 @@
 <LM>w#w-d1t2594-2</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m044-d1t2594-3">
 <w.rf>
@@ -4031,7 +4031,7 @@
 </w.rf>
 <form>sika</form>
 <tag>
-<AM lemma="sika_^(jelen)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="sika_^(jelen_sika)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="sika_;U_^(jelen_sika)" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -4249,7 +4249,7 @@
 <LM>w#w-d1t2674-9</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m044-1044-1050">
 <w.rf>

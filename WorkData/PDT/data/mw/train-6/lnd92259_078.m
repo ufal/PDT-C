@@ -748,7 +748,7 @@
 <LM>w#w-lnd92259-078-p4s1w38</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-078-p4s1w39">
 <src.rf>manual</src.rf>
@@ -1899,7 +1899,7 @@
 <LM>w#w-lnd92259-078-p4s7w11</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="orig" selected="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACMP------A----</tag>
 </m>
 <m id="m-lnd92259-078-p4s7w12">
 <src.rf>manual</src.rf>
@@ -2284,7 +2284,7 @@
 <LM>w#w-lnd92259-078-p4s7w58</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="orig" selected="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACMP------A----</tag>
 </m>
 <m id="m-lnd92259-078-p4s7w59">
 <src.rf>manual</src.rf>
@@ -2453,7 +2453,7 @@
 <LM>w#w-lnd92259-078-p4s7w78</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="orig" selected="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACMP------A----</tag>
 </m>
 <m id="m-lnd92259-078-p4s7w79">
 <src.rf>manual</src.rf>

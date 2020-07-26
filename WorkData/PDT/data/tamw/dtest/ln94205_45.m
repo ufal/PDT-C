@@ -146,7 +146,7 @@
 <LM>w#w-ln94205-45-p2s1Bw7</LM>
 </w.rf>
 <form>hodinách</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln94205-45-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 <form>hl</form>
 <tag>
 <AM lemma="hlavní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="hlavní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="hlavní" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-45-p2s3w6">
@@ -564,7 +564,7 @@
 <LM>w#w-ln94205-45-p2s3w23</LM>
 </w.rf>
 <form>báli</form>
-<tag lemma="bát" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94205-45-p2s3w24">
 <src.rf>manual</src.rf>

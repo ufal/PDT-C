@@ -73,7 +73,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1876-001-p1s1W2-Ta">
@@ -351,7 +351,7 @@
 <LM>w#w-wsj1876-001-p1s1W17</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1876-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1309,7 +1309,7 @@
 <LM>w#w-wsj1876-001-p1s5W16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2240,7 +2240,7 @@
 <LM>w#w-wsj1876-001-p1s11W19</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s11W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2313,7 +2313,7 @@
 <LM>w#w-wsj1876-001-p1s11W27</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s11W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2386,7 +2386,7 @@
 <LM>w#w-wsj1876-001-p1s11W35</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s11W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2459,7 +2459,7 @@
 <LM>w#w-wsj1876-001-p1s11W43</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s11W44-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2532,7 +2532,7 @@
 <LM>w#w-wsj1876-001-p1s11W51</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s11W52-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2891,7 +2891,7 @@
 <LM>w#w-wsj1876-001-p1s12W24</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s12W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2944,7 +2944,7 @@
 <LM>w#w-wsj1876-001-p1s12W30</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s12W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2997,7 +2997,7 @@
 <LM>w#w-wsj1876-001-p1s12W36</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s12W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3750,7 +3750,7 @@
 <LM>w#w-wsj1876-001-p1s14W25</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s14W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4216,7 +4216,7 @@
 <LM>w#w-wsj1876-001-p1s17W8</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s17W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4269,7 +4269,7 @@
 <LM>w#w-wsj1876-001-p1s17W14</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s17W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4322,7 +4322,7 @@
 <LM>w#w-wsj1876-001-p1s17W20</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s17W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4375,7 +4375,7 @@
 <LM>w#w-wsj1876-001-p1s17W26</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s17W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4428,7 +4428,7 @@
 <LM>w#w-wsj1876-001-p1s17W32</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s17W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4481,7 +4481,7 @@
 <LM>w#w-wsj1876-001-p1s17W38</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s17W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7731,7 +7731,7 @@
 <LM>w#w-wsj1876-001-p1s26W11</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s26W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8500,7 +8500,7 @@
 <LM>w#w-wsj1876-001-p1s30W11</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s30W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9308,7 +9308,7 @@
 <LM>w#w-wsj1876-001-p1s33W11</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1876-001-p1s33W12-Ta">
 <src.rf>tagger-a</src.rf>

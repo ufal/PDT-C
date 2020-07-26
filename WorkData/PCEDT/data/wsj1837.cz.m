@@ -149,7 +149,7 @@
 <LM>w#w-wsj1837-001-p1s0W13</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1837-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-wsj1837-001-p1s2W15</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1837-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2069,7 +2069,7 @@
 <LM>w#w-wsj1837-001-p1s5W34</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1837-001-p1s5W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2375,7 +2375,7 @@
 <LM>w#w-wsj1837-001-p1s7W5</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1837-001-p1s7W6-Ta">
 <src.rf>tagger-a</src.rf>

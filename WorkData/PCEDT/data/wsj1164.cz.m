@@ -212,7 +212,7 @@
 <LM>w#w-wsj1164-001-p1s0W16</LM>
 </w.rf>
 <form>událostech</form>
-<tag lemma="událost_^(*3ý)" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="událost" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m-wsj1164-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2398,7 +2398,7 @@
 <LM>w#w-wsj1164-001-p1s8W9</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1164-001-p1s8W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2997,7 +2997,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>

@@ -2302,7 +2302,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2327-001-p1s7W13-Ta">
@@ -2606,7 +2606,7 @@
 <LM>w#w-wsj2327-001-p1s8W15</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj2327-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2767,7 +2767,7 @@
 <LM>w#w-wsj2327-001-p1s8W29</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2327-001-p1s8W30-Ta">
 <src.rf>tagger-a</src.rf>

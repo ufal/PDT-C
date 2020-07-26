@@ -139,7 +139,7 @@
 <LM>w#w-mf930701-170-p1s1w16</LM>
 </w.rf>
 <form>pomalu</form>
-<tag lemma="pomalu" src="orig" selected="1">Db-------------</tag>
+<tag lemma="pomalu" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930701-170-p1s1w17">
 <src.rf>manual</src.rf>

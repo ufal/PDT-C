@@ -269,7 +269,7 @@
 <LM>w#w-lnd94103-101-p1s2w12</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94103-101-p1s2w13">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-lnd94103-101-p1s3w6</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94103-101-p1s3w7">
 <src.rf>manual</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-lnd94103-101-p1s4w10</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd94103-101-p1s4w11">
 <src.rf>manual</src.rf>
@@ -1222,7 +1222,7 @@
 <LM>w#w-lnd94103-101-p1s6w20</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94103-101-p1s6w21">
 <src.rf>manual</src.rf>
@@ -2479,7 +2479,7 @@
 <LM>w#w-lnd94103-101-p1s12w9</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94103-101-p1s12w10">
 <src.rf>manual</src.rf>
@@ -3694,7 +3694,7 @@
 <LM>w#w-lnd94103-101-p1s17Bw1</LM>
 </w.rf>
 <form>Aleš</form>
-<tag lemma="Aleš-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Aleš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-101-p1s17Bw2">
 <src.rf>manual</src.rf>

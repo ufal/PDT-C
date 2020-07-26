@@ -287,7 +287,7 @@
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-1_:B_;m_;^(Občanská_demokratická_strana)" src="manual">NNXXX-----A----</AM>
-<AM lemma="ODS-1_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-072-p2s2w12">
@@ -336,7 +336,7 @@
 <LM>w#w-mf930709-072-p2s2w17</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-072-p2s2w18">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-mf930709-072-p2s3w16</LM>
 </w.rf>
 <form>stranách</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930709-072-p2s3w17">
 <src.rf>manual</src.rf>

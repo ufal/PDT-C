@@ -244,7 +244,7 @@
 <form>SBČS</form>
 <tag>
 <AM lemma="SBČS_:B_;m_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SBČS_;m_^(býv._Státní_banka_československá)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-139-p3s2w21">
@@ -907,7 +907,7 @@
 <LM>w#w-lnd92255-139-p3s4w24</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-139-p3s4w25">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln94206-122-p1s1w4</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94206-122-p1s1w5">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 <LM>w#w-ln94206-122-p2s1Aw7</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94206-122-p2s1Aw8">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-ln94206-122-p2s1Bw2</LM>
 </w.rf>
 <form>zpravodajka</form>
-<tag lemma="zpravodajka-2_^(člověk)_(*4-2)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="zpravodajka-2_^(*4-2)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-122-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <LM>w#w-ln94206-122-p2s2w16</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94206-122-p2s2w17">
 <src.rf>manual</src.rf>
@@ -1131,7 +1131,7 @@
 <LM>w#w-ln94206-122-p3s1w16</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94206-122-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1285,7 +1285,7 @@
 <LM>w#w-ln94206-122-p3s2w9</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94206-122-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1381,7 +1381,7 @@
 <LM>w#w-ln94206-122-p3s2w21</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94206-122-p3s2w22">
 <src.rf>manual</src.rf>
@@ -2846,7 +2846,7 @@
 <form>pozn</form>
 <tag>
 <AM lemma="poznámka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94206-122-p3s11w20">
@@ -2869,7 +2869,7 @@
 <AM lemma="aut" src="auto">NNIS4-----A----</AM>
 <AM lemma="auto" src="auto">NNNP2-----A----</AM>
 <AM lemma="autor_:B" src="auto" recommended="1">NNMXX-----A---8</AM>
-<AM lemma="autor" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="autor" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94206-122-p3s11w22">

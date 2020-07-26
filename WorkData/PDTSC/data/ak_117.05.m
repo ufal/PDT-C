@@ -14,7 +14,7 @@
 <form>Velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m117-d1t1229-2">
@@ -520,7 +520,7 @@
 <LM>w#w-d1t1244-21</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m117-d1t1244-22">
 <w.rf>
@@ -1084,7 +1084,7 @@
 </w.rf>
 <form>Turků</form>
 <tag>
-<AM lemma="Turek_;E" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="Turek_;E_;Y" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="turek_,h_^(turecká_káva)" src="auto">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -2761,7 +2761,7 @@
 <form>Dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m117-d1t1387-2">
@@ -2969,7 +2969,7 @@
 <LM>w#w-d1t1397-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m117-d1t1397-4">
 <w.rf>
@@ -4081,7 +4081,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m117-d1t1460-3">

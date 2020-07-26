@@ -2380,7 +2380,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--4----------</AM>
-<AM lemma="více" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-043-p3s5w13">
@@ -3653,7 +3653,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95040-043-p4s6w11">
@@ -3928,7 +3928,7 @@
 <LM>w#w-ln95040-043-p4s7w1</LM>
 </w.rf>
 <form>Kdybychom</form>
-<tag lemma="kdyby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="kdyby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-ln95040-043-p4s7w3">
 <src.rf>manual</src.rf>
@@ -4104,7 +4104,7 @@
 <LM>w#w-ln95040-043-p4s7w24</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95040-043-p4s7w25">
 <src.rf>manual</src.rf>

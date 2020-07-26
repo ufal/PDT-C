@@ -300,7 +300,7 @@
 <LM>w#w-ln95042-021-p1s1w36</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95042-021-p1s1w37">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-ln95042-021-p1s3w24</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95042-021-p1s3w25">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-ln95042-021-p1s5w23</LM>
 </w.rf>
 <form>Votobia</form>
-<tag lemma="Votobia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Votobia_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-021-p1s5w24">
 <src.rf>manual</src.rf>
@@ -1039,7 +1039,7 @@
 <LM>w#w-ln95042-021-p1s5w33</LM>
 </w.rf>
 <form>překládá</form>
-<tag lemma="překládat-3_^(z_jazyka)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="překládat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-021-p1s5w34">
 <src.rf>manual</src.rf>

@@ -257,7 +257,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920925-116-p2s2w19">
@@ -744,7 +744,7 @@
 <LM>w#w-mf920925-116-p3s3w11</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920925-116-p3s3w12">
 <src.rf>manual</src.rf>

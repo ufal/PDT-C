@@ -180,7 +180,7 @@
 <form>intenzivně</form>
 <tag>
 <AM lemma="intenzivně_^(*4ívní)" src="orig">Dg-------1A----</AM>
-<AM lemma="intenzivně_,s_^(^DD**intenzívně)_^(*4ivní)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="intenzivně_^(^DD**intenzívně)_(*1í)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-84-p2s1Bw14">
@@ -351,7 +351,7 @@
 <LM>w#w-ln94204-84-p2s2w10</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94204-84-p2s2w11">
 <src.rf>manual</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-ln94204-84-p3s3w6</LM>
 </w.rf>
 <form>německo</form>
-<tag lemma="německý" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="německo" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94204-84-p3s3w7">
 <src.rf>manual</src.rf>
@@ -821,7 +821,7 @@
 <LM>w#w-ln94204-84-p3s3w11</LM>
 </w.rf>
 <form>Evropu</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94204-84-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1552,7 +1552,7 @@
 <LM>w#w-ln94204-84-p4s4w14</LM>
 </w.rf>
 <form>staly</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-84-p4s4w15">
 <src.rf>manual</src.rf>
@@ -2153,7 +2153,7 @@
 <LM>w#w-ln94204-84-p5s5w3</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-ln94204-84-p5s5w4">
 <src.rf>manual</src.rf>
@@ -2270,7 +2270,7 @@
 <LM>w#w-ln94204-84-p5s6w8</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln94204-84-p5s6w9">
 <src.rf>manual</src.rf>

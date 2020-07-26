@@ -1186,7 +1186,7 @@
 <LM>w#w-wsj0150-001-p1s3W30</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0150-001-p1s3W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1299,7 +1299,7 @@
 <LM>w#w-wsj0150-001-p1s4W11</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0150-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>

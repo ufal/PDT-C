@@ -574,7 +574,7 @@
 <LM>w#w-mf920923-043-p4s1w13</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920923-043-p4s1w14">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <LM>w#w-mf920923-043-p5s1w29</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-043-p5s1w30">
 <src.rf>manual</src.rf>
@@ -1412,7 +1412,7 @@
 <LM>w#w-mf920923-043-p7s3w12</LM>
 </w.rf>
 <form>vydělat</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920923-043-p7s3w13">
 <src.rf>manual</src.rf>
@@ -2172,7 +2172,7 @@
 <LM>w#w-mf920923-043-p12s1w4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-mf920923-043-p12s1w5">
 <src.rf>manual</src.rf>
@@ -2229,7 +2229,7 @@
 <LM>w#w-mf920923-043-p12s1w11</LM>
 </w.rf>
 <form>táhne</form>
-<tag lemma="táhnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="táhnout" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-043-p12s1w12">
 <src.rf>manual</src.rf>
@@ -2305,7 +2305,7 @@
 <LM>w#w-mf920923-043-p13s1w3</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-mf920923-043-p13s1w4">
 <src.rf>manual</src.rf>
@@ -2321,7 +2321,7 @@
 <LM>w#w-mf920923-043-p13s1w5</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="orig" selected="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACMP------A----</tag>
 </m>
 <m id="m-mf920923-043-p13s1w6">
 <src.rf>manual</src.rf>
@@ -2425,7 +2425,7 @@
 <LM>w#w-mf920923-043-p13s1w19</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920923-043-p13s1w20">
 <src.rf>manual</src.rf>
@@ -2451,7 +2451,7 @@
 <LM>w#w-mf920923-043-p13s2w1</LM>
 </w.rf>
 <form>Stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920923-043-p13s2w2">
 <src.rf>manual</src.rf>
@@ -2549,7 +2549,7 @@
 <LM>w#w-mf920923-043-p14s1w3</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920923-043-p14s1w4">
 <src.rf>manual</src.rf>
@@ -2607,7 +2607,7 @@
 <LM>w#w-mf920923-043-p15s1w3</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-mf920923-043-p15s1w4">
 <src.rf>manual</src.rf>
@@ -2945,7 +2945,7 @@
 <LM>w#w-mf920923-043-p18s1w2</LM>
 </w.rf>
 <form>Můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-mf920923-043-p18s1w3">
 <src.rf>manual</src.rf>
@@ -3289,7 +3289,7 @@
 <LM>w#w-mf920923-043-p22s1w2</LM>
 </w.rf>
 <form>Může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-043-p22s1w3">
 <src.rf>manual</src.rf>
@@ -3493,7 +3493,7 @@
 <LM>w#w-mf920923-043-p23s2w2</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-mf920923-043-p23s2w3">
 <src.rf>manual</src.rf>

@@ -307,7 +307,7 @@
 <LM>w#w-1022-4511</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m976-1022-4512">
 <w.rf>
@@ -358,7 +358,7 @@
 <LM>w#w-id61416-9</LM>
 </w.rf>
 <form>čelně</form>
-<tag lemma="čelně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="čelně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m976-id61416-8">
 <w.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-id61501-7</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m976-id61511-1">
 <w.rf>
@@ -4630,7 +4630,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -4706,7 +4706,7 @@
 <LM>w#w-id62205-11</LM>
 </w.rf>
 <form>začla</form>
-<tag lemma="začít" src="auto" recommended="1">VpQW----R-AAP-6</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpQW----R-AAP-6</tag>
 </m>
 <m id="m976-id62205-12">
 <w.rf>
@@ -4974,7 +4974,7 @@
 <form>pochopitelně</form>
 <tag>
 <AM lemma="pochopitelně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="pochopitelně-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="pochopitelně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m976-2127-2157">
@@ -5715,7 +5715,7 @@
 <form>pochopitelně</form>
 <tag>
 <AM lemma="pochopitelně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="pochopitelně-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="pochopitelně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m976-id62410-x1-315">
@@ -6680,7 +6680,7 @@
 <form>řikáte</form>
 <tag>
 <AM lemma="říkat_,h_,x" src="auto" recommended="1">VB-P---2P-AA--6</AM>
-<AM lemma="říkat" src="manual" selected="1">VB-P---2P-AA--6</AM>
+<AM lemma="řikat_,h_^(^GC**říkat)" src="manual" selected="1">VB-P---2P-AAI--</AM>
 </tag>
 </m>
 <m id="m976-id62661-x1-963">

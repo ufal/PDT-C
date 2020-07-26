@@ -90,7 +90,7 @@
 </w.rf>
 <form>tk</form>
 <tag>
-<AM lemma="tk-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="tk-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="tknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 </tag>
 </m>
@@ -306,7 +306,7 @@
 <LM>w#w-mf930703-075-p2s2w2</LM>
 </w.rf>
 <form>Nemohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m-mf930703-075-p2s2w3">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ČSL-1_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-075-p2s3w21">
@@ -625,7 +625,7 @@
 <LM>w#w-mf930703-075-p3s1w4</LM>
 </w.rf>
 <form>Slováků</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930703-075-p3s1w5">
 <src.rf>manual</src.rf>

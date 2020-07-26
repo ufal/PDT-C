@@ -836,7 +836,7 @@
 <LM>w#w-wsj2302-001-p1s3W2</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2302-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>

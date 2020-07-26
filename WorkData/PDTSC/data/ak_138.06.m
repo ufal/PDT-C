@@ -1033,7 +1033,7 @@
 </w.rf>
 <form>těžko</form>
 <tag>
-<AM lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" selected="1">Dg-------1A----</AM>
+<AM lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" selected="1">Dg-------1A----</AM>
 <AM lemma="těžko-2_^(sotva)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -1414,7 +1414,7 @@
 <form>Mami</form>
 <tag>
 <AM lemma="máma" src="auto" recommended="1">NNFS1-----A---1</AM>
-<AM lemma="máma" src="auto" selected="1">NNFS5-----A---1</AM>
+<AM lemma="mami_,h" src="auto" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m138-d-id113254-punct">
@@ -2364,7 +2364,7 @@
 <LM>w#w-d1t2369-10</LM>
 </w.rf>
 <form>Nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m138-d1t2369-8">
 <w.rf>
@@ -2676,7 +2676,7 @@
 <LM>w#w-d1t2382-1</LM>
 </w.rf>
 <form>Nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m138-d1t2382-2">
 <w.rf>

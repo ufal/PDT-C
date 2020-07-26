@@ -139,7 +139,7 @@
 <LM>w#w-lnd92255-016-p1s1w16</LM>
 </w.rf>
 <form>předal</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-016-p1s1w17">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFP2-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFP2-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-016-p1s2w23">
@@ -530,7 +530,7 @@
 <LM>w#w-lnd92255-016-p1s2w29</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-lnd92255-016-p1s2w30">
 <src.rf>manual</src.rf>

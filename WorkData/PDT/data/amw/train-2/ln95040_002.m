@@ -124,7 +124,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-002-p2s1Bw2">
@@ -649,7 +649,7 @@
 <LM>w#w-ln95040-002-p3s2w6</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95040-002-p3s2w7">
 <src.rf>manual</src.rf>

@@ -1180,7 +1180,7 @@
 <LM>w#w-ln94200-137-p3s5w16</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-137-p3s5w17">
 <src.rf>manual</src.rf>
@@ -1278,7 +1278,7 @@
 <LM>w#w-ln94200-137-p3s6w5</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94200-137-p3s6w6">
 <src.rf>manual</src.rf>
@@ -1624,7 +1624,7 @@
 <LM>w#w-ln94200-137-p4s1w13</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-ln94200-137-p4s1w14">
 <src.rf>manual</src.rf>
@@ -2152,7 +2152,7 @@
 <LM>w#w-ln94200-137-p4s5w3</LM>
 </w.rf>
 <form>bys</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---2-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Is-</tag>
 </m>
 <m id="m-ln94200-137-p4s5w4">
 <src.rf>manual</src.rf>

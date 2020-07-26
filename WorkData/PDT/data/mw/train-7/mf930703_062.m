@@ -722,7 +722,7 @@
 <LM>w#w-mf930703-062-p2s3w5</LM>
 </w.rf>
 <form>esejem</form>
-<tag lemma="esej" src="orig" selected="1">NNIS7-----A---1</tag>
+<tag lemma="esej-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930703-062-p2s3w6">
 <src.rf>manual</src.rf>
@@ -980,7 +980,7 @@
 <LM>w#w-mf930703-062-p2s4w24</LM>
 </w.rf>
 <form>vydat</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930703-062-p2s4w25">
 <src.rf>manual</src.rf>

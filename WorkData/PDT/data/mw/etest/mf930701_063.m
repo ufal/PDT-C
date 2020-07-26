@@ -125,7 +125,7 @@
 </w.rf>
 <form>mas</form>
 <tag>
-<AM lemma="mas-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="mas-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -1257,7 +1257,7 @@
 <form>stech</form>
 <tag>
 <AM lemma="sto-2`100_^(o_pěti_stech_mužů)" src="orig">NNNP6-----A----</AM>
-<AM lemma="sto-1`100_" src="manual" selected="1">CzNP6----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP6----------</AM>
 </tag>
 </m>
 <m id="m-mf930701-063-p3s5w13">
@@ -1367,7 +1367,7 @@
 <LM>w#w-mf930701-063-p3s6w3</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930701-063-p3s6w4">
 <src.rf>manual</src.rf>
@@ -1497,7 +1497,7 @@
 <LM>w#w-mf930701-063-p4s1w11</LM>
 </w.rf>
 <form>vydělal</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-063-p4s1w12">
 <src.rf>manual</src.rf>

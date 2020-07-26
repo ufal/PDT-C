@@ -467,7 +467,7 @@
 <LM>w#w-wsj1024-001-p1s0W38</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1024-001-p1s0W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-wsj1024-001-p1s0W51</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1024-001-p1s0W52-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1007,7 +1007,7 @@
 <LM>w#w-wsj1024-001-p1s1W17</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1024-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1256,7 +1256,7 @@
 <LM>w#w-wsj1024-001-p1s2W5</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1024-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>

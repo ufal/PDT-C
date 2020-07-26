@@ -875,7 +875,7 @@
 <LM>w#w-lnd94105-048-p1s6w5</LM>
 </w.rf>
 <form>vzaly</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-048-p1s6w6">
 <src.rf>manual</src.rf>

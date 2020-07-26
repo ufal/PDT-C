@@ -321,7 +321,7 @@
 <LM>w#w-mf930713-014-p2s2w9</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-014-p2s2w10">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-mf930713-014-p2s6w8</LM>
 </w.rf>
 <form>vydával</form>
-<tag lemma="vydávat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="vydávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-014-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1639,7 +1639,7 @@
 <LM>w#w-mf930713-014-p2s9w47</LM>
 </w.rf>
 <form>radách</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930713-014-p2s9w48">
 <src.rf>manual</src.rf>
@@ -1657,7 +1657,7 @@
 <LM>w#w-mf930713-014-p2s10w1</LM>
 </w.rf>
 <form>Vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-014-p2s10w2">
 <src.rf>manual</src.rf>

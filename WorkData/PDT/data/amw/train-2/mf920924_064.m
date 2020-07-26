@@ -274,7 +274,7 @@
 <LM>w#w-mf920924-064-p2s2w24</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-1" src="orig" selected="1">ClXS7----------</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf920924-064-p2s2w25">
 <src.rf>manual</src.rf>

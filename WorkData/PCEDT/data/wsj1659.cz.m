@@ -1658,7 +1658,7 @@
 <form>programech</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP6-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP6-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1659-001-p1s3W24-Ta">
@@ -1728,7 +1728,7 @@
 <LM>w#w-wsj1659-001-p1s3W30</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1659-001-p1s3W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2384,7 +2384,7 @@
 <LM>w#w-wsj1659-001-p1s5W4</LM>
 </w.rf>
 <form>presidentka</form>
-<tag lemma="presidentka_,s_^(^DD**prezident)_(*2)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="presidentka_^(^DD**prezidentka)_(*2)" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1659-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7205,7 +7205,7 @@
 <LM>w#w-wsj1659-001-p1s18W32</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1659-001-p1s18W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8249,7 +8249,7 @@
 <form>programech</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP6-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP6-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1659-001-p1s21W28-Ta">
@@ -8755,7 +8755,7 @@
 <LM>w#w-wsj1659-001-p1s24W2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj1659-001-p1s24W3-Ta">
 <src.rf>tagger-a</src.rf>

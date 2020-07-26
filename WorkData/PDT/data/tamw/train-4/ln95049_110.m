@@ -800,7 +800,7 @@
 <LM>w#w-ln95049-110-p2s6w8</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95049-110-p2s6w9">
 <src.rf>manual</src.rf>

@@ -81,7 +81,7 @@
 <LM>w#w-d1t16-4</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m953-d1t16-5">
 <w.rf>
@@ -220,7 +220,7 @@
 <LM>w#w-d1t28-7</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m953-d1t28-8">
 <w.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-d1t50-4</LM>
 </w.rf>
 <form>Nekoupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-NAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m953-d1t50-2">
 <w.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-d1t91-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m953-d1t91-4">
 <w.rf>
@@ -1573,7 +1573,7 @@
 <LM>w#w-d1t139-5</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m953-d1t139-6">
 <w.rf>
@@ -1884,7 +1884,7 @@
 <LM>w#w-d1e84-x6-1421</LM>
 </w.rf>
 <form>raději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m953-d1t150-2">
 <w.rf>
@@ -4589,7 +4589,7 @@
 <form>kg</form>
 <tag>
 <AM lemma="kilogram_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m953-1096-1111">
@@ -5763,7 +5763,7 @@
 <LM>w#w-d1t425-6</LM>
 </w.rf>
 <form>Ukradli</form>
-<tag lemma="ukrást" src="auto" recommended="1">VpMP----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m953-d1e355-x8-2081">
 <w.rf>

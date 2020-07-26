@@ -854,7 +854,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94207-11-p4s3w13">
@@ -951,7 +951,7 @@
 <LM>w#w-ln94207-11-p4s3w24</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-ln94207-11-p4s3w25">
 <src.rf>manual</src.rf>

@@ -86,7 +86,7 @@
 </w.rf>
 <form>kolikrát</form>
 <tag>
-<AM lemma="kolikrát-1_^(mnohokrát)" src="auto" recommended="1">Co-------------</AM>
+<AM lemma="kolikrát" src="auto" recommended="1">Co-------------</AM>
 <AM lemma="kolikrát-2_^(táz.)" src="auto">Cu-------------</AM>
 </tag>
 </m>
@@ -315,7 +315,7 @@
 <LM>w#w-d1t709-17</LM>
 </w.rf>
 <form>porodnicko</form>
-<tag lemma="porodnický" src="auto" recommended="1">S2--------A----</tag>
+<tag lemma="porodnicko" src="auto" recommended="1">S2--------A----</tag>
 </m>
 <m id="m121-d1t709-18">
 <w.rf>
@@ -947,7 +947,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m121-d1t734-7">
@@ -1257,7 +1257,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -1648,7 +1648,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m121-d1t761-10">
@@ -1941,7 +1941,7 @@
 </w.rf>
 <form>zastavit</form>
 <tag>
-<AM lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="auto" recommended="1">Vf--------A-P--</AM>
 <AM lemma="zastavit-2_:W_^(zástavní_právo)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -2642,7 +2642,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m121-d1t792-11">
@@ -3236,7 +3236,7 @@
 <LM>w#w-d1t808-23</LM>
 </w.rf>
 <form>řikal</form>
-<tag lemma="říkat" src="auto" recommended="1">VpYS----R-AA--6</tag>
+<tag lemma="řikat_,h_^(^GC**říkat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m121-d-id96412-punct">
 <w.rf>
@@ -3973,7 +3973,7 @@
 </w.rf>
 <form>stále</form>
 <tag>
-<AM lemma="stále" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="stále_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="stále_^(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -4061,7 +4061,7 @@
 <LM>w#w-d1t830-20</LM>
 </w.rf>
 <form>fialova</form>
-<tag lemma="fialovo" src="auto" recommended="1">NNNS2-----A----</tag>
+<tag lemma="fialovo-1_;o" src="auto" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="m121-d1t830-21">
 <w.rf>
@@ -4459,7 +4459,7 @@
 <LM>w#w-d1t839-23</LM>
 </w.rf>
 <form>báli</form>
-<tag lemma="bát" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m121-d1e797-x4-785">
 <w.rf>
@@ -5021,7 +5021,7 @@
 <LM>w#w-d1t857-8</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m121-d1t857-9">
 <w.rf>
@@ -5565,7 +5565,7 @@
 <LM>w#w-d1t868-11</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m121-d1t868-12">
 <w.rf>
@@ -5822,7 +5822,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -6203,7 +6203,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m121-d1t879-27">

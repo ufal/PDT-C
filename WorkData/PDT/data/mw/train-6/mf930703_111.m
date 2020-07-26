@@ -1229,7 +1229,7 @@
 <LM>w#w-mf930703-111-p2s6w20</LM>
 </w.rf>
 <form>Slovákům</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf930703-111-p2s6w21">
 <src.rf>manual</src.rf>
@@ -1521,7 +1521,7 @@
 <LM>w#w-mf930703-111-p2s8w5</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-mf930703-111-p2s8w6">
 <src.rf>manual</src.rf>
@@ -1921,7 +1921,7 @@
 <LM>w#w-mf930703-111-p2s11w2</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-111-p2s11w3">
 <src.rf>manual</src.rf>

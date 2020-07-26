@@ -1313,7 +1313,7 @@
 <LM>w#w-ln94208-14-p5s2w11</LM>
 </w.rf>
 <form>nedává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94208-14-p5s2w12">
 <src.rf>manual</src.rf>
@@ -2511,7 +2511,7 @@
 <LM>w#w-ln94208-14-p7s1w24</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln94208-14-p7s1w25">
 <src.rf>manual</src.rf>
@@ -3108,7 +3108,7 @@
 <LM>w#w-ln94208-14-p8s1w13</LM>
 </w.rf>
 <form>dána</form>
-<tag lemma="dát" src="orig" selected="1">VsQW----X-APP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94208-14-p8s1w14">
 <src.rf>manual</src.rf>
@@ -3268,7 +3268,7 @@
 <LM>w#w-ln94208-14-p8s2w17</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94208-14-p8s2w18">
 <src.rf>manual</src.rf>
@@ -3276,7 +3276,7 @@
 <LM>w#w-ln94208-14-p8s2w18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94208-14-p8s2w19">
 <src.rf>manual</src.rf>
@@ -3374,7 +3374,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln94208-14-p8s2w32">
@@ -3455,7 +3455,7 @@
 <LM>w#w-ln94208-14-p8s2w41</LM>
 </w.rf>
 <form>centrálně</form>
-<tag lemma="centrálně_,a_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="centrálně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94208-14-p8s2w42">
 <src.rf>manual</src.rf>
@@ -3757,7 +3757,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94208-14-p9s2Aw16">
 <src.rf>manual</src.rf>
@@ -3781,7 +3781,7 @@
 <LM>w#w-ln94208-14-p9s2Aw18</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94208-14-p9s2Aw19">
 <src.rf>manual</src.rf>
@@ -3792,7 +3792,7 @@
 <tag>
 <AM lemma="nenávratně_^(*1ý)" src="orig">Dg-------1A----</AM>
 <AM lemma="nenávratno-1" src="auto">NNNS6-----A----</AM>
-<AM lemma="návratně_^(*1í)" src="auto" recommended="1" selected="1">Dg-------1N----</AM>
+<AM lemma="návratně_^(*1í)_(*1ý)" src="auto" recommended="1" selected="1">Dg-------1N----</AM>
 </tag>
 </m>
 <m id="m-ln94208-14-p9s2Aw20">

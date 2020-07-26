@@ -1256,7 +1256,7 @@
 <LM>w#w-wsj0628-001-p1s2W26</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0628-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3899,7 +3899,7 @@
 <LM>w#w-wsj0628-001-p1s12W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0628-001-p1s12W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4459,7 +4459,7 @@
 <LM>w#w-wsj0628-001-p1s14W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0628-001-p1s14W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4632,7 +4632,7 @@
 <LM>w#w-wsj0628-001-p1s15W14</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="loni" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0628-001-p1s15W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7110,7 +7110,7 @@
 <LM>w#w-wsj0628-001-p1s21W41</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0628-001-p1s21W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9039,7 +9039,7 @@
 <LM>w#w-wsj0628-001-p1s27W6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0628-001-p1s27W7-Ta">
 <src.rf>tagger-a</src.rf>

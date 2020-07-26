@@ -173,7 +173,7 @@
 <LM>w#w-lnd94101-074-p1s1Bw15</LM>
 </w.rf>
 <form>stává</form>
-<tag lemma="stávat-2_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stávat-2_^(*5t-2)_(*5t-3)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-074-p1s1Bw16">
 <src.rf>manual</src.rf>
@@ -445,7 +445,7 @@
 <LM>w#w-lnd94101-074-p1s3w9</LM>
 </w.rf>
 <form>popisně</form>
-<tag lemma="popisně_,a_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="popisně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94101-074-p1s3w10">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-lnd94101-074-p1s5w8</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94101-074-p1s5w9">
 <src.rf>manual</src.rf>
@@ -1432,7 +1432,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-074-p1s8w12">
@@ -1580,7 +1580,7 @@
 <LM>w#w-lnd94101-074-p1s8w29</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94101-074-p1s8w30">
 <src.rf>manual</src.rf>
@@ -2611,7 +2611,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-074-p1s12w15">

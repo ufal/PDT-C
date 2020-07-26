@@ -85,7 +85,7 @@
 <LM>w#w-ln95041-049-p2s1w4</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95041-049-p2s1w5">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <form>ČKD</form>
 <tag>
 <AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-049-p2s2w13">

@@ -1243,7 +1243,7 @@
 <LM>w#w-d1t2622-9</LM>
 </w.rf>
 <form>hůř</form>
-<tag lemma="špatně" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="hůře" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m145-d1t2622-10">
 <w.rf>
@@ -1323,7 +1323,7 @@
 </w.rf>
 <form>jede</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -1412,7 +1412,7 @@
 <LM>w#w-d1t2624-8</LM>
 </w.rf>
 <form>sypou</form>
-<tag lemma="sypat" src="auto" recommended="1">VB-P---3P-AA---</tag>
+<tag lemma="sypat" src="auto" recommended="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m145-392-394">
 <w.rf>
@@ -1533,7 +1533,7 @@
 <LM>w#w-d1t2624-22</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m145-d1t2624-23">
 <w.rf>
@@ -2000,7 +2000,7 @@
 <LM>w#w-d1t2643-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m145-d-m-d1e2640-x2-punct-punct">
 <w.rf>
@@ -2023,7 +2023,7 @@
 <LM>w#w-d1t2653-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m145-d1t2653-3">
 <w.rf>
@@ -2164,7 +2164,7 @@
 <LM>w#w-d1t2661-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m145-d1t2661-7">
 <w.rf>

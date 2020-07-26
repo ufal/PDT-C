@@ -229,7 +229,7 @@
 <LM>w#w-wsj1849-001-p1s0W18</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj1849-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6193,7 +6193,7 @@
 <LM>w#w-wsj1849-001-p1s22W16</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1849-001-p1s22W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8452,7 +8452,7 @@
 <LM>w#w-wsj1849-001-p1s31W8</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj1849-001-p1s31W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13450,7 +13450,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="auto" recommended="1">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1849-001-p1s47W18-Ta">

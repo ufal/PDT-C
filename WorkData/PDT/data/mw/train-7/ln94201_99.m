@@ -45,7 +45,7 @@
 <LM>w#w-ln94201-99-p2s1w1</LM>
 </w.rf>
 <form>Kdybych</form>
-<tag lemma="kdyby" src="orig" selected="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="orig" selected="1">J,-----------c-</tag>
 </m>
 <m id="m-ln94201-99-p2s1w3">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-ln94201-99-p2s1w20</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln94201-99-p2s1w21">
 <src.rf>manual</src.rf>
@@ -205,7 +205,7 @@
 <LM>w#w-ln94201-99-p2s1w22</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94201-99-p2s1w23">
 <src.rf>manual</src.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-ln94201-99-p2s2w8</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94201-99-p2s2w9">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-ln94201-99-p2s3w1</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94201-99-p2s3w2">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-ln94201-99-p2s3w8</LM>
 </w.rf>
 <form>příjemně</form>
-<tag lemma="příjemně-1_^(všeob.,_poz._emoce)_(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="příjemně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94201-99-p2s3w9">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-ln94201-99-p4s1w8</LM>
 </w.rf>
 <form>necháš</form>
-<tag lemma="nechat" src="orig" selected="1">VB-S---2P-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VB-S---2P-AAP--</tag>
 </m>
 <m id="m-ln94201-99-p4s1w9">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-ln94201-99-p4s1w19</LM>
 </w.rf>
 <form>nadávaj</form>
-<tag lemma="nadávat-1_^(spílat)_(*6at-1)" src="orig" selected="1">VB-P---3P-AAI-6</tag>
+<tag lemma="nadávat_^(*4at)" src="orig" selected="1">VB-P---3P-AAI-6</tag>
 </m>
 <m id="m-ln94201-99-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1162,7 +1162,7 @@
 <LM>w#w-ln94201-99-p7s1w2</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94201-99-p7s1w3">
 <src.rf>manual</src.rf>
@@ -1245,7 +1245,7 @@
 <LM>w#w-ln94201-99-p7s1w12</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-99-p7s1w13">
 <src.rf>manual</src.rf>

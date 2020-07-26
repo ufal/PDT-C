@@ -214,7 +214,7 @@
 <form>HIV</form>
 <tag>
 <AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HIV_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="HIV_;U_^(lidský_virus_způsobujícíIDS)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-34-p2s1Bw8">
@@ -525,7 +525,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-34-p3s2w5">
@@ -773,7 +773,7 @@
 <LM>w#w-ln94202-34-p4s1w6</LM>
 </w.rf>
 <form>nejdéle</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln94202-34-p4s1w7">
 <src.rf>manual</src.rf>
@@ -847,7 +847,7 @@
 <LM>w#w-ln94202-34-p4s2w3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94202-34-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1059,7 +1059,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-34-p4s3w13">
@@ -1170,7 +1170,7 @@
 <LM>w#w-ln94202-34-p4s4w3</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94202-34-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1499,7 +1499,7 @@
 <form>AZT</form>
 <tag>
 <AM lemma="azidotymidin_:B_;U" src="auto">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;U" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="AZT_;U_^(azidotymidin)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-34-p5s2w8">
@@ -1713,7 +1713,7 @@
 <LM>w#w-ln94202-34-p5s3w14</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94202-34-p5s3w15">
 <src.rf>manual</src.rf>
@@ -1777,7 +1777,7 @@
 <LM>w#w-ln94202-34-p5s3w22</LM>
 </w.rf>
 <form>podávají</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-34-p5s3w23">
 <src.rf>manual</src.rf>

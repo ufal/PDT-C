@@ -223,7 +223,7 @@
 <LM>w#w-d1t1495-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m138-d1t1495-4">
 <w.rf>
@@ -1801,7 +1801,7 @@
 <LM>w#w-d1t1631-2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m138-d1t1631-3">
 <w.rf>

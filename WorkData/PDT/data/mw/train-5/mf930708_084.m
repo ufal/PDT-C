@@ -407,7 +407,7 @@
 <LM>w#w-mf930708-084-p2s2w20</LM>
 </w.rf>
 <form>vydat</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930708-084-p2s2w21">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-mf930708-084-p2s3w16</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930708-084-p2s3w17">
 <src.rf>manual</src.rf>
@@ -1383,7 +1383,7 @@
 <LM>w#w-mf930708-084-p4s2w5</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podruhé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930708-084-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1741,7 +1741,7 @@
 <LM>w#w-mf930708-084-p4s5w4</LM>
 </w.rf>
 <form>nemohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-mf930708-084-p4s5w5">
 <src.rf>manual</src.rf>

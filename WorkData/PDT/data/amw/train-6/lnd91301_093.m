@@ -125,7 +125,7 @@
 <LM>w#w-lnd91301-093-p3s1w9</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-093-p3s1w10">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-lnd91301-093-p3s5w4</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-093-p3s5w5">
 <src.rf>manual</src.rf>

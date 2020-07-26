@@ -36,7 +36,7 @@
 <LM>w#w-d1t1938-4</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m025-d1t1938-5">
 <w.rf>
@@ -1785,7 +1785,7 @@
 <LM>w#w-d1t2070-7</LM>
 </w.rf>
 <form>vzňalo</form>
-<tag lemma="vznít" src="auto" recommended="1">VpNS----R-AA---</tag>
+<tag lemma="vznítit" src="auto" recommended="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m025-236-238">
 <w.rf>
@@ -1937,7 +1937,7 @@
 <LM>w#w-d1t2076-6</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m025-d1t2076-7">
 <w.rf>
@@ -2813,7 +2813,7 @@
 <LM>w#w-d1t2125-8</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m025-d1t2125-9">
 <w.rf>
@@ -4621,7 +4621,7 @@
 <form>ČD</form>
 <tag>
 <AM lemma="ČD_:B_;m_^(České_dráhy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČD_;m_^(České_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m025-d1t2264-1">
@@ -4854,7 +4854,7 @@
 <LM>w#w-d1t2284-4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m025-d1t2284-5">
 <w.rf>

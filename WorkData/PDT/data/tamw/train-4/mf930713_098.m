@@ -72,7 +72,7 @@
 <form>zatčeni</form>
 <tag>
 <AM lemma="zatknout" src="orig">VsMP---XX-AP---</AM>
-<AM lemma="zatknout" src="manual" selected="1">VsMP----X-APP--</AM>
+<AM lemma="zatknout" src="manual" selected="1">VsMP----X-APP-1</AM>
 </tag>
 </m>
 </s>
@@ -695,7 +695,7 @@
 <LM>w#w-mf930713-098-p3s3w16</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-mf930713-098-p3s3w17">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <form>mm</form>
 <tag>
 <AM lemma="mm-1`milimetr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-098-p3s4w14">
@@ -1825,7 +1825,7 @@
 <form>zatčeny</form>
 <tag>
 <AM lemma="zatknout" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="zatknout" src="manual" selected="1">VsTP----X-APP--</AM>
+<AM lemma="zatknout" src="manual" selected="1">VsTP----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-mf930713-098-p6s1w9">

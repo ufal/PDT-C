@@ -75,7 +75,7 @@
 <LM>w#w-d1t985-4</LM>
 </w.rf>
 <form>vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m059-d1t985-2">
 <w.rf>
@@ -1532,7 +1532,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1930,7 +1930,7 @@
 <LM>w#w-d1t1195-5</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m059-d1t1195-6">
 <w.rf>
@@ -2132,7 +2132,7 @@
 <LM>w#w-d1t1216-5</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m059-d1e1196-x2-711">
 <w.rf>
@@ -2346,7 +2346,7 @@
 <form>nejdřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------3A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------3A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m059-d1t1240-5">
@@ -2894,7 +2894,7 @@
 <AM lemma="Matek_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Matek_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m059-d1t1294-5">
@@ -3759,7 +3759,7 @@
 <AM lemma="Fatra_;Y" src="auto">NNFS4-----A----</AM>
 <AM lemma="fatra_,t_^(oheň)" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Fatra-2_;G" src="manual">NNFS4-----A----</AM>
-<AM lemma="Fatra-2_;G_;m" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Fatra_;G_;Y_;m" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m059-85-86">
@@ -5916,7 +5916,7 @@
 <LM>w#w-d1t1553-1</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m059-d1t1553-2">
 <w.rf>

@@ -89,7 +89,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-036-p3s1w4">
@@ -528,7 +528,7 @@
 <LM>w#w-lnd91301-036-p3s4w3</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd91301-036-p3s4w4">
 <src.rf>manual</src.rf>

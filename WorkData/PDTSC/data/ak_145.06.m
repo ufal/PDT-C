@@ -146,7 +146,7 @@
 <LM>w#w-d1t1079-27</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m145-497-511">
 <w.rf>
@@ -1720,7 +1720,7 @@
 <LM>w#w-d1t1140-6</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m145-d1t1140-7">
 <w.rf>
@@ -1931,7 +1931,7 @@
 <LM>w#w-d1t1153-5</LM>
 </w.rf>
 <form>Natáhli</form>
-<tag lemma="natáhnout" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="natáhnout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m145-d1t1153-2">
 <w.rf>
@@ -2274,7 +2274,7 @@
 <LM>w#w-d1t1169-6</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m145-d1t1169-2">
 <w.rf>
@@ -2426,7 +2426,7 @@
 <LM>w#w-d1t1173-3</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m145-d-id109801-punct">
 <w.rf>
@@ -2463,7 +2463,7 @@
 <LM>w#w-d1t1177-4</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m145-d1t1177-5">
 <w.rf>
@@ -2493,7 +2493,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -2533,7 +2533,7 @@
 <LM>w#w-d1t1193-3</LM>
 </w.rf>
 <form>jelo</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m145-d1t1193-4">
 <w.rf>
@@ -3171,7 +3171,7 @@
 <LM>w#w-d1t1213-21</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m145-d1t1213-23">
 <w.rf>
@@ -4217,7 +4217,7 @@
 <LM>w#w-d1t1249-2</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m145-d1t1249-4">
 <w.rf>

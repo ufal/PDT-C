@@ -45,7 +45,7 @@
 <LM>w#w-ln95048-155-p2s1w3</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95048-155-p2s1w4">
 <src.rf>manual</src.rf>
@@ -160,7 +160,7 @@
 <LM>w#w-ln95048-155-p2s1w17</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95048-155-p2s1w18">
 <src.rf>manual</src.rf>
@@ -244,7 +244,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln95048-155-p2s2w8">
@@ -332,7 +332,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televizní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95048-155-p3s1w4">
@@ -646,7 +646,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-155-p3s1w42">

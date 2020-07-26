@@ -185,7 +185,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m038-d1t976-3">
@@ -1562,7 +1562,7 @@
 <LM>w#w-d1t1067-20</LM>
 </w.rf>
 <form>Mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m038-d1t1067-17">
 <w.rf>
@@ -2149,7 +2149,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m038-d1t1089-3">
@@ -2931,7 +2931,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m038-308-309">
@@ -2974,7 +2974,7 @@
 </w.rf>
 <form>jede</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -3303,7 +3303,7 @@
 <LM>w#w-d1t1166-6</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m038-d1t1166-7">
 <w.rf>
@@ -4334,7 +4334,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m038-d1e1201-x2-546">
@@ -4858,7 +4858,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m038-d1e1248-x3-591">

@@ -134,7 +134,7 @@
 <form>ČAFC</form>
 <tag>
 <AM lemma="ČAFC_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČAFC-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČAFC_;m_^(Český_atleticko_footballový_club)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-082-p1s1Bw13">
@@ -460,7 +460,7 @@
 <LM>w#w-lnd92252-082-p1s1Bw51</LM>
 </w.rf>
 <form>Admira</form>
-<tag lemma="Admira_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Admira_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-082-p1s1Bw52">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-lnd92252-082-p2s1w3</LM>
 </w.rf>
 <form>Admira</form>
-<tag lemma="Admira_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Admira_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-082-p2s1w4">
 <src.rf>manual</src.rf>
@@ -732,7 +732,7 @@
 <form>ČAFC</form>
 <tag>
 <AM lemma="ČAFC_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČAFC-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČAFC_;m_^(Český_atleticko_footballový_club)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-082-p4s1w4">

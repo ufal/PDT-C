@@ -453,7 +453,7 @@
 <LM>w#w-ln95040-022-p2s3w8</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95040-022-p2s3w9">
 <src.rf>manual</src.rf>

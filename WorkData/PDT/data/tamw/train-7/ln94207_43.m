@@ -196,7 +196,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln94207-43-p2s1Bw12">
@@ -576,7 +576,7 @@
 <LM>w#w-ln94207-43-p2s3w2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln94207-43-p2s3w3">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-ln94207-43-p2s3w8</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln94207-43-p2s3w9">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-ln94207-43-p2s3w15</LM>
 </w.rf>
 <form>nesehnal</form>
-<tag lemma="sehnat" src="orig" selected="1">VpYS----R-NAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94207-43-p2s3w16">
 <src.rf>manual</src.rf>

@@ -490,7 +490,7 @@
 <tag>
 <AM lemma="Ježíš_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="ježit" src="auto">VB-S---2P-AAI--</AM>
-<AM lemma="ježíš_,s_^(^DD**ježiš)" src="manual" selected="1">II-------------</AM>
+<AM lemma="ježíš_,e_^(^GC**jéžíš)" src="manual" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="m014-d-id127508-punct">
@@ -882,7 +882,7 @@
 <LM>w#w-d1t2233-5</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m014-d1t2235-1">
 <w.rf>
@@ -1991,7 +1991,7 @@
 <LM>w#w-d1t2316-3</LM>
 </w.rf>
 <form>vezmete</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VB-P---2P-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m014-d-id130504-punct">
 <w.rf>
@@ -2279,7 +2279,7 @@
 <LM>w#w-d1t2345-2</LM>
 </w.rf>
 <form>Uměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m014-d1t2345-1">
 <w.rf>
@@ -2298,7 +2298,7 @@
 <LM>w#w-d1t2345-6</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m014-d1t2345-8">
 <w.rf>
@@ -2407,14 +2407,14 @@
 <LM>w#w-d1t2347-3</LM>
 </w.rf>
 <form>uměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m014-d1t2347-7">
 <w.rf>
 <LM>w#w-d1t2347-7</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m014-d1t2347-8">
 <w.rf>
@@ -2650,14 +2650,14 @@
 <LM>w#w-d1t2358-3</LM>
 </w.rf>
 <form>uměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m014-d1t2358-4">
 <w.rf>
 <LM>w#w-d1t2358-4</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m014-d1t2358-6">
 <w.rf>
@@ -2680,7 +2680,7 @@
 <LM>w#w-d1t2384-2</LM>
 </w.rf>
 <form>Můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m014-d1t2384-3">
 <w.rf>
@@ -3126,7 +3126,7 @@
 </w.rf>
 <form>míň</form>
 <tag>
-<AM lemma="málo-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="méně" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="méně" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -3180,7 +3180,7 @@
 <LM>w#w-d1t2390-9</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m014-d1t2390-10">
 <w.rf>
@@ -3728,7 +3728,7 @@
 <LM>w#w-d1t2411-3</LM>
 </w.rf>
 <form>Vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m014-d1t2411-1">
 <w.rf>
@@ -4289,7 +4289,7 @@
 <LM>w#w-d1t2457-9</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m014-d1t2457-11">
 <w.rf>
@@ -4473,7 +4473,7 @@
 <form>polívku</form>
 <tag>
 <AM lemma="polívka_,h" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="polívka_,s_^(^DD**polévka)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="polívka_,h_^(^GC**polévka)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m014-d1t2459-16">
@@ -4809,7 +4809,7 @@
 <form>polívku</form>
 <tag>
 <AM lemma="polívka_,h" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="polívka_,s_^(^DD**polévka)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="polívka_,h_^(^GC**polévka)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m014-d1e2476-x2-34">

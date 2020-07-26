@@ -732,7 +732,7 @@
 <LM>w#w-lnd94103-141-p1s4w11</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="orig" selected="1">PP-P7--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P7--1-------</tag>
 </m>
 <m id="m-lnd94103-141-p1s4w12">
 <src.rf>manual</src.rf>
@@ -1339,7 +1339,7 @@
 <LM>w#w-lnd94103-141-p1s7Aw14</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94103-141-p1s7Aw15">
 <src.rf>manual</src.rf>
@@ -1397,7 +1397,7 @@
 <LM>w#w-lnd94103-141-p1s7Bw5</LM>
 </w.rf>
 <form>Rusů</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94103-141-p1s7Bw6">
 <src.rf>manual</src.rf>
@@ -1595,7 +1595,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-141-p1s8w17">

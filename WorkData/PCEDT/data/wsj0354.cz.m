@@ -782,7 +782,7 @@
 <LM>w#w-wsj0354-001-p1s2W28</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0354-001-p1s2W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-wsj0354-001-p1s4W18</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0354-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4006,7 +4006,7 @@
 <LM>w#w-wsj0354-001-p1s13W6</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0354-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4884,7 +4884,7 @@
 <LM>w#w-wsj0354-001-p1s16W9</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0354-001-p1s16W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4946,7 +4946,7 @@
 <LM>w#w-wsj0354-001-p1s16W16</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0354-001-p1s16W17-Ta">
 <src.rf>tagger-a</src.rf>

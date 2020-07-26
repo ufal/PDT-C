@@ -576,7 +576,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln95049-059-p4s1w8">
@@ -593,7 +593,7 @@
 <LM>w#w-ln95049-059-p4s1w9</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95049-059-p4s1w10">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-059-p4s4w7">
@@ -1216,7 +1216,7 @@
 <LM>w#w-ln95049-059-p4s7w5</LM>
 </w.rf>
 <form>nestalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-NAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-ln95049-059-p4s7w6">
 <src.rf>manual</src.rf>
@@ -1675,7 +1675,7 @@
 <LM>w#w-ln95049-059-p5s4w4</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln95049-059-p5s4w5">
 <src.rf>manual</src.rf>
@@ -2656,7 +2656,7 @@
 <LM>w#w-ln95049-059-p7s4w20</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-059-p7s4w21">
 <src.rf>manual</src.rf>
@@ -2746,7 +2746,7 @@
 <LM>w#w-ln95049-059-p7s5w9</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-059-p7s5w10">
 <src.rf>manual</src.rf>

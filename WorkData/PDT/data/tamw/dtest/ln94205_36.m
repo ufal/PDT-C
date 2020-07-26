@@ -130,7 +130,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94205-36-p2s1w14">
@@ -338,7 +338,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
+<AM lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-36-p2s2w10">

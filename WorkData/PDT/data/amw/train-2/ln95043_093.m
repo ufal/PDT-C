@@ -253,7 +253,7 @@
 <LM>w#w-ln95043-093-p1s2w7</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95043-093-p1s2w8">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <form>naleznete</form>
 <tag>
 <AM lemma="naleznout" src="orig">VB-P---2P-AAP--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VB-P---2P-AAP--</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VB-P---2P-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95043-093-p1s2w21">

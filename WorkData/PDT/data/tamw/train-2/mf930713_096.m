@@ -627,7 +627,7 @@
 <LM>w#w-mf930713-096-p2s3w13</LM>
 </w.rf>
 <form>předány</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsTP----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930713-096-p2s3w14">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-096-p2s4w22">

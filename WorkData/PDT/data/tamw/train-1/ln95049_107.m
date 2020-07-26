@@ -77,7 +77,7 @@
 <LM>w#w-ln95049-107-p2s1Aw3</LM>
 </w.rf>
 <form>kva</form>
-<tag lemma="kva-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="kva-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95049-107-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <LM>w#w-ln95049-107-p2s3w6</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95049-107-p2s3w7">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 <LM>w#w-ln95049-107-p2s6w3</LM>
 </w.rf>
 <form>matematicko</form>
-<tag lemma="matematický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="matematicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95049-107-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-ln95049-107-p2s9w2</LM>
 </w.rf>
 <form>vydalo</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-107-p2s9w3">
 <src.rf>manual</src.rf>

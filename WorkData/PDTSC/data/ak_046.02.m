@@ -132,7 +132,7 @@
 <form>Nechal</form>
 <tag>
 <AM lemma="Nechal_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</AM>
+<AM lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m046-d1t587-3">
@@ -364,7 +364,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m046-d1t599-3">
@@ -774,7 +774,7 @@
 <LM>w#w-d1t637-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="zač" src="auto" recommended="1">PY-------------</tag>
+<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m046-d-id69883-punct">
 <w.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-d1t685-9</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m046-d1t685-10">
 <w.rf>
@@ -1772,7 +1772,7 @@
 </w.rf>
 <form>Jitka</form>
 <tag>
-<AM lemma="Jitka-1_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Jitka-1_;Y_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Jitka-2_;m" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>

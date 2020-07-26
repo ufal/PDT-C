@@ -687,7 +687,7 @@
 <LM>w#w-ln94211-116-p3s2w15</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94211-116-p3s2w16">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln94211-116-p3s3w13">
@@ -1046,7 +1046,7 @@
 <LM>w#w-ln94211-116-p3s4w15</LM>
 </w.rf>
 <form>zato</form>
-<tag lemma="zato" src="orig" selected="1">J,-------------</tag>
+<tag lemma="zato" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94211-116-p3s4w16">
 <src.rf>manual</src.rf>

@@ -167,7 +167,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-2_;m_^(Občanská_demokratická_aliance)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-090-p2s1w16">
@@ -205,7 +205,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-090-p2s1w20">
@@ -382,7 +382,7 @@
 <LM>w#w-ln95042-090-p2s1w41</LM>
 </w.rf>
 <form>Beskydech</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="Beskydy-1_;G" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95042-090-p2s1w42">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-ln95042-090-p2s2w2</LM>
 </w.rf>
 <form>Mysleli</form>
-<tag lemma="myslet" src="orig" selected="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="orig" selected="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m-ln95042-090-p2s2w3">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-ln95042-090-p5s1w7</LM>
 </w.rf>
 <form>tajně</form>
-<tag lemma="tajně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="tajně-1_^(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95042-090-p5s1w8">
 <src.rf>manual</src.rf>

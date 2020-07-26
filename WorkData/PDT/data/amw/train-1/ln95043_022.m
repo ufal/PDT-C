@@ -1165,7 +1165,7 @@
 <LM>w#w-ln95043-022-p2s5w6</LM>
 </w.rf>
 <form>hůř</form>
-<tag lemma="špatně" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="hůře" src="orig" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-ln95043-022-p2s5w7">
 <src.rf>manual</src.rf>
@@ -2190,7 +2190,7 @@
 <LM>w#w-ln95043-022-p2s10w19</LM>
 </w.rf>
 <form>nevzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpYS----R-NAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln95043-022-p2s10w20">
 <src.rf>manual</src.rf>
@@ -3036,7 +3036,7 @@
 <LM>w#w-ln95043-022-p2s16w17</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95043-022-p2s16w18">
 <src.rf>manual</src.rf>
@@ -3227,7 +3227,7 @@
 <LM>w#w-ln95043-022-p2s18w4</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-ln95043-022-p2s18w5">
 <src.rf>manual</src.rf>
@@ -3628,7 +3628,7 @@
 <LM>w#w-ln95043-022-p2s21w4</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95043-022-p2s21w5">
 <src.rf>manual</src.rf>
@@ -3654,7 +3654,7 @@
 <form>NHL</form>
 <tag>
 <AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NHL_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-022-p2s21w8">
@@ -3970,7 +3970,7 @@
 <form>NHL</form>
 <tag>
 <AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NHL_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-022-p2s22w17">
@@ -4319,7 +4319,7 @@
 <LM>w#w-ln95043-022-p2s24w16</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95043-022-p2s24w17">
 <src.rf>manual</src.rf>
@@ -4433,7 +4433,7 @@
 <LM>w#w-ln95043-022-p2s25w11</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95043-022-p2s25w12">
 <src.rf>manual</src.rf>
@@ -5208,7 +5208,7 @@
 <LM>w#w-ln95043-022-p2s29w7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95043-022-p2s29w8">
 <src.rf>manual</src.rf>
@@ -5216,7 +5216,7 @@
 <LM>w#w-ln95043-022-p2s29w8</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95043-022-p2s29w9">
 <src.rf>manual</src.rf>
@@ -5232,7 +5232,7 @@
 <LM>w#w-ln95043-022-p2s29w10</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95043-022-p2s29w11">
 <src.rf>manual</src.rf>

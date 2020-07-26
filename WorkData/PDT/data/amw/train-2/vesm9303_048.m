@@ -232,7 +232,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p2s1w11">
@@ -479,7 +479,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p3s1w11">
@@ -702,7 +702,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p4s1w11">
@@ -917,7 +917,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p5s1w10">
@@ -1206,7 +1206,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p6s1w11">
@@ -1542,7 +1542,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p7s1w12">
@@ -1704,7 +1704,7 @@
 <LM>w#w-vesm9303-048-p7s1w31</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-vesm9303-048-p7s1w32">
 <src.rf>manual</src.rf>
@@ -1845,7 +1845,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p8s1w10">
@@ -2586,7 +2586,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p10s1w11">
@@ -2953,7 +2953,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p11s1w11">
@@ -3401,7 +3401,7 @@
 <form>CSc</form>
 <tag>
 <AM lemma="CSc-1_:B_^(kandidát_věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="CSc_^(kandidát_věd)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CSc_^(kandidát/ka_věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p12s1w9">

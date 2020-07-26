@@ -2020,7 +2020,7 @@
 <LM>w#w-wsj1468-001-p1s4W23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1468-001-p1s4W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2568,7 +2568,7 @@
 <LM>w#w-wsj1468-001-p1s6W23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1468-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3623,7 +3623,7 @@
 <LM>w#w-wsj1468-001-p1s9W27</LM>
 </w.rf>
 <form>intenzivněji</form>
-<tag lemma="intenzivně_,s_^(^DD**intenzívní)_(*1í)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="intenzivně_^(^DD**intenzívně)_(*1í)" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1468-001-p1s9W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5142,7 +5142,7 @@
 <LM>w#w-wsj1468-001-p1s14W9</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1468-001-p1s14W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6035,7 +6035,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -6976,7 +6976,7 @@
 <LM>w#w-wsj1468-001-p1s18W3</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1468-001-p1s18W4-Ta">
 <src.rf>tagger-a</src.rf>

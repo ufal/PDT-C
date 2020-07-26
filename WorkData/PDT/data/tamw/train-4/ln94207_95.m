@@ -55,7 +55,7 @@
 <form>nar</form>
 <tag>
 <AM lemma="narozený_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="narozený" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="narozený" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94207-95-p2s1w4">
@@ -386,7 +386,7 @@
 <LM>w#w-ln94207-95-p2s3w18</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94207-95-p2s3w19">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <form>Kdekoliv</form>
 <tag>
 <AM lemma="kdekoliv" src="orig">Db-------------</AM>
-<AM lemma="kdekoli" src="auto" recommended="1" selected="1">Db------------1</AM>
+<AM lemma="kdekoliv_,s_^(^DD**kdekoli)" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-95-p2s4w2">
@@ -762,7 +762,7 @@
 <LM>w#w-ln94207-95-p2s6w10</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-95-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1269,7 +1269,7 @@
 <LM>w#w-ln94207-95-p3s2w11</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94207-95-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1888,7 +1888,7 @@
 <LM>w#w-ln94207-95-p4s2w13</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-95-p4s2w14">
 <src.rf>manual</src.rf>
@@ -2886,7 +2886,7 @@
 <form>dána</form>
 <tag>
 <AM lemma="dát" src="orig">VsQW----X-APP--</AM>
-<AM lemma="dát" src="manual" selected="1">VsQW----X-APP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94207-95-p5s2w5">
@@ -3073,7 +3073,7 @@
 <LM>w#w-ln94207-95-p5s3w3</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-ln94207-95-p5s3w4">
 <src.rf>manual</src.rf>
@@ -3783,7 +3783,7 @@
 <LM>w#w-ln94207-95-p6s1w24</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94207-95-p6s1w25">
 <src.rf>manual</src.rf>
@@ -4165,7 +4165,7 @@
 <form>nestalo</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-NA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpNS----R-NAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-ln94207-95-p6s4w8">
@@ -4273,7 +4273,7 @@
 <LM>w#w-ln94207-95-p6s4w20</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94207-95-p6s4w21">
 <src.rf>manual</src.rf>
@@ -5147,7 +5147,7 @@
 <LM>w#w-ln94207-95-p7s4w1</LM>
 </w.rf>
 <form>Zato</form>
-<tag lemma="zato" src="orig" selected="1">J,-------------</tag>
+<tag lemma="zato" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94207-95-p7s4w2">
 <src.rf>manual</src.rf>
@@ -5535,7 +5535,7 @@
 <LM>w#w-ln94207-95-p8s2w1</LM>
 </w.rf>
 <form>Vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-95-p8s2w2">
 <src.rf>manual</src.rf>
@@ -5653,7 +5653,7 @@
 <LM>w#w-ln94207-95-p8s3w1</LM>
 </w.rf>
 <form>Přeložil</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-95-p8s3w2">
 <src.rf>manual</src.rf>

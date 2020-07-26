@@ -415,7 +415,7 @@
 <LM>w#w-mf930709-085-p1s1Dw34</LM>
 </w.rf>
 <form>přetáhnut</form>
-<tag lemma="přetáhnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="přetáhnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-mf930709-085-p1s1Dw35">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-mf930709-085-p1s2w18</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf930709-085-p1s2w19">
 <src.rf>manual</src.rf>

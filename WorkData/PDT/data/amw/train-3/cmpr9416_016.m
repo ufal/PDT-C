@@ -93,7 +93,7 @@
 <LM>w#w-cmpr9416-016-p3s1w5</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-cmpr9416-016-p3s1w6">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-cmpr9416-016-p4s3w16</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9416-016-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-cmpr9416-016-p8s3w5</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-cmpr9416-016-p8s3w6">
 <src.rf>manual</src.rf>
@@ -1451,7 +1451,7 @@
 <LM>w#w-cmpr9416-016-p10s1w1</LM>
 </w.rf>
 <form>Pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-016-p10s1w2">
 <src.rf>manual</src.rf>
@@ -1693,7 +1693,7 @@
 <LM>w#w-cmpr9416-016-p10s2w19</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-016-p10s2w20">
 <src.rf>manual</src.rf>
@@ -2351,7 +2351,7 @@
 <LM>w#w-cmpr9416-016-p12s2w5</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-016-p12s2w6">
 <src.rf>manual</src.rf>
@@ -2497,7 +2497,7 @@
 <LM>w#w-cmpr9416-016-p12s3w1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9416-016-p12s3w2">
 <src.rf>manual</src.rf>
@@ -2595,7 +2595,7 @@
 <LM>w#w-cmpr9416-016-p12s4w1</LM>
 </w.rf>
 <form>Nejdřív</form>
-<tag lemma="brzy" src="auto" selected="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" selected="1">Dg-------3A---1</tag>
 </m>
 <m id="m-cmpr9416-016-p12s4w2">
 <src.rf>manual</src.rf>
@@ -2991,7 +2991,7 @@
 <LM>w#w-cmpr9416-016-p12s6w10</LM>
 </w.rf>
 <form>připomenul</form>
-<tag lemma="připomenout" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag lemma="připomenout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9416-016-p12s6w11">
 <src.rf>manual</src.rf>
@@ -3419,7 +3419,7 @@
 <LM>w#w-cmpr9416-016-p12s8w22</LM>
 </w.rf>
 <form>promyslet</form>
-<tag lemma="promyslet" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="promyslit" src="orig" selected="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-cmpr9416-016-p12s8w23">
 <src.rf>manual</src.rf>
@@ -3485,7 +3485,7 @@
 <LM>w#w-cmpr9416-016-p13s1w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-016-p13s1w4">
 <src.rf>manual</src.rf>
@@ -3509,7 +3509,7 @@
 <LM>w#w-cmpr9416-016-p13s1w6</LM>
 </w.rf>
 <form>promyslet</form>
-<tag lemma="promyslet" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="promyslit" src="orig" selected="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-cmpr9416-016-p13s1w7">
 <src.rf>manual</src.rf>
@@ -3594,7 +3594,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
+<AM lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-016-p13s1w17">
@@ -3629,7 +3629,7 @@
 <LM>w#w-cmpr9416-016-p13s2w3</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-cmpr9416-016-p13s2w4">
 <src.rf>manual</src.rf>
@@ -3892,7 +3892,7 @@
 <LM>w#w-cmpr9416-016-p13s4w16</LM>
 </w.rf>
 <form>můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-016-p13s4w17">
 <src.rf>manual</src.rf>
@@ -4262,7 +4262,7 @@
 <LM>w#w-cmpr9416-016-p15s3w7</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9416-016-p15s3w8">
 <src.rf>manual</src.rf>
@@ -4337,7 +4337,7 @@
 <LM>w#w-cmpr9416-016-p16s1w1</LM>
 </w.rf>
 <form>Dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9416-016-p16s1w2">
 <src.rf>manual</src.rf>
@@ -4369,7 +4369,7 @@
 <LM>w#w-cmpr9416-016-p16s1w5</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-cmpr9416-016-p16s1w6">
 <src.rf>manual</src.rf>
@@ -4811,7 +4811,7 @@
 <LM>w#w-cmpr9416-016-p16s5w2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-cmpr9416-016-p16s5w3">
 <src.rf>manual</src.rf>
@@ -5168,7 +5168,7 @@
 <LM>w#w-cmpr9416-016-p17s5w1</LM>
 </w.rf>
 <form>Mohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-cmpr9416-016-p17s5w2">
 <src.rf>manual</src.rf>
@@ -5524,7 +5524,7 @@
 <LM>w#w-cmpr9416-016-p18s1w5</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-cmpr9416-016-p18s1w6">
 <src.rf>manual</src.rf>

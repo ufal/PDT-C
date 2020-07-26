@@ -452,7 +452,7 @@
 <LM>w#w-d1t429-13</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m111-d1t429-10">
 <w.rf>
@@ -834,7 +834,7 @@
 <LM>w#w-d1t446-10</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m111-d1t446-11">
 <w.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-d1t450-4</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m111-d-id84966-punct">
 <w.rf>
@@ -1213,7 +1213,7 @@
 <LM>w#w-d1t456-32</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m111-d1t456-30">
 <w.rf>
@@ -1572,7 +1572,7 @@
 <LM>w#w-d1t470-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m111-d1t470-4">
 <w.rf>
@@ -1586,7 +1586,7 @@
 <LM>w#w-d1t470-5</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m111-d-id86176-punct">
 <w.rf>
@@ -2764,7 +2764,7 @@
 <LM>w#w-d1t514-9</LM>
 </w.rf>
 <form>Myslela</form>
-<tag lemma="myslet" src="auto" recommended="1">VpQW----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpQW----R-AAI-1</tag>
 </m>
 <m id="m111-d1t514-7">
 <w.rf>
@@ -2795,7 +2795,7 @@
 <LM>w#w-d1t514-12</LM>
 </w.rf>
 <form>Jedeme</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m111-d1t514-13">
 <w.rf>
@@ -3188,7 +3188,7 @@
 <LM>w#w-d1t532-4</LM>
 </w.rf>
 <form>Cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m111-d1t532-5">
 <w.rf>
@@ -4790,7 +4790,7 @@
 <LM>w#w-d1t564-5</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m111-d1t564-6">
 <w.rf>

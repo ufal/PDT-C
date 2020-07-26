@@ -67,7 +67,7 @@
 <LM>w#w-mf920901-109-p1s1Aw7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-109-p1s1B">

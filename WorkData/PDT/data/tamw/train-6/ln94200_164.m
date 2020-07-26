@@ -183,7 +183,7 @@
 <LM>w#w-ln94200-164-p2s1Bw3</LM>
 </w.rf>
 <form>js</form>
-<tag lemma="js-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="js-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-164-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -1274,7 +1274,7 @@
 <LM>w#w-ln94200-164-p4s1w10</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například" src="orig" selected="1">Db------------b</tag>
+<tag lemma="například" src="orig" selected="1">TT------------b</tag>
 </m>
 <m id="m-ln94200-164-p4s1w11">
 <src.rf>manual</src.rf>
@@ -2358,7 +2358,7 @@
 <LM>w#w-ln94200-164-p5s4w15</LM>
 </w.rf>
 <form>trestně</form>
-<tag lemma="trestně_^(řád,_odpovědnost)_(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="trestně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94200-164-p5s4w16">
 <src.rf>manual</src.rf>

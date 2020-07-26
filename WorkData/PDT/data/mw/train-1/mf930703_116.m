@@ -373,7 +373,7 @@
 <LM>w#w-mf930703-116-p3s2w21</LM>
 </w.rf>
 <form>bezcelně</form>
-<tag lemma="bezcelně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="bezcelně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930703-116-p3s2w22">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-116-p3s2w28">
@@ -496,7 +496,7 @@
 <LM>w#w-mf930703-116-p3s3w6</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930703-116-p3s3w7">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-mf930703-116-p3s3w22">
@@ -664,7 +664,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-116-p3s3w27">
@@ -884,7 +884,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-116-p3s4w26">
@@ -1200,7 +1200,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-mf930703-116-p3s5w22">
@@ -1233,7 +1233,7 @@
 <LM>w#w-mf930703-116-p3s5w25</LM>
 </w.rf>
 <form>kostelích</form>
-<tag lemma="kostel" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="kostel" src="orig" selected="1">NNIP6-----A---1</tag>
 </m>
 <m id="m-mf930703-116-p3s5w26">
 <src.rf>manual</src.rf>
@@ -1602,7 +1602,7 @@
 <LM>w#w-mf930703-116-p6s2w2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-mf930703-116-p6s2w3">
 <src.rf>manual</src.rf>
@@ -1644,7 +1644,7 @@
 <form>nebáli</form>
 <tag>
 <AM lemma="bát" src="orig">VpMP----R-NAI--</AM>
-<AM lemma="bát" src="manual" selected="1">VpMP----R-NAI--</AM>
+<AM lemma="bát-1" src="manual" selected="1">VpMP----R-NAI--</AM>
 </tag>
 </m>
 <m id="m-mf930703-116-p6s2w8">
@@ -1948,7 +1948,7 @@
 <LM>w#w-mf930703-116-p6s4w13</LM>
 </w.rf>
 <form>potřebám</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-mf930703-116-p6s4w14">
 <src.rf>manual</src.rf>
@@ -2341,7 +2341,7 @@
 <LM>w#w-mf930703-116-p6s8w11</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930703-116-p6s8w12">
 <src.rf>manual</src.rf>
@@ -2865,7 +2865,7 @@
 <LM>w#w-mf930703-116-p9s1w12</LM>
 </w.rf>
 <form>našemu</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS3-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS3-P1-------</tag>
 </m>
 <m id="m-mf930703-116-p9s1w13">
 <src.rf>manual</src.rf>
@@ -3330,7 +3330,7 @@
 <LM>w#w-mf930703-116-p9s4w5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930703-116-p9s4w6">
 <src.rf>manual</src.rf>
@@ -3621,7 +3621,7 @@
 <LM>w#w-mf930703-116-p9s4w41</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930703-116-p9s4w42">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-mf930713-100-p1s1w3</LM>
 </w.rf>
 <form>Norimberka</form>
-<tag lemma="Norimberk_;G" src="auto" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Norimberk_;G" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-100-p2s1A">
@@ -130,7 +130,7 @@
 <LM>w#w-mf930713-100-p2s1Bw9</LM>
 </w.rf>
 <form>sehnal</form>
-<tag lemma="sehnat" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-100-p2s1Bw10">
 <src.rf>manual</src.rf>

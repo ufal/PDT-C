@@ -29,7 +29,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-036-p1s1w3">
@@ -260,7 +260,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-036-p2s3w6">
@@ -554,7 +554,7 @@
 <LM>w#w-mf920924-036-p2s4w14</LM>
 </w.rf>
 <form>předávat</form>
-<tag lemma="předávat-3_^(někomu_něco)_(*6at-3)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="předávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920924-036-p2s4w15">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 <LM>w#w-mf920924-036-p2s6w20</LM>
 </w.rf>
 <form>stanou</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf920924-036-p2s6w21">
 <src.rf>manual</src.rf>
@@ -928,7 +928,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-036-p2s6w23">
@@ -1131,7 +1131,7 @@
 <LM>w#w-mf920924-036-p2s7w25</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-036-p2s7w26">
 <src.rf>manual</src.rf>

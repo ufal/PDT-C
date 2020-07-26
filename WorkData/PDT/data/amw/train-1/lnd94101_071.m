@@ -232,7 +232,7 @@
 <LM>w#w-lnd94101-071-p1s2w21</LM>
 </w.rf>
 <form>potřetí</form>
-<tag lemma="potřetí" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="potřetí" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94101-071-p1s2w22">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <LM>w#w-lnd94101-071-p1s6w14</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-071-p1s6w15">
 <src.rf>manual</src.rf>
@@ -1078,7 +1078,7 @@
 <LM>w#w-lnd94101-071-p1s8w22</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd94101-071-p1s8w23">
 <src.rf>manual</src.rf>

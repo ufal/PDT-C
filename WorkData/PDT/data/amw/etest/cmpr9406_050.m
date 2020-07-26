@@ -683,7 +683,7 @@
 <LM>w#w-cmpr9406-050-p4s1w12</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-cmpr9406-050-p4s1w13">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vydělávají</form>
-<tag lemma="vydělávat-1_^(peníze)_(*6at-1)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="vydělávat_^(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9406-050-p4s3w13">
 <src.rf>manual</src.rf>
@@ -994,7 +994,7 @@
 <LM>w#w-cmpr9406-050-p5s1w10</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9406-050-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1458,7 +1458,7 @@
 <LM>w#w-cmpr9406-050-p6s3w13</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-050-p6s3w14">
 <src.rf>manual</src.rf>

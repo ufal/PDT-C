@@ -746,7 +746,7 @@
 <LM>w#w-ln95049-041-p3s3w1</LM>
 </w.rf>
 <form>Vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-041-p3s3w2">
 <src.rf>manual</src.rf>
@@ -966,7 +966,7 @@
 <LM>w#w-ln95049-041-p3s5w14</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-041-p3s5w15">
 <src.rf>manual</src.rf>
@@ -1278,7 +1278,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95049-041-p4s2w9">
@@ -1328,7 +1328,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95049-041-p4s2w14">
@@ -1339,7 +1339,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-041-p4s2w15">
@@ -1487,7 +1487,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95049-041-p4s3w10">

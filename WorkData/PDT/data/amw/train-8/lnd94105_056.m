@@ -35,7 +35,7 @@
 <LM>w#w-lnd94105-056-p1s1w3</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd94105-056-p1s1w4">
 <src.rf>manual</src.rf>
@@ -992,7 +992,7 @@
 <LM>w#w-lnd94105-056-p1s6w6</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd94105-056-p1s6w7">
 <src.rf>manual</src.rf>
@@ -1319,7 +1319,7 @@
 <LM>w#w-lnd94105-056-p1s8w2</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-lnd94105-056-p1s8w3">
 <src.rf>manual</src.rf>
@@ -2078,7 +2078,7 @@
 <LM>w#w-lnd94105-056-p1s12w10</LM>
 </w.rf>
 <form>zatčen</form>
-<tag lemma="zatknout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-lnd94105-056-p1s12w11">
 <src.rf>manual</src.rf>
@@ -2118,7 +2118,7 @@
 <LM>w#w-lnd94105-056-p1s12w15</LM>
 </w.rf>
 <form>vydán</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94105-056-p1s12w16">
 <src.rf>manual</src.rf>
@@ -2174,7 +2174,7 @@
 <LM>w#w-lnd94105-056-p1s12w22</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94105-056-p1s12w23">
 <src.rf>manual</src.rf>
@@ -2661,7 +2661,7 @@
 <LM>w#w-lnd94105-056-p1s14w27</LM>
 </w.rf>
 <form>Káthmándú</form>
-<tag lemma="Káthmándú_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Káthmándú_;G" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd94105-056-p1s14w28">
 <src.rf>manual</src.rf>
@@ -2903,7 +2903,7 @@
 <LM>w#w-lnd94105-056-p1s15w5</LM>
 </w.rf>
 <form>rýnsko</form>
-<tag lemma="rýnský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="rýnsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd94105-056-p1s15w6">
 <src.rf>manual</src.rf>

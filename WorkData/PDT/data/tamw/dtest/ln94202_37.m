@@ -43,7 +43,7 @@
 <LM>w#w-ln94202-37-p1s1w4</LM>
 </w.rf>
 <form>déle</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94202-37-p1s1w5">
 <src.rf>manual</src.rf>
@@ -180,7 +180,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-37-p2s1Bw6">
@@ -375,7 +375,7 @@
 <LM>w#w-ln94202-37-p2s2w14</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94202-37-p2s2w15">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-ln94202-37-p2s2w20</LM>
 </w.rf>
 <form>déle</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94202-37-p2s2w21">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-ln94202-37-p2s3w7</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94202-37-p2s3w8">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-ln94202-37-p2s4w8</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln94202-37-p2s4w9">
 <src.rf>manual</src.rf>
@@ -740,7 +740,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-37-p3s1w11">
@@ -1311,7 +1311,7 @@
 <LM>w#w-ln94202-37-p3s6w7</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94202-37-p3s6w8">
 <src.rf>manual</src.rf>

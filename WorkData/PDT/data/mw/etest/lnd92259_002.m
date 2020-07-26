@@ -365,7 +365,7 @@
 <LM>w#w-lnd92259-002-p3s4w3</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-lnd92259-002-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1985,7 +1985,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-002-p6s1w20">
@@ -2230,7 +2230,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-002-p6s2w25">
@@ -2821,7 +2821,7 @@
 <LM>w#w-lnd92259-002-p7s2w3</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92259-002-p7s2w4">
 <src.rf>manual</src.rf>
@@ -2863,7 +2863,7 @@
 <LM>w#w-lnd92259-002-p7s3w1</LM>
 </w.rf>
 <form>Mj</form>
-<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="mj_^(mimo_jiné)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-lnd92259-002-p7s3w2">
 <src.rf>manual</src.rf>
@@ -3320,7 +3320,7 @@
 <LM>w#w-lnd92259-002-p7s6w10</LM>
 </w.rf>
 <form>politikou</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92259-002-p7s6w11">
 <src.rf>manual</src.rf>

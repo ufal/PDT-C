@@ -219,7 +219,7 @@
 <LM>w#w-mf930709-062-p2s1Bw10</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930709-062-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-mf930709-062-p2s3w20</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930709-062-p2s3w21">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-mf930709-062-p2s3w23</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf930709-062-p2s3w24">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-mf930709-062-p3s1w4</LM>
 </w.rf>
 <form>vzat</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930709-062-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 <LM>w#w-mf930709-062-p4s1w20</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-062-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1476,7 +1476,7 @@
 <LM>w#w-mf930709-062-p4s2w12</LM>
 </w.rf>
 <form>tržně</form>
-<tag lemma="tržně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="tržně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930709-062-p4s2w13">
 <src.rf>manual</src.rf>

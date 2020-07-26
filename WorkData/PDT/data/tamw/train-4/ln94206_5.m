@@ -242,7 +242,7 @@
 <LM>w#w-ln94206-5-p2s1Bw21</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94206-5-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-5-p3s1w3">

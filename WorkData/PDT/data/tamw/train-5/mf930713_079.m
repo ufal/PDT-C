@@ -100,7 +100,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930713-079-p3s1w2">
@@ -203,7 +203,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930713-079-p5s1w2">
@@ -308,7 +308,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930713-079-p8s1w2">
@@ -431,7 +431,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930713-079-p11s1w2">

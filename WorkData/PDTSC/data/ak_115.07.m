@@ -94,7 +94,7 @@
 <LM>w#w-d1t1128-9</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m115-d1e1108-x3-398">
 <w.rf>
@@ -110,7 +110,7 @@
 <LM>w#w-d1t1130-3</LM>
 </w.rf>
 <form>Mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m115-d1t1130-4">
 <w.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-d1t1132-1</LM>
 </w.rf>
 <form>Mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m115-d1t1132-2">
 <w.rf>
@@ -204,7 +204,7 @@
 <LM>w#w-d1t1135-1</LM>
 </w.rf>
 <form>Mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m115-d1t1135-2">
 <w.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-d1t1135-13</LM>
 </w.rf>
 <form>Mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m115-d1t1135-14">
 <w.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-d1t1141-13</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m115-d1t1141-15">
 <w.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-d1t1143-15</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m115-457-460">
 <w.rf>
@@ -917,14 +917,14 @@
 <LM>w#w-d1t1143-19</LM>
 </w.rf>
 <form>Mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m115-461-462">
 <w.rf>
 <LM>w#w-461-462</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m115-d1t1143-20">
 <w.rf>
@@ -1046,7 +1046,7 @@
 <form>škoda</form>
 <tag>
 <AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="škoda" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m115-d-id127594-punct">
@@ -1911,7 +1911,7 @@
 <LM>w#w-d1t1175-9</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m115-d1t1175-10">
 <w.rf>
@@ -1943,7 +1943,7 @@
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP5-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNS2-----A----</AM>
-<AM lemma="DNA_;U_^(molekula_DNA)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekulaNA)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m115-d1t1181-1">
@@ -2176,7 +2176,7 @@
 <LM>w#w-d1t1181-28</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m115-d1t1181-29">
 <w.rf>
@@ -2221,7 +2221,7 @@
 <LM>w#w-d1t1181-32</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m115-d1t1181-33">
 <w.rf>
@@ -2694,7 +2694,7 @@
 <LM>w#w-d1t1194-8</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m115-d1t1194-9">
 <w.rf>
@@ -3047,7 +3047,7 @@
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP5-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNS2-----A----</AM>
-<AM lemma="DNA_;U_^(molekula_DNA)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekulaNA)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m115-601-614">
@@ -3795,7 +3795,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m115-d1t1241-8">
@@ -4226,7 +4226,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m115-d1t1246-12">
@@ -4346,7 +4346,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m115-d1t1246-25">
@@ -4495,7 +4495,7 @@
 <LM>w#w-d1t1250-14</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
 </m>
 <m id="m115-d1t1250-15">
 <w.rf>
@@ -4574,7 +4574,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m115-d1t1252-8">

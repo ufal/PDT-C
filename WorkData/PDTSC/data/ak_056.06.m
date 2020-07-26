@@ -180,7 +180,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m056-d1t1716-1">
@@ -280,7 +280,7 @@
 </w.rf>
 <form>jedu</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---1P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS2-----A----</AM>
 <AM lemma="jed" src="auto">NNIS3-----A----</AM>
 <AM lemma="jed" src="auto">NNIS6-----A----</AM>
@@ -718,7 +718,7 @@
 <LM>w#w-d1t1755-5</LM>
 </w.rf>
 <form>vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m056-d1t1755-9">
 <w.rf>
@@ -910,7 +910,7 @@
 <form>měsíčně</form>
 <tag>
 <AM lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="měsíčně_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m056-481-482">
@@ -1591,7 +1591,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m056-d-m-d1e1841-x3-punct-punct">
@@ -2065,7 +2065,7 @@
 <LM>w#w-d1t1893-10</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m056-34-35">
 <w.rf>
@@ -2133,7 +2133,7 @@
 <LM>w#w-d1t1897-3</LM>
 </w.rf>
 <form>Mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m056-d1t1897-2">
 <w.rf>

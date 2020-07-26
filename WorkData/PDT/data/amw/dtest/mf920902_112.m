@@ -292,7 +292,7 @@
 <LM>w#w-mf920902-112-p2s3w17</LM>
 </w.rf>
 <form>hodinami</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-mf920902-112-p2s3w18">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-mf920902-112-p2s6w9</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920902-112-p2s6w10">
 <src.rf>manual</src.rf>

@@ -264,7 +264,7 @@
 <LM>w#w-mf920902-035-p2s1w29</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920902-035-p2s1w30">
 <src.rf>manual</src.rf>

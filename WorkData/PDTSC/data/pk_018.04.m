@@ -1015,7 +1015,7 @@
 <LM>w#w-d1t993-10</LM>
 </w.rf>
 <form>nedáte</form>
-<tag lemma="dát" src="auto" recommended="1">VB-P---2P-NAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-P---2P-NAP--</tag>
 </m>
 <m id="m018-d-id101732-punct">
 <w.rf>
@@ -1293,7 +1293,7 @@
 <LM>w#w-d1t1012-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m018-d1t1012-4">
 <w.rf>
@@ -1692,7 +1692,7 @@
 <LM>w#w-d1t1028-14</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m018-d1t1028-15">
 <w.rf>
@@ -2268,7 +2268,7 @@
 <LM>w#w-d1t1044-4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m018-d1t1044-1">
 <w.rf>
@@ -3098,7 +3098,7 @@
 </w.rf>
 <form>Kolikrát</form>
 <tag>
-<AM lemma="kolikrát-1_^(mnohokrát)" src="auto" selected="1">Co-------------</AM>
+<AM lemma="kolikrát" src="auto" selected="1">Co-------------</AM>
 <AM lemma="kolikrát-2_^(táz.)" src="auto" recommended="1">Cu-------------</AM>
 </tag>
 </m>
@@ -3312,7 +3312,7 @@
 <LM>w#w-d1t1077-12</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m018-d1t1077-10">
 <w.rf>
@@ -3401,7 +3401,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m018-d1t1079-9">
@@ -3897,7 +3897,7 @@
 <LM>w#w-d1t1101-10</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m018-d1t1101-11">
 <w.rf>

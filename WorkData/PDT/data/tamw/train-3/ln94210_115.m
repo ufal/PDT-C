@@ -103,7 +103,7 @@
 <LM>w#w-ln94210-115-p2s1Bw6</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-115-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-115-p2s2w26">
@@ -425,7 +425,7 @@
 <form>kg</form>
 <tag>
 <AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94210-115-p2s3w5">

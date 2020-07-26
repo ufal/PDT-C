@@ -359,7 +359,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-032-p2s1w36">
@@ -554,7 +554,7 @@
 <form>DNA</form>
 <tag>
 <AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_;U_^(molekula_DNA)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekulaNA)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-032-p2s2w12">
@@ -696,7 +696,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-032-p2s3w7">
@@ -739,7 +739,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-032-p2s3w12">
@@ -1023,7 +1023,7 @@
 <LM>w#w-vesm9211-032-p2s4w13</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-vesm9211-032-p2s4w14">
 <src.rf>manual</src.rf>
@@ -1417,7 +1417,7 @@
 <LM>w#w-vesm9211-032-p2s6w24</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-032-p2s6w25">
 <src.rf>manual</src.rf>
@@ -1762,7 +1762,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-032-p2s8w22">
@@ -2027,7 +2027,7 @@
 <form>resp</form>
 <tag>
 <AM lemma="respektive_:B" src="auto">Db------------8</AM>
-<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-032-p2s10w6">

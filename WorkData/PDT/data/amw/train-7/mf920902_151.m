@@ -237,7 +237,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-151-p2s3w7">
@@ -535,7 +535,7 @@
 <LM>w#w-mf920902-151-p2s5w4</LM>
 </w.rf>
 <form>vydáno</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920902-151-p2s5w5">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-151-p2s7w10">
@@ -958,7 +958,7 @@
 <form>Nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-151-p2s9w2">
@@ -1226,7 +1226,7 @@
 <LM>w#w-mf920902-151-p2s11w6</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920902-151-p2s11w7">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln94211-15-p1s1w4</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94211-15-p1s1w5">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <tag>
 <AM lemma="kW-1`kilowatt_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="kW-1`kilowatt" src="manual">NNIXX-----A---8</AM>
-<AM lemma="kilowatt" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilowatt" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94211-15-p2s1Bw20">
@@ -293,7 +293,7 @@
 <LM>w#w-ln94211-15-p2s2w4</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94211-15-p2s2w5">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <form>MW</form>
 <tag>
 <AM lemma="MW-1`megawatt_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="megawatt" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="megawatt" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94211-15-p2s2w9">
@@ -679,7 +679,7 @@
 <LM>w#w-ln94211-15-p3s2w11</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94211-15-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1012,7 +1012,7 @@
 <LM>w#w-ln94211-15-p4s1w18</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94211-15-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1110,7 +1110,7 @@
 <form>kWh</form>
 <tag>
 <AM lemma="kWh-1`kilowatthodina_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kilowatthodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="kilowatthodina" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94211-15-p4s1w31">
@@ -1257,7 +1257,7 @@
 <LM>w#w-ln94211-15-p4s2w14</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln94211-15-p4s2w15">
 <src.rf>manual</src.rf>

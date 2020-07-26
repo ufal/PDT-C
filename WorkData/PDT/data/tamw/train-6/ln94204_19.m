@@ -555,7 +555,7 @@
 <LM>w#w-ln94204-19-p4s1w5</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-19-p4s1w6">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <form>EU</form>
 <tag>
 <AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EU-1_;m_^(Evropská_Unie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-19-p5s1w4">
@@ -903,7 +903,7 @@
 <LM>w#w-ln94204-19-p5s1w12</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln94204-19-p5s1w13">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SSSR_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-19-p5s1w24">
@@ -1177,7 +1177,7 @@
 <LM>w#w-ln94204-19-p6s2w5</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94204-19-p6s2w6">
 <src.rf>manual</src.rf>
@@ -1485,7 +1485,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-19-p7s1w28">

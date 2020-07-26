@@ -119,7 +119,7 @@
 <form>bustu</form>
 <tag>
 <AM lemma="bysta" src="orig">NNFS4-----A----</AM>
-<AM lemma="busta" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="busta_,s_^(^DD**bysta)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-111-p2s1w11">
@@ -314,7 +314,7 @@
 <LM>w#w-ln95048-111-p2s2w9</LM>
 </w.rf>
 <form>zatčen</form>
-<tag lemma="zatknout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln95048-111-p2s2w10">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 <form>bust</form>
 <tag>
 <AM lemma="bysta" src="orig">NNFP2-----A----</AM>
-<AM lemma="busta" src="manual" selected="1">NNFP2-----A----</AM>
+<AM lemma="busta_,s_^(^DD**bysta)" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-111-p2s5w4">
@@ -1053,7 +1053,7 @@
 <form>busta</form>
 <tag>
 <AM lemma="bysta" src="orig">NNFS1-----A----</AM>
-<AM lemma="busta" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="busta_,s_^(^DD**bysta)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-111-p2s7w14">

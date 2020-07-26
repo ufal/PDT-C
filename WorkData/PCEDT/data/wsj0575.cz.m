@@ -550,7 +550,7 @@
 <LM>w#w-wsj0575-001-p1s1W17</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0575-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -608,7 +608,7 @@
 <tag>
 <AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">BAXXX----1A----</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0575-001-p1s1W23-Ta">
@@ -1467,7 +1467,7 @@
 <LM>w#w-wsj0575-001-p1s5W15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0575-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1888,7 +1888,7 @@
 <LM>w#w-wsj0575-001-p1s7W2</LM>
 </w.rf>
 <form>Rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m-wsj0575-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1896,7 +1896,7 @@
 <LM>w#w-wsj0575-001-p1s7W3</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj0575-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8049,7 +8049,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0575-001-p1s27W8-Ta">
@@ -9369,7 +9369,7 @@
 <LM>w#w-wsj0575-001-p1s32W18</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0575-001-p1s32W19-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1349,7 +1349,7 @@
 <LM>w#w-wsj1606-001-p1s4W7</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj1606-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1935,7 +1935,7 @@
 <LM>w#w-wsj1606-001-p1s6W12</LM>
 </w.rf>
 <form>postižen</form>
-<tag lemma="postihnout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="postihnout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj1606-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2179,7 +2179,7 @@
 <LM>w#w-wsj1606-001-p1s7W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj1606-001-p1s7W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2824,7 +2824,7 @@
 <LM>w#w-wsj1606-001-p1s9W27</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1606-001-p1s9W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4868,7 +4868,7 @@
 <LM>w#w-wsj1606-001-p1s15W14</LM>
 </w.rf>
 <form>postiženi</form>
-<tag lemma="postihnout" src="auto" recommended="1">VsMP----X-APP--</tag>
+<tag lemma="postihnout" src="auto" recommended="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-wsj1606-001-p1s15W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6153,7 +6153,7 @@
 <LM>w#w-wsj1606-001-p1s19W15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1606-001-p1s19W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7013,7 +7013,7 @@
 <LM>w#w-wsj1606-001-p1s22W10</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1606-001-p1s22W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8219,7 +8219,7 @@
 </w.rf>
 <form>AT</form>
 <tag>
-<AM lemma="AT" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AT-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="At-77" src="auto">F%-------------</AM>
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at-77" src="auto">F%-------------</AM>

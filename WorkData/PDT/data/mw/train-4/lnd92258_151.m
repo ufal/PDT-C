@@ -116,7 +116,7 @@
 <LM>w#w-lnd92258-151-p1s1w12</LM>
 </w.rf>
 <form>Yamaha</form>
-<tag lemma="yamaha-1_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="yamaha" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-151-p1s1w13">
 <src.rf>manual</src.rf>

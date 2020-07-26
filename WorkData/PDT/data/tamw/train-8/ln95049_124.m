@@ -1249,7 +1249,7 @@
 <LM>w#w-ln95049-124-p2s8w5</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95049-124-p2s8w6">
 <src.rf>manual</src.rf>
@@ -1259,7 +1259,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95049-124-p2s8w7">

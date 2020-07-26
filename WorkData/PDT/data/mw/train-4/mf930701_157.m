@@ -256,7 +256,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">Vf--------A-I--</AM>
+<AM lemma="nalézt_^(někam)" src="auto" selected="1">Vf--------A-I--</AM>
 </tag>
 </m>
 <m id="m-mf930701-157-p2s1w26">
@@ -589,7 +589,7 @@
 <LM>w#w-mf930701-157-p2s3w9</LM>
 </w.rf>
 <form>déle</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf930701-157-p2s3w10">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <LM>w#w-mf930701-157-p2s5w5</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930701-157-p2s5w6">
 <src.rf>manual</src.rf>
@@ -1115,7 +1115,7 @@
 <LM>w#w-mf930701-157-p2s7w3</LM>
 </w.rf>
 <form>bránil</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-157-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1155,7 +1155,7 @@
 <LM>w#w-mf930701-157-p2s7w8</LM>
 </w.rf>
 <form>bála</form>
-<tag lemma="bát" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930701-157-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1531,7 +1531,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-157-p2s10w18">
@@ -2345,7 +2345,7 @@
 <LM>w#w-mf930701-157-p2s19w3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-mf930701-157-p2s19w4">
 <src.rf>manual</src.rf>

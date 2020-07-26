@@ -111,7 +111,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920923-050-p2s1w10">
@@ -471,7 +471,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920923-050-p2s2w36">
@@ -557,7 +557,7 @@
 <LM>w#w-mf920923-050-p2s5w7</LM>
 </w.rf>
 <form>Yamaha</form>
-<tag lemma="Yamaha-2_;m" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Yamaha_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-050-p2s5w8">
 <src.rf>manual</src.rf>
@@ -857,7 +857,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920923-050-p2s6w36">
@@ -1007,7 +1007,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920923-050-p2s6w54">

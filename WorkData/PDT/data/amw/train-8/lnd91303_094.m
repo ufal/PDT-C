@@ -354,7 +354,7 @@
 <LM>w#w-lnd91303-094-p2s1Bw21</LM>
 </w.rf>
 <form>výše</form>
-<tag lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="vysoko-1" src="orig" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-lnd91303-094-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-lnd91303-094-p2s2w6</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd91303-094-p2s2w7">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-lnd91303-094-p2s2w8</LM>
 </w.rf>
 <form>umět</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">Vf--------A-I--</tag>
+<tag lemma="umět" src="auto" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd91303-094-p2s2w9">
 <src.rf>manual</src.rf>

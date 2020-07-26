@@ -155,7 +155,7 @@
 <LM>w#w-lnd92251-072-p1s1w18</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92251-072-p1s1w19">
 <src.rf>manual</src.rf>

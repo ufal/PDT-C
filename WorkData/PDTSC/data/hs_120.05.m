@@ -885,7 +885,7 @@
 <form>mohli</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m120-d1t768-10">
@@ -1172,7 +1172,7 @@
 <AM lemma="Rohy_;G" src="auto">NNIP2-----A----</AM>
 <AM lemma="roh" src="auto">NNIS1-----A----</AM>
 <AM lemma="roh" src="auto">NNIS4-----A----</AM>
-<AM lemma="ROH-1_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ROH_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m120-d1t777-2">
@@ -1562,7 +1562,7 @@
 <LM>w#w-d1t785-26</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m120-d1e761-x3-266">
 <w.rf>
@@ -1703,7 +1703,7 @@
 <LM>w#w-d1t788-5</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m120-d-id105970-punct">
 <w.rf>
@@ -2777,7 +2777,7 @@
 <LM>w#w-d1t820-18</LM>
 </w.rf>
 <form>necháme</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m120-d1t820-21">
 <w.rf>
@@ -3343,7 +3343,7 @@
 <LM>w#w-d1t831-6</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m120-d1t831-7">
 <w.rf>
@@ -3661,7 +3661,7 @@
 <LM>w#w-d1t845-4</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m120-d1t845-5">
 <w.rf>
@@ -3710,7 +3710,7 @@
 <LM>w#w-d1t845-10</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m120-d1t845-14">
 <w.rf>
@@ -4239,7 +4239,7 @@
 <LM>w#w-d1t865-2</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m120-d1t865-3">
 <w.rf>
@@ -4399,7 +4399,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -4912,7 +4912,7 @@
 <LM>w#w-d1t876-10</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m120-d1t876-11">
 <w.rf>
@@ -5535,7 +5535,7 @@
 <LM>w#w-d1t889-3</LM>
 </w.rf>
 <form>můžou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m120-d1t889-6">
 <w.rf>

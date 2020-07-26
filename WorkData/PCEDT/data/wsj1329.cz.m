@@ -826,7 +826,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1329-001-p1s1W18-Ta">
@@ -2955,7 +2955,7 @@
 <LM>w#w-wsj1329-001-p1s8W6</LM>
 </w.rf>
 <form>navržena</form>
-<tag lemma="navrhnout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="navrhnout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj1329-001-p1s8W7-Ta">
 <src.rf>tagger-a</src.rf>

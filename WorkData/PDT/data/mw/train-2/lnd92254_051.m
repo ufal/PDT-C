@@ -325,7 +325,7 @@
 <LM>w#w-lnd92254-051-p3s2w8</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-051-p3s2w9">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 <LM>w#w-lnd92254-051-p4s3w4</LM>
 </w.rf>
 <form>vydělal</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-051-p4s3w5">
 <src.rf>manual</src.rf>
@@ -2072,7 +2072,7 @@
 <LM>w#w-lnd92254-051-p5s6w1</LM>
 </w.rf>
 <form>Nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd92254-051-p5s6w2">
 <src.rf>manual</src.rf>
@@ -2815,7 +2815,7 @@
 <form>Perotovic</form>
 <tag>
 <AM lemma="Perotův_;Y_^(*2)" src="orig">AUMS1M--------6</AM>
-<AM lemma="Perotův_;Y_^(*2a)" src="auto" recommended="1" selected="1">AUXXXM--------5</AM>
+<AM lemma="Perotův_;Y_^(*2)_(*2a)" src="auto" recommended="1" selected="1">AUXXXM--------5</AM>
 </tag>
 </m>
 <m id="m-lnd92254-051-p5s8w44">
@@ -3154,7 +3154,7 @@
 <form>rozmysleli</form>
 <tag>
 <AM lemma="rozmyslet" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="rozmyslet" src="manual" selected="1">VpMP----R-AAP--</AM>
+<AM lemma="rozmyslit" src="manual" selected="1">VpMP----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-lnd92254-051-p6s1w42">
@@ -3264,7 +3264,7 @@
 <LM>w#w-lnd92254-051-p7s1w9</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-051-p7s1w10">
 <src.rf>manual</src.rf>
@@ -3580,7 +3580,7 @@
 <LM>w#w-lnd92254-051-p7s2w12</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd92254-051-p7s2w13">
 <src.rf>manual</src.rf>
@@ -5051,7 +5051,7 @@
 <LM>w#w-lnd92254-051-p9s6w12</LM>
 </w.rf>
 <form>Vilda</form>
-<tag lemma="Vilda_;Y_,h" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vilda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-051-p9s6w13">
 <src.rf>manual</src.rf>
@@ -5438,7 +5438,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

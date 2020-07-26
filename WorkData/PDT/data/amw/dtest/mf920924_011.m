@@ -206,7 +206,7 @@
 <LM>w#w-mf920924-011-p1s2w12</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920924-011-p1s2w13">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920924-011-p1s4w8">

@@ -1517,7 +1517,7 @@
 <tag>
 <AM lemma="politik" src="auto">NNMS2-----A----</AM>
 <AM lemma="politik" src="auto">NNMS4-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP5-----A----</AM>
@@ -2240,7 +2240,7 @@
 <LM>w#w-wsj2069-001-p1s6W11</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj2069-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2343,7 +2343,7 @@
 <LM>w#w-wsj2069-001-p1s6W21</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2069-001-p1s6W22-Ta">
 <src.rf>tagger-a</src.rf>

@@ -175,7 +175,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-149-p2s1Bw13">
@@ -427,7 +427,7 @@
 <LM>w#w-mf930713-149-p5s1w12</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf930713-149-p5s1w13">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-149-p5s1w32">

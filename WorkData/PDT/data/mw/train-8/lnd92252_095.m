@@ -597,7 +597,7 @@
 <LM>w#w-lnd92252-095-p3s3w19</LM>
 </w.rf>
 <form>jedenkrát</form>
-<tag lemma="jedenkrát`1" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="jedenkrát-1`1" src="orig" selected="1">Cv-------------</tag>
 </m>
 <m id="m-lnd92252-095-p3s3w20">
 <src.rf>manual</src.rf>
@@ -2101,7 +2101,7 @@
 <LM>w#w-lnd92252-095-p4s7w2</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92252-095-p4s7w3">
 <src.rf>manual</src.rf>
@@ -2169,7 +2169,7 @@
 <LM>w#w-lnd92252-095-p4s7w10</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-095-p4s7w11">
 <src.rf>manual</src.rf>
@@ -2408,7 +2408,7 @@
 <LM>w#w-lnd92252-095-p4s9w7</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-095-p4s9w8">
 <src.rf>manual</src.rf>
@@ -2979,7 +2979,7 @@
 <LM>w#w-lnd92252-095-p5s4w11</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92252-095-p5s4w12">
 <src.rf>manual</src.rf>
@@ -3210,7 +3210,7 @@
 <form>ČSAU</form>
 <tag>
 <AM lemma="ČSAU_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSAU-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSAU_;m_^(České_a_Slovenská_atletická_unie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p5s5w18">
@@ -3269,7 +3269,7 @@
 <LM>w#w-lnd92252-095-p5s6w4</LM>
 </w.rf>
 <form>navržen</form>
-<tag lemma="navrhnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-lnd92252-095-p5s6w5">
 <src.rf>manual</src.rf>

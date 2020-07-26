@@ -114,7 +114,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930702-066-p2s1w10">
@@ -173,7 +173,7 @@
 <LM>w#w-mf930702-066-p2s2w6</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf930702-066-p2s2w7">
 <src.rf>manual</src.rf>

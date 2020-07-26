@@ -351,7 +351,7 @@
 <form>mil</form>
 <tag>
 <AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln95044-009-p2s2w9">
@@ -424,7 +424,7 @@
 <LM>w#w-ln95044-009-p2s2w17</LM>
 </w.rf>
 <form>zaměstnat</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="zaměstnat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-009-p2s2w18">
 <src.rf>manual</src.rf>
@@ -1150,7 +1150,7 @@
 <LM>w#w-ln95044-009-p5s1w20</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95044-009-p5s1w21">
 <src.rf>manual</src.rf>

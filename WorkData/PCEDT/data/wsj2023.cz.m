@@ -2703,7 +2703,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2023-001-p1s8W2-Ta">
@@ -5250,7 +5250,7 @@
 <tag>
 <AM lemma="půl-1" src="auto" recommended="1">ClXXX----------</AM>
 <AM lemma="půle" src="auto">NNFS1-----A----</AM>
-<AM lemma="půle" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="půl-1" src="auto" selected="1">Cl-XX----------</AM>
 </tag>
 </m>
 <m id="m-wsj2023-001-p1s19W9-Ta">

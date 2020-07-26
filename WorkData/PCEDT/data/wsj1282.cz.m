@@ -764,7 +764,7 @@
 <tag>
 <AM lemma="Moll_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Moll_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Molly_;Y_^(ženské_jméno)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Molly_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="mulla_,t_,x_^(duchovní)" src="auto">NNMP4-----A----</AM>
 <AM lemma="mulla_,t_,x_^(duchovní)" src="auto">NNMP7-----A----</AM>
 <AM lemma="mulla_,t_,x_^(duchovní)" src="auto">NNMS2-----A----</AM>

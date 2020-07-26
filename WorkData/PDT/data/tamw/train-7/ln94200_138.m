@@ -123,7 +123,7 @@
 <LM>w#w-ln94200-138-p2s1w3</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-138-p2s1w4">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-ln94200-138-p2s1w29</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94200-138-p2s1w30">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-ln94200-138-p2s2w22</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-ln94200-138-p2s2w23">
 <src.rf>manual</src.rf>

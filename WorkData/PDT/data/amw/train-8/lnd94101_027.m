@@ -118,7 +118,7 @@
 <tag>
 <AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="svatý" src="manual">AAXXX----1A---8</AM>
-<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94101-027-p1s1w14">
@@ -255,7 +255,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd94101-027-p1s3w8">
@@ -274,7 +274,7 @@
 <form>r</form>
 <tag>
 <AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
-<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94101-027-p1s3w10">
@@ -293,7 +293,7 @@
 <form>o</form>
 <tag>
 <AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
-<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94101-027-p1s3w12">
@@ -336,7 +336,7 @@
 <form>Sv</form>
 <tag>
 <AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94101-027-p1s3w17">
@@ -553,7 +553,7 @@
 <LM>w#w-lnd94101-027-p1s4w3</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94101-027-p1s4w4">
 <src.rf>manual</src.rf>

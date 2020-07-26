@@ -299,7 +299,7 @@
 <LM>w#w-ln94205-126-p2s2w6</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94205-126-p2s2w7">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-126-p2s2w11">
@@ -425,7 +425,7 @@
 <LM>w#w-ln94205-126-p2s2w21</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-126-p2s2w22">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <form>stává</form>
 <tag>
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94205-126-p2s5w17">
@@ -984,7 +984,7 @@
 <LM>w#w-ln94205-126-p3s1w2</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94205-126-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 <LM>w#w-ln94205-126-p3s1w8</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94205-126-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1382,7 +1382,7 @@
 <LM>w#w-ln94205-126-p3s3w2</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94205-126-p3s3w3">
 <src.rf>manual</src.rf>

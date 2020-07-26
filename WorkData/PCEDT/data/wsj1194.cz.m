@@ -1882,7 +1882,7 @@
 <LM>w#w-wsj1194-001-p1s5W30</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1194-001-p1s5W31-Ta">
 <src.rf>tagger-a</src.rf>

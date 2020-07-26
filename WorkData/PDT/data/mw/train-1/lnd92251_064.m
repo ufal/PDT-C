@@ -169,7 +169,7 @@
 <LM>w#w-lnd92251-064-p3s2w11</LM>
 </w.rf>
 <form>arabsko</form>
-<tag lemma="arabský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="arabsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92251-064-p3s2w12">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-lnd92251-064-p3s5w2</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92251-064-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-lnd92251-064-p3s6w6</LM>
 </w.rf>
 <form>Izraelsko</form>
-<tag lemma="izraelský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="izraelsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92251-064-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-lnd92251-064-p3s6w14</LM>
 </w.rf>
 <form>Arabsko</form>
-<tag lemma="arabský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="arabsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92251-064-p3s6w15">
 <src.rf>manual</src.rf>

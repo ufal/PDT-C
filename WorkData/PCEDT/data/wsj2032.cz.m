@@ -2441,7 +2441,7 @@
 <LM>w#w-wsj2032-001-p1s5W50</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2032-001-p1s5W51-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5128,7 +5128,7 @@
 <LM>w#w-wsj2032-001-p1s15W19</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2032-001-p1s15W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5545,7 +5545,7 @@
 <LM>w#w-wsj2032-001-p1s17W11</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2032-001-p1s17W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7093,7 +7093,7 @@
 <LM>w#w-wsj2032-001-p1s23W23</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2032-001-p1s23W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8577,7 +8577,7 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIS2----------</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-wsj2032-001-p1s29W8-Ta">
@@ -10791,7 +10791,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -11405,7 +11405,7 @@
 <LM>w#w-wsj2032-001-p1s42W17</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2032-001-p1s42W18-Ta">
 <src.rf>tagger-a</src.rf>

@@ -55,7 +55,7 @@
 <LM>w#w-ln94211-69-p2s1Aw2</LM>
 </w.rf>
 <form>Aleš</form>
-<tag lemma="Aleš-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Aleš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-69-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln94211-69-p2s1Bw1</LM>
 </w.rf>
 <form>Ponechme</form>
-<tag lemma="ponechat" src="orig" selected="1">Vi-P---1--A----</tag>
+<tag lemma="ponechat" src="orig" selected="1">Vi-P---1--A-P-1</tag>
 </m>
 <m id="m-ln94211-69-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-ln94211-69-p2s2w3</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag lemma="říci" src="auto" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94211-69-p2s2w4">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-ln94211-69-p2s4w11</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například" src="orig" selected="1">Db------------b</tag>
+<tag lemma="například" src="orig" selected="1">TT------------b</tag>
 </m>
 <m id="m-ln94211-69-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1330,7 +1330,7 @@
 <form>DPH</form>
 <tag>
 <AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DPH-1" src="manual" selected="1">NNFXX-----A---b</AM>
+<AM lemma="DPH-1_^(daň_z_přidané_hodnoty)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-69-p3s2w11">
@@ -1984,7 +1984,7 @@
 <LM>w#w-ln94211-69-p4s1w21</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94211-69-p4s1w22">
 <src.rf>manual</src.rf>
@@ -2416,7 +2416,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
+<AM lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-69-p5s3w15">
@@ -2640,7 +2640,7 @@
 <LM>w#w-ln94211-69-p5s5w5</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94211-69-p5s5w6">
 <src.rf>manual</src.rf>

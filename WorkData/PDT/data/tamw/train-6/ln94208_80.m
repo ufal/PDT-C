@@ -749,7 +749,7 @@
 <LM>w#w-ln94208-80-p4s1w16</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94208-80-p4s1w17">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-80-p4s1w28">
@@ -991,7 +991,7 @@
 <LM>w#w-ln94208-80-p5s1w10</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94208-80-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1462,7 +1462,7 @@
 <LM>w#w-ln94208-80-p6s2w25</LM>
 </w.rf>
 <form>Evropou</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94208-80-p6s2w26">
 <src.rf>manual</src.rf>

@@ -249,7 +249,7 @@
 <LM>w#w-d1t2227-3</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m133-d1t2227-5">
 <w.rf>
@@ -363,7 +363,7 @@
 <AM lemma="Nerad-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Nerad-2_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Nerad_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="rád" src="auto" recommended="1">ACYS------N----</AM>
+<AM lemma="rád-1" src="auto" recommended="1">ACYS------N----</AM>
 </tag>
 </m>
 <m id="m133-d1t2234-5">
@@ -568,7 +568,7 @@
 <LM>w#w-d1t2242-9</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m133-d1t2242-10">
 <w.rf>
@@ -913,7 +913,7 @@
 <LM>w#w-d1t2260-2</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m133-d1t2260-3">
 <w.rf>
@@ -2738,7 +2738,7 @@
 <LM>w#w-d1t2353-3</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m133-d1t2353-4">
 <w.rf>
@@ -2794,7 +2794,7 @@
 <LM>w#w-d1t2355-4</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m133-d1t2355-7">
 <w.rf>
@@ -3416,7 +3416,7 @@
 <LM>w#w-d1t2383-5</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m133-d1t2383-7">
 <w.rf>
@@ -4039,7 +4039,7 @@
 <LM>w#w-d1t2422-8</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m133-d1t2422-9">
 <w.rf>
@@ -4682,7 +4682,7 @@
 <LM>w#w-d1t2454-1</LM>
 </w.rf>
 <form>nerada</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------N----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------N----</tag>
 </m>
 <m id="m133-d1t2454-2">
 <w.rf>

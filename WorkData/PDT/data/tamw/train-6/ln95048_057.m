@@ -142,7 +142,7 @@
 <LM>w#w-ln95048-057-p2s1Bw2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="orig" selected="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACQW------A----</tag>
 </m>
 <m id="m-ln95048-057-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-ln95048-057-p2s4w8</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-057-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1993,7 +1993,7 @@
 <LM>w#w-ln95048-057-p2s8w26</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_^(a_tak_dále)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="atd_^(a_tak_dále)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-ln95048-057-p2s8w27">
 <src.rf>manual</src.rf>
@@ -2267,7 +2267,7 @@
 <LM>w#w-ln95048-057-p2s10Aw14</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln95048-057-p2s10Aw15">
 <src.rf>manual</src.rf>
@@ -3362,7 +3362,7 @@
 <LM>w#w-ln95048-057-p2s14w19</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-057-p2s14w20">
 <src.rf>manual</src.rf>
@@ -3556,7 +3556,7 @@
 <LM>w#w-ln95048-057-p2s15w16</LM>
 </w.rf>
 <form>šoustla</form>
-<tag lemma="šoustnout_,h_,s" src="auto" selected="1">VpQW----R-AAP-1</tag>
+<tag lemma="šoustnout_,h" src="auto" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95048-057-p2s15w17">
 <src.rf>manual</src.rf>
@@ -3856,7 +3856,7 @@
 <LM>w#w-ln95048-057-p2s17w21</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-057-p2s17w22">
 <src.rf>manual</src.rf>

@@ -532,7 +532,7 @@
 <LM>w#w-lnd92252-090-p2s4w11</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92252-090-p2s4w12">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-lnd92252-090-p2s4w15</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-090-p2s4w16">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-lnd92252-090-p2s5w1</LM>
 </w.rf>
 <form>Dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd92252-090-p2s5w2">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-lnd92252-090-p3s1w2</LM>
 </w.rf>
 <form>šv</form>
-<tag lemma="šv-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="šv-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92252-090-p3s1w3">
 <src.rf>manual</src.rf>

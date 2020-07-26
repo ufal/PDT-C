@@ -1309,7 +1309,7 @@
 </w.rf>
 <form>tj</form>
 <tag>
-<AM lemma="tj-1_^(to_je/jest)" src="auto" recommended="1">B^-------------</AM></tag>
+<AM lemma="tj_^(to_je/jest)" src="auto" recommended="1">B^-------------</AM></tag>
 </m>
 <m id="m-wsj0154-001-p1s3W25-Ta-sw1">
 <src.rf>tagger-a</src.rf>

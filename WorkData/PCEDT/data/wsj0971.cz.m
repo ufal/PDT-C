@@ -1463,7 +1463,7 @@
 <LM>w#w-wsj0971-001-p1s5W15</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0971-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3308,7 +3308,7 @@
 <form>sype</form>
 <tag>
 <AM lemma="syp" src="auto">NNIS5-----A----</AM>
-<AM lemma="sypat" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="sypat" src="auto" recommended="1">VB-S---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m-wsj0971-001-p1s13W5-Ta">
@@ -3566,7 +3566,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -4892,7 +4892,7 @@
 <LM>w#w-wsj0971-001-p1s19W2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0971-001-p1s19W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4985,7 +4985,7 @@
 <LM>w#w-wsj0971-001-p1s19W11</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m-wsj0971-001-p1s19W12-Ta">
 <src.rf>tagger-a</src.rf>

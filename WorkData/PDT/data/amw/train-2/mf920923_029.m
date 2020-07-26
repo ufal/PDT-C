@@ -444,7 +444,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920923-029-p2s2w27">
@@ -511,7 +511,7 @@
 <LM>w#w-mf920923-029-p2s3w1</LM>
 </w.rf>
 <form>Navrženo</form>
-<tag lemma="navrhnout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-mf920923-029-p2s3w2">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-mf920923-029-p2s3w4</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-029-p2s3w5">
 <src.rf>manual</src.rf>

@@ -102,7 +102,7 @@
 <LM>w#w-lnd92254-071-p1s1w11</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd92254-071-p1s1w12">
 <src.rf>manual</src.rf>
@@ -120,7 +120,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-071-p1s1w14">

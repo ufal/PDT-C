@@ -800,7 +800,7 @@
 <LM>w#w-lnd94104-108-p1s4w2</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94104-108-p1s4w3">
 <src.rf>manual</src.rf>
@@ -1224,7 +1224,7 @@
 <form>Dr</form>
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Dr_^(doktor)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-108-p1s6w2">
@@ -1348,7 +1348,7 @@
 <LM>w#w-lnd94104-108-p1s6w16</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-108-p1s6w17">
 <src.rf>manual</src.rf>
@@ -1576,7 +1576,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94104-108-p1s8w13">
@@ -2587,7 +2587,7 @@
 <LM>w#w-lnd94104-108-p1s14w13</LM>
 </w.rf>
 <form>pojede</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3F-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd94104-108-p1s14w14">
 <src.rf>manual</src.rf>
@@ -3383,7 +3383,7 @@
 <LM>w#w-lnd94104-108-p1s19w7</LM>
 </w.rf>
 <form>nezastavila</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpQW----R-NAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-lnd94104-108-p1s19w8">
 <src.rf>manual</src.rf>

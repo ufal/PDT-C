@@ -244,7 +244,7 @@
 <LM>w#w-d1t1268-1</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m012-d1t1268-3">
 <w.rf>
@@ -1194,7 +1194,7 @@
 <LM>w#w-d1t1325-21</LM>
 </w.rf>
 <form>kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m012-d1t1325-22">
 <w.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-d1t1325-26</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m012-d1t1327-5">
 <w.rf>
@@ -2827,7 +2827,7 @@
 <tag>
 <AM lemma="máma" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="máma" src="auto">NNFS5-----A---1</AM>
-<AM lemma="máma" src="manual" selected="1">NNFS2-----A---1</AM>
+<AM lemma="mami_,h" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m012-d1t1472-4">
@@ -4002,7 +4002,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -4029,7 +4029,7 @@
 </w.rf>
 <form>méně</form>
 <tag>
-<AM lemma="málo-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="méně" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="méně" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -4428,7 +4428,7 @@
 <LM>w#w-d1t1622-5</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m012-d1t1622-8">
 <w.rf>
@@ -4537,7 +4537,7 @@
 <LM>w#w-d1t1622-22</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m012-d1t1622-23">
 <w.rf>
@@ -6049,7 +6049,7 @@
 <LM>w#w-d1t1728-6</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m012-8530-8575">
 <w.rf>

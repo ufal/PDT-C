@@ -155,7 +155,7 @@
 </w.rf>
 <form>bál</form>
 <tag>
-<AM lemma="bát" src="auto" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="bát-1" src="auto" selected="1">VpYS----R-AAI--</AM>
 <AM lemma="bál" src="auto">NNIS1-----A----</AM>
 <AM lemma="bál" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
@@ -736,7 +736,7 @@
 <AM lemma="Bor-1_;Y" src="auto">NNMP6-----A----</AM>
 <AM lemma="Bor-2_;G" src="auto">NNIP6-----A----</AM>
 <AM lemma="Boro_;G" src="auto">NNNP6-----A----</AM>
-<AM lemma="Bory_;G" src="auto" selected="1">NNIP6-----A----</AM>
+<AM lemma="Bory-2_;G" src="auto" selected="1">NNIP6-----A----</AM>
 <AM lemma="bor" src="auto" recommended="1">NNIP6-----A----</AM>
 </tag>
 </m>
@@ -1036,7 +1036,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m052-d1e1598-x2-147">
@@ -2906,7 +2906,7 @@
 <LM>w#w-d1t1754-3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m052-d-id100924-punct">
 <w.rf>
@@ -3017,7 +3017,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m052-d1t1756-2">
@@ -3266,7 +3266,7 @@
 <LM>w#w-d1t1767-8</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m052-45-51">
 <w.rf>
@@ -3500,7 +3500,7 @@
 <LM>w#w-d1t1778-4</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m052-d-id101979-punct">
 <w.rf>

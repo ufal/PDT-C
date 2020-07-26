@@ -163,7 +163,7 @@
 <form>Čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-022-p3s2w12">
@@ -928,7 +928,7 @@
 <LM>w#w-lnd92254-022-p3s6w25</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-lnd92254-022-p3s6w26">
 <src.rf>manual</src.rf>

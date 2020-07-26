@@ -61,7 +61,7 @@
 <LM>w#w-mf930703-099-p1s2w3</LM>
 </w.rf>
 <form>SLAVIA</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-099-p1s2w4">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-mf930703-099-p1s2w5</LM>
 </w.rf>
 <form>SPARTA</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-099-p1s2w6">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-mf930703-099-p2s2w22</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930703-099-p2s2w23">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <LM>w#w-mf930703-099-p2s4w2</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-099-p2s4w3">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-mf930703-099-p2s4w4</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-099-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1268,7 +1268,7 @@
 <LM>w#w-mf930703-099-p3s1w33</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930703-099-p3s1w34">
 <src.rf>manual</src.rf>
@@ -2134,7 +2134,7 @@
 <LM>w#w-mf930703-099-p4s3w21</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_;m_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ČT_;m_^(Česká_televize)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930703-099-p4s3w22">
 <src.rf>manual</src.rf>
@@ -2605,7 +2605,7 @@
 <LM>w#w-mf930703-099-p6s2w8</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-099-p6s2w9">
 <src.rf>manual</src.rf>
@@ -2707,7 +2707,7 @@
 <tag>
 <AM lemma="Budějovice_:B_;G" src="orig">NNFXX-----A---8</AM>
 <AM lemma="budit" src="auto" recommended="1">VB-P---3P-AAI-6</AM>
-<AM lemma="Budějovice_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Budějovice_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930703-099-p6s2w21">
@@ -2780,7 +2780,7 @@
 <LM>w#w-mf930703-099-p6s2w29</LM>
 </w.rf>
 <form>Škarda</form>
-<tag lemma="škarda_;U" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="škarda" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-099-p6s2w30">
 <src.rf>manual</src.rf>

@@ -365,7 +365,7 @@
 <LM>w#w-lnd94104-002-p1s2w2</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-002-p1s2w3">
 <src.rf>manual</src.rf>
@@ -847,7 +847,7 @@
 <LM>w#w-lnd94104-002-p1s6Aw8</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94104-002-p1s6Aw9">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 <LM>w#w-lnd94104-002-p1s6Aw16</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_^(a_tak_dále)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="atd_^(a_tak_dále)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-lnd94104-002-p1s6Aw17">
 <src.rf>manual</src.rf>
@@ -1007,7 +1007,7 @@
 <LM>w#w-lnd94104-002-p1s7w4</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd94104-002-p1s7w5">
 <src.rf>manual</src.rf>

@@ -2118,7 +2118,7 @@
 <LM>w#w-ln94205-120-p3s1w17</LM>
 </w.rf>
 <form>kanadsko</form>
-<tag lemma="kanadský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="kanadsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94205-120-p3s1w18">
 <src.rf>manual</src.rf>
@@ -2328,7 +2328,7 @@
 <LM>w#w-ln94205-120-p4s1w12</LM>
 </w.rf>
 <form>Rusku</form>
-<tag lemma="Ruska-1_;E" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Ruska-1_;E_^(*4-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94205-120-p4s1w13">
 <src.rf>manual</src.rf>
@@ -2845,7 +2845,7 @@
 <AM lemma="Petra_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Petr_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Petr_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Petra-1_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Petra_;G_;Y_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Petro_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Petro_;Y" src="auto">NNMS4-----A----</AM>
@@ -2898,7 +2898,7 @@
 <LM>w#w-ln94205-120-p4s4w9</LM>
 </w.rf>
 <form>Francouzku</form>
-<tag lemma="Francouzka_;E" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="Francouzka_;E_^(*2)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94205-120-p4s4w10">
 <src.rf>manual</src.rf>
@@ -3196,7 +3196,7 @@
 <LM>w#w-ln94205-120-p5s2w4</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-120-p5s2w5">
 <src.rf>manual</src.rf>
@@ -3402,7 +3402,7 @@
 <LM>w#w-ln94205-120-p5s2w29</LM>
 </w.rf>
 <form>stává</form>
-<tag lemma="stávat-2_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stávat-2_^(*5t-2)_(*5t-3)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-120-p5s2w30">
 <src.rf>manual</src.rf>

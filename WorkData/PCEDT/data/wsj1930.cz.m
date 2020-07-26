@@ -749,7 +749,7 @@
 <LM>w#w-wsj1930-001-p1s3W17</LM>
 </w.rf>
 <form>vydělávat</form>
-<tag lemma="vydělávat_^(kůže;peníze)_(*4at)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="vydělávat_^(*4at)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj1930-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1370,7 +1370,7 @@
 <LM>w#w-wsj1930-001-p1s6W4</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1930-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2177,7 +2177,7 @@
 <LM>w#w-wsj1930-001-p1s10W4</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1930-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5405,7 +5405,7 @@
 <LM>w#w-wsj1930-001-p1s24W18</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1930-001-p1s24W19-Ta">
 <src.rf>tagger-a</src.rf>

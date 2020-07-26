@@ -1922,7 +1922,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>

@@ -202,7 +202,7 @@
 <LM>w#w-lnd92255-093-p3s1w12</LM>
 </w.rf>
 <form>stává</form>
-<tag lemma="stávat-2_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stávat-2_^(*5t-2)_(*5t-3)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-093-p3s1w13">
 <src.rf>manual</src.rf>
@@ -408,7 +408,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-093-p4s1w12">
@@ -1044,7 +1044,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-093-p5s3w14">
@@ -1472,7 +1472,7 @@
 <LM>w#w-lnd92255-093-p5s3w66</LM>
 </w.rf>
 <form>jakešovsko</form>
-<tag lemma="jakešovský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="jakešovsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92255-093-p5s3w67">
 <src.rf>manual</src.rf>

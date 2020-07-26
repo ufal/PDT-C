@@ -1933,7 +1933,7 @@
 <form>BASF</form>
 <tag>
 <AM lemma="Basf_:B_;m" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="BASF-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Basf-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0939-001-p1s7W7-Ta">

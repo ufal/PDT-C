@@ -133,7 +133,7 @@
 <LM>w#w-lnd92252-033-p2s2w8</LM>
 </w.rf>
 <form>právech</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92252-033-p2s2w9">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <LM>w#w-lnd92252-033-p2s3w17</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-033-p2s3w18">
 <src.rf>manual</src.rf>

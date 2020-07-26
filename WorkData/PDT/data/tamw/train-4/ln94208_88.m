@@ -995,7 +995,7 @@
 <LM>w#w-ln94208-88-p3s2w11</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-ln94208-88-p3s2w12">
 <src.rf>manual</src.rf>
@@ -2047,7 +2047,7 @@
 <LM>w#w-ln94208-88-p4s5w18</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94208-88-p4s5w19">
 <src.rf>manual</src.rf>
@@ -2098,7 +2098,7 @@
 <LM>w#w-ln94208-88-p4s5w24</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-88-p4s5w25">
 <src.rf>manual</src.rf>
@@ -2212,7 +2212,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4---------1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln94208-88-p4s5w39">
@@ -2685,7 +2685,7 @@
 <LM>w#w-ln94208-88-p4s7w13</LM>
 </w.rf>
 <form>jedli</form>
-<tag lemma="jíst_^(konzumovat_jídlo)" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="jíst" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94208-88-p4s7w14">
 <src.rf>manual</src.rf>
@@ -3007,7 +3007,7 @@
 <LM>w#w-ln94208-88-p4s10w16</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-88-p4s10w17">
 <src.rf>manual</src.rf>
@@ -3015,7 +3015,7 @@
 <LM>w#w-ln94208-88-p4s10w17</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94208-88-p4s10w18">
 <src.rf>manual</src.rf>
@@ -3799,7 +3799,7 @@
 <LM>w#w-ln94208-88-p4s16Aw1</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-88-p4s16Aw2">
 <src.rf>manual</src.rf>

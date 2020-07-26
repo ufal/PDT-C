@@ -342,7 +342,7 @@
 <LM>w#w-cmpr9410-003-p5s4w16</LM>
 </w.rf>
 <form>hodinách</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-cmpr9410-003-p5s4w17">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-cmpr9410-003-p9s1w15</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-cmpr9410-003-p9s1w16">
 <src.rf>manual</src.rf>
@@ -1090,7 +1090,7 @@
 <LM>w#w-cmpr9410-003-p9s3w1</LM>
 </w.rf>
 <form>Může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9410-003-p9s3w2">
 <src.rf>manual</src.rf>
@@ -1260,7 +1260,7 @@
 <LM>w#w-cmpr9410-003-p9s4w2</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---2-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ie-</tag>
 </m>
 <m id="m-cmpr9410-003-p9s4w3">
 <src.rf>manual</src.rf>
@@ -1453,7 +1453,7 @@
 <form>PhDr</form>
 <tag>
 <AM lemma="PhDr-1_:B_,t_^(philosophiae_doctor)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="PhDr_^(philosophiae_doctor)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PhDr_^(doktor_filozofie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-003-p10s1w4">
@@ -1602,7 +1602,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-003-p11s1w16">

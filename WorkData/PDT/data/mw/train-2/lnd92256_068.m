@@ -894,7 +894,7 @@
 <LM>w#w-lnd92256-068-p3s8w17</LM>
 </w.rf>
 <form>jižně</form>
-<tag lemma="jižně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="jižně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92256-068-p3s8w18">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln94201-41-p1s1w4</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94201-41-p1s1w5">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-ln94201-41-p2s2w16</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94201-41-p2s2w17">
 <src.rf>manual</src.rf>
@@ -1085,7 +1085,7 @@
 <LM>w#w-ln94201-41-p3s4w4</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-41-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1649,7 +1649,7 @@
 <LM>w#w-ln94201-41-p3s8w12</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94201-41-p3s8w13">
 <src.rf>manual</src.rf>
@@ -2386,7 +2386,7 @@
 <LM>w#w-ln94201-41-p5s1w13</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94201-41-p5s1w14">
 <src.rf>manual</src.rf>
@@ -2999,7 +2999,7 @@
 <LM>w#w-ln94201-41-p6s4w15</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-41-p6s4w16">
 <src.rf>manual</src.rf>
@@ -3667,7 +3667,7 @@
 <LM>w#w-ln94201-41-p6s10w11</LM>
 </w.rf>
 <form>umím</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-S---1P-AAI--</tag>
+<tag lemma="umět" src="auto" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln94201-41-p6s10w12">
 <src.rf>manual</src.rf>
@@ -4625,7 +4625,7 @@
 <LM>w#w-ln94201-41-p8s1w26</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln94201-41-p8s1w27">
 <src.rf>manual</src.rf>

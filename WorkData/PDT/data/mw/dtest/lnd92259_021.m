@@ -619,7 +619,7 @@
 <AM lemma="Dominik_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Dominik_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Dominika-1_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Dominika-2_;Y" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Dominika_;G_;Y" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-021-p1s4w11">
@@ -673,7 +673,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFP6-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFP6-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFP6-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-021-p1s5w3">

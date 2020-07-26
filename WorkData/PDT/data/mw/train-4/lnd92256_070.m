@@ -109,7 +109,7 @@
 <LM>w#w-lnd92256-070-p2s1w3</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92256-070-p2s1w4">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <form>ČSTK</form>
 <tag>
 <AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSTK-1_;m_^(Československá_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-070-p3s1w7">
@@ -242,7 +242,7 @@
 <LM>w#w-lnd92256-070-p3s2w6</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p3s2w7">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-lnd92256-070-p3s2w8</LM>
 </w.rf>
 <form>hodinách</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p3s2w9">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-070-p4s3w18">
@@ -1037,7 +1037,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-070-p4s4w9">
@@ -1139,7 +1139,7 @@
 <LM>w#w-lnd92256-070-p5s1w6</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1902,7 +1902,7 @@
 <form>CNN</form>
 <tag>
 <AM lemma="CNN-1_:B_;m_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CNN_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-070-p6s3w7">
@@ -2010,7 +2010,7 @@
 <LM>w#w-lnd92256-070-p6s4w4</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92256-070-p6s4w5">
 <src.rf>manual</src.rf>
@@ -2026,7 +2026,7 @@
 <LM>w#w-lnd92256-070-p6s4w6</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-070-p6s4w7">
 <src.rf>manual</src.rf>
@@ -2233,7 +2233,7 @@
 <LM>w#w-lnd92256-070-p7s1w14</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="mj_^(mimo_jiné)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-lnd92256-070-p7s1w15">
 <src.rf>manual</src.rf>
@@ -2476,7 +2476,7 @@
 <LM>w#w-lnd92256-070-p7s2w6</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-070-p7s2w7">
 <src.rf>manual</src.rf>
@@ -2849,7 +2849,7 @@
 <LM>w#w-lnd92256-070-p8s2w12</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p8s2w13">
 <src.rf>manual</src.rf>
@@ -3099,7 +3099,7 @@
 <LM>w#w-lnd92256-070-p9s1w12</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p9s1w13">
 <src.rf>manual</src.rf>

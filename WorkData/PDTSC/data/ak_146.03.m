@@ -1711,7 +1711,7 @@
 <LM>w#w-d1t744-14</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m146-d1t744-12">
 <w.rf>
@@ -2233,7 +2233,7 @@
 <LM>w#w-d1t756-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m146-d1t756-4">
 <w.rf>
@@ -3055,7 +3055,7 @@
 <LM>w#w-d1t786-38</LM>
 </w.rf>
 <form>Zdenička</form>
-<tag lemma="Zdenička_;Y_,e" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Zdenička_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m146-d-m-d1e777-x2-punct-punct">
 <w.rf>
@@ -3105,7 +3105,7 @@
 <LM>w#w-d1t795-2</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m146-d1t795-6">
 <w.rf>

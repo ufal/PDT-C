@@ -450,7 +450,7 @@
 <LM>w#w-lnd92255-057-p3s4w13</LM>
 </w.rf>
 <form>gruzínsko</form>
-<tag lemma="gruzínský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="gruzínsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92255-057-p3s4w14">
 <src.rf>manual</src.rf>

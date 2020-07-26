@@ -120,7 +120,7 @@
 </w.rf>
 <form>více</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="více" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -651,7 +651,7 @@
 <LM>w#w-d1t2345-8</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m102-d-id125367-punct">
 <w.rf>
@@ -1278,7 +1278,7 @@
 <LM>w#w-d1t2382-2</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m102-d1t2382-3">
 <w.rf>
@@ -1683,7 +1683,7 @@
 <LM>w#w-d1t2395-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m102-d1t2395-4">
 <w.rf>
@@ -1723,7 +1723,7 @@
 </w.rf>
 <form>nejvíce</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A----</AM>
 <AM lemma="nejvíce" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -1912,7 +1912,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM>
-<AM lemma="více" src="auto" selected="1">Ca--X----------</AM>
+<AM lemma="více" src="auto" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m102-d1t2414-6">
@@ -1979,7 +1979,7 @@
 <LM>w#w-d1t2414-11</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m102-d1t2414-12">
 <w.rf>
@@ -2631,7 +2631,7 @@
 <LM>w#w-d1t2459-6</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m102-d1e2454-x2-911">
 <w.rf>
@@ -2722,7 +2722,7 @@
 <LM>w#w-d1t2461-6</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m102-925-71">
 <w.rf>
@@ -2783,14 +2783,14 @@
 <LM>w#w-d1t2463-8</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m102-d1t2463-9">
 <w.rf>
 <LM>w#w-d1t2463-9</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m102-d1t2463-10">
 <w.rf>
@@ -3211,7 +3211,7 @@
 <LM>w#w-d1t2474-14</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m102-d1t2476-1">
 <w.rf>
@@ -3483,7 +3483,7 @@
 <LM>w#w-d1t2491-2</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m102-d-id130441-punct">
 <w.rf>
@@ -3518,7 +3518,7 @@
 <LM>w#w-d1t2491-7</LM>
 </w.rf>
 <form>teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m102-d1t2491-8">
 <w.rf>
@@ -4002,7 +4002,7 @@
 <LM>w#w-d1t2502-14</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m102-d1t2502-15">
 <w.rf>
@@ -4182,7 +4182,7 @@
 <LM>w#w-d1t2514-6</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m102-d1t2514-8">
 <w.rf>

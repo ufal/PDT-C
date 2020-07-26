@@ -257,7 +257,7 @@
 <LM>w#w-lnd92255-125-p3s2w14</LM>
 </w.rf>
 <form>Juventusem</form>
-<tag lemma="Juventus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Juventus_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92255-125-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1014,7 +1014,7 @@
 <LM>w#w-lnd92255-125-p4s3w13</LM>
 </w.rf>
 <form>Foggia</form>
-<tag lemma="Foggia_;G" src="auto" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Foggia_;G" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-125-p4s3w14">
 <src.rf>manual</src.rf>
@@ -4047,7 +4047,7 @@
 <LM>w#w-lnd92255-125-p7s5w13</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92255-125-p7s5w14">
 <src.rf>manual</src.rf>

@@ -305,7 +305,7 @@
 <LM>w#w-ln95049-007-p3s1w5</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95049-007-p3s1w6">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-ln95049-007-p4s1w3</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95049-007-p4s1w4">
 <src.rf>manual</src.rf>

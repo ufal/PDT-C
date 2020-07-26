@@ -27,7 +27,7 @@
 <LM>w#w-mf930713-049-p1s1w2</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930713-049-p1s1w3">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-mf930713-049-p1s1w3</LM>
 </w.rf>
 <form>vydělat</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-049-p1s1w4">
 <src.rf>manual</src.rf>
@@ -162,7 +162,7 @@
 <LM>w#w-mf930713-049-p2s1Bw8</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930713-049-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-mf930713-049-p2s1Bw14</LM>
 </w.rf>
 <form>vydělat</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-049-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-049-p2s7w24">
@@ -1154,7 +1154,7 @@
 <LM>w#w-mf930713-049-p2s8w3</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930713-049-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1410,7 +1410,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-049-p2s9w5">
@@ -1727,7 +1727,7 @@
 <LM>w#w-mf930713-049-p2s12w11</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-mf930713-049-p2s12w12">
 <src.rf>manual</src.rf>

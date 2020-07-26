@@ -1453,7 +1453,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_;m" src="auto" selected="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="auto" selected="1">BNXXX-----A----</AM>
 <AM lemma="Naso_;G" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>

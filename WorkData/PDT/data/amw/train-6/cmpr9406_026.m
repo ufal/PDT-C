@@ -539,7 +539,7 @@
 <LM>w#w-cmpr9406-026-p4s5w7</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilogram" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-cmpr9406-026-p4s5w8">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 <tag>
 <AM lemma="RVHP-1_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RVHP-1_:B_;m" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="RVHP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="RVHP-1_;m_^(Rada_vzájemné_hospodářské_pomoci)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-026-p5s2w4">
@@ -985,7 +985,7 @@
 <LM>w#w-cmpr9406-026-p6s2w4</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9406-026-p6s2w5">
 <src.rf>manual</src.rf>
@@ -1419,7 +1419,7 @@
 <LM>w#w-cmpr9406-026-p6s4w17</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilogram" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-cmpr9406-026-p6s4w18">
 <src.rf>manual</src.rf>
@@ -1791,7 +1791,7 @@
 <LM>w#w-cmpr9406-026-p12s1w9</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9406-026-p12s1w10">
 <src.rf>manual</src.rf>
@@ -1825,7 +1825,7 @@
 <LM>w#w-cmpr9406-026-p12s2w1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9406-026-p12s2w2">
 <src.rf>manual</src.rf>

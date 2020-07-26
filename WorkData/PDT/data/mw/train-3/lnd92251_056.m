@@ -153,7 +153,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92251-056-p3s2w11">
@@ -427,7 +427,7 @@
 <LM>w#w-lnd92251-056-p3s5w12</LM>
 </w.rf>
 <form>dána</form>
-<tag lemma="dát" src="orig" selected="1">VsQW----X-APP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92251-056-p3s5w13">
 <src.rf>manual</src.rf>

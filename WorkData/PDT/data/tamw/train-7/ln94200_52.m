@@ -198,7 +198,7 @@
 <LM>w#w-ln94200-52-p2s1Bw8</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94200-52-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p2s1Bw17">
@@ -283,7 +283,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p2s1Bw19">
@@ -1408,7 +1408,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p5s1w26">
@@ -1427,7 +1427,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p5s1w28">
@@ -1853,7 +1853,7 @@
 <LM>w#w-ln94200-52-p5s2w28</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94200-52-p5s2w29">
 <src.rf>manual</src.rf>
@@ -2020,7 +2020,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p5s3w13">
@@ -2421,7 +2421,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p6s4w6">

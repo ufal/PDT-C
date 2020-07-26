@@ -48,7 +48,7 @@
 <LM>w#w-cmpr9410-018-p2s1w1</LM>
 </w.rf>
 <form>Méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-cmpr9410-018-p2s1w2">
 <src.rf>manual</src.rf>
@@ -116,7 +116,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-018-p3s1w6">
@@ -175,7 +175,7 @@
 <LM>w#w-cmpr9410-018-p4s1w4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-cmpr9410-018-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1829,7 +1829,7 @@
 <form>mld</form>
 <tag>
 <AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFXX---------b</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-018-p7s4w11">
@@ -1849,7 +1849,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-018-p7s4w13">
@@ -1971,7 +1971,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-018-p9s1w2">
@@ -2055,7 +2055,7 @@
 <LM>w#w-cmpr9410-018-p9s1w11</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-cmpr9410-018-p9s1w12">
 <src.rf>manual</src.rf>
@@ -3255,7 +3255,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-018-p11s4w6">
@@ -3512,7 +3512,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-018-p13s1w6">
@@ -3707,7 +3707,7 @@
 <LM>w#w-cmpr9410-018-p13s2w5</LM>
 </w.rf>
 <form>nemohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-cmpr9410-018-p13s2w6">
 <src.rf>manual</src.rf>
@@ -4422,7 +4422,7 @@
 <LM>w#w-cmpr9410-018-p15s3Aw3</LM>
 </w.rf>
 <form>dáno</form>
-<tag lemma="dát" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-cmpr9410-018-p15s3Aw4">
 <src.rf>manual</src.rf>
@@ -4963,7 +4963,7 @@
 <LM>w#w-cmpr9410-018-p16s1w20</LM>
 </w.rf>
 <form>dosti</form>
-<tag lemma="dost" src="auto" selected="1">Db------------1</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A---1</tag>
 </m>
 <m id="m-cmpr9410-018-p16s1w21">
 <src.rf>manual</src.rf>
@@ -5081,7 +5081,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-018-p18s1w8">
@@ -5100,7 +5100,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-018-p18s1w10">
@@ -5191,7 +5191,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-018-p18s1w21">

@@ -131,7 +131,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VsYS----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VsYS---XX-AP---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VsYS----X-APP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln94204-67-p2s1Bw7">

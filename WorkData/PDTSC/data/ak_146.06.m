@@ -442,7 +442,7 @@
 <form>půl</form>
 <tag>
 <AM lemma="půl-1" src="auto">ClXS1----------</AM>
-<AM lemma="půl-1" src="auto" recommended="1">ClXS2----------</AM>
+<AM lemma="půl-1" src="auto" recommended="1">Cl-XX----------</AM>
 <AM lemma="půl-1" src="auto">ClXS3----------</AM>
 <AM lemma="půl-1" src="auto">ClXS4----------</AM>
 <AM lemma="půl-1" src="auto">ClXS6----------</AM>
@@ -488,7 +488,7 @@
 <LM>w#w-d1t1120-6</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m146-d1t1120-7">
 <w.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-d1t1130-32</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m146-d1t1130-33">
 <w.rf>
@@ -2519,7 +2519,7 @@
 <LM>w#w-d1t1217-4</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m146-d1t1217-5">
 <w.rf>
@@ -3027,7 +3027,7 @@
 <LM>w#w-d1t1239-12</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
 </m>
 <m id="m146-d1t1239-13">
 <w.rf>
@@ -3398,7 +3398,7 @@
 <LM>w#w-d1t1253-25</LM>
 </w.rf>
 <form>Holt</form>
-<tag lemma="holt_,h_,s" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="holt_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m146-d1t1253-22">
 <w.rf>

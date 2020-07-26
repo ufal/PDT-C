@@ -221,7 +221,7 @@
 <LM>w#w-mf930702-108-p2s1w22</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-108-p2s1w23">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-mf930702-108-p6s1w13</LM>
 </w.rf>
 <form>vydala</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-108-p6s1w14">
 <src.rf>manual</src.rf>
@@ -899,7 +899,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-108-p6s1w16">
@@ -1154,7 +1154,7 @@
 <LM>w#w-mf930702-108-p8s1w3</LM>
 </w.rf>
 <form>Nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930702-108-p8s1w4">
 <src.rf>manual</src.rf>
@@ -1170,7 +1170,7 @@
 <LM>w#w-mf930702-108-p8s1w5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930702-108-p8s1w6">
 <src.rf>manual</src.rf>

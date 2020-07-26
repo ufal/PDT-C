@@ -641,7 +641,7 @@
 <LM>w#w-mf920923-107-p3s1w10</LM>
 </w.rf>
 <form>Rusů</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920923-107-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1165,7 +1165,7 @@
 <LM>w#w-mf920923-107-p4s2w1</LM>
 </w.rf>
 <form>Nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf920923-107-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <LM>w#w-mf920923-107-p4s2w3</LM>
 </w.rf>
 <form>zasažena</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsQW----X-AP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-mf920923-107-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1898,7 +1898,7 @@
 <LM>w#w-mf920923-107-p6s1w12</LM>
 </w.rf>
 <form>Evropa</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-107-p6s1w13">
 <src.rf>manual</src.rf>
@@ -2042,7 +2042,7 @@
 <LM>w#w-mf920923-107-p6s1w30</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920923-107-p6s1w31">
 <src.rf>manual</src.rf>
@@ -2252,7 +2252,7 @@
 <LM>w#w-mf920923-107-p6s2w15</LM>
 </w.rf>
 <form>Rusů</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920923-107-p6s2w16">
 <src.rf>manual</src.rf>

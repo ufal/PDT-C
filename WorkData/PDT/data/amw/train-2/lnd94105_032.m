@@ -474,7 +474,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-2_;m_^(Občanská_demokratická_aliance)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-032-p1s6w6">
@@ -786,7 +786,7 @@
 <LM>w#w-lnd94105-032-p1s8w12</LM>
 </w.rf>
 <form>kandidátku</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94105-032-p1s8w13">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-2_;m_^(Občanská_demokratická_aliance)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-032-p1s10w2">
@@ -1123,7 +1123,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-2_;m_^(Občanská_demokratická_aliance)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-032-p1s10w13">
@@ -1174,7 +1174,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-lnd94105-032-p1s10w19">
@@ -1454,7 +1454,7 @@
 <LM>w#w-lnd94105-032-p1s12w2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94105-032-p1s12w3">
 <src.rf>manual</src.rf>
@@ -1496,7 +1496,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-2_;m_^(Občanská_demokratická_aliance)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-032-p1s12w8">
@@ -1670,7 +1670,7 @@
 <LM>w#w-lnd94105-032-p1s13w11</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94105-032-p1s13w12">
 <src.rf>manual</src.rf>
@@ -1762,7 +1762,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-2_;m_^(Občanská_demokratická_aliance)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-032-p1s14w7">

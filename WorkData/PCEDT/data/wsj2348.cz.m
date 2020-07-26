@@ -946,7 +946,7 @@
 <form>Charlotte</form>
 <tag>
 <AM lemma="Charlotte_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Charlotte-2_;G" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Charlotte_;G_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2348-001-p1s2W15-Ta">
@@ -1344,7 +1344,7 @@
 <LM>w#w-wsj2348-001-p1s3W9</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2348-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1776,7 +1776,7 @@
 <LM>w#w-wsj2348-001-p1s6W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2348-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2785,7 +2785,7 @@
 <LM>w#w-wsj2348-001-p1s11W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2348-001-p1s11W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3078,7 +3078,7 @@
 <LM>w#w-wsj2348-001-p1s12W5</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2348-001-p1s12W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3641,7 +3641,7 @@
 <LM>w#w-wsj2348-001-p1s14W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2348-001-p1s14W2-Ta">
 <src.rf>tagger-a</src.rf>

@@ -4301,7 +4301,7 @@
 <LM>w#w-wsj1688-001-p1s14W21</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1688-001-p1s14W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8750,7 +8750,7 @@
 <LM>w#w-wsj1688-001-p1s28W21</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1688-001-p1s28W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9055,7 +9055,7 @@
 <LM>w#w-wsj1688-001-p1s30W6</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj1688-001-p1s30W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9087,7 +9087,7 @@
 <LM>w#w-wsj1688-001-p1s30W10</LM>
 </w.rf>
 <form>kdybychom</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj1688-001-p1s30W11-Ta">
 <src.rf>tagger-a</src.rf>

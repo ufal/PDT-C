@@ -529,7 +529,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -5218,7 +5218,7 @@
 <LM>w#w-wsj1590-001-p1s17W12</LM>
 </w.rf>
 <form>spořitelen</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1590-001-p1s17W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5402,7 +5402,7 @@
 <LM>w#w-wsj1590-001-p1s17W28</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1590-001-p1s17W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6228,7 +6228,7 @@
 <tag>
 <AM lemma="politik" src="auto">NNMS2-----A----</AM>
 <AM lemma="politik" src="auto">NNMS4-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP5-----A----</AM>
@@ -7306,7 +7306,7 @@
 <LM>w#w-wsj1590-001-p1s22W15</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1590-001-p1s22W16-Ta">
 <src.rf>tagger-a</src.rf>

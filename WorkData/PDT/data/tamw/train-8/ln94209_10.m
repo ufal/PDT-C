@@ -43,7 +43,7 @@
 <LM>w#w-ln94209-10-p1s1w4</LM>
 </w.rf>
 <form>extremistům</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-10-p2s1A">

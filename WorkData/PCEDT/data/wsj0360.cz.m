@@ -1022,7 +1022,7 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_;U_^(molekula_DNA)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekulaNA)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFS1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP4-----A----</AM>
@@ -2985,7 +2985,7 @@
 <LM>w#w-wsj0360-001-p1s10W11</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0360-001-p1s10W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2993,7 +2993,7 @@
 <LM>w#w-wsj0360-001-p1s10W12</LM>
 </w.rf>
 <form>radši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj0360-001-p1s10W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3737,7 +3737,7 @@
 <LM>w#w-wsj0360-001-p1s12W10</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m-wsj0360-001-p1s12W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5059,7 +5059,7 @@
 </w.rf>
 <form>Norů</form>
 <tag>
-<AM lemma="Nor_;E" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="Nor_;E_;Y" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="Noro_;Y" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -5078,7 +5078,7 @@
 </w.rf>
 <form>Rusů</form>
 <tag>
-<AM lemma="Rus_;E" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="Rus-1_;E" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="rus_^(druh_švába)" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -6150,7 +6150,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="auto" recommended="1">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0360-001-p1s19W28-Ta">
@@ -6568,7 +6568,7 @@
 <LM>w#w-wsj0360-001-p1s20W26</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m-wsj0360-001-p1s20W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11126,7 +11126,7 @@
 <LM>w#w-wsj0360-001-p1s35W5</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0360-001-p1s35W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11932,7 +11932,7 @@
 <tag>
 <AM lemma="Massachussets" src="auto">X@-------------</AM>
 <AM lemma="Massachussets_;G_,h_^(^GC**Massachusetts)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Massachussets_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Massachussets_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 </s>

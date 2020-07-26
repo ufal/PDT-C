@@ -381,7 +381,7 @@
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--4----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--6----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--7----------</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="mu_16-SCzechM-p1630-s1-w17">
@@ -2360,7 +2360,7 @@
 <form>Necháš</form>
 <tag>
 <AM lemma="nechat" recommended="1">VB-S---2P-AAI--</AM>
-<AM lemma="nechat" src="manual" selected="1">VB-S---2P-AAI--</AM>
+<AM lemma="nechat" src="manual" selected="1">VB-S---2P-AAP--</AM>
 </tag>
 </m>
 <m id="mu_16-SCzechM-p1670-s1-w7">
@@ -2811,7 +2811,7 @@
 <LM>w#w-mu_16-SCzechM-p1676-s1-w21</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="mu_16-SCzechM-p1676-s1-w22">
 <w.rf>
@@ -3620,7 +3620,7 @@
 <form>rozmyslet</form>
 <tag>
 <AM lemma="rozmyslet" recommended="1">Vf--------A----</AM>
-<AM lemma="rozmyslet" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="rozmyslit" src="manual" selected="1">Vf--------A-P-1</AM>
 </tag>
 </m>
 <m id="mu_16-SCzechM-p1696-s1-w2">
@@ -4208,7 +4208,7 @@
 <form>Napadeny</form>
 <tag>
 <AM lemma="napadnout" recommended="1">VsTP---XX-AP---</AM>
-<AM lemma="napadnout" src="manual" selected="1">VsTP----X-APP--</AM>
+<AM lemma="napadnout" src="manual" selected="1">VsTP----X-APP-1</AM>
 </tag>
 </m>
 <m id="mu_16-SCzechM-p1722-s1-w2">
@@ -5003,7 +5003,7 @@
 <LM>w#w-mu_16-SCzechM-p1730-s1-w26</LM>
 </w.rf>
 <form>snů</form>
-<tag lemma="sen" recommended="1">NNIP2-----A----</tag>
+<tag lemma="sen-1" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="mu_16-SCzechM-p1730-s1-w27">
 <w.rf>
@@ -5352,7 +5352,7 @@
 <AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--4----------</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--6----------</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--7----------</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 </s>

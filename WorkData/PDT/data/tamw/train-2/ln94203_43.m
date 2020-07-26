@@ -29,7 +29,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-43-p1s1w3">
@@ -102,7 +102,7 @@
 <form>Nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-43-p2s1Cw2">
@@ -137,7 +137,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-43-p2s1Cw6">
@@ -427,7 +427,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-43-p3s1w4">
@@ -632,7 +632,7 @@
 <LM>w#w-ln94203-43-p3s3w4</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94203-43-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1075,7 +1075,7 @@
 <LM>w#w-ln94203-43-p3s7w7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94203-43-p3s7w8">
 <src.rf>manual</src.rf>
@@ -1215,7 +1215,7 @@
 <LM>w#w-ln94203-43-p4s1w1</LM>
 </w.rf>
 <form>Nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln94203-43-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1429,7 +1429,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-43-p4s3w12">
@@ -1470,7 +1470,7 @@
 <LM>w#w-ln94203-43-p4s3w16</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94203-43-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1539,7 +1539,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
 <AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual">Ca--4----------</AM>
-<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-43-p4s4w8">
@@ -1649,7 +1649,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
 <AM lemma="hodně-2_nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-43-p4s5w11">

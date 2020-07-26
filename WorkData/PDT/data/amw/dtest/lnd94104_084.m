@@ -120,7 +120,7 @@
 <LM>w#w-lnd94104-084-p1s1Bw2</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-084-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-lnd94104-084-p1s1Bw18</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd94104-084-p1s1Bw19">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-lnd94104-084-p1s2w9</LM>
 </w.rf>
 <form>dosti</form>
-<tag lemma="dost" src="auto" selected="1">Db------------1</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A---1</tag>
 </m>
 <m id="m-lnd94104-084-p1s2w10">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-lnd94104-084-p1s3w9</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-084-p1s3w10">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-lnd94104-084-p1s3w12</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd94104-084-p1s3w13">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <LM>w#w-lnd94104-084-p1s6w3</LM>
 </w.rf>
 <form>dán</form>
-<tag lemma="dát" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94104-084-p1s6w4">
 <src.rf>manual</src.rf>
@@ -951,7 +951,7 @@
 <LM>w#w-lnd94104-084-p1s7w5</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94104-084-p1s7w6">
 <src.rf>manual</src.rf>
@@ -1793,7 +1793,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
+<AM lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-084-p1s11w16">

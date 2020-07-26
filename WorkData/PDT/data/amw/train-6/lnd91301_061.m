@@ -60,7 +60,7 @@
 </w.rf>
 <form>Marlene</form>
 <tag>
-<AM lemma="Marlene_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Marlene_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Marlene_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -556,7 +556,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-061-p2s2w2">
@@ -1093,7 +1093,7 @@
 <LM>w#w-lnd91301-061-p3s4w4</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91301-061-p3s4w5">
 <src.rf>manual</src.rf>

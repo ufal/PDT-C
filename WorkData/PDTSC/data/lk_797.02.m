@@ -4040,7 +4040,7 @@
 <form>Dagmar</form>
 <tag>
 <AM lemma="Dagmara_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="Dagmar_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Dagmar_;Y_;m" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m797-d1t640-1">
@@ -4922,7 +4922,7 @@
 <LM>w#w-d1t670-4</LM>
 </w.rf>
 <form>Aleš</form>
-<tag lemma="Aleš-1_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Aleš_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m797-d-id88122">
 <w.rf>
@@ -5464,7 +5464,7 @@
 <LM>w#w-d1t692-1</LM>
 </w.rf>
 <form>Romanka</form>
-<tag lemma="Romanka_;Y_,h" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Romanka_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m797-d1t692-2">
 <w.rf>
@@ -6037,7 +6037,7 @@
 <LM>w#w-d1t703-8</LM>
 </w.rf>
 <form>Aleš</form>
-<tag lemma="Aleš-1_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Aleš_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m797-1406-1332">
 <w.rf>
@@ -6164,7 +6164,7 @@
 <LM>w#w-d1t703-17</LM>
 </w.rf>
 <form>Romanka</form>
-<tag lemma="Romanka_;Y_,h" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Romanka_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m797-d-id89722">
 <w.rf>
@@ -6638,7 +6638,7 @@
 <LM>w#w-d1t724-2</LM>
 </w.rf>
 <form>CN</form>
-<tag lemma="CN" src="auto" recommended="1">NNXXX-----A---b</tag>
+<tag lemma="CN-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m797-d1e596-x24-1592">
 <w.rf>

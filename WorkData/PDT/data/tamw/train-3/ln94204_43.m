@@ -496,7 +496,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
+<AM lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-43-p4s1w2">
@@ -964,7 +964,7 @@
 <form>Konstruktiva</form>
 <tag>
 <AM lemma="Konstruktiva_;Y_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Konstruktiva-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-43-p6s1w4">

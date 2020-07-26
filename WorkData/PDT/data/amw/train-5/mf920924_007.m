@@ -423,7 +423,7 @@
 <LM>w#w-mf920924-007-p2s2w12</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920924-007-p2s2w13">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-mf920924-007-p2s2w15</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-007-p2s2w16">
 <src.rf>manual</src.rf>

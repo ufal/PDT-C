@@ -276,7 +276,7 @@
 <LM>w#w-ln95040-103-p2s1Cw11</LM>
 </w.rf>
 <form>vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-103-p2s1Cw12">
 <src.rf>manual</src.rf>
@@ -1134,7 +1134,7 @@
 <LM>w#w-ln95040-103-p3s5w19</LM>
 </w.rf>
 <form>uchem</form>
-<tag lemma="ucho" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="ucho-1" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95040-103-p3s5w20">
 <src.rf>manual</src.rf>
@@ -1782,7 +1782,7 @@
 <LM>w#w-ln95040-103-p5s1w5</LM>
 </w.rf>
 <form>vydali</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-103-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2007,7 +2007,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-103-p5s3w4">

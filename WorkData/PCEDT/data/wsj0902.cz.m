@@ -361,7 +361,7 @@
 <LM>w#w-wsj0902-001-p1s1W6</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0902-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1194,7 +1194,7 @@
 <LM>w#w-wsj0902-001-p1s4W19</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0902-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>

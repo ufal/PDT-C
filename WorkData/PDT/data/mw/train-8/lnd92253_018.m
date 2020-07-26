@@ -576,7 +576,7 @@
 <LM>w#w-lnd92253-018-p2s4w15</LM>
 </w.rf>
 <form>bočně</form>
-<tag lemma="bočně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="bočně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92253-018-p2s4w16">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <LM>w#w-lnd92253-018-p3s1w2</LM>
 </w.rf>
 <form>luč</form>
-<tag lemma="luč-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="luč-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92253-018-p3s1w3">
 <src.rf>manual</src.rf>

@@ -91,7 +91,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m112-d1t1839-15">
@@ -125,7 +125,7 @@
 <LM>w#w-d1t1837-11</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m112-d1t1837-12">
 <w.rf>
@@ -376,7 +376,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m112-d1t1843-3">
@@ -1245,7 +1245,7 @@
 <LM>w#w-d1t1864-13</LM>
 </w.rf>
 <form>sestřihávaly</form>
-<tag lemma="sestřihávat_^(*4at)" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="sestřihávat_^(^DD**sestříhávat)_(*4at)" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m112-d1t1864-14">
 <w.rf>
@@ -1307,7 +1307,7 @@
 <form>Správně</form>
 <tag>
 <AM lemma="správně_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="správně_^(*1í)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m112-d1t1866-3">
@@ -2131,7 +2131,7 @@
 <LM>w#w-d1t1890-3</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m112-d1t1890-4">
 <w.rf>
@@ -2154,7 +2154,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m112-d1t1890-7">
@@ -2474,7 +2474,7 @@
 <LM>w#w-d1t1901-2</LM>
 </w.rf>
 <form>radši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m112-d1t1901-3">
 <w.rf>
@@ -2536,7 +2536,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -2836,7 +2836,7 @@
 <LM>w#w-d1t1911-20</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m112-205-206">
 <w.rf>
@@ -2926,7 +2926,7 @@
 <LM>w#w-d1t1911-29</LM>
 </w.rf>
 <form>dávat</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m112-d-m-d1e1902-x2-punct-punct">
 <w.rf>
@@ -3468,7 +3468,7 @@
 <LM>w#w-d1t1931-8</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m112-d1t1931-9">
 <w.rf>
@@ -3487,7 +3487,7 @@
 <LM>w#w-d1t1931-10</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m112-d1t1931-11">
 <w.rf>
@@ -3934,7 +3934,7 @@
 <form>prvně</form>
 <tag>
 <AM lemma="prvně" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="prvně_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="prvně" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m112-d1t1946-6">
@@ -4166,7 +4166,7 @@
 <LM>w#w-d1t1948-22</LM>
 </w.rf>
 <form>Můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m112-d1t1948-23">
 <w.rf>
@@ -4431,7 +4431,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m112-d1t1955-1">
@@ -4623,7 +4623,7 @@
 <LM>w#w-d1t1963-10</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m112-d1t1963-11">
 <w.rf>
@@ -5412,7 +5412,7 @@
 <tag>
 <AM lemma="překládat-1_^(přemístit)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="překládat-2_^(přehnout)" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="překládat-3_^(z_jazyka)" src="auto" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="překládat" src="auto" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m112-d1t1981-9">
@@ -5554,7 +5554,7 @@
 <LM>w#w-d1t1987-7</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m112-d1t1987-9">
 <w.rf>
@@ -5763,7 +5763,7 @@
 <form>dřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------2A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m112-d1t1994-2">
@@ -5834,7 +5834,7 @@
 <LM>w#w-d1t1996-5</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m112-d1t2000-2">
 <w.rf>
@@ -6022,7 +6022,7 @@
 <LM>w#w-d1t2007-5</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m112-d1t2007-6">
 <w.rf>

@@ -67,7 +67,7 @@
 <LM>w#w-ln95048-080-p1s1w7</LM>
 </w.rf>
 <form>StB</form>
-<tag lemma="StB_;m" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="StB_;m_^(Státní_bezpečnost)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95048-080-p1s1w8">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-ln95048-080-p3s1w4</LM>
 </w.rf>
 <form>vydalo</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-080-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1603,7 +1603,7 @@
 <LM>w#w-ln95048-080-p5s1w14</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95048-080-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1693,7 +1693,7 @@
 <LM>w#w-ln95048-080-p5s2w5</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-ln95048-080-p5s2w6">
 <src.rf>manual</src.rf>

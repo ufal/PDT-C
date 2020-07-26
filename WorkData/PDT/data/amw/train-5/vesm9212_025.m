@@ -621,7 +621,7 @@
 <form>ČSAV</form>
 <tag>
 <AM lemma="ČSAV-1_:B_;m_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAV-1_;m_^(Čs._akademie_věd)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSAV_;m_^(Čs._akademie_věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-025-p2s2w45">
@@ -829,7 +829,7 @@
 <LM>w#w-vesm9212-025-p2s4w6</LM>
 </w.rf>
 <form>antibiotik</form>
-<tag lemma="antibiotikum_;U" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="antibiotikum" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9212-025-p2s4w7">
 <src.rf>manual</src.rf>
@@ -893,7 +893,7 @@
 <LM>w#w-vesm9212-025-p2s4w14</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-vesm9212-025-p2s4w15">
 <src.rf>manual</src.rf>
@@ -976,7 +976,7 @@
 <LM>w#w-vesm9212-025-p2s4w24</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-vesm9212-025-p2s4w25">
 <src.rf>manual</src.rf>
@@ -1223,7 +1223,7 @@
 <LM>w#w-vesm9212-025-p3s2w9</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-vesm9212-025-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1367,7 +1367,7 @@
 <LM>w#w-vesm9212-025-p3s2w27</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9212-025-p3s2w28">
 <src.rf>manual</src.rf>
@@ -1475,7 +1475,7 @@
 <form>ČSAV</form>
 <tag>
 <AM lemma="ČSAV-1_:B_;m_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAV-1_;m_^(Čs._akademie_věd)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSAV_;m_^(Čs._akademie_věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-025-p4s1w8">
@@ -1937,7 +1937,7 @@
 <LM>w#w-vesm9212-025-p4s2w22</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9212-025-p4s2w23">
 <src.rf>manual</src.rf>
@@ -1955,7 +1955,7 @@
 <form>nejvíc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m-vesm9212-025-p4s2w25">
@@ -2565,7 +2565,7 @@
 <LM>w#w-vesm9212-025-p5s3w14</LM>
 </w.rf>
 <form>připomenul</form>
-<tag lemma="připomenout" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag lemma="připomenout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-vesm9212-025-p5s3w15">
 <src.rf>manual</src.rf>

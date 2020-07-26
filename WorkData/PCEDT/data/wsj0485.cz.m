@@ -1415,7 +1415,7 @@
 <LM>w#w-wsj0485-001-p1s3W25</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0485-001-p1s3W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3560,7 +3560,7 @@
 <LM>w#w-wsj0485-001-p1s9W36</LM>
 </w.rf>
 <form>zamysleli</form>
-<tag lemma="zamyslet" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="zamyslit" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj0485-001-p1s9W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3763,7 +3763,7 @@
 <LM>w#w-wsj0485-001-p1s10W5</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0485-001-p1s10W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5350,7 +5350,7 @@
 <LM>w#w-wsj0485-001-p1s13W20</LM>
 </w.rf>
 <form>právech</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP6-----A----</tag>
+<tag lemma="právo" src="auto" recommended="1">NNNP6-----A----</tag>
 </m>
 <m id="m-wsj0485-001-p1s13W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5384,7 +5384,7 @@
 <LM>w#w-wsj0485-001-p1s13W23</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0485-001-p1s13W24-Ta">
 <src.rf>tagger-a</src.rf>

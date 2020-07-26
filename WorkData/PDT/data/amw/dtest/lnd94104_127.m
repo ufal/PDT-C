@@ -398,7 +398,7 @@
 <LM>w#w-lnd94104-127-p1s4Aw3</LM>
 </w.rf>
 <form>sezonou</form>
-<tag lemma="sezóna" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94104-127-p1s4Aw4">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-lnd94104-127-p1s4Aw13</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="orig" selected="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="orig" selected="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m-lnd94104-127-p1s4Aw14">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-lnd94104-127-p1s4Aw15</LM>
 </w.rf>
 <form>výš</form>
-<tag lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="vysoko-1" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd94104-127-p1s4Aw16">
 <src.rf>manual</src.rf>
@@ -1291,7 +1291,7 @@
 <LM>w#w-lnd94104-127-p1s5w3</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd94104-127-p1s5w4">
 <src.rf>manual</src.rf>
@@ -1775,7 +1775,7 @@
 <LM>w#w-lnd94104-127-p1s7w7</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94104-127-p1s7w8">
 <src.rf>manual</src.rf>
@@ -2834,7 +2834,7 @@
 <LM>w#w-lnd94104-127-p1s11w13</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd94104-127-p1s11w14">
 <src.rf>manual</src.rf>

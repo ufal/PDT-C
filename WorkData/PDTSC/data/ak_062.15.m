@@ -39,7 +39,7 @@
 <LM>w#w-394-408</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m062-d1t3272-1">
 <w.rf>
@@ -857,7 +857,7 @@
 <LM>w#w-d1t3294-15</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m062-d1t3294-17">
 <w.rf>
@@ -1339,7 +1339,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m062-d1t3329-9">
@@ -1738,7 +1738,7 @@
 <LM>w#w-d1t3345-8</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m062-d1e3318-x3-594">
 <w.rf>
@@ -2153,7 +2153,7 @@
 <LM>w#w-d1t3355-15</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m062-d1t3355-17">
 <w.rf>
@@ -2365,7 +2365,7 @@
 <LM>w#w-d1t3370-5</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m062-d1t3370-6">
 <w.rf>
@@ -2575,7 +2575,7 @@
 <LM>w#w-d1t3380-15</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m062-d1e3375-x2-647">
 <w.rf>
@@ -2598,7 +2598,7 @@
 <LM>w#w-d1t3380-19</LM>
 </w.rf>
 <form>Koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m062-d1t3380-18">
 <w.rf>
@@ -2624,7 +2624,7 @@
 <form>panenku</form>
 <tag>
 <AM lemma="panenka-1_^(např_v_oku)" src="auto">NNFS4-----A----</AM>
-<AM lemma="panenka-2_^(na_hraní)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="panenka" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m062-651-653">
@@ -2641,7 +2641,7 @@
 <LM>w#w-d1t3382-6</LM>
 </w.rf>
 <form>Natáhlo</form>
-<tag lemma="natáhnout" src="auto" recommended="1">VpNS----R-AA---</tag>
+<tag lemma="natáhnout" src="auto" recommended="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m062-d1t3382-4">
 <w.rf>
@@ -3083,7 +3083,7 @@
 <LM>w#w-d1t3399-2</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m062-d1t3399-3">
 <w.rf>
@@ -3761,7 +3761,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m062-d1t3442-3">
@@ -4060,7 +4060,7 @@
 <LM>w#w-d1t3450-6</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m062-723-725">
 <w.rf>
@@ -4521,7 +4521,7 @@
 <LM>w#w-d1t3485-7</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m062-d-id190866-punct">
 <w.rf>
@@ -4635,7 +4635,7 @@
 <LM>w#w-d1t3489-11</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m062-d-id191078-punct">
 <w.rf>
@@ -4686,7 +4686,7 @@
 <LM>w#w-d1t3489-21</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m062-d1e3486-x2-747">
 <w.rf>

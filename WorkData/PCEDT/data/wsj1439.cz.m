@@ -1771,7 +1771,7 @@
 <LM>w#w-wsj1439-001-p1s5W14</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1439-001-p1s5W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2009,7 +2009,7 @@
 <LM>w#w-wsj1439-001-p1s5W35</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1439-001-p1s5W36-Ta">
 <src.rf>tagger-a</src.rf>

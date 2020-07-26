@@ -617,7 +617,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-24-p3s2w10">
@@ -653,7 +653,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-24-p3s2w14">
@@ -686,7 +686,7 @@
 <LM>w#w-ln94205-24-p3s2w17</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94205-24-p3s2w18">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-24-p4s2w7">
@@ -887,7 +887,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-24-p4s2w14">
@@ -1126,7 +1126,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-24-p5s1w11">
@@ -1178,7 +1178,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-24-p5s1w17">
@@ -1688,7 +1688,7 @@
 <LM>w#w-ln94205-24-p7s1w6</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94205-24-p7s1w7">
 <src.rf>manual</src.rf>

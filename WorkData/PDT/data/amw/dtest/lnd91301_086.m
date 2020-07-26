@@ -81,7 +81,7 @@
 <LM>w#w-lnd91301-086-p2s1w3</LM>
 </w.rf>
 <form>neumíme</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-P---1P-NAI--</tag>
+<tag lemma="umět" src="auto" selected="1">VB-P---1P-NAI--</tag>
 </m>
 </s>
 <s id="m-lnd91301-086-p3s1">
@@ -474,7 +474,7 @@
 <LM>w#w-lnd91301-086-p4s2w4</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-lnd91301-086-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1115,7 +1115,7 @@
 <LM>w#w-lnd91301-086-p4s5w4</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-lnd91301-086-p4s5w5">
 <src.rf>manual</src.rf>

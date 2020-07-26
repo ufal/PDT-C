@@ -92,7 +92,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92255-042-p2s2w3">
@@ -603,7 +603,7 @@
 <LM>w#w-lnd92255-042-p2s5w10</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92255-042-p2s5w11">
 <src.rf>manual</src.rf>

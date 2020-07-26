@@ -146,7 +146,7 @@
 <LM>w#w-lnd94104-104-p1s3w8</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-104-p1s3w9">
 <src.rf>manual</src.rf>

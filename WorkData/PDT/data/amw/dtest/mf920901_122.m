@@ -61,7 +61,7 @@
 <LM>w#w-mf920901-122-p2s1w1</LM>
 </w.rf>
 <form>KANADA</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-122-p2s1w2">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-mf920901-122-p4s4w10</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-122-p4s4w11">
 <src.rf>manual</src.rf>

@@ -381,7 +381,7 @@
 <LM>w#w-lnd94101-025-p1s6w5</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="auto" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-lnd94101-025-p1s6w6">
 <src.rf>manual</src.rf>

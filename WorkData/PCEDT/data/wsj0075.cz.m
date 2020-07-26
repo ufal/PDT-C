@@ -2448,7 +2448,7 @@
 <LM>w#w-wsj0075-001-p1s6W2</LM>
 </w.rf>
 <form>Abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj0075-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4238,7 +4238,7 @@
 <LM>w#w-wsj0075-001-p1s12W20</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0075-001-p1s12W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4569,7 +4569,7 @@
 <LM>w#w-wsj0075-001-p1s14W19</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0075-001-p1s14W20-Ta">
 <src.rf>tagger-a</src.rf>

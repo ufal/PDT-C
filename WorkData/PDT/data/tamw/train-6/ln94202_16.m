@@ -129,7 +129,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-16-p2s1Bw6">
@@ -1753,7 +1753,7 @@
 <form>GATT</form>
 <tag>
 <AM lemma="GATT_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GATT-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GATT_^(General_Agreement_on_Tariff_and_Trade)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-16-p7s1w32">
@@ -1820,7 +1820,7 @@
 <LM>w#w-ln94202-16-p7s2w6</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94202-16-p7s2w7">
 <src.rf>manual</src.rf>
@@ -1844,7 +1844,7 @@
 <LM>w#w-ln94202-16-p7s2w9</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94202-16-p7s2w10">
 <src.rf>manual</src.rf>
@@ -1884,7 +1884,7 @@
 <LM>w#w-ln94202-16-p7s2w14</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94202-16-p7s2w15">
 <src.rf>manual</src.rf>

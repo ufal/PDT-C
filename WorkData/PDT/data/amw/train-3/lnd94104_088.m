@@ -465,7 +465,7 @@
 <LM>w#w-lnd94104-088-p1s6w2</LM>
 </w.rf>
 <form>Dan</form>
-<tag lemma="Dan_;Y_,h" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-088-p1s6w3">
 <src.rf>manual</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-lnd94104-088-p1s6w26</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-lnd94104-088-p1s6w27">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <LM>w#w-lnd94104-088-p1s6w36</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-088-p1s6w37">
 <src.rf>manual</src.rf>
@@ -1154,7 +1154,7 @@
 <LM>w#w-lnd94104-088-p1s9w8</LM>
 </w.rf>
 <form>zastavil</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-088-p1s9w9">
 <src.rf>manual</src.rf>
@@ -1202,7 +1202,7 @@
 <LM>w#w-lnd94104-088-p1s9w14</LM>
 </w.rf>
 <form>vydali</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-088-p1s9w15">
 <src.rf>manual</src.rf>
@@ -2677,7 +2677,7 @@
 <LM>w#w-lnd94104-088-p1s17w25</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-088-p1s17w26">
 <src.rf>manual</src.rf>
@@ -2721,7 +2721,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-088-p1s17w31">

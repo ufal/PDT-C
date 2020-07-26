@@ -1435,7 +1435,7 @@
 <LM>w#w-lnd92252-022-p3s1w1</LM>
 </w.rf>
 <form>MARTINA</form>
-<tag lemma="Martina_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Martina_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-022-p3s1w2">
 <src.rf>manual</src.rf>

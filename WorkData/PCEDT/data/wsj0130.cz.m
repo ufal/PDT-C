@@ -1380,7 +1380,7 @@
 </w.rf>
 <form>stává</form>
 <tag>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="stávat-3_^(stojím_stojíš)_(*5t-3)" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1453,7 +1453,7 @@
 <LM>w#w-wsj0130-001-p1s3W13</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0130-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4254,7 +4254,7 @@
 <LM>w#w-wsj0130-001-p1s14W16</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0130-001-p1s14W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4458,7 +4458,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0130-001-p1s14W37-Ta">
@@ -6685,7 +6685,7 @@
 <LM>w#w-wsj0130-001-p1s21W12</LM>
 </w.rf>
 <form>ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0130-001-p1s21W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7449,7 +7449,7 @@
 <LM>w#w-wsj0130-001-p1s23W10</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m-wsj0130-001-p1s23W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8563,7 +8563,7 @@
 <LM>w#w-wsj0130-001-p1s26W11</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0130-001-p1s26W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8705,7 +8705,7 @@
 <LM>w#w-wsj0130-001-p1s26W23</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0130-001-p1s26W24-Ta">
 <src.rf>tagger-a</src.rf>

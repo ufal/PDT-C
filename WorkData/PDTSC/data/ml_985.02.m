@@ -14,7 +14,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m985-d1t815-1">
@@ -699,7 +699,7 @@
 <form>Švýcarech</form>
 <tag>
 <AM lemma="Švýcar_;E" src="auto">NNMP6-----A----</AM>
-<AM lemma="Švýcary_;G" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="Švýcary-1_;G" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="švýcar_,s_^(vrátný;;člen_švýcarské_gardy)" src="auto">NNMP6-----A----</AM>
 </tag>
 </m>
@@ -1862,7 +1862,7 @@
 <LM>w#w-d1t932-2</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m985-d1t932-3">
 <w.rf>
@@ -3135,7 +3135,7 @@
 <LM>w#w-d1t1031-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m985-d1t1031-4">
 <w.rf>
@@ -3733,7 +3733,7 @@
 <LM>w#w-d1t1072-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m985-d1t1072-4">
 <w.rf>
@@ -4551,7 +4551,7 @@
 <LM>w#w-d1t1148-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m985-d1t1148-3">
 <w.rf>

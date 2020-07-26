@@ -124,7 +124,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minimální_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="minimální" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="minimální" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930709-040-p2s1w5">
@@ -153,7 +153,7 @@
 <form>max</form>
 <tag>
 <AM lemma="maximální_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="maximální" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="maximální" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930709-040-p2s2w3">
@@ -212,7 +212,7 @@
 <form>ČSAD</form>
 <tag>
 <AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSAD_;m_^(Čs._státní_automobilová_doprava)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-040-p4s1w2">
@@ -475,7 +475,7 @@
 <form>ČSAD</form>
 <tag>
 <AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSAD_;m_^(Čs._státní_automobilová_doprava)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-040-p11s1w2">
@@ -514,7 +514,7 @@
 <form>ČSAD</form>
 <tag>
 <AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSAD_;m_^(Čs._státní_automobilová_doprava)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-040-p12s1w2">
@@ -578,7 +578,7 @@
 <AM lemma="stavební_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="stavba" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="stavební_:B" src="manual">AAXXX----1A---8</AM>
-<AM lemma="stavební" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="stavební" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930709-040-p13s1w4">
@@ -731,7 +731,7 @@
 <form>ČSAD</form>
 <tag>
 <AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSAD_;m_^(Čs._státní_automobilová_doprava)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-040-p17s1w2">

@@ -35,7 +35,7 @@
 <LM>w#w-ln95043-056-p1s1w3</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="orig" selected="1">PP-P7--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P7--1-------</tag>
 </m>
 </s>
 </mdata>

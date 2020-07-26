@@ -1273,7 +1273,7 @@
 <LM>w#w-wsj0928-001-p1s4W2</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0928-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2237,7 +2237,7 @@
 <LM>w#w-wsj0928-001-p1s7W5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0928-001-p1s7W6-Ta">
 <src.rf>tagger-a</src.rf>

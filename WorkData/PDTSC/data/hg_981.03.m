@@ -1472,7 +1472,7 @@
 <LM>w#w-d1t1396-13</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m981-d1t1398-2">
 <w.rf>
@@ -2244,7 +2244,7 @@
 <LM>w#w-d1t1431-7</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m981-d1t1431-8">
 <w.rf>
@@ -2569,7 +2569,7 @@
 <LM>w#w-d1t1454-1</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m981-d-id97357">
 <w.rf>
@@ -3092,7 +3092,7 @@
 <LM>w#w-d1t1481-4</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m981-d1t1481-5">
 <w.rf>
@@ -4805,7 +4805,7 @@
 </w.rf>
 <form>Turků</form>
 <tag>
-<AM lemma="Turek_;E" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="Turek_;E_;Y" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="turek_,h_^(turecká_káva)" src="auto">NNIP2-----A----</AM>
 </tag>
 </m>

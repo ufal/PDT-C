@@ -295,7 +295,7 @@
 <LM>w#w-lnd94104-049-p1s3w27</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd94104-049-p1s3w28">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-lnd94104-049-p1s5w12</LM>
 </w.rf>
 <form>centrálně</form>
-<tag lemma="centrálně_,a_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="centrálně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94104-049-p1s5w13">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-lnd94104-049-p1s5w23</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="EU-1_;m_^(Evropská_Unie)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94104-049-p1s5w24">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-lnd94104-049-p1s6w19</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="EU-1_;m_^(Evropská_Unie)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94104-049-p1s6w20">
 <src.rf>manual</src.rf>
@@ -984,7 +984,7 @@
 <LM>w#w-lnd94104-049-p1s7w5</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd94104-049-p1s7w6">
 <src.rf>manual</src.rf>

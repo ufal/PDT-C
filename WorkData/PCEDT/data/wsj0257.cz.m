@@ -63,7 +63,7 @@
 <LM>w#w-wsj0257-001-p1s0W6</LM>
 </w.rf>
 <form>vymyslet</form>
-<tag lemma="vymyslet" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="vymyslit" src="auto" recommended="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-wsj0257-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -871,7 +871,7 @@
 <LM>w#w-wsj0257-001-p1s3W12</LM>
 </w.rf>
 <form>hodnostmi</form>
-<tag lemma="hodnost_^(být_hoden;nezlobivý)_(*3ý)" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="hodnost_^(*3ý)" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj0257-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3137,7 +3137,7 @@
 <LM>w#w-wsj0257-001-p1s8W25</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0257-001-p1s8W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3723,7 +3723,7 @@
 <LM>w#w-wsj0257-001-p1s10W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0257-001-p1s10W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4731,7 +4731,7 @@
 <form>programem</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0257-001-p1s13W22-Ta">
@@ -8376,7 +8376,7 @@
 <LM>w#w-wsj0257-001-p1s26W24</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0257-001-p1s26W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9817,7 +9817,7 @@
 <LM>w#w-wsj0257-001-p1s31W23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0257-001-p1s31W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11109,7 +11109,7 @@
 <LM>w#w-wsj0257-001-p1s38W18</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m-wsj0257-001-p1s38W19-Ta">
 <src.rf>tagger-a</src.rf>

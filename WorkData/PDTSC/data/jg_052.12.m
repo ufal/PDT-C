@@ -1690,7 +1690,7 @@
 <LM>w#w-d1t4814-8</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m052-d-id191634-punct">
 <w.rf>
@@ -3322,7 +3322,7 @@
 <LM>w#w-d1t4924-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m052-d1t4924-3">
 <w.rf>
@@ -3464,7 +3464,7 @@
 <LM>w#w-d1t4932-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m052-d1t4932-7">
 <w.rf>

@@ -344,7 +344,7 @@
 <LM>w#w-wsj2047-001-p1s1W12</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2047-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -634,7 +634,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>

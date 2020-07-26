@@ -434,7 +434,7 @@
 <LM>w#w-wsj1340-001-p1s0W35</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1340-001-p1s0W36-Ta">
 <src.rf>tagger-a</src.rf>

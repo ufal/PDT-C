@@ -269,7 +269,7 @@
 <LM>w#w-d1t438-2</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m059-d1t441-1">
 <w.rf>
@@ -2080,7 +2080,7 @@
 <LM>w#w-d1t633-2</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m059-d1t633-4">
 <w.rf>
@@ -2735,7 +2735,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m059-d1e713-x2-332">
@@ -4228,7 +4228,7 @@
 <LM>w#w-d1t846-1</LM>
 </w.rf>
 <form>Nejdřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m059-d1t846-2">
 <w.rf>
@@ -4565,7 +4565,7 @@
 <AM lemma="Matek_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Matek_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m059-d1t872-5">
@@ -5029,7 +5029,7 @@
 </w.rf>
 <form>více</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="více" src="auto">Ca--X----------</AM>
 </tag>
 </m>

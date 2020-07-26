@@ -163,7 +163,7 @@
 <LM>w#w-id62426-7</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m973-id62426-8">
 <w.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-id62517-10</LM>
 </w.rf>
 <form>uměli</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m973-id62517-12">
 <w.rf>
@@ -1939,7 +1939,7 @@
 <LM>w#w-id62774-4</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m973-id62774-5">
 <w.rf>
@@ -2518,7 +2518,7 @@
 <LM>w#w-id62890-2</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m973-id62890-3">
 <w.rf>
@@ -2585,7 +2585,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m973-id62909-2">
@@ -2638,7 +2638,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -2805,7 +2805,7 @@
 <LM>w#w-id62961-2</LM>
 </w.rf>
 <form>bysme</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1------6</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im6</tag>
 </m>
 <m id="m973-id62961-4">
 <w.rf>
@@ -2991,7 +2991,7 @@
 <LM>w#w-17435-409</LM>
 </w.rf>
 <form>Můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m973-id63025-2">
 <w.rf>
@@ -3161,7 +3161,7 @@
 <LM>w#w-id63039-13</LM>
 </w.rf>
 <form>nejlíp</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A---1</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m973-id63039-14">
 <w.rf>
@@ -3608,7 +3608,7 @@
 <LM>w#w-id63166-5</LM>
 </w.rf>
 <form>Můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m973-id63166-3">
 <w.rf>
@@ -3640,7 +3640,7 @@
 <tag>
 <AM lemma="přeložit-1_:W_^(přemístit)" src="auto">Vf--------A----</AM>
 <AM lemma="přeložit-2_:W_^(přehnout)" src="auto">Vf--------A----</AM>
-<AM lemma="přeložit-3_^(z_jazyka)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="přeložit" src="auto" recommended="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m973-id63072-x5-18228">
@@ -4934,7 +4934,7 @@
 <LM>w#w-id63471-3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m973-id63480-1">
 <w.rf>
@@ -5364,7 +5364,7 @@
 <LM>w#w-id63511-9</LM>
 </w.rf>
 <form>radši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m973-id63511-10">
 <w.rf>
@@ -5427,7 +5427,7 @@
 <LM>w#w-id63511-17</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m973-id63511-18">
 <w.rf>
@@ -5610,7 +5610,7 @@
 <form>pomalu</form>
 <tag>
 <AM lemma="pomalu" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="pomalu_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="pomalu" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m973-id63550-8">

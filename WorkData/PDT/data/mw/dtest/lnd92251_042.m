@@ -351,7 +351,7 @@
 <LM>w#w-lnd92251-042-p3s3w7</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-042-p3s3w8">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-lnd92251-042-p3s4w1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92251-042-p3s4w2">
 <src.rf>manual</src.rf>

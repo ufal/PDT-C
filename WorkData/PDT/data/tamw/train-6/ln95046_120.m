@@ -243,7 +243,7 @@
 <LM>w#w-ln95046-120-p2s2w9</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95046-120-p2s2w10">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <form>kW</form>
 <tag>
 <AM lemma="kW-1`kilowatt_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilowatt" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilowatt" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95046-120-p2s2w20">
@@ -751,7 +751,7 @@
 <form>kg</form>
 <tag>
 <AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95046-120-p4s1w23">
@@ -1013,7 +1013,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95046-120-p4s4w5">
@@ -1048,7 +1048,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95046-120-p4s4w9">
@@ -1067,7 +1067,7 @@
 <form>h</form>
 <tag>
 <AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95046-120-p4s4w11">

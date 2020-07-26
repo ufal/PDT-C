@@ -111,7 +111,7 @@
 <LM>w#w-lnd92253-028-p2s2w5</LM>
 </w.rf>
 <form>stranám</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-lnd92253-028-p2s2w6">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-lnd92253-028-p2s2w7</LM>
 </w.rf>
 <form>dávala</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-028-p2s2w8">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-lnd92253-028-p2s3w7</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-028-p2s3w8">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-lnd92253-028-p2s5w4</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92253-028-p2s5w5">
 <src.rf>manual</src.rf>

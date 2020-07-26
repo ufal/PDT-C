@@ -111,7 +111,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-063-p2s1w10">
@@ -477,7 +477,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920924-063-p2s3w10">
@@ -575,7 +575,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920924-063-p2s3w21">
@@ -594,7 +594,7 @@
 <form>s</form>
 <tag>
 <AM lemma="s-2`sekunda_:B" src="orig">NNFXX-----A---1</AM>
-<AM lemma="sekunda" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="sekunda" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920924-063-p2s3w23">
@@ -1143,7 +1143,7 @@
 <form>st</form>
 <tag>
 <AM lemma="stupeň_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920924-063-p3s1w14">

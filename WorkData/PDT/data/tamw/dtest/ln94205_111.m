@@ -762,7 +762,7 @@
 <LM>w#w-ln94205-111-p2s5w8</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94205-111-p2s5w9">
 <src.rf>manual</src.rf>
@@ -850,7 +850,7 @@
 <LM>w#w-ln94205-111-p2s5w20</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94205-111-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1014,7 +1014,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KSČ_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-111-p2s6w17">
@@ -1033,7 +1033,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-111-p2s6w19">
@@ -1092,7 +1092,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-111-p2s6w26">
@@ -1183,7 +1183,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-111-p2s6w37">
@@ -1234,7 +1234,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-111-p2s6w43">
@@ -1327,7 +1327,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-111-p3s1w7">
@@ -1386,7 +1386,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KSČ_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-111-p3s1w14">
@@ -1616,7 +1616,7 @@
 <LM>w#w-ln94205-111-p3s2w14</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-111-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1752,7 +1752,7 @@
 <LM>w#w-ln94205-111-p3s2w31</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94205-111-p3s2w32">
 <src.rf>manual</src.rf>
@@ -1852,7 +1852,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-111-p4s1w11">
@@ -1927,7 +1927,7 @@
 <LM>w#w-ln94205-111-p4s2w1</LM>
 </w.rf>
 <form>Mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-111-p4s2w2">
 <src.rf>manual</src.rf>
@@ -2002,7 +2002,7 @@
 <LM>w#w-ln94205-111-p4s2w10</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94205-111-p4s2w11">
 <src.rf>manual</src.rf>
@@ -2174,7 +2174,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-111-p4s3w3">
@@ -2233,7 +2233,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KSČ_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-111-p4s3w10">

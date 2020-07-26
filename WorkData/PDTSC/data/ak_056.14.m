@@ -606,7 +606,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m056-d1t3834-3">
@@ -831,7 +831,7 @@
 <form>vámi</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P7--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P7--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P7--2-------</AM>
 </tag>
 </m>
 <m id="m056-d1t3867-3">
@@ -1053,7 +1053,7 @@
 <LM>w#w-d1t3896-1</LM>
 </w.rf>
 <form>Nebojíte</form>
-<tag lemma="bát" src="auto" recommended="1">VB-P---2P-NAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VB-P---2P-NAI--</tag>
 </m>
 <m id="m056-d1t3896-2">
 <w.rf>
@@ -1437,7 +1437,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m056-d1t3936-8">
@@ -1870,7 +1870,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m056-d1t4005-3">
@@ -2769,7 +2769,7 @@
 <LM>w#w-d1t4040-9</LM>
 </w.rf>
 <form>Rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m056-d1t4040-7">
 <w.rf>

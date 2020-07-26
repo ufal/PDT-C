@@ -183,7 +183,7 @@
 <LM>w#w-mf930701-145-p7s1w4</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-145-p7s1w5">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-mf930701-145-p17s1w3</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-145-p18s1">
@@ -1399,7 +1399,7 @@
 <LM>w#w-mf930701-145-p35s1w3</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m-mf930701-145-p35s1w4">
 <src.rf>manual</src.rf>
@@ -1586,7 +1586,7 @@
 <LM>w#w-mf930701-145-p39s1w1</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_;m_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ČT_;m_^(Česká_televize)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-145-p39s1w2">
 <src.rf>manual</src.rf>
@@ -2694,7 +2694,7 @@
 <LM>w#w-mf930701-145-p72s1w1</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_;m_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ČT_;m_^(Česká_televize)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-145-p72s1w2">
 <src.rf>manual</src.rf>
@@ -2993,7 +2993,7 @@
 <form>CNN</form>
 <tag>
 <AM lemma="CNN-1_:B_;m_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">NNNXX-----A---b</AM>
+<AM lemma="CNN_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p80s1w3">

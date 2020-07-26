@@ -87,7 +87,7 @@
 <LM>w#w-ln95041-098-p2s1Bw2</LM>
 </w.rf>
 <form>Beskydech</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="Beskydy-1_;G" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95041-098-p2s1Bw3">
 <src.rf>manual</src.rf>

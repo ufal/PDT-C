@@ -1917,7 +1917,7 @@
 <form>ČKD</form>
 <tag>
 <AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m114-d1t1178-2">
@@ -2815,7 +2815,7 @@
 <LM>w#w-d1t1220-27</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m114-d1t1220-28">
 <w.rf>
@@ -3465,7 +3465,7 @@
 <LM>w#w-d1t1233-11</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m114-d1t1233-12">
 <w.rf>
@@ -3667,7 +3667,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -4705,7 +4705,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m114-d1t1269-7">
@@ -6785,7 +6785,7 @@
 <LM>w#w-d1t1339-15</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m114-d1t1339-17">
 <w.rf>
@@ -7353,7 +7353,7 @@
 <LM>w#w-d1t1357-6</LM>
 </w.rf>
 <form>nemohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m114-d1e1317-x3-208">
 <w.rf>
@@ -7490,7 +7490,7 @@
 <LM>w#w-d1t1357-20</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m114-d1e1317-x3-179">
 <w.rf>
@@ -7734,7 +7734,7 @@
 <LM>w#w-d1t1361-19</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m114-d1t1361-21">
 <w.rf>
@@ -7752,7 +7752,7 @@
 <LM>w#w-d1t1361-22</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m114-d1t1361-23">
 <w.rf>

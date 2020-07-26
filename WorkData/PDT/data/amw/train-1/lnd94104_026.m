@@ -496,7 +496,7 @@
 <form>mm</form>
 <tag>
 <AM lemma="mm-1`milimetr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94104-026-p1s4w22">
@@ -571,7 +571,7 @@
 <LM>w#w-lnd94104-026-p1s5w8</LM>
 </w.rf>
 <form>předán</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94104-026-p1s5w9">
 <src.rf>manual</src.rf>

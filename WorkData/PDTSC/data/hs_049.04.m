@@ -767,7 +767,7 @@
 <LM>w#w-d1t1113-13</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m049-d1t1113-18">
 <w.rf>
@@ -2399,7 +2399,7 @@
 <LM>w#w-d1t1190-26</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m049-d1t1190-24">
 <w.rf>
@@ -3049,7 +3049,7 @@
 <form>Pane</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="pán_^(oslovení)" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -3239,7 +3239,7 @@
 <tag>
 <AM lemma="smět" src="auto">VsQW----X-API--</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS1-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="směna_^(výměna_za_něco;pracovní)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m049-701-703">
@@ -3263,7 +3263,7 @@
 <LM>w#w-d1t1247-1</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m049-d1t1247-2">
 <w.rf>
@@ -3873,7 +3873,7 @@
 <LM>w#w-d1t1272-4</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m049-d1t1272-5">
 <w.rf>
@@ -3955,7 +3955,7 @@
 <form>Nechal</form>
 <tag>
 <AM lemma="Nechal_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</AM>
+<AM lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m049-d1t1286-2">

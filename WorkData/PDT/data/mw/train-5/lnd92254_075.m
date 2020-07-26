@@ -235,7 +235,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s2w8">
@@ -376,7 +376,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s3w10">
@@ -456,7 +456,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s5w4">
@@ -576,7 +576,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s6w8">
@@ -749,7 +749,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s7w8">
@@ -800,7 +800,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s7w14">
@@ -871,7 +871,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s9w4">
@@ -998,7 +998,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s11w8">
@@ -1113,7 +1113,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s12w6">
@@ -1262,7 +1262,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s13w6">
@@ -1349,7 +1349,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s15w4">
@@ -1494,7 +1494,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s16w8">
@@ -1670,7 +1670,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s17w4">
@@ -1761,7 +1761,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s17w15">
@@ -1838,7 +1838,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s18w4">
@@ -1933,7 +1933,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s20w4">
@@ -2082,7 +2082,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s21w4">
@@ -2143,7 +2143,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s22w4">
@@ -2274,7 +2274,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s26w4">
@@ -2423,7 +2423,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s27w6">
@@ -2498,7 +2498,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s27w15">
@@ -2649,7 +2649,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s29w4">
@@ -2724,7 +2724,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s29w13">
@@ -2809,7 +2809,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s30w4">
@@ -2834,7 +2834,7 @@
 <LM>w#w-lnd92254-075-p3s30w6</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92254-075-p3s30w7">
 <src.rf>manual</src.rf>
@@ -2934,7 +2934,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s31w4">
@@ -3059,7 +3059,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s32w6">
@@ -3178,7 +3178,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s34w4">
@@ -3255,7 +3255,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s35w4">
@@ -3380,7 +3380,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s36w6">
@@ -3519,7 +3519,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s38w4">
@@ -3582,7 +3582,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s40w4">
@@ -3645,7 +3645,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s42w4">
@@ -3696,7 +3696,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p3s42w10">
@@ -4458,7 +4458,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p9s1w13">
@@ -4511,7 +4511,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p9s2w6">
@@ -4605,7 +4605,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p9s3w11">
@@ -4658,7 +4658,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p9s4w6">
@@ -4683,7 +4683,7 @@
 <LM>w#w-lnd92254-075-p9s4w8</LM>
 </w.rf>
 <form>Elektra</form>
-<tag lemma="Elektra_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Elektra_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-075-p9s4w9">
 <src.rf>manual</src.rf>
@@ -4791,7 +4791,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p9s5w6">
@@ -4862,7 +4862,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p9s7w4">
@@ -4956,7 +4956,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p9s8w11">
@@ -5009,7 +5009,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p9s9w6">
@@ -5103,7 +5103,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s1w8">
@@ -5172,7 +5172,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s2w8">
@@ -5366,7 +5366,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s3w4">
@@ -5473,7 +5473,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s3w16">
@@ -5542,7 +5542,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s4w8">
@@ -5630,7 +5630,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s4w18">
@@ -5683,7 +5683,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s5w6">
@@ -5730,7 +5730,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s5w11">
@@ -5767,7 +5767,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s6w4">
@@ -5907,7 +5907,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s7w8">
@@ -5975,7 +5975,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s7w16">
@@ -6028,7 +6028,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s8w6">
@@ -6203,7 +6203,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s10w8">
@@ -6323,7 +6323,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p13s1w12">
@@ -6376,7 +6376,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p13s2w6">
@@ -6499,7 +6499,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p15s1w12">
@@ -6552,7 +6552,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p15s2w6">
@@ -6646,7 +6646,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p15s3w11">
@@ -6699,7 +6699,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p15s4w6">
@@ -6769,7 +6769,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p15s5w6">
@@ -6806,7 +6806,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p15s6w4">
@@ -6884,7 +6884,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p15s7w4">
@@ -6937,7 +6937,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p15s8w6">
@@ -7033,7 +7033,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p15s10w7">
@@ -7086,7 +7086,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p15s11w6">
@@ -7206,7 +7206,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p17s1w12">
@@ -7243,7 +7243,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p17s2w4">
@@ -7318,7 +7318,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p17s2w13">
@@ -7415,7 +7415,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p17s5w4">
@@ -7595,7 +7595,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p19s2w8">

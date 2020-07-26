@@ -660,7 +660,7 @@
 <LM>w#w-ln95044-096-p2s3w12</LM>
 </w.rf>
 <form>stranám</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-ln95044-096-p2s3w13">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-ln95044-096-p2s4w4</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95044-096-p2s4w5">
 <src.rf>manual</src.rf>
@@ -761,7 +761,7 @@
 <LM>w#w-ln95044-096-p2s4w5</LM>
 </w.rf>
 <form>vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-096-p2s4w6">
 <src.rf>manual</src.rf>
@@ -868,7 +868,7 @@
 <LM>w#w-ln95044-096-p2s4w18</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95044-096-p2s4w19">
 <src.rf>manual</src.rf>

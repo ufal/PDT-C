@@ -183,7 +183,7 @@
 <form>ČSTK</form>
 <tag>
 <AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSTK-1_;m_^(Československá_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

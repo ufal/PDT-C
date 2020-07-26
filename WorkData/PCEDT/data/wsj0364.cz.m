@@ -58,7 +58,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0364-001-p1s0W4-Ta">
@@ -298,7 +298,7 @@
 <LM>w#w-wsj0364-001-p1s1W4</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0364-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -836,7 +836,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>

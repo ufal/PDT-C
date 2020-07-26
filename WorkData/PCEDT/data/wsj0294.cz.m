@@ -7016,7 +7016,7 @@
 <LM>w#w-wsj0294-001-p1s26W7</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0294-001-p1s26W8-Ta">
 <src.rf>tagger-a</src.rf>

@@ -464,7 +464,7 @@
 <LM>w#w-lnd92254-053-p2s3w16</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-053-p2s3w17">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <form>CSU</form>
 <tag>
 <AM lemma="CSU-1_:B_;m_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CSU-1_;m_^(Christianisch-Soziale_Union)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-053-p2s4w7">

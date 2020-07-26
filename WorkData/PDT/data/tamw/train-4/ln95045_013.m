@@ -824,7 +824,7 @@
 <LM>w#w-ln95045-013-p3s1w14</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95045-013-p3s1w15">
 <src.rf>manual</src.rf>
@@ -989,7 +989,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95045-013-p3s2w12">
@@ -1458,7 +1458,7 @@
 <LM>w#w-ln95045-013-p3s4w13</LM>
 </w.rf>
 <form>Příbramí</form>
-<tag lemma="Příbram_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Příbram-2_;G" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95045-013-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1490,7 +1490,7 @@
 <LM>w#w-ln95045-013-p3s4w17</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95045-013-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1709,7 +1709,7 @@
 <LM>w#w-ln95045-013-p4s1w13</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln95045-013-p4s1w14">
 <src.rf>manual</src.rf>
@@ -2147,7 +2147,7 @@
 <LM>w#w-ln95045-013-p4s5w1</LM>
 </w.rf>
 <form>Zato</form>
-<tag lemma="zato" src="orig" selected="1">J,-------------</tag>
+<tag lemma="zato" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95045-013-p4s5w2">
 <src.rf>manual</src.rf>

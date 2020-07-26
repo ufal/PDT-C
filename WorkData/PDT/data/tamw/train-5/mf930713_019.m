@@ -328,7 +328,7 @@
 <LM>w#w-mf930713-019-p2s2w16</LM>
 </w.rf>
 <form>nechá</form>
-<tag lemma="nechat" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930713-019-p2s2w17">
 <src.rf>manual</src.rf>

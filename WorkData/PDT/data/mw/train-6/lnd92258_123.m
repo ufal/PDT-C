@@ -130,7 +130,7 @@
 <LM>w#w-lnd92258-123-p2s2w9</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-123-p2s2w10">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-lnd92258-123-p2s2w41</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92258-123-p2s2w42">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-lnd92258-123-p2s3w2</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92258-123-p2s3w3">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-lnd92258-123-p2s3w21</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-123-p2s3w22">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-lnd92258-123-p2s4w1</LM>
 </w.rf>
 <form>Naším</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-lnd92258-123-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1013,7 +1013,7 @@
 <LM>w#w-lnd92258-123-p2s5w15</LM>
 </w.rf>
 <form>dána</form>
-<tag lemma="dát" src="orig" selected="1">VsQW----X-APP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92258-123-p2s5w16">
 <src.rf>manual</src.rf>

@@ -237,7 +237,7 @@
 <LM>w#w-mf930713-085-p2s1Bw14</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-085-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-mf930713-085-p2s2w28</LM>
 </w.rf>
 <form>vázali</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="vázat" src="auto" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-085-p2s2w29">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s" src="manual" selected="1">_^(^DD**milión)</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-mf930713-085-p3s2w10">
@@ -1301,7 +1301,7 @@
 <LM>w#w-mf930713-085-p4s3w7</LM>
 </w.rf>
 <form>předal</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-085-p4s3w8">
 <src.rf>manual</src.rf>

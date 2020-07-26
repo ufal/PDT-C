@@ -249,7 +249,7 @@
 <LM>w#w-cmpr9416-013-p5s1w15</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-cmpr9416-013-p5s1w16">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-cmpr9416-013-p5s2w3</LM>
 </w.rf>
 <form>impulzů</form>
-<tag lemma="impuls" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="impulz" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9416-013-p5s2w4">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-cmpr9416-013-p6s1w26</LM>
 </w.rf>
 <form>nesprávně</form>
-<tag lemma="správně_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*1í)" src="auto" selected="1">Dg-------1N----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-cmpr9416-013-p6s1w27">
 <src.rf>manual</src.rf>
@@ -1335,7 +1335,7 @@
 <LM>w#w-cmpr9416-013-p7s2w8</LM>
 </w.rf>
 <form>postiženi</form>
-<tag lemma="postihnout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="postihnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-cmpr9416-013-p7s2w9">
 <src.rf>manual</src.rf>
@@ -2219,7 +2219,7 @@
 <LM>w#w-cmpr9416-013-p12s1w4</LM>
 </w.rf>
 <form>vašimi</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSXP7-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="orig" selected="1">PSXP7-P2-------</tag>
 </m>
 <m id="m-cmpr9416-013-p12s1w5">
 <src.rf>manual</src.rf>
@@ -2259,7 +2259,7 @@
 <LM>w#w-cmpr9416-013-p12s1w9</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-013-p12s1w10">
 <src.rf>manual</src.rf>
@@ -2309,7 +2309,7 @@
 <LM>w#w-cmpr9416-013-p12s2w1</LM>
 </w.rf>
 <form>Vydával</form>
-<tag lemma="vydávat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="vydávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-013-p12s2w2">
 <src.rf>manual</src.rf>
@@ -2781,7 +2781,7 @@
 <LM>w#w-cmpr9416-013-p12s6w5</LM>
 </w.rf>
 <form>potřebách</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-cmpr9416-013-p12s6w6">
 <src.rf>manual</src.rf>
@@ -2805,7 +2805,7 @@
 <LM>w#w-cmpr9416-013-p12s6w8</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-013-p12s6w9">
 <src.rf>manual</src.rf>
@@ -2821,7 +2821,7 @@
 <LM>w#w-cmpr9416-013-p12s6w10</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-cmpr9416-013-p12s6w11">
 <src.rf>manual</src.rf>
@@ -3178,7 +3178,7 @@
 <LM>w#w-cmpr9416-013-p16s2w14</LM>
 </w.rf>
 <form>vydělat</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9416-013-p16s2w15">
 <src.rf>manual</src.rf>
@@ -3600,7 +3600,7 @@
 <LM>w#w-cmpr9416-013-p17s1w3</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-013-p17s1w4">
 <src.rf>manual</src.rf>
@@ -3648,7 +3648,7 @@
 <LM>w#w-cmpr9416-013-p17s1w9</LM>
 </w.rf>
 <form>vagonů</form>
-<tag lemma="vagón" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="vagon_,s_^(^DD**vagón)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9416-013-p17s1w10">
 <src.rf>manual</src.rf>
@@ -3778,7 +3778,7 @@
 <LM>w#w-cmpr9416-013-p17s2w9</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9416-013-p17s2w10">
 <src.rf>manual</src.rf>

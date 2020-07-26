@@ -3361,7 +3361,7 @@
 <LM>w#w-wsj2282-001-p1s10W17</LM>
 </w.rf>
 <form>datem</form>
-<tag lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS7-----A----</tag>
 </m>
 <m id="m-wsj2282-001-p1s10W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5974,7 +5974,7 @@
 <LM>w#w-wsj2282-001-p1s18W30</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2282-001-p1s18W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6510,7 +6510,7 @@
 <LM>w#w-wsj2282-001-p1s20W11</LM>
 </w.rf>
 <form>podávat</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj2282-001-p1s20W12-Ta">
 <src.rf>tagger-a</src.rf>

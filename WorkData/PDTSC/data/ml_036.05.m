@@ -103,7 +103,7 @@
 <LM>w#w-d1t1190-6</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m036-d1t1190-7">
 <w.rf>
@@ -494,7 +494,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m036-d-m-d1e1200-x2-punct-punct">
@@ -547,7 +547,7 @@
 <LM>w#w-d1t1207-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="zač" src="auto" recommended="1">PY-------------</tag>
+<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m036-d-id95055-punct">
 <w.rf>
@@ -778,7 +778,7 @@
 <LM>w#w-d1t1223-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m036-d1t1231-2">
 <w.rf>
@@ -1008,7 +1008,7 @@
 <LM>w#w-d1t1237-3</LM>
 </w.rf>
 <form>becherovka</form>
-<tag lemma="becherovka_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</tag>
+<tag lemma="becherovka" src="auto" recommended="1" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m036-d1e1216-x2-41">
 <w.rf>
@@ -1404,7 +1404,7 @@
 <LM>w#w-d1t1244-2</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m036-d1t1244-3">
 <w.rf>
@@ -2954,7 +2954,7 @@
 <form>pochopitelně</form>
 <tag>
 <AM lemma="pochopitelně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="pochopitelně-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="pochopitelně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m036-d-id99577-punct">
@@ -3679,7 +3679,7 @@
 <form>Pochopitelně</form>
 <tag>
 <AM lemma="pochopitelně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="pochopitelně-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="pochopitelně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m036-d1e1351-x2-134">
@@ -4748,7 +4748,7 @@
 <LM>w#w-d1t1405-18</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m036-d-id102915-punct">
 <w.rf>
@@ -5401,7 +5401,7 @@
 <LM>w#w-d1t1435-6</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m036-197-199">
 <w.rf>

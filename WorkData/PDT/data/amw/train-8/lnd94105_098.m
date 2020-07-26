@@ -409,7 +409,7 @@
 <LM>w#w-lnd94105-098-p1s5w11</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-098-p1s5w12">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-lnd94105-098-p1s5w13</LM>
 </w.rf>
 <form>tajně</form>
-<tag lemma="tajně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="tajně-1_^(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94105-098-p1s5w14">
 <src.rf>manual</src.rf>

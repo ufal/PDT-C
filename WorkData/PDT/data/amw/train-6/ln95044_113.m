@@ -657,7 +657,7 @@
 <LM>w#w-ln95044-113-p2s6w4</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-113-p2s6w5">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-ln95044-113-p2s7w16</LM>
 </w.rf>
 <form>cest</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95044-113-p2s7w17">
 <src.rf>manual</src.rf>

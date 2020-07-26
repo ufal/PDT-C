@@ -37,7 +37,7 @@
 <form>VŠE</form>
 <tag>
 <AM lemma="VŠE_:B_;m_^(Vysoká_škola_ekonomická)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VŠE_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VŠE_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-005-p1s1w4">
@@ -244,7 +244,7 @@
 <form>VŠE</form>
 <tag>
 <AM lemma="VŠE_:B_;m_^(Vysoká_škola_ekonomická)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VŠE_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VŠE_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-005-p2s1Bw22">
@@ -351,7 +351,7 @@
 <LM>w#w-ln95040-005-p2s2w6</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95040-005-p2s2w7">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-ln95040-005-p2s2w11</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95040-005-p2s2w12">
 <src.rf>manual</src.rf>

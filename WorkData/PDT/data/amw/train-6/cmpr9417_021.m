@@ -171,7 +171,7 @@
 <LM>w#w-cmpr9417-021-p3s2w4</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9417-021-p3s2w5">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-cmpr9417-021-p3s4w1</LM>
 </w.rf>
 <form>Nezřídka</form>
-<tag lemma="zřídka" src="orig" selected="1">Db--------N----</tag>
+<tag lemma="zřídka" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-cmpr9417-021-p3s4w2">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-cmpr9417-021-p3s4w3</LM>
 </w.rf>
 <form>stává</form>
-<tag lemma="stávat-2_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stávat-2_^(*5t-2)_(*5t-3)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-021-p3s4w4">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-cmpr9417-021-p3s5w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9417-021-p3s5w7">
 <src.rf>manual</src.rf>

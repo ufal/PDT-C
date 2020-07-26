@@ -253,7 +253,7 @@
 <LM>w#w-mf920902-097-p1s1Bw17</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_^(inženýr)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="ing_^(inženýr)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920902-097-p1s1Bw18">
 <src.rf>manual</src.rf>
@@ -1017,7 +1017,7 @@
 <LM>w#w-mf920902-097-p1s5w13</LM>
 </w.rf>
 <form>zaměstnáno</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="zaměstnat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920902-097-p1s5w14">
 <src.rf>manual</src.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-mf920902-097-p1s5w16</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920902-097-p1s5w17">
 <src.rf>manual</src.rf>
@@ -1219,7 +1219,7 @@
 <LM>w#w-mf920902-097-p1s6w12</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="akciový" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf920902-097-p1s6w13">
 <src.rf>manual</src.rf>
@@ -1235,7 +1235,7 @@
 <LM>w#w-mf920902-097-p1s6w14</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-mf920902-097-p1s6w15">
 <src.rf>manual</src.rf>

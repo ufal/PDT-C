@@ -79,7 +79,7 @@
 <form>Fr</form>
 <tag>
 <AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p2s1w8">
@@ -132,7 +132,7 @@
 <form>Austr</form>
 <tag>
 <AM lemma="Austrálie_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Austrálie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Austrálie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p2s2w5">
@@ -289,7 +289,7 @@
 <form>Šp</form>
 <tag>
 <AM lemma="Španělsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Španělsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Španělsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p2s3w18">
@@ -342,7 +342,7 @@
 <form>Něm</form>
 <tag>
 <AM lemma="Německo_:B_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Německo_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Německo_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p2s4w5">
@@ -451,7 +451,7 @@
 <form>Něm</form>
 <tag>
 <AM lemma="Německo_:B_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Německo_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Německo_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p2s5w12">
@@ -504,7 +504,7 @@
 <form>Něm</form>
 <tag>
 <AM lemma="Německo_:B_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Německo_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Německo_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p2s6w5">
@@ -613,7 +613,7 @@
 <form>Šp</form>
 <tag>
 <AM lemma="Španělsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Španělsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Španělsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p2s7w12">
@@ -666,7 +666,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p2s8w5">
@@ -815,7 +815,7 @@
 <form>Švéd</form>
 <tag>
 <AM lemma="Švédsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Švédsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Švédsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p3s1w10">
@@ -868,7 +868,7 @@
 <form>Šp</form>
 <tag>
 <AM lemma="Španělsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Španělsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Španělsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p3s2w5">
@@ -977,7 +977,7 @@
 <form>Švéd</form>
 <tag>
 <AM lemma="Švédsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Švédsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Švédsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p3s3w12">
@@ -1030,7 +1030,7 @@
 <form>Švéd</form>
 <tag>
 <AM lemma="Švédsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Švédsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Švédsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p3s4w5">
@@ -1171,7 +1171,7 @@
 <form>Rak</form>
 <tag>
 <AM lemma="rak" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rakousko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Rakousko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p3s5w16">
@@ -1225,7 +1225,7 @@
 <tag>
 <AM lemma="Belgie_:B_;G" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Belg_;E" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p3s6w5">
@@ -1418,7 +1418,7 @@
 <AM lemma="Rakousko_:B_;G" src="orig">NNNXX-----A---8</AM>
 <AM lemma="Rak_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="rak" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rakousko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Rakousko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s1w10">
@@ -1471,7 +1471,7 @@
 <form>Austr</form>
 <tag>
 <AM lemma="Austrálie_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Austrálie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Austrálie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s2w5">
@@ -1614,7 +1614,7 @@
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="manual">NNXXX-----A----</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s3w16">
@@ -1657,7 +1657,7 @@
 <form>Austr</form>
 <tag>
 <AM lemma="Austrálie_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Austrálie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Austrálie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s3w21">
@@ -1802,7 +1802,7 @@
 <AM lemma="Jap_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Japonsko_:B_;G" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="jap-99_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Japonsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Japonsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s4w16">
@@ -1872,7 +1872,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s5w7">
@@ -2003,7 +2003,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s5w23">
@@ -2047,7 +2047,7 @@
 <tag>
 <AM lemma="Iza_;G" src="orig">NNFP2-----A----</AM>
 <AM lemma="Izrael_;G" src="manual">NNFXX-----A---8</AM>
-<AM lemma="Izrael_;G" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="Izrael_;G" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s5w28">
@@ -2246,7 +2246,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s7w5">
@@ -2314,7 +2314,7 @@
 <tag>
 <AM lemma="Venezuela_:B_;G" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ven" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="Venezuela_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Venezuela_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s7w13">
@@ -2368,7 +2368,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s8w5">
@@ -2467,7 +2467,7 @@
 <form>Austr</form>
 <tag>
 <AM lemma="Austrálie_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Austrálie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Austrálie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s8w17">
@@ -2525,7 +2525,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s9w5">
@@ -3236,7 +3236,7 @@
 <form>It</form>
 <tag>
 <AM lemma="Itálie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p6s1w10">
@@ -3409,7 +3409,7 @@
 <form>Belg</form>
 <tag>
 <AM lemma="Belg_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p6s3w12">
@@ -3463,7 +3463,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p6s4w5">
@@ -3562,7 +3562,7 @@
 <form>It</form>
 <tag>
 <AM lemma="Itálie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p6s4w17">
@@ -3615,7 +3615,7 @@
 <form>It</form>
 <tag>
 <AM lemma="Itálie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p6s5w5">
@@ -3724,7 +3724,7 @@
 <form>It</form>
 <tag>
 <AM lemma="Itálie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p6s6w12">
@@ -3777,7 +3777,7 @@
 <form>Šp</form>
 <tag>
 <AM lemma="Španělsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Španělsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Španělsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p6s7w5">
@@ -3886,7 +3886,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p6s8w12">
@@ -3929,7 +3929,7 @@
 <form>Belg</form>
 <tag>
 <AM lemma="Belg_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p6s8w17">
@@ -4038,7 +4038,7 @@
 <form>It</form>
 <tag>
 <AM lemma="Itálie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p6s9w12">
@@ -4091,7 +4091,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p6s10w5">

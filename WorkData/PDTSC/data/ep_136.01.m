@@ -2309,7 +2309,7 @@
 <LM>w#w-d1t658-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m136-d1t658-3">
 <w.rf>
@@ -2983,7 +2983,7 @@
 <LM>w#w-d1t727-6</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m136-d1t723-2">
 <w.rf>
@@ -3730,7 +3730,7 @@
 <LM>w#w-d1t790-11</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m136-d1t790-12">
 <w.rf>
@@ -5059,7 +5059,7 @@
 <LM>w#w-d1t883-1</LM>
 </w.rf>
 <form>dosti</form>
-<tag lemma="dost" src="auto" recommended="1">Db------------1</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A---1</tag>
 </m>
 <m id="m136-d1t883-2">
 <w.rf>
@@ -6235,7 +6235,7 @@
 <LM>w#w-d1t949-11</LM>
 </w.rf>
 <form>usmyslel</form>
-<tag lemma="usmyslet" src="auto" recommended="1">VpYS----R-AA---</tag>
+<tag lemma="usmyslit" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m136-d-id81419-punct">
 <w.rf>

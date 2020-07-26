@@ -406,7 +406,7 @@
 <LM>w#w-ln94202-71-p2s2w20</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94202-71-p2s2w21">
 <src.rf>manual</src.rf>
@@ -876,7 +876,7 @@
 <LM>w#w-ln94202-71-p3s1w25</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94202-71-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1197,7 +1197,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-71-p4s2w7">
@@ -1288,7 +1288,7 @@
 <LM>w#w-ln94202-71-p4s3w6</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-71-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1400,7 +1400,7 @@
 <LM>w#w-ln94202-71-p4s3w20</LM>
 </w.rf>
 <form>politika</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-71-p4s3w21">
 <src.rf>manual</src.rf>

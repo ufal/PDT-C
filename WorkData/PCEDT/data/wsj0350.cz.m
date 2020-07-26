@@ -200,7 +200,7 @@
 <LM>w#w-wsj0350-001-p1s0W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0350-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-wsj0350-001-p1s1W31</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0350-001-p1s1W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1232,7 +1232,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0350-001-p1s4W5-Ta">
@@ -2488,7 +2488,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0350-001-p1s8W12-Ta">
@@ -2611,7 +2611,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0350-001-p1s9W8-Ta">
@@ -5812,7 +5812,7 @@
 <LM>w#w-wsj0350-001-p1s21W2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0350-001-p1s21W3-Ta">
 <src.rf>tagger-a</src.rf>

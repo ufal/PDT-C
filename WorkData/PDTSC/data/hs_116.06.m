@@ -37,7 +37,7 @@
 <LM>w#w-d1t1216-3</LM>
 </w.rf>
 <form>dáváte</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-P---2P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m116-d1t1216-4">
 <w.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-d1t1241-1</LM>
 </w.rf>
 <form>Abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m116-d1t1241-2">
 <w.rf>
@@ -966,7 +966,7 @@
 <LM>w#w-d1t1245-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m116-d-m-d1e1236-x2-punct-punct">
 <w.rf>
@@ -1999,7 +1999,7 @@
 <LM>w#w-d1t1283-6</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m116-d1e1278-x2-219">
 <w.rf>
@@ -2363,7 +2363,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m116-d1t1287-3">
@@ -2540,7 +2540,7 @@
 <LM>w#w-d1t1293-13</LM>
 </w.rf>
 <form>nechá</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m116-d1t1293-14">
 <w.rf>
@@ -2687,7 +2687,7 @@
 <LM>w#w-d1t1297-5</LM>
 </w.rf>
 <form>dejme</form>
-<tag lemma="dát" src="auto" recommended="1">Vi-P---1--A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m116-d1t1297-6">
 <w.rf>
@@ -2856,7 +2856,7 @@
 <LM>w#w-d1t1299-5</LM>
 </w.rf>
 <form>Kdybyste</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m116-d1t1299-7">
 <w.rf>
@@ -2891,7 +2891,7 @@
 <LM>w#w-d1t1299-11</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m116-d1t1299-13">
 <w.rf>
@@ -3056,7 +3056,7 @@
 <LM>w#w-d1t1312-8</LM>
 </w.rf>
 <form>jedeme</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m116-d1t1312-6">
 <w.rf>
@@ -3125,7 +3125,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m116-d1t1316-3">
@@ -3133,14 +3133,14 @@
 <LM>w#w-d1t1316-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m116-d1t1316-5">
 <w.rf>
 <LM>w#w-d1t1316-5</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m116-d1t1316-4">
 <w.rf>
@@ -3470,7 +3470,7 @@
 <LM>w#w-d1t1324-23</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m116-d-m-d1e1317-x2-punct-punct">
 <w.rf>
@@ -3693,7 +3693,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -3896,7 +3896,7 @@
 <LM>w#w-d1t1334-36</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m116-280-281">
 <w.rf>
@@ -4927,7 +4927,7 @@
 <LM>w#w-d1t1377-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m116-d1t1377-4">
 <w.rf>

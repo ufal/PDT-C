@@ -40,7 +40,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-47-p1s1w4">
@@ -276,7 +276,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-47-p2s1Cw16">
@@ -496,7 +496,7 @@
 <LM>w#w-ln94203-47-p2s1Cw42</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94203-47-p2s1Cw43">
 <src.rf>manual</src.rf>
@@ -1062,7 +1062,7 @@
 <form>jako</form>
 <tag>
 <AM lemma="jako-1" src="auto">J,-------------</AM>
-<AM lemma="jako-4" src="manual" selected="1">J^-------------</AM>
+<AM lemma="jako-1" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-47-p4s1w22">
@@ -1073,7 +1073,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln94203-47-p4s1w23">
@@ -1374,7 +1374,7 @@
 <LM>w#w-ln94203-47-p4s3w15</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94203-47-p4s3w16">
 <src.rf>manual</src.rf>

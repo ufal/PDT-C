@@ -93,7 +93,7 @@
 <LM>w#w-ln94206-10-p2s1Aw4</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-ln94206-10-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -307,7 +307,7 @@
 <LM>w#w-ln94206-10-p2s2w5</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94206-10-p2s2w6">
 <src.rf>manual</src.rf>
@@ -334,7 +334,7 @@
 <form>mil</form>
 <tag>
 <AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p2s2w9">
@@ -354,7 +354,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p2s2w11">
@@ -1675,7 +1675,7 @@
 <LM>w#w-ln94206-10-p5s1w15</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94206-10-p5s1w16">
 <src.rf>manual</src.rf>
@@ -2018,7 +2018,7 @@
 <LM>w#w-ln94206-10-p6s1w24</LM>
 </w.rf>
 <form>zato</form>
-<tag lemma="zato" src="orig" selected="1">J,-------------</tag>
+<tag lemma="zato" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94206-10-p6s1w25">
 <src.rf>manual</src.rf>
@@ -2278,7 +2278,7 @@
 <form>mil</form>
 <tag>
 <AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p6s3w9">
@@ -2298,7 +2298,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p6s3w11">
@@ -2468,7 +2468,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p6s5w20">
@@ -2615,7 +2615,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p6s6w17">
@@ -2998,7 +2998,7 @@
 <form>resp</form>
 <tag>
 <AM lemma="respektive_:B" src="auto">Db------------8</AM>
-<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------b</AM>
 </tag>
 </m>
 <m id="m-ln94206-10-p7s2w19">

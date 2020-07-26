@@ -408,7 +408,7 @@
 <LM>w#w-vesm9211-004-p3s4w13</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-vesm9211-004-p3s4w14">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-vesm9211-004-p3s5w8</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-vesm9211-004-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1592,7 +1592,7 @@
 <LM>w#w-vesm9211-004-p6s3w6</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-vesm9211-004-p6s3w8">
 <src.rf>manual</src.rf>
@@ -2128,7 +2128,7 @@
 <form>redukcionismem</form>
 <tag>
 <AM lemma="redukcionizmus" src="orig">NNIS7-----A----</AM>
-<AM lemma="redukcionismus_,s_^(^DD**redukcionizmus]" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="redukcionismus_,s_^(^DD**redukcionizmus)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-004-p7s2w9">
@@ -2488,7 +2488,7 @@
 <LM>w#w-vesm9211-004-p8s2w7</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-vesm9211-004-p8s2w8">
 <src.rf>manual</src.rf>
@@ -2496,7 +2496,7 @@
 <LM>w#w-vesm9211-004-p8s2w8</LM>
 </w.rf>
 <form>postiženy</form>
-<tag lemma="postihnout" src="orig" selected="1">VsTP----X-AP---</tag>
+<tag lemma="postihnout" src="orig" selected="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-vesm9211-004-p8s2w9">
 <src.rf>manual</src.rf>
@@ -2506,7 +2506,7 @@
 <form>redukcionismem</form>
 <tag>
 <AM lemma="redukcionizmus" src="orig">NNIS7-----A----</AM>
-<AM lemma="redukcionismus_,s_^(^DD**redukcionizmus]" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="redukcionismus_,s_^(^DD**redukcionizmus)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-004-p8s2w10">
@@ -2695,7 +2695,7 @@
 <LM>w#w-vesm9211-004-p8s4w4</LM>
 </w.rf>
 <form>organismů</form>
-<tag lemma="organismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="organismus_,s_^(^DD**organizmus)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9211-004-p8s4w5">
 <src.rf>manual</src.rf>
@@ -3501,7 +3501,7 @@
 <LM>w#w-vesm9211-004-p10s1w26</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-004-p10s1w27">
 <src.rf>manual</src.rf>
@@ -3663,7 +3663,7 @@
 <LM>w#w-vesm9211-004-p10s2w9</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-vesm9211-004-p10s2w10">
 <src.rf>manual</src.rf>
@@ -3719,7 +3719,7 @@
 <LM>w#w-vesm9211-004-p10s2w16</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-vesm9211-004-p10s2w17">
 <src.rf>manual</src.rf>
@@ -3775,7 +3775,7 @@
 <LM>w#w-vesm9211-004-p10s2w23</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-vesm9211-004-p10s2w24">
 <src.rf>manual</src.rf>
@@ -4048,7 +4048,7 @@
 <LM>w#w-vesm9211-004-p11s1w3</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9211-004-p11s1w4">
 <src.rf>manual</src.rf>

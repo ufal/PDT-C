@@ -35,7 +35,7 @@
 <LM>w#w-lnd92256-065-p1s1w3</LM>
 </w.rf>
 <form>TAMARA</form>
-<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-3_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p1s1w4">
 <src.rf>manual</src.rf>
@@ -240,7 +240,7 @@
 <LM>w#w-lnd92256-065-p3s1w11</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92256-065-p3s1w12">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-lnd92256-065-p3s1w15</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92256-065-p3s1w16">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-lnd92256-065-p3s1w29</LM>
 </w.rf>
 <form>Tamara</form>
-<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-3_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p3s1w30">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <tag>
 <AM lemma="VAAZ_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="VAAZ-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="VAAZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VAAZ_;m_^(Vojenská_akademie_Antonína_Zápotockého)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p4s1w15">
@@ -1015,7 +1015,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SSSR_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p4s2w13">
@@ -1605,7 +1605,7 @@
 <LM>w#w-lnd92256-065-p4s4w38</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_^(a_podobně)" src="auto" selected="1">Db------------b</tag>
+<tag lemma="apod_^(a_podobně)" src="auto" selected="1">Bb-------------</tag>
 </m>
 <m id="m-lnd92256-065-p4s4w39">
 <src.rf>manual</src.rf>
@@ -2041,7 +2041,7 @@
 <LM>w#w-lnd92256-065-p5s2w24</LM>
 </w.rf>
 <form>TAMARA</form>
-<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-3_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p5s2w25">
 <src.rf>manual</src.rf>
@@ -2434,7 +2434,7 @@
 <form>pasívně</form>
 <tag>
 <AM lemma="pasívně_^(*1í)" src="orig">Dg-------1A----</AM>
-<AM lemma="pasívně_,s_^(^DD**pasivně)_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="pasívně_^(^DD**pasivně)_(*1í)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p5s4w29">
@@ -2491,7 +2491,7 @@
 <LM>w#w-lnd92256-065-p5s4w35</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92256-065-p5s4w36">
 <src.rf>manual</src.rf>
@@ -2765,7 +2765,7 @@
 <LM>w#w-lnd92256-065-p6s2w4</LM>
 </w.rf>
 <form>Tamara</form>
-<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-3_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p6s2w5">
 <src.rf>manual</src.rf>
@@ -2986,7 +2986,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p6s2w31">
@@ -3139,7 +3139,7 @@
 <LM>w#w-lnd92256-065-p6s2w49</LM>
 </w.rf>
 <form>Tamara</form>
-<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-3_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p6s2w50">
 <src.rf>manual</src.rf>
@@ -3399,7 +3399,7 @@
 <LM>w#w-lnd92256-065-p6s4w3</LM>
 </w.rf>
 <form>Tamara</form>
-<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-3_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p6s4w4">
 <src.rf>manual</src.rf>
@@ -4054,7 +4054,7 @@
 <LM>w#w-lnd92256-065-p6s6w22</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92256-065-p6s6w23">
 <src.rf>manual</src.rf>
@@ -4118,7 +4118,7 @@
 <LM>w#w-lnd92256-065-p6s6w30</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p6s6w31">
 <src.rf>manual</src.rf>
@@ -4333,7 +4333,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p6s7w20">

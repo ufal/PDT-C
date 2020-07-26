@@ -795,7 +795,7 @@
 <LM>w#w-mf930701-140-p7s1w2</LM>
 </w.rf>
 <form>Nemůžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-mf930701-140-p7s1w3">
 <src.rf>manual</src.rf>
@@ -1435,7 +1435,7 @@
 <LM>w#w-mf930701-140-p9s1w2</LM>
 </w.rf>
 <form>Pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-140-p9s1w3">
 <src.rf>manual</src.rf>
@@ -1568,7 +1568,7 @@
 <LM>w#w-mf930701-140-p10s1w14</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-140-p10s1w15">
 <src.rf>manual</src.rf>
@@ -1755,7 +1755,7 @@
 <LM>w#w-mf930701-140-p12s2w1</LM>
 </w.rf>
 <form>Pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-140-p12s2w2">
 <src.rf>manual</src.rf>
@@ -1912,7 +1912,7 @@
 <LM>w#w-mf930701-140-p13s1w2</LM>
 </w.rf>
 <form>Pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-140-p13s1w3">
 <src.rf>manual</src.rf>
@@ -2530,7 +2530,7 @@
 <LM>w#w-mf930701-140-p17s1w2</LM>
 </w.rf>
 <form>Pane</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS5-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-mf930701-140-p17s1w3">
 <src.rf>manual</src.rf>
@@ -2852,7 +2852,7 @@
 <form>nedostatkem</form>
 <tag>
 <AM lemma="nedostatek" src="orig">NNIS7-----A----</AM>
-<AM lemma="dostatek" src="manual" selected="1">NNIS7-----N----</AM>
+<AM lemma="nedostatek" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-140-p18s1w21">
@@ -2970,7 +2970,7 @@
 <LM>w#w-mf930701-140-p18s2w12</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930701-140-p18s2w13">
 <src.rf>manual</src.rf>

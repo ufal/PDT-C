@@ -68,7 +68,7 @@
 <LM>w#w-wsj1312-001-p1s0W5</LM>
 </w.rf>
 <form>stanoveními</form>
-<tag lemma="stanovení_^(určit)_(*3it)" src="auto" recommended="1">NNNP7-----A----</tag>
+<tag lemma="stanovení_^(*3it)" src="auto" recommended="1">NNNP7-----A----</tag>
 </m>
 <m id="m-wsj1312-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1256,7 +1256,7 @@
 <LM>w#w-wsj1312-001-p1s4W25</LM>
 </w.rf>
 <form>prozatímně</form>
-<tag lemma="prozatímně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="prozatímně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1312-001-p1s4W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3401,7 +3401,7 @@
 <LM>w#w-wsj1312-001-p1s10W6</LM>
 </w.rf>
 <form>prozatímně</form>
-<tag lemma="prozatímně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="prozatímně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1312-001-p1s10W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11332,7 +11332,7 @@
 <LM>w#w-wsj1312-001-p1s35W41</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77" src="auto" recommended="1">B%-------------</tag>
+<tag lemma="Ltd-77" src="auto" recommended="1">F%-------------</tag>
 </m>
 <m id="m-wsj1312-001-p1s35W42-Ta">
 <src.rf>tagger-a</src.rf>

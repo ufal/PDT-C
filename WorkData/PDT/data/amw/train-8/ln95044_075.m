@@ -1111,7 +1111,7 @@
 <LM>w#w-ln95044-075-p3s6w12</LM>
 </w.rf>
 <form>stranám</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-ln95044-075-p3s6w13">
 <src.rf>manual</src.rf>
@@ -1135,7 +1135,7 @@
 <LM>w#w-ln95044-075-p3s6w15</LM>
 </w.rf>
 <form>zastavit</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-075-p3s6w16">
 <src.rf>manual</src.rf>

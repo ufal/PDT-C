@@ -35,7 +35,7 @@
 <LM>w#w-ln95047-146-p1s1w3</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95047-146-p1s1w4">
 <src.rf>manual</src.rf>
@@ -62,7 +62,7 @@
 <form>mld</form>
 <tag>
 <AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFXX---------b</AM>
 </tag>
 </m>
 </s>
@@ -181,7 +181,7 @@
 <LM>w#w-ln95047-146-p2s2w1</LM>
 </w.rf>
 <form>Můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-ln95047-146-p2s2w2">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-146-p3s5w12">
@@ -1100,7 +1100,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-146-p3s5w26">

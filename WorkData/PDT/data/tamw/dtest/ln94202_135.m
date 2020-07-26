@@ -495,7 +495,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-135-p2s2w6">
@@ -845,7 +845,7 @@
 <LM>w#w-ln94202-135-p3s2w2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln94202-135-p3s2w3">
 <src.rf>manual</src.rf>
@@ -863,7 +863,7 @@
 <form>říci</form>
 <tag>
 <AM lemma="říci" src="auto">Vf--------A---1</AM>
-<AM lemma="říci" src="manual" selected="1">Vf--------A-P-1</AM>
+<AM lemma="říci" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-ln94202-135-p3s2w5">

@@ -286,7 +286,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p2s2Bw10">
@@ -642,7 +642,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p3s1w22">
@@ -825,7 +825,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p3s3w10">
@@ -1251,7 +1251,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p5s2w18">
@@ -1384,7 +1384,7 @@
 <LM>w#w-ln94209-16-p5s4w7</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-16-p5s4w8">
 <src.rf>manual</src.rf>
@@ -1453,7 +1453,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p5s4w16">
@@ -1530,7 +1530,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p5s4w24">
@@ -1762,7 +1762,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p6s1w9">
@@ -1949,7 +1949,7 @@
 <form>KB</form>
 <tag>
 <AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_;m_^(Komerční_banka)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p6s3w5">
@@ -1987,7 +1987,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p6s3w9">
@@ -2201,7 +2201,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p6s5w15">
@@ -2354,7 +2354,7 @@
 <form>KB</form>
 <tag>
 <AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_;m_^(Komerční_banka)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p6s5w33">
@@ -2437,7 +2437,7 @@
 <LM>w#w-ln94209-16-p6s7w2</LM>
 </w.rf>
 <form>zástavu</form>
-<tag lemma="zástava-2_^(věci_jako_záruka)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="zástava_^(prapor_záruka_dechu_zástavba)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94209-16-p6s7w3">
 <src.rf>manual</src.rf>
@@ -2463,7 +2463,7 @@
 <form>KB</form>
 <tag>
 <AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_;m_^(Komerční_banka)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p6s7w6">
@@ -2512,7 +2512,7 @@
 <form>KB</form>
 <tag>
 <AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_;m_^(Komerční_banka)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p6s8w3">
@@ -2616,7 +2616,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p6s9w7">
@@ -2836,7 +2836,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p6s12w5">
@@ -2888,7 +2888,7 @@
 <LM>w#w-ln94209-16-p6s12w10</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94209-16-p6s12w11">
 <src.rf>manual</src.rf>
@@ -2980,7 +2980,7 @@
 <LM>w#w-ln94209-16-p6s12w22</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94209-16-p6s12w23">
 <src.rf>manual</src.rf>
@@ -3123,7 +3123,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p6s14w15">
@@ -3195,7 +3195,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94209-16-p6s15w8">
@@ -3487,7 +3487,7 @@
 <LM>w#w-ln94209-16-p7s1w26</LM>
 </w.rf>
 <form>zastavit</form>
-<tag lemma="zastavit-2_^(zástavní_právo)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94209-16-p7s1w27">
 <src.rf>manual</src.rf>
@@ -3622,7 +3622,7 @@
 <LM>w#w-ln94209-16-p7s3w5</LM>
 </w.rf>
 <form>nenechá</form>
-<tag lemma="nechat" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln94209-16-p7s3w6">
 <src.rf>manual</src.rf>
@@ -3755,7 +3755,7 @@
 <LM>w#w-ln94209-16-p7s4w4</LM>
 </w.rf>
 <form>předalo</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-16-p7s4w5">
 <src.rf>manual</src.rf>

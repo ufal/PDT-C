@@ -65,7 +65,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-116-p2s1Bw3">
@@ -148,7 +148,7 @@
 <form>ME</form>
 <tag>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ME-1_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ME_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-116-p2s1Bw13">

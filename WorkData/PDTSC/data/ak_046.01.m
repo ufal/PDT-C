@@ -247,7 +247,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m046-d1t350-3">
@@ -345,7 +345,7 @@
 <LM>w#w-d1t356-6</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m046-d1t356-7">
 <w.rf>
@@ -447,7 +447,7 @@
 <form>dřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------2A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m046-d1t366-6">
@@ -1036,7 +1036,7 @@
 <LM>w#w-d1t409-6</LM>
 </w.rf>
 <form>nemohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m046-173-174">
 <w.rf>
@@ -1106,7 +1106,7 @@
 <LM>w#w-d1t409-11</LM>
 </w.rf>
 <form>nemohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m046-d1t409-12">
 <w.rf>
@@ -1542,7 +1542,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m046-d1t437-5">
@@ -2023,7 +2023,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m046-d1t467-5">
@@ -2369,7 +2369,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m046-d1t499-3">
@@ -2865,7 +2865,7 @@
 <LM>w#w-d1t525-6</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m046-d-m-d1e514-x2-punct-punct">
 <w.rf>

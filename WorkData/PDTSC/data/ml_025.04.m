@@ -970,7 +970,7 @@
 <LM>w#w-d1t1659-1</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m025-d-id94903-punct">
 <w.rf>
@@ -1136,7 +1136,7 @@
 </w.rf>
 <form>míň</form>
 <tag>
-<AM lemma="málo-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="méně" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="méně" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -1212,7 +1212,7 @@
 <LM>w#w-d1t1665-13</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m025-d-m-d1e1654-x2-punct-punct">
 <w.rf>
@@ -1449,7 +1449,7 @@
 <LM>w#w-d1t1708-7</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m025-d1t1708-8">
 <w.rf>
@@ -1701,7 +1701,7 @@
 <LM>w#w-d1t1733-3</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m025-d1t1733-4">
 <w.rf>
@@ -2762,7 +2762,7 @@
 <form>škoda</form>
 <tag>
 <AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="škoda" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m025-d-id98951-punct">
@@ -2804,7 +2804,7 @@
 <form>škoda</form>
 <tag>
 <AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="škoda" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m025-d-id99074-punct">
@@ -2891,7 +2891,7 @@
 <LM>w#w-d1t1845-2</LM>
 </w.rf>
 <form>zamysleli</form>
-<tag lemma="zamyslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="zamyslit" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m025-d1t1845-3">
 <w.rf>
@@ -4078,7 +4078,7 @@
 <LM>w#w-d1t1917-4</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m025-d1t1917-5">
 <w.rf>

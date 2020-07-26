@@ -253,7 +253,7 @@
 <LM>w#w-lnd92257-021-p1s2w9</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92257-021-p1s2w10">
 <src.rf>manual</src.rf>

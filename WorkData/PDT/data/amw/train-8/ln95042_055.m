@@ -177,7 +177,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95042-055-p2s1Bw17">
@@ -202,7 +202,7 @@
 <LM>w#w-ln95042-055-p2s1Bw19</LM>
 </w.rf>
 <form>resortů</form>
-<tag lemma="resort" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="resort_,s_^(^DD**rezort)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95042-055-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-ln95042-055-p2s3w4</LM>
 </w.rf>
 <form>dejme</form>
-<tag lemma="dát" src="orig" selected="1">Vi-P---1--A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m-ln95042-055-p2s3w5">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <LM>w#w-ln95042-055-p2s4w9</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95042-055-p2s4w10">
 <src.rf>manual</src.rf>

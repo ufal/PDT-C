@@ -127,7 +127,7 @@
 <LM>w#w-cmpr9413-049-p3s1Bw3</LM>
 </w.rf>
 <form>táhnou</form>
-<tag lemma="táhnout" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="táhnout" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9413-049-p3s1Bw4">
 <src.rf>manual</src.rf>
@@ -979,7 +979,7 @@
 <LM>w#w-cmpr9413-049-p7s1w6</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9413-049-p7s1w7">
 <src.rf>manual</src.rf>
@@ -1011,7 +1011,7 @@
 <LM>w#w-cmpr9413-049-p7s1w10</LM>
 </w.rf>
 <form>zaměstnává</form>
-<tag lemma="zaměstnávat-1_^(všeob._význam:_činnost,_zaměstnání)_(*6at-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="zaměstnávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9413-049-p7s1w11">
 <src.rf>manual</src.rf>
@@ -1059,7 +1059,7 @@
 <LM>w#w-cmpr9413-049-p7s1w16</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9413-049-p7s1w17">
 <src.rf>manual</src.rf>
@@ -1559,7 +1559,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p7s6w28">
@@ -1748,7 +1748,7 @@
 <LM>w#w-cmpr9413-049-p8s2w3</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-cmpr9413-049-p8s2w4">
 <src.rf>manual</src.rf>
@@ -1870,7 +1870,7 @@
 <LM>w#w-cmpr9413-049-p8s3w1</LM>
 </w.rf>
 <form>Nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-cmpr9413-049-p8s3w2">
 <src.rf>manual</src.rf>
@@ -2079,7 +2079,7 @@
 <LM>w#w-cmpr9413-049-p9s1w4</LM>
 </w.rf>
 <form>jedenkrát</form>
-<tag lemma="jedenkrát`1" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="jedenkrát-1`1" src="orig" selected="1">Cv-------------</tag>
 </m>
 <m id="m-cmpr9413-049-p9s1w5">
 <src.rf>manual</src.rf>
@@ -2667,7 +2667,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1---------1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p11s4w7">
@@ -2794,7 +2794,7 @@
 <LM>w#w-cmpr9413-049-p11s5w2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9413-049-p11s5w3">
 <src.rf>manual</src.rf>
@@ -3231,7 +3231,7 @@
 <LM>w#w-cmpr9413-049-p12s3w4</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9413-049-p12s3w5">
 <src.rf>manual</src.rf>
@@ -3257,7 +3257,7 @@
 <LM>w#w-cmpr9413-049-p12s4w1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9413-049-p12s4w2">
 <src.rf>manual</src.rf>
@@ -3337,7 +3337,7 @@
 <LM>w#w-cmpr9413-049-p12s4w11</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9413-049-p12s4w12">
 <src.rf>manual</src.rf>
@@ -3975,7 +3975,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN_;G_^(^Spolková_republika_Německo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p14s4w6">
@@ -4028,7 +4028,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p14s5w3">
@@ -4444,7 +4444,7 @@
 <LM>w#w-cmpr9413-049-p15s2w2</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9413-049-p15s2w3">
 <src.rf>manual</src.rf>
@@ -5223,7 +5223,7 @@
 <LM>w#w-cmpr9413-049-p16s4w8</LM>
 </w.rf>
 <form>potřebám</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-cmpr9413-049-p16s4w9">
 <src.rf>manual</src.rf>
@@ -5441,7 +5441,7 @@
 <LM>w#w-cmpr9413-049-p17s2w2</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-049-p17s2w3">
 <src.rf>manual</src.rf>
@@ -5780,7 +5780,7 @@
 <form>obr</form>
 <tag>
 <AM lemma="obrázek_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="obrázek" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="obrázek" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p20s1w4">
@@ -5935,7 +5935,7 @@
 <LM>w#w-cmpr9413-049-p21s1Bw10</LM>
 </w.rf>
 <form>vydává</form>
-<tag lemma="vydávat-3_^(se,_př._na_cestu)_(*6at-3)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vydávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9413-049-p21s1Bw11">
 <src.rf>manual</src.rf>

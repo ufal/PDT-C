@@ -237,7 +237,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-018-p4s1w18">
@@ -690,7 +690,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-018-p5s1w12">
@@ -768,7 +768,7 @@
 <LM>w#w-cmpr9415-018-p6s1w4</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9415-018-p6s1w5">
 <src.rf>manual</src.rf>
@@ -784,7 +784,7 @@
 <LM>w#w-cmpr9415-018-p6s1w6</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-018-p6s1w7">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <LM>w#w-cmpr9415-018-p6s1w13</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-1" src="orig" selected="1">ClXS6----------</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-cmpr9415-018-p6s1w14">
 <src.rf>manual</src.rf>
@@ -1336,7 +1336,7 @@
 <LM>w#w-cmpr9415-018-p6s3w39</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-cmpr9415-018-p6s3w40">
 <src.rf>manual</src.rf>
@@ -1624,7 +1624,7 @@
 <LM>w#w-cmpr9415-018-p7s2w5</LM>
 </w.rf>
 <form>sehnat</form>
-<tag lemma="sehnat" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="sehnat_^(shánět)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9415-018-p7s2w6">
 <src.rf>manual</src.rf>
@@ -1722,7 +1722,7 @@
 <LM>w#w-cmpr9415-018-p7s3w9</LM>
 </w.rf>
 <form>zastavil</form>
-<tag lemma="zastavit-2_^(zástavní_právo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9415-018-p7s3w10">
 <src.rf>manual</src.rf>
@@ -1778,7 +1778,7 @@
 <LM>w#w-cmpr9415-018-p7s3w16</LM>
 </w.rf>
 <form>zástavu</form>
-<tag lemma="zástava-2_^(věci_jako_záruka)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="zástava_^(prapor_záruka_dechu_zástavba)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9415-018-p7s3w17">
 <src.rf>manual</src.rf>
@@ -1808,7 +1808,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-018-p7s3w20">
@@ -2028,7 +2028,7 @@
 <LM>w#w-cmpr9415-018-p7s3w46</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9415-018-p7s3w47">
 <src.rf>manual</src.rf>
@@ -2395,7 +2395,7 @@
 <LM>w#w-cmpr9415-018-p9s1w11</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-cmpr9415-018-p9s1w12">
 <src.rf>manual</src.rf>
@@ -2421,7 +2421,7 @@
 <LM>w#w-cmpr9415-018-p9s2w2</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-018-p9s2w3">
 <src.rf>manual</src.rf>
@@ -2445,7 +2445,7 @@
 <LM>w#w-cmpr9415-018-p9s2w5</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9415-018-p9s2w6">
 <src.rf>manual</src.rf>
@@ -2537,7 +2537,7 @@
 <LM>w#w-cmpr9415-018-p9s4w1</LM>
 </w.rf>
 <form>Krom</form>
-<tag lemma="kromě" src="orig" selected="1">RR--2---------1</tag>
+<tag lemma="krom_,s_^(^DD**kromě)" src="orig" selected="1">RR--2----------</tag>
 </m>
 <m id="m-cmpr9415-018-p9s4w2">
 <src.rf>manual</src.rf>
@@ -3122,7 +3122,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-018-p14s1w22">

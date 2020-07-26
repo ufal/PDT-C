@@ -109,7 +109,7 @@
 <LM>w#w-lnd92253-012-p2s1w9</LM>
 </w.rf>
 <form>vymysleli</form>
-<tag lemma="vymyslet" src="orig" selected="1">VpMP----R-AA---</tag>
+<tag lemma="vymyslit" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd92253-012-p2s1w10">
 <src.rf>manual</src.rf>

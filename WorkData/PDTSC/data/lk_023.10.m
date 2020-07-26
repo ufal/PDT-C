@@ -354,7 +354,7 @@
 <LM>w#w-d1t3508-2</LM>
 </w.rf>
 <form>Dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m023-d1t3508-3">
 <w.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-d1t3512-4</LM>
 </w.rf>
 <form>nemohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m023-d1t3512-5">
 <w.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-d1t3516-15</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m023-d1t3516-16">
 <w.rf>
@@ -811,7 +811,7 @@
 <LM>w#w-d1t3525-4</LM>
 </w.rf>
 <form>vašemu</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</tag>
 </m>
 <m id="m023-d1t3525-5">
 <w.rf>
@@ -3294,7 +3294,7 @@
 </w.rf>
 <form>jede</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -4129,7 +4129,7 @@
 <LM>w#w-d1t3668-14</LM>
 </w.rf>
 <form>Dával</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m023-d1t3668-15">
 <w.rf>
@@ -4739,7 +4739,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -4819,7 +4819,7 @@
 <LM>w#w-d1t3704-2</LM>
 </w.rf>
 <form>dával</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m023-d1t3704-3">
 <w.rf>

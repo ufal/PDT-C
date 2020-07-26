@@ -346,7 +346,7 @@
 <form>matku</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS4-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m044-140-142">
@@ -812,7 +812,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m044-d1t589-5">
@@ -1768,7 +1768,7 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="WC" src="manual" selected="1">BNNXX-----A----</AM>
+<AM lemma="WC_^(water_closet)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m044-d1t652-4">
@@ -1996,7 +1996,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m044-d1t674-7">
@@ -2123,7 +2123,7 @@
 <LM>w#w-d1t678-1</LM>
 </w.rf>
 <form>Nejdřív</form>
-<tag lemma="brzy" src="auto" recommended="1" selected="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1" selected="1">Dg-------3A---1</tag>
 </m>
 <m id="m044-d1t678-2">
 <w.rf>
@@ -3339,7 +3339,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m044-d1t745-7">
@@ -3713,7 +3713,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m044-d1e773-x2-275">
@@ -4125,7 +4125,7 @@
 <LM>w#w-d1t794-17</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m044-d1t794-15">
 <w.rf>
@@ -4231,7 +4231,7 @@
 <LM>w#w-d1t796-7</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m044-300-301">
 <w.rf>

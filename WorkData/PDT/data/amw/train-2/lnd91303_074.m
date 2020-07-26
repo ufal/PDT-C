@@ -58,7 +58,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd91303-074-p2s1w4">
@@ -151,7 +151,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd91303-074-p3s1w9">
@@ -634,7 +634,7 @@
 <LM>w#w-lnd91303-074-p4s2w1</LM>
 </w.rf>
 <form>Pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-074-p4s2w2">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-lnd91303-074-p4s2w22</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-074-p4s2w23">
 <src.rf>manual</src.rf>
@@ -992,7 +992,7 @@
 <form>kdekoliv</form>
 <tag>
 <AM lemma="kdekoliv" src="orig">Db-------------</AM>
-<AM lemma="kdekoli" src="auto" recommended="1" selected="1">Db------------1</AM>
+<AM lemma="kdekoliv_,s_^(^DD**kdekoli)" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-074-p4s3w16">
@@ -1229,7 +1229,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-074-p5s1w22">

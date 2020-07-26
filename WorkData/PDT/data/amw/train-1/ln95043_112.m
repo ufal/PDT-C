@@ -221,7 +221,7 @@
 <LM>w#w-ln95043-112-p1s1Bw14</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95043-112-p1s1Bw15">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-ln95043-112-p1s2w11</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95043-112-p1s2w12">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 <LM>w#w-ln95043-112-p2s1w8</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-ln95043-112-p2s1w9">
 <src.rf>manual</src.rf>
@@ -1225,7 +1225,7 @@
 <LM>w#w-ln95043-112-p2s2w10</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln95043-112-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1233,7 +1233,7 @@
 <LM>w#w-ln95043-112-p2s2w11</LM>
 </w.rf>
 <form>nerad</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------N----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------N----</tag>
 </m>
 <m id="m-ln95043-112-p2s2w12">
 <src.rf>manual</src.rf>
@@ -1595,7 +1595,7 @@
 <LM>w#w-ln95043-112-p3s1w6</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-112-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1992,7 +1992,7 @@
 <LM>w#w-ln95043-112-p3s4w8</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="orig" selected="1">J,-S---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------c-</tag>
 </m>
 <m id="m-ln95043-112-p3s4w10">
 <src.rf>manual</src.rf>
@@ -2481,7 +2481,7 @@
 <LM>w#w-ln95043-112-p4s3w29</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-112-p4s3w30">
 <src.rf>manual</src.rf>
@@ -2505,7 +2505,7 @@
 <LM>w#w-ln95043-112-p4s3w32</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-112-p4s3w33">
 <src.rf>manual</src.rf>
@@ -2965,7 +2965,7 @@
 <LM>w#w-ln95043-112-p5s1w50</LM>
 </w.rf>
 <form>věcně</form>
-<tag lemma="věcně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="věcně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-112-p5s1w51">
 <src.rf>manual</src.rf>

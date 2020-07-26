@@ -406,7 +406,7 @@
 <LM>w#w-mf930713-034-p2s2w8</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930713-034-p2s2w9">
 <src.rf>manual</src.rf>

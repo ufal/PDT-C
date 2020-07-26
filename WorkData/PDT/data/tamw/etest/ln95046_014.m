@@ -111,7 +111,7 @@
 <LM>w#w-ln95046-014-p2s1Bw6</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-ln95046-014-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -1997,7 +1997,7 @@
 <LM>w#w-ln95046-014-p4s5w22</LM>
 </w.rf>
 <form>vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95046-014-p4s5w23">
 <src.rf>manual</src.rf>
@@ -2201,7 +2201,7 @@
 <LM>w#w-ln95046-014-p4s7w4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln95046-014-p4s7w5">
 <src.rf>manual</src.rf>

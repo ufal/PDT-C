@@ -103,7 +103,7 @@
 <LM>w#w-cmpr9406-034-p4s1w7</LM>
 </w.rf>
 <form>vydalo</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-034-p4s1w8">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-cmpr9406-034-p4s1w9</LM>
 </w.rf>
 <form>Grada</form>
-<tag lemma="Grada_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Grada_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-034-p4s1w10">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-034-p4s2w15">
@@ -1244,7 +1244,7 @@
 <LM>w#w-cmpr9406-034-p7s1w4</LM>
 </w.rf>
 <form>Grada</form>
-<tag lemma="Grada_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Grada_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-034-p7s1w5">
 <src.rf>manual</src.rf>
@@ -1334,7 +1334,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-034-p7s1w16">

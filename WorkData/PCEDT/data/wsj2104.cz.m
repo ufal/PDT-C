@@ -762,7 +762,7 @@
 <LM>w#w-wsj2104-001-p1s1W17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2104-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1273,7 +1273,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -2709,7 +2709,7 @@
 <LM>w#w-wsj2104-001-p1s6W21</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj2104-001-p1s6W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3059,7 +3059,7 @@
 <LM>w#w-wsj2104-001-p1s7W20</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2104-001-p1s7W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4760,7 +4760,7 @@
 <LM>w#w-wsj2104-001-p1s12W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj2104-001-p1s12W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6455,7 +6455,7 @@
 <tag>
 <AM lemma="h-33" src="auto">Q3-------------</AM>
 <AM lemma="h-33" src="auto">Q3-------------</AM>
-<AM lemma="hodina" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFXX-----A---b</AM>
 <AM lemma="hodinový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -7304,7 +7304,7 @@
 <LM>w#w-wsj2104-001-p1s18W3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2104-001-p1s18W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13693,7 +13693,7 @@
 <LM>w#w-wsj2104-001-p1s35W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj2104-001-p1s35W2-Ta">
 <src.rf>tagger-a</src.rf>

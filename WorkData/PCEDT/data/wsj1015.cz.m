@@ -1767,7 +1767,7 @@
 <LM>w#w-wsj1015-001-p1s9W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1015-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2710,7 +2710,7 @@
 <LM>w#w-wsj1015-001-p1s12W22</LM>
 </w.rf>
 <form>navrženo</form>
-<tag lemma="navrhnout" src="auto" recommended="1">VsNS----X-APP--</tag>
+<tag lemma="navrhnout" src="auto" recommended="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-wsj1015-001-p1s12W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3931,7 +3931,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" selected="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1015-001-p1s18W7-Ta">
@@ -4530,7 +4530,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1015-001-p1s20W24-Ta">
@@ -4711,7 +4711,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1015-001-p1s21W7-Ta">
@@ -4773,7 +4773,7 @@
 <LM>w#w-wsj1015-001-p1s21W12</LM>
 </w.rf>
 <form>ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj1015-001-p1s21W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5245,7 +5245,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1015-001-p1s23W9-Ta">
@@ -7174,7 +7174,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1015-001-p1s29W22-Ta">
@@ -7388,7 +7388,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1015-001-p1s30W12-Ta">
@@ -7746,7 +7746,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1015-001-p1s32W16-Ta">
@@ -8638,7 +8638,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1015-001-p1s35W9-Ta">
@@ -11074,7 +11074,7 @@
 <LM>w#w-wsj1015-001-p1s42W10</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m-wsj1015-001-p1s42W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11119,7 +11119,7 @@
 <LM>w#w-wsj1015-001-p1s42W14</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1015-001-p1s42W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11953,7 +11953,7 @@
 </w.rf>
 <form>stává</form>
 <tag>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="stávat-3_^(stojím_stojíš)_(*5t-3)" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -11963,7 +11963,7 @@
 <LM>w#w-wsj1015-001-p1s44W24</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1015-001-p1s44W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13434,7 +13434,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1015-001-p1s50W5-Ta">
@@ -13692,7 +13692,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1015-001-p1s51W7-Ta">

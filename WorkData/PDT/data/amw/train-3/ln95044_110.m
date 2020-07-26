@@ -93,7 +93,7 @@
 <form>méně</form>
 <tag>
 <AM lemma="málo-3" src="orig">Dg-------2A----</AM>
-<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="méně" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-110-p1s1w11">
@@ -883,7 +883,7 @@
 <LM>w#w-ln95044-110-p3s3w19</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95044-110-p3s3w20">
 <src.rf>manual</src.rf>
@@ -1268,7 +1268,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--4----------</AM>
-<AM lemma="více" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-110-p4s3w6">
@@ -1439,7 +1439,7 @@
 <LM>w#w-ln95044-110-p4s4w12</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95044-110-p4s4w13">
 <src.rf>manual</src.rf>
@@ -2159,7 +2159,7 @@
 <LM>w#w-ln95044-110-p5s1w21</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95044-110-p5s1w22">
 <src.rf>manual</src.rf>
@@ -2169,7 +2169,7 @@
 <form>méně</form>
 <tag>
 <AM lemma="málo-3" src="orig">Dg-------2A----</AM>
-<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="méně" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-110-p5s1w23">
@@ -2388,7 +2388,7 @@
 <LM>w#w-ln95044-110-p5s2w17</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-110-p5s2w18">
 <src.rf>manual</src.rf>
@@ -2536,7 +2536,7 @@
 <LM>w#w-ln95044-110-p5s4w4</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-110-p5s4w5">
 <src.rf>manual</src.rf>
@@ -2626,7 +2626,7 @@
 <LM>w#w-ln95044-110-p5s5w1</LM>
 </w.rf>
 <form>Nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95044-110-p5s5w2">
 <src.rf>manual</src.rf>
@@ -2650,7 +2650,7 @@
 <LM>w#w-ln95044-110-p5s5w4</LM>
 </w.rf>
 <form>dávat</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95044-110-p5s5w5">
 <src.rf>manual</src.rf>
@@ -2706,7 +2706,7 @@
 <LM>w#w-ln95044-110-p5s5w11</LM>
 </w.rf>
 <form>zaměstnáni</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="orig" selected="1">VsMP----X-APP--</tag>
+<tag lemma="zaměstnat" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95044-110-p5s5w12">
 <src.rf>manual</src.rf>

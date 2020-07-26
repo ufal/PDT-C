@@ -313,7 +313,7 @@
 <tag>
 <AM lemma="učebna" src="auto">NNFS3-----A----</AM>
 <AM lemma="učebna" src="auto">NNFS6-----A----</AM>
-<AM lemma="učebně_,s_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="učebně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m044-d1t811-5">
@@ -428,7 +428,7 @@
 <LM>w#w-d1t821-1</LM>
 </w.rf>
 <form>Nazdar</form>
-<tag lemma="nazdar" src="auto" recommended="1">TT-------------</tag>
+<tag lemma="nazdar" src="auto" recommended="1">II-------------</tag>
 </m>
 <m id="m044-d1t821-2">
 <w.rf>
@@ -2482,7 +2482,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -2501,7 +2501,7 @@
 </w.rf>
 <form>Nejvíc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A---1</AM>
 <AM lemma="nejvíce" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -3313,7 +3313,7 @@
 <LM>w#w-d1t1019-4</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m044-d1t1019-6">
 <w.rf>
@@ -3374,7 +3374,7 @@
 <LM>w#w-d1t1027-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m044-d-id86683-punct">
 <w.rf>
@@ -3404,7 +3404,7 @@
 <LM>w#w-d1t1035-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m044-d1e1028-x2-461">
 <w.rf>
@@ -3883,7 +3883,7 @@
 <LM>w#w-d1t1058-2</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m044-d1t1058-3">
 <w.rf>
@@ -3940,7 +3940,7 @@
 <LM>w#w-d1t1058-9</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m044-d1t1058-12">
 <w.rf>
@@ -4557,7 +4557,7 @@
 <LM>w#w-d1t1068-13</LM>
 </w.rf>
 <form>dáme</form>
-<tag lemma="dát" src="auto" recommended="1">VB-P---1P-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m044-d1t1068-14">
 <w.rf>

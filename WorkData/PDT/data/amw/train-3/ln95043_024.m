@@ -85,7 +85,7 @@
 <LM>w#w-ln95043-024-p2s1Aw3</LM>
 </w.rf>
 <form>Martina</form>
-<tag lemma="Martina_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Martina_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-024-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95043-024-p2s1Bw25">
@@ -660,7 +660,7 @@
 <LM>w#w-ln95043-024-p2s3w7</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-024-p2s3w8">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-024-p2s4w9">
@@ -1551,7 +1551,7 @@
 <LM>w#w-ln95043-024-p2s7w17</LM>
 </w.rf>
 <form>Ruskou</form>
-<tag lemma="Ruska-1_;E" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Ruska-1_;E_^(*4-1)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95043-024-p2s7w18">
 <src.rf>manual</src.rf>
@@ -1812,7 +1812,7 @@
 <LM>w#w-ln95043-024-p2s9w4</LM>
 </w.rf>
 <form>pojede</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3F-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95043-024-p2s9w5">
 <src.rf>manual</src.rf>
@@ -1836,7 +1836,7 @@
 <LM>w#w-ln95043-024-p2s9w7</LM>
 </w.rf>
 <form>skokanka</form>
-<tag lemma="skokanka_^(*2)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="skokanka" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-024-p2s9w8">
 <src.rf>manual</src.rf>
@@ -2322,7 +2322,7 @@
 <LM>w#w-ln95043-024-p3s1w17</LM>
 </w.rf>
 <form>Martina</form>
-<tag lemma="Martina_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Martina_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-024-p3s1w18">
 <src.rf>manual</src.rf>
@@ -2444,7 +2444,7 @@
 <LM>w#w-ln95043-024-p3s2w13</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95043-024-p3s2w14">
 <src.rf>manual</src.rf>
@@ -2478,7 +2478,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-024-p3s2w18">
@@ -2553,7 +2553,7 @@
 <LM>w#w-ln95043-024-p3s3w4</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95043-024-p3s3w5">
 <src.rf>manual</src.rf>
@@ -2879,7 +2879,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95043-024-p3s5w10">
@@ -3015,7 +3015,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95043-024-p3s6Aw6">
@@ -3283,7 +3283,7 @@
 <LM>w#w-ln95043-024-p3s6Bw17</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-024-p3s6Bw18">
 <src.rf>manual</src.rf>
@@ -3317,7 +3317,7 @@
 <LM>w#w-ln95043-024-p3s7w2</LM>
 </w.rf>
 <form>skokanka</form>
-<tag lemma="skokanka_^(*2)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="skokanka" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-024-p3s7w3">
 <src.rf>manual</src.rf>
@@ -3578,7 +3578,7 @@
 <LM>w#w-ln95043-024-p3s8w6</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-024-p3s8w7">
 <src.rf>manual</src.rf>

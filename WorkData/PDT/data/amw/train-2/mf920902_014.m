@@ -45,7 +45,7 @@
 <form>ing</form>
 <tag>
 <AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="ing-1_^(inženýr)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ing_^(inženýr)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-014-p1s1w5">
@@ -649,7 +649,7 @@
 <LM>w#w-mf920902-014-p2s5w6</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920902-014-p2s5w7">
 <src.rf>manual</src.rf>

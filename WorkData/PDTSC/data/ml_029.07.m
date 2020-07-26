@@ -727,7 +727,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m029-d1t2223-5">
@@ -735,7 +735,7 @@
 <LM>w#w-d1t2223-5</LM>
 </w.rf>
 <form>můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m029-d1t2223-6">
 <w.rf>
@@ -971,7 +971,7 @@
 <tag>
 <AM lemma="služebna" src="auto">NNFS3-----A----</AM>
 <AM lemma="služebna" src="auto">NNFS6-----A----</AM>
-<AM lemma="služebně_^(poměr,byt,zbraň,...)_(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
+<AM lemma="služebně-1_^(*3ý-1)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m029-d1t2239-18">
@@ -1128,7 +1128,7 @@
 <LM>w#w-d1t2239-33</LM>
 </w.rf>
 <form>můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m029-d1t2239-34">
 <w.rf>
@@ -1137,7 +1137,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m029-d1t2239-35">
@@ -3150,7 +3150,7 @@
 <LM>w#w-d1t2366-9</LM>
 </w.rf>
 <form>potřebami</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m029-d-m-d1e2352-x2-punct-punct">
 <w.rf>
@@ -4633,7 +4633,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m029-d-id133643-punct">
@@ -4674,7 +4674,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m029-d1t2417-5">

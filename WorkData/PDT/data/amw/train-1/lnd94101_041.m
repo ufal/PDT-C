@@ -249,7 +249,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-2_;m_^(Občanská_demokratická_aliance)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-041-p1s4w6">
@@ -462,7 +462,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94101-041-p1s5w20">
@@ -535,7 +535,7 @@
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ČSL-2_:B_;m_^(Česká_správa_letišť)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="československý_:B_,x" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ČSL-1_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-041-p1s5w28">
@@ -689,7 +689,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-041-p1s7w6">
@@ -1115,7 +1115,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-2_;m_^(Občanská_demokratická_aliance)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-041-p1s9w2">

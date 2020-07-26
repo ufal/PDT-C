@@ -239,7 +239,7 @@
 <LM>w#w-wsj1798-001-p1s1W20</LM>
 </w.rf>
 <form>myslel</form>
-<tag lemma="myslet" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m-wsj1798-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>

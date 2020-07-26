@@ -1371,7 +1371,7 @@
 <AM lemma="šrajbr_,h_,l_^(písař)" src="auto">NNMS1-----A----</AM>
 <AM lemma="šrajbr_,l" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="šrajbr_,l" src="auto">NNIS4-----A----</AM>
-<AM lemma="šrajbr_,h_^(písař)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="šrajbr_,l_^(písař)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m794-4887-4900">
@@ -3685,7 +3685,7 @@
 <LM>w#w-d1t386-4</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m794-d1t386-5">
 <w.rf>
@@ -3763,7 +3763,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -5544,7 +5544,7 @@
 <LM>w#w-d1t457-1</LM>
 </w.rf>
 <form>kdybys</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---2-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------s-</tag>
 </m>
 <m id="m794-d1t457-3">
 <w.rf>
@@ -5727,7 +5727,7 @@
 <LM>w#w-d1t464-6</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m794-2184-2224">
 <w.rf>
@@ -5771,7 +5771,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m794-d1t466-17">

@@ -77,7 +77,7 @@
 <LM>w#w-mf930709-059-p2s1w4</LM>
 </w.rf>
 <form>dán</form>
-<tag lemma="dát" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930709-059-p2s1w5">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-mf930709-059-p2s2w17</LM>
 </w.rf>
 <form>vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-059-p2s2w18">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 <LM>w#w-mf930709-059-p2s6w9</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930709-059-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-mf930709-059-p2s7w12</LM>
 </w.rf>
 <form>kalhotách</form>
-<tag lemma="kalhoty_^(pomn.)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="kalhoty" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930709-059-p2s7w13">
 <src.rf>manual</src.rf>
@@ -2136,7 +2136,7 @@
 <LM>w#w-mf930709-059-p2s16w14</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-059-p2s16w15">
 <src.rf>manual</src.rf>

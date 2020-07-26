@@ -429,7 +429,7 @@
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
 <AM lemma="metr" src="manual">NNIXX-----A----</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94207-77-p1s3w5">
@@ -454,7 +454,7 @@
 <LM>w#w-ln94207-77-p1s3w7</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94207-77-p1s3w8">
 <src.rf>manual</src.rf>

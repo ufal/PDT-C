@@ -101,7 +101,7 @@
 <LM>w#w-ln94206-30-p1s2w1</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94206-30-p1s2w2">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln94206-30-p1s2w4</LM>
 </w.rf>
 <form>myslel</form>
-<tag lemma="myslet" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag lemma="myslit" src="orig" selected="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m-ln94206-30-p1s2w5">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-ln94206-30-p1s2w12</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94206-30-p1s2w13">
 <src.rf>manual</src.rf>

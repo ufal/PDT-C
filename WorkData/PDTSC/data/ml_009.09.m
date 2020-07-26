@@ -209,7 +209,7 @@
 <LM>w#w-d1t2472-4</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m009-d1t2472-5">
 <w.rf>
@@ -719,7 +719,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1112,7 +1112,7 @@
 <LM>w#w-d1t2497-23</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
 </m>
 <m id="m009-d1t2497-24">
 <w.rf>
@@ -3454,7 +3454,7 @@
 <LM>w#w-d1t2661-5</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m009-d-id154157">
 <w.rf>
@@ -3710,7 +3710,7 @@
 </w.rf>
 <form>kolikrát</form>
 <tag>
-<AM lemma="kolikrát-1_^(mnohokrát)" src="auto" recommended="1">Co-------------</AM>
+<AM lemma="kolikrát" src="auto" recommended="1">Co-------------</AM>
 <AM lemma="kolikrát-2_^(táz.)" src="auto">Cu-------------</AM>
 </tag>
 </m>
@@ -3761,7 +3761,7 @@
 <LM>w#w-d1t2677-3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m009-2933-3012">
 <w.rf>
@@ -3872,7 +3872,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m009-3051-3062">

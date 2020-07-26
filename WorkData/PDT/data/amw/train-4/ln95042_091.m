@@ -574,7 +574,7 @@
 <LM>w#w-ln95042-091-p3s1w12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95042-091-p3s1w13">
 <src.rf>manual</src.rf>
@@ -802,7 +802,7 @@
 <LM>w#w-ln95042-091-p4s2w1</LM>
 </w.rf>
 <form>Nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln95042-091-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-ln95042-091-p5s1w18</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln95042-091-p5s1w19">
 <src.rf>manual</src.rf>
@@ -1147,7 +1147,7 @@
 <LM>w#w-ln95042-091-p5s2w3</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95042-091-p5s2w4">
 <src.rf>manual</src.rf>
@@ -1565,7 +1565,7 @@
 <LM>w#w-ln95042-091-p6s2w9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95042-091-p6s2w10">
 <src.rf>manual</src.rf>
@@ -1671,7 +1671,7 @@
 <LM>w#w-ln95042-091-p7s1w8</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-091-p7s1w9">
 <src.rf>manual</src.rf>
@@ -2586,7 +2586,7 @@
 <LM>w#w-ln95042-091-p8s3w2</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_;m_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="KB-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95042-091-p8s3w3">
 <src.rf>manual</src.rf>
@@ -2891,7 +2891,7 @@
 <LM>w#w-ln95042-091-p9s1w3</LM>
 </w.rf>
 <form>kursem</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS7-----A----</tag>
+<tag lemma="kurs_,s_^(^DD**kurz)" src="auto" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95042-091-p9s1w4">
 <src.rf>manual</src.rf>
@@ -3278,7 +3278,7 @@
 <LM>w#w-ln95042-091-p10s2w7</LM>
 </w.rf>
 <form>kursem</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS7-----A----</tag>
+<tag lemma="kurs_,s_^(^DD**kurz)" src="auto" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95042-091-p10s2w8">
 <src.rf>manual</src.rf>

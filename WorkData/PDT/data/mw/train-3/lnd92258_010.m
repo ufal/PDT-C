@@ -1497,7 +1497,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-010-p5s1w6">
@@ -2303,7 +2303,7 @@
 <LM>w#w-lnd92258-010-p5s4w3</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92258-010-p5s4w4">
 <src.rf>manual</src.rf>
@@ -2769,7 +2769,7 @@
 <LM>w#w-lnd92258-010-p5s9w7</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="orig" selected="1">J,-S---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------c-</tag>
 </m>
 <m id="m-lnd92258-010-p5s9w9">
 <src.rf>manual</src.rf>
@@ -3105,7 +3105,7 @@
 <LM>w#w-lnd92258-010-p5s13w5</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-lnd92258-010-p5s13w6">
 <src.rf>manual</src.rf>
@@ -3287,7 +3287,7 @@
 <LM>w#w-lnd92258-010-p5s14w7</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="orig" selected="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P7--2-------</tag>
 </m>
 <m id="m-lnd92258-010-p5s14w8">
 <src.rf>manual</src.rf>
@@ -3955,7 +3955,7 @@
 <form>pozn</form>
 <tag>
 <AM lemma="poznámka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92258-010-p6s4w25">
@@ -3974,7 +3974,7 @@
 <form>aut</form>
 <tag>
 <AM lemma="autor_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="autor" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="autor" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92258-010-p6s4w27">
@@ -4872,7 +4872,7 @@
 <LM>w#w-lnd92258-010-p7s5w15</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-lnd92258-010-p7s5w16">
 <src.rf>manual</src.rf>
@@ -5082,7 +5082,7 @@
 <LM>w#w-lnd92258-010-p8s1w9</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-010-p8s1w10">
 <src.rf>manual</src.rf>

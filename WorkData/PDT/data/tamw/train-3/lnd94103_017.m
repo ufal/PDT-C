@@ -420,7 +420,7 @@
 <LM>w#w-lnd94103-017-p1s4w22</LM>
 </w.rf>
 <form>antibiotik</form>
-<tag lemma="antibiotikum_;U" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="antibiotikum" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94103-017-p1s4w23">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-017-p1s5w9">
@@ -592,7 +592,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-017-p1s6w3">
@@ -611,7 +611,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-017-p1s6w5">
@@ -897,7 +897,7 @@
 <LM>w#w-lnd94103-017-p1s8w6</LM>
 </w.rf>
 <form>předávat</form>
-<tag lemma="předávat-3_^(někomu_něco)_(*6at-3)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="předávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94103-017-p1s8w7">
 <src.rf>manual</src.rf>
@@ -1120,7 +1120,7 @@
 <LM>w#w-lnd94103-017-p1s10w6</LM>
 </w.rf>
 <form>antibiotik</form>
-<tag lemma="antibiotikum_;U" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="antibiotikum" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94103-017-p1s10w7">
 <src.rf>manual</src.rf>

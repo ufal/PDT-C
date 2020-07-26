@@ -141,7 +141,7 @@
 <LM>w#w-ln95047-017-p2s1Aw12</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95047-017-p2s1Aw13">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 <LM>w#w-ln95047-017-p4s1w15</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95047-017-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1313,7 +1313,7 @@
 <LM>w#w-ln95047-017-p4s2w16</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-017-p4s2w17">
 <src.rf>manual</src.rf>
@@ -2140,7 +2140,7 @@
 <LM>w#w-ln95047-017-p4s7w1</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95047-017-p4s7w2">
 <src.rf>manual</src.rf>
@@ -2297,7 +2297,7 @@
 <LM>w#w-ln95047-017-p4s8w4</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95047-017-p4s8w5">
 <src.rf>manual</src.rf>
@@ -2387,7 +2387,7 @@
 <form>nejraději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------3A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------3A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-017-p4s8w16">
@@ -2511,7 +2511,7 @@
 <LM>w#w-ln95047-017-p4s8w31</LM>
 </w.rf>
 <form>služebně</form>
-<tag lemma="služebně_^(poměr,byt,zbraň,...)_(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="služebně-1_^(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95047-017-p4s8w32">
 <src.rf>manual</src.rf>
@@ -2711,7 +2711,7 @@
 <LM>w#w-ln95047-017-p4s10w3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln95047-017-p4s10w4">
 <src.rf>manual</src.rf>

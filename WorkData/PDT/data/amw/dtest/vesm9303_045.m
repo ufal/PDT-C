@@ -204,7 +204,7 @@
 <LM>w#w-vesm9303-045-p2s2w4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9303-045-p2s2w5">
 <src.rf>manual</src.rf>
@@ -1418,7 +1418,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
+<AM lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-045-p4s1w2">
@@ -1701,7 +1701,7 @@
 <LM>w#w-vesm9303-045-p4s2w9</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-045-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1821,7 +1821,7 @@
 <LM>w#w-vesm9303-045-p4s2w24</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například" src="orig" selected="1">Db------------b</tag>
+<tag lemma="například" src="orig" selected="1">TT------------b</tag>
 </m>
 <m id="m-vesm9303-045-p4s2w25">
 <src.rf>manual</src.rf>

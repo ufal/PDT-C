@@ -96,7 +96,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KSČ_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-092-p1s1w11">
@@ -414,7 +414,7 @@
 <LM>w#w-lnd92255-092-p1s3w19</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92255-092-p1s3w20">
 <src.rf>manual</src.rf>
@@ -440,7 +440,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-092-p1s3w23">
@@ -502,7 +502,7 @@
 <LM>w#w-lnd92255-092-p1s4w6</LM>
 </w.rf>
 <form>předány</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsTP----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92255-092-p1s4w7">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-lnd92255-092-p1s4w26</LM>
 </w.rf>
 <form>dány</form>
-<tag lemma="dát" src="orig" selected="1">VsTP----X-APP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92255-092-p1s4w27">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-092-p1s4w42">

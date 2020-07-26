@@ -449,7 +449,7 @@
 <LM>w#w-ln95043-080-p4s1w6</LM>
 </w.rf>
 <form>dosti</form>
-<tag lemma="dost" src="auto" selected="1">Db------------1</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A---1</tag>
 </m>
 <m id="m-ln95043-080-p4s1w7">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95043-080-p4s1w34">
@@ -835,7 +835,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-080-p4s2w13">
@@ -1543,7 +1543,7 @@
 <LM>w#w-ln95043-080-p4s7w22</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-080-p4s7w23">
 <src.rf>manual</src.rf>
@@ -1659,7 +1659,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-080-p5s1w12">
@@ -2198,7 +2198,7 @@
 <LM>w#w-ln95043-080-p5s3w14</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95043-080-p5s3w15">
 <src.rf>manual</src.rf>
@@ -2510,7 +2510,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-080-p5s4w21">

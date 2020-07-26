@@ -319,7 +319,7 @@
 <LM>w#w-mf920922-037-p2s3w8</LM>
 </w.rf>
 <form>vzat</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920922-037-p2s3w9">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-mf920922-037-p2s6Aw23</LM>
 </w.rf>
 <form>taxikář</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-037-p2s6Aw24">
 <src.rf>manual</src.rf>

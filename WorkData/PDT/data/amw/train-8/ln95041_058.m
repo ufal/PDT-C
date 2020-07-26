@@ -61,7 +61,7 @@
 <LM>w#w-ln95041-058-p2s1Aw1</LM>
 </w.rf>
 <form>Vladimir</form>
-<tag lemma="Vladimir_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vladimir_;Y_,s_^(^DD**Vladimír)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-058-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -1173,7 +1173,7 @@
 <LM>w#w-ln95041-058-p4s2w3</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-058-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1369,7 +1369,7 @@
 <LM>w#w-ln95041-058-p5s1w1</LM>
 </w.rf>
 <form>Vladimir</form>
-<tag lemma="Vladimir_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vladimir_;Y_,s_^(^DD**Vladimír)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-058-p5s1w2">
 <src.rf>manual</src.rf>

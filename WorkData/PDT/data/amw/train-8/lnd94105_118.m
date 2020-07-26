@@ -180,7 +180,7 @@
 <form>ME</form>
 <tag>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ME-1_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ME_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-118-p1s3w11">
@@ -629,7 +629,7 @@
 <LM>w#w-lnd94105-118-p1s5w30</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-118-p1s5w31">
 <src.rf>manual</src.rf>

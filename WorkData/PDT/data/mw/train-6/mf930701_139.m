@@ -224,7 +224,7 @@
 <LM>w#w-mf930701-139-p2s1w22</LM>
 </w.rf>
 <form>pasů</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930701-139-p2s1w23">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-mf930701-139-p2s3w3</LM>
 </w.rf>
 <form>pasem</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930701-139-p2s3w4">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-mf930701-139-p2s4w12</LM>
 </w.rf>
 <form>pasů</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930701-139-p2s4w13">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-mf930701-139-p2s4w21</LM>
 </w.rf>
 <form>stali</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-139-p2s4w22">
 <src.rf>manual</src.rf>
@@ -1362,7 +1362,7 @@
 <LM>w#w-mf930701-139-p4s2w7</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf930701-139-p4s2w8">
 <src.rf>manual</src.rf>

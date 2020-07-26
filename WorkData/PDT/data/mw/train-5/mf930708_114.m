@@ -270,7 +270,7 @@
 <LM>w#w-mf930708-114-p2s1w27</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf930708-114-p2s1w28">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-mf930708-114-p2s1w32</LM>
 </w.rf>
 <form>vezme</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930708-114-p2s1w33">
 <src.rf>manual</src.rf>

@@ -223,7 +223,7 @@
 <AM lemma="Matek_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Matek_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m065-d1t2007-8">
@@ -365,7 +365,7 @@
 <form>půl</form>
 <tag>
 <AM lemma="půl-1" src="auto">ClXS1----------</AM>
-<AM lemma="půl-1" src="auto" recommended="1">ClXS2----------</AM>
+<AM lemma="půl-1" src="auto" recommended="1">Cl-XX----------</AM>
 <AM lemma="půl-1" src="auto">ClXS3----------</AM>
 <AM lemma="půl-1" src="auto">ClXS4----------</AM>
 <AM lemma="půl-1" src="auto">ClXS6----------</AM>
@@ -1006,7 +1006,7 @@
 <LM>w#w-d1t2054-1</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m065-d1t2054-4">
 <w.rf>
@@ -1457,7 +1457,7 @@
 <form>Harachovem</form>
 <tag>
 <AM lemma="Harachovem" src="auto">X@-------------</AM>
-<AM lemma="Harachov_;G_,h_^(^GC**Harrachov)" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Harachov_;G_,i_^(^DS**Harrachov)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m065-582-600">
@@ -2401,7 +2401,7 @@
 <LM>w#w-d1t2156-3</LM>
 </w.rf>
 <form>bandičkou</form>
-<tag lemma="bandička_,e_^(zdrobněle_banda)" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="bandička_,e_^(zdrobněle_banda_bandaska)" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m065-d1t2160-1">
 <w.rf>
@@ -2509,7 +2509,7 @@
 <LM>w#w-d1t2158-6</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m065-d1t2158-7">
 <w.rf>
@@ -2784,7 +2784,7 @@
 <LM>w#w-d1t2184-3</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m065-d1t2184-4">
 <w.rf>
@@ -2855,7 +2855,7 @@
 <LM>w#w-d1t2184-9</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m065-d1t2184-10">
 <w.rf>
@@ -3029,7 +3029,7 @@
 <AM lemma="Harachův_;Y_^(*2)" src="auto">AUNP4M---------</AM>
 <AM lemma="Harachův_;Y_^(*2)" src="auto">AUNP5M---------</AM>
 <AM lemma="Harachův_;Y_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Harachov_;G_,h_^(^GC**Harrachov)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Harachov_;G_,i_^(^DS**Harrachov)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m065-763-765">
@@ -3287,7 +3287,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -4701,7 +4701,7 @@
 <LM>w#w-d1t2274-2</LM>
 </w.rf>
 <form>WC</form>
-<tag lemma="WC" src="auto" recommended="1">NNNXX-----A---b</tag>
+<tag lemma="WC_^(water_closet)" src="auto" recommended="1">BNNXX-----A----</tag>
 </m>
 <m id="m065-136-7">
 <w.rf>

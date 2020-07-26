@@ -677,7 +677,7 @@
 <LM>w#w-ln95049-018-p1s6w2</LM>
 </w.rf>
 <form>jap</form>
-<tag lemma="jap-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="jap-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95049-018-p1s6w3">
 <src.rf>manual</src.rf>

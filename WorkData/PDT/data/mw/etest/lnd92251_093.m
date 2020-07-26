@@ -164,7 +164,7 @@
 <LM>w#w-lnd92251-093-p2s2w14</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92251-093-p2s2w15">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-lnd92251-093-p2s4w6</LM>
 </w.rf>
 <form>zatčeno</form>
-<tag lemma="zatknout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-lnd92251-093-p2s4w7">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>extremistů</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92251-093-p2s4w10">
 <src.rf>manual</src.rf>

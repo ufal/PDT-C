@@ -72,7 +72,7 @@
 <tag>
 <AM lemma="vin-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vina" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="vin-99_;Y" src="manual" selected="1">BNNXX-----A----</AM>
+<AM lemma="vin-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-077-p2s1w4">

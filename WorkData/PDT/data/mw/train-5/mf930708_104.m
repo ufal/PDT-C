@@ -355,7 +355,7 @@
 <LM>w#w-mf930708-104-p2s2w5</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf930708-104-p2s2w6">
 <src.rf>manual</src.rf>

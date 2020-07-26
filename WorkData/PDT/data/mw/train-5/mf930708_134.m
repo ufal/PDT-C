@@ -248,7 +248,7 @@
 <LM>w#w-mf930708-134-p2s2w11</LM>
 </w.rf>
 <form>nenechala</form>
-<tag lemma="nechat" src="orig" selected="1">VpQW----R-NAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf930708-134-p2s2w12">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-mf930708-134-p2s3w8</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930708-134-p2s3w9">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-mf930708-134-p2s5w1</LM>
 </w.rf>
 <form>Podruhé</form>
-<tag lemma="podruhé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podruhé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930708-134-p2s5w2">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-mf930708-134-p2s7w1</LM>
 </w.rf>
 <form>Zato</form>
-<tag lemma="zato" src="orig" selected="1">J,-------------</tag>
+<tag lemma="zato" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930708-134-p2s7w2">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-mf930708-134-p2s7w4</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-134-p2s7w5">
 <src.rf>manual</src.rf>

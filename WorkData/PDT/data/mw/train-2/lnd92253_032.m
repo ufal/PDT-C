@@ -1236,7 +1236,7 @@
 <LM>w#w-lnd92253-032-p4s3w32</LM>
 </w.rf>
 <form>zastavit</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92253-032-p4s3w33">
 <src.rf>manual</src.rf>
@@ -1627,7 +1627,7 @@
 <form>zasažena</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="zasáhnout" src="manual" selected="1">VsQW----X-APP--</AM>
+<AM lemma="zasáhnout" src="manual" selected="1">VsQW----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-lnd92253-032-p4s6w8">
@@ -1801,7 +1801,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-032-p4s7w13">
@@ -2356,7 +2356,7 @@
 <LM>w#w-lnd92253-032-p6s1w6</LM>
 </w.rf>
 <form>zastavíme</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VB-P---1P-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m-lnd92253-032-p6s1w7">
 <src.rf>manual</src.rf>
@@ -2465,7 +2465,7 @@
 <LM>w#w-lnd92253-032-p6s2w2</LM>
 </w.rf>
 <form>Kdybychom</form>
-<tag lemma="kdyby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="kdyby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-lnd92253-032-p6s2w4">
 <src.rf>manual</src.rf>
@@ -2652,7 +2652,7 @@
 <LM>w#w-lnd92253-032-p6s2w27</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-032-p6s2w28">
 <src.rf>manual</src.rf>
@@ -2668,7 +2668,7 @@
 <LM>w#w-lnd92253-032-p6s2w29</LM>
 </w.rf>
 <form>zastavit</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92253-032-p6s2w30">
 <src.rf>manual</src.rf>
@@ -2742,7 +2742,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-032-p6s2w39">
@@ -3371,7 +3371,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-032-p7s4w7">
@@ -4187,7 +4187,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-032-p7s7w8">
@@ -4491,7 +4491,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-032-p8s1w27">

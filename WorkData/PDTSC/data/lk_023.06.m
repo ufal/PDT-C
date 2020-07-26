@@ -318,7 +318,7 @@
 <LM>w#w-d1t2302-7</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m023-d1t2302-8">
 <w.rf>
@@ -383,7 +383,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1027,7 +1027,7 @@
 <LM>w#w-d1t2358-3</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m023-d1t2358-12">
 <w.rf>
@@ -1382,7 +1382,7 @@
 <LM>w#w-d1t2380-7</LM>
 </w.rf>
 <form>rozeběhli</form>
-<tag lemma="rozeběhnout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
+<tag lemma="rozeběhnout_,s_^(^DD**rozběhnout)" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m023-2856-1247">
 <w.rf>
@@ -1498,7 +1498,7 @@
 <LM>w#w-d1t2388-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m023-d1t2388-3">
 <w.rf>
@@ -3205,7 +3205,7 @@
 <LM>w#w-d1t2488-4</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m023-d1t2488-6">
 <w.rf>
@@ -3691,7 +3691,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m023-d1t2543-7">
@@ -4232,7 +4232,7 @@
 <LM>w#w-d1t2570-2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m023-d1t2568-5">
 <w.rf>

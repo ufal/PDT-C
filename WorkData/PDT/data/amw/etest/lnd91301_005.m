@@ -693,7 +693,7 @@
 <LM>w#w-lnd91301-005-p3s2w13</LM>
 </w.rf>
 <form>myslet</form>
-<tag lemma="myslet" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="myslit" src="orig" selected="1">Vf--------A-I-1</tag>
 </m>
 <m id="m-lnd91301-005-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1013,7 +1013,7 @@
 <LM>w#w-lnd91301-005-p4s2w3</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="orig" selected="1">PP-P7--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P7--1-------</tag>
 </m>
 <m id="m-lnd91301-005-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1319,7 +1319,7 @@
 <LM>w#w-lnd91301-005-p4s3w4</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="orig" selected="1">PP-P7--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P7--1-------</tag>
 </m>
 <m id="m-lnd91301-005-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1410,7 +1410,7 @@
 <tag>
 <AM lemma="dát" src="orig">Vi-P---1--A-P--</AM>
 <AM lemma="dát" src="manual">Vi-P---1--A-P--</AM>
-<AM lemma="dát" src="manual" selected="1">Vi-P---1--A-P--</AM>
+<AM lemma="dát-1" src="manual" selected="1">Vi-P---1--A-P--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-005-p4s3w16">
@@ -2020,7 +2020,7 @@
 <LM>w#w-lnd91301-005-p5s1w26</LM>
 </w.rf>
 <form>právem</form>
-<tag lemma="právem" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="právem" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd91301-005-p5s1w27">
 <src.rf>manual</src.rf>
@@ -2383,7 +2383,7 @@
 <LM>w#w-lnd91301-005-p6s1w6</LM>
 </w.rf>
 <form>dlouze</form>
-<tag lemma="dlouze-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouze" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd91301-005-p6s1w7">
 <src.rf>manual</src.rf>

@@ -676,7 +676,7 @@
 <LM>w#w-wsj1393-001-p1s2W15</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1393-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -702,7 +702,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1393-001-p1s2W19-Ta">

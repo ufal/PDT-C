@@ -19,7 +19,7 @@
 <LM>w#w-ln95045-035-p1s1w1</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95045-035-p1s1w2">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln95045-035-p2s1Bw21">
@@ -603,7 +603,7 @@
 <LM>w#w-ln95045-035-p2s3w7</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95045-035-p2s3w8">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-035-p2s3w12">
@@ -646,7 +646,7 @@
 <LM>w#w-ln95045-035-p2s3w12</LM>
 </w.rf>
 <form>táhne</form>
-<tag lemma="táhnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="táhnout" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95045-035-p2s3w13">
 <src.rf>manual</src.rf>

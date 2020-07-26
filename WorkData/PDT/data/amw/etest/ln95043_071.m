@@ -233,7 +233,7 @@
 <form>nalezena</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsQW----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsQW----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsQW----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln95043-071-p2s2w11">
@@ -372,7 +372,7 @@
 <LM>w#w-ln95043-071-p2s3w13</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-071-p2s3w14">
 <src.rf>manual</src.rf>

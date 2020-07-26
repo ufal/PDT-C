@@ -438,7 +438,7 @@
 <LM>w#w-mf930702-031-p2s4w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-031-p2s4w4">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-mf930702-031-p3s1w5</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="akciový" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf930702-031-p3s1w6">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-mf930702-031-p3s1w7</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-mf930702-031-p3s1w8">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-mf930702-031-p3s2w28</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-031-p3s2w29">
 <src.rf>manual</src.rf>
@@ -866,7 +866,7 @@
 <LM>w#w-mf930702-031-p3s2w31</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="akciový" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf930702-031-p3s2w32">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-mf930702-031-p3s2w33</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-mf930702-031-p3s2w34">
 <src.rf>manual</src.rf>
@@ -942,7 +942,7 @@
 <LM>w#w-mf930702-031-p3s4w3</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-031-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1569,7 +1569,7 @@
 <LM>w#w-mf930702-031-p5s1w4</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-031-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2010,7 +2010,7 @@
 <form>JUDr</form>
 <tag>
 <AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="JUDr_^(doktor_práv)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="JUDr_^(doktor_práv)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-031-p6s1w7">
@@ -2115,7 +2115,7 @@
 <LM>w#w-mf930702-031-p6s1w19</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930702-031-p6s1w20">
 <src.rf>manual</src.rf>

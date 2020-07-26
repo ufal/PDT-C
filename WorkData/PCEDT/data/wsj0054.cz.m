@@ -313,7 +313,7 @@
 <LM>w#w-wsj0054-001-p1s0W22</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0054-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>

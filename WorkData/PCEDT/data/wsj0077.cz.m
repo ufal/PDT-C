@@ -162,7 +162,7 @@
 <LM>w#w-wsj0077-001-p1s0W12</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0077-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1546,7 +1546,7 @@
 <LM>w#w-wsj0077-001-p1s7W9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0077-001-p1s7W10-Ta">
 <src.rf>tagger-a</src.rf>

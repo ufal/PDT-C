@@ -223,7 +223,7 @@
 <LM>w#w-id65484-2</LM>
 </w.rf>
 <form>dávat</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m976-id65484-4">
 <w.rf>
@@ -2072,7 +2072,7 @@
 <LM>w#w-id65805-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m976-id65805-2">
 <w.rf>
@@ -2478,7 +2478,7 @@
 <form>rusko</form>
 <tag>
 <AM lemma="Ruska-1_;E" src="auto">NNFS5-----A----</AM>
-<AM lemma="ruský" src="auto" recommended="1">S2--------A----</AM>
+<AM lemma="rusko" src="auto" recommended="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m976-id65883-x1-832">
@@ -2769,7 +2769,7 @@
 <LM>w#w-id66004-1</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m976-id66004-2">
 <w.rf>
@@ -3811,7 +3811,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m976-id66146-11">
@@ -4540,7 +4540,7 @@
 <LM>w#w-id66240-17</LM>
 </w.rf>
 <form>mlada</form>
-<tag lemma="mlado" src="auto" recommended="1">NNNS2-----A----</tag>
+<tag lemma="mlada" src="auto" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="m976-id66240-13">
 <w.rf>
@@ -4557,7 +4557,7 @@
 <LM>w#w-id66240-15</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m976-id65883-x7-824">
 <w.rf>
@@ -5336,7 +5336,7 @@
 <LM>w#w-id66342-4</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m976-id66342-5">
 <w.rf>
@@ -5481,7 +5481,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -6078,7 +6078,7 @@
 <form>správně</form>
 <tag>
 <AM lemma="správně_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="správně_^(*1í)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m976-152-158">
@@ -6802,7 +6802,7 @@
 <LM>w#w-id66637-3</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m976-id66637-4">
 <w.rf>

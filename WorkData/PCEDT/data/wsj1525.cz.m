@@ -130,7 +130,7 @@
 <LM>w#w-wsj1525-001-p1s0W11</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1525-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -747,7 +747,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1525-001-p1s4W2-Ta">
@@ -2502,7 +2502,7 @@
 <LM>w#w-wsj1525-001-p1s11W2</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1525-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5370,7 +5370,7 @@
 <LM>w#w-wsj1525-001-p1s22W26</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1525-001-p1s22W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7598,7 +7598,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1525-001-p1s33W2-Ta">
@@ -8187,7 +8187,7 @@
 <LM>w#w-wsj1525-001-p1s34W24</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1525-001-p1s34W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11323,7 +11323,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1525-001-p1s47W2-Ta">

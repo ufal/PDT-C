@@ -885,7 +885,7 @@
 </w.rf>
 <form>hodinách</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP6-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -2011,7 +2011,7 @@
 <LM>w#w-wsj1852-001-p1s4W9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1852-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4266,7 +4266,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -6747,7 +6747,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -8772,7 +8772,7 @@
 <LM>w#w-wsj1852-001-p1s27W14</LM>
 </w.rf>
 <form>zasažen</form>
-<tag lemma="zasáhnout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="zasáhnout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj1852-001-p1s27W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8850,7 +8850,7 @@
 <LM>w#w-wsj1852-001-p1s28W4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1852-001-p1s28W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10471,7 +10471,7 @@
 <LM>w#w-wsj1852-001-p1s32W12</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1852-001-p1s32W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10630,7 +10630,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -10982,7 +10982,7 @@
 <LM>w#w-wsj1852-001-p1s33W10</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1852-001-p1s33W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11982,7 +11982,7 @@
 </w.rf>
 <form>právem</form>
 <tag>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS7-----A----</AM>
 <AM lemma="právem" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -12371,7 +12371,7 @@
 </w.rf>
 <form>právem</form>
 <tag>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS7-----A----</AM>
 <AM lemma="právem" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -12610,7 +12610,7 @@
 </w.rf>
 <form>právem</form>
 <tag>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS7-----A----</AM>
 <AM lemma="právem" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -12691,7 +12691,7 @@
 <LM>w#w-wsj1852-001-p1s38W30</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1852-001-p1s38W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13113,7 +13113,7 @@
 </w.rf>
 <form>právem</form>
 <tag>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS7-----A----</AM>
 <AM lemma="právem" src="auto">Dg-------1A----</AM>
 </tag>
 </m>

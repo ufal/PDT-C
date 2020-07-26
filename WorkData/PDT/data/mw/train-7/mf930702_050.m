@@ -172,7 +172,7 @@
 <LM>w#w-mf930702-050-p2s1w10</LM>
 </w.rf>
 <form>předala</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-050-p2s1w11">
 <src.rf>manual</src.rf>
@@ -252,7 +252,7 @@
 <LM>w#w-mf930702-050-p2s1w20</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-050-p2s1w21">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-050-p3s1w15">

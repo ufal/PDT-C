@@ -426,7 +426,7 @@
 <LM>w#w-lnd92258-114-p2s2w6</LM>
 </w.rf>
 <form>můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-lnd92258-114-p2s2w7">
 <src.rf>manual</src.rf>
@@ -1342,7 +1342,7 @@
 <LM>w#w-lnd92258-114-p2s6w18</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_^(a_tak_dále)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="atd_^(a_tak_dále)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-lnd92258-114-p2s6w19">
 <src.rf>manual</src.rf>
@@ -1709,7 +1709,7 @@
 <LM>w#w-lnd92258-114-p2s8w9</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92258-114-p2s8w10">
 <src.rf>manual</src.rf>

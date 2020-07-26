@@ -130,7 +130,7 @@
 <LM>w#w-ln94205-123-p2s1Bw3</LM>
 </w.rf>
 <form>šv</form>
-<tag lemma="šv-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="šv-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-123-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -158,7 +158,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
+<AM lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-123-p2s1Cw2">
@@ -1369,7 +1369,7 @@
 <LM>w#w-ln94205-123-p2s7w11</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="orig" selected="1">J,-S---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------c-</tag>
 </m>
 <m id="m-ln94205-123-p2s7w13">
 <src.rf>manual</src.rf>

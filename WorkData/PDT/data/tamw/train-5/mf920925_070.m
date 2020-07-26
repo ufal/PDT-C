@@ -314,7 +314,7 @@
 <tag>
 <AM lemma="prostředek-2_^(způsob,_nástroj)" src="orig">NNIP2-----A----</AM>
 <AM lemma="prostředek-1_^(střed,_způsob,_nástroj)" src="manual">NNIP2-----A----</AM>
-<AM lemma="prostředek_^(střed,_způsob,_nástroj)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="prostředek_^(střed,způsob,_nástroj)" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-070-p4s2w9">
@@ -627,7 +627,7 @@
 <LM>w#w-mf920925-070-p4s3w8</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920925-070-p4s3w9">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920925-070-p5s1w4">
@@ -847,7 +847,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920925-070-p5s1w6">
@@ -1075,7 +1075,7 @@
 <LM>w#w-mf920925-070-p5s1w33</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-070-p5s1w34">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-070-p5s3w9">
@@ -1421,7 +1421,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-070-p5s3w18">
@@ -2484,7 +2484,7 @@
 <LM>w#w-mf920925-070-p5s7w17</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-070-p5s7w18">
 <src.rf>manual</src.rf>

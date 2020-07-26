@@ -715,7 +715,7 @@
 <LM>w#w-cmpr9413-024-p5s3w4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9413-024-p5s3w5">
 <src.rf>manual</src.rf>

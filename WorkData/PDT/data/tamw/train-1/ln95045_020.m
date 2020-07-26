@@ -648,7 +648,7 @@
 <LM>w#w-ln95045-020-p2s4w5</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-020-p2s4w6">
 <src.rf>manual</src.rf>

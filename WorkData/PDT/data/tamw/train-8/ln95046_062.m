@@ -196,7 +196,7 @@
 <LM>w#w-ln95046-062-p2s1Bw14</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95046-062-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-ln95046-062-p2s2w12</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95046-062-p2s2w13">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-ln95046-062-p2s3w3</LM>
 </w.rf>
 <form>událostem</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-ln95046-062-p2s3w4">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-ln95046-062-p2s3w17</LM>
 </w.rf>
 <form>extremistů</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95046-062-p2s3w18">
 <src.rf>manual</src.rf>
@@ -636,7 +636,7 @@
 <LM>w#w-ln95046-062-p2s3w20</LM>
 </w.rf>
 <form>velkomajitelů</form>
-<tag lemma="velkomajitel_,s" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="velkomajitel" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95046-062-p2s3w21">
 <src.rf>manual</src.rf>
@@ -915,7 +915,7 @@
 <LM>w#w-ln95046-062-p2s5w14</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95046-062-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1061,7 +1061,7 @@
 <LM>w#w-ln95046-062-p2s6w14</LM>
 </w.rf>
 <form>Zapatovou</form>
-<tag lemma="Zapatův_;Y_^(*2a)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Zapatův-1_;Y_^(*4a-1)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-ln95046-062-p2s6w15">
 <src.rf>manual</src.rf>

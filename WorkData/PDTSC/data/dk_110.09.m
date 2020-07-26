@@ -244,7 +244,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m110-d1t2374-4">
@@ -378,7 +378,7 @@
 <LM>w#w-d1t2386-5</LM>
 </w.rf>
 <form>zaměstnána</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="zaměstnat" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m110-d-id143693-punct">
 <w.rf>
@@ -3499,7 +3499,7 @@
 <LM>w#w-d1t2519-6</LM>
 </w.rf>
 <form>vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m110-215-216">
 <w.rf>
@@ -4541,7 +4541,7 @@
 <LM>w#w-d1t2548-3</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m110-d1t2548-4">
 <w.rf>

@@ -4024,7 +4024,7 @@
 <LM>w#w-wsj2007-001-p1s13W48</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2007-001-p1s13W49-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4463,7 +4463,7 @@
 <LM>w#w-wsj2007-001-p1s14W40</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2007-001-p1s14W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8771,7 +8771,7 @@
 <LM>w#w-wsj2007-001-p1s28W15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2007-001-p1s28W16-Ta">
 <src.rf>tagger-a</src.rf>

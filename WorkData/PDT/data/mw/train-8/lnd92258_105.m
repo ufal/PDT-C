@@ -172,7 +172,7 @@
 <LM>w#w-lnd92258-105-p2s1w15</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-105-p2s1w16">
 <src.rf>manual</src.rf>
@@ -188,7 +188,7 @@
 <LM>w#w-lnd92258-105-p2s1w17</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-lnd92258-105-p2s1w18">
 <src.rf>manual</src.rf>
@@ -506,7 +506,7 @@
 <LM>w#w-lnd92258-105-p2s4w11</LM>
 </w.rf>
 <form>vázán</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" selected="1">VsYS----X-API--</tag>
+<tag lemma="vázat" src="auto" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd92258-105-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1137,7 +1137,7 @@
 <LM>w#w-lnd92258-105-p2s10w3</LM>
 </w.rf>
 <form>dáno</form>
-<tag lemma="dát" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92258-105-p2s10w4">
 <src.rf>manual</src.rf>
@@ -1195,7 +1195,7 @@
 <LM>w#w-lnd92258-105-p2s11w3</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="orig" selected="1">PP-P7--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P7--1-------</tag>
 </m>
 <m id="m-lnd92258-105-p2s11w4">
 <src.rf>manual</src.rf>
@@ -1699,7 +1699,7 @@
 <LM>w#w-lnd92258-105-p2s16w2</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-105-p2s16w3">
 <src.rf>manual</src.rf>
@@ -2339,7 +2339,7 @@
 <LM>w#w-lnd92258-105-p2s22w18</LM>
 </w.rf>
 <form>mravně</form>
-<tag lemma="mravně_^(kodex,_ponaučení,...)_(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="mravně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92258-105-p2s22w19">
 <src.rf>manual</src.rf>
@@ -2437,7 +2437,7 @@
 <LM>w#w-lnd92258-105-p3s1w1</LM>
 </w.rf>
 <form>PAVEL</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-105-p3s1w2">
 <src.rf>manual</src.rf>
@@ -2768,7 +2768,7 @@
 <LM>w#w-lnd92258-105-p5s3w12</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag lemma="říci" src="auto" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92258-105-p5s3w13">
 <src.rf>manual</src.rf>

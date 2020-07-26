@@ -5706,7 +5706,7 @@
 <LM>w#w-wsj1999-001-p1s21W13</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1999-001-p1s21W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6124,7 +6124,7 @@
 </w.rf>
 <form>AT</form>
 <tag>
-<AM lemma="AT" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AT-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="At-77" src="auto">F%-------------</AM>
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at-77" src="auto">F%-------------</AM>

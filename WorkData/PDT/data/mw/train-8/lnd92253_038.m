@@ -179,7 +179,7 @@
 <LM>w#w-lnd92253-038-p1s1w21</LM>
 </w.rf>
 <form>východně</form>
-<tag lemma="východně_,s_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="východně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92253-038-p1s1w22">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-lnd92253-038-p1s3w12</LM>
 </w.rf>
 <form>libanonsko</form>
-<tag lemma="libanonský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="libanonsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92253-038-p1s3w13">
 <src.rf>manual</src.rf>

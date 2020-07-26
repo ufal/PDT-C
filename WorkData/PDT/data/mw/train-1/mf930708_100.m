@@ -534,7 +534,7 @@
 <LM>w#w-mf930708-100-p2s3w16</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-mf930708-100-p2s3w17">
 <src.rf>manual</src.rf>
@@ -1108,7 +1108,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-100-p2s8w6">
@@ -1173,7 +1173,7 @@
 <LM>w#w-mf930708-100-p2s8w14</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930708-100-p2s8w15">
 <src.rf>manual</src.rf>
@@ -1333,7 +1333,7 @@
 <LM>w#w-mf930708-100-p2s9w10</LM>
 </w.rf>
 <form>předávají</form>
-<tag lemma="předávat-3_^(někomu_něco)_(*6at-3)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="předávat_^(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-100-p2s9w11">
 <src.rf>manual</src.rf>
@@ -1526,7 +1526,7 @@
 <LM>w#w-mf930708-100-p2s12w1</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-mf930708-100-p2s12w2">
 <src.rf>manual</src.rf>
@@ -2241,7 +2241,7 @@
 <LM>w#w-mf930708-100-p2s17w6</LM>
 </w.rf>
 <form>předat</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="předat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930708-100-p2s17w7">
 <src.rf>manual</src.rf>
@@ -2759,7 +2759,7 @@
 <LM>w#w-mf930708-100-p2s21w16</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930708-100-p2s21w17">
 <src.rf>manual</src.rf>
@@ -3153,7 +3153,7 @@
 <LM>w#w-mf930708-100-p2s24w17</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf930708-100-p2s24w18">
 <src.rf>manual</src.rf>

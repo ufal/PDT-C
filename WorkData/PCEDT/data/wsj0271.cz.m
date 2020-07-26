@@ -8184,7 +8184,7 @@
 </w.rf>
 <form>Inc</form>
 <tag>
-<AM lemma="Inc-77" src="auto" recommended="1">B%-------------</AM>
+<AM lemma="Inc-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -8400,7 +8400,7 @@
 <LM>w#w-wsj0271-001-p1s35W16</LM>
 </w.rf>
 <form>politikou</form>
-<tag lemma="politika_^(věda)" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="politika" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj0271-001-p1s35W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9455,7 +9455,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0271-001-p1s38W19-Ta">

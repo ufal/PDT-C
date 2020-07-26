@@ -497,7 +497,7 @@
 <LM>w#w-mu_09-SCzechM-p0876-s1-w22</LM>
 </w.rf>
 <form>očích</form>
-<tag lemma="oko" recommended="1">NNFP6-----A----</tag>
+<tag lemma="oko-2" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="mu_09-SCzechM-p0876-s1-w23">
 <w.rf>
@@ -528,7 +528,7 @@
 <form>bych</form>
 <tag>
 <AM lemma="být" recommended="1">Vc-S---1-------</AM>
-<AM lemma="být" src="manual" selected="1">Vc-S---1----I--</AM>
+<AM lemma="být" src="manual" selected="1">Vc----------Ic-</AM>
 </tag>
 </m>
 <m id="mu_09-SCzechM-p0876-s1-w26">
@@ -1617,7 +1617,7 @@
 <LM>w#w-mu_09-SCzechM-p0895-s1-w39</LM>
 </w.rf>
 <form>Vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="mu_09-SCzechM-p0895-s1-w40">
 <w.rf>
@@ -1873,7 +1873,7 @@
 <LM>w#w-mu_09-SCzechM-p0896-s1-w21</LM>
 </w.rf>
 <form>sis</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--3--2-------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--3--------s-</tag>
 </m>
 <m id="mu_09-SCzechM-p0896-s1-w22">
 <w.rf>
@@ -2050,7 +2050,7 @@
 <LM>w#w-mu_09-SCzechM-p0897-s1-w4</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kilogram" src="auto" recommended="1">NNIXX-----A---8</tag>
+<tag lemma="kilogram" src="auto" recommended="1">NNIXX-----A---b</tag>
 </m>
 <m id="mu_09-SCzechM-p0897-s1-w5">
 <w.rf>
@@ -2088,7 +2088,7 @@
 <tag>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
-<AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1">NNIXX-----A---b</AM>
 <AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM>
@@ -2152,7 +2152,7 @@
 </w.rf>
 <form>výše</form>
 <tag>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" recommended="1">Dg-------2A---1</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)">NNFP1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)">NNFP4-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)">NNFP5-----A----</AM>
@@ -3131,7 +3131,7 @@
 <LM>w#w-mu_09-SCzechM-p0911-s1-w2</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="mu_09-SCzechM-p0911-s1-w3">
 <w.rf>
@@ -3555,7 +3555,7 @@
 <LM>w#w-mu_09-SCzechM-p0914-s1-w2</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="mu_09-SCzechM-p0914-s1-w3">
 <w.rf>
@@ -4182,7 +4182,7 @@
 <LM>w#w-mu_09-SCzechM-p0930-s1-w23</LM>
 </w.rf>
 <form>héliem</form>
-<tag lemma="hélium" recommended="1">NNNS7-----A----</tag>
+<tag lemma="hélium_,s_^(^DD**helium)" recommended="1">NNNS7-----A----</tag>
 </m>
 <m id="mu_09-SCzechM-p0930-s1-w24">
 <w.rf>
@@ -4467,7 +4467,7 @@
 <LM>w#w-mu_09-SCzechM-p0937-s1-w8</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="mu_09-SCzechM-p0937-s1-w9">
 <w.rf>
@@ -5289,7 +5289,7 @@
 </w.rf>
 <form>politika</form>
 <tag>
-<AM lemma="politika_^(věda)" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politik">NNMS2-----A----</AM>
 <AM lemma="politik">NNMS4-----A----</AM>
 <AM lemma="politikum">NNNP1-----A----</AM>
@@ -5934,7 +5934,7 @@
 <form>bys</form>
 <tag>
 <AM lemma="být" recommended="1">Vc-S---2-------</AM>
-<AM lemma="být" src="manual" selected="1">Vc-S---2----I--</AM>
+<AM lemma="být" src="manual" selected="1">Vc----------Is-</AM>
 </tag>
 </m>
 <m id="mu_09-SCzechM-p0952-s1-w23">
@@ -6525,7 +6525,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -6730,7 +6730,7 @@
 <LM>w#w-mu_09-SCzechM-p0967-s1-w3</LM>
 </w.rf>
 <form>Vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="mu_09-SCzechM-p0967-s1-w4">
 <w.rf>
@@ -6908,7 +6908,7 @@
 <form>byste</form>
 <tag>
 <AM lemma="být" recommended="1">Vc-P---2-------</AM>
-<AM lemma="být" src="manual" selected="1">Vc-P---2----I--</AM>
+<AM lemma="být" src="manual" selected="1">Vc----------Ie-</AM>
 </tag>
 </m>
 <m id="mu_09-SCzechM-p0967-s1-w22">
@@ -6996,7 +6996,7 @@
 </w.rf>
 <form>níže</form>
 <tag>
-<AM lemma="nízko-1_^(níže,_než...)" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" recommended="1">Dg-------2A---1</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP1-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP4-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP5-----A----</AM>

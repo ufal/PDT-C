@@ -252,7 +252,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m104-d1e726-x2-43">
@@ -1685,7 +1685,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m104-d1t764-3">
@@ -1875,7 +1875,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m104-d-id115810-punct">
@@ -1965,7 +1965,7 @@
 <LM>w#w-d1t770-18</LM>
 </w.rf>
 <form>kdykoliv</form>
-<tag lemma="kdykoli" src="auto" recommended="1">Db------------1</tag>
+<tag lemma="kdykoliv_,s_^(^DD**kdykoli)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m104-d1t770-19">
 <w.rf>
@@ -2183,7 +2183,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -2819,7 +2819,7 @@
 <LM>w#w-d1t799-3</LM>
 </w.rf>
 <form>jelo</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m104-d1t799-5">
 <w.rf>
@@ -2966,7 +2966,7 @@
 <LM>w#w-d1t799-24</LM>
 </w.rf>
 <form>jelo</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m104-d1t799-25">
 <w.rf>
@@ -3682,7 +3682,7 @@
 <LM>w#w-d1t807-5</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m104-d1t807-6">
 <w.rf>
@@ -4205,7 +4205,7 @@
 <LM>w#w-d1t819-9</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m104-d1t819-11">
 <w.rf>
@@ -4900,7 +4900,7 @@
 <LM>w#w-d1t828-6</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m104-d1t828-7">
 <w.rf>

@@ -123,7 +123,7 @@
 <form>ME</form>
 <tag>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ME-1_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ME_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-108-p2s1Bw5">
@@ -271,7 +271,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94208-108-p2s1Bw23">
@@ -381,7 +381,7 @@
 <form>stal</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94208-108-p2s1Bw36">
@@ -954,7 +954,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94208-108-p2s4w8">
@@ -1030,7 +1030,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94208-108-p2s4w17">

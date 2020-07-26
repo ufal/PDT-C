@@ -396,7 +396,7 @@
 <LM>w#w-mf930708-075-p1s4w5</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930708-075-p1s4w6">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-mf930708-075-p1s9w5</LM>
 </w.rf>
 <form>Romům</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf930708-075-p1s9w6">
 <src.rf>manual</src.rf>

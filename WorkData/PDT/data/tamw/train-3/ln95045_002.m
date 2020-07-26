@@ -51,7 +51,7 @@
 <LM>w#w-ln95045-002-p1s1w5</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95045-002-p1s1w6">
 <src.rf>manual</src.rf>
@@ -148,7 +148,7 @@
 <LM>w#w-ln95045-002-p2s1Cw5</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95045-002-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <tag>
 <AM lemma="ESVO_:B_;m_^(Evropské_sdružení_volného_obchodu)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ESVO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ESVO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ESVO_^(Evropské_sdružení_volného_obchodu)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-002-p4s2w5">
@@ -745,7 +745,7 @@
 <form>mld</form>
 <tag>
 <AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln95045-002-p4s2w25">
@@ -757,7 +757,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-002-p4s2w26">
@@ -976,7 +976,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-002-p5s2w5">

@@ -118,7 +118,7 @@
 </w.rf>
 <form>vzplál</form>
 <tag>
-<AM lemma="vzplanout" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="vzplát" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="vzplát" src="auto">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -772,7 +772,7 @@
 <LM>w#w-wsj0210-001-p1s2W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0210-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4909,7 +4909,7 @@
 <LM>w#w-wsj0210-001-p1s15W12</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0210-001-p1s15W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5019,7 +5019,7 @@
 <LM>w#w-wsj0210-001-p1s16W1</LM>
 </w.rf>
 <form>Neméně</form>
-<tag lemma="málo-3" src="auto" recommended="1">Dg-------2N----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2N----</tag>
 </m>
 <m id="m-wsj0210-001-p1s16W2-Ta">
 <src.rf>tagger-a</src.rf>

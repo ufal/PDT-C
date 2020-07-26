@@ -205,7 +205,7 @@
 <LM>w#w-wsj0591-001-p1s0W16</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0591-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -700,7 +700,7 @@
 <LM>w#w-wsj0591-001-p1s1W24</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0591-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3350,7 +3350,7 @@
 <LM>w#w-wsj0591-001-p1s11W2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0591-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6285,7 +6285,7 @@
 <LM>w#w-wsj0591-001-p1s20W24</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0591-001-p1s20W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7805,7 +7805,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0591-001-p1s27W10-Ta">
@@ -11376,7 +11376,7 @@
 <LM>w#w-wsj0591-001-p1s38W16</LM>
 </w.rf>
 <form>podávají</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj0591-001-p1s38W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11767,7 +11767,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>

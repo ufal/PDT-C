@@ -37,7 +37,7 @@
 <LM>w#w-lnd92256-108-p2s1w2</LM>
 </w.rf>
 <form>remizovala</form>
-<tag lemma="remizovat" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="remizovat_,s_^(^DD**remízovat)" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-lnd92256-108-p2s1w3">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-lnd92256-108-p2s2w6</LM>
 </w.rf>
 <form>Juventusem</form>
-<tag lemma="Juventus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Juventus_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92256-108-p2s2w7">
 <src.rf>manual</src.rf>
@@ -1469,7 +1469,7 @@
 <LM>w#w-lnd92256-108-p9s1w8</LM>
 </w.rf>
 <form>Nor</form>
-<tag lemma="Nor_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nor_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-108-p9s1w9">
 <src.rf>manual</src.rf>
@@ -1868,7 +1868,7 @@
 <LM>w#w-lnd92256-108-p11s1w16</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92256-108-p11s1w17">
 <src.rf>manual</src.rf>

@@ -1367,7 +1367,7 @@
 <LM>w#w-mf930713-054-p2s9w6</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930713-054-p2s9w7">
 <src.rf>manual</src.rf>
@@ -1409,7 +1409,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-054-p2s9w12">

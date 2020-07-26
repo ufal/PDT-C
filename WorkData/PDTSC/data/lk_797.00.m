@@ -50,7 +50,7 @@
 <LM>w#w-d1t19-3</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m797-d1t19-4">
 <w.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-d1t31-6</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m797-d1t31-7">
 <w.rf>
@@ -2188,7 +2188,7 @@
 <LM>w#w-d1t107-21</LM>
 </w.rf>
 <form>nejhůř</form>
-<tag lemma="špatně" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="hůře" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m797-755-1162">
 <w.rf>
@@ -2933,7 +2933,7 @@
 <LM>w#w-d1t138-5</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m797-d1t138-6">
 <w.rf>
@@ -3146,7 +3146,7 @@
 <LM>w#w-d1t144-5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m797-d1t144-6">
 <w.rf>
@@ -3163,7 +3163,7 @@
 <LM>w#w-d1t144-7</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m797-d1e20-x17-1730">
 <w.rf>
@@ -3498,7 +3498,7 @@
 <LM>w#w-d1t153-1</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m797-d1t153-2">
 <w.rf>
@@ -5125,14 +5125,14 @@
 <LM>w#w-d1t192-37</LM>
 </w.rf>
 <form>raději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m797-d1t192-40">
 <w.rf>
 <LM>w#w-d1t192-40</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m797-2569-2585">
 <w.rf>
@@ -5291,7 +5291,7 @@
 <LM>w#w-d1t198-13</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m797-d1t198-14">
 <w.rf>
@@ -5374,7 +5374,7 @@
 <LM>w#w-d1t200-4</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m797-d1t200-5">
 <w.rf>
@@ -5768,7 +5768,7 @@
 <LM>w#w-d1t211-9</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m797-d1t211-10">
 <w.rf>
@@ -6234,7 +6234,7 @@
 <LM>w#w-d1t222-10</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m797-d1t222-11">
 <w.rf>
@@ -6470,7 +6470,7 @@
 <LM>w#w-d1t231-20</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m797-d1t231-21">
 <w.rf>
@@ -6718,7 +6718,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m797-d1e20-x27-578">
@@ -6746,7 +6746,7 @@
 <LM>w#w-d1e20-x27-579</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m797-d1t237-13">
 <w.rf>

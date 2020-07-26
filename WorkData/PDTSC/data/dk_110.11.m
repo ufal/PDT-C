@@ -467,7 +467,7 @@
 <LM>w#w-d1t2751-2</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m110-d1t2753-4">
 <w.rf>
@@ -618,7 +618,7 @@
 </w.rf>
 <form>stále</form>
 <tag>
-<AM lemma="stále" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="stále_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="stále_^(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -822,7 +822,7 @@
 <LM>w#w-d1t2766-8</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m110-d1t2766-9">
 <w.rf>
@@ -1268,7 +1268,7 @@
 <LM>w#w-d1t2788-12</LM>
 </w.rf>
 <form>vezmu</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VB-S---1P-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m110-d1t2788-13">
 <w.rf>
@@ -1817,7 +1817,7 @@
 <LM>w#w-d1t2806-14</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m110-d-id165699-punct">
 <w.rf>
@@ -2445,7 +2445,7 @@
 <LM>w#w-d1t2835-8</LM>
 </w.rf>
 <form>krom</form>
-<tag lemma="kromě" src="auto" recommended="1">RR--2---------1</tag>
+<tag lemma="krom_,s_^(^DD**kromě)" src="auto" recommended="1">RR--2----------</tag>
 </m>
 <m id="m110-d1t2835-9">
 <w.rf>
@@ -2623,7 +2623,7 @@
 <LM>w#w-d1t2851-4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m110-d-m-d1e2848-x2-punct-punct">
 <w.rf>
@@ -2699,7 +2699,7 @@
 <form>vámi</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P7--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P7--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P7--2-------</AM>
 </tag>
 </m>
 <m id="m110-d1t2855-7">

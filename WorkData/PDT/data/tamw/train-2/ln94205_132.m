@@ -931,7 +931,7 @@
 <tag>
 <AM lemma="naháňať_,t" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="naháňat_,n" src="auto" recommended="1">VpMP----R-AAI--</AM>
-<AM lemma="naháňali-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="naháňat_,n" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94205-132-p2s5w14">
@@ -1182,7 +1182,7 @@
 <LM>w#w-ln94205-132-p2s6w14</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-ln94205-132-p2s6w15">
 <src.rf>manual</src.rf>

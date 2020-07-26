@@ -262,7 +262,7 @@
 </w.rf>
 <form>méně</form>
 <tag>
-<AM lemma="málo-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="méně" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="méně" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -282,7 +282,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m032-d1e431-x2-261">
@@ -809,7 +809,7 @@
 <LM>w#w-d1t476-8</LM>
 </w.rf>
 <form>uměla</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m032-d1t476-9">
 <w.rf>
@@ -1560,7 +1560,7 @@
 <LM>w#w-d1t505-11</LM>
 </w.rf>
 <form>pojedeme</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---1F-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-P---1F-AAI--</tag>
 </m>
 <m id="m032-d1t507-1">
 <w.rf>
@@ -1968,7 +1968,7 @@
 <LM>w#w-d1t527-2</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m032-d1t527-3">
 <w.rf>
@@ -2652,7 +2652,7 @@
 <LM>w#w-d1t588-8</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m032-d1t588-9">
 <w.rf>
@@ -2974,7 +2974,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m032-d1t592-26">
@@ -3114,7 +3114,7 @@
 <LM>w#w-d1t599-4</LM>
 </w.rf>
 <form>sehnali</form>
-<tag lemma="sehnat" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m032-d1t601-2">
 <w.rf>
@@ -3598,7 +3598,7 @@
 <LM>w#w-d1t647-1</LM>
 </w.rf>
 <form>Můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m032-d1t647-2">
 <w.rf>
@@ -4017,7 +4017,7 @@
 <LM>w#w-d1t681-3</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m032-d1t681-5">
 <w.rf>
@@ -4091,7 +4091,7 @@
 <LM>w#w-d1t683-9</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m032-d1t683-11">
 <w.rf>
@@ -4623,7 +4623,7 @@
 <LM>w#w-388-32</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m032-388-30">
 <w.rf>
@@ -4768,7 +4768,7 @@
 <LM>w#w-d1t716-4</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m032-d1t716-3">
 <w.rf>
@@ -5414,7 +5414,7 @@
 <LM>w#w-d1t731-1</LM>
 </w.rf>
 <form>Nebála</form>
-<tag lemma="bát" src="auto" recommended="1">VpQW----R-NAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m032-d1t731-2">
 <w.rf>
@@ -5465,7 +5465,7 @@
 <LM>w#w-d1e732-x2-222</LM>
 </w.rf>
 <form>nebála</form>
-<tag lemma="bát" src="auto" recommended="1">VpQW----R-NAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m032-d1e732-x2-220">
 <w.rf>
@@ -5587,7 +5587,7 @@
 <LM>w#w-d1t735-15</LM>
 </w.rf>
 <form>nebála</form>
-<tag lemma="bát" src="auto" recommended="1">VpQW----R-NAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m032-204-82">
 <w.rf>

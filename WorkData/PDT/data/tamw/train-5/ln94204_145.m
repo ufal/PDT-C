@@ -255,7 +255,7 @@
 <LM>w#w-ln94204-145-p2s1Dw14</LM>
 </w.rf>
 <form>polsko</form>
-<tag lemma="polský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="polsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94204-145-p2s1Dw15">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94204-145-p2s2w5">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p3s1w17">
@@ -1369,7 +1369,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p5s1Aw4">
@@ -2304,7 +2304,7 @@
 <LM>w#w-ln94204-145-p8s3w2</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag lemma="říci" src="auto" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-145-p8s3w3">
 <src.rf>manual</src.rf>
@@ -2360,7 +2360,7 @@
 <LM>w#w-ln94204-145-p8s3w9</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94204-145-p8s3w10">
 <src.rf>manual</src.rf>
@@ -3110,7 +3110,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p10s3w13">
@@ -3839,7 +3839,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p13s2w5">
@@ -4018,7 +4018,7 @@
 <LM>w#w-ln94204-145-p14s1w10</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag lemma="říci" src="auto" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-145-p14s1w11">
 <src.rf>manual</src.rf>

@@ -65,7 +65,7 @@
 <LM>w#w-d1t850-5</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m065-d1t850-6">
 <w.rf>
@@ -727,7 +727,7 @@
 </w.rf>
 <form>Jitka</form>
 <tag>
-<AM lemma="Jitka-1_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Jitka-1_;Y_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Jitka-2_;m" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -2047,7 +2047,7 @@
 <form>matkou</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS7-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m065-d1t962-6">
@@ -2360,7 +2360,7 @@
 <LM>w#w-d1t979-1</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m065-d1t979-3">
 <w.rf>
@@ -2374,7 +2374,7 @@
 <LM>w#w-d1t979-4</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m065-d1t979-8">
 <w.rf>
@@ -3118,7 +3118,7 @@
 <LM>w#w-d1t1003-3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m065-d1t1003-4">
 <w.rf>
@@ -3165,7 +3165,7 @@
 <LM>w#w-d1t1003-10</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m065-d1t1003-11">
 <w.rf>
@@ -3528,7 +3528,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -4235,7 +4235,7 @@
 <LM>w#w-d1t1080-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m065-d1t1080-2">
 <w.rf>
@@ -4318,7 +4318,7 @@
 <LM>w#w-420-421</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m065-420-422">
 <w.rf>

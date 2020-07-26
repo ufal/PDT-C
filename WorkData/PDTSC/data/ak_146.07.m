@@ -696,7 +696,7 @@
 <LM>w#w-d1t1304-18</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m146-d1t1304-19">
 <w.rf>
@@ -1687,7 +1687,7 @@
 <LM>w#w-d1t1338-10</LM>
 </w.rf>
 <form>pojedem</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---1F-AAI-6</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-P---1F-AAI-6</tag>
 </m>
 <m id="m146-d-id114817-punct">
 <w.rf>
@@ -1739,7 +1739,7 @@
 <form>SSM</form>
 <tag>
 <AM lemma="SSM-1_:B_;m_^(Socialistický_svaz_mládeže)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SSM-1_;m_^(Socialistický_svaz_mládeže)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SSM_;m_^(Socialistický_svaz_mládeže)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m146-d1e1329-x3-685">
@@ -2118,7 +2118,7 @@
 <LM>w#w-d1t1347-1</LM>
 </w.rf>
 <form>Neumím</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m146-d1t1347-2">
 <w.rf>
@@ -2475,7 +2475,7 @@
 <LM>w#w-d1t1367-7</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m146-d1t1367-8">
 <w.rf>
@@ -2838,7 +2838,7 @@
 <LM>w#w-d1t1381-27</LM>
 </w.rf>
 <form>Může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m146-d1t1381-28">
 <w.rf>
@@ -3154,7 +3154,7 @@
 <LM>w#w-d1t1405-1</LM>
 </w.rf>
 <form>Můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m146-d1t1405-2">
 <w.rf>

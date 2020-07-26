@@ -203,7 +203,7 @@
 <LM>w#w-mf920922-090-p1s1Bw16</LM>
 </w.rf>
 <form>manažerku</form>
-<tag lemma="manažerka_^(*2)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="manažerka-1_^(*4-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920922-090-p1s1Bw17">
 <src.rf>manual</src.rf>

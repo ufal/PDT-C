@@ -320,7 +320,7 @@
 <LM>w#w-ln94201-46-p2s1w32</LM>
 </w.rf>
 <form>Khmerů</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Khmer_;E_,s_^(^DD**Khmér)" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94201-46-p2s1w33">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-ln94201-46-p2s4w3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94201-46-p2s4w4">
 <src.rf>manual</src.rf>

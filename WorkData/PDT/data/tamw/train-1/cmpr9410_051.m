@@ -85,7 +85,7 @@
 <LM>w#w-cmpr9410-051-p3s2w1</LM>
 </w.rf>
 <form>Kdybych</form>
-<tag lemma="kdyby" src="orig" selected="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="orig" selected="1">J,-----------c-</tag>
 </m>
 <m id="m-cmpr9410-051-p3s2w3">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-cmpr9410-051-p3s2w3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-cmpr9410-051-p3s2w4">
 <src.rf>manual</src.rf>

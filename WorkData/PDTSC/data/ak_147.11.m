@@ -1644,7 +1644,7 @@
 <LM>w#w-d1t1103-21</LM>
 </w.rf>
 <form>Jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m147-d1t1103-22">
 <w.rf>
@@ -2825,7 +2825,7 @@
 <LM>w#w-d1t1133-4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m147-d1t1133-5">
 <w.rf>
@@ -3232,7 +3232,7 @@
 <LM>w#w-d1t1141-2</LM>
 </w.rf>
 <form>Teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m147-727-728">
 <w.rf>
@@ -3713,7 +3713,7 @@
 <LM>w#w-d1t1150-7</LM>
 </w.rf>
 <form>Pojedou</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---3F-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m147-d1t1150-8">
 <w.rf>

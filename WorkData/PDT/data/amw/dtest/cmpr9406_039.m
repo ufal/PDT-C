@@ -225,7 +225,7 @@
 <LM>w#w-cmpr9406-039-p3s1w22</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-cmpr9406-039-p3s1w23">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <LM>w#w-cmpr9406-039-p3s3w26</LM>
 </w.rf>
 <form>cest</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-cmpr9406-039-p3s3w27">
 <src.rf>manual</src.rf>
@@ -1015,7 +1015,7 @@
 <LM>w#w-cmpr9406-039-p4s2w1</LM>
 </w.rf>
 <form>Mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-cmpr9406-039-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 <form>stanou</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VB-P---3P-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VB-P---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-039-p5s2w6">
@@ -1329,7 +1329,7 @@
 <LM>w#w-cmpr9406-039-p5s2w16</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-cmpr9406-039-p5s2w17">
 <src.rf>manual</src.rf>
@@ -1405,7 +1405,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-039-p6s1w6">
@@ -1912,7 +1912,7 @@
 <LM>w#w-cmpr9406-039-p7s2w27</LM>
 </w.rf>
 <form>sympozií</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9406-039-p7s2w28">
 <src.rf>manual</src.rf>
@@ -2207,7 +2207,7 @@
 <LM>w#w-cmpr9406-039-p8s1w19</LM>
 </w.rf>
 <form>obsažena</form>
-<tag lemma="obsáhnout" src="orig" selected="1">VsQW----X-AP---</tag>
+<tag lemma="obsáhnout" src="orig" selected="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-cmpr9406-039-p8s1w20">
 <src.rf>manual</src.rf>
@@ -2829,7 +2829,7 @@
 <LM>w#w-cmpr9406-039-p10s3w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9406-039-p10s3w4">
 <src.rf>manual</src.rf>
@@ -3799,7 +3799,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-039-p21s1w15">
@@ -3874,7 +3874,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-039-p21s1w24">

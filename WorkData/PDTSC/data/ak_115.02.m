@@ -1122,7 +1122,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -1581,7 +1581,7 @@
 </w.rf>
 <form>nejvíc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A---1</AM>
 <AM lemma="nejvíce" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -4173,7 +4173,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m115-d1t444-9">
@@ -4397,7 +4397,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m115-d1t447-12">
@@ -4570,14 +4570,14 @@
 <LM>w#w-d1t449-9</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m115-d1t449-10">
 <w.rf>
 <LM>w#w-d1t449-10</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m115-d1t449-11">
 <w.rf>
@@ -5222,7 +5222,7 @@
 </w.rf>
 <form>méně</form>
 <tag>
-<AM lemma="málo-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="méně" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="méně" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -5455,7 +5455,7 @@
 <AM lemma="Karolín_;G" src="auto">NNIS6-----A---1</AM>
 <AM lemma="Karolín_;Y_,t" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Karolín_;Y_,t" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Karolína_;G_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Karolínum_;G" src="auto">NNNS3-----A----</AM>
 <AM lemma="Karolínum_;G" src="auto">NNNS6-----A----</AM>
 </tag>

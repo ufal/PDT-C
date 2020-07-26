@@ -893,7 +893,7 @@
 <LM>w#w-lnd92258-032-p4s1w18</LM>
 </w.rf>
 <form>Manfred</form>
-<tag lemma="Manfréd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Manfred_;Y_,s_^(^DD**Manfréd)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-032-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1380,7 +1380,7 @@
 <LM>w#w-lnd92258-032-p6s1w28</LM>
 </w.rf>
 <form>stranou</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92258-032-p6s1w29">
 <src.rf>manual</src.rf>
@@ -1588,7 +1588,7 @@
 <LM>w#w-lnd92258-032-p7s1w23</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd92258-032-p7s1w24">
 <src.rf>manual</src.rf>
@@ -1886,7 +1886,7 @@
 <form>TASS</form>
 <tag>
 <AM lemma="TASS_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TASS_;m_^(ruská_tisková_agentura)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-032-p8s2w8">

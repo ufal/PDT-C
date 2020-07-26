@@ -689,7 +689,7 @@
 <LM>w#w-mf920901-059-p4s1w1</LM>
 </w.rf>
 <form>Potřetí</form>
-<tag lemma="potřetí" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="potřetí" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920901-059-p4s1w2">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-mf920901-059-p4s1w5</LM>
 </w.rf>
 <form>stali</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-059-p4s1w6">
 <src.rf>manual</src.rf>

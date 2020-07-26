@@ -199,7 +199,7 @@
 <LM>w#w-lnd92251-088-p2s2w13</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92251-088-p2s2w14">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <form>Bohemians</form>
 <tag>
 <AM lemma="Bohemians_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Bohemians_;Y_;m" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-088-p2s4w8">

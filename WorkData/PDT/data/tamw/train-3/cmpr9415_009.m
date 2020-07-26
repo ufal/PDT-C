@@ -89,7 +89,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p3s1w4">
@@ -185,7 +185,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p5s1w5">
@@ -354,7 +354,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p7s1w10">
@@ -515,7 +515,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s1w8">
@@ -768,7 +768,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s3w5">
@@ -779,7 +779,7 @@
 <form>n</form>
 <tag>
 <AM lemma="nad-1_:B" src="orig">RR--7---------8</AM>
-<AM lemma="nad-1" src="manual" selected="1">RR--7---------8</AM>
+<AM lemma="nad-1" src="manual" selected="1">RR--7---------b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s3w6">
@@ -806,7 +806,7 @@
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="moře" src="manual">NNNS7-----A----</AM>
-<AM lemma="moře" src="manual" selected="1">NNNS7-----A---8</AM>
+<AM lemma="moře" src="manual" selected="1">NNNS7-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s3w8">
@@ -864,7 +864,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s3w14">
@@ -875,7 +875,7 @@
 <form>n</form>
 <tag>
 <AM lemma="nad-1_:B" src="orig">RR--7---------8</AM>
-<AM lemma="nad-1" src="manual" selected="1">RR--7---------8</AM>
+<AM lemma="nad-1" src="manual" selected="1">RR--7---------b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s3w15">
@@ -901,7 +901,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="moře" src="manual" selected="1">NNNXX-----A---b</AM>
+<AM lemma="moře" src="manual" selected="1">NNNS7-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s3w17">
@@ -1042,7 +1042,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s5w3">

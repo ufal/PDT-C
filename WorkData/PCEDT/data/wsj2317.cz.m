@@ -1407,7 +1407,7 @@
 <LM>w#w-wsj2317-001-p1s4W5</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2317-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1699,7 +1699,7 @@
 <LM>w#w-wsj2317-001-p1s5W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj2317-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1707,7 +1707,7 @@
 <LM>w#w-wsj2317-001-p1s5W2</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2317-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2187,7 +2187,7 @@
 <LM>w#w-wsj2317-001-p1s6W14</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2317-001-p1s6W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2867,7 +2867,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2317-001-p1s9W2-Ta">
@@ -3645,7 +3645,7 @@
 <LM>w#w-wsj2317-001-p1s11W14</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2317-001-p1s11W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4106,7 +4106,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2317-001-p1s13W2-Ta">

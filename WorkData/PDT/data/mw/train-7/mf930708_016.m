@@ -961,7 +961,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-016-p3s6w5">
@@ -1211,7 +1211,7 @@
 <LM>w#w-mf930708-016-p3s9w1</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-016-p3s9w2">
 <src.rf>manual</src.rf>
@@ -1337,7 +1337,7 @@
 <LM>w#w-mf930708-016-p3s9w18</LM>
 </w.rf>
 <form>správně</form>
-<tag lemma="správně_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930708-016-p3s9w19">
 <src.rf>manual</src.rf>
@@ -1405,7 +1405,7 @@
 <form>ČSSD</form>
 <tag>
 <AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSSD_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-016-p3s10w5">
@@ -1446,7 +1446,7 @@
 <LM>w#w-mf930708-016-p3s10w9</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-mf930708-016-p3s10w10">
 <src.rf>manual</src.rf>
@@ -1502,7 +1502,7 @@
 <LM>w#w-mf930708-016-p3s10w16</LM>
 </w.rf>
 <form>bezcelně</form>
-<tag lemma="bezcelně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="bezcelně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930708-016-p3s10w17">
 <src.rf>manual</src.rf>

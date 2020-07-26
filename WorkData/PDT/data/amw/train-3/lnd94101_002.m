@@ -139,7 +139,7 @@
 <LM>w#w-lnd94101-002-p1s1w16</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94101-002-p1s1w17">
 <src.rf>manual</src.rf>

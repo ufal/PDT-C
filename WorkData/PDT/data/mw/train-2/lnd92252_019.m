@@ -235,7 +235,7 @@
 <form>Együttélés</form>
 <tag>
 <AM lemma="Együttélés_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Együttélés_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Együttélés-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-019-p3s2w12">
@@ -824,7 +824,7 @@
 <LM>w#w-lnd92252-019-p3s5w34</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92252-019-p3s5w35">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-lnd92252-019-p3s5w39</LM>
 </w.rf>
 <form>slovensko</form>
-<tag lemma="slovenský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="slovensko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92252-019-p3s5w40">
 <src.rf>manual</src.rf>

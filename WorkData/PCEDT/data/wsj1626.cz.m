@@ -8686,7 +8686,7 @@
 <LM>w#w-wsj1626-001-p1s27W14</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1626-001-p1s27W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8727,7 +8727,7 @@
 <LM>w#w-wsj1626-001-p1s27W18</LM>
 </w.rf>
 <form>předejít</form>
-<tag lemma="předejít_^(díky_rychlejší_chůzi)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="předejít_^(díky_rychlejší_chůzi;;předejít_zřícení)" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1626-001-p1s27W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9695,7 +9695,7 @@
 <LM>w#w-wsj1626-001-p1s31W8</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1626-001-p1s31W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9920,7 +9920,7 @@
 <LM>w#w-wsj1626-001-p1s31W27</LM>
 </w.rf>
 <form>KLM</form>
-<tag lemma="KLM_;m" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="KLM-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1626-001-p1s31W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11174,7 +11174,7 @@
 <LM>w#w-wsj1626-001-p1s36W5</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1626-001-p1s36W6-Ta">
 <src.rf>tagger-a</src.rf>

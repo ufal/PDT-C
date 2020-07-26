@@ -2897,7 +2897,7 @@
 <LM>w#w-wsj1410-001-p1s7W10</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1410-001-p1s7W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4083,7 +4083,7 @@
 <LM>w#w-wsj1410-001-p1s11W30</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1410-001-p1s11W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5841,7 +5841,7 @@
 </w.rf>
 <form>Lancia</form>
 <tag>
-<AM lemma="Lancia_;m" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Lancia_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="lancia_;m" src="auto">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -6261,7 +6261,7 @@
 <LM>w#w-wsj1410-001-p1s17W8</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj1410-001-p1s17W9-Ta">
 <src.rf>tagger-a</src.rf>

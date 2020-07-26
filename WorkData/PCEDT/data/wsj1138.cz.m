@@ -2004,7 +2004,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1138-001-p1s5W6-Ta">
@@ -3115,7 +3115,7 @@
 <LM>w#w-wsj1138-001-p1s8W12</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1138-001-p1s8W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3735,7 +3735,7 @@
 <LM>w#w-wsj1138-001-p1s9W27</LM>
 </w.rf>
 <form>potřebou</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1138-001-p1s9W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4090,7 +4090,7 @@
 <tag>
 <AM lemma="politik" src="auto">NNMS2-----A----</AM>
 <AM lemma="politik" src="auto">NNMS4-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP5-----A----</AM>
@@ -4911,7 +4911,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1138-001-p1s11W43-Ta">
@@ -5783,7 +5783,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1138-001-p1s11W109-Ta">

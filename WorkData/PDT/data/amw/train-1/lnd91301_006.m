@@ -689,7 +689,7 @@
 <LM>w#w-lnd91301-006-p4s4w14</LM>
 </w.rf>
 <form>jordánsko</form>
-<tag lemma="jordánský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="jordánsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd91301-006-p4s4w15">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-lnd91301-006-p4s4w33</LM>
 </w.rf>
 <form>Kanada</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-006-p4s4w34">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-lnd91301-006-p4s6w5</LM>
 </w.rf>
 <form>Vladimir</form>
-<tag lemma="Vladimir_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vladimir_;Y_,s_^(^DD**Vladimír)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-006-p4s6w6">
 <src.rf>manual</src.rf>

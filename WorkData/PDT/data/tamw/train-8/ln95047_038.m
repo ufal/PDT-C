@@ -236,7 +236,7 @@
 <LM>w#w-ln95047-038-p2s2w1</LM>
 </w.rf>
 <form>Vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95047-038-p2s2w2">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-ln95047-038-p2s3w15</LM>
 </w.rf>
 <form>politikou</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95047-038-p2s3w16">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-038-p2s4w4">
@@ -1355,7 +1355,7 @@
 <form>mohla</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VpQW----R-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95047-038-p4s1w11">
@@ -1816,7 +1816,7 @@
 <form>stávají</form>
 <tag>
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VB-P---3P-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="manual" selected="1">VB-P---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95047-038-p4s4w31">
@@ -1893,7 +1893,7 @@
 <form>mohl</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95047-038-p5s1w9">
@@ -2022,7 +2022,7 @@
 <LM>w#w-ln95047-038-p5s2w3</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95047-038-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2049,7 +2049,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFP2-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFP2-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-038-p5s2w7">

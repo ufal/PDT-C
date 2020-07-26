@@ -203,7 +203,7 @@
 <form>soc</form>
 <tag>
 <AM lemma="sociální_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="sociální" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="sociální" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m977-985-926">
@@ -225,7 +225,7 @@
 <AM lemma="demokracie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="demokratický_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="jít" src="auto">VB-P---1P-AAI-7</AM>
-<AM lemma="demokracie" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="demokracie" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m977-985-927">
@@ -283,7 +283,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="KSČ-1_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KSČ_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m977-d-id103203">
@@ -378,7 +378,7 @@
 <LM>w#w-id63008-8</LM>
 </w.rf>
 <form>nestal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="auto" recommended="1">VpYS----R-NAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m977-d-id103212">
 <w.rf>
@@ -394,7 +394,7 @@
 <LM>w#w-id63040-1</LM>
 </w.rf>
 <form>Nechme</form>
-<tag lemma="nechat" src="auto" recommended="1">Vi-P---1--A----</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vi-P---1--A-P-1</tag>
 </m>
 <m id="m977-id63040-2">
 <w.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-id63137-1</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m977-id63137-2">
 <w.rf>
@@ -1299,7 +1299,7 @@
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="dobře_^(*2rý)" src="manual">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m977-578-582">
@@ -1351,7 +1351,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m977-id63233-6">
@@ -1668,7 +1668,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m977-id63302-11">
@@ -2225,7 +2225,7 @@
 <LM>w#w-id63459-x1-215</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m977-id63459-x1-216">
 <w.rf>
@@ -2411,7 +2411,7 @@
 <AM lemma="půl-2" src="auto">NNFS1-----A----</AM>
 <AM lemma="půl-2" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="půl-3" src="auto">NNNXX-----A----</AM>
-<AM lemma="půl-1_^(*4olovina)" src="manual" selected="1">ClXS4----------</AM>
+<AM lemma="půl-1" src="manual" selected="1">Cl-XX----------</AM>
 </tag>
 </m>
 <m id="m977-id63511-7">
@@ -3185,7 +3185,7 @@
 <tag>
 <AM lemma="politik" src="auto">NNMS2-----A----</AM>
 <AM lemma="politik" src="auto">NNMS4-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP5-----A----</AM>
@@ -4025,7 +4025,7 @@
 <LM>w#w-id63762-7</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m977-id63781-1">
 <w.rf>
@@ -4185,7 +4185,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m977-id63837-9">
@@ -4479,7 +4479,7 @@
 <LM>w#w-id63848-20</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m977-id63848-21">
 <w.rf>
@@ -5104,7 +5104,7 @@
 <LM>w#w-id63950-15</LM>
 </w.rf>
 <form>umím</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m977-id63961-2">
 <w.rf>
@@ -5113,7 +5113,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m977-id63961-1">

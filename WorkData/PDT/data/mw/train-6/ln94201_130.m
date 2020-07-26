@@ -205,7 +205,7 @@
 <LM>w#w-ln94201-130-p2s1w17</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-ln94201-130-p2s1w18">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-ln94201-130-p2s4w5</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94201-130-p2s4w6">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94201-130-p2s4w9">
@@ -772,7 +772,7 @@
 <form>sv</form>
 <tag>
 <AM lemma="svazek_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94201-130-p2s4w22">

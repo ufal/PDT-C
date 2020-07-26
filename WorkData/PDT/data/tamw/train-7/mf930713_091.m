@@ -420,7 +420,7 @@
 <LM>w#w-mf930713-091-p2s2w15</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930713-091-p2s2w16">
 <src.rf>manual</src.rf>

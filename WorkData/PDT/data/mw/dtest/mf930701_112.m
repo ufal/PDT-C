@@ -27,7 +27,7 @@
 <LM>w#w-mf930701-112-p1s1w2</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-112-p1s1w3">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-mf930701-112-p2s3w20</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930701-112-p2s3w21">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-mf930701-112-p2s6w4</LM>
 </w.rf>
 <form>Spartou</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf930701-112-p2s6w5">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <LM>w#w-mf930701-112-p2s8w4</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930701-112-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1177,7 +1177,7 @@
 <LM>w#w-mf930701-112-p2s11w5</LM>
 </w.rf>
 <form>vydělat</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930701-112-p2s11w6">
 <src.rf>manual</src.rf>
@@ -1219,7 +1219,7 @@
 <LM>w#w-mf930701-112-p2s12w4</LM>
 </w.rf>
 <form>nebráníme</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-P---1P-NAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-mf930701-112-p2s12w5">
 <src.rf>manual</src.rf>

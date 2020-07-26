@@ -91,7 +91,7 @@
 <LM>w#w-d1t569-22</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m111-d-id92046-punct">
 <w.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-d1t571-4</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m111-d1t571-5">
 <w.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-d1t581-1</LM>
 </w.rf>
 <form>Umíte</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-P---2P-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m111-d1t581-2">
 <w.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-d1t606-36</LM>
 </w.rf>
 <form>vzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m111-d1t606-37">
 <w.rf>
@@ -1879,7 +1879,7 @@
 <LM>w#w-d1t652-26</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m111-d1t652-24">
 <w.rf>
@@ -2623,7 +2623,7 @@
 <LM>w#w-d1t686-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m111-d1t686-5">
 <w.rf>
@@ -2916,7 +2916,7 @@
 <LM>w#w-d1t690-17</LM>
 </w.rf>
 <form>Koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m111-d1t690-15">
 <w.rf>
@@ -3004,7 +3004,7 @@
 <LM>w#w-d1t690-23</LM>
 </w.rf>
 <form>žebrovka</form>
-<tag lemma="žebrovka_;U" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="žebrovka" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m111-d-id97883-punct">
 <w.rf>
@@ -3058,7 +3058,7 @@
 <LM>w#w-d1t690-31</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m111-d1t690-32">
 <w.rf>
@@ -3415,7 +3415,7 @@
 <LM>w#w-d1t706-6</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m111-d1t706-7">
 <w.rf>
@@ -3448,7 +3448,7 @@
 <LM>w#w-d1t706-9</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m111-d-id98705-punct">
 <w.rf>
@@ -3548,7 +3548,7 @@
 <LM>w#w-d1t710-14</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m111-d1t710-13">
 <w.rf>

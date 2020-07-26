@@ -237,7 +237,7 @@
 <LM>w#w-mf930709-006-p6s3w13</LM>
 </w.rf>
 <form>nemile</form>
-<tag lemma="mile-1_^(příjemný)_(*3ý-1)" src="orig" selected="1">Dg-------1N----</tag>
+<tag lemma="mile-1_^(*3ý-1)" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-mf930709-006-p6s3w14">
 <src.rf>manual</src.rf>

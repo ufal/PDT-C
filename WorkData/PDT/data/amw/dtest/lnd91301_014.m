@@ -749,7 +749,7 @@
 <LM>w#w-lnd91301-014-p5s1w11</LM>
 </w.rf>
 <form>Rusů</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91301-014-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1237,7 +1237,7 @@
 <form>vzít</form>
 <tag>
 <AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig">Vf--------A----</AM>
-<AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="vzít" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p6s3w13">
@@ -1380,7 +1380,7 @@
 <LM>w#w-lnd91301-014-p6s4w11</LM>
 </w.rf>
 <form>politikou</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91301-014-p6s4w12">
 <src.rf>manual</src.rf>
@@ -1438,7 +1438,7 @@
 <LM>w#w-lnd91301-014-p6s5w2</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-1_;m_^(Slov._nár._strana)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="SNS-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91301-014-p6s5w3">
 <src.rf>manual</src.rf>
@@ -1978,7 +1978,7 @@
 <form>TASS</form>
 <tag>
 <AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TASS_;m_^(ruská_tisková_agentura)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p7s2w6">
@@ -2270,7 +2270,7 @@
 <form>TASS</form>
 <tag>
 <AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TASS_;m_^(ruská_tisková_agentura)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p7s5w2">
@@ -3559,7 +3559,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SSSR_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p9s1w30">
@@ -4803,7 +4803,7 @@
 <LM>w#w-lnd91301-014-p13s1w26</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd91301-014-p13s1w27">
 <src.rf>manual</src.rf>
@@ -5196,7 +5196,7 @@
 <form>říci</form>
 <tag>
 <AM lemma="říci" src="auto">Vf--------A---1</AM>
-<AM lemma="říci" src="manual" selected="1">Vf--------A-P-1</AM>
+<AM lemma="říci" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p13s3Bw5">
@@ -5530,7 +5530,7 @@
 <form>nestalo</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-NA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpNS----R-NAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p13s7w9">
@@ -5747,7 +5747,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p14s2w14">
@@ -6126,7 +6126,7 @@
 <LM>w#w-lnd91301-014-p15s2w23</LM>
 </w.rf>
 <form>mohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-lnd91301-014-p15s2w24">
 <src.rf>manual</src.rf>

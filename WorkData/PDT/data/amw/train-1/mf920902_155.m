@@ -23,7 +23,7 @@
 <AM lemma="Stasi_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Stasi_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Stasi_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Stasi_;m_^(Staatssicherheitsdienst)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-155-p1s1Aw2">
@@ -178,7 +178,7 @@
 <AM lemma="Stasi_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Stasi_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Stasi_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Stasi_;m_^(Staatssicherheitsdienst)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-155-p2s2w8">
@@ -546,7 +546,7 @@
 <LM>w#w-mf920902-155-p3s1w19</LM>
 </w.rf>
 <form>zatčen</form>
-<tag lemma="zatknout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-mf920902-155-p3s1w20">
 <src.rf>manual</src.rf>
@@ -600,7 +600,7 @@
 <AM lemma="Stasi_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Stasi_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Stasi_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Stasi_;m_^(Staatssicherheitsdienst)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-155-p4s1w2">
@@ -948,7 +948,7 @@
 <AM lemma="Stasi_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;m" src="auto">NNFXX-----A----</AM>
 <AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Stasi_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Stasi_;m_^(Staatssicherheitsdienst)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-155-p4s3w6">

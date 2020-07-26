@@ -512,7 +512,7 @@
 <LM>w#w-mf930702-046-p2s2w9</LM>
 </w.rf>
 <form>umějí</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="umět" src="auto" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-046-p2s2w10">
 <src.rf>manual</src.rf>
@@ -1149,7 +1149,7 @@
 <LM>w#w-mf930702-046-p4s3w8</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930702-046-p4s3w9">
 <src.rf>manual</src.rf>

@@ -169,7 +169,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-114-p1s5w11">
@@ -604,7 +604,7 @@
 <LM>w#w-lnd94103-114-p1s7w25</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-lnd94103-114-p1s7w26">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <form>Rus</form>
 <tag>
 <AM lemma="Rus_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rusko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Rusko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-114-p1s14w9">

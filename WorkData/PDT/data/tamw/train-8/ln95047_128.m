@@ -619,7 +619,7 @@
 <LM>w#w-ln95047-128-p3s1w3</LM>
 </w.rf>
 <form>zaměstnávat</form>
-<tag lemma="zaměstnávat-1_^(všeob._význam:_činnost,_zaměstnání)_(*6at-1)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="zaměstnávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95047-128-p3s1w4">
 <src.rf>manual</src.rf>

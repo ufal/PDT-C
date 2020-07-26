@@ -495,7 +495,7 @@
 <LM>w#w-ln95047-079-p3s2w8</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-ln95047-079-p3s2w9">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-ln95047-079-p3s4w5</LM>
 </w.rf>
 <form>obsažen</form>
-<tag lemma="obsáhnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="obsáhnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln95047-079-p3s4w6">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-079-p3s4w11">

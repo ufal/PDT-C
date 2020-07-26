@@ -329,7 +329,7 @@
 <LM>w#w-wsj0303-001-p1s0W26</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0303-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -953,7 +953,7 @@
 <LM>w#w-wsj0303-001-p1s2W9</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0303-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1031,7 +1031,7 @@
 <LM>w#w-wsj0303-001-p1s2W16</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0303-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>

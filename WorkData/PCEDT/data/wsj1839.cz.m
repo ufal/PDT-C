@@ -257,7 +257,7 @@
 <form>programech</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP6-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP6-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1839-001-p1s0W20-Ta">
@@ -947,7 +947,7 @@
 <LM>w#w-wsj1839-001-p1s2W39</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m-wsj1839-001-p1s2W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -966,7 +966,7 @@
 <LM>w#w-wsj1839-001-p1s2W41</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1839-001-p1s2W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1104,7 +1104,7 @@
 <LM>w#w-wsj1839-001-p1s3W10</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m-wsj1839-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1299,7 +1299,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1839-001-p1s4W11-Ta">
@@ -1402,7 +1402,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1839-001-p1s5W6-Ta">
@@ -1460,7 +1460,7 @@
 <LM>w#w-wsj1839-001-p1s5W11</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj1839-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2141,7 +2141,7 @@
 <LM>w#w-wsj1839-001-p1s7W38</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m-wsj1839-001-p1s7W39-Ta">
 <src.rf>tagger-a</src.rf>

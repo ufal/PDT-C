@@ -733,7 +733,7 @@
 <form>Čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-050-p2s3w27">
@@ -840,7 +840,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-050-p2s3w40">
@@ -1329,7 +1329,7 @@
 <LM>w#w-mf920922-050-p2s5w16</LM>
 </w.rf>
 <form>sežene</form>
-<tag lemma="sehnat" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920922-050-p2s5w17">
 <src.rf>manual</src.rf>
@@ -2537,7 +2537,7 @@
 <LM>w#w-mf920922-050-p2s10Aw23</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="orig" selected="1">PP-P7--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P7--1-------</tag>
 </m>
 <m id="m-mf920922-050-p2s10Aw24">
 <src.rf>manual</src.rf>
@@ -3067,7 +3067,7 @@
 <LM>w#w-mf920922-050-p2s13w12</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf920922-050-p2s13w13">
 <src.rf>manual</src.rf>
@@ -3282,7 +3282,7 @@
 <LM>w#w-mf920922-050-p2s15w8</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf920922-050-p2s15w9">
 <src.rf>manual</src.rf>
@@ -3438,7 +3438,7 @@
 <form>VIP</form>
 <tag>
 <AM lemma="VIP-1_:B_,t_^(very_important_person)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VIP-1_^(very_important_person)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="VIP_^(very_important_person)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-050-p2s16w11">
@@ -3535,7 +3535,7 @@
 <LM>w#w-mf920922-050-p2s16w22</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920922-050-p2s16w23">
 <src.rf>manual</src.rf>
@@ -3870,7 +3870,7 @@
 <LM>w#w-mf920922-050-p2s18w8</LM>
 </w.rf>
 <form>Martinu</form>
-<tag lemma="Martina_;Y" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Martina_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920922-050-p2s18w9">
 <src.rf>manual</src.rf>

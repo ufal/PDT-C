@@ -60,7 +60,7 @@
 <LM>w#w-lnd92254-085-p1s1w6</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="NHL_;m_^(Nár._hokejová_liga)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92254-085-p1s1w7">
 <src.rf>manual</src.rf>
@@ -78,7 +78,7 @@
 <form>ZOH</form>
 <tag>
 <AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZOH-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ZOH_^(Zimní_olympijské_hry)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -538,7 +538,7 @@
 <LM>w#w-lnd92254-085-p4s1w11</LM>
 </w.rf>
 <form>Rangers</form>
-<tag lemma="Rangers_;m" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Rangers-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-lnd92254-085-p4s1w12">
 <src.rf>manual</src.rf>
@@ -700,7 +700,7 @@
 <LM>w#w-lnd92254-085-p4s2w17</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="NHL_;m_^(Nár._hokejová_liga)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92254-085-p4s2w18">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-lnd92254-085-p4s4w3</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92254-085-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1397,7 +1397,7 @@
 <LM>w#w-lnd92254-085-p4s8w20</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92254-085-p4s8w21">
 <src.rf>manual</src.rf>
@@ -1799,7 +1799,7 @@
 <LM>w#w-lnd92254-085-p4s11w3</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="NHL_;m_^(Nár._hokejová_liga)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92254-085-p4s11w4">
 <src.rf>manual</src.rf>
@@ -2046,7 +2046,7 @@
 <LM>w#w-lnd92254-085-p4s13w1</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-085-p4s13w2">
 <src.rf>manual</src.rf>
@@ -2823,7 +2823,7 @@
 <LM>w#w-lnd92254-085-p6s1w18</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="NHL_;m_^(Nár._hokejová_liga)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92254-085-p6s1w19">
 <src.rf>manual</src.rf>
@@ -2953,7 +2953,7 @@
 <LM>w#w-lnd92254-085-p6s2w7</LM>
 </w.rf>
 <form>snů</form>
-<tag lemma="sen" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92254-085-p6s2w8">
 <src.rf>manual</src.rf>
@@ -2979,7 +2979,7 @@
 <form>ZOH</form>
 <tag>
 <AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZOH-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ZOH_^(Zimní_olympijské_hry)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-085-p6s2w11">
@@ -3028,7 +3028,7 @@
 <LM>w#w-lnd92254-085-p6s2w16</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="NHL_;m_^(Nár._hokejová_liga)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92254-085-p6s2w17">
 <src.rf>manual</src.rf>
@@ -3291,7 +3291,7 @@
 <LM>w#w-lnd92254-085-p6s4w3</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-lnd92254-085-p6s4w4">
 <src.rf>manual</src.rf>
@@ -3307,7 +3307,7 @@
 <LM>w#w-lnd92254-085-p6s4w5</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92254-085-p6s4w6">
 <src.rf>manual</src.rf>
@@ -3419,7 +3419,7 @@
 <LM>w#w-lnd92254-085-p6s4w19</LM>
 </w.rf>
 <form>nadšeni</form>
-<tag lemma="nadchnout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="nadchnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-lnd92254-085-p6s4w20">
 <src.rf>manual</src.rf>

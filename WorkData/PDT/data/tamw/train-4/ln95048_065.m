@@ -59,7 +59,7 @@
 <LM>w#w-ln95048-065-p1s1w6</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-065-p1s1w7">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <form>nechat</form>
 <tag>
 <AM lemma="nechat" src="orig">Vf--------A-I--</AM>
-<AM lemma="nechat" src="manual" selected="1">Vf--------A-I--</AM>
+<AM lemma="nechat" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-ln95048-065-p1s1w8">

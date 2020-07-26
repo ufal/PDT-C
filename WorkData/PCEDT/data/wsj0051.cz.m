@@ -3454,7 +3454,7 @@
 <LM>w#w-wsj0051-001-p1s11W3</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj0051-001-p1s11W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5012,7 +5012,7 @@
 <LM>w#w-wsj0051-001-p1s15W22</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0051-001-p1s15W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6859,7 +6859,7 @@
 <form>americko</form>
 <tag>
 <AM lemma="americký" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="americko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="americko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0051-001-p1s22W11-Ta">
@@ -6919,7 +6919,7 @@
 <LM>w#w-wsj0051-001-p1s22W15</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0051-001-p1s22W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7143,7 +7143,7 @@
 <LM>w#w-wsj0051-001-p1s23W8</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0051-001-p1s23W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7840,7 +7840,7 @@
 <LM>w#w-wsj0051-001-p1s25W12</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj0051-001-p1s25W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8280,7 +8280,7 @@
 <LM>w#w-wsj0051-001-p1s26W26</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj0051-001-p1s26W27-Ta">
 <src.rf>tagger-a</src.rf>

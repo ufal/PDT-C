@@ -2053,7 +2053,7 @@
 <LM>w#w-lnd92251-060-p6s3w7</LM>
 </w.rf>
 <form>stižen</form>
-<tag lemma="stihnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="stihnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-lnd92251-060-p6s3w8">
 <src.rf>manual</src.rf>
@@ -2856,7 +2856,7 @@
 <LM>w#w-lnd92251-060-p9s1w11</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92251-060-p9s1w12">
 <src.rf>manual</src.rf>
@@ -4540,7 +4540,7 @@
 <LM>w#w-lnd92251-060-p13s2w18</LM>
 </w.rf>
 <form>vydělal</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-060-p13s2w19">
 <src.rf>manual</src.rf>

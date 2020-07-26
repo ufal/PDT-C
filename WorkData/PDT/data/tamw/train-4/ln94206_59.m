@@ -444,7 +444,7 @@
 <LM>w#w-ln94206-59-p2s3w10</LM>
 </w.rf>
 <form>vydala</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94206-59-p2s3w11">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-ln94206-59-p2s3w14</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-59-p2s3w15">
 <src.rf>manual</src.rf>

@@ -49,7 +49,7 @@
 <tag>
 <AM lemma="služebna" src="auto">NNFS3-----A----</AM>
 <AM lemma="služebna" src="auto">NNFS6-----A----</AM>
-<AM lemma="služebně_^(poměr,byt,zbraň,...)_(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
+<AM lemma="služebně-1_^(*3ý-1)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m104-d1t297-55">
@@ -107,7 +107,7 @@
 <LM>w#w-d1t297-63</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m104-d1t297-64">
 <w.rf>
@@ -1156,7 +1156,7 @@
 <form>krátce</form>
 <tag>
 <AM lemma="krátce" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="krátce_^(*2ký)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="krátce" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m104-523-524">
@@ -1538,7 +1538,7 @@
 <LM>w#w-d1t318-46</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m104-d1t318-47">
 <w.rf>
@@ -2609,7 +2609,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m104-d1t353-3">
@@ -2702,7 +2702,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -3239,7 +3239,7 @@
 <LM>w#w-d1t379-3</LM>
 </w.rf>
 <form>průmyslovku</form>
-<tag lemma="průmyslovka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="průmyslovka_,h" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m104-593-594">
 <w.rf>
@@ -3319,7 +3319,7 @@
 <LM>w#w-d1t379-12</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m104-593-595">
 <w.rf>
@@ -3814,7 +3814,7 @@
 <LM>w#w-d1t391-18</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m104-d1t391-19">
 <w.rf>

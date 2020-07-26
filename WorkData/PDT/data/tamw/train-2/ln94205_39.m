@@ -178,7 +178,7 @@
 <LM>w#w-ln94205-39-p2s1Bw11</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-39-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -669,7 +669,7 @@
 <LM>w#w-ln94205-39-p3s2w16</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" selected="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-ln94205-39-p3s2w17">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 <LM>w#w-ln94205-39-p3s3w2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94205-39-p3s3w3">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <LM>w#w-ln94205-39-p3s4w3</LM>
 </w.rf>
 <form>Fortuna</form>
-<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fortuna_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-39-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <LM>w#w-ln94205-39-p4s1w8</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94205-39-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1075,7 +1075,7 @@
 <LM>w#w-ln94205-39-p4s1w15</LM>
 </w.rf>
 <form>průmyslovkách</form>
-<tag lemma="průmyslovka" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="průmyslovka_,h" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln94205-39-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1491,7 +1491,7 @@
 <LM>w#w-ln94205-39-p4s4w16</LM>
 </w.rf>
 <form>průmyslovka</form>
-<tag lemma="průmyslovka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="průmyslovka_,h" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-39-p4s4w17">
 <src.rf>manual</src.rf>

@@ -1063,7 +1063,7 @@
 <form>dříve</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A----</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m124-d1t1471-21">
@@ -1105,7 +1105,7 @@
 <LM>w#w-d1t1475-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m124-d1t1475-4">
 <w.rf>
@@ -1347,7 +1347,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m124-d1t1485-4">
@@ -1953,7 +1953,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m124-d1t1499-23">
@@ -3425,7 +3425,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m124-d1t1537-5">
@@ -3435,7 +3435,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m124-d1t1537-6">
@@ -3794,7 +3794,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m124-d1t1539-15">
@@ -4137,7 +4137,7 @@
 <LM>w#w-d1t1554-15</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m124-d1t1554-16">
 <w.rf>
@@ -4424,7 +4424,7 @@
 <form>Nejdřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------3A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------3A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m124-d1t1564-2">
@@ -4432,7 +4432,7 @@
 <LM>w#w-d1t1564-2</LM>
 </w.rf>
 <form>myslet</form>
-<tag lemma="myslet" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="myslit" src="auto" recommended="1">Vf--------A-I-1</tag>
 </m>
 <m id="m124-d-id154419-punct">
 <w.rf>
@@ -5237,7 +5237,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m124-d1t1581-4">
@@ -5309,7 +5309,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m124-d1t1589-3">
@@ -5365,7 +5365,7 @@
 <LM>w#w-d1t1591-3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m124-d1t1591-5">
 <w.rf>
@@ -5418,7 +5418,7 @@
 <LM>w#w-d1t1591-9</LM>
 </w.rf>
 <form>jedeme</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m124-d1t1591-10">
 <w.rf>

@@ -622,7 +622,7 @@
 <LM>w#w-cmpr9415-012-p9s2w4</LM>
 </w.rf>
 <form>Olympem</form>
-<tag lemma="Olymp_;G" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Olymp_;G_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-cmpr9415-012-p9s2w5">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-cmpr9415-012-p9s2w11</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-cmpr9415-012-p9s2w12">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <tag>
 <AM lemma="Thessaloniki_,t_^(název_festivalu)" src="auto">NNNXX-----A----</AM>
 <AM lemma="Thessaloniki_;G_;m_,s_^(^DD**Tesalonika)" src="manual">NNNS2-----A----</AM>
-<AM lemma="Thessaloniki_;G_;m_,s_^(^DD**Tesalonika)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Thessaloniki_;G_,s_^(Soluň)_(^DD**Tesalonika)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-012-p9s3w11">
@@ -930,7 +930,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-012-p10s1w7">
@@ -1117,7 +1117,7 @@
 <LM>w#w-cmpr9415-012-p10s2w3</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9415-012-p10s2w4">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <tag>
 <AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="WC-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="WC_^(záchod)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="WC_^(water_closet)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-012-p10s3Bw10">

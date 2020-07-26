@@ -526,7 +526,7 @@
 <LM>w#w-ln95043-040-p3s1w8</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln95043-040-p3s1w9">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 <LM>w#w-ln95043-040-p4s1w3</LM>
 </w.rf>
 <form>spořitelna</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-040-p4s1w4">
 <src.rf>manual</src.rf>

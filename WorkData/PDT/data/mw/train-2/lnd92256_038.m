@@ -509,7 +509,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-038-p3s3w21">
@@ -609,7 +609,7 @@
 <LM>w#w-lnd92256-038-p3s3w32</LM>
 </w.rf>
 <form>politiku</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92256-038-p3s3w33">
 <src.rf>manual</src.rf>
@@ -909,7 +909,7 @@
 <LM>w#w-lnd92256-038-p3s5w6</LM>
 </w.rf>
 <form>stranami</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-lnd92256-038-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1039,7 +1039,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-038-p3s5w23">
@@ -1167,7 +1167,7 @@
 <LM>w#w-lnd92256-038-p3s7w4</LM>
 </w.rf>
 <form>pozbyde</form>
-<tag lemma="pozbýt" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pozbýt" src="orig" selected="1">VB-S---3P-AAP-1</tag>
 </m>
 <m id="m-lnd92256-038-p3s7w5">
 <src.rf>manual</src.rf>

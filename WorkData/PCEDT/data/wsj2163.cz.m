@@ -2291,7 +2291,7 @@
 <LM>w#w-wsj2163-001-p1s6W7</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj2163-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4853,7 +4853,7 @@
 <LM>w#w-wsj2163-001-p1s15W5</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m-wsj2163-001-p1s15W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4896,7 +4896,7 @@
 <LM>w#w-wsj2163-001-p1s15W10</LM>
 </w.rf>
 <form>kdybyste</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m-wsj2163-001-p1s15W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5456,7 +5456,7 @@
 <LM>w#w-wsj2163-001-p1s18W5</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj2163-001-p1s18W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5904,7 +5904,7 @@
 <LM>w#w-wsj2163-001-p1s20W2</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2163-001-p1s20W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6094,7 +6094,7 @@
 <LM>w#w-wsj2163-001-p1s21W3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2163-001-p1s21W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6945,7 +6945,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2163-001-p1s23W23-Ta">

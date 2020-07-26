@@ -85,7 +85,7 @@
 <LM>w#w-ln95048-120-p2s1w5</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95048-120-p2s1w6">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-ln95048-120-p2s2w23</LM>
 </w.rf>
 <form>právy</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95048-120-p2s2w24">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-ln95048-120-p2s3w3</LM>
 </w.rf>
 <form>Jitka</form>
-<tag lemma="Jitka-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jitka-1_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-120-p2s3w4">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <LM>w#w-ln95048-120-p2s5w30</LM>
 </w.rf>
 <form>rozvodech</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95048-120-p2s5w31">
 <src.rf>manual</src.rf>
@@ -1103,7 +1103,7 @@
 <form>ČSÚ</form>
 <tag>
 <AM lemma="ČSÚ_:B_;m_^(Český_statistický_úřad)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČSÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSÚ_;m_^(Český_statistický_úřad)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-120-p3s1w6">
@@ -1324,7 +1324,7 @@
 <LM>w#w-ln95048-120-p3s3w5</LM>
 </w.rf>
 <form>výhradně</form>
-<tag lemma="výhradně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="výhradně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95048-120-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1342,7 +1342,7 @@
 <form>ČSÚ</form>
 <tag>
 <AM lemma="ČSÚ_:B_;m_^(Český_statistický_úřad)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČSÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSÚ_;m_^(Český_statistický_úřad)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-120-p3s3w8">
@@ -1743,7 +1743,7 @@
 <form>ČSÚ</form>
 <tag>
 <AM lemma="ČSÚ_:B_;m_^(Český_statistický_úřad)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČSÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSÚ_;m_^(Český_statistický_úřad)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-120-p4s1w12">
@@ -2105,7 +2105,7 @@
 <form>ČSÚ</form>
 <tag>
 <AM lemma="ČSÚ_:B_;m_^(Český_statistický_úřad)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČSÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSÚ_;m_^(Český_statistický_úřad)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-120-p4s3w31">
@@ -2254,7 +2254,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-120-p4s4w5">
@@ -2313,7 +2313,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln95048-120-p4s4w12">
@@ -2348,7 +2348,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-120-p4s4w16">

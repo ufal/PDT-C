@@ -153,7 +153,7 @@
 <LM>w#w-mf920924-051-p4s1w9</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-051-p4s1w10">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-mf920924-051-p4s2w10</LM>
 </w.rf>
 <form>anesteziologicko</form>
-<tag lemma="anesteziologický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="anesteziologicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf920924-051-p4s2w11">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-mf920924-051-p4s3w18</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf920924-051-p4s3w19">
 <src.rf>manual</src.rf>
@@ -1839,7 +1839,7 @@
 <LM>w#w-mf920924-051-p6s3w16</LM>
 </w.rf>
 <form>cest</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920924-051-p6s3w17">
 <src.rf>manual</src.rf>
@@ -1855,7 +1855,7 @@
 <LM>w#w-mf920924-051-p6s3w18</LM>
 </w.rf>
 <form>podávají</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-051-p6s3w19">
 <src.rf>manual</src.rf>
@@ -2347,7 +2347,7 @@
 <LM>w#w-mf920924-051-p6s6w19</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf920924-051-p6s6w20">
 <src.rf>manual</src.rf>

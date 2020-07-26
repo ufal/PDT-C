@@ -111,7 +111,7 @@
 <LM>w#w-ln94206-77-p2s1Bw3</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-77-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-ln94206-77-p2s1Bw6</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94206-77-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln94206-77-p2s1Bw11</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94206-77-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <form>nejistotám</form>
 <tag>
 <AM lemma="nejistota" src="orig">NNFP3-----A----</AM>
-<AM lemma="jistota" src="manual" selected="1">NNFP3-----N----</AM>
+<AM lemma="nejistota" src="manual" selected="1">NNFP3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-77-p2s1Bw16">
@@ -284,7 +284,7 @@
 <LM>w#w-ln94206-77-p2s2w6</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94206-77-p2s2w7">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-77-p3s1w2">
@@ -1014,7 +1014,7 @@
 <form>zasažen</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="zasáhnout" src="manual" selected="1">VsYS----X-APP--</AM>
+<AM lemma="zasáhnout" src="manual" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln94206-77-p4s1w6">
@@ -1081,7 +1081,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-77-p4s1w14">
@@ -1269,7 +1269,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-77-p4s4w7">
@@ -1312,7 +1312,7 @@
 <LM>w#w-ln94206-77-p5s1w4</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94206-77-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1416,7 +1416,7 @@
 <LM>w#w-ln94206-77-p5s1w17</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94206-77-p5s1w18">
 <src.rf>manual</src.rf>

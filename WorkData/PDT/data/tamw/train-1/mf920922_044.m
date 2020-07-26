@@ -106,7 +106,7 @@
 <LM>w#w-mf920922-044-p1s1Bw3</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920922-044-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -764,7 +764,7 @@
 <LM>w#w-mf920922-044-p1s6w15</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="orig" selected="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACQW------A----</tag>
 </m>
 <m id="m-mf920922-044-p1s6w16">
 <src.rf>manual</src.rf>
@@ -1028,7 +1028,7 @@
 <LM>w#w-mf920922-044-p1s8w13</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920922-044-p1s8w14">
 <src.rf>manual</src.rf>
@@ -1142,7 +1142,7 @@
 <LM>w#w-mf920922-044-p1s9w5</LM>
 </w.rf>
 <form>nejdřív</form>
-<tag lemma="brzy" src="auto" selected="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" selected="1">Dg-------3A---1</tag>
 </m>
 <m id="m-mf920922-044-p1s9w6">
 <src.rf>manual</src.rf>
@@ -1697,7 +1697,7 @@
 <LM>w#w-mf920922-044-p1s13w9</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920922-044-p1s13w10">
 <src.rf>manual</src.rf>
@@ -1965,7 +1965,7 @@
 <LM>w#w-mf920922-044-p1s15w12</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920922-044-p1s15w13">
 <src.rf>manual</src.rf>

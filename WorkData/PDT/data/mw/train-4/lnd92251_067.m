@@ -153,7 +153,7 @@
 <LM>w#w-lnd92251-067-p3s2w10</LM>
 </w.rf>
 <form>vzaly</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-067-p3s2w11">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-lnd92251-067-p3s5w3</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92251-067-p3s5w4">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-lnd92251-067-p3s5w4</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92251-067-p3s5w5">
 <src.rf>manual</src.rf>

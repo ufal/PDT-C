@@ -1479,7 +1479,7 @@
 <LM>w#w-mf930708-176-p5s1w20</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="OSN_;m_^(Organizace_spojených_národů)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930708-176-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1521,7 +1521,7 @@
 <LM>w#w-mf930708-176-p5s2w4</LM>
 </w.rf>
 <form>politika</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-176-p5s2w5">
 <src.rf>manual</src.rf>

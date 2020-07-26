@@ -107,7 +107,7 @@
 <LM>w#w-lnd92254-100-p1s1w12</LM>
 </w.rf>
 <form>můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-lnd92254-100-p1s1w13">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-lnd92254-100-p1s1w13</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92254-100-p1s1w14">
 <src.rf>manual</src.rf>

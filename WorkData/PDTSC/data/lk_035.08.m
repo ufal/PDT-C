@@ -236,7 +236,7 @@
 <tag>
 <AM lemma="služebna" src="auto">NNFS3-----A----</AM>
 <AM lemma="služebna" src="auto">NNFS6-----A----</AM>
-<AM lemma="služebně_^(poměr,byt,zbraň,...)_(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="služebně-1_^(*3ý-1)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m035-d1t2593-13">
@@ -613,21 +613,21 @@
 <LM>w#w-d1t2605-9</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m035-d1t2605-10">
 <w.rf>
 <LM>w#w-d1t2605-10</LM>
 </w.rf>
 <form>sis</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3--2-------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--3--------s-</tag>
 </m>
 <m id="m035-d1t2605-11">
 <w.rf>
 <LM>w#w-d1t2605-11</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m035-d1t2605-12">
 <w.rf>
@@ -1999,7 +1999,7 @@
 </w.rf>
 <form>zastavila</form>
 <tag>
-<AM lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="auto" recommended="1">VpQW----R-AAP--</AM>
+<AM lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="zastavit-2_:W_^(zástavní_právo)" src="auto">VpQW---XR-AA---</AM>
 </tag>
 </m>
@@ -2635,7 +2635,7 @@
 <LM>w#w-d1t2667-12</LM>
 </w.rf>
 <form>texaskách</form>
-<tag lemma="texasky" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="texasky-2" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m035-d-id144286-punct">
 <w.rf>
@@ -2678,7 +2678,7 @@
 <LM>w#w-d1t2667-16</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m035-d1t2667-19">
 <w.rf>
@@ -2738,7 +2738,7 @@
 <LM>w#w-d1t2667-22</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m035-d-m-d1e2662-x2-punct-punct">
 <w.rf>
@@ -2939,7 +2939,7 @@
 <tag>
 <AM lemma="služebna" src="auto">NNFS3-----A----</AM>
 <AM lemma="služebna" src="auto">NNFS6-----A----</AM>
-<AM lemma="služebně_^(poměr,byt,zbraň,...)_(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="služebně-1_^(*3ý-1)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m035-d1t2683-17">
@@ -3103,7 +3103,7 @@
 <LM>w#w-d1t2691-2</LM>
 </w.rf>
 <form>Můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m035-d1t2691-3">
 <w.rf>
@@ -3315,7 +3315,7 @@
 <LM>w#w-d1t2691-25</LM>
 </w.rf>
 <form>Vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m035-d1t2691-23">
 <w.rf>
@@ -4206,7 +4206,7 @@
 <LM>w#w-d1t2742-7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m035-d-id147629-punct">
 <w.rf>
@@ -4362,7 +4362,7 @@
 <LM>w#w-d1t2752-11</LM>
 </w.rf>
 <form>uměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m035-d1t2752-12">
 <w.rf>
@@ -4613,7 +4613,7 @@
 <LM>w#w-d1t2754-5</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m035-d1t2754-6">
 <w.rf>
@@ -5026,7 +5026,7 @@
 <LM>w#w-d1t2788-12</LM>
 </w.rf>
 <form>uměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m035-d1t2788-13">
 <w.rf>

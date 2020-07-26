@@ -255,7 +255,7 @@
 <LM>w#w-mf920925-092-p2s2w14</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-092-p2s2w15">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <LM>w#w-mf920925-092-p2s2w24</LM>
 </w.rf>
 <form>Dagmar</form>
-<tag lemma="Dagmar_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Dagmar_;Y_;m" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920925-092-p2s2w25">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-mf920925-092-p2s3w13</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf920925-092-p2s3w14">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-mf920925-092-p2s5w19</LM>
 </w.rf>
 <form>Dnem</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf920925-092-p2s5w20">
 <src.rf>manual</src.rf>

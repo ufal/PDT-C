@@ -1184,7 +1184,7 @@
 <LM>w#w-ln94211-79-p5s1w8</LM>
 </w.rf>
 <form>maďarsko</form>
-<tag lemma="maďarský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="maďarsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94211-79-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1540,7 +1540,7 @@
 <LM>w#w-ln94211-79-p6s1w13</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94211-79-p6s1w14">
 <src.rf>manual</src.rf>
@@ -1687,7 +1687,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-79-p6s1w32">
@@ -1746,7 +1746,7 @@
 <LM>w#w-ln94211-79-p6s2w6</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-79-p6s2w7">
 <src.rf>manual</src.rf>
@@ -2004,7 +2004,7 @@
 <LM>w#w-ln94211-79-p7s1w16</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-79-p7s1w17">
 <src.rf>manual</src.rf>

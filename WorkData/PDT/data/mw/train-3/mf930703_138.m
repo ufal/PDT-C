@@ -59,7 +59,7 @@
 <LM>w#w-mf930703-138-p1s1w6</LM>
 </w.rf>
 <form>tádžicko</form>
-<tag lemma="tádžický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="tádžicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930703-138-p1s1w7">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-mf930703-138-p2s1w3</LM>
 </w.rf>
 <form>Nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930703-138-p2s1w4">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-mf930703-138-p2s1w31</LM>
 </w.rf>
 <form>tádžicko</form>
-<tag lemma="tádžický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="tádžicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930703-138-p2s1w32">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-mf930703-138-p3s1w11</LM>
 </w.rf>
 <form>tádžicko</form>
-<tag lemma="tádžický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="tádžicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930703-138-p3s1w12">
 <src.rf>manual</src.rf>

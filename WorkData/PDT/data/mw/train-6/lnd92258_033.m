@@ -70,7 +70,7 @@
 <LM>w#w-lnd92258-033-p1s1w7</LM>
 </w.rf>
 <form>Nerad</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------N----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------N----</tag>
 </m>
 <m id="m-lnd92258-033-p1s1w8">
 <src.rf>manual</src.rf>
@@ -78,7 +78,7 @@
 <LM>w#w-lnd92258-033-p1s1w8</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-lnd92258-033-p1s1w9">
 <src.rf>manual</src.rf>

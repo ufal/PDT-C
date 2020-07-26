@@ -504,7 +504,7 @@
 <LM>w#w-d1t2664-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m041-d1t2664-4">
 <w.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-d1t2664-5</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m041-d1t2664-6">
 <w.rf>
@@ -1124,7 +1124,7 @@
 <LM>w#w-d1t2688-4</LM>
 </w.rf>
 <form>sehnal</form>
-<tag lemma="sehnat" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m041-d1t2688-5">
 <w.rf>
@@ -1340,7 +1340,7 @@
 <LM>w#w-d1t2693-9</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m041-505-508">
 <w.rf>
@@ -2336,7 +2336,7 @@
 <LM>w#w-d1t2730-9</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m041-d1t2730-10">
 <w.rf>
@@ -2605,7 +2605,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -4186,7 +4186,7 @@
 <form>nejdřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------3A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------3A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m041-d1t2846-5">
@@ -4701,7 +4701,7 @@
 <AM lemma="nedávno-2" src="auto">NNNS1-----A----</AM>
 <AM lemma="nedávno-2" src="auto">NNNS4-----A----</AM>
 <AM lemma="nedávno-2" src="auto">NNNS5-----A----</AM>
-<AM lemma="dávno-1_^(*1ý)" src="manual" selected="1">Dg-------1N----</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
 </tag>
 </m>
 <m id="m041-d1t2865-12">
@@ -4757,7 +4757,7 @@
 <LM>w#w-d1t2867-4</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m041-d1t2867-5">
 <w.rf>

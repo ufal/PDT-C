@@ -587,7 +587,7 @@
 <form>stal</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94202-121-p2s4w5">
@@ -734,7 +734,7 @@
 <LM>w#w-ln94202-121-p2s5w2</LM>
 </w.rf>
 <form>Schalke</form>
-<tag lemma="Schalke_;m" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Schalke_;G_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-121-p2s5w3">
 <src.rf>manual</src.rf>
@@ -2381,7 +2381,7 @@
 <form>ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
+<AM lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-121-p3s6w22">
@@ -2779,7 +2779,7 @@
 <LM>w#w-ln94202-121-p4s1Bw21</LM>
 </w.rf>
 <form>remizovali</form>
-<tag lemma="remizovat" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="remizovat_,s_^(^DD**remízovat)" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln94202-121-p4s1Bw22">
 <src.rf>manual</src.rf>

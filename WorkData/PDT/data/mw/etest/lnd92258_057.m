@@ -777,7 +777,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="jaro" src="orig">NNNP2-----A----</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s4w12">
@@ -1757,7 +1757,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p5s2w6">
@@ -2202,7 +2202,7 @@
 <LM>w#w-lnd92258-057-p5s4w4</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p5s4w5">
 <src.rf>manual</src.rf>
@@ -2472,7 +2472,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p6s2w13">
@@ -2578,7 +2578,7 @@
 <tag>
 <AM lemma="FMZV_:B_;m_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FMZV-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FMZV_;m_^(Federální_ministerstvo_zahr._věcí)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p6s3w8">
@@ -2616,7 +2616,7 @@
 <tag>
 <AM lemma="FMZV_:B_;m_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FMZV-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FMZV_;m_^(Federální_ministerstvo_zahr._věcí)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p6s4w4">
@@ -2731,7 +2731,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p6s4w18">

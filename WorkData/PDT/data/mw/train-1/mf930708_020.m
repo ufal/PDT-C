@@ -51,7 +51,7 @@
 <LM>w#w-mf930708-020-p1s1w5</LM>
 </w.rf>
 <form>pasů</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930708-020-p1s1w6">
 <src.rf>manual</src.rf>

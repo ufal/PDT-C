@@ -225,7 +225,7 @@
 <LM>w#w-lnd92258-074-p2s2w4</LM>
 </w.rf>
 <form>výhradně</form>
-<tag lemma="výhradně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="výhradně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92258-074-p2s2w5">
 <src.rf>manual</src.rf>

@@ -32,7 +32,7 @@
 <LM>w#w-d1t2486-11</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m139-d1t2486-12">
 <w.rf>
@@ -309,7 +309,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m139-d-id124380-punct">
@@ -441,7 +441,7 @@
 <LM>w#w-d1t2515-4</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m139-d1t2515-5">
 <w.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-d1t2528-4</LM>
 </w.rf>
 <form>rády</form>
-<tag lemma="rád" src="auto" recommended="1">ACTP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACTP------A----</tag>
 </m>
 <m id="m139-d-id124992-punct">
 <w.rf>
@@ -812,7 +812,7 @@
 <LM>w#w-d1t2556-4</LM>
 </w.rf>
 <form>nemohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m139-d1e2529-x2-472">
 <w.rf>
@@ -1604,7 +1604,7 @@
 </w.rf>
 <form>více</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="více" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -1681,7 +1681,7 @@
 <LM>w#w-d1t2599-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m139-d1t2599-3">
 <w.rf>
@@ -1821,7 +1821,7 @@
 <LM>w#w-d1t2614-5</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m139-d-id127546-punct">
 <w.rf>
@@ -2086,7 +2086,7 @@
 <LM>w#w-d1t2631-4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m139-d1t2631-5">
 <w.rf>
@@ -2104,7 +2104,7 @@
 <LM>w#w-d1t2631-7</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m139-d1t2631-8">
 <w.rf>
@@ -2371,7 +2371,7 @@
 </w.rf>
 <form>nejvíce</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A----</AM>
 <AM lemma="nejvíce" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -3060,7 +3060,7 @@
 <LM>w#w-d1t2704-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m139-d1t2704-2">
 <w.rf>
@@ -3168,7 +3168,7 @@
 <LM>w#w-d1t2713-9</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m139-d-m-d1e2667-x2-punct-punct">
 <w.rf>
@@ -3419,7 +3419,7 @@
 <LM>w#w-d1t2746-4</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m139-d1t2746-5">
 <w.rf>
@@ -3446,7 +3446,7 @@
 <LM>w#w-d1t2748-2</LM>
 </w.rf>
 <form>můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m139-d1t2748-3">
 <w.rf>
@@ -3849,7 +3849,7 @@
 <LM>w#w-d1t2778-3</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m139-d1t2778-5">
 <w.rf>
@@ -4364,7 +4364,7 @@
 <LM>w#w-d1t2822-3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m139-d-id132494-punct">
 <w.rf>
@@ -4406,7 +4406,7 @@
 <LM>w#w-d1t2822-8</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m139-d1t2822-9">
 <w.rf>
@@ -4494,7 +4494,7 @@
 <LM>w#w-d1t2847-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m139-d-id132917-punct">
 <w.rf>
@@ -4622,7 +4622,7 @@
 <form>Nejdřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------3A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------3A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m139-d1t2863-1">
@@ -4723,7 +4723,7 @@
 <LM>w#w-d1t2866-6</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m139-d1t2866-9">
 <w.rf>
@@ -4991,7 +4991,7 @@
 <form>Nejdřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------3A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------3A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m139-d1t2879-3">
@@ -5354,7 +5354,7 @@
 <LM>w#w-d1t2909-7</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m139-d1e2898-x2-836">
 <w.rf>
@@ -5803,7 +5803,7 @@
 <LM>w#w-d1t2941-3</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m139-d1t2941-4">
 <w.rf>

@@ -331,7 +331,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln94207-72-p2s2w12">
@@ -478,7 +478,7 @@
 <LM>w#w-ln94207-72-p2s3w4</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94207-72-p2s3w5">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln94207-72-p2s3w21</LM>
 </w.rf>
 <form>přezdívali</form>
-<tag lemma="přezdívat-2_^(přejmenovat)_(*5t-2)" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="přezdívat_^(*3t)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94207-72-p2s3w22">
 <src.rf>manual</src.rf>
@@ -1431,7 +1431,7 @@
 <LM>w#w-ln94207-72-p4s1w12</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-72-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1705,7 +1705,7 @@
 <LM>w#w-ln94207-72-p4s2w16</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94207-72-p4s2w17">
 <src.rf>manual</src.rf>
@@ -1878,7 +1878,7 @@
 <LM>w#w-ln94207-72-p4s3w11</LM>
 </w.rf>
 <form>Pane</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS5-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-ln94207-72-p4s3w12">
 <src.rf>manual</src.rf>
@@ -2027,7 +2027,7 @@
 <form>stal</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94207-72-p4s4w8">
@@ -2674,7 +2674,7 @@
 <LM>w#w-ln94207-72-p4s7w11</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-ln94207-72-p4s7w12">
 <src.rf>manual</src.rf>
@@ -3045,7 +3045,7 @@
 </w.rf>
 <form>Hlasatel</form>
 <tag>
-<AM lemma="Hlasatel_;m" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="hlasatel" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="hlasatel" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -4288,7 +4288,7 @@
 <form>Myslel</form>
 <tag>
 <AM lemma="myslet" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="myslet" src="manual" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="myslit" src="manual" selected="1">VpYS----R-AAI-1</AM>
 </tag>
 </m>
 <m id="m-ln94207-72-p5s4w2">
@@ -4564,7 +4564,7 @@
 <LM>w#w-ln94207-72-p5s4w35</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94207-72-p5s4w36">
 <src.rf>manual</src.rf>
@@ -5087,7 +5087,7 @@
 <form>stal</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94207-72-p6s4w6">
@@ -5314,7 +5314,7 @@
 </w.rf>
 <form>Hlasatelem</form>
 <tag>
-<AM lemma="Hlasatel_;m" src="orig" selected="1">NNMS7-----A----</AM>
+<AM lemma="hlasatel" src="orig" selected="1">NNMS7-----A----</AM>
 <AM lemma="hlasatel" src="auto" recommended="1">NNMS7-----A----</AM>
 </tag>
 </m>
@@ -5461,7 +5461,7 @@
 </w.rf>
 <form>Hlasatel</form>
 <tag>
-<AM lemma="Hlasatel_;m" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="hlasatel" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="hlasatel" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>

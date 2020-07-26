@@ -78,7 +78,7 @@
 <LM>w#w-lnd94101-020-p1s2w3</LM>
 </w.rf>
 <form>dnem</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd94101-020-p1s2w4">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 <LM>w#w-lnd94101-020-p1s3w8</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-020-p1s3w9">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-lnd94101-020-p1s3w9</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-lnd94101-020-p1s3w10">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-lnd94101-020-p1s3w28</LM>
 </w.rf>
 <form>hodno</form>
-<tag lemma="hodný-1_^(být_hoden)" src="auto" selected="1">ACNS------A----</tag>
+<tag lemma="hodný_^(být_hoden;nezlobivý)" src="auto" selected="1">ACNS------A----</tag>
 </m>
 <m id="m-lnd94101-020-p1s3w29">
 <src.rf>manual</src.rf>

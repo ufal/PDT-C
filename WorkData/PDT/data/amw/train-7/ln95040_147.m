@@ -968,7 +968,7 @@
 <LM>w#w-ln95040-147-p5s1w5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95040-147-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1350,7 +1350,7 @@
 <LM>w#w-ln95040-147-p5s3w19</LM>
 </w.rf>
 <form>předán</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95040-147-p5s3w20">
 <src.rf>manual</src.rf>
@@ -1800,7 +1800,7 @@
 <LM>w#w-ln95040-147-p5s5w32</LM>
 </w.rf>
 <form>mediích</form>
-<tag lemma="medium" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="medium_,s_^(^DD**médium)" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95040-147-p5s5w33">
 <src.rf>manual</src.rf>

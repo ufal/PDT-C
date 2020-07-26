@@ -77,7 +77,7 @@
 <LM>w#w-ln94201-53-p2s1w4</LM>
 </w.rf>
 <form>tádžicko</form>
-<tag lemma="tádžický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="tádžicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94201-53-p2s1w5">
 <src.rf>manual</src.rf>
@@ -121,7 +121,7 @@
 <AM lemma="Petra_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Petr_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Petr_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Petra-1_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Petra_;G_;Y_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Petro_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Petro_;Y" src="auto">NNMS4-----A----</AM>
@@ -174,7 +174,7 @@
 <LM>w#w-ln94201-53-p2s1w15</LM>
 </w.rf>
 <form>tádžicko</form>
-<tag lemma="tádžický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="tádžicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94201-53-p2s1w16">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 <LM>w#w-ln94201-53-p2s1w20</LM>
 </w.rf>
 <form>bránit</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">Vf--------A-I--</tag>
+<tag lemma="bránit" src="auto" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94201-53-p2s1w21">
 <src.rf>manual</src.rf>
@@ -1429,7 +1429,7 @@
 <LM>w#w-ln94201-53-p4s4w4</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94201-53-p4s4w5">
 <src.rf>manual</src.rf>
@@ -2021,7 +2021,7 @@
 <LM>w#w-ln94201-53-p6s1w3</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94201-53-p6s1w4">
 <src.rf>manual</src.rf>
@@ -2705,7 +2705,7 @@
 <LM>w#w-ln94201-53-p8s1w7</LM>
 </w.rf>
 <form>islámsko</form>
-<tag lemma="islámský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="islámsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94201-53-p8s1w8">
 <src.rf>manual</src.rf>
@@ -3189,7 +3189,7 @@
 <LM>w#w-ln94201-53-p8s3w10</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94201-53-p8s3w11">
 <src.rf>manual</src.rf>
@@ -3903,7 +3903,7 @@
 <LM>w#w-ln94201-53-p9s4w7</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-ln94201-53-p9s4w8">
 <src.rf>manual</src.rf>
@@ -4236,7 +4236,7 @@
 <LM>w#w-ln94201-53-p10s2w8</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94201-53-p10s2w9">
 <src.rf>manual</src.rf>
@@ -4382,7 +4382,7 @@
 <LM>w#w-ln94201-53-p10s3w11</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94201-53-p10s3w12">
 <src.rf>manual</src.rf>

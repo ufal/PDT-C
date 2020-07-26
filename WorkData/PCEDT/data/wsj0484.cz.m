@@ -864,7 +864,7 @@
 <LM>w#w-wsj0484-001-p1s1W36</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0484-001-p1s1W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1103,7 +1103,7 @@
 <LM>w#w-wsj0484-001-p1s2W12</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj0484-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>

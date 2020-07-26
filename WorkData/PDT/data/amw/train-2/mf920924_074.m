@@ -161,7 +161,7 @@
 <LM>w#w-mf920924-074-p3s1Bw8</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-mf920924-074-p3s1Bw10">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-074-p3s2w16">
@@ -429,7 +429,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-074-p3s2w20">
@@ -539,7 +539,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-074-p3s3w13">
@@ -575,7 +575,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-074-p3s3w17">
@@ -702,7 +702,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-074-p3s4w15">
@@ -820,7 +820,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-074-p3s5w14">
@@ -855,7 +855,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-074-p3s5w18">
@@ -957,7 +957,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-074-p3s6w12">
@@ -993,7 +993,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-074-p3s6w16">
@@ -1127,7 +1127,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-074-p3s7w16">
@@ -1163,7 +1163,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-074-p3s7w20">
@@ -1240,7 +1240,7 @@
 <LM>w#w-mf920924-074-p3s9w1</LM>
 </w.rf>
 <form>Můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-mf920924-074-p3s9w2">
 <src.rf>manual</src.rf>
@@ -1296,7 +1296,7 @@
 <LM>w#w-mf920924-074-p3s9w8</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-mf920924-074-p3s9w9">
 <src.rf>manual</src.rf>

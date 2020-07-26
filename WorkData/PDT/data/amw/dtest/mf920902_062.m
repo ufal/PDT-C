@@ -292,7 +292,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-062-p2s1w13">
@@ -1011,7 +1011,7 @@
 <LM>w#w-mf920902-062-p2s6w1</LM>
 </w.rf>
 <form>Potřetí</form>
-<tag lemma="potřetí" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="potřetí" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920902-062-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1327,7 +1327,7 @@
 <LM>w#w-mf920902-062-p2s8w9</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf920902-062-p2s8w10">
 <src.rf>manual</src.rf>
@@ -1943,7 +1943,7 @@
 <LM>w#w-mf920902-062-p2s11w27</LM>
 </w.rf>
 <form>přeložit</form>
-<tag lemma="přeložit-1_^(přemístit)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="přeložit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920902-062-p2s11w28">
 <src.rf>manual</src.rf>

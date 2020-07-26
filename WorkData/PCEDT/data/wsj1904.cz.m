@@ -396,7 +396,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
-<AM lemma="Co-77" src="manual" selected="1">B%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1904-001-p1s0W29-Ta">
@@ -1400,7 +1400,7 @@
 <LM>w#w-wsj1904-001-p1s2W17</LM>
 </w.rf>
 <form>metylsalicylátem</form>
-<tag lemma="metylsalicylát_;U" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag lemma="metylsalicylát" src="auto" recommended="1">NNIS7-----A----</tag>
 </m>
 <m id="m-wsj1904-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1453,7 +1453,7 @@
 <LM>w#w-wsj1904-001-p1s2W21</LM>
 </w.rf>
 <form>aspirinem</form>
-<tag lemma="aspirin_;U" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag lemma="aspirin" src="auto" recommended="1">NNIS7-----A----</tag>
 </m>
 <m id="m-wsj1904-001-p1s2W22-Ta">
 <src.rf>tagger-a</src.rf>

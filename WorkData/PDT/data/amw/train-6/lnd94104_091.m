@@ -48,7 +48,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
 <AM lemma="hodně-3" src="manual">Dg-------3A----</AM>
-<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--1----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-091-p1s1Bw2">
@@ -969,7 +969,7 @@
 <LM>w#w-lnd94104-091-p1s5w22</LM>
 </w.rf>
 <form>editorka</form>
-<tag lemma="editorka_^(*2)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="editorka-1_^(*4-1)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-091-p1s5w23">
 <src.rf>manual</src.rf>

@@ -2155,7 +2155,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -5337,7 +5337,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -14794,7 +14794,7 @@
 <LM>w#w-wsj1884-001-p1s37W37</LM>
 </w.rf>
 <form>vázána</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" recommended="1">VsQW----X-API--</tag>
+<tag lemma="vázat" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj1884-001-p1s37W38-Ta">
 <src.rf>tagger-a</src.rf>

@@ -525,7 +525,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Fs-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-075-p3s2w5">
@@ -1184,7 +1184,7 @@
 <LM>w#w-mf930713-075-p4s3w6</LM>
 </w.rf>
 <form>nestalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-NAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf930713-075-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1652,7 +1652,7 @@
 <LM>w#w-mf930713-075-p5s1w19</LM>
 </w.rf>
 <form>předat</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="předat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-075-p5s1w20">
 <src.rf>manual</src.rf>
@@ -1710,7 +1710,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Fs-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-075-p5s1w27">
@@ -1737,7 +1737,7 @@
 <LM>w#w-mf930713-075-p5s2w2</LM>
 </w.rf>
 <form>Kdybych</form>
-<tag lemma="kdyby" src="orig" selected="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="orig" selected="1">J,-----------c-</tag>
 </m>
 <m id="m-mf930713-075-p5s2w4">
 <src.rf>manual</src.rf>
@@ -1801,7 +1801,7 @@
 <LM>w#w-mf930713-075-p5s2w11</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-mf930713-075-p5s2w12">
 <src.rf>manual</src.rf>
@@ -2080,7 +2080,7 @@
 <LM>w#w-mf930713-075-p5s4w9</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-075-p5s4w10">
 <src.rf>manual</src.rf>

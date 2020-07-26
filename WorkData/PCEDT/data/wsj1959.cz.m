@@ -141,7 +141,7 @@
 <LM>w#w-wsj1959-001-p1s0W13</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1959-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>

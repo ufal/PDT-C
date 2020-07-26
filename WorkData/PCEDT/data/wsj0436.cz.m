@@ -198,7 +198,7 @@
 <LM>w#w-wsj0436-001-p1s0W16</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0436-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2371,7 +2371,7 @@
 <LM>w#w-wsj0436-001-p1s7W29</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0436-001-p1s7W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2855,7 +2855,7 @@
 <LM>w#w-wsj0436-001-p1s9W19</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj0436-001-p1s9W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9179,7 +9179,7 @@
 <LM>w#w-wsj0436-001-p1s33W5</LM>
 </w.rf>
 <form>ukrást</form>
-<tag lemma="ukrást" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="ukradnout" src="auto" recommended="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-wsj0436-001-p1s33W6-Ta">
 <src.rf>tagger-a</src.rf>

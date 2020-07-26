@@ -1360,7 +1360,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1139-001-p1s4W5-Ta">
@@ -1597,7 +1597,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1139-001-p1s5W3-Ta">
@@ -1713,7 +1713,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>
@@ -4993,7 +4993,7 @@
 <form>Charlotte</form>
 <tag>
 <AM lemma="Charlotte_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Charlotte-2_;G" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Charlotte_;G_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1139-001-p1s14W8-Ta">
@@ -7019,7 +7019,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1139-001-p1s21W9-Ta">
@@ -7683,7 +7683,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -7793,7 +7793,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>

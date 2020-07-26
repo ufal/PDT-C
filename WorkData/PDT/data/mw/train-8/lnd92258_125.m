@@ -69,7 +69,7 @@
 <LM>w#w-lnd92258-125-p2s1w3</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ber-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92258-125-p2s1w4">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-lnd92258-125-p2s2w24</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92258-125-p2s2w25">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <form>ČMFL</form>
 <tag>
 <AM lemma="ČMFL_:B_;m_^(Č.-moravský_fotbalový_svaz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČMFL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČMFL_;m_^(Č.-moravský_fotbalový_svaz)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-125-p2s3w18">
@@ -892,7 +892,7 @@
 <LM>w#w-lnd92258-125-p2s6w29</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-125-p2s6w30">
 <src.rf>manual</src.rf>
@@ -918,7 +918,7 @@
 <LM>w#w-lnd92258-125-p2s7w1</LM>
 </w.rf>
 <form>Nemohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m-lnd92258-125-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 <LM>w#w-lnd92258-125-p2s9w13</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92258-125-p2s9w14">
 <src.rf>manual</src.rf>
@@ -1349,7 +1349,7 @@
 <LM>w#w-lnd92258-125-p2s10w10</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92258-125-p2s10w11">
 <src.rf>manual</src.rf>
@@ -1502,7 +1502,7 @@
 <LM>w#w-lnd92258-125-p2s10w29</LM>
 </w.rf>
 <form>Miroslavem</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92258-125-p2s10w30">
 <src.rf>manual</src.rf>

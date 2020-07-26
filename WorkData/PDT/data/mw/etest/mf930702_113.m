@@ -847,7 +847,7 @@
 <LM>w#w-mf930702-113-p3s2w20</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="OSN_;m_^(Organizace_spojených_národů)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930702-113-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1241,7 +1241,7 @@
 <LM>w#w-mf930702-113-p4s3w2</LM>
 </w.rf>
 <form>Přivezu</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">VB-S---1P-AAP--</tag>
+<tag lemma="přivézt" src="orig" selected="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m-mf930702-113-p4s3w3">
 <src.rf>manual</src.rf>
@@ -2304,7 +2304,7 @@
 <LM>w#w-mf930702-113-p5s2w33</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930702-113-p5s2w34">
 <src.rf>manual</src.rf>

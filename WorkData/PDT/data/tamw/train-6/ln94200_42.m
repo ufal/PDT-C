@@ -213,7 +213,7 @@
 <LM>w#w-ln94200-42-p2s1Cw14</LM>
 </w.rf>
 <form>událostmi</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln94200-42-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-ln94200-42-p2s2w4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-ln94200-42-p2s2w5">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-ln94200-42-p2s2w7</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-42-p2s2w8">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
+<AM lemma="§" src="auto" recommended="1" selected="1">Z:-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-42-p3s1w15">
@@ -760,7 +760,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln94200-42-p3s2w21">
@@ -949,7 +949,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
+<AM lemma="§" src="auto" recommended="1" selected="1">Z:-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-42-p4s1w3">
@@ -1022,7 +1022,7 @@
 <LM>w#w-ln94200-42-p4s1w11</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94200-42-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1332,7 +1332,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-42-p5s2w7">
@@ -2273,7 +2273,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
+<AM lemma="§" src="auto" recommended="1" selected="1">Z:-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-42-p7s3w16">
@@ -2324,7 +2324,7 @@
 <form>Sb</form>
 <tag>
 <AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94200-42-p7s3w22">
@@ -3205,7 +3205,7 @@
 <LM>w#w-ln94200-42-p8s2w14</LM>
 </w.rf>
 <form>dosti</form>
-<tag lemma="dost" src="auto" selected="1">Db------------1</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A---1</tag>
 </m>
 <m id="m-ln94200-42-p8s2w15">
 <src.rf>manual</src.rf>
@@ -3458,7 +3458,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94200-42-p8s4w13">
@@ -3535,7 +3535,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
+<AM lemma="§" src="auto" recommended="1" selected="1">Z:-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-42-p8s5w5">
@@ -3936,7 +3936,7 @@
 <LM>w#w-ln94200-42-p8s5w54</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-42-p8s5w55">
 <src.rf>manual</src.rf>

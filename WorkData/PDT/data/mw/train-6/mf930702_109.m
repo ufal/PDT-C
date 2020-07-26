@@ -916,7 +916,7 @@
 <LM>w#w-mf930702-109-p5s1w3</LM>
 </w.rf>
 <form>izraelsko</form>
-<tag lemma="izraelský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="izraelsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930702-109-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-mf930702-109-p5s2w13</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-mf930702-109-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-mf930702-109-p5s2w22</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-mf930702-109-p5s2w23">
 <src.rf>manual</src.rf>

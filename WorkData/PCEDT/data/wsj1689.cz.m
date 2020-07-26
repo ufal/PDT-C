@@ -2108,7 +2108,7 @@
 <LM>w#w-wsj1689-001-p1s7W39</LM>
 </w.rf>
 <form>obsaženo</form>
-<tag lemma="obsáhnout" src="auto" recommended="1">VsNS----X-APP--</tag>
+<tag lemma="obsáhnout" src="auto" recommended="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-wsj1689-001-p1s7W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3585,7 +3585,7 @@
 <LM>w#w-wsj1689-001-p1s12W14</LM>
 </w.rf>
 <form>podává</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1689-001-p1s12W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3861,7 +3861,7 @@
 <LM>w#w-wsj1689-001-p1s13W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1689-001-p1s13W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4072,7 +4072,7 @@
 <LM>w#w-wsj1689-001-p1s13W21</LM>
 </w.rf>
 <form>nechá</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-wsj1689-001-p1s13W22-Ta">
 <src.rf>tagger-a</src.rf>

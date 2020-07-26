@@ -289,7 +289,7 @@
 <LM>w#w-ln94203-55-p3s1w6</LM>
 </w.rf>
 <form>zastavil</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-55-p3s1w7">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-55-p3s2w10">
@@ -570,7 +570,7 @@
 <LM>w#w-ln94203-55-p3s2w13</LM>
 </w.rf>
 <form>předal</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-55-p3s2w14">
 <src.rf>manual</src.rf>

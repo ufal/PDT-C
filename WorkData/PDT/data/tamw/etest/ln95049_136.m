@@ -530,7 +530,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95049-136-p2s4w9">
@@ -555,7 +555,7 @@
 <LM>w#w-ln95049-136-p2s4w11</LM>
 </w.rf>
 <form>zaměstnáno</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="zaměstnat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95049-136-p2s4w12">
 <src.rf>manual</src.rf>

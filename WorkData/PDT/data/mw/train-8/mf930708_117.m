@@ -383,7 +383,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p2s2w6">
@@ -775,7 +775,7 @@
 <LM>w#w-mf930708-117-p3s6w3</LM>
 </w.rf>
 <form>It</form>
-<tag lemma="Itálie_;G" src="auto" selected="1">BNFXX-----A----</tag>
+<tag lemma="Itálie_;G" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf930708-117-p3s6w4">
 <src.rf>manual</src.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-mf930708-117-p3s10w3</LM>
 </w.rf>
 <form>Švýc</form>
-<tag lemma="Švýcarsko_;G" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="Švýcarsko_;G" src="orig" selected="1">NNNXX-----A---a</tag>
 </m>
 <m id="m-mf930708-117-p3s10w4">
 <src.rf>manual</src.rf>

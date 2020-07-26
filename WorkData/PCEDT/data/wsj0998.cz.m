@@ -1879,7 +1879,7 @@
 <LM>w#w-wsj0998-001-p1s7W8</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0998-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3580,7 +3580,7 @@
 <LM>w#w-wsj0998-001-p1s14W11</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0998-001-p1s14W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4906,7 +4906,7 @@
 <LM>w#w-wsj0998-001-p1s18W3</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0998-001-p1s18W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6997,7 +6997,7 @@
 <LM>w#w-wsj0998-001-p1s26W5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0998-001-p1s26W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8068,7 +8068,7 @@
 </w.rf>
 <form>Inc</form>
 <tag>
-<AM lemma="Inc-77" src="auto" recommended="1">B%-------------</AM>
+<AM lemma="Inc-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -10575,7 +10575,7 @@
 <LM>w#w-wsj0998-001-p1s39W2</LM>
 </w.rf>
 <form>Kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m-wsj0998-001-p1s39W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10660,7 +10660,7 @@
 <LM>w#w-wsj0998-001-p1s39W11</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0998-001-p1s39W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10766,7 +10766,7 @@
 <LM>w#w-wsj0998-001-p1s39W19</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0998-001-p1s39W20-Ta">
 <src.rf>tagger-a</src.rf>

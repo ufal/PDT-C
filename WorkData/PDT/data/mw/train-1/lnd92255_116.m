@@ -226,7 +226,7 @@
 <LM>w#w-lnd92255-116-p3s1w18</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-116-p3s1w19">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92255-116-p3s3w10">
@@ -574,7 +574,7 @@
 <LM>w#w-lnd92255-116-p4s1w1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92255-116-p4s1w2">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-1_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-116-p4s1w8">
@@ -667,7 +667,7 @@
 <LM>w#w-lnd92255-116-p4s2w1</LM>
 </w.rf>
 <form>Stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-116-p4s2w2">
 <src.rf>manual</src.rf>

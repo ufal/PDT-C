@@ -1084,7 +1084,7 @@
 <LM>w#w-wsj1998-001-p1s3W31</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například" src="auto" recommended="1">Db------------b</tag>
+<tag lemma="například" src="auto" recommended="1">TT------------b</tag>
 </m>
 <m id="m-wsj1998-001-p1s3W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1792,7 +1792,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="ovšem-2" src="manual" selected="1">J^-------------</AM>
+<AM lemma="ovšem" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1998-001-p1s6W17-Ta">
@@ -2190,7 +2190,7 @@
 <LM>w#w-wsj1998-001-p1s8W5</LM>
 </w.rf>
 <form>zasažena</form>
-<tag lemma="zasáhnout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="zasáhnout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj1998-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3181,7 +3181,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1998-001-p1s11W18-Ta">

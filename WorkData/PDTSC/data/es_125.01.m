@@ -36,7 +36,7 @@
 <LM>w#w-d1t186-7</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m125-d1t186-8">
 <w.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-d1t186-24</LM>
 </w.rf>
 <form>intenzivně</form>
-<tag lemma="intenzivně_,s_^(^DD**intenzívní)_(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</tag>
+<tag lemma="intenzivně_^(^DD**intenzívně)_(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m125-d1t186-25">
 <w.rf>
@@ -228,7 +228,7 @@
 <tag>
 <AM lemma="překládat-1_^(přemístit)" src="auto" recommended="1">VpQW----R-AAI--</AM>
 <AM lemma="překládat-2_^(přehnout)" src="auto">VpQW----R-AAI--</AM>
-<AM lemma="překládat-3_^(z_jazyka)" src="auto" selected="1">VpQW----R-AAI--</AM>
+<AM lemma="překládat" src="auto" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m125-d1e179-x2-229">
@@ -637,7 +637,7 @@
 <form>Nejdřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------3A---5</AM>
-<AM lemma="brzy" src="manual" selected="1">Dg-------3A---1</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m125-d1t210-2">
@@ -782,7 +782,7 @@
 <tag>
 <AM lemma="překládat-1_^(přemístit)" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="překládat-2_^(přehnout)" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="překládat-3_^(z_jazyka)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="překládat" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m125-265-291">
@@ -847,7 +847,7 @@
 </w.rf>
 <form>jede</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1" selected="1">VB-S---3P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -1181,7 +1181,7 @@
 <tag>
 <AM lemma="přeložit-1_:W_^(přemístit)" src="auto">Vf--------A----</AM>
 <AM lemma="přeložit-2_:W_^(přehnout)" src="auto">Vf--------A----</AM>
-<AM lemma="přeložit-3_^(z_jazyka)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="přeložit" src="auto" recommended="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m125-267-312">
@@ -1196,7 +1196,7 @@
 <LM>w#w-d1t223-5</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m125-d1t223-11">
 <w.rf>
@@ -1436,7 +1436,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m125-287-363">
@@ -1551,7 +1551,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m125-287-352">
@@ -1586,7 +1586,7 @@
 <LM>w#w-287-349</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m125-287-348">
 <w.rf>
@@ -1607,7 +1607,7 @@
 <tag>
 <AM lemma="přeložit-1_:W_^(přemístit)" src="auto" recommended="1">VpQW---XR-AA---</AM>
 <AM lemma="přeložit-2_:W_^(přehnout)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="přeložit-3_^(z_jazyka)" src="auto" selected="1">VpQW----R-AAP--</AM>
+<AM lemma="přeložit" src="auto" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m125-287-371">
@@ -1631,7 +1631,7 @@
 <LM>w#w-340-427</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m125-340-426">
 <w.rf>
@@ -1856,7 +1856,7 @@
 <form>pochopitelně</form>
 <tag>
 <AM lemma="pochopitelně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="pochopitelně-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="pochopitelně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m125-340-404">
@@ -2210,7 +2210,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m125-d1t234-16">
@@ -2425,7 +2425,7 @@
 <LM>w#w-d1t244-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m125-d1t244-4">
 <w.rf>
@@ -2498,7 +2498,7 @@
 <tag>
 <AM lemma="překládat-1_^(přemístit)" src="auto">VpQW----R-AAI--</AM>
 <AM lemma="překládat-2_^(přehnout)" src="auto">VpQW----R-AAI--</AM>
-<AM lemma="překládat-3_^(z_jazyka)" src="auto" recommended="1">VpQW----R-AAI--</AM>
+<AM lemma="překládat" src="auto" recommended="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m125-d1t254-1">
@@ -2679,7 +2679,7 @@
 <LM>w#w-482-503</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m125-482-504">
 <w.rf>
@@ -2976,7 +2976,7 @@
 <AM lemma="půl-1" src="auto">ClXS6----------</AM>
 <AM lemma="půl-1" src="auto">ClXS7----------</AM>
 <AM lemma="půl-2" src="auto">NNFS1-----A----</AM>
-<AM lemma="půl-2" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="půl-1" src="auto" recommended="1">Cl-XX----------</AM>
 <AM lemma="půl-3" src="auto">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -4005,7 +4005,7 @@
 <LM>w#w-d1t297-12</LM>
 </w.rf>
 <form>dejme</form>
-<tag lemma="dát" src="auto" recommended="1">Vi-P---1--A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m125-d1t297-13">
 <w.rf>
@@ -4207,7 +4207,7 @@
 <tag>
 <AM lemma="překládat-1_^(přemístit)" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="překládat-2_^(přehnout)" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="překládat-3_^(z_jazyka)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="překládat" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m125-d-m-d1e288-x2-punct-punct">
@@ -5059,7 +5059,7 @@
 <LM>w#w-d1t329-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m125-d1t329-3">
 <w.rf>
@@ -5089,7 +5089,7 @@
 <LM>w#w-d1t334-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m125-d1t334-3">
 <w.rf>
@@ -5375,7 +5375,7 @@
 <LM>w#w-d1t336-2</LM>
 </w.rf>
 <form>radši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m125-d1t336-3">
 <w.rf>
@@ -5480,7 +5480,7 @@
 <LM>w#w-d1t340-6</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m125-d1t340-7">
 <w.rf>
@@ -5508,7 +5508,7 @@
 <LM>w#w-d1t340-9</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m125-d1t340-10">
 <w.rf>
@@ -5832,7 +5832,7 @@
 <LM>w#w-d1t346-6</LM>
 </w.rf>
 <form>dejme</form>
-<tag lemma="dát" src="auto" recommended="1">Vi-P---1--A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m125-d1t346-7">
 <w.rf>

@@ -21,7 +21,7 @@
 <form>ČNHL</form>
 <tag>
 <AM lemma="ČNHL_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČNHL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČNHL_;m_^(Česká_národní_hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

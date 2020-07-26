@@ -175,7 +175,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92258-110-p2s1w16">
@@ -242,7 +242,7 @@
 <form>nám</form>
 <tag>
 <AM lemma="náměstí_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92258-110-p2s1w24">
@@ -451,7 +451,7 @@
 <form>nám</form>
 <tag>
 <AM lemma="náměstí_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92258-110-p3s1w20">
@@ -750,7 +750,7 @@
 <form>prof</form>
 <tag>
 <AM lemma="profesor_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="prof_^(profesor)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="prof_^(profesor)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-110-p5s1w12">
@@ -956,7 +956,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92258-110-p5s1w37">
@@ -1660,7 +1660,7 @@
 <form>nám</form>
 <tag>
 <AM lemma="náměstí_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92258-110-p8s1w18">
@@ -1754,7 +1754,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92258-110-p8s1w29">
@@ -1805,7 +1805,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92258-110-p8s1w35">
@@ -1938,7 +1938,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92258-110-p9s1w14">

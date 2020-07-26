@@ -85,7 +85,7 @@
 <LM>w#w-mf920924-017-p1s1Bw5</LM>
 </w.rf>
 <form>POMALU</form>
-<tag lemma="pomalu" src="orig" selected="1">Db-------------</tag>
+<tag lemma="pomalu" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-017-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -1348,7 +1348,7 @@
 <form>ČSTV</form>
 <tag>
 <AM lemma="ČSTV_:B_^(Československý_svaz_tělesné_výchovy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSTV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSTV_^(Československý_svazělesné_výchovy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-017-p2s10w5">
@@ -1970,7 +1970,7 @@
 <LM>w#w-mf920924-017-p2s13Bw11</LM>
 </w.rf>
 <form>seženeme</form>
-<tag lemma="sehnat" src="orig" selected="1">VB-P---1P-AAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="orig" selected="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m-mf920924-017-p2s13Bw12">
 <src.rf>manual</src.rf>
@@ -2272,7 +2272,7 @@
 <LM>w#w-mf920924-017-p2s15w8</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-017-p2s15w9">
 <src.rf>manual</src.rf>
@@ -2889,7 +2889,7 @@
 <LM>w#w-mf920924-017-p2s19w18</LM>
 </w.rf>
 <form>zastavili</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920924-017-p2s19w19">
 <src.rf>manual</src.rf>
@@ -3088,7 +3088,7 @@
 <form>ČSTV</form>
 <tag>
 <AM lemma="ČSTV_:B_^(Československý_svaz_tělesné_výchovy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSTV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSTV_^(Československý_svazělesné_výchovy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-017-p2s21w8">
@@ -3259,7 +3259,7 @@
 <LM>w#w-mf920924-017-p2s22w9</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf920924-017-p2s22w10">
 <src.rf>manual</src.rf>

@@ -1630,7 +1630,7 @@
 </w.rf>
 <form>dnem</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNS7-----A----</AM>
 </tag>
 </m>

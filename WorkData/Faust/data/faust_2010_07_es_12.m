@@ -352,7 +352,7 @@
 <LM>w#w-es_12-SCzechM-p1203-s1-w1</LM>
 </w.rf>
 <form>nazdar</form>
-<tag lemma="nazdar" recommended="1">TT-------------</tag>
+<tag lemma="nazdar" recommended="1">II-------------</tag>
 </m>
 <m id="es_12-SCzechM-p1203-s1-w2">
 <w.rf>
@@ -2844,7 +2844,7 @@
 <LM>w#w-es_12-SCzechM-p1251-s1-w2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 </s>
 <s id="s-es_12-SCzechM-p1253-s1-w6">
@@ -2964,7 +2964,7 @@
 <LM>w#w-es_12-SCzechM-p1257-s1-w4</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" recommended="1">Db--------A----</tag>
+<tag lemma="vždy" recommended="1">Db-------------</tag>
 </m>
 <m id="es_12-SCzechM-p1257-s1-w5">
 <w.rf>
@@ -3152,7 +3152,7 @@
 </w.rf>
 <form>mohu</form>
 <tag>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" recommended="1">VB-S---1P-AAI-1</AM>
+<AM lemma="moci" recommended="1">VB-S---1P-AAI-1</AM>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])">VB-S---1P-AA--3</AM>
 </tag>
 </m>
@@ -3193,7 +3193,7 @@
 <LM>w#w-es_12-SCzechM-p1259-s1-w4</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="es_12-SCzechM-p1259-s1-w5">
 <w.rf>
@@ -4548,14 +4548,14 @@
 <LM>w#w-es_12-SCzechM-p1265-s1-w43</LM>
 </w.rf>
 <form>§</form>
-<tag lemma="paragraf" recommended="1">NNIXX-----A---1</tag>
+<tag lemma="§" recommended="1">Z:-------------</tag>
 </m>
 <m id="es_12-SCzechM-p1265-s1-w44">
 <w.rf>
 <LM>w#w-es_12-SCzechM-p1265-s1-w44</LM>
 </w.rf>
 <form>§</form>
-<tag lemma="paragraf" recommended="1">NNIXX-----A---1</tag>
+<tag lemma="§" recommended="1">Z:-------------</tag>
 </m>
 </s>
 <s id="s-es_12-SCzechM-p1269-s1-w1">
@@ -4564,7 +4564,7 @@
 <LM>w#w-es_12-SCzechM-p1269-s1-w1</LM>
 </w.rf>
 <form>můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" recommended="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" recommended="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="es_12-SCzechM-p1269-s1-w2">
 <w.rf>
@@ -4692,7 +4692,7 @@
 <LM>w#w-es_12-SCzechM-p1275-s1-w3</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="es_12-SCzechM-p1275-s1-w4">
 <w.rf>
@@ -4736,7 +4736,7 @@
 <LM>w#w-es_12-SCzechM-p1276-s1-w2</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="es_12-SCzechM-p1276-s1-w3">
 <w.rf>
@@ -4767,7 +4767,7 @@
 <LM>w#w-es_12-SCzechM-p1276-s1-w6</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_12-SCzechM-p1276-s1-w7">
 <w.rf>
@@ -5964,7 +5964,7 @@
 </w.rf>
 <form>mohou</form>
 <tag>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" recommended="1">VB-P---3P-AAI-1</AM>
+<AM lemma="moci" recommended="1">VB-P---3P-AAI-1</AM>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])">VB-P---3P-AA--3</AM>
 </tag>
 </m>

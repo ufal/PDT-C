@@ -3830,7 +3830,7 @@
 <LM>w#w-wsj0279-001-p1s10W30</LM>
 </w.rf>
 <form>vymyslela</form>
-<tag lemma="vymyslet" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="vymyslit" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj0279-001-p1s10W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4226,7 +4226,7 @@
 <LM>w#w-wsj0279-001-p1s11W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0279-001-p1s11W2-Ta">
 <src.rf>tagger-a</src.rf>

@@ -515,7 +515,7 @@
 <LM>w#w-lnd94104-020-p1s6w7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94104-020-p1s6w8">
 <src.rf>manual</src.rf>

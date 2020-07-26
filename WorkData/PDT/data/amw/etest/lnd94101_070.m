@@ -142,7 +142,7 @@
 <form>jako</form>
 <tag>
 <AM lemma="jako-1" src="auto">J,-------------</AM>
-<AM lemma="jako-4" src="manual" selected="1">J^-------------</AM>
+<AM lemma="jako-1" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-070-p1s1w16">
@@ -572,7 +572,7 @@
 <LM>w#w-lnd94101-070-p1s4Aw4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="orig" selected="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACQW------A----</tag>
 </m>
 <m id="m-lnd94101-070-p1s4Aw5">
 <src.rf>manual</src.rf>

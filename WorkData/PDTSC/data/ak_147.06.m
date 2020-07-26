@@ -1666,7 +1666,7 @@
 <LM>w#w-d1t609-4</LM>
 </w.rf>
 <form>Dávali</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m147-329-330">
 <w.rf>
@@ -1810,7 +1810,7 @@
 <LM>w#w-d1t613-5</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m147-d-id107289-punct">
 <w.rf>
@@ -3787,7 +3787,7 @@
 <LM>w#w-d1t672-11</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m147-d1t672-12">
 <w.rf>

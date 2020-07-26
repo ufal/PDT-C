@@ -96,7 +96,7 @@
 <LM>w#w-ln94209-78-p2s1Aw3</LM>
 </w.rf>
 <form>bra</form>
-<tag lemma="bra-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="bra-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94209-78-p2s1Aw4">
 <src.rf>manual</src.rf>

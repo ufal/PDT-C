@@ -51,7 +51,7 @@
 <LM>w#w-ln95048-011-p1s1w5</LM>
 </w.rf>
 <form>stávají</form>
-<tag lemma="stávat-2_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="stávat-2_^(*5t-2)_(*5t-3)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-011-p1s1w6">
 <src.rf>manual</src.rf>

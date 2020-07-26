@@ -749,7 +749,7 @@
 <LM>w#w-d1t2100-23</LM>
 </w.rf>
 <form>šáhnu</form>
-<tag lemma="šáhnout" src="auto" recommended="1">VB-S---1P-AAP--</tag>
+<tag lemma="šáhnout_,h_^(^GC**sáhnout)" src="auto" recommended="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m145-d1t2100-24">
 <w.rf>
@@ -1064,7 +1064,7 @@
 </w.rf>
 <form>hub</form>
 <tag>
-<AM lemma="houba_^(houbovitá_věc/rostlina)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="houba" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hub_,t_^(rozbočovač)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hub_,t_^(rozbočovač)" src="auto">NNIS4-----A----</AM>
 <AM lemma="huba_^(vulg._ústa)" src="auto">NNFP2-----A----</AM>
@@ -2221,7 +2221,7 @@
 <LM>w#w-d1t2167-21</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m145-d1t2167-23">
 <w.rf>
@@ -3018,7 +3018,7 @@
 <LM>w#w-d1t2242-4</LM>
 </w.rf>
 <form>Kdybyste</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m145-d1t2242-6">
 <w.rf>
@@ -3255,7 +3255,7 @@
 <LM>w#w-d1t2282-8</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m145-d-id157111-punct">
 <w.rf>

@@ -309,7 +309,7 @@
 <LM>w#w-lnd94103-022-p1s4Aw7</LM>
 </w.rf>
 <form>Dagmar</form>
-<tag lemma="Dagmar_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Dagmar_;Y_;m" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94103-022-p1s4Aw8">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-lnd94103-022-p1s4Bw3</LM>
 </w.rf>
 <form>jedenkrát</form>
-<tag lemma="jedenkrát`1" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="jedenkrát-1`1" src="orig" selected="1">Cv-------------</tag>
 </m>
 <m id="m-lnd94103-022-p1s4Bw4">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-lnd94103-022-p1s4Bw4</LM>
 </w.rf>
 <form>soudně</form>
-<tag lemma="soudně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="soudně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94103-022-p1s4Bw5">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-lnd94103-022-p1s7w9</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-022-p1s7w10">
 <src.rf>manual</src.rf>

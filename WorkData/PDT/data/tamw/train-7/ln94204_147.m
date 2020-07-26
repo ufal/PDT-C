@@ -436,7 +436,7 @@
 <LM>w#w-ln94204-147-p2s3w7</LM>
 </w.rf>
 <form>ujdou</form>
-<tag lemma="ujít-1_^(vzdálenost,_kus_cesty)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="ujít-1_^(kus_cesty,výdělek)" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94204-147-p2s3w8">
 <src.rf>manual</src.rf>
@@ -730,7 +730,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-147-p2s4w13">
@@ -771,7 +771,7 @@
 <LM>w#w-ln94204-147-p2s4w17</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln94204-147-p2s4w18">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-147-p2s4w21">
@@ -840,7 +840,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-147-p2s4w26">

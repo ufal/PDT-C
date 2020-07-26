@@ -205,7 +205,7 @@
 <LM>w#w-mf930702-038-p2s1w21</LM>
 </w.rf>
 <form>bezcelně</form>
-<tag lemma="bezcelně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="bezcelně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930702-038-p2s1w22">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-mf930702-038-p4s3w18</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930702-038-p4s3w19">
 <src.rf>manual</src.rf>
@@ -1287,7 +1287,7 @@
 <LM>w#w-mf930702-038-p6s2w6</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag lemma="říci" src="auto" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930702-038-p6s2w7">
 <src.rf>manual</src.rf>
@@ -1835,7 +1835,7 @@
 <LM>w#w-mf930702-038-p7s1w23</LM>
 </w.rf>
 <form>očím</form>
-<tag lemma="oko" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-mf930702-038-p7s1w24">
 <src.rf>manual</src.rf>

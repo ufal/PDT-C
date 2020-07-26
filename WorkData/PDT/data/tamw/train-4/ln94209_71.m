@@ -498,7 +498,7 @@
 <LM>w#w-ln94209-71-p2s3w9</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94209-71-p2s3w10">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-ln94209-71-p2s4w26</LM>
 </w.rf>
 <form>Pavlem</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94209-71-p2s4w27">
 <src.rf>manual</src.rf>
@@ -1271,7 +1271,7 @@
 <LM>w#w-ln94209-71-p3s1w8</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94209-71-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1902,7 +1902,7 @@
 <LM>w#w-ln94209-71-p4s2w18</LM>
 </w.rf>
 <form>vydalo</form>
-<tag lemma="vydat-4_^(platit,_př._vydat_peníze,_v._se_ze_všeho)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-71-p4s2w19">
 <src.rf>manual</src.rf>

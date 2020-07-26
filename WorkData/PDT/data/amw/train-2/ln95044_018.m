@@ -1700,7 +1700,7 @@
 <LM>w#w-ln95044-018-p5s3w1</LM>
 </w.rf>
 <form>Kdybychom</form>
-<tag lemma="kdyby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="kdyby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-ln95044-018-p5s3w3">
 <src.rf>manual</src.rf>

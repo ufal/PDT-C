@@ -135,7 +135,7 @@
 <form>mazdu</form>
 <tag>
 <AM lemma="Mazda-2_;m_^(vozidlo)" src="orig">NNFS4-----A----</AM>
-<AM lemma="mazda_;m" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="mazda" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-017-p2s1w10">
@@ -1044,7 +1044,7 @@
 <LM>w#w-mf930708-017-p4s2w5</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-017-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1176,7 +1176,7 @@
 <form>mazdu</form>
 <tag>
 <AM lemma="Mazda-2_;m_^(vozidlo)" src="orig">NNFS4-----A----</AM>
-<AM lemma="mazda_;m" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="mazda" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-017-p4s3w7">

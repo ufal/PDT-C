@@ -1779,7 +1779,7 @@
 <tag>
 <AM lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto">Dg-------1A----</AM>
 <AM lemma="těžko-2_^(sotva)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)_(*3ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m037-d1t1451-5">
@@ -2300,7 +2300,7 @@
 <LM>w#w-d1t1478-3</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m037-d1t1478-5">
 <w.rf>
@@ -2344,7 +2344,7 @@
 <form>pomalu</form>
 <tag>
 <AM lemma="pomalu" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="pomalu_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="pomalu" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m037-d1t1478-6">
@@ -2820,7 +2820,7 @@
 <LM>w#w-d1t1527-3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m037-d-id99097-punct">
 <w.rf>
@@ -3879,7 +3879,7 @@
 </w.rf>
 <form>nejvíce</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A----</AM>
 <AM lemma="nejvíce" src="auto">Ca--X----------</AM>
 </tag>
 </m>

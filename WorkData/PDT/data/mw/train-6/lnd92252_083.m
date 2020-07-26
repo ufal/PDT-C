@@ -19,7 +19,7 @@
 <LM>w#w-lnd92252-083-p1s1w1</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-083-p1s1w2">
 <src.rf>manual</src.rf>
@@ -98,7 +98,7 @@
 <LM>w#w-lnd92252-083-p2s2w2</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-083-p2s2w3">
 <src.rf>manual</src.rf>
@@ -114,7 +114,7 @@
 <LM>w#w-lnd92252-083-p2s2w4</LM>
 </w.rf>
 <form>podávat</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="podávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92252-083-p2s2w5">
 <src.rf>manual</src.rf>
@@ -148,7 +148,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-083-p2s2w9">
@@ -729,7 +729,7 @@
 <LM>w#w-lnd92252-083-p2s6w3</LM>
 </w.rf>
 <form>nemůžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-lnd92252-083-p2s6w4">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-083-p2s6w6">
@@ -884,7 +884,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-083-p2s7w4">
@@ -1291,7 +1291,7 @@
 <LM>w#w-lnd92252-083-p2s10w1</LM>
 </w.rf>
 <form>Nemůžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-lnd92252-083-p2s10w2">
 <src.rf>manual</src.rf>
@@ -1309,7 +1309,7 @@
 <form>myslet</form>
 <tag>
 <AM lemma="myslet" src="orig">Vf--------A----</AM>
-<AM lemma="myslet" src="manual" selected="1">Vf--------A-I--</AM>
+<AM lemma="myslit" src="manual" selected="1">Vf--------A-I-1</AM>
 </tag>
 </m>
 <m id="m-lnd92252-083-p2s10w4">
@@ -1483,7 +1483,7 @@
 <LM>w#w-lnd92252-083-p2s11w16</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-083-p2s11w17">
 <src.rf>manual</src.rf>
@@ -1493,7 +1493,7 @@
 <form>dát</form>
 <tag>
 <AM lemma="dát" src="orig">Vf--------A-P--</AM>
-<AM lemma="dát" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="dát-1" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-lnd92252-083-p2s11w18">

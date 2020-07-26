@@ -338,7 +338,7 @@
 <LM>w#w-d1t810-20</LM>
 </w.rf>
 <form>uměla</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m105-d1t810-21">
 <w.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-d1t819-1</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m105-65-66">
 <w.rf>
@@ -767,7 +767,7 @@
 <LM>w#w-d1t828-3</LM>
 </w.rf>
 <form>nerad</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------N----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------N----</tag>
 </m>
 <m id="m105-d1e788-x4-73">
 <w.rf>

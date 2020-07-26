@@ -229,7 +229,7 @@
 <form>s</form>
 <tag>
 <AM lemma="s-2`sekunda_:B" src="orig">NNFXX-----A---1</AM>
-<AM lemma="sekunda" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="sekunda" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-023-p4s1w8">
@@ -343,7 +343,7 @@
 <form>mm</form>
 <tag>
 <AM lemma="mm-1`milimetr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-023-p6s1w4">
@@ -429,7 +429,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-023-p7s1w4">
@@ -611,7 +611,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-023-p8s2w7">

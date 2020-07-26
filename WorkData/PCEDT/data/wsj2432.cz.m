@@ -391,7 +391,7 @@
 <LM>w#w-wsj2432-001-p1s1W11</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2432-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-wsj2432-001-p1s1W20</LM>
 </w.rf>
 <form>předešla</form>
-<tag lemma="předejít_^(díky_rychlejší_chůzi)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="předejít_^(díky_rychlejší_chůzi;;předejít_zřícení)" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2432-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1737,7 +1737,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2432-001-p1s7W6-Ta">
@@ -4199,7 +4199,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2432-001-p1s16W30-Ta">

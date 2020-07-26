@@ -61,7 +61,7 @@
 <LM>w#w-mf930701-087-p2s1w4</LM>
 </w.rf>
 <form>VÁMI</form>
-<tag lemma="ty" src="orig" selected="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P7--2-------</tag>
 </m>
 </s>
 <s id="m-mf930701-087-p3s1">
@@ -296,7 +296,7 @@
 <LM>w#w-mf930701-087-p4s3w2</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf930701-087-p4s3w3">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-087-p4s3w6">
@@ -968,7 +968,7 @@
 <LM>w#w-mf930701-087-p5s5w9</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930701-087-p5s5w10">
 <src.rf>manual</src.rf>
@@ -2025,7 +2025,7 @@
 <LM>w#w-mf930701-087-p7s6w7</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-mf930701-087-p7s6w8">
 <src.rf>manual</src.rf>

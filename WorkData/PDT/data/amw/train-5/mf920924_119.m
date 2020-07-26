@@ -45,7 +45,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p1s1w5">
@@ -295,7 +295,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p2s2w25">
@@ -476,7 +476,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p2s3w20">
@@ -517,7 +517,7 @@
 <LM>w#w-mf920924-119-p2s3w24</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920924-119-p2s3w25">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p2s6w20">
@@ -1121,7 +1121,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p2s7w14">
@@ -1616,7 +1616,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p2s10w13">

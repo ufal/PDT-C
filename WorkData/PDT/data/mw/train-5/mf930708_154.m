@@ -813,7 +813,7 @@
 <LM>w#w-mf930708-154-p7s1w18</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930708-154-p7s1w19">
 <src.rf>manual</src.rf>

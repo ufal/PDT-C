@@ -1507,7 +1507,7 @@
 <LM>w#w-wsj1696-001-p1s2W26</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1696-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3407,7 +3407,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1696-001-p1s6W31-Ta">
@@ -8612,7 +8612,7 @@
 <AM lemma="Karolín_;G" src="auto">NNIS6-----A---1</AM>
 <AM lemma="Karolín_;Y_,t" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Karolín_;Y_,t" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Karolína_;G_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNS3-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -10228,7 +10228,7 @@
 <LM>w#w-wsj1696-001-p1s21W43</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1696-001-p1s21W44-Ta">
 <src.rf>tagger-a</src.rf>

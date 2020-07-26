@@ -273,7 +273,7 @@
 <form>dm</form>
 <tag>
 <AM lemma="dm-2_:B_^(decimetr)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="decimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="decimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-023-p1s3w10">
@@ -619,7 +619,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-vesm9212-023-p2s1w8">
@@ -1276,7 +1276,7 @@
 <LM>w#w-vesm9212-023-p3s4w20</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-vesm9212-023-p3s4w21">
 <src.rf>manual</src.rf>
@@ -1521,7 +1521,7 @@
 <LM>w#w-vesm9212-023-p3s6w10</LM>
 </w.rf>
 <form>sensibilitu</form>
-<tag lemma="senzibilita" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="sensibilita_,s_^(^DD**senzibilita)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-vesm9212-023-p3s6w11">
 <src.rf>manual</src.rf>
@@ -1564,7 +1564,7 @@
 <LM>w#w-vesm9212-023-p3s6w15</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-vesm9212-023-p3s6w17">
 <src.rf>manual</src.rf>
@@ -1670,7 +1670,7 @@
 <form>př</form>
 <tag>
 <AM lemma="příklad_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="příklad" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="příklad" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-023-p3s6w30">
@@ -1771,7 +1771,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-023-p3s7w9">
@@ -2078,7 +2078,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-vesm9212-023-p4s1w8">
@@ -2412,7 +2412,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--4----------</AM>
-<AM lemma="více" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-023-p5s2w35">
@@ -2800,7 +2800,7 @@
 <LM>w#w-vesm9212-023-p5s4w28</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9212-023-p5s4w29">
 <src.rf>manual</src.rf>
@@ -3137,7 +3137,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-vesm9212-023-p6s1w8">
@@ -3384,7 +3384,7 @@
 <form>Dr</form>
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Dr_^(doktor)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-023-p7s3w2">
@@ -3605,7 +3605,7 @@
 <LM>w#w-vesm9212-023-p7s3w28</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9212-023-p7s3w29">
 <src.rf>manual</src.rf>
@@ -3697,7 +3697,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-vesm9212-023-p8s1w8">

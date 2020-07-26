@@ -332,7 +332,7 @@
 <LM>w#w-d1t1139-2</LM>
 </w.rf>
 <form>Ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m118-d1t1139-3">
 <w.rf>
@@ -877,7 +877,7 @@
 <LM>w#w-d1t1160-9</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m118-d1t1160-11">
 <w.rf>
@@ -951,7 +951,7 @@
 <LM>w#w-d1t1160-23</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m118-d1t1160-20">
 <w.rf>
@@ -1321,7 +1321,7 @@
 <LM>w#w-d1t1166-7</LM>
 </w.rf>
 <form>neuměla</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpQW----R-NAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m118-d1t1166-8">
 <w.rf>
@@ -1403,7 +1403,7 @@
 <LM>w#w-d1t1166-24</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m118-d1t1166-26">
 <w.rf>
@@ -2837,7 +2837,7 @@
 </w.rf>
 <form>Vánocích</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP6-----A----</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -3864,7 +3864,7 @@
 <LM>w#w-d1t1247-17</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m118-d1t1247-10">
 <w.rf>

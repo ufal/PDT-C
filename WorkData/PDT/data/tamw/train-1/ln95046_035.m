@@ -108,7 +108,7 @@
 <LM>w#w-ln95046-035-p2s1Bw3</LM>
 </w.rf>
 <form>šampaňského</form>
-<tag lemma="šampaňské_^(víno)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="šampaňské-2_^(víno)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95046-035-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 <AM lemma="společník_:B_^(Pepa_a_spol.)" src="orig">NNMXX-----A---8</AM>
 <AM lemma="společenský_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="společnost_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95046-035-p3s1Aw45">
@@ -1669,7 +1669,7 @@
 <LM>w#w-ln95046-035-p4s2w2</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95046-035-p4s2w3">
 <src.rf>manual</src.rf>

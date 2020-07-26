@@ -92,7 +92,7 @@
 </w.rf>
 <form>ZOO</form>
 <tag>
-<AM lemma="ZOO" src="auto" recommended="1">BNFXX-----A----</AM>
+<AM lemma="ZOO" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="ZOO_:B" src="auto">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -337,7 +337,7 @@
 <LM>w#w-wsj2343-001-p1s1W3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj2343-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1419,7 +1419,7 @@
 <LM>w#w-wsj2343-001-p1s3W39</LM>
 </w.rf>
 <form>sexbomba</form>
-<tag lemma="sexbomba" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="sexbomba_,l" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj2343-001-p1s3W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2044,7 +2044,7 @@
 </w.rf>
 <form>sexem</form>
 <tag>
-<AM lemma="sex" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="sex-1" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="sexus" src="auto">NNIS7-----A----</AM>
 </tag>
 </m>
@@ -2456,7 +2456,7 @@
 <LM>w#w-wsj2343-001-p1s6W32</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj2343-001-p1s6W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3439,7 +3439,7 @@
 <LM>w#w-wsj2343-001-p1s8W26</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2343-001-p1s8W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3738,7 +3738,7 @@
 <form>matkou</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS7-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2343-001-p1s10W8-Ta">
@@ -4613,7 +4613,7 @@
 <LM>w#w-wsj2343-001-p1s13W9</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2343-001-p1s13W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6231,7 +6231,7 @@
 <LM>w#w-wsj2343-001-p1s19W13</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2343-001-p1s19W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7834,7 +7834,7 @@
 <LM>w#w-wsj2343-001-p1s24W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2343-001-p1s24W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7907,7 +7907,7 @@
 <LM>w#w-wsj2343-001-p1s24W13</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2343-001-p1s24W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8384,7 +8384,7 @@
 <AM lemma="Jao_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Jao_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Jay_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jay_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Jay_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2343-001-p1s26W9-Ta">
@@ -9693,7 +9693,7 @@
 <LM>w#w-wsj2343-001-p1s30W20</LM>
 </w.rf>
 <form>raději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2343-001-p1s30W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9701,7 +9701,7 @@
 <LM>w#w-wsj2343-001-p1s30W21</LM>
 </w.rf>
 <form>dávali</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj2343-001-p1s30W22-Ta">
 <src.rf>tagger-a</src.rf>

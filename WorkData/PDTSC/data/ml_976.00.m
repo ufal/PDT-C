@@ -1179,7 +1179,7 @@
 <LM>w#w-id58669-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m976-d-id57092">
 <w.rf>
@@ -1193,7 +1193,7 @@
 <LM>w#w-id58669-4</LM>
 </w.rf>
 <form>kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m976-id58669-5">
 <w.rf>
@@ -1757,7 +1757,7 @@
 <LM>w#w-id58755-5</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m976-id58755-6">
 <w.rf>
@@ -3092,7 +3092,7 @@
 <LM>w#w-id58999-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m976-id58773-x3-5502">
 <w.rf>
@@ -5550,7 +5550,7 @@
 <LM>w#w-id59513-8</LM>
 </w.rf>
 <form>nikoliv</form>
-<tag lemma="nikoli" src="auto" recommended="1">TT------------1</tag>
+<tag lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m976-id59513-9">
 <w.rf>
@@ -5773,7 +5773,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -6070,7 +6070,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m976-id59662-x1-817">
@@ -6131,7 +6131,7 @@
 <LM>w#w-id59662-x1-819</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m976-id59662-x1-821">
 <w.rf>

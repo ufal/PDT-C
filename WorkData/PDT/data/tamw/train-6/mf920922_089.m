@@ -69,7 +69,7 @@
 <LM>w#w-mf920922-089-p1s1Bw4</LM>
 </w.rf>
 <form>VYDĚLALA</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920922-089-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-mf920922-089-p3s1w14</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920922-089-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1456,7 +1456,7 @@
 <LM>w#w-mf920922-089-p3s6w11</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920922-089-p3s6w12">
 <src.rf>manual</src.rf>

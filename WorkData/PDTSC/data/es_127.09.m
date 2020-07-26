@@ -504,7 +504,7 @@
 <LM>w#w-d1t2016-19</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m127-d1t2016-20">
 <w.rf>
@@ -997,7 +997,7 @@
 <LM>w#w-d1t2034-5</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m127-d1e2029-x2-38">
 <w.rf>
@@ -1062,7 +1062,7 @@
 <LM>w#w-d1t2036-8</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m127-d1t2036-10">
 <w.rf>
@@ -1337,7 +1337,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m127-d1e2062-x2-58">
@@ -1420,7 +1420,7 @@
 <LM>w#w-d1t2069-5</LM>
 </w.rf>
 <form>Věruška</form>
-<tag lemma="Věruška_;Y_,e" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Věruška_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m127-d1t2069-7">
 <w.rf>
@@ -1764,7 +1764,7 @@
 <LM>w#w-d1t2071-19</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m127-d1t2071-20">
 <w.rf>
@@ -2001,7 +2001,7 @@
 <LM>w#w-d1t2073-26</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m127-d1t2073-27">
 <w.rf>
@@ -3418,7 +3418,7 @@
 <LM>w#w-d1t2105-22</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m127-d1t2105-23">
 <w.rf>
@@ -3972,7 +3972,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m127-d-id171636-punct">
@@ -4038,7 +4038,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m127-d1e2118-x2-241">
@@ -4845,7 +4845,7 @@
 <LM>w#w-d1t2142-5</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
 </m>
 <m id="m127-d1t2144-1">
 <w.rf>
@@ -4991,7 +4991,7 @@
 <LM>w#w-d1t2144-15</LM>
 </w.rf>
 <form>nerad</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------N----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------N----</tag>
 </m>
 <m id="m127-d1t2144-16">
 <w.rf>
@@ -5589,7 +5589,7 @@
 <form>cvikýř</form>
 <tag>
 <AM lemma="cvikýř_^(označení_pro_hermafrodita)" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="cvikýř_^(označení_pro_hermafrodita;_hov._označení_pro_dítě)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="cvikýř_^(označení_pro_hermafrodita)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m127-303-296">

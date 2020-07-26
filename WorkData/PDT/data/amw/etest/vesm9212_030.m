@@ -83,7 +83,7 @@
 <LM>w#w-vesm9212-030-p2s1w6</LM>
 </w.rf>
 <form>Vašemu</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSZS3-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="orig" selected="1">PSZS3-P2-------</tag>
 </m>
 <m id="m-vesm9212-030-p2s1w7">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-vesm9212-030-p2s2w12</LM>
 </w.rf>
 <form>ukradl</form>
-<tag lemma="ukrást" src="auto" selected="1">VpYS----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-vesm9212-030-p2s2w13">
 <src.rf>manual</src.rf>

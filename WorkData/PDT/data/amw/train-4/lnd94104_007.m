@@ -366,7 +366,7 @@
 <form>ČNB</form>
 <tag>
 <AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_;m_^(Česká_národní_banka)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČNB_;m_^(Česká_národní_banka)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-007-p1s5w4">
@@ -463,7 +463,7 @@
 <LM>w#w-lnd94104-007-p1s5w15</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd94104-007-p1s5w16">
 <src.rf>manual</src.rf>
@@ -1766,7 +1766,7 @@
 <LM>w#w-lnd94104-007-p1s16w12</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-007-p1s16w13">
 <src.rf>manual</src.rf>

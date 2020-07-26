@@ -103,7 +103,7 @@
 <form>vin</form>
 <tag>
 <AM lemma="vina" src="orig">NNFP2-----A----</AM>
-<AM lemma="vin-99_;Y" src="manual" selected="1">BNNXX-----A----</AM>
+<AM lemma="vin-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-010-p2s1w6">
@@ -672,7 +672,7 @@
 <LM>w#w-mf930708-010-p2s4w18</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-010-p2s4w19">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <LM>w#w-mf930708-010-p3s1w14</LM>
 </w.rf>
 <form>Evropu</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930708-010-p3s1w15">
 <src.rf>manual</src.rf>

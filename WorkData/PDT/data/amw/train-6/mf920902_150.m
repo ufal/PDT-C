@@ -27,7 +27,7 @@
 <LM>w#w-mf920902-150-p1s1w2</LM>
 </w.rf>
 <form>zasaženi</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-mf920902-150-p1s1w3">
 <src.rf>manual</src.rf>
@@ -994,7 +994,7 @@
 <LM>w#w-mf920902-150-p2s6w9</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-150-p2s6w10">
 <src.rf>manual</src.rf>

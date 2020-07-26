@@ -429,7 +429,7 @@
 <LM>w#w-mf920902-145-p4s3w6</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920902-145-p4s3w7">
 <src.rf>manual</src.rf>
@@ -727,7 +727,7 @@
 <LM>w#w-mf920902-145-p4s4w31</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920902-145-p4s4w32">
 <src.rf>manual</src.rf>
@@ -793,7 +793,7 @@
 <LM>w#w-mf920902-145-p4s5w7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920902-145-p4s5w8">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-mf920902-145-p4s6w7</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920902-145-p4s6w8">
 <src.rf>manual</src.rf>

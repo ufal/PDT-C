@@ -292,7 +292,7 @@
 <LM>w#w-lnd94103-103-p1s2w6</LM>
 </w.rf>
 <form>Zora</form>
-<tag lemma="Zora_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Zora_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-103-p1s2w7">
 <src.rf>manual</src.rf>
@@ -2120,7 +2120,7 @@
 <LM>w#w-lnd94103-103-p1s12w2</LM>
 </w.rf>
 <form>nevinně</form>
-<tag lemma="vinně-1_^(kdo_je_vinen/vinna)_(*3ý-1)" src="orig" selected="1">Dg-------1N----</tag>
+<tag lemma="vinně-1_^(*3ý-1)_(*3ý-2)" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-lnd94103-103-p1s12w3">
 <src.rf>manual</src.rf>
@@ -2324,7 +2324,7 @@
 <LM>w#w-lnd94103-103-p1s12w26</LM>
 </w.rf>
 <form>dosti</form>
-<tag lemma="dost" src="auto" selected="1">Db------------1</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A---1</tag>
 </m>
 <m id="m-lnd94103-103-p1s12w27">
 <src.rf>manual</src.rf>
@@ -2438,7 +2438,7 @@
 <LM>w#w-lnd94103-103-p1s13w11</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94103-103-p1s13w12">
 <src.rf>manual</src.rf>
@@ -2518,7 +2518,7 @@
 <LM>w#w-lnd94103-103-p1s13w21</LM>
 </w.rf>
 <form>Madla</form>
-<tag lemma="Madla_;Y_,h" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Madla_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-103-p1s13w22">
 <src.rf>manual</src.rf>
@@ -2564,7 +2564,7 @@
 <tag>
 <AM lemma="panenka" src="orig">NNFS4-----A----</AM>
 <AM lemma="panenka-1_^(např_v_oku)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="panenka-2_^(na_hraní)" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="panenka" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-103-p1s13w27">
@@ -3130,7 +3130,7 @@
 <LM>w#w-lnd94103-103-p1s16w14</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94103-103-p1s16w15">
 <src.rf>manual</src.rf>
@@ -3311,7 +3311,7 @@
 <LM>w#w-lnd94103-103-p1s17Aw9</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd94103-103-p1s17Aw10">
 <src.rf>manual</src.rf>
@@ -3435,7 +3435,7 @@
 <LM>w#w-lnd94103-103-p1s17Cw3</LM>
 </w.rf>
 <form>Martina</form>
-<tag lemma="Martina_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Martina_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-103-p1s17Cw4">
 <src.rf>manual</src.rf>
@@ -3570,7 +3570,7 @@
 <LM>w#w-lnd94103-103-p1s17Cw19</LM>
 </w.rf>
 <form>Zora</form>
-<tag lemma="Zora_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Zora_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-103-p1s17Cw20">
 <src.rf>manual</src.rf>

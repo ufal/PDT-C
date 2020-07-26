@@ -1095,7 +1095,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Db------------8</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-038-p3s3w29">
@@ -1380,7 +1380,7 @@
 <form>KB</form>
 <tag>
 <AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_;m_^(Komerční_banka)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-038-p3s5w21">
@@ -1423,7 +1423,7 @@
 <LM>w#w-ln95043-038-p4s1w1</LM>
 </w.rf>
 <form>Aleš</form>
-<tag lemma="Aleš-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Aleš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-038-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1489,7 +1489,7 @@
 <form>odd</form>
 <tag>
 <AM lemma="oddělení_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="oddělení" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="oddělení" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95043-038-p4s1w10">
@@ -2001,7 +2001,7 @@
 <LM>w#w-ln95043-038-p5s1w20</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-038-p5s1w21">
 <src.rf>manual</src.rf>
@@ -3483,7 +3483,7 @@
 <form>nalezen</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsYS----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsYS----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln95043-038-p8s3w8">
@@ -4776,7 +4776,7 @@
 <LM>w#w-ln95043-038-p12s2w9</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95043-038-p12s2w10">
 <src.rf>manual</src.rf>

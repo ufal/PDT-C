@@ -69,7 +69,7 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="StB_;m_^(Státní_bezpečnost)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-145-p1s1w8">
@@ -943,7 +943,7 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="StB_;m_^(Státní_bezpečnost)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-145-p4s2w23">
@@ -1053,7 +1053,7 @@
 <LM>w#w-mf930708-145-p4s3w12</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930708-145-p4s3w13">
 <src.rf>manual</src.rf>

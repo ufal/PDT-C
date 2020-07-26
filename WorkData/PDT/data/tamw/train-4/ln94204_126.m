@@ -149,7 +149,7 @@
 <LM>w#w-ln94204-126-p2s1Bw5</LM>
 </w.rf>
 <form>Spartou</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94204-126-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-ln94204-126-p2s2w9</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-126-p2s2w10">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-ln94204-126-p2s3w9</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94204-126-p2s3w10">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-ln94204-126-p3s2w3</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-ln94204-126-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1984,7 +1984,7 @@
 <LM>w#w-ln94204-126-p4s3w6</LM>
 </w.rf>
 <form>dnem</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94204-126-p4s3w7">
 <src.rf>manual</src.rf>
@@ -2059,7 +2059,7 @@
 <tag>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="UEFA-1_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-126-p4s3w16">
@@ -2084,7 +2084,7 @@
 <LM>w#w-ln94204-126-p4s3w18</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-126-p4s3w19">
 <src.rf>manual</src.rf>
@@ -2193,7 +2193,7 @@
 <tag>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="UEFA-1_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-126-p4s4w3">
@@ -2342,7 +2342,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-126-p5s1w5">
@@ -3045,7 +3045,7 @@
 <LM>w#w-ln94204-126-p5s5w2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94204-126-p5s5w3">
 <src.rf>manual</src.rf>

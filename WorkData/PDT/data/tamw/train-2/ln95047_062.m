@@ -45,7 +45,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-062-p1s1w5">
@@ -346,7 +346,7 @@
 <LM>w#w-ln95047-062-p2s2w12</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95047-062-p2s2w13">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-ln95047-062-p3s1w37</LM>
 </w.rf>
 <form>antagonismů</form>
-<tag lemma="antagonismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="antagonismus_,s_^(^DD**antagonizmus)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95047-062-p3s1w38">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-ln95047-062-p3s2w13</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln95047-062-p3s2w14">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-ln95047-062-p3s2w16</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podruhé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95047-062-p3s2w17">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-ln95047-062-p3s2w17</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln95047-062-p3s2w18">
 <src.rf>manual</src.rf>
@@ -953,7 +953,7 @@
 <LM>w#w-ln95047-062-p3s2w23</LM>
 </w.rf>
 <form>nemůžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-ln95047-062-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1203,7 +1203,7 @@
 <LM>w#w-ln95047-062-p4s1w9</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln95047-062-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1341,7 +1341,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-062-p4s1w27">
@@ -2156,7 +2156,7 @@
 <LM>w#w-ln95047-062-p5s1w20</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95047-062-p5s1w21">
 <src.rf>manual</src.rf>
@@ -2614,7 +2614,7 @@
 <LM>w#w-ln95047-062-p5s3w22</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln95047-062-p5s3w23">
 <src.rf>manual</src.rf>
@@ -2955,7 +2955,7 @@
 <LM>w#w-ln95047-062-p5s4w27</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95047-062-p5s4w28">
 <src.rf>manual</src.rf>
@@ -3059,7 +3059,7 @@
 <LM>w#w-ln95047-062-p5s4w40</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95047-062-p5s4w41">
 <src.rf>manual</src.rf>
@@ -3109,7 +3109,7 @@
 <LM>w#w-ln95047-062-p6s1w2</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95047-062-p6s1w3">
 <src.rf>manual</src.rf>
@@ -3732,7 +3732,7 @@
 <LM>w#w-ln95047-062-p7s1w17</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-ln95047-062-p7s1w18">
 <src.rf>manual</src.rf>
@@ -3798,7 +3798,7 @@
 <LM>w#w-ln95047-062-p7s2w1</LM>
 </w.rf>
 <form>Spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln95047-062-p7s2w2">
 <src.rf>manual</src.rf>
@@ -3806,7 +3806,7 @@
 <LM>w#w-ln95047-062-p7s2w2</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-ln95047-062-p7s2w3">
 <src.rf>manual</src.rf>
@@ -3934,7 +3934,7 @@
 <LM>w#w-ln95047-062-p7s2w18</LM>
 </w.rf>
 <form>probůh</form>
-<tag lemma="probůh_,s" src="auto" selected="1">II-------------</tag>
+<tag lemma="probůh" src="auto" selected="1">II-------------</tag>
 </m>
 <m id="m-ln95047-062-p7s2w19">
 <src.rf>manual</src.rf>
@@ -4086,7 +4086,7 @@
 <LM>w#w-ln95047-062-p7s2w37</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln95047-062-p7s2w38">
 <src.rf>manual</src.rf>
@@ -4104,7 +4104,7 @@
 <form>nalezen</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsYS----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsYS----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln95047-062-p7s2w40">
@@ -4267,7 +4267,7 @@
 <LM>w#w-ln95047-062-p8s1w8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95047-062-p8s1w9">
 <src.rf>manual</src.rf>

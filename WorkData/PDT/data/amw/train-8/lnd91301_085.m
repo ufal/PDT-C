@@ -19,7 +19,7 @@
 <LM>w#w-lnd91301-085-p1s1w1</LM>
 </w.rf>
 <form>POPÁTÉ</form>
-<tag lemma="popáté" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="popáté" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd91301-085-p1s1w2">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-085-p5s1w26">
@@ -2439,7 +2439,7 @@
 <form>stal</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-085-p7s1w5">
@@ -3855,7 +3855,7 @@
 <LM>w#w-lnd91301-085-p7s8w18</LM>
 </w.rf>
 <form>výše</form>
-<tag lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="vysoko-1" src="orig" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-lnd91301-085-p7s8w19">
 <src.rf>manual</src.rf>
@@ -3914,7 +3914,7 @@
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Čs-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd91301-085-p8s1w2">
@@ -4034,7 +4034,7 @@
 <form>stal</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-085-p8s2w6">
@@ -4190,7 +4190,7 @@
 <LM>w#w-lnd91301-085-p8s2w24</LM>
 </w.rf>
 <form>šampionů</form>
-<tag lemma="šampion" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="šampion_,s_^(^DD**šampión)" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91301-085-p8s2w25">
 <src.rf>manual</src.rf>

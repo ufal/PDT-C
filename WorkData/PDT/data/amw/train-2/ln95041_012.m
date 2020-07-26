@@ -233,7 +233,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95041-012-p3s1Bw13">
@@ -317,7 +317,7 @@
 <LM>w#w-ln95041-012-p3s1Bw22</LM>
 </w.rf>
 <form>zaměstnán</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="zaměstnat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95041-012-p3s1Bw23">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 <LM>w#w-ln95041-012-p4s3w3</LM>
 </w.rf>
 <form>zástavu</form>
-<tag lemma="zástava-2_^(věci_jako_záruka)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="zástava_^(prapor_záruka_dechu_zástavba)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95041-012-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1079,7 +1079,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95041-012-p4s3w17">
@@ -1317,7 +1317,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95041-012-p4s5w26">
@@ -1656,7 +1656,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95041-012-p5s2w9">
@@ -1846,7 +1846,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95041-012-p5s4w5">
@@ -2076,7 +2076,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95041-012-p5s6w7">
@@ -2095,7 +2095,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln95041-012-p5s6w9">
@@ -2274,7 +2274,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95041-012-p6s1w10">
@@ -2379,7 +2379,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95041-012-p6s1w22">
@@ -2398,7 +2398,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln95041-012-p6s1w24">

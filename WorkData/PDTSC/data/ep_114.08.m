@@ -282,7 +282,7 @@
 <LM>w#w-d1t2308-6</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m114-d1t2308-7">
 <w.rf>
@@ -1948,7 +1948,7 @@
 <LM>w#w-d1t2365-4</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m114-d1t2365-6">
 <w.rf>
@@ -2473,7 +2473,7 @@
 <LM>w#w-d1t2376-8</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m114-219-235">
 <w.rf>
@@ -2590,7 +2590,7 @@
 <LM>w#w-d1t2382-7</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m114-d1t2382-8">
 <w.rf>
@@ -4651,7 +4651,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m114-d-m-d1e2450-x2-punct-punct">
@@ -4870,7 +4870,7 @@
 <LM>w#w-d1t2483-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m114-d1t2483-3">
 <w.rf>
@@ -5988,7 +5988,7 @@
 <LM>w#w-d1t2521-11</LM>
 </w.rf>
 <form>vymysleli</form>
-<tag lemma="vymyslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="vymyslit" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m114-d1t2521-13">
 <w.rf>
@@ -6173,7 +6173,7 @@
 <LM>w#w-d1t2524-7</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m114-d1e2497-x3-149">
 <w.rf>

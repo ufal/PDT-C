@@ -1482,7 +1482,7 @@
 <LM>w#w-wsj2026-001-p1s5W7</LM>
 </w.rf>
 <form>postižena</form>
-<tag lemma="postihnout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="postihnout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj2026-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1549,7 +1549,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2026-001-p1s5W14-Ta">

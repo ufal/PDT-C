@@ -496,7 +496,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-102-p3s1w8">
@@ -641,7 +641,7 @@
 <LM>w#w-ln95045-102-p3s1w25</LM>
 </w.rf>
 <form>vydělá</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95045-102-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1245,7 +1245,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-102-p4s1w10">
@@ -1418,7 +1418,7 @@
 <LM>w#w-ln95045-102-p4s2w1</LM>
 </w.rf>
 <form>Vztaženo</form>
-<tag lemma="vztáhnout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="vztáhnout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-ln95045-102-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1541,7 +1541,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-102-p4s2w17">
@@ -1593,7 +1593,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-102-p4s2w23">

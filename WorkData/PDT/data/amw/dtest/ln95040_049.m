@@ -498,7 +498,7 @@
 <LM>w#w-ln95040-049-p3s1w22</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95040-049-p3s1w23">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <form>stalo</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpNS----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95040-049-p3s1w37">
@@ -877,7 +877,7 @@
 <LM>w#w-ln95040-049-p3s2w23</LM>
 </w.rf>
 <form>vydělal</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-049-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1350,7 +1350,7 @@
 <LM>w#w-ln95040-049-p4s3w2</LM>
 </w.rf>
 <form>černě</form>
-<tag lemma="černě_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="černě_;o_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95040-049-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1918,7 +1918,7 @@
 <form>alkoholismem</form>
 <tag>
 <AM lemma="alkoholismus" src="orig">NNIS7-----A----</AM>
-<AM lemma="alkoholismus_^(^DD**alkoholizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="alkoholismus_,s_^(^DD**alkoholizmus)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-049-p5s1w23">
@@ -3661,7 +3661,7 @@
 <LM>w#w-ln95040-049-p8s1w8</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-ln95040-049-p8s1w9">
 <src.rf>manual</src.rf>

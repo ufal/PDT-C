@@ -385,7 +385,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNFXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-44-p2s1Bw42">
@@ -632,7 +632,7 @@
 <form>ČTK</form>
 <tag>
 <AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČTK_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-44-p3s2w3">

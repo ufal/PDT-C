@@ -320,7 +320,7 @@
 <LM>w#w-d1t2992-11</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m046-d1t2992-13">
 <w.rf>
@@ -600,7 +600,7 @@
 <LM>w#w-d1t3003-6</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m046-d1t3003-7">
 <w.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-d1t3003-14</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m046-d1e2983-x3-54">
 <w.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-d1t3005-6</LM>
 </w.rf>
 <form>Aleš</form>
-<tag lemma="Aleš-1_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Aleš_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m046-d1t3005-7">
 <w.rf>
@@ -1302,14 +1302,14 @@
 <LM>w#w-d1t3034-1</LM>
 </w.rf>
 <form>Mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m046-d1t3034-2">
 <w.rf>
 <LM>w#w-d1t3034-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m046-d1t3034-3">
 <w.rf>
@@ -1471,7 +1471,7 @@
 <LM>w#w-d1t3058-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m046-d1t3058-5">
 <w.rf>
@@ -1494,7 +1494,7 @@
 <LM>w#w-d1t3058-6</LM>
 </w.rf>
 <form>Můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m046-d-id132641-punct">
 <w.rf>

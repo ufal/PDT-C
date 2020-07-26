@@ -623,7 +623,7 @@
 <tag>
 <AM lemma="ZČU-1_:B_;m_^(Západočeská_univerzita)" src="auto">NNFXX-----A----</AM>
 <AM lemma="ZČU-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ZČU-1_;m_^(Západočeská_univerzita)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ZČU_;m_^(Západočeská_univerzita)" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-086-p1s3w13">
@@ -666,7 +666,7 @@
 <form>ul</form>
 <tag>
 <AM lemma="ulice_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ulice" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="ulice" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94104-086-p1s3w18">
@@ -954,7 +954,7 @@
 <LM>w#w-lnd94104-086-p1s5w5</LM>
 </w.rf>
 <form>očima</form>
-<tag lemma="oko" src="orig" selected="1">NNFD7-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFD7-----A----</tag>
 </m>
 <m id="m-lnd94104-086-p1s5w6">
 <src.rf>manual</src.rf>
@@ -972,7 +972,7 @@
 <form>TGM</form>
 <tag>
 <AM lemma="TGM_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGM-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TGM_^(Tomáš_Garrigue_Masaryk)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-086-p1s5w8">

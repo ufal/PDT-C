@@ -230,7 +230,7 @@
 <LM>w#w-ln94205-89-p1s2w8</LM>
 </w.rf>
 <form>bránilo</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-89-p1s2w9">
 <src.rf>manual</src.rf>
@@ -246,7 +246,7 @@
 <LM>w#w-ln94205-89-p1s2w10</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-ln94205-89-p1s2w11">
 <src.rf>manual</src.rf>

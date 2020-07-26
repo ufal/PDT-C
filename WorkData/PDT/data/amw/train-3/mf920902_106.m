@@ -191,7 +191,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-106-p2s2w14">
@@ -200,7 +200,7 @@
 <LM>w#w-mf920902-106-p2s2w14</LM>
 </w.rf>
 <form>předala</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920902-106-p2s2w15">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-106-p2s5w23">

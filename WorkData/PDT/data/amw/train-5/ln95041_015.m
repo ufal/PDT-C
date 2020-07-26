@@ -19,7 +19,7 @@
 <LM>w#w-ln95041-015-p1s1w1</LM>
 </w.rf>
 <form>Rom</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-015-p1s1w2">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln95041-015-p2s1Bw9</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="mj_^(mimo_jiné)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-ln95041-015-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-ln95041-015-p3s1w18</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95041-015-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1091,7 +1091,7 @@
 <LM>w#w-ln95041-015-p4s6w1</LM>
 </w.rf>
 <form>Vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95041-015-p4s6w2">
 <src.rf>manual</src.rf>
@@ -1139,7 +1139,7 @@
 <LM>w#w-ln95041-015-p4s6w7</LM>
 </w.rf>
 <form>vydán</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95041-015-p4s6w8">
 <src.rf>manual</src.rf>

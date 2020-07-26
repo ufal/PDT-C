@@ -514,7 +514,7 @@
 </w.rf>
 <form>stává</form>
 <tag>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="stávat-3_^(stojím_stojíš)_(*5t-3)" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1777,7 +1777,7 @@
 <LM>w#w-wsj1218-001-p1s7W5</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1218-001-p1s7W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2208,7 +2208,7 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_;U_^(molekula_DNA)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekulaNA)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFS1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP4-----A----</AM>
@@ -2533,7 +2533,7 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_;U_^(molekula_DNA)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekulaNA)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFS1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP4-----A----</AM>
@@ -3334,7 +3334,7 @@
 <LM>w#w-wsj1218-001-p1s13W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1218-001-p1s13W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6033,7 +6033,7 @@
 <LM>w#w-wsj1218-001-p1s26W5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1218-001-p1s26W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9405,7 +9405,7 @@
 <LM>w#w-wsj1218-001-p1s38W11</LM>
 </w.rf>
 <form>podávají</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj1218-001-p1s38W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10118,7 +10118,7 @@
 <LM>w#w-wsj1218-001-p1s40W25</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1218-001-p1s40W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11280,7 +11280,7 @@
 <LM>w#w-wsj1218-001-p1s45W7</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1218-001-p1s45W8-Ta">
 <src.rf>tagger-a</src.rf>

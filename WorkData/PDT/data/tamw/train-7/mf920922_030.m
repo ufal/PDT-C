@@ -369,7 +369,7 @@
 <LM>w#w-mf920922-030-p1s1Bw37</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920922-030-p1s1Bw38">
 <src.rf>manual</src.rf>

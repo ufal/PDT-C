@@ -878,7 +878,7 @@
 <LM>w#w-d1t1759-4</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m065-d1t1759-2">
 <w.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-d1t1759-20</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m065-221-222">
 <w.rf>
@@ -1619,7 +1619,7 @@
 <LM>w#w-d1t1808-1</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m065-d1t1808-2">
 <w.rf>
@@ -1636,7 +1636,7 @@
 <LM>w#w-d1t1808-3</LM>
 </w.rf>
 <form>připomenul</form>
-<tag lemma="připomenout" src="auto" recommended="1">VpYS----R-AA---</tag>
+<tag lemma="připomenout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m065-d1t1808-5">
 <w.rf>
@@ -2418,7 +2418,7 @@
 </w.rf>
 <form>jedu</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---1P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS2-----A----</AM>
 <AM lemma="jed" src="auto">NNIS3-----A----</AM>
 <AM lemma="jed" src="auto">NNIS6-----A----</AM>
@@ -2488,7 +2488,7 @@
 <LM>w#w-d1t1885-3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m065-d1t1885-4">
 <w.rf>
@@ -2757,7 +2757,7 @@
 <LM>w#w-d1t1897-1</LM>
 </w.rf>
 <form>Dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m065-d1t1897-2">
 <w.rf>
@@ -2793,7 +2793,7 @@
 <LM>w#w-d1t1905-5</LM>
 </w.rf>
 <form>Dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m065-d1t1905-6">
 <w.rf>
@@ -3261,7 +3261,7 @@
 <tag>
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="auto" recommended="1">VpNS---XR-AA---</AM>
 <AM lemma="stávat-3_:T_^(někdo/něco_stojí,_např._na_nohou)_(*5t-3)" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VpNS----R-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m065-d-id129376-punct">
@@ -4345,7 +4345,7 @@
 <LM>w#w-d1t1957-13</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m065-d-m-d1e1898-x5-punct-punct">
 <w.rf>
@@ -4665,7 +4665,7 @@
 <LM>w#w-d1t1988-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m065-d1t1988-3">
 <w.rf>

@@ -193,7 +193,7 @@
 <LM>w#w-lnd92253-027-p3s2w16</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-lnd92253-027-p3s2w17">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-lnd92253-027-p3s3w3</LM>
 </w.rf>
 <form>nevydala</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpQW----R-NAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-lnd92253-027-p3s3w4">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 <LM>w#w-lnd92253-027-p3s5w12</LM>
 </w.rf>
 <form>podvodně</form>
-<tag lemma="podvodně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="podvodně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92253-027-p3s5w13">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-027-p3s6w21">

@@ -732,7 +732,7 @@
 <LM>w#w-wsj0676-001-p1s2W12</LM>
 </w.rf>
 <form>vynalezli</form>
-<tag lemma="vynaleznout" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vynaleznout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj0676-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1066,7 +1066,7 @@
 <LM>w#w-wsj0676-001-p1s4W8</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m-wsj0676-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3020,7 +3020,7 @@
 <LM>w#w-wsj0676-001-p1s13W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0676-001-p1s13W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4329,7 +4329,7 @@
 <LM>w#w-wsj0676-001-p1s19W13</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m-wsj0676-001-p1s19W14-Ta">
 <src.rf>tagger-a</src.rf>

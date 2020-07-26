@@ -2139,7 +2139,7 @@
 <form>Programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1020-001-p1s5W12-Ta">
@@ -2510,7 +2510,7 @@
 <AM lemma="Lon_;Y" src="auto">NNMP1-----A---1</AM>
 <AM lemma="Lon_;Y" src="auto">NNMP5-----A---1</AM>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1020-001-p1s6W2-Ta">

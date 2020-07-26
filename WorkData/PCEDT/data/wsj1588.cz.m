@@ -81,7 +81,7 @@
 <LM>w#w-wsj1588-001-p1s0W8</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m-wsj1588-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1674,7 +1674,7 @@
 <LM>w#w-wsj1588-001-p1s6W5</LM>
 </w.rf>
 <form>vymyslet</form>
-<tag lemma="vymyslet" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="vymyslit" src="auto" recommended="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-wsj1588-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -431,7 +431,7 @@
 <LM>w#w-ln94204-96-p2s3w4</LM>
 </w.rf>
 <form>vázány</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" selected="1">VsTP----X-API--</tag>
+<tag lemma="vázat" src="auto" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94204-96-p2s3w5">
 <src.rf>manual</src.rf>

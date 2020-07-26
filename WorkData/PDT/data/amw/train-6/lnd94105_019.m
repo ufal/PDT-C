@@ -277,7 +277,7 @@
 <LM>w#w-lnd94105-019-p1s4w13</LM>
 </w.rf>
 <form>vydá</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94105-019-p1s4w14">
 <src.rf>manual</src.rf>

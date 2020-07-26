@@ -152,7 +152,7 @@
 <LM>w#w-mf930702-093-p2s1w11</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podruhé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930702-093-p2s1w12">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-mf930702-093-p3s2w4</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-mf930702-093-p3s2w5">
 <src.rf>manual</src.rf>

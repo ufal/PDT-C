@@ -223,7 +223,7 @@
 <LM>w#w-ln94207-112-p3s1w5</LM>
 </w.rf>
 <form>monotematicky</form>
-<tag lemma="monotematicky_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="monotematicky_^(^DD**monotématicky)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94207-112-p3s1w6">
 <src.rf>manual</src.rf>

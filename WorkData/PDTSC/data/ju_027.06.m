@@ -224,7 +224,7 @@
 <LM>w#w-d1t1732-21</LM>
 </w.rf>
 <form>průmyslovku</form>
-<tag lemma="průmyslovka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="průmyslovka_,h" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m027-d1t1732-23">
 <w.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-d1t1757-8</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m027-d1t1757-9">
 <w.rf>
@@ -1363,7 +1363,7 @@
 <LM>w#w-d1t1764-12</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m027-d1t1764-15">
 <w.rf>
@@ -1693,7 +1693,7 @@
 <LM>w#w-d1t1768-18</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m027-d1t1768-19">
 <w.rf>
@@ -2496,7 +2496,7 @@
 <LM>w#w-d1t1792-4</LM>
 </w.rf>
 <form>Řikala</form>
-<tag lemma="říkat" src="auto" recommended="1">VpQW----R-AA--6</tag>
+<tag lemma="řikat_,h_^(^GC**říkat)" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m027-d1t1792-3">
 <w.rf>
@@ -2782,7 +2782,7 @@
 <LM>w#w-d1t1801-10</LM>
 </w.rf>
 <form>Vzaly</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpTP----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m027-d1t1801-11">
 <w.rf>
@@ -5164,7 +5164,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m027-d-m-d1e1896-x2-punct-punct">
@@ -5450,7 +5450,7 @@
 <LM>w#w-d1t1907-28</LM>
 </w.rf>
 <form>teďko</form>
-<tag lemma="teďka_,h" src="auto" recommended="1">Db------------6</tag>
+<tag lemma="teďko_,h_^(^GC**teďka)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m027-d1t1913-1">
 <w.rf>
@@ -5730,7 +5730,7 @@
 <AM lemma="Bor-1_;Y" src="auto">NNMP6-----A----</AM>
 <AM lemma="Bor-2_;G" src="auto">NNIP6-----A----</AM>
 <AM lemma="Boro_;G" src="auto">NNNP6-----A----</AM>
-<AM lemma="Bory_;G" src="auto" selected="1">NNIP6-----A----</AM>
+<AM lemma="Bory-2_;G" src="auto" selected="1">NNIP6-----A----</AM>
 <AM lemma="bor" src="auto" recommended="1">NNIP6-----A----</AM>
 </tag>
 </m>

@@ -27,7 +27,7 @@
 <LM>w#w-ln94207-59-p1s1w2</LM>
 </w.rf>
 <form>Spartu</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94207-59-p1s1w3">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-ln94207-59-p2s2w20</LM>
 </w.rf>
 <form>neméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2N----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2N----</tag>
 </m>
 <m id="m-ln94207-59-p2s2w21">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-ln94207-59-p2s2w25</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-59-p2s2w26">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-ln94207-59-p3s1w1</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-59-p3s1w2">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-ln94207-59-p3s1w9</LM>
 </w.rf>
 <form>Spartou</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94207-59-p3s1w10">
 <src.rf>manual</src.rf>
@@ -951,7 +951,7 @@
 <LM>w#w-ln94207-59-p3s4w5</LM>
 </w.rf>
 <form>Spartou</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94207-59-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1935,7 +1935,7 @@
 <LM>w#w-ln94207-59-p3s9w33</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94207-59-p3s9w34">
 <src.rf>manual</src.rf>

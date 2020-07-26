@@ -53,7 +53,7 @@
 <LM>w#w-ln95042-073-p2s1w4</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_;m_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ČT_;m_^(Česká_televize)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95042-073-p2s1w5">
 <src.rf>manual</src.rf>
@@ -315,7 +315,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-073-p3s1w9">
@@ -432,7 +432,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč" src="auto" recommended="1" selected="1">NNFXX-----A---b</AM>
+<AM lemma="Kč_^(koruna_česká)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-073-p3s2w12">

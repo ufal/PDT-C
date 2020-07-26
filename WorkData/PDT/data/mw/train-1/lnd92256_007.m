@@ -53,7 +53,7 @@
 <form>ČSSR</form>
 <tag>
 <AM lemma="ČSSR-1_:B_;G_^(Čs._socialistická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSR-1_;G_^(Čs._socialistická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSSR_;G_^(Čs._socialistická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-007-p1s1w6">

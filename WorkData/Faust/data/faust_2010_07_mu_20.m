@@ -15,7 +15,7 @@
 <tag>
 <AM lemma="Ahoj_;m_^(časopis)" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
-<AM lemma="ahoj" selected="1">TT-------------</AM>
+<AM lemma="ahoj" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2081-s1-w2">
@@ -403,7 +403,7 @@
 <tag>
 <AM lemma="ppm_:B_^(partes_per_milion)" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="PPM-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
-<AM lemma="ppm_^(partes_per_milion)" src="manual" selected="1">BNFXX-----A----</AM>
+<AM lemma="ppm_^(partes_per_milion)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2093-s1-w2">
@@ -2443,7 +2443,7 @@
 <form>bych</form>
 <tag>
 <AM lemma="být" recommended="1">Vc-S---1-------</AM>
-<AM lemma="být" src="manual" selected="1">Vc-S---1----I--</AM>
+<AM lemma="být" src="manual" selected="1">Vc----------Ic-</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2133-s1-w3">
@@ -2779,7 +2779,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-2" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" recommended="1">Dg-------2A---1</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--1----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--2----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--3----------</AM>
@@ -3116,7 +3116,7 @@
 <LM>w#w-mu_20-SCzechM-p2139-s1-w3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" recommended="1">ACYS------A----</tag>
 </m>
 <m id="mu_20-SCzechM-p2139-s1-w4">
 <w.rf>
@@ -4082,7 +4082,7 @@
 <LM>w#w-mu_20-SCzechM-p2143-s1-w1</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" recommended="1">Db--------A----</tag>
+<tag lemma="vždy" recommended="1">Db-------------</tag>
 </m>
 <m id="mu_20-SCzechM-p2143-s1-w2">
 <w.rf>
@@ -4735,7 +4735,7 @@
 <form>zasažena</form>
 <tag>
 <AM lemma="zasáhnout" recommended="1">VsQW---XX-AP---</AM>
-<AM lemma="zasáhnout" src="manual" selected="1">VsQW----X-APP--</AM>
+<AM lemma="zasáhnout" src="manual" selected="1">VsQW----X-APP-1</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2151-s1-w40">
@@ -5312,7 +5312,7 @@
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" recommended="1">VB-P---3P-AA--1</AM>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])">VB-P---3P-AA--3</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VB-P---3P-AAI-1</AM>
+<AM lemma="moci" src="manual" selected="1">VB-P---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2156-s1-w12">
@@ -5957,7 +5957,7 @@
 <AM lemma="soudruh_:B">NNMXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)">NNFXX-----A---8</AM>
 <AM lemma="státní_:B">AAXXX----1A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---b</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2159-s1-w8">
@@ -6002,7 +6002,7 @@
 <AM lemma="o-8_:B_^(ost._zkratka)">XX------------8</AM>
 <AM lemma="obchodní_:B_^(jen_obch._společnost)">AAFXX----1A---8</AM>
 <AM lemma="okresní_:B">AAXXX----1A---8</AM>
-<AM lemma="omezený_^(*3it)" src="manual" selected="1">AANS7----1A---b</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---b</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2159-s1-w12">
@@ -6754,7 +6754,7 @@
 <LM>w#w-mu_20-SCzechM-p2164-s1-w25</LM>
 </w.rf>
 <form>&amp;</form>
-<tag lemma="&amp;amp;" recommended="1">Z:-------------</tag>
+<tag lemma="&amp;" recommended="1">Z:-------------</tag>
 </m>
 <m id="mu_20-SCzechM-p2164-s1-w26">
 <w.rf>

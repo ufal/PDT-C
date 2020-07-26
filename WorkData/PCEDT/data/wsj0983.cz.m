@@ -1762,7 +1762,7 @@
 <LM>w#w-wsj0983-001-p1s6W12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0983-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3640,7 +3640,7 @@
 <LM>w#w-wsj0983-001-p1s15W15</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj0983-001-p1s15W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4788,7 +4788,7 @@
 <LM>w#w-wsj0983-001-p1s19W23</LM>
 </w.rf>
 <form>zamyslel</form>
-<tag lemma="zamyslet" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="zamyslit" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj0983-001-p1s19W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5698,7 +5698,7 @@
 <LM>w#w-wsj0983-001-p1s22W11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0983-001-p1s22W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6472,7 +6472,7 @@
 <LM>w#w-wsj0983-001-p1s25W14</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj0983-001-p1s25W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9177,7 +9177,7 @@
 <LM>w#w-wsj0983-001-p1s38W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0983-001-p1s38W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10012,7 +10012,7 @@
 <LM>w#w-wsj0983-001-p1s40W9</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0983-001-p1s40W10-Ta">
 <src.rf>tagger-a</src.rf>

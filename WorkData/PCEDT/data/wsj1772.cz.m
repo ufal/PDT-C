@@ -167,7 +167,7 @@
 <LM>w#w-wsj1772-001-p1s0W14</LM>
 </w.rf>
 <form>událostech</form>
-<tag lemma="událost_^(*3ý)" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="událost" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m-wsj1772-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-wsj1772-001-p1s1W10</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1772-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -444,7 +444,7 @@
 <LM>w#w-wsj1772-001-p1s1W11</LM>
 </w.rf>
 <form>tajně</form>
-<tag lemma="tajně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="tajně-1_^(*3ý-1)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1772-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2086,7 +2086,7 @@
 <LM>w#w-wsj1772-001-p1s6W7</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj1772-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2764,7 +2764,7 @@
 <LM>w#w-wsj1772-001-p1s8W15</LM>
 </w.rf>
 <form>potištěny</form>
-<tag lemma="potisknout" src="auto" recommended="1">VsTP----X-APP--</tag>
+<tag lemma="potisknout" src="auto" recommended="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-wsj1772-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2864,7 +2864,7 @@
 <LM>w#w-wsj1772-001-p1s9W3</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1772-001-p1s9W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3147,7 +3147,7 @@
 <LM>w#w-wsj1772-001-p1s9W30</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1772-001-p1s9W31-Ta">
 <src.rf>tagger-a</src.rf>

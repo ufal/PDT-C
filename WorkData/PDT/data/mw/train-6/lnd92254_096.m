@@ -425,7 +425,7 @@
 <LM>w#w-lnd92254-096-p2s2w47</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92254-096-p2s2w48">
 <src.rf>manual</src.rf>

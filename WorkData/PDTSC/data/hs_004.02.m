@@ -19,7 +19,7 @@
 <LM>w#w-d1e794-x2-968</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m004-d1e794-x2-966">
 <w.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-d1e794-x2-924</LM>
 </w.rf>
 <form>teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m004-d1e794-x2-922">
 <w.rf>
@@ -2482,7 +2482,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m004-d1t946-5">
@@ -2490,7 +2490,7 @@
 <LM>w#w-d1t946-5</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m004-d1e941-x2-300">
 <w.rf>
@@ -4028,7 +4028,7 @@
 <LM>w#w-d1t1031-10</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m004-d1t1031-14">
 <w.rf>
@@ -4567,7 +4567,7 @@
 <AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A---1</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS4-----A---1</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])_(*3ý)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="vysoko-1" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m004-d-id87726-punct">

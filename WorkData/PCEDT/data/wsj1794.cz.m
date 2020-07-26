@@ -68,7 +68,7 @@
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="DAF-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s0W6-Ta">
@@ -896,7 +896,7 @@
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="DAF-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s1W48-Ta">
@@ -2026,7 +2026,7 @@
 <form>DAF</form>
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s5W9-Ta">
@@ -2838,7 +2838,7 @@
 <form>DAF</form>
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s7W24-Ta">
@@ -3663,7 +3663,7 @@
 <form>DAF</form>
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s9W32-Ta">
@@ -3830,7 +3830,7 @@
 <form>DAF</form>
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s10W6-Ta">
@@ -4604,7 +4604,7 @@
 <form>DAF</form>
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s12W3-Ta">
@@ -4910,7 +4910,7 @@
 <form>DAF</form>
 <tag>
 <AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="DAF_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s13W7-Ta">

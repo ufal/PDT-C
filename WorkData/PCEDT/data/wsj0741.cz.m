@@ -5206,7 +5206,7 @@
 </w.rf>
 <form>SS</form>
 <tag>
-<AM lemma="SS_;m" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="SS-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="ss" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -10629,7 +10629,7 @@
 <LM>w#w-wsj0741-001-p1s35W24</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0741-001-p1s35W25-Ta">
 <src.rf>tagger-a</src.rf>

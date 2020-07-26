@@ -1710,7 +1710,7 @@
 <LM>w#w-ln94204-20-p6s1w16</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="mj_^(mimo_jiné)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-ln94204-20-p6s1w17">
 <src.rf>manual</src.rf>

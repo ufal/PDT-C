@@ -756,7 +756,7 @@
 <LM>w#w-wsj0752-001-p1s2W8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0752-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>

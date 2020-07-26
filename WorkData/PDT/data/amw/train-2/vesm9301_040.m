@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="Uma_;G" src="orig">NNFP7-----A----</AM>
 <AM lemma="umami" src="manual">NNXXX-----A----</AM>
-<AM lemma="umami_;U_^(pátá_chuť)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="umami_^(pátá_chuť)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-040-p1s1w2">
@@ -1099,7 +1099,7 @@
 <form>Vede</form>
 <tag>
 <AM lemma="vést" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="Vede_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Vede_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-040-p2s5w29">
@@ -1238,7 +1238,7 @@
 <form>umami</form>
 <tag>
 <AM lemma="umami_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="umami_;U_^(pátá_chuť)" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="umami_^(pátá_chuť)" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-040-p2s5w46">
@@ -1507,7 +1507,7 @@
 <LM>w#w-vesm9301-040-p2s7w15</LM>
 </w.rf>
 <form>glutamátem</form>
-<tag lemma="glutamát_;U" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="glutamát" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9301-040-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1535,7 +1535,7 @@
 <form>Umami</form>
 <tag>
 <AM lemma="Uma_;G" src="orig">NNFP7-----A----</AM>
-<AM lemma="umami_;U_^(pátá_chuť)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="umami_^(pátá_chuť)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-040-p2s8w2">
@@ -1594,7 +1594,7 @@
 <LM>w#w-vesm9301-040-p2s9w1</LM>
 </w.rf>
 <form>Může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-040-p2s9w2">
 <src.rf>manual</src.rf>

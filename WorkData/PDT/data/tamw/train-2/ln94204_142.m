@@ -909,7 +909,7 @@
 <LM>w#w-ln94204-142-p2s4w7</LM>
 </w.rf>
 <form>báli</form>
-<tag lemma="bát" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94204-142-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1450,7 +1450,7 @@
 <LM>w#w-ln94204-142-p2s8w11</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94204-142-p2s8w12">
 <src.rf>manual</src.rf>
@@ -2249,7 +2249,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-142-p2s12w6">
@@ -2266,7 +2266,7 @@
 <LM>w#w-ln94204-142-p2s12w7</LM>
 </w.rf>
 <form>ukradl</form>
-<tag lemma="ukrást" src="auto" selected="1">VpYS----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94204-142-p2s12w8">
 <src.rf>manual</src.rf>
@@ -2322,7 +2322,7 @@
 <LM>w#w-ln94204-142-p2s12w14</LM>
 </w.rf>
 <form>stíhaček</form>
-<tag lemma="stíhačka_^(letadlo)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="stíhačka_^(*2)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94204-142-p2s12w15">
 <src.rf>manual</src.rf>
@@ -2421,7 +2421,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-142-p2s13w3">
@@ -2686,7 +2686,7 @@
 <LM>w#w-ln94204-142-p2s14w11</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-142-p2s14w12">
 <src.rf>manual</src.rf>
@@ -2912,7 +2912,7 @@
 <LM>w#w-ln94204-142-p2s16Aw3</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94204-142-p2s16Aw4">
 <src.rf>manual</src.rf>

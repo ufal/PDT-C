@@ -227,7 +227,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-047-p2s1Bw20">
@@ -246,7 +246,7 @@
 <form>OH</form>
 <tag>
 <AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OH-2_^(Olympijské_hry)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-047-p2s1Bw22">
@@ -484,7 +484,7 @@
 <tag>
 <AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="HIV_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="HIV_;U_^(lidský_virus_způsobujícíIDS)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-047-p2s2w16">
@@ -535,7 +535,7 @@
 <form>OH</form>
 <tag>
 <AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OH-2_^(Olympijské_hry)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-047-p2s2w22">
@@ -1367,7 +1367,7 @@
 <LM>w#w-ln95049-047-p4s1w24</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95049-047-p4s1w25">
 <src.rf>manual</src.rf>

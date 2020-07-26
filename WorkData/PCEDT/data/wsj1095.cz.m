@@ -68,7 +68,7 @@
 <LM>w#w-wsj1095-001-p1s0W6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1095-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -636,7 +636,7 @@
 <LM>w#w-wsj1095-001-p1s2W14</LM>
 </w.rf>
 <form>ústavně</form>
-<tag lemma="ústavně_^(adjektivum_k_ústava;;ustavičný)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="ústavně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1095-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1134,7 +1134,7 @@
 <LM>w#w-wsj1095-001-p1s5W2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1095-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -334,7 +334,7 @@
 <form>TASS</form>
 <tag>
 <AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TASS_;m_^(ruská_tisková_agentura)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-068-p2s2w8">
@@ -625,7 +625,7 @@
 <LM>w#w-ln95046-068-p2s3w24</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-068-p2s3w25">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-ln95046-068-p2s3w28</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95046-068-p2s3w29">
 <src.rf>manual</src.rf>

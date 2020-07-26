@@ -47,7 +47,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-69-p2s1w4">
@@ -74,7 +74,7 @@
 <form>mjr</form>
 <tag>
 <AM lemma="major_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="major" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="major" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94210-69-p2s1w7">
@@ -205,7 +205,7 @@
 <LM>w#w-ln94210-69-p2s3w1</LM>
 </w.rf>
 <form>Stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-69-p2s3w2">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <form>mjr</form>
 <tag>
 <AM lemma="major_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="major" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="major" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94210-69-p2s3w5">

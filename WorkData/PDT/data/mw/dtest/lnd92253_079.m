@@ -88,7 +88,7 @@
 <tag>
 <AM lemma="versus_:B" src="orig">RR--1----------</AM>
 <AM lemma="versus_:B_,t_,x" src="auto" recommended="1">RR--1---------8</AM>
-<AM lemma="vers-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="versus" src="manual" selected="1">RR--1---------a</AM>
 </tag>
 </m>
 <m id="m-lnd92253-079-p2s1w4">
@@ -568,7 +568,7 @@
 <LM>w#w-lnd92253-079-p2s3w26</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92253-079-p2s3w27">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--1----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-079-p2s4w7">
@@ -1083,7 +1083,7 @@
 <LM>w#w-lnd92253-079-p2s8w12</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-079-p2s8w13">
 <src.rf>manual</src.rf>
@@ -1364,7 +1364,7 @@
 <LM>w#w-lnd92253-079-p2s9w13</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92253-079-p2s9w14">
 <src.rf>manual</src.rf>
@@ -1382,7 +1382,7 @@
 <form>Bohemians</form>
 <tag>
 <AM lemma="Bohemians_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Bohemians_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-079-p2s9w16">
@@ -1465,7 +1465,7 @@
 <LM>w#w-lnd92253-079-p3s1w2</LM>
 </w.rf>
 <form>šv</form>
-<tag lemma="šv-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="šv-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92253-079-p3s1w3">
 <src.rf>manual</src.rf>

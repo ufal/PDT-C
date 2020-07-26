@@ -302,7 +302,7 @@
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
 <AM lemma="metr" src="manual">NNIXX-----A----</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94210-120-p3s1w16">
@@ -311,7 +311,7 @@
 <LM>w#w-ln94210-120-p3s1w16</LM>
 </w.rf>
 <form>Diane</form>
-<tag lemma="Diane_;Y" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Diane_;Y_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94210-120-p3s1w17">
 <src.rf>manual</src.rf>

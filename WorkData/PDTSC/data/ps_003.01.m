@@ -303,7 +303,7 @@
 <form>vámi</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P7--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P7--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P7--2-------</AM>
 </tag>
 </m>
 <m id="m003-d1t294-5">
@@ -423,7 +423,7 @@
 <LM>w#w-d1t298-6</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m003-d1t298-7">
 <w.rf>
@@ -1439,7 +1439,7 @@
 <LM>w#w-d1t363-4</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m003-d-id67723-punct">
 <w.rf>
@@ -1515,7 +1515,7 @@
 <form>prvně</form>
 <tag>
 <AM lemma="prvně" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="prvně_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="prvně" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m003-d-id67922-punct">
@@ -1624,7 +1624,7 @@
 <form>Velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m003-d1t381-2">
@@ -1740,7 +1740,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m003-d-m-d1e378-x2-punct-punct">
@@ -1773,7 +1773,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m003-d-id68456-punct">
@@ -2133,7 +2133,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m003-d-id69117-punct">
@@ -2170,7 +2170,7 @@
 <form>lépe</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------2A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="lépe" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m003-d1e409-x2-2202">
@@ -2246,7 +2246,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m003-d1t436-3">
@@ -2298,7 +2298,7 @@
 <LM>w#w-d1t440-2</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m003-d-m-d1e437-x2-punct-punct">
 <w.rf>
@@ -2816,7 +2816,7 @@
 <form>nejlépe</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------3A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="lépe" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m003-d1t468-6">
@@ -3049,7 +3049,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m003-d-id71333-punct">
@@ -4473,7 +4473,7 @@
 <LM>w#w-d1t591-3</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m003-d1t591-4">
 <w.rf>
@@ -4503,7 +4503,7 @@
 <LM>w#w-d1t601-2</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m003-d1t601-4">
 <w.rf>

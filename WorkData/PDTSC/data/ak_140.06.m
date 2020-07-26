@@ -91,7 +91,7 @@
 <LM>w#w-d1t1105-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m140-d-id99656-punct">
 <w.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-d1t1111-2</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m140-d1t1111-3">
 <w.rf>
@@ -250,7 +250,7 @@
 <LM>w#w-d1t1115-8</LM>
 </w.rf>
 <form>rády</form>
-<tag lemma="rád" src="auto" recommended="1">ACTP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACTP------A----</tag>
 </m>
 <m id="m140-93-94">
 <w.rf>
@@ -923,7 +923,7 @@
 <LM>w#w-d1t1140-8</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m140-d1t1140-9">
 <w.rf>
@@ -1043,7 +1043,7 @@
 </w.rf>
 <form>stále</form>
 <tag>
-<AM lemma="stále" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="stále_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="stále_^(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -1530,7 +1530,7 @@
 </w.rf>
 <form>Vánoc</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -1778,7 +1778,7 @@
 <LM>w#w-d1t1185-20</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m140-d1t1185-24">
 <w.rf>
@@ -2154,7 +2154,7 @@
 </w.rf>
 <form>Vánoci</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP7-----A---1</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP7-----A---1</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP7-----A---1</AM>
 </tag>
 </m>
@@ -3237,7 +3237,7 @@
 <LM>w#w-d1t1234-15</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m140-d1t1234-16">
 <w.rf>
@@ -3841,7 +3841,7 @@
 </w.rf>
 <form>vyděláme</form>
 <tag>
-<AM lemma="vydělat-1_^(peníze)" src="auto" recommended="1">VB-P---1P-AAP--</AM>
+<AM lemma="vydělat_^(kůže;peníze)" src="auto" recommended="1">VB-P---1P-AAP--</AM>
 <AM lemma="vydělat-2_:W_^(kůže)" src="auto">VB-P---1P-AA---</AM>
 </tag>
 </m>

@@ -98,7 +98,7 @@
 <form>čtk</form>
 <tag>
 <AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="čtk_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-20-p2s1Aw6">
@@ -829,7 +829,7 @@
 <LM>w#w-ln94200-20-p3s2w1</LM>
 </w.rf>
 <form>Pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-20-p3s2w2">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 <LM>w#w-ln94200-20-p3s2w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-20-p3s2w4">
 <src.rf>manual</src.rf>
@@ -933,7 +933,7 @@
 <LM>w#w-ln94200-20-p3s2w14</LM>
 </w.rf>
 <form>obsaženy</form>
-<tag lemma="obsáhnout" src="orig" selected="1">VsTP----X-AP---</tag>
+<tag lemma="obsáhnout" src="orig" selected="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-ln94200-20-p3s2w15">
 <src.rf>manual</src.rf>

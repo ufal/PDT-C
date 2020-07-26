@@ -29,7 +29,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-062-p1s1w3">
@@ -48,7 +48,7 @@
 <form>méně</form>
 <tag>
 <AM lemma="málo-3" src="orig">Dg-------2A----</AM>
-<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="méně" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-062-p1s1w5">
@@ -187,7 +187,7 @@
 <LM>w#w-ln95044-062-p2s1w16</LM>
 </w.rf>
 <form>vědecko</form>
-<tag lemma="vědecký" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="vědecko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95044-062-p2s1w17">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-ln95044-062-p3s1w48</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-062-p3s1w49">
 <src.rf>manual</src.rf>

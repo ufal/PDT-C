@@ -2177,7 +2177,7 @@
 <LM>w#w-d1t451-9</LM>
 </w.rf>
 <form>sehnat</form>
-<tag lemma="sehnat" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="sehnat_^(shánět)" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m714-d1t451-10">
 <w.rf>
@@ -2399,7 +2399,7 @@
 <LM>w#w-d1t460-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m714-d1t460-4">
 <w.rf>
@@ -3671,7 +3671,7 @@
 <LM>w#w-d1t503-8</LM>
 </w.rf>
 <form>pojedu</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---1F-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-S---1F-AAI--</tag>
 </m>
 <m id="m714-d1t503-9">
 <w.rf>
@@ -3719,7 +3719,7 @@
 <tag>
 <AM lemma="Dakota-1_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dakota-2_;G_^(stát_v_USA)" src="auto">NNFS1-----A----</AM>
-<AM lemma="dakota-1_;m_^(typ_letadla)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="dakota-1_^(typ_letadla)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m714-d1t510-5">
@@ -4163,7 +4163,7 @@
 <form>Nechal</form>
 <tag>
 <AM lemma="Nechal_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</AM>
+<AM lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m714-d1t532-22">
@@ -4236,7 +4236,7 @@
 </w.rf>
 <form>vyhrávat</form>
 <tag>
-<AM lemma="vyhrávat-2_^(hudba)" src="auto" selected="1">Vf--------A-I--</AM>
+<AM lemma="vyhrávat_^(*3t)" src="auto" selected="1">Vf--------A-I--</AM>
 <AM lemma="vyhrávat_^(*3t)" src="auto" recommended="1">Vf--------A-I--</AM>
 </tag>
 </m>
@@ -4753,7 +4753,7 @@
 <LM>w#w-d1t549-1</LM>
 </w.rf>
 <form>Kdybyste</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m714-d1t549-2">
 <w.rf>
@@ -4824,7 +4824,7 @@
 <LM>w#w-d1t549-11</LM>
 </w.rf>
 <form>sekretářku</form>
-<tag lemma="sekretářka_^(*2)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="sekretářka-2_^(*4-2)" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m714-d1e24-x54-154">
 <w.rf>
@@ -5083,7 +5083,7 @@
 <LM>w#w-d1t553-20</LM>
 </w.rf>
 <form>sekretářku</form>
-<tag lemma="sekretářka_^(*2)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="sekretářka-2_^(*4-2)" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m714-d1e24-x55-1604">
 <w.rf>
@@ -6135,7 +6135,7 @@
 <form>škoda</form>
 <tag>
 <AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="škoda" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m714-199-200">
@@ -6264,7 +6264,7 @@
 <LM>w#w-d1t586-4</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m714-d-id89331">
 <w.rf>

@@ -1716,7 +1716,7 @@
 <LM>w#w-ln95046-043-p4s3w9</LM>
 </w.rf>
 <form>oranžově</form>
-<tag lemma="oranžově_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="oranžově_;o_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95046-043-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1855,7 +1855,7 @@
 <form>může</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95046-043-p4s3w27">
@@ -2703,7 +2703,7 @@
 <LM>w#w-ln95046-043-p5s1w35</LM>
 </w.rf>
 <form>Laokoon</form>
-<tag lemma="Láokoón_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Laokoon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-043-p5s1w36">
 <src.rf>manual</src.rf>
@@ -3028,7 +3028,7 @@
 <LM>w#w-ln95046-043-p5s3w6</LM>
 </w.rf>
 <form>očí</form>
-<tag lemma="oko" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95046-043-p5s3w7">
 <src.rf>manual</src.rf>
@@ -3440,7 +3440,7 @@
 <LM>w#w-ln95046-043-p5s5w10</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95046-043-p5s5w11">
 <src.rf>manual</src.rf>

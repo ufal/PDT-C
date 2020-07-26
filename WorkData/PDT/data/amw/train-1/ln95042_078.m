@@ -470,7 +470,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS7-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS7-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-078-p2s3w6">
@@ -678,7 +678,7 @@
 <form>intenzívně</form>
 <tag>
 <AM lemma="intenzívně_^(*1í)" src="orig">Dg-------1A----</AM>
-<AM lemma="intenzívně_,s_^(^DD**intenzivně)_^(*4ívní)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="intenzívně_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-078-p2s4w5">
@@ -711,7 +711,7 @@
 <LM>w#w-ln95042-078-p2s4w8</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95042-078-p2s4w9">
 <src.rf>manual</src.rf>

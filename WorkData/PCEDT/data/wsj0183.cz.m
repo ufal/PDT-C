@@ -2023,7 +2023,7 @@
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
 <AM lemma="milión`1000000" src="manual">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">CzIXX-----A---b</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-wsj0183-001-p1s5W16-Ta">
@@ -2097,7 +2097,7 @@
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
 <AM lemma="milión`1000000" src="manual">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">CzIXX-----A---b</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-wsj0183-001-p1s5W23-Ta">
@@ -2216,7 +2216,7 @@
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
 <AM lemma="milión`1000000" src="manual">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">CzIXX-----A---b</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-wsj0183-001-p1s5W31-Ta">
@@ -2854,7 +2854,7 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-wsj0183-001-p1s7W10-Ta">

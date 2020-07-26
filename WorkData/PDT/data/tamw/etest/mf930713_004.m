@@ -545,7 +545,7 @@
 <LM>w#w-mf930713-004-p3s5w2</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-mf930713-004-p3s5w3">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-mf930713-004-p3s5w3</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-004-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1510,7 +1510,7 @@
 <LM>w#w-mf930713-004-p3s10w13</LM>
 </w.rf>
 <form>Elisabeth</form>
-<tag lemma="Elisabeth_;Y" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Elisabeth_;Y_,s_^(^DD**Elizabeth-1)" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930713-004-p3s10w14">
 <src.rf>manual</src.rf>
@@ -1748,7 +1748,7 @@
 <LM>w#w-mf930713-004-p3s14w2</LM>
 </w.rf>
 <form>prof</form>
-<tag lemma="profesor" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="prof_^(profesor)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930713-004-p3s14w3">
 <src.rf>manual</src.rf>
@@ -1769,7 +1769,7 @@
 <AM lemma="František_:B_;Y_,x" src="auto" recommended="1">NNMXX-----A---8</AM>
 <AM lemma="Františkův-1_:B_;Y_,x" src="auto">AUXXXM--------8</AM>
 <AM lemma="Františkův-2_:B_;G_,x" src="auto">AUXXXM--------8</AM>
-<AM lemma="František_;Y" src="manual" selected="1">NNMXX-----A---b</AM>
+<AM lemma="František_;Y" src="manual" selected="1">NNMXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930713-004-p3s14w5">

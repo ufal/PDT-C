@@ -884,7 +884,7 @@
 <LM>w#w-87-88</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m020-d1t1007-3">
 <w.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-d1t1011-4</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m020-d1t1011-3">
 <w.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-d1t1016-6</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m020-d1t1016-7">
 <w.rf>
@@ -1219,7 +1219,7 @@
 <LM>w#w-d1t1022-4</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m020-d-id102693-punct">
 <w.rf>
@@ -1635,7 +1635,7 @@
 <LM>w#w-d1t1026-15</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m020-d1t1026-17">
 <w.rf>
@@ -3063,7 +3063,7 @@
 <LM>w#w-d1t1098-9</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m020-d1t1098-10">
 <w.rf>

@@ -342,7 +342,7 @@
 <LM>w#w-mf930708-088-p4s2w6</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-088-p4s2w7">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-mf930708-088-p4s4w1</LM>
 </w.rf>
 <form>Ukradli</form>
-<tag lemma="ukrást" src="auto" selected="1">VpMP----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930708-088-p4s4w2">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 <LM>w#w-mf930708-088-p4s9w6</LM>
 </w.rf>
 <form>přistižen</form>
-<tag lemma="přistihnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="přistihnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-mf930708-088-p4s9w7">
 <src.rf>manual</src.rf>
@@ -1182,7 +1182,7 @@
 <LM>w#w-mf930708-088-p4s10w13</LM>
 </w.rf>
 <form>ukradl</form>
-<tag lemma="ukrást" src="auto" selected="1">VpYS----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930708-088-p4s10w14">
 <src.rf>manual</src.rf>
@@ -1283,7 +1283,7 @@
 <LM>w#w-mf930708-088-p5s1w10</LM>
 </w.rf>
 <form>nápravně</form>
-<tag lemma="nápravně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="nápravně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930708-088-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1558,7 +1558,7 @@
 <LM>w#w-mf930708-088-p5s2w17</LM>
 </w.rf>
 <form>nápravně</form>
-<tag lemma="nápravně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="nápravně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930708-088-p5s2w18">
 <src.rf>manual</src.rf>

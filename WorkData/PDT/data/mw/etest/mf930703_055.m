@@ -298,7 +298,7 @@
 <LM>w#w-mf930703-055-p2s2w13</LM>
 </w.rf>
 <form>vydělávat</form>
-<tag lemma="vydělávat-1_^(peníze)_(*6at-1)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="vydělávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930703-055-p2s2w14">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-mf930703-055-p3s2w5</LM>
 </w.rf>
 <form>výhradně</form>
-<tag lemma="výhradně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="výhradně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930703-055-p3s2w6">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KSČ_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-055-p3s3w6">
@@ -965,7 +965,7 @@
 <LM>w#w-mf930703-055-p3s5w1</LM>
 </w.rf>
 <form>Zato</form>
-<tag lemma="zato" src="orig" selected="1">J,-------------</tag>
+<tag lemma="zato" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930703-055-p3s5w2">
 <src.rf>manual</src.rf>

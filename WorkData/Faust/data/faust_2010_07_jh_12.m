@@ -322,7 +322,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -3113,7 +3113,7 @@
 <LM>w#w-jh_12-SCzechM-p1257-s1-w3</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" recommended="1">Db-------------</tag>
 </m>
 <m id="jh_12-SCzechM-p1257-s1-w4">
 <w.rf>
@@ -3419,7 +3419,7 @@
 <LM>w#w-jh_12-SCzechM-p1261-s1-w4</LM>
 </w.rf>
 <form>abyste</form>
-<tag lemma="aby" recommended="1">J,-P---2-------</tag>
+<tag lemma="aby" recommended="1">J,-----------e-</tag>
 </m>
 <m id="jh_12-SCzechM-p1261-s1-w5">
 <w.rf>
@@ -4501,7 +4501,7 @@
 <LM>w#w-jh_12-SCzechM-p1265-s1-w24</LM>
 </w.rf>
 <form>ačkoliv</form>
-<tag lemma="ačkoli" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" recommended="1">J,-------------</tag>
 </m>
 <m id="jh_12-SCzechM-p1265-s1-w25">
 <w.rf>
@@ -5369,7 +5369,7 @@
 <form>bránit</form>
 <tag>
 <AM lemma="bránit_:T_^(klást_překážky)" recommended="1">Vf--------A----</AM>
-<AM lemma="bránit_^(klást_překážky)" src="manual" selected="1">Vf--------A-I--</AM>
+<AM lemma="bránit" src="manual" selected="1">Vf--------A-I--</AM>
 </tag>
 </m>
 <m id="jh_12-SCzechM-p1282-s1-w9">
@@ -5490,7 +5490,7 @@
 <LM>w#w-jh_12-SCzechM-p1286-s1-w1</LM>
 </w.rf>
 <form>Abyste</form>
-<tag lemma="aby" recommended="1">J,-P---2-------</tag>
+<tag lemma="aby" recommended="1">J,-----------e-</tag>
 </m>
 <m id="jh_12-SCzechM-p1286-s1-w2">
 <w.rf>

@@ -434,7 +434,7 @@
 <LM>w#w-lnd91301-013-p4s3w8</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-013-p4s3w9">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-lnd91301-013-p4s3w20</LM>
 </w.rf>
 <form>stranami</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-lnd91301-013-p4s3w21">
 <src.rf>manual</src.rf>

@@ -69,7 +69,7 @@
 <form>SCI</form>
 <tag>
 <AM lemma="science-2_:B_,t_^(angl._vědecký)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="sci-1_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="sci" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-020-p1s1w8">
@@ -119,7 +119,7 @@
 <LM>w#w-mf920925-020-p2s1w2</LM>
 </w.rf>
 <form>neradi</form>
-<tag lemma="rád" src="orig" selected="1">ACMP------N----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACMP------N----</tag>
 </m>
 <m id="m-mf920925-020-p2s1w3">
 <src.rf>manual</src.rf>
@@ -1185,7 +1185,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920925-020-p3s2w13">
@@ -1966,7 +1966,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-020-p3s7w10">
@@ -2112,7 +2112,7 @@
 <form>Sci</form>
 <tag>
 <AM lemma="science-2_:B_,t_^(angl._vědecký)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="sci-1_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="sci" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-020-p4s1w2">
@@ -2166,7 +2166,7 @@
 <LM>w#w-mf920925-020-p4s1w7</LM>
 </w.rf>
 <form>britsku</form>
-<tag lemma="britsko_^(ve_spojení_&quot;po_britsku&quot;)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="britsku_^(ve_spojení_&quot;po_britsku&quot;)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920925-020-p4s1w8">
 <src.rf>manual</src.rf>
@@ -2214,7 +2214,7 @@
 <LM>w#w-mf920925-020-p4s1w13</LM>
 </w.rf>
 <form>koupe</form>
-<tag lemma="koupat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="koupat" src="orig" selected="1">VB-S---3P-AAI-1</tag>
 </m>
 <m id="m-mf920925-020-p4s1w14">
 <src.rf>manual</src.rf>

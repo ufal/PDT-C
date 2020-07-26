@@ -569,7 +569,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m113-d1e761-x2-411">
@@ -1056,7 +1056,7 @@
 <form>svém</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</AM>
-<AM lemma="svůj-1_^(přivlast.)_(*2)" src="manual" selected="1">P8ZS6----------</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="manual" selected="1">P8ZS6----------</AM>
 </tag>
 </m>
 <m id="m113-d1t776-3">
@@ -3955,7 +3955,7 @@
 <LM>w#w-d1t858-19</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;Y_;m" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m113-d-id99075-punct">
 <w.rf>
@@ -4174,7 +4174,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -5556,7 +5556,7 @@
 <LM>w#w-d1t902-10</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m113-d1t902-15">
 <w.rf>
@@ -6116,7 +6116,7 @@
 <LM>w#w-d1t918-34</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m113-d-m-d1e915-x2-punct-punct">
 <w.rf>
@@ -6145,7 +6145,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m113-d1t922-3">

@@ -74,7 +74,7 @@
 <form>nar</form>
 <tag>
 <AM lemma="narozený_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="narozený" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="narozený" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-105-p2s1w5">
@@ -1139,7 +1139,7 @@
 <LM>w#w-ln94204-105-p3s4w2</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94204-105-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <LM>w#w-ln94204-105-p3s4w11</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94204-105-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1465,7 +1465,7 @@
 <LM>w#w-ln94204-105-p3s4w42</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-105-p3s4w43">
 <src.rf>manual</src.rf>
@@ -1629,7 +1629,7 @@
 <LM>w#w-ln94204-105-p4s1w9</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln94204-105-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1687,7 +1687,7 @@
 <LM>w#w-ln94204-105-p4s2w5</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94204-105-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1769,7 +1769,7 @@
 <LM>w#w-ln94204-105-p4s3w3</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94204-105-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1931,7 +1931,7 @@
 <LM>w#w-ln94204-105-p5s1w6</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94204-105-p5s1w7">
 <src.rf>manual</src.rf>
@@ -2719,7 +2719,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-105-p6s3w31">
@@ -3100,7 +3100,7 @@
 <LM>w#w-ln94204-105-p6s6w15</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94204-105-p6s6w16">
 <src.rf>manual</src.rf>
@@ -3281,7 +3281,7 @@
 <form>ČSM</form>
 <tag>
 <AM lemma="ČSM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSM-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSM_^(Československý_svaz_mládeže)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-105-p6s6w38">
@@ -3886,7 +3886,7 @@
 <LM>w#w-ln94204-105-p7s3w26</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94204-105-p7s3w27">
 <src.rf>manual</src.rf>
@@ -4807,7 +4807,7 @@
 <LM>w#w-ln94204-105-p8s5w6</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94204-105-p8s5w7">
 <src.rf>manual</src.rf>
@@ -4887,7 +4887,7 @@
 <LM>w#w-ln94204-105-p8s5w16</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln94204-105-p8s5w17">
 <src.rf>manual</src.rf>

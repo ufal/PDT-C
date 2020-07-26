@@ -342,7 +342,7 @@
 <LM>w#w-lnd92252-092-p3s3w15</LM>
 </w.rf>
 <form>přivezl</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="přivézt" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-092-p3s3w16">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--1----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p4s2w13">
@@ -1373,7 +1373,7 @@
 <LM>w#w-lnd92252-092-p4s2w118</LM>
 </w.rf>
 <form>Cassovia</form>
-<tag lemma="Cassovia_;m" src="auto" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Cassovia_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-092-p4s2w119">
 <src.rf>manual</src.rf>
@@ -1812,7 +1812,7 @@
 <LM>w#w-lnd92252-092-p7s1w3</LM>
 </w.rf>
 <form>Cassovia</form>
-<tag lemma="Cassovia_;m" src="auto" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Cassovia_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-092-p7s1w4">
 <src.rf>manual</src.rf>
@@ -2314,7 +2314,7 @@
 <form>Lok</form>
 <tag>
 <AM lemma="Lokomotiva_:B_;m_^(sport.:_souč._názvu_klubu)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Lokomotiva_;m" src="manual" selected="1">NNFXX-----A---b</AM>
+<AM lemma="Lokomotiva_;m_^(sport.:_souč._názvu_klubu)" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p15s1w4">
@@ -2433,7 +2433,7 @@
 <LM>w#w-lnd92252-092-p17s1w3</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-092-p17s1w4">
 <src.rf>manual</src.rf>

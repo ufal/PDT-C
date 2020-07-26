@@ -231,7 +231,7 @@
 <LM>w#w-lnd92256-008-p2s2w11</LM>
 </w.rf>
 <form>ukradne</form>
-<tag lemma="ukrást" src="auto" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92256-008-p2s2w12">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 <form>nevezme</form>
 <tag>
 <AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig">VB-S---3P-NA---</AM>
-<AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="manual" selected="1">VB-S---3P-NAP--</AM>
+<AM lemma="vzít" src="manual" selected="1">VB-S---3P-NAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92256-008-p2s2w31">
@@ -612,7 +612,7 @@
 <form>líže</form>
 <tag>
 <AM lemma="lízat" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="lízat" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="lízat" src="manual" selected="1">VB-S---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m-lnd92256-008-p2s3w28">
@@ -2955,7 +2955,7 @@
 <LM>w#w-lnd92256-008-p5s4w11</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd92256-008-p5s4w12">
 <src.rf>manual</src.rf>
@@ -3331,7 +3331,7 @@
 <LM>w#w-lnd92256-008-p5s5w31</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92256-008-p5s5w32">
 <src.rf>manual</src.rf>
@@ -3357,7 +3357,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92256-008-p5s5w35">

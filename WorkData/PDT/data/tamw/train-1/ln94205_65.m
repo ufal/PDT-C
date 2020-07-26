@@ -268,7 +268,7 @@
 <LM>w#w-ln94205-65-p2s1Cw18</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94205-65-p2s1Cw19">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <form>vyňal</form>
 <tag>
 <AM lemma="vyjmout_,a_,x" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="vyjmout_,a" src="manual" selected="1">VpYS----R-AA---</AM>
+<AM lemma="vyjmout" src="manual" selected="1">VpYS----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-ln94205-65-p3s1w10">
@@ -1340,7 +1340,7 @@
 <LM>w#w-ln94205-65-p4s1w12</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94205-65-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1540,7 +1540,7 @@
 <LM>w#w-ln94205-65-p4s1w37</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-ln94205-65-p4s1w38">
 <src.rf>manual</src.rf>
@@ -1688,7 +1688,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
+<AM lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-65-p4s2w12">
@@ -1996,7 +1996,7 @@
 <LM>w#w-ln94205-65-p4s3w30</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94205-65-p4s3w31">
 <src.rf>manual</src.rf>
@@ -2118,7 +2118,7 @@
 <LM>w#w-ln94205-65-p4s4w11</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-65-p4s4w12">
 <src.rf>manual</src.rf>

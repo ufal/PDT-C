@@ -141,7 +141,7 @@
 <LM>w#w-ln94206-119-p2s1Bw6</LM>
 </w.rf>
 <form>právech</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94206-119-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-ln94206-119-p2s2w12</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-119-p2s2w13">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <form>odd</form>
 <tag>
 <AM lemma="oddělení_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="oddělení" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="oddělení" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94206-119-p2s2w19">
@@ -459,7 +459,7 @@
 <LM>w#w-ln94206-119-p2s2w30</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94206-119-p2s2w31">
 <src.rf>manual</src.rf>
@@ -507,7 +507,7 @@
 <LM>w#w-ln94206-119-p2s2w36</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-119-p2s2w37">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-ln94206-119-p2s4w2</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-119-p2s4w3">
 <src.rf>manual</src.rf>

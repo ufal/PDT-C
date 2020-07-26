@@ -97,7 +97,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-075-p2s1Bw4">
@@ -608,7 +608,7 @@
 <LM>w#w-ln95045-075-p2s4w7</LM>
 </w.rf>
 <form>předali</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-075-p2s4w8">
 <src.rf>manual</src.rf>

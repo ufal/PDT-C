@@ -552,7 +552,7 @@
 <form>STB</form>
 <tag>
 <AM lemma="STB_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="STB_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="STB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m984-d-id105647">
@@ -744,7 +744,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m984-d1t1420-8">
@@ -2566,7 +2566,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -3141,7 +3141,7 @@
 <LM>w#w-d1t1564-1</LM>
 </w.rf>
 <form>myslely</form>
-<tag lemma="myslet" src="auto" recommended="1">VpTP----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpTP----R-AAI-1</tag>
 </m>
 <m id="m984-d-id110653">
 <w.rf>
@@ -3901,7 +3901,7 @@
 <LM>w#w-d1t1592-1</LM>
 </w.rf>
 <form>rády</form>
-<tag lemma="rád" src="auto" recommended="1">ACTP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACTP------A----</tag>
 </m>
 <m id="m984-d1e1531-x8-9078">
 <w.rf>
@@ -3943,7 +3943,7 @@
 <LM>w#w-d1t1597-5</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m984-d1t1597-6">
 <w.rf>
@@ -4225,7 +4225,7 @@
 <LM>w#w-d1t1603-16</LM>
 </w.rf>
 <form>vezmou</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VB-P---3P-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m984-d-id112545">
 <w.rf>
@@ -4298,7 +4298,7 @@
 <LM>w#w-d1t1605-2</LM>
 </w.rf>
 <form>Umíš</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-S---2P-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-S---2P-AAI--</tag>
 </m>
 <m id="m984-d1t1605-3">
 <w.rf>
@@ -4345,7 +4345,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m984-d1t1605-9">
@@ -4554,7 +4554,7 @@
 </w.rf>
 <form>moci</form>
 <tag>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">Vf--------A-I--</AM>
+<AM lemma="moci" src="auto" recommended="1">Vf--------A-I--</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFP1-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFP4-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFP5-----A----</AM>
@@ -4579,7 +4579,7 @@
 <LM>w#w-d1t1610-11</LM>
 </w.rf>
 <form>zaměstnat</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="zaměstnat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m984-d-id113098">
 <w.rf>
@@ -5017,14 +5017,14 @@
 <LM>w#w-d1t1627-13</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m984-d1t1627-14">
 <w.rf>
 <LM>w#w-d1t1627-14</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m984-d1t1627-15">
 <w.rf>
@@ -5348,7 +5348,7 @@
 <LM>w#w-d1t1640-4</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m984-d1e1531-x12-9597">
 <w.rf>

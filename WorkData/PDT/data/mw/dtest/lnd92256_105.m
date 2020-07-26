@@ -425,7 +425,7 @@
 <form>Bohemians</form>
 <tag>
 <AM lemma="Bohemians_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Bohemians-2_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-105-p2s2w36">
@@ -558,7 +558,7 @@
 <form>ČMFL</form>
 <tag>
 <AM lemma="ČMFL_:B_;m_^(Č.-moravský_fotbalový_svaz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČMFL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČMFL_;m_^(Č.-moravský_fotbalový_svaz)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-105-p2s3w11">
@@ -745,7 +745,7 @@
 <LM>w#w-lnd92256-105-p2s4w9</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-105-p2s4w10">
 <src.rf>manual</src.rf>
@@ -761,7 +761,7 @@
 <LM>w#w-lnd92256-105-p2s4w11</LM>
 </w.rf>
 <form>Spartu</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92256-105-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1055,7 +1055,7 @@
 <form>ČMFL</form>
 <tag>
 <AM lemma="ČMFL_:B_;m_^(Č.-moravský_fotbalový_svaz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČMFL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČMFL_;m_^(Č.-moravský_fotbalový_svaz)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-105-p2s6w8">
@@ -1276,7 +1276,7 @@
 <form>ČMFL</form>
 <tag>
 <AM lemma="ČMFL_:B_;m_^(Č.-moravský_fotbalový_svaz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČMFL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČMFL_;m_^(Č.-moravský_fotbalový_svaz)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-105-p3s1w6">

@@ -237,7 +237,7 @@
 <LM>w#w-lnd92254-027-p1s1w27</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd92254-027-p1s1w28">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-lnd92254-027-p1s4w11</LM>
 </w.rf>
 <form>bránilo</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-027-p1s4w12">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-lnd92254-027-p1s4w16</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-027-p1s4w17">
 <src.rf>manual</src.rf>
@@ -1134,7 +1134,7 @@
 <LM>w#w-lnd92254-027-p1s5w17</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92254-027-p1s5w18">
 <src.rf>manual</src.rf>

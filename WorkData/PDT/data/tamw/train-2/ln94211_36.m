@@ -137,7 +137,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-36-p2s1Bw6">
@@ -1246,7 +1246,7 @@
 <LM>w#w-ln94211-36-p4s2w7</LM>
 </w.rf>
 <form>pasů</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94211-36-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1469,7 +1469,7 @@
 <LM>w#w-ln94211-36-p4s4w7</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94211-36-p4s4w8">
 <src.rf>manual</src.rf>
@@ -1623,7 +1623,7 @@
 <LM>w#w-ln94211-36-p5s1w7</LM>
 </w.rf>
 <form>vydělávají</form>
-<tag lemma="vydělávat-1_^(peníze)_(*6at-1)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="vydělávat_^(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94211-36-p5s1w8">
 <src.rf>manual</src.rf>

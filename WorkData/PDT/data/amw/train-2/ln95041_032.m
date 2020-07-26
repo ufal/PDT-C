@@ -206,7 +206,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>remizoval</form>
-<tag lemma="remizovat" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="remizovat_,s_^(^DD**remízovat)" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95041-032-p2s2w4">
 <src.rf>manual</src.rf>

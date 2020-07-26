@@ -276,7 +276,7 @@
 </w.rf>
 <form>Mobile</form>
 <tag>
-<AM lemma="Mobile_;G" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mobile_;G" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="mobil" src="auto">NNIS5-----A----</AM>
 <AM lemma="mobil" src="auto">NNIS6-----A----</AM>
 <AM lemma="mobile_,t" src="auto" recommended="1">XX-------------</AM>
@@ -458,7 +458,7 @@
 <LM>w#w-ln94205-104-p2s3w14</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94205-104-p2s3w15">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 <LM>w#w-ln94205-104-p2s3w17</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94205-104-p2s3w18">
 <src.rf>manual</src.rf>

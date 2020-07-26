@@ -717,7 +717,7 @@
 <LM>w#w-d1t1096-2</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m111-d1t1096-3">
 <w.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-d1t1096-13</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m111-d1t1096-14">
 <w.rf>
@@ -1337,7 +1337,7 @@
 <LM>w#w-d1t1103-1</LM>
 </w.rf>
 <form>nemohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m111-d-id122085-punct">
 <w.rf>
@@ -2715,7 +2715,7 @@
 <LM>w#w-d1t1143-12</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m111-d-id124573-punct">
 <w.rf>
@@ -3310,7 +3310,7 @@
 </w.rf>
 <form>výš</form>
 <tag>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A---1</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS4-----A---1</AM>
 </tag>
@@ -3454,7 +3454,7 @@
 <LM>w#w-d1t1160-18</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m111-d1t1160-19">
 <w.rf>
@@ -4004,7 +4004,7 @@
 <LM>w#w-d1t1206-2</LM>
 </w.rf>
 <form>vzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m111-d1t1206-3">
 <w.rf>
@@ -4118,7 +4118,7 @@
 <LM>w#w-d1t1214-8</LM>
 </w.rf>
 <form>Vzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m111-d1t1214-11">
 <w.rf>

@@ -412,7 +412,7 @@
 <LM>w#w-ln95043-070-p3s2w13</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-070-p3s2w14">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-ln95043-070-p4s2w18</LM>
 </w.rf>
 <form>přeloženo</form>
-<tag lemma="přeložit-1_^(přemístit)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95043-070-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1621,7 +1621,7 @@
 <LM>w#w-ln95043-070-p6s3w8</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-ln95043-070-p6s3w9">
 <src.rf>manual</src.rf>
@@ -1661,7 +1661,7 @@
 <LM>w#w-ln95043-070-p6s3w13</LM>
 </w.rf>
 <form>překládat</form>
-<tag lemma="překládat-1_^(přemístit)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="překládat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95043-070-p6s3w14">
 <src.rf>manual</src.rf>
@@ -1730,7 +1730,7 @@
 <LM>w#w-ln95043-070-p7s1w2</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-070-p7s1w3">
 <src.rf>manual</src.rf>
@@ -2109,7 +2109,7 @@
 <LM>w#w-ln95043-070-p7s4w5</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95043-070-p7s4w6">
 <src.rf>manual</src.rf>

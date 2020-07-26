@@ -54,7 +54,7 @@
 <AM lemma="š'_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="š-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="š-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="š-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="š-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-112-p1s1w5">
@@ -185,7 +185,7 @@
 <LM>w#w-ln94201-112-p2s1w15</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-ln94201-112-p2s1w16">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-ln94201-112-p2s1w40</LM>
 </w.rf>
 <form>pozorně</form>
-<tag lemma="pozorně-1_^(všímavý,_milý,_soustředěný)_(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="pozorně-1_^(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94201-112-p2s1w41">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-ln94201-112-p2s1w71</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln94201-112-p2s1w72">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-ln94201-112-p2s1w73</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94201-112-p2s1w74">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-ln94201-112-p2s1w90</LM>
 </w.rf>
 <form>přeložil</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-112-p2s1w91">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 <AM lemma="š'ův_;Y_^(*2)" src="orig">AUNS2M---------</AM>
 <AM lemma="š-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="š-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="š-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="š-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-112-p2s2w24">
@@ -1041,7 +1041,7 @@
 <LM>w#w-ln94201-112-p2s2w27</LM>
 </w.rf>
 <form>vydalo</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-112-p2s2w28">
 <src.rf>manual</src.rf>

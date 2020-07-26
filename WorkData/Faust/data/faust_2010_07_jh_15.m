@@ -1044,7 +1044,7 @@
 <form>Vánocích</form>
 <tag>
 <AM lemma="Vánoce_,x" recommended="1">NNFP6-----A----</AM>
-<AM lemma="Vánoce" selected="1">NNFP6-----A----</AM>
+<AM lemma="Vánoce_;m" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="jh_15-SCzechM-p1543-s1-w5">
@@ -1167,7 +1167,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -1392,7 +1392,7 @@
 <form>dát</form>
 <tag>
 <AM lemma="dát" recommended="1">Vf--------A-P--</AM>
-<AM lemma="dát" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="dát-1" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="jh_15-SCzechM-p1546-s1-w5">
@@ -2030,7 +2030,7 @@
 <LM>w#w-jh_15-SCzechM-p1559-s1-w1</LM>
 </w.rf>
 <form>Rád</form>
-<tag lemma="rád" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" recommended="1">ACYS------A----</tag>
 </m>
 <m id="jh_15-SCzechM-p1559-s1-w2">
 <w.rf>
@@ -2039,7 +2039,7 @@
 <form>lížu</form>
 <tag>
 <AM lemma="lízat" recommended="1">VB-S---1P-AA---</AM>
-<AM lemma="lízat" src="manual" selected="1">VB-S---1P-AAI--</AM>
+<AM lemma="lízat" src="manual" selected="1">VB-S---1P-AAI-1</AM>
 </tag>
 </m>
 <m id="jh_15-SCzechM-p1559-s1-w3">
@@ -3244,7 +3244,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -3375,7 +3375,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -4214,7 +4214,7 @@
 <tag>
 <AM lemma="Ahoj_;m_^(časopis)" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
-<AM lemma="ahoj" selected="1">TT-------------</AM>
+<AM lemma="ahoj" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="jh_15-SCzechM-p1614-s1-w2">
@@ -4460,7 +4460,7 @@
 <LM>w#w-jh_15-SCzechM-p1618-s1-w3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" recommended="1">ACYS------A----</tag>
 </m>
 <m id="jh_15-SCzechM-p1618-s1-w4">
 <w.rf>

@@ -186,7 +186,7 @@
 <LM>w#w-ln94210-137-p2s1Bw8</LM>
 </w.rf>
 <form>občansko</form>
-<tag lemma="občanský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="občansko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94210-137-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-137-p2s2w6">
@@ -378,7 +378,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94210-137-p2s2w9">
@@ -457,7 +457,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94210-137-p2s2w18">
@@ -486,7 +486,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-2_;m_^(Občanská_demokratická_aliance)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-137-p2s3w3">
@@ -538,7 +538,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94210-137-p2s3w9">
@@ -555,7 +555,7 @@
 <LM>w#w-ln94210-137-p2s3w10</LM>
 </w.rf>
 <form>nejhůře</form>
-<tag lemma="špatně" src="orig" selected="1">Dg-------3A---1</tag>
+<tag lemma="hůře" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln94210-137-p2s3w11">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94210-137-p2s3w22">
@@ -850,7 +850,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94210-137-p2s4w23">
@@ -1168,7 +1168,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-137-p2s5w20">

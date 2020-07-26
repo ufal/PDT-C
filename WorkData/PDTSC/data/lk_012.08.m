@@ -232,7 +232,7 @@
 <LM>w#w-d1t3538-1</LM>
 </w.rf>
 <form>myslel</form>
-<tag lemma="myslet" src="auto" recommended="1">VpYS----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m012-d-id162153">
 <w.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-d1t3554-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m012-d1t3554-3">
 <w.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-d1t3568-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m012-d1t3568-7">
 <w.rf>

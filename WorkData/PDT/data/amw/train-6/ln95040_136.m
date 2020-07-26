@@ -917,7 +917,7 @@
 <LM>w#w-ln95040-136-p4s2w13</LM>
 </w.rf>
 <form>sehnali</form>
-<tag lemma="sehnat" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-136-p4s2w14">
 <src.rf>manual</src.rf>

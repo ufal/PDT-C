@@ -63,7 +63,7 @@
 <LM>w#w-ln94202-118-p2s1Bw2</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_;m_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="FC-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-118-p2s1Bw3">
 <src.rf>manual</src.rf>

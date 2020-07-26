@@ -500,7 +500,7 @@
 <LM>w#w-ln94207-33-p2s3w1</LM>
 </w.rf>
 <form>Dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94207-33-p2s3w2">
 <src.rf>manual</src.rf>
@@ -1084,7 +1084,7 @@
 <LM>w#w-ln94207-33-p2s5w12</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94207-33-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1217,7 +1217,7 @@
 <LM>w#w-ln94207-33-p2s5w28</LM>
 </w.rf>
 <form>předejít</form>
-<tag lemma="předejít_^(díky_rychlejší_chůzi)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="předejít_^(díky_rychlejší_chůzi;;předejít_zřícení)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-33-p2s5w29">
 <src.rf>manual</src.rf>

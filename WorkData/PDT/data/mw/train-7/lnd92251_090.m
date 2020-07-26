@@ -242,7 +242,7 @@
 <form>ČMFL</form>
 <tag>
 <AM lemma="ČMFL_:B_;m_^(Č.-moravský_fotbalový_svaz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČMFL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČMFL_;m_^(Č.-moravský_fotbalový_svaz)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-090-p2s1w25">

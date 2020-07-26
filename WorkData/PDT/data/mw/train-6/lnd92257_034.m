@@ -761,7 +761,7 @@
 <LM>w#w-lnd92257-034-p2s4w9</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd92257-034-p2s4w10">
 <src.rf>manual</src.rf>
@@ -1196,7 +1196,7 @@
 <LM>w#w-lnd92257-034-p3s2w10</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-lnd92257-034-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1268,7 +1268,7 @@
 <LM>w#w-lnd92257-034-p3s2w19</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92257-034-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1340,7 +1340,7 @@
 <tag>
 <AM lemma="Stasi_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Stasi_;m" src="auto" selected="1">NNXXX-----A---b</AM>
+<AM lemma="Stasi_;m_^(Staatssicherheitsdienst)" src="auto" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-034-p4s1w8">
@@ -1485,7 +1485,7 @@
 <LM>w#w-lnd92257-034-p4s1w25</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="mj_^(mimo_jiné)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-lnd92257-034-p4s1w26">
 <src.rf>manual</src.rf>
@@ -1554,7 +1554,7 @@
 <tag>
 <AM lemma="Stasi_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Stasi_;m" src="auto" selected="1">NNXXX-----A---b</AM>
+<AM lemma="Stasi_;m_^(Staatssicherheitsdienst)" src="auto" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-034-p4s2w2">
@@ -1973,7 +1973,7 @@
 <LM>w#w-lnd92257-034-p5s2w1</LM>
 </w.rf>
 <form>Mj</form>
-<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="mj_^(mimo_jiné)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-lnd92257-034-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2630,7 +2630,7 @@
 <LM>w#w-lnd92257-034-p7s1w2</LM>
 </w.rf>
 <form>Nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd92257-034-p7s1w3">
 <src.rf>manual</src.rf>
@@ -2698,7 +2698,7 @@
 <LM>w#w-lnd92257-034-p7s1w10</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-034-p7s1w11">
 <src.rf>manual</src.rf>
@@ -2842,7 +2842,7 @@
 <form>nalezeno</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsNS----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsNS----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsNS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-lnd92257-034-p7s2w9">

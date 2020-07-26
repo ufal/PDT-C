@@ -803,7 +803,7 @@
 <LM>w#w-wsj1349-001-p1s1W27</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1349-001-p1s1W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3949,7 +3949,7 @@
 <LM>w#w-wsj1349-001-p1s10W11</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1349-001-p1s10W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4926,7 +4926,7 @@
 <LM>w#w-wsj1349-001-p1s12W3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj1349-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4961,7 +4961,7 @@
 <LM>w#w-wsj1349-001-p1s12W7</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj1349-001-p1s12W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5142,7 +5142,7 @@
 <LM>w#w-wsj1349-001-p1s13W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj1349-001-p1s13W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6288,7 +6288,7 @@
 <LM>w#w-wsj1349-001-p1s16W10</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1349-001-p1s16W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6927,7 +6927,7 @@
 <LM>w#w-wsj1349-001-p1s17W25</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1349-001-p1s17W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7867,7 +7867,7 @@
 <LM>w#w-wsj1349-001-p1s19W14</LM>
 </w.rf>
 <form>potřebami</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj1349-001-p1s19W15-Ta">
 <src.rf>tagger-a</src.rf>

@@ -2754,7 +2754,7 @@
 <LM>w#w-wsj1926-001-p1s8W9</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1926-001-p1s8W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2966,7 +2966,7 @@
 <LM>w#w-wsj1926-001-p1s8W29</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1926-001-p1s8W30-Ta">
 <src.rf>tagger-a</src.rf>

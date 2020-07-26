@@ -193,7 +193,7 @@
 <LM>w#w-lnd92253-069-p3s2w1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92253-069-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1357,7 +1357,7 @@
 <LM>w#w-lnd92253-069-p4s4w13</LM>
 </w.rf>
 <form>Pescara</form>
-<tag lemma="Pescara_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pescara_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-069-p4s4w14">
 <src.rf>manual</src.rf>
@@ -1365,7 +1365,7 @@
 <LM>w#w-lnd92253-069-p4s4w14</LM>
 </w.rf>
 <form>podává</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92253-069-p4s4w15">
 <src.rf>manual</src.rf>
@@ -1447,7 +1447,7 @@
 <LM>w#w-lnd92253-069-p5s1w8</LM>
 </w.rf>
 <form>Foggia</form>
-<tag lemma="Foggia_;G" src="auto" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Foggia_;G" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-069-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1764,7 +1764,7 @@
 <form>Pescara</form>
 <tag>
 <AM lemma="Pescara_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Pescara-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Pescara_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-069-p5s1w48">
@@ -2966,7 +2966,7 @@
 <LM>w#w-lnd92253-069-p8s1w23</LM>
 </w.rf>
 <form>pomalu</form>
-<tag lemma="pomalu" src="orig" selected="1">Db-------------</tag>
+<tag lemma="pomalu" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92253-069-p8s1w24">
 <src.rf>manual</src.rf>

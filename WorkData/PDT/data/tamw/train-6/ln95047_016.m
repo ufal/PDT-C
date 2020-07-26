@@ -329,7 +329,7 @@
 <LM>w#w-ln95047-016-p2s3w2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95047-016-p2s3w3">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-ln95047-016-p2s5w19</LM>
 </w.rf>
 <form>předala</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95047-016-p2s5w20">
 <src.rf>manual</src.rf>
@@ -1078,7 +1078,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s7w9">

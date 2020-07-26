@@ -546,7 +546,7 @@
 <LM>w#w-wsj2168-001-p1s1W28</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj2168-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1890,7 +1890,7 @@
 <LM>w#w-wsj2168-001-p1s6W1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj2168-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2986,7 +2986,7 @@
 <LM>w#w-wsj2168-001-p1s9W1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2168-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>

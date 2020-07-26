@@ -61,7 +61,7 @@
 <LM>w#w-mf920901-100-p1s1Bw1</LM>
 </w.rf>
 <form>STANE</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920901-100-p1s1Bw2">
 <src.rf>manual</src.rf>

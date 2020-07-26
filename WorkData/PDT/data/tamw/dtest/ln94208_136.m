@@ -271,7 +271,7 @@
 <LM>w#w-ln94208-136-p2s1Cw13</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-136-p2s1Cw14">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-ln94208-136-p3s2w1</LM>
 </w.rf>
 <form>Stíhačka</form>
-<tag lemma="stíhačka_^(letadlo)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="stíhačka_^(*2)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-136-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1406,7 +1406,7 @@
 <LM>w#w-ln94208-136-p3s5w6</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-136-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1721,7 +1721,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-136-p4s1w22">

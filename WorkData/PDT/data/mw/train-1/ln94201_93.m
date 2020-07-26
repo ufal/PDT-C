@@ -334,7 +334,7 @@
 <LM>w#w-ln94201-93-p2s1w33</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94201-93-p2s1w34">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-93-p2s2w12">
@@ -544,7 +544,7 @@
 <LM>w#w-ln94201-93-p3s1w4</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln94201-93-p3s1w5">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <LM>w#w-ln94201-93-p3s2w18</LM>
 </w.rf>
 <form>předala</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94201-93-p3s2w19">
 <src.rf>manual</src.rf>
@@ -1076,7 +1076,7 @@
 <LM>w#w-ln94201-93-p4s1w21</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94201-93-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1118,7 +1118,7 @@
 <LM>w#w-ln94201-93-p4s2w1</LM>
 </w.rf>
 <form>Zaměstnávala</form>
-<tag lemma="zaměstnávat-1_^(všeob._význam:_činnost,_zaměstnání)_(*6at-1)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="zaměstnávat_^(*4at)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94201-93-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1989,7 +1989,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-93-p5s1w8">

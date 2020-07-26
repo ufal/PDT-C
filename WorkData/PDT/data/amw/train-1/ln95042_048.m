@@ -344,7 +344,7 @@
 <LM>w#w-ln95042-048-p1s2w13</LM>
 </w.rf>
 <form>dávali</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95042-048-p1s2w14">
 <src.rf>manual</src.rf>
@@ -376,7 +376,7 @@
 <LM>w#w-ln95042-048-p1s2w17</LM>
 </w.rf>
 <form>politikou</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95042-048-p1s2w18">
 <src.rf>manual</src.rf>

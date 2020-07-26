@@ -721,7 +721,7 @@
 <tag>
 <AM lemma="spadeno_^(^NO*3nout)_(mít_spadeno)" src="orig">Db-------------</AM>
 <AM lemma="spadený" src="auto" recommended="1">ACNS------A----</AM>
-<AM lemma="spadnout" src="auto" selected="1">VsNS----X-AP---</AM>
+<AM lemma="spadnout" src="auto" selected="1">VsNS----X-APP-5</AM>
 </tag>
 </m>
 <m id="m-ln94206-57-p3s2w6">
@@ -900,7 +900,7 @@
 <LM>w#w-ln94206-57-p4s1w15</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94206-57-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1063,7 +1063,7 @@
 <LM>w#w-ln94206-57-p4s1w35</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94206-57-p4s1w36">
 <src.rf>manual</src.rf>

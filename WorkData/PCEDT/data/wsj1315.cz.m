@@ -394,7 +394,7 @@
 <LM>w#w-wsj1315-001-p1s1W4</LM>
 </w.rf>
 <form>pomyslel</form>
-<tag lemma="pomyslet" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="pomyslit" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj1315-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4242,7 +4242,7 @@
 <LM>w#w-wsj1315-001-p1s16W8</LM>
 </w.rf>
 <form>zatčen</form>
-<tag lemma="zatknout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="zatknout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj1315-001-p1s16W9-Ta">
 <src.rf>tagger-a</src.rf>

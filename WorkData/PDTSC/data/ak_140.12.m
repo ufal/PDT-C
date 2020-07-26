@@ -459,7 +459,7 @@
 </w.rf>
 <form>Nejvíc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A---1</AM>
 <AM lemma="nejvíce" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -579,7 +579,7 @@
 <form>Hitlerjugend</form>
 <tag>
 <AM lemma="Hitlerjugend_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Hitlerjugend_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Hitlerjugend_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m140-875-61">
@@ -851,7 +851,7 @@
 <LM>w#w-d1t2068-28</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m140-d1t2068-27">
 <w.rf>
@@ -2260,7 +2260,7 @@
 </w.rf>
 <form>stále</form>
 <tag>
-<AM lemma="stále" src="auto" selected="1">Db-------------</AM>
+<AM lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</AM>
 <AM lemma="stále_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -3023,7 +3023,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="KSČ-1_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KSČ_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m140-d-id148637-punct">
@@ -3038,7 +3038,7 @@
 <LM>w#w-d1t2150-1</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m140-d1t2150-2">
 <w.rf>

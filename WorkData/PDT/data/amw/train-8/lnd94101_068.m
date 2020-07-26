@@ -244,7 +244,7 @@
 <LM>w#w-lnd94101-068-p1s2Bw23</LM>
 </w.rf>
 <form>Zora</form>
-<tag lemma="Zora_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Zora_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-068-p1s2Bw24">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <LM>w#w-lnd94101-068-p1s5w3</LM>
 </w.rf>
 <form>Marta</form>
-<tag lemma="Marta" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Marta_;Y" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-068-p1s5w4">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-lnd94101-068-p1s7w2</LM>
 </w.rf>
 <form>Jitka</form>
-<tag lemma="Jitka-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jitka-1_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-068-p1s7w3">
 <src.rf>manual</src.rf>

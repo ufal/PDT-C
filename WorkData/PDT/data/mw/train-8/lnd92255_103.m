@@ -496,7 +496,7 @@
 <form>kdekoliv</form>
 <tag>
 <AM lemma="kdekoliv" src="orig">Db-------------</AM>
-<AM lemma="kdekoli" src="auto" recommended="1" selected="1">Db------------1</AM>
+<AM lemma="kdekoliv_,s_^(^DD**kdekoli)" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-103-p3s1w17">
@@ -714,7 +714,7 @@
 <LM>w#w-lnd92255-103-p3s2w15</LM>
 </w.rf>
 <form>nemohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m-lnd92255-103-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1028,7 +1028,7 @@
 <LM>w#w-lnd92255-103-p4s2w1</LM>
 </w.rf>
 <form>Neméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2N----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2N----</tag>
 </m>
 <m id="m-lnd92255-103-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1156,7 +1156,7 @@
 <LM>w#w-lnd92255-103-p4s2w17</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92255-103-p4s2w18">
 <src.rf>manual</src.rf>

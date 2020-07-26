@@ -191,7 +191,7 @@
 <form>sci</form>
 <tag>
 <AM lemma="science-2_:B_,t_^(angl._vědecký)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="sci-1_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="sci" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-046-p2s1w14">
@@ -1638,7 +1638,7 @@
 <LM>w#w-ln95041-046-p4s2w21</LM>
 </w.rf>
 <form>předávat</form>
-<tag lemma="předávat-3_^(někomu_něco)_(*6at-3)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="předávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95041-046-p4s2w22">
 <src.rf>manual</src.rf>
@@ -2023,7 +2023,7 @@
 <AM lemma="ZOO_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ZOO_:B" src="auto">NNFXX-----A----</AM>
 <AM lemma="ZOO_:B" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="zoo-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="zoo" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-046-p5s1w41">

@@ -397,7 +397,7 @@
 <LM>w#w-ln94206-15-p2s2w23</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94206-15-p2s2w24">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 <LM>w#w-ln94206-15-p2s2w30</LM>
 </w.rf>
 <form>zaměstnáno</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="zaměstnat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94206-15-p2s2w31">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln94206-15-p3s2w12">
@@ -992,7 +992,7 @@
 <LM>w#w-ln94206-15-p4s1w3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94206-15-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1048,7 +1048,7 @@
 <LM>w#w-ln94206-15-p4s1w10</LM>
 </w.rf>
 <form>zaměstná</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="zaměstnat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94206-15-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1855,7 +1855,7 @@
 <LM>w#w-ln94206-15-p6s3w6</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94206-15-p6s3w7">
 <src.rf>manual</src.rf>

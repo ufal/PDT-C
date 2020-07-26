@@ -717,7 +717,7 @@
 <LM>w#w-38-103</LM>
 </w.rf>
 <form>uměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m136-d-id96261-punct">
 <w.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-d1t1412-13</LM>
 </w.rf>
 <form>neuměli</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpMP----R-NAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m136-d1t1412-15">
 <w.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-d1t1415-2</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m136-d1t1417-1">
 <w.rf>
@@ -1775,7 +1775,7 @@
 <LM>w#w-d1t1482-2</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m136-d1t1482-4">
 <w.rf>
@@ -3128,7 +3128,7 @@
 <LM>w#w-d1t1576-2</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m136-d1t1576-3">
 <w.rf>
@@ -4481,7 +4481,7 @@
 <LM>w#w-d1t1685-5</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m136-d-id104075-punct">
 <w.rf>
@@ -4682,7 +4682,7 @@
 </w.rf>
 <form>míň</form>
 <tag>
-<AM lemma="málo-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="méně" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="méně" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -5965,7 +5965,7 @@
 <LM>w#w-d1t1774-7</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m136-d1t1774-8">
 <w.rf>
@@ -6325,7 +6325,7 @@
 <LM>w#w-d1t1795-1</LM>
 </w.rf>
 <form>průmyslovku</form>
-<tag lemma="průmyslovka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="průmyslovka_,h" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m136-d-id108022-punct">
 <w.rf>
@@ -6510,7 +6510,7 @@
 <LM>w#w-d1t1812-17</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m136-d1t1812-18">
 <w.rf>

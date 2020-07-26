@@ -789,7 +789,7 @@
 <form>Vánocích</form>
 <tag>
 <AM lemma="vánoce" src="orig">NNFP6-----A----</AM>
-<AM lemma="Vánoce" src="auto" selected="1">NNFP6-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" selected="1">NNFP6-----A----</AM>
 <AM lemma="Vánoce_,x" src="auto" recommended="1">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -1714,7 +1714,7 @@
 <LM>w#w-ln95043-021-p2s10w17</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln95043-021-p2s10w18">
 <src.rf>manual</src.rf>
@@ -1860,7 +1860,7 @@
 <LM>w#w-ln95043-021-p2s11w11</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln95043-021-p2s11w12">
 <src.rf>manual</src.rf>
@@ -1876,7 +1876,7 @@
 <LM>w#w-ln95043-021-p2s11w13</LM>
 </w.rf>
 <form>Spartou</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95043-021-p2s11w14">
 <src.rf>manual</src.rf>
@@ -1948,7 +1948,7 @@
 <LM>w#w-ln95043-021-p2s11w22</LM>
 </w.rf>
 <form>mohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-ln95043-021-p2s11w23">
 <src.rf>manual</src.rf>
@@ -1972,7 +1972,7 @@
 <LM>w#w-ln95043-021-p2s11w25</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95043-021-p2s11w26">
 <src.rf>manual</src.rf>

@@ -671,7 +671,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-051-p3s3w4">
@@ -1184,7 +1184,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-051-p3s4w20">
@@ -1384,7 +1384,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-051-p3s6w3">
@@ -1875,7 +1875,7 @@
 <LM>w#w-vesm9212-051-p4s2w6</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9212-051-p4s2w7">
 <src.rf>manual</src.rf>
@@ -2031,7 +2031,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-051-p4s3w5">
@@ -2349,7 +2349,7 @@
 <form>danausů</form>
 <tag>
 <AM lemma="danaus_;U_,t_^(motýl)" src="auto">NNMP2-----A----</AM>
-<AM lemma="danaus_;U_^(motýl)" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="danaus_^(motýl)" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-051-p4s5w8">
@@ -2589,7 +2589,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-vesm9212-051-p4s6w19">

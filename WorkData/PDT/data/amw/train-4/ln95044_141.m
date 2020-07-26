@@ -2083,7 +2083,7 @@
 <LM>w#w-ln95044-141-p5s1w9</LM>
 </w.rf>
 <form>neopomněl</form>
-<tag lemma="opomenout" src="orig" selected="1">VpYS----R-NA---</tag>
+<tag lemma="opomenout" src="orig" selected="1">VpYS----R-NAP-1</tag>
 </m>
 <m id="m-ln95044-141-p5s1w10">
 <src.rf>manual</src.rf>
@@ -4442,7 +4442,7 @@
 <LM>w#w-ln95044-141-p8s1w33</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například" src="orig" selected="1">Db------------b</tag>
+<tag lemma="například" src="orig" selected="1">TT------------b</tag>
 </m>
 <m id="m-ln95044-141-p8s1w34">
 <src.rf>manual</src.rf>
@@ -4900,7 +4900,7 @@
 <LM>w#w-ln95044-141-p8s2w25</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95044-141-p8s2w26">
 <src.rf>manual</src.rf>
@@ -5394,7 +5394,7 @@
 <LM>w#w-ln95044-141-p9s3w7</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-141-p9s3w8">
 <src.rf>manual</src.rf>
@@ -6599,7 +6599,7 @@
 <LM>w#w-ln95044-141-p11s1w5</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-141-p11s1w6">
 <src.rf>manual</src.rf>

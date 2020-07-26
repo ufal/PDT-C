@@ -108,7 +108,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-126-p1s3Bw7">
@@ -244,7 +244,7 @@
 <LM>w#w-lnd94103-126-p1s4Aw8</LM>
 </w.rf>
 <form>Kanadou</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94103-126-p1s4Aw9">
 <src.rf>manual</src.rf>

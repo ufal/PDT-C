@@ -388,7 +388,7 @@
 <tag>
 <AM lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig">VpQW---XR-AA---</AM>
 <AM lemma="přivézt_:W^(něco/někoho_autem,_vlakem,...)" src="manual">VpQW---XR-AA---</AM>
-<AM lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="manual" selected="1">VpQW----R-AAP--</AM>
+<AM lemma="přivézt" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920923-035-p2s3w5">
@@ -857,7 +857,7 @@
 <LM>w#w-mf920923-035-p3s2w4</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920923-035-p3s2w5">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-mf920923-035-p3s2w7</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920923-035-p3s2w8">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-mf920923-035-p3s2w12</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920923-035-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1249,7 +1249,7 @@
 <LM>w#w-mf920923-035-p3s5w1</LM>
 </w.rf>
 <form>Kdybych</form>
-<tag lemma="kdyby" src="orig" selected="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="orig" selected="1">J,-----------c-</tag>
 </m>
 <m id="m-mf920923-035-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1433,7 +1433,7 @@
 <LM>w#w-mf920923-035-p3s5w25</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-mf920923-035-p3s5w26">
 <src.rf>manual</src.rf>
@@ -1815,7 +1815,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-035-p4s2w20">
@@ -1826,7 +1826,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920923-035-p4s2w21">
@@ -1869,7 +1869,7 @@
 <form>Sb</form>
 <tag>
 <AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920923-035-p4s2w26">
@@ -2180,7 +2180,7 @@
 <LM>w#w-mf920923-035-p5s1w6</LM>
 </w.rf>
 <form>koupeno</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920923-035-p5s1w7">
 <src.rf>manual</src.rf>
@@ -2361,7 +2361,7 @@
 <LM>w#w-mf920923-035-p5s2w6</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920923-035-p5s2w7">
 <src.rf>manual</src.rf>
@@ -2385,7 +2385,7 @@
 <LM>w#w-mf920923-035-p5s2w9</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920923-035-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2589,7 +2589,7 @@
 <form>zasel</form>
 <tag>
 <AM lemma="zasít" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="zasít" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="zasít" src="manual" selected="1">VpYS----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-mf920923-035-p5s3w14">
@@ -3117,7 +3117,7 @@
 <LM>w#w-mf920923-035-p6s2w24</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920923-035-p6s2w25">
 <src.rf>manual</src.rf>

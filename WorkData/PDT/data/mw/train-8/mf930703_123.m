@@ -97,7 +97,7 @@
 </w.rf>
 <form>tk</form>
 <tag>
-<AM lemma="tk-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="tk-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="tknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 </tag>
 </m>

@@ -641,7 +641,7 @@
 <LM>w#w-wsj0580-001-p1s2W6</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m-wsj0580-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-wsj0580-001-p1s2W8</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0580-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1479,7 +1479,7 @@
 <LM>w#w-wsj0580-001-p1s4W28</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0580-001-p1s4W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3412,7 +3412,7 @@
 <LM>w#w-wsj0580-001-p1s11W12</LM>
 </w.rf>
 <form>raději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0580-001-p1s11W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3667,7 +3667,7 @@
 <LM>w#w-wsj0580-001-p1s11W33</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
+<tag lemma="tj_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
 </m>
 <m id="m-wsj0580-001-p1s11W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4078,7 +4078,7 @@
 <LM>w#w-wsj0580-001-p1s12W25</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0580-001-p1s12W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4531,7 +4531,7 @@
 <LM>w#w-wsj0580-001-p1s13W20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0580-001-p1s13W21-Ta">
 <src.rf>tagger-a</src.rf>

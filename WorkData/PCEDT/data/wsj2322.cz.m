@@ -1673,7 +1673,7 @@
 <LM>w#w-wsj2322-001-p1s6W23</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj2322-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>

@@ -197,7 +197,7 @@
 <form>myslel</form>
 <tag>
 <AM lemma="myslet" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="myslet" src="manual" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="myslit" src="manual" selected="1">VpYS----R-AAI-1</AM>
 </tag>
 </m>
 <m id="m-mf920924-104-p2s1Bw11">
@@ -282,7 +282,7 @@
 <LM>w#w-mf920924-104-p2s3w4</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920924-104-p2s3w5">
 <src.rf>manual</src.rf>
@@ -1245,7 +1245,7 @@
 <LM>w#w-mf920924-104-p2s8w2</LM>
 </w.rf>
 <form>fyzičku</form>
-<tag lemma="fyzička_,h" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="fyzička" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920924-104-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1333,7 +1333,7 @@
 <LM>w#w-mf920924-104-p2s8w13</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920924-104-p2s8w14">
 <src.rf>manual</src.rf>
@@ -1750,7 +1750,7 @@
 <LM>w#w-mf920924-104-p2s11w3</LM>
 </w.rf>
 <form>zastavila</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-104-p2s11w4">
 <src.rf>manual</src.rf>
@@ -2236,7 +2236,7 @@
 <form>NHL</form>
 <tag>
 <AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NHL_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-104-p2s14w4">

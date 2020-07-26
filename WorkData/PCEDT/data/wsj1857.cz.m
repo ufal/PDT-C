@@ -653,7 +653,7 @@
 <AM lemma="Karolín_;G" src="auto">NNIS6-----A---1</AM>
 <AM lemma="Karolín_;Y_,t" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Karolín_;Y_,t" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Karolína_;G_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNS3-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1435,7 +1435,7 @@
 <LM>w#w-wsj1857-001-p1s3W23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1857-001-p1s3W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6847,7 +6847,7 @@
 <LM>w#w-wsj1857-001-p1s20W3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1857-001-p1s20W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7913,7 +7913,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -9276,7 +9276,7 @@
 <LM>w#w-wsj1857-001-p1s27W3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1857-001-p1s27W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13495,7 +13495,7 @@
 <tag>
 <AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">BAXXX----1A----</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-wsj1857-001-p1s39W29-Ta">

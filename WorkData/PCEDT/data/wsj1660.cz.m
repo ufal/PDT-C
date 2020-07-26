@@ -3264,7 +3264,7 @@
 <LM>w#w-wsj1660-001-p1s13W13</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1660-001-p1s13W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4402,7 +4402,7 @@
 <LM>w#w-wsj1660-001-p1s17W20</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1660-001-p1s17W21-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1330,7 +1330,7 @@
 <LM>w#w-d1t389-5</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m125-d1t389-6">
 <w.rf>
@@ -1425,7 +1425,7 @@
 <LM>w#w-d1t389-15</LM>
 </w.rf>
 <form>řikal</form>
-<tag lemma="říkat" src="auto" recommended="1">VpYS----R-AA--6</tag>
+<tag lemma="řikat_,h_^(^GC**říkat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m125-127-151">
 <w.rf>
@@ -3117,7 +3117,7 @@
 <LM>w#w-d1t438-5</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m125-d1t438-6">
 <w.rf>
@@ -3425,7 +3425,7 @@
 <LM>w#w-d1t454-8</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m125-d1t454-10">
 <w.rf>
@@ -4068,7 +4068,7 @@
 <LM>w#w-d1t470-9</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m125-488-309">
 <w.rf>
@@ -4731,7 +4731,7 @@
 <LM>w#w-d1t482-33</LM>
 </w.rf>
 <form>Radši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m125-d1t482-34">
 <w.rf>
@@ -4756,7 +4756,7 @@
 <LM>w#w-d1t482-36</LM>
 </w.rf>
 <form>dávala</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m125-d1t482-37">
 <w.rf>
@@ -4787,7 +4787,7 @@
 <LM>w#w-d1t482-40</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m125-d1t482-41">
 <w.rf>

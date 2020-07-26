@@ -1780,7 +1780,7 @@
 <LM>w#w-d1t516-14</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m120-d1t516-15">
 <w.rf>
@@ -1869,7 +1869,7 @@
 <tag>
 <AM lemma="Nerad_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Nerad_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="rád" src="auto" recommended="1">ACQW------N----</AM>
+<AM lemma="rád-1" src="auto" recommended="1">ACQW------N----</AM>
 </tag>
 </m>
 <m id="m120-d1t518-11">
@@ -1916,7 +1916,7 @@
 <LM>w#w-d1t518-14</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m120-d1t518-15">
 <w.rf>
@@ -2004,7 +2004,7 @@
 <LM>w#w-d1t518-22</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m120-d1t518-23">
 <w.rf>
@@ -2137,7 +2137,7 @@
 <LM>w#w-d1t532-5</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m120-d1t532-6">
 <w.rf>
@@ -2988,7 +2988,7 @@
 <LM>w#w-d1t549-9</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m120-d1t549-6">
 <w.rf>
@@ -3480,7 +3480,7 @@
 <LM>w#w-d1t565-4</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m120-d1t565-6">
 <w.rf>
@@ -4372,7 +4372,7 @@
 <LM>w#w-d1t592-19</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m120-d1t592-20">
 <w.rf>
@@ -4757,7 +4757,7 @@
 <LM>w#w-d1t599-6</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m120-d-id92708-punct">
 <w.rf>
@@ -5219,7 +5219,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>

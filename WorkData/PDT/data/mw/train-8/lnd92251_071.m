@@ -181,7 +181,7 @@
 <LM>w#w-lnd92251-071-p2s1w16</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-lnd92251-071-p2s1w17">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-lnd92251-071-p3s1w7</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-lnd92251-071-p3s1w8">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-lnd92251-071-p3s1w28</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-lnd92251-071-p3s1w29">
 <src.rf>manual</src.rf>
@@ -784,7 +784,7 @@
 <LM>w#w-lnd92251-071-p4s2w8</LM>
 </w.rf>
 <form>píšťalkami</form>
-<tag lemma="píšťalka_,e" src="auto" selected="1">NNFP7-----A----</tag>
+<tag lemma="píšťalka" src="auto" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-lnd92251-071-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1622,7 +1622,7 @@
 <LM>w#w-lnd92251-071-p6s1w29</LM>
 </w.rf>
 <form>překládá</form>
-<tag lemma="překládat-1_^(přemístit)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="překládat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-071-p6s1w30">
 <src.rf>manual</src.rf>
@@ -1762,7 +1762,7 @@
 <LM>w#w-lnd92251-071-p6s3w4</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-lnd92251-071-p6s3w5">
 <src.rf>manual</src.rf>

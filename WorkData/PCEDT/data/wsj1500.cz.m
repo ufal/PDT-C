@@ -4025,7 +4025,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1500-001-p1s11W2-Ta">
@@ -5009,7 +5009,7 @@
 <LM>w#w-wsj1500-001-p1s13W43</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1500-001-p1s13W44-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5523,7 +5523,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1500-001-p1s16W2-Ta">
@@ -10461,7 +10461,7 @@
 <LM>w#w-wsj1500-001-p1s31W36</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1500-001-p1s31W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11005,7 +11005,7 @@
 </w.rf>
 <form>hodinách</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP6-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>

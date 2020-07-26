@@ -269,7 +269,7 @@
 <LM>w#w-ln95046-049-p2s1w31</LM>
 </w.rf>
 <form>vydáno</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95046-049-p2s1w32">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 <LM>w#w-ln95046-049-p2s2w17</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95046-049-p2s2w18">
 <src.rf>manual</src.rf>

@@ -332,7 +332,7 @@
 <LM>w#w-wsj1685-001-p1s1W2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj1685-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-wsj1685-001-p1s1W4</LM>
 </w.rf>
 <form>raději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1685-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-wsj1685-001-p1s2W2</LM>
 </w.rf>
 <form>raději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1685-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-wsj1685-001-p1s2W3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj1685-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1093,7 +1093,7 @@
 </w.rf>
 <form>jedu</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---1P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS2-----A----</AM>
 <AM lemma="jed" src="auto">NNIS3-----A----</AM>
 <AM lemma="jed" src="auto">NNIS6-----A----</AM>
@@ -1380,7 +1380,7 @@
 <LM>w#w-wsj1685-001-p1s5W11</LM>
 </w.rf>
 <form>cest</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1685-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1469,7 +1469,7 @@
 <LM>w#w-wsj1685-001-p1s5W20</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj1685-001-p1s5W21-Ta">
 <src.rf>tagger-a</src.rf>

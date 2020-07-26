@@ -46,7 +46,7 @@
 <LM>w#w-ln95044-137-p1s1w4</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-137-p1s1w5">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-ln95044-137-p2s1Bw28</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---b</tag>
+<tag lemma="USD_^(U.S._dolar)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95044-137-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-ln95044-137-p2s2w11</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95044-137-p2s2w12">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <LM>w#w-ln95044-137-p3s1w19</LM>
 </w.rf>
 <form>ITL</form>
-<tag lemma="ITL_^(italská_lira)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ITL-88" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95044-137-p3s1w20">
 <src.rf>manual</src.rf>

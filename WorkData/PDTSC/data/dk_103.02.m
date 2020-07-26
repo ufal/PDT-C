@@ -191,7 +191,7 @@
 <LM>w#w-d1t330-5</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m103-d1t330-8">
 <w.rf>
@@ -360,7 +360,7 @@
 <LM>w#w-d1t332-8</LM>
 </w.rf>
 <form>Dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m103-d1t332-11">
 <w.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-d1t334-4</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m103-d1t334-5">
 <w.rf>
@@ -1373,7 +1373,7 @@
 <LM>w#w-d1t393-7</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m103-d1t393-8">
 <w.rf>
@@ -2074,7 +2074,7 @@
 <LM>w#w-d1t421-3</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m103-d1t421-6">
 <w.rf>
@@ -2795,7 +2795,7 @@
 <LM>w#w-d1t445-22</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m103-d1t445-23">
 <w.rf>
@@ -3081,7 +3081,7 @@
 <LM>w#w-d1t462-15</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m103-d1t462-16">
 <w.rf>
@@ -3699,7 +3699,7 @@
 <LM>w#w-d1t478-13</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m103-d1t478-15">
 <w.rf>

@@ -2298,7 +2298,7 @@
 <LM>w#w-wsj1682-001-p1s7W8</LM>
 </w.rf>
 <form>izraelsko</form>
-<tag lemma="izraelský" src="auto" recommended="1">S2--------A----</tag>
+<tag lemma="izraelsko" src="auto" recommended="1">S2--------A----</tag>
 </m>
 <m id="m-wsj1682-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5898,7 +5898,7 @@
 <LM>w#w-wsj1682-001-p1s19W1</LM>
 </w.rf>
 <form>Dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1682-001-p1s19W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6667,7 +6667,7 @@
 <LM>w#w-wsj1682-001-p1s21W5</LM>
 </w.rf>
 <form>Evropou</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1682-001-p1s21W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7161,7 +7161,7 @@
 <LM>w#w-wsj1682-001-p1s23W11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1682-001-p1s23W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10697,7 +10697,7 @@
 <LM>w#w-wsj1682-001-p1s35W5</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m-wsj1682-001-p1s35W6-Ta">
 <src.rf>tagger-a</src.rf>

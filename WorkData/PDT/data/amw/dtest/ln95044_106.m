@@ -43,7 +43,7 @@
 <LM>w#w-ln95044-106-p1s1w4</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95044-106-p1s1w5">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-ln95044-106-p3s1w13</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-106-p3s1w14">
 <src.rf>manual</src.rf>
@@ -869,7 +869,7 @@
 <LM>w#w-ln95044-106-p3s2w29</LM>
 </w.rf>
 <form>vydáno</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95044-106-p3s2w30">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <AM lemma="hektar_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ha-1`hektar_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ha-2" src="auto">II-------------</AM>
-<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95044-106-p3s2w32">
@@ -1109,7 +1109,7 @@
 <LM>w#w-ln95044-106-p3s3w24</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95044-106-p3s3w25">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 <LM>w#w-ln95044-106-p3s4w2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln95044-106-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 <LM>w#w-ln95044-106-p3s4w4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-ln95044-106-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1263,7 +1263,7 @@
 <LM>w#w-ln95044-106-p3s4w14</LM>
 </w.rf>
 <form>rádoby</form>
-<tag lemma="rádoby_,h" src="auto" selected="1">Db-------------</tag>
+<tag lemma="rádoby" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-106-p3s4w15">
 <src.rf>manual</src.rf>

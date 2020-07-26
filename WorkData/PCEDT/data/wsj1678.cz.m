@@ -578,7 +578,7 @@
 <LM>w#w-wsj1678-001-p1s1W17</LM>
 </w.rf>
 <form>Kellymu</form>
-<tag lemma="Kelly_;Y" src="auto" recommended="1">NNMS3-----A----</tag>
+<tag lemma="Kelly-1_;Y" src="auto" recommended="1">NNMS3-----A----</tag>
 </m>
 <m id="m-wsj1678-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1016,7 +1016,7 @@
 <LM>w#w-wsj1678-001-p1s3W4</LM>
 </w.rf>
 <form>Kellymu</form>
-<tag lemma="Kelly_;Y" src="auto" recommended="1">NNMS3-----A----</tag>
+<tag lemma="Kelly-1_;Y" src="auto" recommended="1">NNMS3-----A----</tag>
 </m>
 <m id="m-wsj1678-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>

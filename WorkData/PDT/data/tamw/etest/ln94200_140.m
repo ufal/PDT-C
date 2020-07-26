@@ -1218,7 +1218,7 @@
 <LM>w#w-ln94200-140-p5s1w21</LM>
 </w.rf>
 <form>růžově</form>
-<tag lemma="růžově_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="růžově_;o_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94200-140-p5s1w22">
 <src.rf>manual</src.rf>

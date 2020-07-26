@@ -298,7 +298,7 @@
 <LM>w#w-lnd92253-044-p3s2w27</LM>
 </w.rf>
 <form>stíhačkami</form>
-<tag lemma="stíhačka_^(letadlo)" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="stíhačka_^(*2)" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-lnd92253-044-p3s2w28">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 <LM>w#w-lnd92253-044-p3s4w12</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-044-p3s4w13">
 <src.rf>manual</src.rf>

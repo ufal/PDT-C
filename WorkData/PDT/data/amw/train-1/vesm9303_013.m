@@ -541,7 +541,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-013-p2s3w4">
@@ -643,7 +643,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-013-p2s3w16">
@@ -660,7 +660,7 @@
 <LM>w#w-vesm9303-013-p2s3w17</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-vesm9303-013-p2s3w18">
 <src.rf>manual</src.rf>
@@ -998,7 +998,7 @@
 <LM>w#w-vesm9303-013-p2s5w25</LM>
 </w.rf>
 <form>stržen</form>
-<tag lemma="strhnout" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="strhnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-vesm9303-013-p2s5w26">
 <src.rf>manual</src.rf>
@@ -1096,7 +1096,7 @@
 <LM>w#w-vesm9303-013-p2s6w4</LM>
 </w.rf>
 <form>slulo</form>
-<tag lemma="slout" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="slout_,a" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-013-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-013-p2s7Aw18">
@@ -1309,7 +1309,7 @@
 <LM>w#w-vesm9303-013-p2s7Aw20</LM>
 </w.rf>
 <form>dáti</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P-2</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P-2</tag>
 </m>
 <m id="m-vesm9303-013-p2s7Aw21">
 <src.rf>manual</src.rf>
@@ -1372,7 +1372,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-013-p2s7Aw27">
@@ -1389,7 +1389,7 @@
 <LM>w#w-vesm9303-013-p2s7Aw28</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-vesm9303-013-p2s7Aw29">
 <src.rf>manual</src.rf>
@@ -2845,7 +2845,7 @@
 <LM>w#w-vesm9303-013-p3s3w34</LM>
 </w.rf>
 <form>velocipedista</form>
-<tag lemma="velocipedista_,s" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="velocipedista" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-013-p3s3w35">
 <src.rf>manual</src.rf>
@@ -2855,7 +2855,7 @@
 <form>stávali</form>
 <tag>
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-vesm9303-013-p3s3w36">
@@ -3074,7 +3074,7 @@
 <LM>w#w-vesm9303-013-p3s4w13</LM>
 </w.rf>
 <form>dávalo</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-013-p3s4w14">
 <src.rf>manual</src.rf>
@@ -3093,7 +3093,7 @@
 </w.rf>
 <form>CAMILLE</form>
 <tag>
-<AM lemma="Camille_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Camille_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Camilla_;G" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Camilla_;G" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -3140,7 +3140,7 @@
 <form>nakl</form>
 <tag>
 <AM lemma="nakladatel_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="nakladatelství" src="auto" recommended="1" selected="1">NNNXX-----A---8</AM>
+<AM lemma="nakladatelství" src="auto" recommended="1" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-013-p5s1w2">

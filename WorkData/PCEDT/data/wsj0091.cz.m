@@ -27,7 +27,7 @@
 <LM>w#w-wsj0091-001-p1s0W2</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m-wsj0091-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2048,7 +2048,7 @@
 <LM>w#w-wsj0091-001-p1s6W15</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0091-001-p1s6W16-Ta">
 <src.rf>tagger-a</src.rf>

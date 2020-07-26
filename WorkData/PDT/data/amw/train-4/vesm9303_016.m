@@ -805,7 +805,7 @@
 <form>ČSAV</form>
 <tag>
 <AM lemma="ČSAV-1_:B_;m_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSAV_;m_^(Čs._akademie_věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-016-p2s1w14">
@@ -848,7 +848,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-vesm9303-016-p2s1w19">

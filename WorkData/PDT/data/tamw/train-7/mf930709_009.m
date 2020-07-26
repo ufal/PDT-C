@@ -61,7 +61,7 @@
 <LM>w#w-mf930709-009-p2s1w5</LM>
 </w.rf>
 <form>dáváte</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-mf930709-009-p2s1w6">
 <src.rf>manual</src.rf>
@@ -267,7 +267,7 @@
 <LM>w#w-mf930709-009-p28s1w2</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-009-p28s1w3">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-mf930703-030-p1s1w3</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf930703-030-p1s1w4">
 <src.rf>manual</src.rf>

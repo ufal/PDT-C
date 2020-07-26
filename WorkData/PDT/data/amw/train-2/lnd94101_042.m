@@ -415,7 +415,7 @@
 <LM>w#w-lnd94101-042-p1s3w31</LM>
 </w.rf>
 <form>rakousko</form>
-<tag lemma="rakouský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="rakousko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd94101-042-p1s3w32">
 <src.rf>manual</src.rf>
@@ -1125,7 +1125,7 @@
 <LM>w#w-lnd94101-042-p1s10w3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-lnd94101-042-p1s10w4">
 <src.rf>manual</src.rf>
@@ -1151,7 +1151,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-042-p1s10w7">
@@ -1250,7 +1250,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-042-p1s10w19">
@@ -1461,7 +1461,7 @@
 <LM>w#w-lnd94101-042-p1s11w8</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94101-042-p1s11w9">
 <src.rf>manual</src.rf>
@@ -1567,7 +1567,7 @@
 <LM>w#w-lnd94101-042-p1s12w1</LM>
 </w.rf>
 <form>Neradi</form>
-<tag lemma="rád" src="orig" selected="1">ACMP------N----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACMP------N----</tag>
 </m>
 <m id="m-lnd94101-042-p1s12w2">
 <src.rf>manual</src.rf>
@@ -1758,7 +1758,7 @@
 <form>intenzivně</form>
 <tag>
 <AM lemma="intenzivně_^(*4ívní)" src="orig">Dg-------1A----</AM>
-<AM lemma="intenzivně_,s_^(^DD**intenzívně)_^(*4ivní)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="intenzivně_^(^DD**intenzívně)_(*1í)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-042-p1s13w6">
@@ -1871,7 +1871,7 @@
 <LM>w#w-lnd94101-042-p1s13w18</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94101-042-p1s13w19">
 <src.rf>manual</src.rf>
@@ -1963,7 +1963,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-042-p1s14w4">
@@ -2216,7 +2216,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-042-p1s15w4">

@@ -387,7 +387,7 @@
 <LM>w#w-cmpr9407-009-p3s2w29</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9407-009-p3s2w30">
 <src.rf>manual</src.rf>
@@ -445,7 +445,7 @@
 <LM>w#w-cmpr9407-009-p3s3w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-009-p3s3w4">
 <src.rf>manual</src.rf>

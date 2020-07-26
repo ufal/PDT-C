@@ -651,7 +651,7 @@
 <LM>w#w-d1t1318-16</LM>
 </w.rf>
 <form>dejme</form>
-<tag lemma="dát" src="auto" recommended="1">Vi-P---1--A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m123-d1t1318-17">
 <w.rf>
@@ -692,7 +692,7 @@
 <LM>w#w-d1t1318-21</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m123-d1t1318-22">
 <w.rf>
@@ -1206,7 +1206,7 @@
 <LM>w#w-d1t1350-5</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m123-d1t1350-7">
 <w.rf>
@@ -1483,7 +1483,7 @@
 <LM>w#w-d1t1358-7</LM>
 </w.rf>
 <form>nekoupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-NAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m123-d-m-d1e1323-x3-punct-punct">
 <w.rf>
@@ -1846,7 +1846,7 @@
 <form>krátce</form>
 <tag>
 <AM lemma="krátce" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="krátce_^(*2ký)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="krátce" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m123-d1t1396-8">

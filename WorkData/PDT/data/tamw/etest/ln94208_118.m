@@ -251,7 +251,7 @@
 <LM>w#w-ln94208-118-p2s2w11</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podruhé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-118-p2s2w12">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-ln94208-118-p2s3w27</LM>
 </w.rf>
 <form>Schalke</form>
-<tag lemma="Schalke_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Schalke_;G_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94208-118-p2s3w28">
 <src.rf>manual</src.rf>

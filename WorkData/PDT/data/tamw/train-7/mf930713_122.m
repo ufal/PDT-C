@@ -35,7 +35,7 @@
 <LM>w#w-mf930713-122-p1s1w3</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930713-122-p1s1w4">
 <src.rf>manual</src.rf>
@@ -79,7 +79,7 @@
 <form>čtk</form>
 <tag>
 <AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="čtk_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-122-p2s1Aw4">
@@ -221,7 +221,7 @@
 <LM>w#w-mf930713-122-p2s1Bw13</LM>
 </w.rf>
 <form>staly</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-122-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -700,7 +700,7 @@
 <LM>w#w-mf930713-122-p3s2w7</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf930713-122-p3s2w8">
 <src.rf>manual</src.rf>

@@ -2871,7 +2871,7 @@
 <tag>
 <AM lemma="CBS_:B_;m_^(am.elevizní_společnost)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="CBS-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="CBS_;m_^(am._televizní_společnost)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0470-001-p1s4W31-Ta">

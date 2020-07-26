@@ -24,7 +24,7 @@
 <AM lemma="Flor_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Flor_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="flóra_,x" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Flora_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Flora_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-40-p1s1w2">
@@ -295,7 +295,7 @@
 <AM lemma="Flor_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Flor_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="flóra_,x" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Flora_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Flora_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-40-p2s2w11">
@@ -450,7 +450,7 @@
 <LM>w#w-ln94204-40-p2s3w5</LM>
 </w.rf>
 <form>facto</form>
-<tag lemma="facto" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="facto-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-ln94204-40-p2s3w6">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <AM lemma="Flor_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="flóra_,x" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Flora-1_;m" src="manual">NNFS1-----A----</AM>
-<AM lemma="Flora_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Flora_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-40-p2s4w2">
@@ -701,7 +701,7 @@
 <LM>w#w-ln94204-40-p2s5w3</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_^(inženýr)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="ing_^(inženýr)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-40-p2s5w4">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-ln94204-40-p2s5w16</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-ln94204-40-p2s5w17">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-ln94204-40-p2s6w4</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_^(inženýr)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="ing_^(inženýr)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-40-p2s6w5">
 <src.rf>manual</src.rf>

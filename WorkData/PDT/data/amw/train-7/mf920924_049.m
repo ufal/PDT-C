@@ -493,7 +493,7 @@
 <LM>w#w-mf920924-049-p2s2w14</LM>
 </w.rf>
 <form>tematicky</form>
-<tag lemma="tematicky_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="tematicky_^(^DD**tématicky)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-049-p2s2w15">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <LM>w#w-mf920924-049-p2s4w11</LM>
 </w.rf>
 <form>zmnožovala</form>
-<tag lemma="zmnožovat_,s" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="zmnožovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920924-049-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1085,7 +1085,7 @@
 <LM>w#w-mf920924-049-p2s6w5</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf920924-049-p2s6w6">
 <src.rf>manual</src.rf>
@@ -1151,7 +1151,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-049-p2s6w14">
@@ -1558,7 +1558,7 @@
 <LM>w#w-mf920924-049-p2s9w4</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="nízko-1_^(níže,_než...)" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="nízko-1" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf920924-049-p2s9w5">
 <src.rf>manual</src.rf>
@@ -1817,7 +1817,7 @@
 <LM>w#w-mf920924-049-p2s9w36</LM>
 </w.rf>
 <form>rolích</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf920924-049-p2s9w37">
 <src.rf>manual</src.rf>
@@ -2914,7 +2914,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-049-p2s14w20">

@@ -494,7 +494,7 @@
 <LM>w#w-mf930701-067-p1s3w7</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930701-067-p1s3w8">
 <src.rf>manual</src.rf>

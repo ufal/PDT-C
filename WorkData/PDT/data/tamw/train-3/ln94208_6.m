@@ -99,7 +99,7 @@
 <tag>
 <AM lemma="VW_:B_;m_,t_^(název_firmy/auta_Volkswagen)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="VW_:B_;m_^(název_firmy/auta_Volkswagen)" src="manual">NNIXX-----A----</AM>
-<AM lemma="VW_;m_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-6-p1s2w2">

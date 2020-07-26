@@ -1114,7 +1114,7 @@
 <LM>w#w-wsj1775-001-p1s4W8</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1775-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>

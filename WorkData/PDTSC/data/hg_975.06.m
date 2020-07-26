@@ -447,7 +447,7 @@
 <LM>w#w-id67394-7</LM>
 </w.rf>
 <form>nemohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m975-id67394-8">
 <w.rf>
@@ -483,7 +483,7 @@
 </w.rf>
 <form>stále</form>
 <tag>
-<AM lemma="stále" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="stále_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="stále_^(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -752,7 +752,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
-<AM lemma="více" src="auto" selected="1">Ca--X---------1</AM>
+<AM lemma="více" src="auto" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m975-id67448-6">
@@ -838,7 +838,7 @@
 <LM>w#w-id67471-5</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m975-id67471-6">
 <w.rf>
@@ -1837,7 +1837,7 @@
 </w.rf>
 <form>kolikrát</form>
 <tag>
-<AM lemma="kolikrát-1_^(mnohokrát)" src="auto" recommended="1">Co-------------</AM>
+<AM lemma="kolikrát" src="auto" recommended="1">Co-------------</AM>
 <AM lemma="kolikrát-2_^(táz.)" src="auto">Cu-------------</AM>
 </tag>
 </m>
@@ -2330,7 +2330,7 @@
 <LM>w#w-id67737-5</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
 </m>
 <m id="m975-id67747-1">
 <w.rf>
@@ -2419,7 +2419,7 @@
 </w.rf>
 <form>Kolikrát</form>
 <tag>
-<AM lemma="kolikrát-1_^(mnohokrát)" src="auto" selected="1">Co-------------</AM>
+<AM lemma="kolikrát" src="auto" selected="1">Co-------------</AM>
 <AM lemma="kolikrát-2_^(táz.)" src="auto" recommended="1">Cu-------------</AM>
 </tag>
 </m>
@@ -2615,7 +2615,7 @@
 </w.rf>
 <form>Kolikrát</form>
 <tag>
-<AM lemma="kolikrát-1_^(mnohokrát)" src="auto" selected="1">Co-------------</AM>
+<AM lemma="kolikrát" src="auto" selected="1">Co-------------</AM>
 <AM lemma="kolikrát-2_^(táz.)" src="auto" recommended="1">Cu-------------</AM>
 </tag>
 </m>

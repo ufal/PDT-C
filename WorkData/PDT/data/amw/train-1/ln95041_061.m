@@ -267,7 +267,7 @@
 <LM>w#w-ln95041-061-p2s1w31</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95041-061-p2s1w32">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-ln95041-061-p4s1w4</LM>
 </w.rf>
 <form>stíhaček</form>
-<tag lemma="stíhačka_^(letadlo)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="stíhačka_^(*2)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95041-061-p4s1w5">
 <src.rf>manual</src.rf>
@@ -2026,7 +2026,7 @@
 <LM>w#w-ln95041-061-p9s1w5</LM>
 </w.rf>
 <form>Barmu</form>
-<tag lemma="Barma_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Barma_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95041-061-p9s1w6">
 <src.rf>manual</src.rf>
@@ -2090,7 +2090,7 @@
 <LM>w#w-ln95041-061-p9s1w13</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-061-p9s1w14">
 <src.rf>manual</src.rf>
@@ -2130,7 +2130,7 @@
 <LM>w#w-ln95041-061-p9s1w18</LM>
 </w.rf>
 <form>Barmu</form>
-<tag lemma="Barma_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Barma_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95041-061-p9s1w19">
 <src.rf>manual</src.rf>

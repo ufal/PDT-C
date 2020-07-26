@@ -77,7 +77,7 @@
 <LM>w#w-lnd94105-096-p1s2w4</LM>
 </w.rf>
 <form>ma</form>
-<tag lemma="ma-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ma-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94105-096-p1s2w5">
 <src.rf>manual</src.rf>
@@ -145,7 +145,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-096-p1s3w7">

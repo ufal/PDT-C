@@ -1279,7 +1279,7 @@
 <AM lemma="čas_:B_^(př._t._č.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="český_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="číslo_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">BNNXX-----A---b</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0999-001-p1s4W11-Ta">
@@ -1625,7 +1625,7 @@
 <LM>w#w-wsj0999-001-p1s5W22</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m-wsj0999-001-p1s5W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6880,7 +6880,7 @@
 <LM>w#w-wsj0999-001-p1s25W14</LM>
 </w.rf>
 <form>Evropa</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0999-001-p1s25W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12280,7 +12280,7 @@
 <LM>w#w-wsj0999-001-p1s48W7</LM>
 </w.rf>
 <form>džínsů</form>
-<tag lemma="džínsy" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="džínsy-2" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0999-001-p1s48W8-Ta">
 <src.rf>tagger-a</src.rf>

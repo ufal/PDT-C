@@ -513,7 +513,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-87-p2s3w9">
@@ -1892,7 +1892,7 @@
 <LM>w#w-ln94207-87-p4s13w6</LM>
 </w.rf>
 <form>dostiženi</form>
-<tag lemma="dostihnout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="dostihnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-ln94207-87-p4s13w7">
 <src.rf>manual</src.rf>
@@ -1998,7 +1998,7 @@
 <LM>w#w-ln94207-87-p5s1w7</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-87-p5s1w8">
 <src.rf>manual</src.rf>
@@ -2014,7 +2014,7 @@
 <LM>w#w-ln94207-87-p5s1w9</LM>
 </w.rf>
 <form>remizovat</form>
-<tag lemma="remizovat" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="remizovat_,s_^(^DD**remízovat)" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-ln94207-87-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2839,7 +2839,7 @@
 <LM>w#w-ln94207-87-p6s15w3</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-87-p6s15w4">
 <src.rf>manual</src.rf>
@@ -3372,7 +3372,7 @@
 <LM>w#w-ln94207-87-p7s45w4</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-87-p7s45w5">
 <src.rf>manual</src.rf>

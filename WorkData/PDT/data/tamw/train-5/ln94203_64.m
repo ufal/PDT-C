@@ -462,7 +462,7 @@
 <LM>w#w-ln94203-64-p3s1w4</LM>
 </w.rf>
 <form>předal</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-64-p3s1w5">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-ln94203-64-p3s1w13</LM>
 </w.rf>
 <form>izraelsko</form>
-<tag lemma="izraelský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="izraelsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94203-64-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1123,7 +1123,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-64-p4s3w2">
@@ -1180,7 +1180,7 @@
 <LM>w#w-ln94203-64-p4s3w8</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-64-p4s3w9">
 <src.rf>manual</src.rf>

@@ -2197,7 +2197,7 @@
 <LM>w#w-d1t986-4</LM>
 </w.rf>
 <form>vašemu</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</tag>
 </m>
 <m id="m024-d1t986-5">
 <w.rf>
@@ -3210,7 +3210,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m024-d1e1072-x2-82">
@@ -3591,7 +3591,7 @@
 <LM>w#w-d1t1089-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m024-d1t1089-3">
 <w.rf>
@@ -3813,7 +3813,7 @@
 <LM>w#w-d1t1105-1</LM>
 </w.rf>
 <form>Nejdřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m024-d1t1105-2">
 <w.rf>

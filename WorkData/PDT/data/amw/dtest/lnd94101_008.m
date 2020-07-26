@@ -594,7 +594,7 @@
 <LM>w#w-lnd94101-008-p1s5w29</LM>
 </w.rf>
 <form>staly</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-008-p1s5w30">
 <src.rf>manual</src.rf>
@@ -756,7 +756,7 @@
 <LM>w#w-lnd94101-008-p1s6w13</LM>
 </w.rf>
 <form>prostředcích</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd94101-008-p1s6w14">
 <src.rf>manual</src.rf>
@@ -950,7 +950,7 @@
 <LM>w#w-lnd94101-008-p1s7w20</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-008-p1s7w21">
 <src.rf>manual</src.rf>

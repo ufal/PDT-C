@@ -443,7 +443,7 @@
 <LM>w#w-wsj2136-001-p1s2W3</LM>
 </w.rf>
 <form>podává</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj2136-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3222,7 +3222,7 @@
 </w.rf>
 <form>Polákům</form>
 <tag>
-<AM lemma="Polák_;E" src="auto" recommended="1">NNMP3-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="auto" recommended="1">NNMP3-----A----</AM>
 <AM lemma="Poláky_;G" src="auto">NNIP3-----A----</AM>
 <AM lemma="polák-1_;U" src="auto">NNMP3-----A----</AM>
 </tag>
@@ -7577,7 +7577,7 @@
 <LM>w#w-wsj2136-001-p1s25W24</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-wsj2136-001-p1s25W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10044,7 +10044,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2136-001-p1s33W2-Ta">

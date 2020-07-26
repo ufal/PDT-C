@@ -174,7 +174,7 @@
 <form>stal</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94202-112-p2s1Cw7">
@@ -418,7 +418,7 @@
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="kilometr_:B" src="manual">NNIXX-----A----</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-112-p3s1w16">
@@ -536,7 +536,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94202-112-p3s1w30">
@@ -1011,7 +1011,7 @@
 <LM>w#w-ln94202-112-p3s4w5</LM>
 </w.rf>
 <form>snem</form>
-<tag lemma="sen" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94202-112-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1245,7 +1245,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94202-112-p3s5w26">
@@ -1364,7 +1364,7 @@
 <LM>w#w-ln94202-112-p3s5w39</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94202-112-p3s5w40">
 <src.rf>manual</src.rf>
@@ -1430,7 +1430,7 @@
 <LM>w#w-ln94202-112-p4s1w3</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-112-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1592,7 +1592,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94202-112-p4s1w24">
@@ -1763,7 +1763,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94202-112-p4s1w45">

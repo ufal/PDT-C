@@ -519,7 +519,7 @@
 <LM>w#w-mf930713-093-p2s4w9</LM>
 </w.rf>
 <form>zastupitelů</form>
-<tag lemma="zastupitel_,a" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="zastupitel" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930713-093-p2s4w10">
 <src.rf>manual</src.rf>
@@ -843,7 +843,7 @@
 <LM>w#w-mf930713-093-p2s6w4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930713-093-p2s6w5">
 <src.rf>manual</src.rf>

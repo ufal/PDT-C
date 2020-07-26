@@ -122,7 +122,7 @@
 <form>Fr</form>
 <tag>
 <AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930709-091-p2s1w10">

@@ -375,7 +375,7 @@
 <LM>w#w-ln95042-012-p2s2w19</LM>
 </w.rf>
 <form>hodinách</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln95042-012-p2s2w20">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-ln95042-012-p2s2w30</LM>
 </w.rf>
 <form>polívkou</form>
-<tag lemma="polívka_,h" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="polívka_,h_^(^GC**polévka)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95042-012-p2s2w31">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-ln95042-012-p2s2w50</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95042-012-p2s2w51">
 <src.rf>manual</src.rf>
@@ -1817,7 +1817,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
+<AM lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-012-p3s8w24">
@@ -3754,7 +3754,7 @@
 <LM>w#w-ln95042-012-p5s2w21</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-012-p5s2w22">
 <src.rf>manual</src.rf>
@@ -4522,7 +4522,7 @@
 <LM>w#w-ln95042-012-p5s10w7</LM>
 </w.rf>
 <form>globusek</form>
-<tag lemma="globuska_;m_,h" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="globuska_,h" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95042-012-p5s10w8">
 <src.rf>manual</src.rf>
@@ -4550,7 +4550,7 @@
 <form>jako</form>
 <tag>
 <AM lemma="jako-1" src="auto">J,-------------</AM>
-<AM lemma="jako-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jako-1" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-012-p5s11w3">

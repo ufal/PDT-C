@@ -394,7 +394,7 @@
 <LM>w#w-lnd91303-940-p3s2Bw20</LM>
 </w.rf>
 <form>dávalo</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-940-p3s2Bw21">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <LM>w#w-lnd91303-940-p3s6w12</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-940-p3s6w13">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 <LM>w#w-lnd91303-940-p3s8w10</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd91303-940-p3s8w11">
 <src.rf>manual</src.rf>

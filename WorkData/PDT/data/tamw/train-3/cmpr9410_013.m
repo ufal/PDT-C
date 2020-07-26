@@ -223,7 +223,7 @@
 <LM>w#w-cmpr9410-013-p5s2w5</LM>
 </w.rf>
 <form>sehnat</form>
-<tag lemma="sehnat" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="sehnat_^(shánět)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9410-013-p5s2w6">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-cmpr9410-013-p7s1w2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-cmpr9410-013-p7s1w3">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-cmpr9410-013-p7s1w3</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9410-013-p7s1w4">
 <src.rf>manual</src.rf>
@@ -1014,7 +1014,7 @@
 <LM>w#w-cmpr9410-013-p9s3w9</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9410-013-p9s3w10">
 <src.rf>manual</src.rf>
@@ -1614,7 +1614,7 @@
 <LM>w#w-cmpr9410-013-p10s2w15</LM>
 </w.rf>
 <form>Pedagogicko</form>
-<tag lemma="pedagogický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="pedagogicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-cmpr9410-013-p10s2w16">
 <src.rf>manual</src.rf>
@@ -1871,7 +1871,7 @@
 <LM>w#w-cmpr9410-013-p12s1w3</LM>
 </w.rf>
 <form>Pedagogicko</form>
-<tag lemma="pedagogický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="pedagogicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-cmpr9410-013-p12s1w4">
 <src.rf>manual</src.rf>

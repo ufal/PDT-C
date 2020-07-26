@@ -282,7 +282,7 @@
 <LM>w#w-mf920922-032-p3s2w14</LM>
 </w.rf>
 <form>Slovákem</form>
-<tag lemma="Slovák_;E" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-032-p3s2w15">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <LM>w#w-mf920922-032-p3s3w13</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-mf920922-032-p3s3w15">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <form>mohli</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf920922-032-p3s3w18">
@@ -622,7 +622,7 @@
 <LM>w#w-mf920922-032-p3s4w15</LM>
 </w.rf>
 <form>nevydělá</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-mf920922-032-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1173,7 +1173,7 @@
 <LM>w#w-mf920922-032-p3s6w20</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-mf920922-032-p3s6w21">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-032-p3s7w8">

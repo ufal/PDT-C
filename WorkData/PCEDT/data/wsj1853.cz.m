@@ -3641,7 +3641,7 @@
 <LM>w#w-wsj1853-001-p1s12W19</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1853-001-p1s12W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4994,7 +4994,7 @@
 <LM>w#w-wsj1853-001-p1s16W1</LM>
 </w.rf>
 <form>Nejdříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1853-001-p1s16W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5174,7 +5174,7 @@
 <LM>w#w-wsj1853-001-p1s16W16</LM>
 </w.rf>
 <form>životně</form>
-<tag lemma="životně_^(př._rod_životný)_(souvisí_se_životem;_prostředí,...)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="životně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1853-001-p1s16W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6151,7 +6151,7 @@
 <LM>w#w-wsj1853-001-p1s20W13</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1853-001-p1s20W14-Ta">
 <src.rf>tagger-a</src.rf>

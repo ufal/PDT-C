@@ -541,7 +541,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m117-d1t986-3">
@@ -647,7 +647,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -665,7 +665,7 @@
 <LM>w#w-d1t996-1</LM>
 </w.rf>
 <form>Jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m117-d1t996-2">
 <w.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-d1t1000-7</LM>
 </w.rf>
 <form>jely</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m117-d1t1000-6">
 <w.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-d1t1004-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m117-d1t1004-3">
 <w.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-d1t1016-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m117-d-id87852-punct">
 <w.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-d1t1022-2</LM>
 </w.rf>
 <form>Ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m117-d1t1022-3">
 <w.rf>
@@ -1033,7 +1033,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m117-54-56">
@@ -1054,7 +1054,7 @@
 <LM>w#w-d1t1024-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m117-d-m-d1e1017-x2-punct-punct">
 <w.rf>
@@ -1390,7 +1390,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1602,7 +1602,7 @@
 <LM>w#w-d1t1062-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m117-d1t1062-4">
 <w.rf>
@@ -1662,7 +1662,7 @@
 <LM>w#w-d1t1070-3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m117-d1e1067-x2-115">
 <w.rf>
@@ -2146,7 +2146,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m117-d1t1099-3">
@@ -2425,7 +2425,7 @@
 <LM>w#w-d1t1115-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m117-d1t1115-4">
 <w.rf>
@@ -2783,7 +2783,7 @@
 </w.rf>
 <form>zastavil</form>
 <tag>
-<AM lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="zastavit-2_:W_^(zástavní_právo)" src="auto">VpYS---XR-AA---</AM>
 </tag>
 </m>
@@ -3326,7 +3326,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m117-d1t1153-12">
@@ -3416,7 +3416,7 @@
 <LM>w#w-d1t1157-6</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m117-d1t1157-8">
 <w.rf>
@@ -3430,7 +3430,7 @@
 <LM>w#w-d1t1157-9</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m117-d1t1157-10">
 <w.rf>
@@ -3699,7 +3699,7 @@
 <LM>w#w-d1t1186-7</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m117-d1t1186-8">
 <w.rf>
@@ -3724,7 +3724,7 @@
 </w.rf>
 <form>zastavil</form>
 <tag>
-<AM lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="zastavit-2_:W_^(zástavní_právo)" src="auto">VpYS---XR-AA---</AM>
 </tag>
 </m>
@@ -3877,7 +3877,7 @@
 <LM>w#w-d1t1197-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m117-237-240">
 <w.rf>
@@ -4446,7 +4446,7 @@
 <form>zapomněli</form>
 <tag>
 <AM lemma="zapomenout" src="auto">VpMP----R-AAP--</AM>
-<AM lemma="zapomnět_,a_,n" src="auto" recommended="1">VpMP----R-AAP--</AM>
+<AM lemma="zapomnět_,n" src="auto" recommended="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m117-d1t1203-28">

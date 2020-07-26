@@ -378,7 +378,7 @@
 <LM>w#w-mf930709-086-p1s3w3</LM>
 </w.rf>
 <form>předán</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930709-086-p1s3w4">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-mf930709-086-p2s2Bw19</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-mf930709-086-p2s2Bw20">
 <src.rf>manual</src.rf>

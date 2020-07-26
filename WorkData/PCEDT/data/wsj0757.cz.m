@@ -78,7 +78,7 @@
 <LM>w#w-wsj0757-001-p1s0W8</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0757-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -187,7 +187,7 @@
 <LM>w#w-wsj0757-001-p1s0W20</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0757-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -972,7 +972,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0757-001-p1s7W16-Ta">

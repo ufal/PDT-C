@@ -19,7 +19,7 @@
 <LM>w#w-ln95046-076-p1s1w1</LM>
 </w.rf>
 <form>Nepoliticko</form>
-<tag lemma="politický" src="orig" selected="1">A2--------N----</tag>
+<tag lemma="politicko" src="orig" selected="1">S2--------N----</tag>
 </m>
 <m id="m-ln95046-076-p1s1w2">
 <src.rf>manual</src.rf>
@@ -1142,7 +1142,7 @@
 <LM>w#w-ln95046-076-p2s9w8</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95046-076-p2s9w9">
 <src.rf>manual</src.rf>
@@ -1367,7 +1367,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-076-p2s11w14">
@@ -1442,7 +1442,7 @@
 <LM>w#w-ln95046-076-p2s12w8</LM>
 </w.rf>
 <form>právem</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95046-076-p2s12w9">
 <src.rf>manual</src.rf>
@@ -1633,7 +1633,7 @@
 <LM>w#w-ln95046-076-p2s14w2</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln95046-076-p2s14w3">
 <src.rf>manual</src.rf>
@@ -1964,7 +1964,7 @@
 <LM>w#w-ln95046-076-p3s1w18</LM>
 </w.rf>
 <form>kandidátkách</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln95046-076-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1980,7 +1980,7 @@
 <LM>w#w-ln95046-076-p3s1w20</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95046-076-p3s1w21">
 <src.rf>manual</src.rf>
@@ -2213,7 +2213,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-076-p3s4w5">
@@ -2270,7 +2270,7 @@
 <LM>w#w-ln95046-076-p3s4w11</LM>
 </w.rf>
 <form>kandidátkách</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln95046-076-p3s4w12">
 <src.rf>manual</src.rf>
@@ -2318,7 +2318,7 @@
 <LM>w#w-ln95046-076-p3s4w17</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95046-076-p3s4w18">
 <src.rf>manual</src.rf>
@@ -2512,7 +2512,7 @@
 <form>ČSSD</form>
 <tag>
 <AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSSD_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-076-p3s6w10">
@@ -2645,7 +2645,7 @@
 <LM>w#w-ln95046-076-p3s8w6</LM>
 </w.rf>
 <form>očích</form>
-<tag lemma="oko" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln95046-076-p3s8w7">
 <src.rf>manual</src.rf>
@@ -2751,7 +2751,7 @@
 <LM>w#w-ln95046-076-p3s9w4</LM>
 </w.rf>
 <form>vzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95046-076-p3s9w5">
 <src.rf>manual</src.rf>
@@ -2891,7 +2891,7 @@
 <LM>w#w-ln95046-076-p4s2w1</LM>
 </w.rf>
 <form>Politiku</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95046-076-p4s2w2">
 <src.rf>manual</src.rf>
@@ -3003,7 +3003,7 @@
 <LM>w#w-ln95046-076-p4s2w15</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95046-076-p4s2w16">
 <src.rf>manual</src.rf>

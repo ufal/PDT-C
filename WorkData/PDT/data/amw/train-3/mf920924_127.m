@@ -35,7 +35,7 @@
 <LM>w#w-mf920924-127-p1s1Aw3</LM>
 </w.rf>
 <form>neradi</form>
-<tag lemma="rád" src="orig" selected="1">ACMP------N----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACMP------N----</tag>
 </m>
 <m id="m-mf920924-127-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-mf920924-127-p1s1Bw6</LM>
 </w.rf>
 <form>BESKYDECH</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="Beskydy-1_;G" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf920924-127-p1s1Bw7">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-mf920924-127-p2s1w7</LM>
 </w.rf>
 <form>Beskyd</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920924-127-p2s1w8">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-mf920924-127-p2s2w22</LM>
 </w.rf>
 <form>kilowattů</form>
-<tag lemma="kW-1`kilowatt" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kilowatt" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920924-127-p2s2w23">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-mf920924-127-p2s2w36</LM>
 </w.rf>
 <form>kilowattů</form>
-<tag lemma="kW-1`kilowatt" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kilowatt" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920924-127-p2s2w37">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-mf920924-127-p2s3w5</LM>
 </w.rf>
 <form>kilowattů</form>
-<tag lemma="kW-1`kilowatt" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kilowatt" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920924-127-p2s3w6">
 <src.rf>manual</src.rf>
@@ -800,7 +800,7 @@
 <LM>w#w-mf920924-127-p3s1w6</LM>
 </w.rf>
 <form>kilowattů</form>
-<tag lemma="kW-1`kilowatt" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kilowatt" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920924-127-p3s1w7">
 <src.rf>manual</src.rf>
@@ -2123,7 +2123,7 @@
 <LM>w#w-mf920924-127-p4s2w33</LM>
 </w.rf>
 <form>Beskydech</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="Beskydy-1_;G" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf920924-127-p4s2w34">
 <src.rf>manual</src.rf>
@@ -2522,7 +2522,7 @@
 <LM>w#w-mf920924-127-p5s3w1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920924-127-p5s3w2">
 <src.rf>manual</src.rf>
@@ -2848,7 +2848,7 @@
 <LM>w#w-mf920924-127-p6s1w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-127-p6s1w4">
 <src.rf>manual</src.rf>
@@ -2885,7 +2885,7 @@
 <form>kdekoliv</form>
 <tag>
 <AM lemma="kdekoliv" src="orig">Db-------------</AM>
-<AM lemma="kdekoli" src="auto" recommended="1" selected="1">Db------------1</AM>
+<AM lemma="kdekoliv_,s_^(^DD**kdekoli)" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-127-p6s1w8">
@@ -3416,7 +3416,7 @@
 <LM>w#w-mf920924-127-p7s3w1</LM>
 </w.rf>
 <form>Kdybychom</form>
-<tag lemma="kdyby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="kdyby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-mf920924-127-p7s3w3">
 <src.rf>manual</src.rf>
@@ -3691,7 +3691,7 @@
 <LM>w#w-mf920924-127-p7s3w36</LM>
 </w.rf>
 <form>Beskyd</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920924-127-p7s3w37">
 <src.rf>manual</src.rf>
@@ -4163,7 +4163,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-127-p9s1w18">
@@ -4819,7 +4819,7 @@
 <LM>w#w-mf920924-127-p9s4w22</LM>
 </w.rf>
 <form>kilowattů</form>
-<tag lemma="kW-1`kilowatt" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kilowatt" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920924-127-p9s4w23">
 <src.rf>manual</src.rf>

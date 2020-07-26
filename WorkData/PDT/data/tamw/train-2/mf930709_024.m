@@ -462,7 +462,7 @@
 <LM>w#w-mf930709-024-p2s3w10</LM>
 </w.rf>
 <form>ukradl</form>
-<tag lemma="ukrást" src="auto" selected="1">VpYS----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930709-024-p2s3w11">
 <src.rf>manual</src.rf>

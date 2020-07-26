@@ -40,7 +40,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920902-041-p1s1w4">
@@ -67,7 +67,7 @@
 <form>nám</form>
 <tag>
 <AM lemma="já" src="orig">PP-P3--1-------</AM>
-<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920902-041-p1s1w7">
@@ -126,7 +126,7 @@
 <form>Tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920902-041-p1s1w14">
@@ -341,7 +341,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920902-041-p8s1w7">
@@ -400,7 +400,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920902-041-p8s1w14">

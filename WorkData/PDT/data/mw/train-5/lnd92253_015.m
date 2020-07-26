@@ -221,7 +221,7 @@
 <LM>w#w-lnd92253-015-p2s2w18</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-lnd92253-015-p2s2w19">
 <src.rf>manual</src.rf>

@@ -167,7 +167,7 @@
 <LM>w#w-ln95044-014-p2s1Bw13</LM>
 </w.rf>
 <form>zastavil</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-014-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-014-p2s3w20">
@@ -729,7 +729,7 @@
 <LM>w#w-ln95044-014-p3s2w5</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-014-p3s2w6">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <LM>w#w-ln95044-014-p3s2w25</LM>
 </w.rf>
 <form>verbálně</form>
-<tag lemma="verbálně_,s_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="verbálně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95044-014-p3s2w26">
 <src.rf>manual</src.rf>
@@ -1573,7 +1573,7 @@
 <LM>w#w-ln95044-014-p3s5w23</LM>
 </w.rf>
 <form>zastavil</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-014-p3s5w24">
 <src.rf>manual</src.rf>
@@ -1713,7 +1713,7 @@
 <form>vzat</form>
 <tag>
 <AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="manual" selected="1">VsYS----X-APP--</AM>
+<AM lemma="vzít" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln95044-014-p3s6w17">

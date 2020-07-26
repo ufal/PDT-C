@@ -1759,7 +1759,7 @@
 <LM>w#w-ln95046-112-p5s2w22</LM>
 </w.rf>
 <form>dnem</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95046-112-p5s2w23">
 <src.rf>manual</src.rf>
@@ -2406,7 +2406,7 @@
 <LM>w#w-ln95046-112-p5s6w21</LM>
 </w.rf>
 <form>masově</form>
-<tag lemma="masově-2_^(velký)_(*3ý-2)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="masově_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95046-112-p5s6w22">
 <src.rf>manual</src.rf>

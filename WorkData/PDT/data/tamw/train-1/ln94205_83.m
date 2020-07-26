@@ -87,7 +87,7 @@
 <LM>w#w-ln94205-83-p2s1Bw3</LM>
 </w.rf>
 <form>vzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-83-p2s1Bw4">
 <src.rf>manual</src.rf>

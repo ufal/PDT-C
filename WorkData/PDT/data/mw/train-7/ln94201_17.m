@@ -43,7 +43,7 @@
 <LM>w#w-ln94201-17-p1s1w4</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94201-17-p1s1w5">
 <src.rf>manual</src.rf>

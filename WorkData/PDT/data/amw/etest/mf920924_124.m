@@ -706,7 +706,7 @@
 <LM>w#w-mf920924-124-p2s5w13</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kčs_^(Koruna_čs.)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920924-124-p2s5w14">
 <src.rf>manual</src.rf>

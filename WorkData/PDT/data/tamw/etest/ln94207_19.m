@@ -827,7 +827,7 @@
 <LM>w#w-ln94207-19-p2s6w5</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln94207-19-p2s6w6">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-ln94207-19-p3s1w12</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94207-19-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1571,7 +1571,7 @@
 <LM>w#w-ln94207-19-p3s3w9</LM>
 </w.rf>
 <form>vezme</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94207-19-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1653,7 +1653,7 @@
 <LM>w#w-ln94207-19-p3s4w5</LM>
 </w.rf>
 <form>vezme</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94207-19-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1779,7 +1779,7 @@
 <form>diskusích</form>
 <tag>
 <AM lemma="diskuse" src="orig">NNFP6-----A----</AM>
-<AM lemma="diskuse_s,_^(^DD**diskuze)" src="manual" selected="1">NNFP6-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-19-p3s6w8">
@@ -2284,7 +2284,7 @@
 <LM>w#w-ln94207-19-p3s8w13</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94207-19-p3s8w14">
 <src.rf>manual</src.rf>
@@ -2300,7 +2300,7 @@
 <LM>w#w-ln94207-19-p3s8w15</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-19-p3s8w16">
 <src.rf>manual</src.rf>
@@ -2324,7 +2324,7 @@
 <LM>w#w-ln94207-19-p3s8w18</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-19-p3s8w19">
 <src.rf>manual</src.rf>
@@ -2444,7 +2444,7 @@
 <LM>w#w-ln94207-19-p3s9w13</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-19-p3s9w14">
 <src.rf>manual</src.rf>
@@ -2814,7 +2814,7 @@
 <LM>w#w-ln94207-19-p3s10w31</LM>
 </w.rf>
 <form>nadáni</form>
-<tag lemma="nadat-2_^(obdařit,_dotovat)" src="orig" selected="1">VsMP----X-APP--</tag>
+<tag lemma="nadat_^(spílat;;obdařit,_dotovat)" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln94207-19-p3s10w32">
 <src.rf>manual</src.rf>
@@ -3052,7 +3052,7 @@
 <LM>w#w-ln94207-19-p4s3w4</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-19-p4s3w5">
 <src.rf>manual</src.rf>

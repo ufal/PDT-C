@@ -514,7 +514,7 @@
 <LM>w#w-mf930713-077-p3s1w9</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930713-077-p3s1w10">
 <src.rf>manual</src.rf>

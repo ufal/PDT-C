@@ -120,7 +120,7 @@
 <LM>w#w-ln94200-143-p2s1w9</LM>
 </w.rf>
 <form>otištěn</form>
-<tag lemma="otisknout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="otisknout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln94200-143-p2s1w10">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <form>Pplk</form>
 <tag>
 <AM lemma="podplukovník_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="podplukovník" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="podplukovník" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94200-143-p3s1w2">
@@ -674,7 +674,7 @@
 <form>resp</form>
 <tag>
 <AM lemma="respektive_:B" src="auto">Db------------8</AM>
-<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------b</AM>
 </tag>
 </m>
 <m id="m-ln94200-143-p3s1w24">
@@ -848,7 +848,7 @@
 <LM>w#w-ln94200-143-p3s3w6</LM>
 </w.rf>
 <form>polsko</form>
-<tag lemma="polský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="polsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94200-143-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-ln94200-143-p3s4w19</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94200-143-p3s4w20">
 <src.rf>manual</src.rf>
@@ -1506,7 +1506,7 @@
 <form>Čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94200-143-p3s5w2">
@@ -1619,7 +1619,7 @@
 <LM>w#w-ln94200-143-p3s5w15</LM>
 </w.rf>
 <form>zastavila</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94200-143-p3s5w16">
 <src.rf>manual</src.rf>
@@ -1691,7 +1691,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94200-143-p3s6w3">
@@ -1859,7 +1859,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94200-143-p3s7w5">
@@ -2057,7 +2057,7 @@
 </w.rf>
 <form>Kisielewski</form>
 <tag>
-<AM lemma="Kisielewski_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kisielewský_;Y" src="orig" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Kisielewský_;Y" src="auto" recommended="1">NNMP1-----A---1</AM>
 </tag>
 </m>
@@ -2336,7 +2336,7 @@
 <LM>w#w-ln94200-143-p3s9w5</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94200-143-p3s9w6">
 <src.rf>manual</src.rf>
@@ -2394,7 +2394,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94200-143-p3s9w13">
@@ -2597,7 +2597,7 @@
 <form>gen</form>
 <tag>
 <AM lemma="generál_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="generál" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="generál" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94200-143-p3s9w38">
@@ -3333,7 +3333,7 @@
 <LM>w#w-ln94200-143-p3s11w31</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-ln94200-143-p3s11w32">
 <src.rf>manual</src.rf>
@@ -3702,7 +3702,7 @@
 <form>PhDr</form>
 <tag>
 <AM lemma="PhDr-1_:B_,t_^(philosophiae_doctor)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="PhDr_^(philosophiae_doctor)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PhDr_^(doktor_filozofie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-143-p4s1w6">

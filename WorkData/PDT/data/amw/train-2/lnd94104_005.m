@@ -1022,7 +1022,7 @@
 <LM>w#w-lnd94104-005-p1s8w4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-lnd94104-005-p1s8w5">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-mf920924-015-p1s1w1</LM>
 </w.rf>
 <form>Hodina</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-015-p1s1w2">
 <src.rf>manual</src.rf>
@@ -654,7 +654,7 @@
 <LM>w#w-mf920924-015-p2s4w26</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920924-015-p2s4w27">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-mf920924-015-p2s5w3</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920924-015-p2s5w4">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <LM>w#w-mf920924-015-p2s7w16</LM>
 </w.rf>
 <form>Dagmar</form>
-<tag lemma="Dagmar_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Dagmar_;Y_;m" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920924-015-p2s7w17">
 <src.rf>manual</src.rf>
@@ -1014,7 +1014,7 @@
 <LM>w#w-mf920924-015-p2s8w8</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920924-015-p2s8w9">
 <src.rf>manual</src.rf>

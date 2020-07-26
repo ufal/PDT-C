@@ -475,7 +475,7 @@
 <LM>w#w-ln95048-115-p2s2w33</LM>
 </w.rf>
 <form>prostředcích</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95048-115-p2s2w34">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <form>kg</form>
 <tag>
 <AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95048-115-p3s1w10">
@@ -939,7 +939,7 @@
 <LM>w#w-ln95048-115-p3s4w6</LM>
 </w.rf>
 <form>dopaden</form>
-<tag lemma="dopadnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="dopadnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln95048-115-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1558,7 +1558,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VsYS----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VsYS---XX-AP---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VsYS----X-APP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln95048-115-p5s2w4">
@@ -1988,7 +1988,7 @@
 <form>stal</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-115-p5s4w5">

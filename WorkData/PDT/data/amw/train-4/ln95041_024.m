@@ -53,7 +53,7 @@
 <LM>w#w-ln95041-024-p2s1Aw1</LM>
 </w.rf>
 <form>Polák</form>
-<tag lemma="Polák_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polák_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-024-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 </s>
@@ -148,7 +148,7 @@
 <LM>w#w-ln95041-024-p2s1Cw2</LM>
 </w.rf>
 <form>Polák</form>
-<tag lemma="Polák_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polák_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-024-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-ln95041-024-p2s1Cw17</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95041-024-p2s1Cw18">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <LM>w#w-ln95041-024-p2s1Cw19</LM>
 </w.rf>
 <form>Nor</form>
-<tag lemma="Nor_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nor_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-024-p2s1Cw20">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95041-024-p2s1Cw31">
@@ -493,7 +493,7 @@
 <LM>w#w-ln95041-024-p3s1w10</LM>
 </w.rf>
 <form>mířil</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-024-p3s1w11">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-ln95041-024-p3s3w3</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-024-p3s3w4">
 <src.rf>manual</src.rf>
@@ -745,7 +745,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95041-024-p3s4w17">
@@ -794,7 +794,7 @@
 <LM>w#w-ln95041-024-p3s4w22</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95041-024-p3s4w23">
 <src.rf>manual</src.rf>
@@ -1502,7 +1502,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95041-024-p5s1w6">
@@ -1519,7 +1519,7 @@
 <LM>w#w-ln95041-024-p5s1w7</LM>
 </w.rf>
 <form>Francouzka</form>
-<tag lemma="Francouzka_;E" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Francouzka_;E_^(*2)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-024-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1703,7 +1703,7 @@
 <AM lemma="Petra_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Petr_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Petr_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Petra-1_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Petra_;G_;Y_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Petro_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Petro_;Y" src="auto">NNMS4-----A----</AM>

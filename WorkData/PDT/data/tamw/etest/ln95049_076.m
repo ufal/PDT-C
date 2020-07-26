@@ -21,7 +21,7 @@
 <form>Nalezen</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsYS----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsYS----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln95049-076-p1s1w2">
@@ -132,7 +132,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-076-p2s1Bw9">
@@ -281,7 +281,7 @@
 <form>nalezen</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsYS----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsYS----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln95049-076-p2s2w7">
@@ -292,7 +292,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-076-p2s2w8">
@@ -564,7 +564,7 @@
 <form>nalezeny</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsTP----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsTP----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsTP----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln95049-076-p2s3w6">

@@ -1171,7 +1171,7 @@
 <LM>w#w-ln95045-019-p3s4Aw18</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95045-019-p3s4Aw19">
 <src.rf>manual</src.rf>
@@ -1567,7 +1567,7 @@
 <LM>w#w-ln95045-019-p3s5w11</LM>
 </w.rf>
 <form>nejvíc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A---1</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------3A---1</tag>
 </m>
 <m id="m-ln95045-019-p3s5w12">
 <src.rf>manual</src.rf>
@@ -2660,7 +2660,7 @@
 <LM>w#w-ln95045-019-p5s1w20</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95045-019-p5s1w21">
 <src.rf>manual</src.rf>

@@ -2059,7 +2059,7 @@
 <tag>
 <AM lemma="málo-3" src="auto" recommended="1">Dg-------3A----</AM>
 <AM lemma="nejméně" src="auto">Ca--X----------</AM>
-<AM lemma="málo-3_^(málo_důsledný)" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="méně" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m916-d1t469-2">
@@ -3640,7 +3640,7 @@
 <LM>w#w-d1t542-4</LM>
 </w.rf>
 <form>mlada</form>
-<tag lemma="mlado" src="auto" recommended="1" selected="1">NNNS2-----A----</tag>
+<tag lemma="mlada" src="auto" recommended="1" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m916-d1t542-5">
 <w.rf>
@@ -4225,7 +4225,7 @@
 <LM>w#w-d1t565-13</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m916-d1e554-x3-3160">
 <w.rf>
@@ -4499,7 +4499,7 @@
 <LM>w#w-d1t574-12</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m916-d1t574-13">
 <w.rf>
@@ -4535,7 +4535,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m916-d-id77402">
@@ -4792,7 +4792,7 @@
 <LM>w#w-d1t585-3</LM>
 </w.rf>
 <form>kdykoliv</form>
-<tag lemma="kdykoli" src="auto" recommended="1">Db------------1</tag>
+<tag lemma="kdykoliv_,s_^(^DD**kdykoli)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m916-d1t585-4">
 <w.rf>
@@ -4882,7 +4882,7 @@
 <form>matkou</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS7-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m916-d-id78013">
@@ -5151,7 +5151,7 @@
 <LM>w#w-d1t589-3</LM>
 </w.rf>
 <form>nikoliv</form>
-<tag lemma="nikoli" src="auto" recommended="1">TT------------1</tag>
+<tag lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m916-d1e554-x6-998">
 <w.rf>
@@ -6027,7 +6027,7 @@
 <tag>
 <AM lemma="předat-1_:T_,a_^(příst)" src="auto">Vf--------A----</AM>
 <AM lemma="předat-2_:W_^(se;_dát_něčeho_příliš)" src="auto">Vf--------A----</AM>
-<AM lemma="předat-3_^(někomu_něco)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="předat" src="auto" recommended="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m916-d-id79989">
@@ -6069,7 +6069,7 @@
 <tag>
 <AM lemma="předat-1_:T_,a_^(příst)" src="auto">Vf--------A----</AM>
 <AM lemma="předat-2_:W_^(se;_dát_něčeho_příliš)" src="auto">Vf--------A----</AM>
-<AM lemma="předat-3_^(někomu_něco)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="předat" src="auto" recommended="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m916-d1t611-8">
@@ -6154,7 +6154,7 @@
 <LM>w#w-d1t615-4</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m916-d-id80216">
 <w.rf>
@@ -6219,7 +6219,7 @@
 <tag>
 <AM lemma="předat-1_:T_,a_^(příst)" src="auto">Vf--------A----</AM>
 <AM lemma="předat-2_:W_^(se;_dát_něčeho_příliš)" src="auto">Vf--------A----</AM>
-<AM lemma="předat-3_^(někomu_něco)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="předat" src="auto" recommended="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m916-d1e554-x9-1380">
@@ -6938,7 +6938,7 @@
 <LM>w#w-d1t660-8</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m916-d1t660-9">
 <w.rf>
@@ -7424,7 +7424,7 @@
 <LM>w#w-d1t695-6</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m916-d1t695-7">
 <w.rf>

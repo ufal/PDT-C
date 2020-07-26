@@ -530,7 +530,7 @@
 <tag>
 <AM lemma="Kinorevue_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="Kinorevue_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Kinorevue_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Kinorevue_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-27-p4s1w3">

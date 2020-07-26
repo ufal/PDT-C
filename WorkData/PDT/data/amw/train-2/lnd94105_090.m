@@ -62,7 +62,7 @@
 <tag>
 <AM lemma="NBA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="NBA_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -209,7 +209,7 @@
 <tag>
 <AM lemma="NBA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="NBA_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-090-p1s3w13">
@@ -567,7 +567,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94105-090-p1s6w8">
@@ -801,7 +801,7 @@
 <tag>
 <AM lemma="NBA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="NBA_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-090-p1s7w6">

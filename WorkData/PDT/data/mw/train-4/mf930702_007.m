@@ -453,7 +453,7 @@
 <LM>w#w-mf930702-007-p2s2w21</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930702-007-p2s2w22">
 <src.rf>manual</src.rf>

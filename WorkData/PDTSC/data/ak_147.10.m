@@ -2015,7 +2015,7 @@
 <LM>w#w-d1t999-3</LM>
 </w.rf>
 <form>teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m147-d1t999-4">
 <w.rf>
@@ -3329,7 +3329,7 @@
 <LM>w#w-d1t1036-6</LM>
 </w.rf>
 <form>teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m147-305-306">
 <w.rf>
@@ -3531,7 +3531,7 @@
 <LM>w#w-d1t1040-28</LM>
 </w.rf>
 <form>zaměstnávala</form>
-<tag lemma="zaměstnávat-1_^(všeob._význam:_činnost,_zaměstnání)_(*6at-1)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="zaměstnávat_^(*4at)" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m147-d1t1040-29">
 <w.rf>

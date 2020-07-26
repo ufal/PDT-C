@@ -146,7 +146,7 @@
 <LM>w#w-ln94210-145-p2s1w15</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94210-145-p2s1w16">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-ln94210-145-p3s1w12</LM>
 </w.rf>
 <form>sezonně</form>
-<tag lemma="sezonně_^(*4ónní)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="sezonně_^(^DD**sezónně)_(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94210-145-p3s1w13">
 <src.rf>manual</src.rf>

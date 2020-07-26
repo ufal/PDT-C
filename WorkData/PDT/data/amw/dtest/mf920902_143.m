@@ -1071,7 +1071,7 @@
 <LM>w#w-mf920902-143-p6s1w2</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="mj_^(mimo_jiné)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-mf920902-143-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1167,7 +1167,7 @@
 <LM>w#w-mf920902-143-p6s1w14</LM>
 </w.rf>
 <form>zatčen</form>
-<tag lemma="zatknout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-mf920902-143-p6s1w15">
 <src.rf>manual</src.rf>
@@ -1340,7 +1340,7 @@
 <LM>w#w-mf920902-143-p7s1w10</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-143-p7s1w11">
 <src.rf>manual</src.rf>
@@ -1348,7 +1348,7 @@
 <LM>w#w-mf920902-143-p7s1w11</LM>
 </w.rf>
 <form>impulsem</form>
-<tag lemma="impuls" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="impuls_,s_^(^DD**impulz)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf920902-143-p7s1w12">
 <src.rf>manual</src.rf>

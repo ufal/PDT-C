@@ -64,7 +64,7 @@
 <LM>w#w-d1t758-60</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m145-d1t758-62">
 <w.rf>
@@ -1519,7 +1519,7 @@
 <LM>w#w-d1t809-14</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m145-d1t809-15">
 <w.rf>
@@ -1757,7 +1757,7 @@
 <LM>w#w-d1t825-15</LM>
 </w.rf>
 <form>Slovák</form>
-<tag lemma="Slovák_;E" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m145-123-159">
 <w.rf>
@@ -2692,7 +2692,7 @@
 <LM>w#w-d1t857-11</LM>
 </w.rf>
 <form>Pražák</form>
-<tag lemma="Pražák_;E" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Pražák_;E_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m145-178-179">
 <w.rf>
@@ -3703,7 +3703,7 @@
 <LM>w#w-d1t904-12</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m145-d1t904-13">
 <w.rf>
@@ -3959,7 +3959,7 @@
 <form>Sehnal</form>
 <tag>
 <AM lemma="Sehnal_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sehnat" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="sehnat_^(shánět)" src="auto" recommended="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m145-231-234">
@@ -4053,7 +4053,7 @@
 <LM>w#w-d1t911-4</LM>
 </w.rf>
 <form>Jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m145-d1t911-2">
 <w.rf>
@@ -4103,7 +4103,7 @@
 <form>Koupil</form>
 <tag>
 <AM lemma="Koupil_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m145-d1t911-11">

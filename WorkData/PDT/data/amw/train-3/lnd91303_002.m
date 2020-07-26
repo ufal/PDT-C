@@ -19,7 +19,7 @@
 <LM>w#w-lnd91303-002-p1s1w1</LM>
 </w.rf>
 <form>PAVEL</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-002-p1s1w2">
 <src.rf>manual</src.rf>

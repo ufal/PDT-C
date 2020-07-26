@@ -593,7 +593,7 @@
 <LM>w#w-lnd92259-026-p3s4w22</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92259-026-p3s4w23">
 <src.rf>manual</src.rf>

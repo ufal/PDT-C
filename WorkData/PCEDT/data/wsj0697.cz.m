@@ -162,7 +162,7 @@
 <LM>w#w-wsj0697-001-p1s0W12</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77" src="auto" recommended="1">B%-------------</tag>
+<tag lemma="corp-77" src="auto" recommended="1">F%-------------</tag>
 </m>
 <m id="m-wsj0697-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>

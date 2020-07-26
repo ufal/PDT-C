@@ -70,7 +70,7 @@
 </w.rf>
 <form>mag</form>
 <tag>
-<AM lemma="mag-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="mag-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -318,7 +318,7 @@
 <form>ha</form>
 <tag>
 <AM lemma="ha-1`hektar_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-42-p2s2w16">
@@ -393,7 +393,7 @@
 <form>mil</form>
 <tag>
 <AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln94205-42-p2s2w25">
@@ -880,7 +880,7 @@
 <LM>w#w-ln94205-42-p2s5w4</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94205-42-p2s5w5">
 <src.rf>manual</src.rf>

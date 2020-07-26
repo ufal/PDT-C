@@ -851,7 +851,7 @@
 <LM>w#w-d1t310-2</LM>
 </w.rf>
 <form>nechám</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m147-d1t310-5">
 <w.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-d1t318-6</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m147-d1t318-7">
 <w.rf>
@@ -1628,7 +1628,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m147-d1t337-7">
@@ -2098,7 +2098,7 @@
 <LM>w#w-d1t343-1</LM>
 </w.rf>
 <form>Nejdřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m147-d1t343-2">
 <w.rf>
@@ -2170,7 +2170,7 @@
 <LM>w#w-d1t343-9</LM>
 </w.rf>
 <form>nekoupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-NAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m147-140-141">
 <w.rf>
@@ -3123,7 +3123,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m147-d1t363-17">
@@ -3436,7 +3436,7 @@
 <LM>w#w-d1t369-2</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m147-d1t369-3">
 <w.rf>

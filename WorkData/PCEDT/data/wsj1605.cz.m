@@ -316,7 +316,7 @@
 <LM>w#w-wsj1605-001-p1s1W13</LM>
 </w.rf>
 <form>lobbistů</form>
-<tag lemma="lobbista_,s_^(^DD**lobista)" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lobbista" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1605-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -796,7 +796,7 @@
 <LM>w#w-wsj1605-001-p1s4W13</LM>
 </w.rf>
 <form>lobbistu</form>
-<tag lemma="lobbista_,s_^(^DD**lobista)" src="auto" recommended="1">NNMS4-----A----</tag>
+<tag lemma="lobbista" src="auto" recommended="1">NNMS4-----A----</tag>
 </m>
 <m id="m-wsj1605-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -872,7 +872,7 @@
 <tag>
 <AM lemma="steradián_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="senior" src="manual">NNMXX-----A---8</AM>
-<AM lemma="sr-88_^(senior)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="sr_^(senior)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1605-001-p1s5W6-Ta">

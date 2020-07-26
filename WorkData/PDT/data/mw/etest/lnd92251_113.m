@@ -524,7 +524,7 @@
 <tag>
 <AM lemma="Itálie_:B_;G" src="auto">NNFXX-----A----</AM>
 <AM lemma="Itálie_;G" src="manual">NNFXX-----A----</AM>
-<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-113-p2s3w16">
@@ -591,7 +591,7 @@
 <form>It</form>
 <tag>
 <AM lemma="Itálie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-113-p2s3w24">
@@ -1071,7 +1071,7 @@
 <LM>w#w-lnd92251-113-p2s5w6</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-113-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1111,7 +1111,7 @@
 <LM>w#w-lnd92251-113-p2s5w11</LM>
 </w.rf>
 <form>předstižen</form>
-<tag lemma="předstihnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="předstihnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-lnd92251-113-p2s5w12">
 <src.rf>manual</src.rf>

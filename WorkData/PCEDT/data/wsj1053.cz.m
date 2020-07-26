@@ -81,7 +81,7 @@
 <LM>w#w-wsj1053-001-p1s0W7</LM>
 </w.rf>
 <form>správně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1053-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4896,7 +4896,7 @@
 <LM>w#w-wsj1053-001-p1s19W4</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1053-001-p1s19W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5106,7 +5106,7 @@
 <LM>w#w-wsj1053-001-p1s19W23</LM>
 </w.rf>
 <form>Evropu</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1053-001-p1s19W24-Ta">
 <src.rf>tagger-a</src.rf>

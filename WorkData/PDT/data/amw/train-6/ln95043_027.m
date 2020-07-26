@@ -184,7 +184,7 @@
 <LM>w#w-ln95043-027-p2s1Bw16</LM>
 </w.rf>
 <form>Francouzkou</form>
-<tag lemma="Francouzka_;E" src="auto" selected="1">NNFS7-----A----</tag>
+<tag lemma="Francouzka_;E_^(*2)" src="auto" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95043-027-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-ln95043-027-p3s2w34</LM>
 </w.rf>
 <form>Francouzkou</form>
-<tag lemma="Francouzka_;E" src="auto" selected="1">NNFS7-----A----</tag>
+<tag lemma="Francouzka_;E_^(*2)" src="auto" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95043-027-p3s2w35">
 <src.rf>manual</src.rf>
@@ -1029,7 +1029,7 @@
 <LM>w#w-ln95043-027-p3s2w41</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95043-027-p3s2w42">
 <src.rf>manual</src.rf>
@@ -2491,7 +2491,7 @@
 <LM>w#w-ln95043-027-p3s11w10</LM>
 </w.rf>
 <form>podával</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-027-p3s11w11">
 <src.rf>manual</src.rf>

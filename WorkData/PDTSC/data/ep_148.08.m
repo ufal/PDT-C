@@ -471,7 +471,7 @@
 <LM>w#w-d1t3583-6</LM>
 </w.rf>
 <form>radši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m148-d1t3583-7">
 <w.rf>
@@ -479,7 +479,7 @@
 </w.rf>
 <form>koupím</form>
 <tag>
-<AM lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VB-S---1P-AAP--</AM>
+<AM lemma="koupit" src="auto" recommended="1">VB-S---1P-AAP--</AM>
 <AM lemma="koupě_^(př._byla_to_dobrá_koupě)" src="auto">NNFP3-----A----</AM>
 </tag>
 </m>
@@ -1775,7 +1775,7 @@
 <LM>w#w-d1t3702-2</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m148-d1t3702-3">
 <w.rf>
@@ -2413,7 +2413,7 @@
 <tag>
 <AM lemma="kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="kilometrový_:B" src="auto">AAXXX----1A----</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m148-d1t3736-1">
@@ -2659,7 +2659,7 @@
 <form>drápe</form>
 <tag>
 <AM lemma="dráp" src="auto">NNIS5-----A----</AM>
-<AM lemma="drápat" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="drápat" src="auto" recommended="1">VB-S---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m148-d1t3743-8">
@@ -2710,7 +2710,7 @@
 </w.rf>
 <form>jede</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -2992,7 +2992,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m148-d1e3716-x4-194">
@@ -3613,7 +3613,7 @@
 <tag>
 <AM lemma="kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="kilometrový_:B" src="auto">AAXXX----1A----</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m148-d1t3833-1">
@@ -3877,7 +3877,7 @@
 <tag>
 <AM lemma="kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="kilometrový_:B" src="auto">AAXXX----1A----</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m148-d-id157691-punct">
@@ -4066,7 +4066,7 @@
 <tag>
 <AM lemma="kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="kilometrový_:B" src="auto">AAXXX----1A----</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m148-d-id157967-punct">
@@ -4290,7 +4290,7 @@
 <LM>w#w-d1t3886-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m148-d1t3886-4">
 <w.rf>
@@ -4322,7 +4322,7 @@
 <LM>w#w-d1t3890-1</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m148-d1t3888-1">
 <w.rf>
@@ -5119,7 +5119,7 @@
 <LM>w#w-d1t3945-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m148-d1t3945-3">
 <w.rf>

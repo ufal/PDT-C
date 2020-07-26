@@ -184,7 +184,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-013-p2s1Bw8">
@@ -403,7 +403,7 @@
 <LM>w#w-ln95049-013-p2s3w11</LM>
 </w.rf>
 <form>Jitka</form>
-<tag lemma="Jitka-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jitka-1_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-013-p2s3w12">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-ln95049-013-p3s2w5</LM>
 </w.rf>
 <form>Rom</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-013-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1436,7 +1436,7 @@
 <LM>w#w-ln95049-013-p4s3w20</LM>
 </w.rf>
 <form>Romů</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95049-013-p4s3w21">
 <src.rf>manual</src.rf>
@@ -1510,7 +1510,7 @@
 <LM>w#w-ln95049-013-p4s4w2</LM>
 </w.rf>
 <form>Rom</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-013-p4s4w3">
 <src.rf>manual</src.rf>
@@ -2172,7 +2172,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-013-p5s1w39">
@@ -2412,7 +2412,7 @@
 <LM>w#w-ln95049-013-p5s3w4</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95049-013-p5s3w5">
 <src.rf>manual</src.rf>

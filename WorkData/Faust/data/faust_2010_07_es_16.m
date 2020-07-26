@@ -2439,7 +2439,7 @@
 <AM lemma="nechat" recommended="1">VB-S---2P-AAI--</AM>
 <AM lemma="nechat" src="manual">VB-S---2P-AAI--</AM>
 <AM lemma="nechat" src="manual">VB-S---2P-AAI--</AM>
-<AM lemma="nechat" src="manual" selected="1">VB-S---2P-AAI--</AM>
+<AM lemma="nechat" src="manual" selected="1">VB-S---2P-AAP--</AM>
 </tag>
 </m>
 <m id="es_16-SCzechM-p1670-s1-w8">
@@ -2891,7 +2891,7 @@
 <LM>w#w-es_16-SCzechM-p1676-s1-w21</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="es_16-SCzechM-p1676-s1-w22">
 <w.rf>
@@ -4336,7 +4336,7 @@
 <LM>w#w-es_16-SCzechM-p1716-s1-w4</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="es_16-SCzechM-p1716-s1-w5">
 <w.rf>
@@ -4346,7 +4346,7 @@
 <tag>
 <AM lemma="nechat" recommended="1">VB-S---1P-NAI--</AM>
 <AM lemma="nechat" src="manual">VB-S---1P-NAI--</AM>
-<AM lemma="nechat" src="manual" selected="1">VB-S---1P-NAI--</AM>
+<AM lemma="nechat" src="manual" selected="1">VB-S---1P-NAP--</AM>
 </tag>
 </m>
 <m id="es_16-SCzechM-p1716-s1-w6">
@@ -5073,7 +5073,7 @@
 <LM>w#w-es_16-SCzechM-p1730-s1-w24</LM>
 </w.rf>
 <form>snů</form>
-<tag lemma="sen" recommended="1">NNIP2-----A----</tag>
+<tag lemma="sen-1" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="es_16-SCzechM-p1730-s1-w25">
 <w.rf>

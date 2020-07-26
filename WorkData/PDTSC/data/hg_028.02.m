@@ -518,7 +518,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m028-d1t642-7">
@@ -697,7 +697,7 @@
 <LM>w#w-d1t650-9</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m028-d-id78054-punct">
 <w.rf>
@@ -976,7 +976,7 @@
 <LM>w#w-d1t670-6</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m028-1444-1446">
 <w.rf>
@@ -2002,7 +2002,7 @@
 <LM>w#w-d1t741-2</LM>
 </w.rf>
 <form>Nemůžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m028-d1t753-1">
 <w.rf>
@@ -2487,7 +2487,7 @@
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="častě_^(*1ý)" src="auto">Dg-------2A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m028-d1e772-x2-314">
@@ -2756,7 +2756,7 @@
 <LM>w#w-d1t777-15</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m028-326-328">
 <w.rf>
@@ -2791,7 +2791,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -3137,7 +3137,7 @@
 </w.rf>
 <form>Vánoc</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -4321,7 +4321,7 @@
 <LM>w#w-d1t885-1</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m028-d1t885-3">
 <w.rf>
@@ -4492,7 +4492,7 @@
 <form>dřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------2A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m028-d1t893-6">

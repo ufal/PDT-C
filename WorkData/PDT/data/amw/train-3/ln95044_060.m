@@ -876,7 +876,7 @@
 <LM>w#w-ln95044-060-p3s2w4</LM>
 </w.rf>
 <form>mohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-ln95044-060-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1071,7 +1071,7 @@
 <LM>w#w-ln95044-060-p3s2w29</LM>
 </w.rf>
 <form>uvržen</form>
-<tag lemma="uvrhnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="uvrhnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln95044-060-p3s2w30">
 <src.rf>manual</src.rf>
@@ -1155,7 +1155,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln95044-060-p4s1w6">
@@ -1895,7 +1895,7 @@
 <LM>w#w-ln95044-060-p5s2w6</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-060-p5s2w7">
 <src.rf>manual</src.rf>
@@ -2166,7 +2166,7 @@
 <LM>w#w-ln95044-060-p5s3w8</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95044-060-p5s3w9">
 <src.rf>manual</src.rf>
@@ -2444,7 +2444,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln95044-060-p6s1w12">
@@ -2533,7 +2533,7 @@
 <LM>w#w-ln95044-060-p6s1w22</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-ln95044-060-p6s1w23">
 <src.rf>manual</src.rf>
@@ -3502,7 +3502,7 @@
 <form>Víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln95044-060-p7s5w2">

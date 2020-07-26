@@ -154,7 +154,7 @@
 <LM>w#w-mf920922-094-p2s2w4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920922-094-p2s2w5">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-mf920922-094-p2s2w27</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920922-094-p2s2w28">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-mf920922-094-p2s3Aw29</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-094-p2s3Aw30">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-mf920922-094-p2s6Aw4</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-094-p2s6Aw5">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <LM>w#w-mf920922-094-p2s6Aw6</LM>
 </w.rf>
 <form>dáno</form>
-<tag lemma="dát" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920922-094-p2s6Aw7">
 <src.rf>manual</src.rf>
@@ -1144,7 +1144,7 @@
 <form>tzn</form>
 <tag>
 <AM lemma="tzn-1_:B_:T_^(to_znamená)" src="orig">VB-S---3P-AA--8</AM>
-<AM lemma="tzn-1_^(to_znamená)" src="manual" selected="1">BB-S---3P-AA---</AM>
+<AM lemma="tzn-1_^(to_znamená)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-094-p2s6Aw12">
@@ -1631,7 +1631,7 @@
 <LM>w#w-mf920922-094-p2s8w10</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920922-094-p2s8w11">
 <src.rf>manual</src.rf>
@@ -1705,7 +1705,7 @@
 <LM>w#w-mf920922-094-p2s9w3</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920922-094-p2s9w4">
 <src.rf>manual</src.rf>
@@ -2101,7 +2101,7 @@
 <LM>w#w-mf920922-094-p2s11w11</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920922-094-p2s11w12">
 <src.rf>manual</src.rf>
@@ -2635,7 +2635,7 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_;m_^(Česká_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČNR_;m_^(Česká_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-094-p2s14w14">

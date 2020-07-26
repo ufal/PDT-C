@@ -2599,7 +2599,7 @@
 <LM>w#w-wsj0258-001-p1s8W19</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0258-001-p1s8W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4640,7 +4640,7 @@
 <LM>w#w-wsj0258-001-p1s15W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0258-001-p1s15W2-Ta">
 <src.rf>tagger-a</src.rf>

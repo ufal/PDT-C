@@ -675,7 +675,7 @@
 <LM>w#w-mf920924-031-p2s3w32</LM>
 </w.rf>
 <form>zastaveno</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920924-031-p2s3w33">
 <src.rf>manual</src.rf>

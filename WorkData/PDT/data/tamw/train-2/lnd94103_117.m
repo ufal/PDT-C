@@ -156,7 +156,7 @@
 <LM>w#w-lnd94103-117-p1s2Aw5</LM>
 </w.rf>
 <form>tob</form>
-<tag lemma="tob-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="tob-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94103-117-p1s2Aw6">
 <src.rf>manual</src.rf>
@@ -302,7 +302,7 @@
 <LM>w#w-lnd94103-117-p1s2Bw16</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-lnd94103-117-p1s2Bw17">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-lnd94103-117-p1s2Bw21</LM>
 </w.rf>
 <form>mohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-lnd94103-117-p1s2Bw22">
 <src.rf>manual</src.rf>
@@ -2131,7 +2131,7 @@
 <form>pozn</form>
 <tag>
 <AM lemma="poznámka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-117-p1s12Aw19">
@@ -2150,7 +2150,7 @@
 <form>red</form>
 <tag>
 <AM lemma="redakce_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-117-p1s12Aw21">
@@ -2462,7 +2462,7 @@
 <AM lemma="bula_,a_,x" src="auto">NNFP4-----A----</AM>
 <AM lemma="bula_,a_,x" src="auto">NNFP5-----A----</AM>
 <AM lemma="bula_,a_,x" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="bully" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="bully_,s_^(^DD**buly)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-117-p1s12Bw34">
@@ -2619,7 +2619,7 @@
 <LM>w#w-lnd94103-117-p1s14w4</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag lemma="říci" src="auto" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94103-117-p1s14w5">
 <src.rf>manual</src.rf>

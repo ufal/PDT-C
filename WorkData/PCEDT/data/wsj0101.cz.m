@@ -246,7 +246,7 @@
 <LM>w#w-wsj0101-001-p1s0W17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0101-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1438,7 +1438,7 @@
 <LM>w#w-wsj0101-001-p1s2W17</LM>
 </w.rf>
 <form>ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0101-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1583,7 +1583,7 @@
 <LM>w#w-wsj0101-001-p1s2W29</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0101-001-p1s2W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2684,7 +2684,7 @@
 <LM>w#w-wsj0101-001-p1s4W32</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0101-001-p1s4W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7828,7 +7828,7 @@
 <LM>w#w-wsj0101-001-p1s15W24</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0101-001-p1s15W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7936,7 +7936,7 @@
 <LM>w#w-wsj0101-001-p1s15W33</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0101-001-p1s15W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9277,7 +9277,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>

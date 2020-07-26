@@ -387,7 +387,7 @@
 <form>stalo</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpNS----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930709-098-p2s3w5">
@@ -872,7 +872,7 @@
 <LM>w#w-mf930709-098-p2s5w35</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930709-098-p2s5w36">
 <src.rf>manual</src.rf>

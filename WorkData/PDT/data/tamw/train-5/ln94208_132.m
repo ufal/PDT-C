@@ -329,7 +329,7 @@
 <form>ME</form>
 <tag>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ME-1_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ME_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-132-p2s1Dw15">
@@ -1421,7 +1421,7 @@
 <LM>w#w-ln94208-132-p4s1w7</LM>
 </w.rf>
 <form>Belaria</form>
-<tag lemma="Belaria_;m" src="auto" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Belarie_;G_;m_,s_^(^DD**Belárie)" src="auto" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94208-132-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1583,7 +1583,7 @@
 <LM>w#w-ln94208-132-p4s2w8</LM>
 </w.rf>
 <form>Norimberka</form>
-<tag lemma="Norimberk_;G" src="auto" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Norimberk_;G" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-132-p4s2w9">
 <src.rf>manual</src.rf>
@@ -2425,7 +2425,7 @@
 <LM>w#w-ln94208-132-p5s7w11</LM>
 </w.rf>
 <form>nestala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-NAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-ln94208-132-p5s7w12">
 <src.rf>manual</src.rf>
@@ -2972,7 +2972,7 @@
 <LM>w#w-ln94208-132-p7s1w10</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-132-p7s1w11">
 <src.rf>manual</src.rf>

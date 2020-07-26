@@ -94,7 +94,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-78-p1s1w11">
@@ -233,7 +233,7 @@
 <LM>w#w-ln94205-78-p1s2w14</LM>
 </w.rf>
 <form>nebránily</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpTP----R-NAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln94205-78-p1s2w15">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <form>ČTK</form>
 <tag>
 <AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČTK_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-78-p1s3w3">

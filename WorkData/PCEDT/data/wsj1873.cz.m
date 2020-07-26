@@ -267,7 +267,7 @@
 <LM>w#w-wsj1873-001-p1s0W24</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1873-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1528,7 +1528,7 @@
 <LM>w#w-wsj1873-001-p1s5W14</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1873-001-p1s5W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2464,7 +2464,7 @@
 <LM>w#w-wsj1873-001-p1s8W20</LM>
 </w.rf>
 <form>nesprávně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1N----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1N----</tag>
 </m>
 <m id="m-wsj1873-001-p1s8W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2882,7 +2882,7 @@
 <LM>w#w-wsj1873-001-p1s9W19</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1873-001-p1s9W20-Ta">
 <src.rf>tagger-a</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln94208-96-p1s1w1</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-96-p1s1w2">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-96-p2s1Cw12">
@@ -1442,7 +1442,7 @@
 <LM>w#w-ln94208-96-p3s1w11</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-96-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1508,7 +1508,7 @@
 <form>pozn</form>
 <tag>
 <AM lemma="poznámka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94208-96-p3s1w20">
@@ -1527,7 +1527,7 @@
 <form>red</form>
 <tag>
 <AM lemma="redakce_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94208-96-p3s1w22">
@@ -1660,7 +1660,7 @@
 <form>NHL</form>
 <tag>
 <AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NHL_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-96-p3s2w14">

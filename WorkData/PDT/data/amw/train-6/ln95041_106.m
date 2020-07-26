@@ -97,7 +97,7 @@
 <form>sci</form>
 <tag>
 <AM lemma="science-2_:B_,t_^(angl._vědecký)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="sci-1_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="sci" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-106-p2s1Bw3">
@@ -921,7 +921,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-106-p2s6w2">

@@ -542,7 +542,7 @@
 <LM>w#w-d1t419-21</LM>
 </w.rf>
 <form>dán</form>
-<tag lemma="dát" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m104-d1t419-22">
 <w.rf>
@@ -1811,7 +1811,7 @@
 <LM>w#w-d1t440-25</LM>
 </w.rf>
 <form>vzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m104-d1t440-26">
 <w.rf>
@@ -4381,7 +4381,7 @@
 <LM>w#w-d1t479-5</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m104-d1t479-3">
 <w.rf>
@@ -5078,7 +5078,7 @@
 <LM>w#w-d1t485-12</LM>
 </w.rf>
 <form>dávaly</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m104-d1t485-13">
 <w.rf>
@@ -5380,7 +5380,7 @@
 <LM>w#w-d1t488-4</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m104-d1t488-2">
 <w.rf>

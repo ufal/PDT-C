@@ -317,7 +317,7 @@
 <LM>w#w-d1t2670-2</LM>
 </w.rf>
 <form>Uměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m019-d1t2670-3">
 <w.rf>
@@ -440,7 +440,7 @@
 </w.rf>
 <form>nejmíň</form>
 <tag>
-<AM lemma="málo-3" src="auto" recommended="1">Dg-------3A---1</AM>
+<AM lemma="méně" src="auto" recommended="1">Dg-------3A---1</AM>
 <AM lemma="nejméně" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -2060,7 +2060,7 @@
 <LM>w#w-d1t2820-10</LM>
 </w.rf>
 <form>uměli</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m019-d1t2822-1">
 <w.rf>
@@ -3057,7 +3057,7 @@
 <LM>w#w-d1t2903-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m019-d1t2903-4">
 <w.rf>
@@ -4017,7 +4017,7 @@
 <LM>w#w-d1t2981-14</LM>
 </w.rf>
 <form>rády</form>
-<tag lemma="rád" src="auto" recommended="1">ACTP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACTP------A----</tag>
 </m>
 <m id="m019-34-39">
 <w.rf>

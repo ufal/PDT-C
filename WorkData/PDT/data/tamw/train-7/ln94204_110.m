@@ -27,7 +27,7 @@
 <LM>w#w-ln94204-110-p1s1w2</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podruhé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-110-p1s1w3">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-ln94204-110-p2s1Bw7</LM>
 </w.rf>
 <form>přistižen</form>
-<tag lemma="přistihnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="přistihnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln94204-110-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-110-p2s1Bw19">
@@ -482,7 +482,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-110-p2s3w6">

@@ -2213,7 +2213,7 @@
 <LM>w#w-ln94204-118-p4s6w6</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94204-118-p4s6w7">
 <src.rf>manual</src.rf>
@@ -2514,7 +2514,7 @@
 <LM>w#w-ln94204-118-p5s2w12</LM>
 </w.rf>
 <form>počtvrté</form>
-<tag lemma="počtvrté" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="počtvrté" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-118-p5s2w13">
 <src.rf>manual</src.rf>
@@ -2620,7 +2620,7 @@
 <LM>w#w-ln94204-118-p5s3w9</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-118-p5s3w10">
 <src.rf>manual</src.rf>
@@ -3196,7 +3196,7 @@
 <form>Július</form>
 <tag>
 <AM lemma="Július_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Július_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Július_;Y_,s_^(^DD**Julius)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-118-p9s1Bw2">

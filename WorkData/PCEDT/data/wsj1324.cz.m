@@ -33,7 +33,7 @@
 </w.rf>
 <form>AEG</form>
 <tag>
-<AM lemma="AEG_;m" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
+<AM lemma="AEG-88" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 <AM lemma="AEG-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -159,7 +159,7 @@
 <LM>w#w-wsj1324-001-p1s0W13</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1324-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-wsj1324-001-p1s2W2</LM>
 </w.rf>
 <form>AEG</form>
-<tag lemma="AEG_;m" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="AEG-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1324-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-wsj1324-001-p1s6W2</LM>
 </w.rf>
 <form>AEG</form>
-<tag lemma="AEG_;m" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="AEG-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1324-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>

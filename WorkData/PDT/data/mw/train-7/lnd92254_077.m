@@ -53,7 +53,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-077-p1s1w6">
@@ -362,7 +362,7 @@
 <form>st</form>
 <tag>
 <AM lemma="stupeň_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-077-p1s2w8">
@@ -442,7 +442,7 @@
 <form>st</form>
 <tag>
 <AM lemma="stupeň_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-077-p1s3w9">
@@ -597,7 +597,7 @@
 <LM>w#w-lnd92254-077-p2s1w15</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92254-077-p2s1w16">
 <src.rf>manual</src.rf>
@@ -843,7 +843,7 @@
 <form>st</form>
 <tag>
 <AM lemma="stupeň_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-077-p2s3w7">
@@ -915,7 +915,7 @@
 <form>st</form>
 <tag>
 <AM lemma="stupeň_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-077-p2s4w8">
@@ -987,7 +987,7 @@
 <form>st</form>
 <tag>
 <AM lemma="stupeň_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-077-p2s5w8">
@@ -1067,7 +1067,7 @@
 <form>st</form>
 <tag>
 <AM lemma="stupeň_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-077-p2s6w9">
@@ -1190,7 +1190,7 @@
 <form>h</form>
 <tag>
 <AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-077-p3s1w12">
@@ -1281,7 +1281,7 @@
 <form>h</form>
 <tag>
 <AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-077-p3s1w23">

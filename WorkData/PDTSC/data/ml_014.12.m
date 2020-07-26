@@ -216,7 +216,7 @@
 <LM>w#w-d1t4224-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m014-d1t4224-3">
 <w.rf>
@@ -410,7 +410,7 @@
 <LM>w#w-d1t4235-8</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m014-d1t4235-9">
 <w.rf>
@@ -440,7 +440,7 @@
 <LM>w#w-d1t4239-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m014-d1t4239-4">
 <w.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-d1t4239-10</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m014-d-id199321-punct">
 <w.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-d1t4239-13</LM>
 </w.rf>
 <form>kdybyste</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m014-d1t4239-15">
 <w.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-d1t4255-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m014-d1t4255-4">
 <w.rf>
@@ -610,7 +610,7 @@
 <form>těžko</form>
 <tag>
 <AM lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto">Dg-------1A----</AM>
-<AM lemma="těžko-2_^(sotva)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m014-d1t4255-5">
@@ -657,7 +657,7 @@
 <LM>w#w-d1t4255-8</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m014-d1t4255-9">
 <w.rf>

@@ -24,7 +24,7 @@
 <form>pouze</form>
 <tag>
 <AM lemma="pouze" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="pouze_^(*2hý)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="pouze" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m036-d1t2335-9">
@@ -280,7 +280,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m036-d1t2345-3">
@@ -871,7 +871,7 @@
 <form>Hezky</form>
 <tag>
 <AM lemma="hezky" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="hezky_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hezky" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m036-d1e2375-x2-389">
@@ -1211,7 +1211,7 @@
 <form>Velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m036-d1t2408-3">
@@ -1221,7 +1221,7 @@
 <form>bujaře</form>
 <tag>
 <AM lemma="bujaře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="bujaře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="bujaře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m036-d1e2403-x2-408">
@@ -1492,7 +1492,7 @@
 <form>Prvně</form>
 <tag>
 <AM lemma="prvně" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="prvně_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="prvně" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m036-d1t2414-3">
@@ -1885,7 +1885,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m036-d1t2433-7">
@@ -2600,7 +2600,7 @@
 <tag>
 <AM lemma="předávat-1_:T_,a_^(příst)_(*6at-1)" src="auto">VpQW---XR-AA---</AM>
 <AM lemma="předávat-2_:T_^(se;_dát_něčeho_příliš)_(*6at-2)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="předávat-3_^(někomu_něco)_(*6at-3)" src="auto" recommended="1">VpQW----R-AAI--</AM>
+<AM lemma="předávat_^(*4at)" src="auto" recommended="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m036-d1t2449-7">
@@ -2744,7 +2744,7 @@
 <form>Pochopitelně</form>
 <tag>
 <AM lemma="pochopitelně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="pochopitelně-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="pochopitelně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m036-d1e2456-x2-46">
@@ -2787,7 +2787,7 @@
 <LM>w#w-d1t2466-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m036-d1t2466-2">
 <w.rf>
@@ -2957,7 +2957,7 @@
 <LM>w#w-d1t2480-4</LM>
 </w.rf>
 <form>můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m036-d1t2480-5">
 <w.rf>
@@ -2999,7 +2999,7 @@
 <LM>w#w-d1t2480-9</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m036-d1t2480-10">
 <w.rf>
@@ -3139,7 +3139,7 @@
 <LM>w#w-d1t2482-1</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m036-d1e2475-x2-62">
 <w.rf>
@@ -3201,7 +3201,7 @@
 <LM>w#w-d1t2484-7</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m036-d1t2484-8">
 <w.rf>

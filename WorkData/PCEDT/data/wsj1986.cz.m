@@ -2605,7 +2605,7 @@
 <LM>w#w-wsj1986-001-p1s8W12</LM>
 </w.rf>
 <form>přistiženi</form>
-<tag lemma="přistihnout" src="auto" recommended="1">VsMP----X-APP--</tag>
+<tag lemma="přistihnout" src="auto" recommended="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-wsj1986-001-p1s8W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3968,7 +3968,7 @@
 <LM>w#w-wsj1986-001-p1s12W22</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1986-001-p1s12W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4281,7 +4281,7 @@
 </w.rf>
 <form>výš</form>
 <tag>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A---1</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS4-----A---1</AM>
 </tag>
@@ -5558,7 +5558,7 @@
 <LM>w#w-wsj1986-001-p1s17W18</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1986-001-p1s17W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6804,7 +6804,7 @@
 <LM>w#w-wsj1986-001-p1s22W20</LM>
 </w.rf>
 <form>nadával</form>
-<tag lemma="nadávat_^(spílat;;obdařit,_dotovat)_(*4at)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nadávat_^(*4at)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1986-001-p1s22W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7648,7 +7648,7 @@
 <form>německo</form>
 <tag>
 <AM lemma="německý" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="německo_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="německo" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1986-001-p1s24W11-Ta">
@@ -8515,7 +8515,7 @@
 </w.rf>
 <form>právem</form>
 <tag>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS7-----A----</AM>
 <AM lemma="právem" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -8609,7 +8609,7 @@
 <LM>w#w-wsj1986-001-p1s29W12</LM>
 </w.rf>
 <form>vydělávali</form>
-<tag lemma="vydělávat_^(kůže;peníze)_(*4at)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="vydělávat_^(*4at)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj1986-001-p1s29W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8646,7 +8646,7 @@
 <tag>
 <AM lemma="například_:B" src="auto" recommended="1">Db------------8</AM>
 <AM lemma="například" src="manual">Db-------------</AM>
-<AM lemma="například" src="manual" selected="1">Db------------b</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-wsj1986-001-p1s29W16-Ta">
@@ -8682,7 +8682,7 @@
 <LM>w#w-wsj1986-001-p1s29W19</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
+<tag lemma="tj_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
 </m>
 <m id="m-wsj1986-001-p1s29W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11932,7 +11932,7 @@
 <LM>w#w-wsj1986-001-p1s43W2</LM>
 </w.rf>
 <form>správně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1986-001-p1s43W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12779,7 +12779,7 @@
 <LM>w#w-wsj1986-001-p1s46W13</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1986-001-p1s46W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13497,7 +13497,7 @@
 <LM>w#w-wsj1986-001-p1s49W13</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1986-001-p1s49W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-lnd94101-006-p1s1Aw2</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-006-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-lnd94101-006-p1s2w5</LM>
 </w.rf>
 <form>jap</form>
-<tag lemma="jap-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="jap-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94101-006-p1s2w6">
 <src.rf>manual</src.rf>
@@ -941,7 +941,7 @@
 <LM>w#w-lnd94101-006-p1s8w5</LM>
 </w.rf>
 <form>dáváno</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VsNS----X-API--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-lnd94101-006-p1s8w6">
 <src.rf>manual</src.rf>
@@ -1542,7 +1542,7 @@
 <LM>w#w-lnd94101-006-p1s11w14</LM>
 </w.rf>
 <form>správně</form>
-<tag lemma="správně_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94101-006-p1s11w15">
 <src.rf>manual</src.rf>

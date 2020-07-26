@@ -2598,7 +2598,7 @@
 <LM>w#w-wsj1597-001-p1s6W40</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1597-001-p1s6W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3070,7 +3070,7 @@
 <LM>w#w-wsj1597-001-p1s8W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1597-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3753,7 +3753,7 @@
 <LM>w#w-wsj1597-001-p1s12W13</LM>
 </w.rf>
 <form>podávaly</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1597-001-p1s12W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4939,7 +4939,7 @@
 <LM>w#w-wsj1597-001-p1s18W10</LM>
 </w.rf>
 <form>potřebami</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj1597-001-p1s18W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5015,7 +5015,7 @@
 <LM>w#w-wsj1597-001-p1s18W16</LM>
 </w.rf>
 <form>potřebami</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj1597-001-p1s18W17-Ta">
 <src.rf>tagger-a</src.rf>

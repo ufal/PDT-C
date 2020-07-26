@@ -1821,7 +1821,7 @@
 <LM>w#w-d1t3222-14</LM>
 </w.rf>
 <form>sehnat</form>
-<tag lemma="sehnat" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="sehnat_^(shánět)" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m027-d1t3222-15">
 <w.rf>
@@ -2000,7 +2000,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Pražáků</form>
-<tag lemma="Pražák_;E" src="auto" recommended="1" selected="1">NNMP2-----A----</tag>
+<tag lemma="Pražák_;E_;Y" src="auto" recommended="1" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m027-d1t3226-9">
 <w.rf>
@@ -2418,7 +2418,7 @@
 <LM>w#w-d1t3238-10</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m027-d1t3238-12">
 <w.rf>
@@ -3017,7 +3017,7 @@
 <LM>w#w-d1t3253-5</LM>
 </w.rf>
 <form>teďko</form>
-<tag lemma="teďka_,h" src="auto" recommended="1">Db------------6</tag>
+<tag lemma="teďko_,h_^(^GC**teďka)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m027-d1t3253-6">
 <w.rf>
@@ -3129,7 +3129,7 @@
 <LM>w#w-d1t3253-19</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m027-d1t3253-21">
 <w.rf>
@@ -4111,7 +4111,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m027-d1e3306-x2-2630">
@@ -4313,7 +4313,7 @@
 <LM>w#w-d1t3325-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m027-d1t3325-3">
 <w.rf>
@@ -4573,7 +4573,7 @@
 <AM lemma="Hodin-2_;Y_^(*4a-2)" src="auto">AUNP5F---------</AM>
 <AM lemma="Hodin-2_;Y_^(*4a-2)" src="auto">AUNS2F---------</AM>
 <AM lemma="Hodina_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m027-d1t3340-2">
@@ -4700,7 +4700,7 @@
 <LM>w#w-d1t3346-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m027-d1t3346-7">
 <w.rf>

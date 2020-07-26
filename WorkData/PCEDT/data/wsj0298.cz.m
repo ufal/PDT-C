@@ -428,7 +428,7 @@
 <LM>w#w-wsj0298-001-p1s1W8</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0298-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2038,7 +2038,7 @@
 <LM>w#w-wsj0298-001-p1s6W1</LM>
 </w.rf>
 <form>Vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0298-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>

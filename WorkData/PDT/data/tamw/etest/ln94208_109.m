@@ -472,7 +472,7 @@
 <LM>w#w-ln94208-109-p2s2w29</LM>
 </w.rf>
 <form>pelotonem</form>
-<tag lemma="peloton" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="peloton_,s_^(^DD**peleton)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94208-109-p2s2w30">
 <src.rf>manual</src.rf>

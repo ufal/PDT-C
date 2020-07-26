@@ -402,7 +402,7 @@
 <LM>w#w-ln94207-111-p1s3w6</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94207-111-p1s3w7">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 <LM>w#w-ln94207-111-p1s3w7</LM>
 </w.rf>
 <form>Zora</form>
-<tag lemma="Zora_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Zora_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-111-p1s3w8">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-ln94207-111-p1s4w9</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94207-111-p1s4w10">
 <src.rf>manual</src.rf>

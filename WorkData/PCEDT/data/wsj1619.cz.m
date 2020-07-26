@@ -983,7 +983,7 @@
 <LM>w#w-wsj1619-001-p1s2W1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1619-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5089,7 +5089,7 @@
 <LM>w#w-wsj1619-001-p1s11W19</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1619-001-p1s11W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6069,7 +6069,7 @@
 <LM>w#w-wsj1619-001-p1s14W4</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1619-001-p1s14W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10901,7 +10901,7 @@
 <form>nevýhodách</form>
 <tag>
 <AM lemma="nevýhoda" src="auto" recommended="1">NNFP6-----A----</AM>
-<AM lemma="výhoda" src="manual" selected="1">NNFP6-----N----</AM>
+<AM lemma="nevýhoda" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1619-001-p1s26W18-Ta">

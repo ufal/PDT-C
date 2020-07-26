@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-078-p1s1w2">
@@ -223,7 +223,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-078-p2s1w22">
@@ -362,7 +362,7 @@
 <form>Khmerům</form>
 <tag>
 <AM lemma="Khmer" src="orig">NNMP3-----A----</AM>
-<AM lemma="Khmer_;E" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="Khmer_;E_,s_^(^DD**Khmér)" src="manual" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-078-p2s1w39">
@@ -959,7 +959,7 @@
 <LM>w#w-ln95040-078-p3s2w12</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95040-078-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1111,7 +1111,7 @@
 <LM>w#w-ln95040-078-p3s2w31</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95040-078-p3s2w32">
 <src.rf>manual</src.rf>
@@ -1169,7 +1169,7 @@
 <LM>w#w-ln95040-078-p3s3w2</LM>
 </w.rf>
 <form>politika</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-078-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1366,7 +1366,7 @@
 <LM>w#w-ln95040-078-p3s4w5</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95040-078-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1432,7 +1432,7 @@
 <form>Sar</form>
 <tag>
 <AM lemma="Sara_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="Sar-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sar_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-078-p3s4w14">

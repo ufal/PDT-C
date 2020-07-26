@@ -19,7 +19,7 @@
 <LM>w#w-ln94210-77-p1s1w1</LM>
 </w.rf>
 <form>Zatčeno</form>
-<tag lemma="zatknout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-ln94210-77-p1s1w2">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-ln94210-77-p2s1Bw10</LM>
 </w.rf>
 <form>extremistů</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94210-77-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-77-p2s5w10">

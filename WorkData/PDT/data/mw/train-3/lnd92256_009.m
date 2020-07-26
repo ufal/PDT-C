@@ -278,7 +278,7 @@
 <LM>w#w-lnd92256-009-p1s1w33</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92256-009-p1s1w34">
 <src.rf>manual</src.rf>

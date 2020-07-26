@@ -19,7 +19,7 @@
 <LM>w#w-ln95045-003-p1s1w1</LM>
 </w.rf>
 <form>Bundesbanka</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bundesbanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-003-p1s1w2">
 <src.rf>manual</src.rf>
@@ -1218,7 +1218,7 @@
 <LM>w#w-ln95045-003-p4s1w20</LM>
 </w.rf>
 <form>Bundesbanka</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bundesbanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-003-p4s1w21">
 <src.rf>manual</src.rf>

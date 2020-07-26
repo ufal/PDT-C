@@ -154,7 +154,7 @@
 <LM>w#w-mf930709-125-p2s1Bw7</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf930709-125-p2s1Bw8">
 <src.rf>manual</src.rf>

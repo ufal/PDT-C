@@ -404,7 +404,7 @@
 <form>programech</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP6-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP6-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2025-001-p1s1W7-Ta">
@@ -1313,7 +1313,7 @@
 <LM>w#w-wsj2025-001-p1s3W13</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2025-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1335,7 +1335,7 @@
 <LM>w#w-wsj2025-001-p1s3W15</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2025-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3830,7 +3830,7 @@
 <form>CBS</form>
 <tag>
 <AM lemma="CBS_:B_;m_^(am.elevizní_společnost)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="CBS_;m_^(am._televizní_společnost)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2025-001-p1s13W5-Ta">

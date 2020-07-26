@@ -235,7 +235,7 @@
 <LM>w#w-d1t276-9</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m121-d1t276-10">
 <w.rf>
@@ -934,7 +934,7 @@
 <LM>w#w-d1t291-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m121-d1t291-3">
 <w.rf>
@@ -1002,7 +1002,7 @@
 <LM>w#w-d1t291-11</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m121-d1t291-12">
 <w.rf>
@@ -1103,7 +1103,7 @@
 <form>panenka</form>
 <tag>
 <AM lemma="panenka-1_^(např_v_oku)" src="auto">NNFS1-----A----</AM>
-<AM lemma="panenka-2_^(na_hraní)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="panenka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m121-d1t301-5">
@@ -1838,7 +1838,7 @@
 <LM>w#w-d1t335-7</LM>
 </w.rf>
 <form>myslel</form>
-<tag lemma="myslet" src="auto" recommended="1">VpYS----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m121-d-id69081-punct">
 <w.rf>
@@ -2116,7 +2116,7 @@
 <LM>w#w-d1t339-27</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m121-d1t339-28">
 <w.rf>
@@ -2173,7 +2173,7 @@
 <LM>w#w-d1t341-4</LM>
 </w.rf>
 <form>přivezli</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m121-d1e319-x3-199">
 <w.rf>
@@ -2567,7 +2567,7 @@
 <LM>w#w-d1t361-3</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="auto" recommended="1" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="auto" recommended="1" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m121-d1t361-2">
 <w.rf>
@@ -3164,7 +3164,7 @@
 <LM>w#w-d1t370-5</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m121-d1t370-6">
 <w.rf>
@@ -3651,7 +3651,7 @@
 <LM>w#w-d1t379-6</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m121-d-id72155-punct">
 <w.rf>
@@ -4455,7 +4455,7 @@
 <LM>w#w-d1t408-13</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m121-d1e403-x2-251">
 <w.rf>
@@ -5252,7 +5252,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m121-d-id74937-punct">
@@ -5867,7 +5867,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m121-d1t461-11">
@@ -6477,7 +6477,7 @@
 <form>vždy</form>
 <tag>
 <AM lemma="vždy" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždy" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždy" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m121-d1t476-4">
@@ -6510,7 +6510,7 @@
 <form>Nejdříve</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------3A----</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m121-d1t480-2">

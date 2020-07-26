@@ -21,7 +21,7 @@
 <form>ASEAN</form>
 <tag>
 <AM lemma="ASEAN_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ASEAN-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ASEAN_;m_^(Association_of_South_East_Asian_Nations)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-112-p1s1w2">
@@ -169,7 +169,7 @@
 <form>ASEAN</form>
 <tag>
 <AM lemma="ASEAN_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ASEAN-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ASEAN_;m_^(Association_of_South_East_Asian_Nations)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-112-p3s2w11">
@@ -508,7 +508,7 @@
 <LM>w#w-lnd92256-112-p3s3w7</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92256-112-p3s3w8">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <form>ASEAN</form>
 <tag>
 <AM lemma="ASEAN_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ASEAN-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ASEAN_;m_^(Association_of_South_East_Asian_Nations)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-112-p3s4w3">
@@ -609,7 +609,7 @@
 <LM>w#w-lnd92256-112-p3s4w7</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92256-112-p3s4w8">
 <src.rf>manual</src.rf>
@@ -740,7 +740,7 @@
 <LM>w#w-lnd92256-112-p3s4w23</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92256-112-p3s4w24">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <form>ASEAN</form>
 <tag>
 <AM lemma="ASEAN_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ASEAN-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ASEAN_;m_^(Association_of_South_East_Asian_Nations)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-112-p3s5w7">
@@ -934,7 +934,7 @@
 <LM>w#w-lnd92256-112-p3s6w3</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92256-112-p3s6w4">
 <src.rf>manual</src.rf>
@@ -950,7 +950,7 @@
 <LM>w#w-lnd92256-112-p3s6w5</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-112-p3s6w6">
 <src.rf>manual</src.rf>

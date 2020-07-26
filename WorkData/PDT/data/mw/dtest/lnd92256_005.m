@@ -749,7 +749,7 @@
 <LM>w#w-lnd92256-005-p3s4w30</LM>
 </w.rf>
 <form>arabsko</form>
-<tag lemma="arabský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="arabsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92256-005-p3s4w31">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-005-p3s6w36">

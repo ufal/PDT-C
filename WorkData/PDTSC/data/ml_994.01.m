@@ -692,14 +692,14 @@
 <LM>w#w-d1t373-4</LM>
 </w.rf>
 <form>Dám</form>
-<tag lemma="dát" src="auto" recommended="1">VB-S---1P-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m994-d1t373-3">
 <w.rf>
 <LM>w#w-d1t373-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m994-d1t376-4">
 <w.rf>
@@ -1274,7 +1274,7 @@
 <LM>w#w-d1t420-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m994-d1t420-4">
 <w.rf>
@@ -1514,7 +1514,7 @@
 <LM>w#w-d1t427-11</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m994-671-689">
 <w.rf>
@@ -1655,7 +1655,7 @@
 <LM>w#w-d1t442-8</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m994-d1t442-6">
 <w.rf>
@@ -2155,7 +2155,7 @@
 <LM>w#w-d1t464-21</LM>
 </w.rf>
 <form>myslela</form>
-<tag lemma="myslet" src="auto" recommended="1">VpQW----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpQW----R-AAI-1</tag>
 </m>
 <m id="m994-d-id70009">
 <w.rf>
@@ -2461,7 +2461,7 @@
 <LM>w#w-d1t487-1</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m994-d1t487-2">
 <w.rf>
@@ -2597,7 +2597,7 @@
 <LM>w#w-d1t505-1</LM>
 </w.rf>
 <form>Kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m994-d1t505-2">
 <w.rf>
@@ -2718,7 +2718,7 @@
 <AM lemma="nadávat-1_:T_^(spílat)_(*6at-1)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="nadávat-2_:T_^(obdařit,_dotovat)_(*6at-2)" src="auto">Vf--------A----</AM>
 <AM lemma="nadávat_:T" src="auto">Vf--------A----</AM>
-<AM lemma="nadávat_^(spílat;;obdařit,_dotovat)_(*4at)" src="manual" selected="1">Vf--------A-I--</AM>
+<AM lemma="nadávat_^(*4at)" src="manual" selected="1">Vf--------A-I--</AM>
 </tag>
 </m>
 <m id="m994-d1e385-x8-1202">

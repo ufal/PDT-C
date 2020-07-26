@@ -126,7 +126,7 @@
 <LM>w#w-wsj1549-001-p1s0W11</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1549-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -418,7 +418,7 @@
 <LM>w#w-wsj1549-001-p1s1W12</LM>
 </w.rf>
 <form>nevymyslel</form>
-<tag lemma="vymyslet" src="auto" recommended="1">VpYS----R-NAP--</tag>
+<tag lemma="vymyslit" src="auto" recommended="1">VpYS----R-NAP-1</tag>
 </m>
 <m id="m-wsj1549-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -692,7 +692,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1549-001-p1s2W18-Ta">
@@ -779,7 +779,7 @@
 <LM>w#w-wsj1549-001-p1s2W26</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m-wsj1549-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1028,7 +1028,7 @@
 <LM>w#w-wsj1549-001-p1s4W10</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m-wsj1549-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1451,7 +1451,7 @@
 <LM>w#w-wsj1549-001-p1s6W5</LM>
 </w.rf>
 <form>ADN</form>
-<tag lemma="ADN" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="ADN-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1549-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2216,7 +2216,7 @@
 <tag>
 <AM lemma="talk_^(talk_show)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="talk-77" src="manual">F%-------------</AM>
-<AM lemma="talk" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="talk-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1549-001-p1s8W21-Ta">
@@ -2783,7 +2783,7 @@
 <LM>w#w-wsj1549-001-p1s11W2</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1549-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4847,7 +4847,7 @@
 <LM>w#w-wsj1549-001-p1s19W11</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1549-001-p1s19W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4911,7 +4911,7 @@
 <LM>w#w-wsj1549-001-p1s19W17</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m-wsj1549-001-p1s19W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7962,7 +7962,7 @@
 </w.rf>
 <form>Barbara</form>
 <tag>
-<AM lemma="Barbara_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Barbara_;G_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Barbaro_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Barbaro_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="barbar" src="auto">NNMS2-----A----</AM>
@@ -8115,7 +8115,7 @@
 <LM>w#w-wsj1549-001-p1s33W11</LM>
 </w.rf>
 <form>Evropa</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1549-001-p1s33W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10995,7 +10995,7 @@
 <LM>w#w-wsj1549-001-p1s45W6</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1549-001-p1s45W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11394,7 +11394,7 @@
 <LM>w#w-wsj1549-001-p1s47W7</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m-wsj1549-001-p1s47W8-Ta">
 <src.rf>tagger-a</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-mf920925-113-p1s1w2</LM>
 </w.rf>
 <form>Nebojím</form>
-<tag lemma="bát" src="orig" selected="1">VB-S---1P-NAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m-mf920925-113-p1s1w3">
 <src.rf>manual</src.rf>

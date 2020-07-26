@@ -327,7 +327,7 @@
 <LM>w#w-ln94200-15-p2s2w13</LM>
 </w.rf>
 <form>snů</form>
-<tag lemma="sen" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94200-15-p2s2w14">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-ln94200-15-p2s4w5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94200-15-p2s4w6">
 <src.rf>manual</src.rf>

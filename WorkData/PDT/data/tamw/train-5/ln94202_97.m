@@ -275,7 +275,7 @@
 <LM>w#w-ln94202-97-p2s1Cw14</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-97-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -2278,7 +2278,7 @@
 <LM>w#w-ln94202-97-p3s9w20</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="orig" selected="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="orig" selected="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m-ln94202-97-p3s9w21">
 <src.rf>manual</src.rf>
@@ -2362,7 +2362,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-97-p3s10w4">

@@ -266,7 +266,7 @@
 <tag>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual">NNNXX-----A----</AM>
-<AM lemma="ME-1_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ME_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-093-p3s1w17">
@@ -673,7 +673,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92256-093-p3s4w5">
@@ -1172,7 +1172,7 @@
 <LM>w#w-lnd92256-093-p4s1w5</LM>
 </w.rf>
 <form>níže</form>
-<tag lemma="nízko-1_^(níže,_než...)" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="nízko-1" src="orig" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-lnd92256-093-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1222,7 +1222,7 @@
 <form>Čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92256-093-p4s1w12">
@@ -1475,7 +1475,7 @@
 <LM>w#w-lnd92256-093-p4s3w3</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92256-093-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1711,7 +1711,7 @@
 <form>nechat</form>
 <tag>
 <AM lemma="nechat" src="orig">Vf--------A-I--</AM>
-<AM lemma="nechat" src="manual" selected="1">Vf--------A-I--</AM>
+<AM lemma="nechat" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-lnd92256-093-p4s5w12">
@@ -1824,7 +1824,7 @@
 <form>Zaťala</form>
 <tag>
 <AM lemma="zatnout_,x" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="zatnout" src="manual" selected="1">VpQW----R-AAP--</AM>
+<AM lemma="zatnout" src="manual" selected="1">VpQW----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-lnd92256-093-p4s8w2">
@@ -2528,7 +2528,7 @@
 <form>Čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92256-093-p5s4w13">
@@ -3034,7 +3034,7 @@
 <form>PUDIL</form>
 <tag>
 <AM lemma="pudit" src="orig">VpYS----R-AAI--</AM>
-<AM lemma="Pudil_:S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pudil_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

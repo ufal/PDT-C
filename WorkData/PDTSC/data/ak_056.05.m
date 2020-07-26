@@ -66,7 +66,7 @@
 <LM>w#w-d1t1427-26</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m056-d1t1427-27">
 <w.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-d1t1431-6</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m056-d1t1431-4">
 <w.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-d1t1431-16</LM>
 </w.rf>
 <form>myslel</form>
-<tag lemma="myslet" src="auto" recommended="1">VpYS----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m056-d-id99464-punct">
 <w.rf>
@@ -863,7 +863,7 @@
 <LM>w#w-d1t1465-10</LM>
 </w.rf>
 <form>dáme</form>
-<tag lemma="dát" src="auto" recommended="1">VB-P---1P-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m056-d1t1465-11">
 <w.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-d1t1498-2</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m056-d1t1498-3">
 <w.rf>
@@ -3201,7 +3201,7 @@
 <LM>w#w-d1t1686-3</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m056-d1t1686-4">
 <w.rf>

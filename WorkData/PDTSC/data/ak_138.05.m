@@ -1355,7 +1355,7 @@
 <LM>w#w-d1t1954-2</LM>
 </w.rf>
 <form>Jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m138-d1t1954-1">
 <w.rf>
@@ -2475,7 +2475,7 @@
 <LM>w#w-d1t2055-3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m138-d1t2055-4">
 <w.rf>
@@ -3302,7 +3302,7 @@
 <LM>w#w-d1t2158-5</LM>
 </w.rf>
 <form>rády</form>
-<tag lemma="rád" src="auto" recommended="1">ACTP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACTP------A----</tag>
 </m>
 <m id="m138-d1t2158-6">
 <w.rf>

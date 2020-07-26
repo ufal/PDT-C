@@ -103,7 +103,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-66-p2s1w11">
@@ -186,7 +186,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94205-66-p2s1w21">
@@ -221,7 +221,7 @@
 <form>ul</form>
 <tag>
 <AM lemma="ulice_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ulice" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="ulice" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-66-p2s1w25">
@@ -288,7 +288,7 @@
 <LM>w#w-ln94205-66-p2s2w2</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94205-66-p2s2w3">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefonní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="telefonní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="telefonní" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-66-p2s2w9">
@@ -357,7 +357,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-66-p2s2w11">

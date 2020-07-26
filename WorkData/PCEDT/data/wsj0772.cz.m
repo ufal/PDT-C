@@ -1170,7 +1170,7 @@
 <LM>w#w-wsj0772-001-p1s3W3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0772-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>

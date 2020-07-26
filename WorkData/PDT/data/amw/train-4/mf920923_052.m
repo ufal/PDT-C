@@ -194,7 +194,7 @@
 <tag>
 <AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="manual">NNXXX-----A----</AM>
-<AM lemma="TJ-2_;m_^(tělovýchovná_jednota)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TJ_;m_^(tělovýchovná_jednota)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-052-p2s2w13">
@@ -415,7 +415,7 @@
 <LM>w#w-mf920923-052-p2s4w1</LM>
 </w.rf>
 <form>Stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920923-052-p2s4w2">
 <src.rf>manual</src.rf>

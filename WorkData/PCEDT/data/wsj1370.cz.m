@@ -319,7 +319,7 @@
 </w.rf>
 <form>MP</form>
 <tag>
-<AM lemma="MP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="MP-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="mezzopiano_:B_,t" src="auto">Db------------8</AM>
 </tag>
 </m>

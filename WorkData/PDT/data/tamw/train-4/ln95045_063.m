@@ -880,7 +880,7 @@
 <LM>w#w-ln95045-063-p2s6w22</LM>
 </w.rf>
 <form>jíst</form>
-<tag lemma="jíst_^(konzumovat_jídlo)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="jíst" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95045-063-p2s6w23">
 <src.rf>manual</src.rf>

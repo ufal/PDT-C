@@ -53,7 +53,7 @@
 <LM>w#w-ln94211-73-p2s1Aw1</LM>
 </w.rf>
 <form>Sofia</form>
-<tag lemma="Sofie-1_;G" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Sofie_;G_;Y" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94211-73-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-ln94211-73-p2s1Bw3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94211-73-p2s1Bw4">
 <src.rf>manual</src.rf>

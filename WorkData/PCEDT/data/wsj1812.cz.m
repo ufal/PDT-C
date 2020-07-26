@@ -1419,7 +1419,7 @@
 <LM>w#w-wsj1812-001-p1s4W13</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1812-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1669,7 +1669,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -5760,7 +5760,7 @@
 <LM>w#w-wsj1812-001-p1s16W23</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1812-001-p1s16W24-Ta">
 <src.rf>tagger-a</src.rf>

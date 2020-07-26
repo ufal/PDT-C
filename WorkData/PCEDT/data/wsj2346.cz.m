@@ -401,7 +401,7 @@
 <LM>w#w-wsj2346-001-p1s1W3</LM>
 </w.rf>
 <form>zejí</form>
-<tag lemma="zet" src="auto" recommended="1">VB-P---3P-AAI-1</tag>
+<tag lemma="zet-2" src="auto" recommended="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-wsj2346-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1502,7 +1502,7 @@
 <LM>w#w-wsj2346-001-p1s4W10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2346-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2415,7 +2415,7 @@
 <LM>w#w-wsj2346-001-p1s10W8</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2346-001-p1s10W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4305,7 +4305,7 @@
 <LM>w#w-wsj2346-001-p1s16W27</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2346-001-p1s16W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4354,7 +4354,7 @@
 <LM>w#w-wsj2346-001-p1s17W1</LM>
 </w.rf>
 <form>Nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj2346-001-p1s17W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4648,7 +4648,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2346-001-p1s18W2-Ta">
@@ -4840,7 +4840,7 @@
 <LM>w#w-wsj2346-001-p1s18W20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2346-001-p1s18W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6854,7 +6854,7 @@
 </w.rf>
 <form>stává</form>
 <tag>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="stávat-3_^(stojím_stojíš)_(*5t-3)" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>

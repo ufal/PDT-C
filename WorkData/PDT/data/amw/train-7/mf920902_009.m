@@ -205,7 +205,7 @@
 <LM>w#w-mf920902-009-p1s1Bw16</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920902-009-p1s1Bw17">
 <src.rf>manual</src.rf>

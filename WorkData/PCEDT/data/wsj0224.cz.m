@@ -54,7 +54,7 @@
 <LM>w#w-wsj0224-001-p1s0W5</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0224-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1253,7 +1253,7 @@
 <LM>w#w-wsj0224-001-p1s3W20</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0224-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2174,7 +2174,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s7W3-Ta">
@@ -2673,7 +2673,7 @@
 <LM>w#w-wsj0224-001-p1s8W16</LM>
 </w.rf>
 <form>GM</form>
-<tag lemma="GM_;m" src="auto" recommended="1">BNFXX-----A----</tag>
+<tag lemma="GM-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0224-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2911,7 +2911,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s9W8-Ta">
@@ -4889,7 +4889,7 @@
 <LM>w#w-wsj0224-001-p1s16W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0224-001-p1s16W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5880,7 +5880,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s20W12-Ta">
@@ -6339,7 +6339,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s22W9-Ta">
@@ -6538,7 +6538,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s23W9-Ta">
@@ -6973,7 +6973,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s24W7-Ta">
@@ -8931,7 +8931,7 @@
 <LM>w#w-wsj0224-001-p1s30W19</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0224-001-p1s30W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9515,7 +9515,7 @@
 <LM>w#w-wsj0224-001-p1s31W19</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0224-001-p1s31W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9938,7 +9938,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s33W4-Ta">
@@ -10241,7 +10241,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s34W5-Ta">
@@ -10580,7 +10580,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s35W6-Ta">
@@ -11198,7 +11198,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s36W17-Ta">
@@ -13555,7 +13555,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s44W10-Ta">

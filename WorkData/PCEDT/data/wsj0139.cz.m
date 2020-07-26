@@ -437,7 +437,7 @@
 <LM>w#w-wsj0139-001-p1s1W37</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0139-001-p1s1W38-Ta">
 <src.rf>tagger-a</src.rf>

@@ -2782,7 +2782,7 @@
 <form>GATT</form>
 <tag>
 <AM lemma="GATT_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GATT" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="GATT_^(General_Agreement_on_Tariff_and_Trade)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Gatt" src="auto">NNIS1-----A----</AM>
 <AM lemma="Gatt" src="auto">NNIS4-----A----</AM>
 <AM lemma="Gatt_;Y" src="auto">NNMS1-----A----</AM>
@@ -4040,7 +4040,7 @@
 <LM>w#w-wsj1135-001-p1s9W5</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1135-001-p1s9W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4201,7 +4201,7 @@
 <form>GATT</form>
 <tag>
 <AM lemma="GATT_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GATT" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="GATT_^(General_Agreement_on_Tariff_and_Trade)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Gatt" src="auto">NNIS1-----A----</AM>
 <AM lemma="Gatt" src="auto">NNIS4-----A----</AM>
 <AM lemma="Gatt_;Y" src="auto">NNMS1-----A----</AM>
@@ -5039,7 +5039,7 @@
 <LM>w#w-wsj1135-001-p1s11W28</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1135-001-p1s11W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5076,7 +5076,7 @@
 <LM>w#w-wsj1135-001-p1s12W1</LM>
 </w.rf>
 <form>Méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1135-001-p1s12W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5925,7 +5925,7 @@
 <LM>w#w-wsj1135-001-p1s14W10</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1135-001-p1s14W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6281,7 +6281,7 @@
 <LM>w#w-wsj1135-001-p1s14W34</LM>
 </w.rf>
 <form>podávány</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VsTP----X-API--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="m-wsj1135-001-p1s14W35-Ta">
 <src.rf>tagger-a</src.rf>

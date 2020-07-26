@@ -69,7 +69,7 @@
 <LM>w#w-mf920924-120-p2s1w5</LM>
 </w.rf>
 <form>ČSSD</form>
-<tag lemma="ČSSD-1_;m_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČSSD_;m_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920924-120-p2s1w6">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SNR_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-120-p2s1w35">
@@ -345,7 +345,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SNR_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-120-p2s2w3">
@@ -705,7 +705,7 @@
 <form>Együttélés</form>
 <tag>
 <AM lemma="Együttélés_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Együttélés_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Együttélés-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-120-p3s1w21">
@@ -844,7 +844,7 @@
 <form>nejraději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------3A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------3A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-120-p3s1w38">

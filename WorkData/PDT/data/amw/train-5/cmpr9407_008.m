@@ -201,7 +201,7 @@
 <LM>w#w-cmpr9407-008-p4s2w8</LM>
 </w.rf>
 <form>nemůžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-cmpr9407-008-p4s2w9">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-cmpr9407-008-p5s4w6</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-cmpr9407-008-p5s4w7">
 <src.rf>manual</src.rf>
@@ -1112,7 +1112,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--4----------</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-008-p6s3w12">
@@ -1129,7 +1129,7 @@
 <LM>w#w-cmpr9407-008-p6s3w13</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-cmpr9407-008-p6s3w14">
 <src.rf>manual</src.rf>
@@ -1209,7 +1209,7 @@
 <LM>w#w-cmpr9407-008-p6s3w23</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-cmpr9407-008-p6s3w24">
 <src.rf>manual</src.rf>
@@ -1415,7 +1415,7 @@
 <LM>w#w-cmpr9407-008-p8s1w2</LM>
 </w.rf>
 <form>Nenechat</form>
-<tag lemma="nechat" src="orig" selected="1">Vf--------N-I--</tag>
+<tag lemma="nechat" src="orig" selected="1">Vf--------N-P--</tag>
 </m>
 <m id="m-cmpr9407-008-p8s1w3">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 <LM>w#w-cmpr9407-008-p8s1w11</LM>
 </w.rf>
 <form>vázáno</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" selected="1">VsNS----X-API--</tag>
+<tag lemma="vázat" src="auto" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-cmpr9407-008-p8s1w12">
 <src.rf>manual</src.rf>
@@ -1503,7 +1503,7 @@
 <LM>w#w-cmpr9407-008-p8s1w13</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-cmpr9407-008-p8s1w14">
 <src.rf>manual</src.rf>
@@ -1970,7 +1970,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč" src="auto" recommended="1" selected="1">NNFXX-----A---b</AM>
+<AM lemma="Kč_^(koruna_česká)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-008-p11s1w22">

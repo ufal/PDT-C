@@ -264,7 +264,7 @@
 <LM>w#w-cmpr9407-045-p3s2w9</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-cmpr9407-045-p3s2w10">
 <src.rf>manual</src.rf>
@@ -506,7 +506,7 @@
 <LM>w#w-cmpr9407-045-p4s1w8</LM>
 </w.rf>
 <form>nemůžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-cmpr9407-045-p4s1w9">
 <src.rf>manual</src.rf>
@@ -811,7 +811,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-045-p5s2w13">
@@ -910,7 +910,7 @@
 <LM>w#w-cmpr9407-045-p5s3w5</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9407-045-p5s3w6">
 <src.rf>manual</src.rf>

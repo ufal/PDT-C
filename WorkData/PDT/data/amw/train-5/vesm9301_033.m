@@ -206,7 +206,7 @@
 <LM>w#w-vesm9301-033-p2s1w17</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_^(to_je/jest)" src="orig" selected="1">J^------------b</tag>
+<tag lemma="tj_^(to_je/jest)" src="orig" selected="1">B^-------------</tag>
 </m>
 <m id="m-vesm9301-033-p2s1w18">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-vesm9301-033-p3s1w11</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-vesm9301-033-p3s1w12">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-vesm9301-033-p3s2w4</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-033-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1577,7 +1577,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9301-033-p4s2w24">
@@ -1612,7 +1612,7 @@
 <form>s</form>
 <tag>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9301-033-p4s2w28">

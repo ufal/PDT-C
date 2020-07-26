@@ -292,7 +292,7 @@
 <LM>w#w-ln95044-090-p2s2w11</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-090-p2s2w12">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-090-p3s1w34">
@@ -1446,7 +1446,7 @@
 <LM>w#w-ln95044-090-p3s3w3</LM>
 </w.rf>
 <form>podvodně</form>
-<tag lemma="podvodně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="podvodně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95044-090-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1649,7 +1649,7 @@
 <LM>w#w-ln95044-090-p3s4w10</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-090-p3s4w11">
 <src.rf>manual</src.rf>

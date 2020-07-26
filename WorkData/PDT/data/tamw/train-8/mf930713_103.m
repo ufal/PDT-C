@@ -983,7 +983,7 @@
 <LM>w#w-mf930713-103-p2s15w7</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930713-103-p2s15w8">
 <src.rf>manual</src.rf>

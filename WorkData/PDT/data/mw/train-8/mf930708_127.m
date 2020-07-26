@@ -324,7 +324,7 @@
 <form>EP</form>
 <tag>
 <AM lemma="EP_;m_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EP_;m_^(evropský_pohár)" src="auto" recommended="1" selected="1">NNXXX-----A---b</AM>
+<AM lemma="EP-88" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p3s1w7">
@@ -662,7 +662,7 @@
 <AM lemma="Stasi_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Stasi_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Stasi-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Stasi_;m_^(Staatssicherheitsdienst)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p4s1w16">
@@ -711,7 +711,7 @@
 <LM>w#w-mf930708-127-p4s1w21</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf930708-127-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1327,7 +1327,7 @@
 <LM>w#w-mf930708-127-p7s1w19</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf930708-127-p7s1w20">
 <src.rf>manual</src.rf>
@@ -1735,7 +1735,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="SSSR_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p8s2w7">
@@ -1768,7 +1768,7 @@
 <LM>w#w-mf930708-127-p8s2w10</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-127-p8s2w11">
 <src.rf>manual</src.rf>
@@ -2349,7 +2349,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p10s1w7">

@@ -371,7 +371,7 @@
 <LM>w#w-ln95048-017-p2s2w10</LM>
 </w.rf>
 <form>Multisonikem</form>
-<tag lemma="Multisonic_;m" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Multisonik_;m_,s_^(^DD**Multisonic)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95048-017-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1028,7 +1028,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-017-p2s6w4">
@@ -1056,7 +1056,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-017-p2s6w7">
@@ -1759,7 +1759,7 @@
 <LM>w#w-ln95048-017-p3s3w26</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95048-017-p3s3w27">
 <src.rf>manual</src.rf>
@@ -1927,7 +1927,7 @@
 <LM>w#w-ln95048-017-p3s4w8</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-017-p3s4w9">
 <src.rf>manual</src.rf>
@@ -2228,7 +2228,7 @@
 <LM>w#w-ln95048-017-p4s2w19</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95048-017-p4s2w20">
 <src.rf>manual</src.rf>
@@ -2305,7 +2305,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
 <AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual">Ca--1----------</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-017-p4s3w7">
@@ -2375,7 +2375,7 @@
 <form>vyzdvižen</form>
 <tag>
 <AM lemma="vyzdvihnout" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="vyzdvihnout" src="manual" selected="1">VsYS----X-APP--</AM>
+<AM lemma="vyzdvihnout" src="manual" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln95048-017-p4s3w15">
@@ -3513,7 +3513,7 @@
 <LM>w#w-ln95048-017-p5s2w8</LM>
 </w.rf>
 <form>snů</form>
-<tag lemma="sen" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95048-017-p5s2w9">
 <src.rf>manual</src.rf>
@@ -3706,7 +3706,7 @@
 <LM>w#w-ln95048-017-p5s2w31</LM>
 </w.rf>
 <form>vydat</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95048-017-p5s2w32">
 <src.rf>manual</src.rf>
@@ -3762,7 +3762,7 @@
 <LM>w#w-ln95048-017-p5s2w38</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95048-017-p5s2w39">
 <src.rf>manual</src.rf>

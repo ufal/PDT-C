@@ -857,7 +857,7 @@
 <LM>w#w-lnd92253-023-p4s4w1</LM>
 </w.rf>
 <form>Můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd92253-023-p4s4w2">
 <src.rf>manual</src.rf>
@@ -1009,7 +1009,7 @@
 <LM>w#w-lnd92253-023-p4s4w20</LM>
 </w.rf>
 <form>zamyslet</form>
-<tag lemma="zamyslet" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zamyslit" src="orig" selected="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-lnd92253-023-p4s4w21">
 <src.rf>manual</src.rf>
@@ -1618,7 +1618,7 @@
 <LM>w#w-lnd92253-023-p5s3w5</LM>
 </w.rf>
 <form>myslel</form>
-<tag lemma="myslet" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag lemma="myslit" src="orig" selected="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m-lnd92253-023-p5s3w6">
 <src.rf>manual</src.rf>
@@ -1748,7 +1748,7 @@
 <LM>w#w-lnd92253-023-p5s4w7</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92253-023-p5s4w8">
 <src.rf>manual</src.rf>
@@ -1862,7 +1862,7 @@
 <LM>w#w-lnd92253-023-p5s5w10</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92253-023-p5s5w11">
 <src.rf>manual</src.rf>
@@ -2007,7 +2007,7 @@
 <LM>w#w-lnd92253-023-p5s6w13</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-023-p5s6w14">
 <src.rf>manual</src.rf>

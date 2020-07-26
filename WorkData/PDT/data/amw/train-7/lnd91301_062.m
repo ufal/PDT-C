@@ -1118,7 +1118,7 @@
 <LM>w#w-lnd91301-062-p3s3w1</LM>
 </w.rf>
 <form>Mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-062-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1224,7 +1224,7 @@
 <LM>w#w-lnd91301-062-p4s1w2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91301-062-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1800,7 +1800,7 @@
 <LM>w#w-lnd91301-062-p5s2w10</LM>
 </w.rf>
 <form>filipínsko</form>
-<tag lemma="filipínský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="filipínsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd91301-062-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1936,7 +1936,7 @@
 <LM>w#w-lnd91301-062-p5s2w27</LM>
 </w.rf>
 <form>stranou</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91301-062-p5s2w28">
 <src.rf>manual</src.rf>
@@ -2010,7 +2010,7 @@
 <LM>w#w-lnd91301-062-p6s1w8</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="SSSR_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91301-062-p6s1w9">
 <src.rf>manual</src.rf>
@@ -2370,7 +2370,7 @@
 <LM>w#w-lnd91301-062-p7s1w2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91301-062-p7s1w3">
 <src.rf>manual</src.rf>

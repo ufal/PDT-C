@@ -51,7 +51,7 @@
 <LM>w#w-lnd92252-001-p1s1w5</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92252-001-p1s1w6">
 <src.rf>manual</src.rf>

@@ -598,7 +598,7 @@
 <LM>w#w-ln94200-115-p2s4w3</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94200-115-p2s4w4">
 <src.rf>manual</src.rf>

@@ -494,7 +494,7 @@
 <LM>w#w-wsj0941-001-p1s1W10</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0941-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1795,7 +1795,7 @@
 <LM>w#w-wsj0941-001-p1s4W14</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0941-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>

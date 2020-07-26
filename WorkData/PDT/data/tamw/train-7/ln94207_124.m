@@ -405,7 +405,7 @@
 <LM>w#w-ln94207-124-p2s2w24</LM>
 </w.rf>
 <form>životně</form>
-<tag lemma="životně_^(souvisí_se_životem;_prostředí,...)_(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="životně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94207-124-p2s2w25">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-124-p3s1w2">
@@ -1121,7 +1121,7 @@
 <LM>w#w-ln94207-124-p3s1w11</LM>
 </w.rf>
 <form>potřetí</form>
-<tag lemma="potřetí" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="potřetí" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94207-124-p3s1w12">
 <src.rf>manual</src.rf>

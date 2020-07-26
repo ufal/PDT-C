@@ -334,7 +334,7 @@
 <LM>w#w-lnd92254-057-p3s2w22</LM>
 </w.rf>
 <form>stranami</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-lnd92254-057-p3s2w23">
 <src.rf>manual</src.rf>
@@ -2649,7 +2649,7 @@
 <LM>w#w-lnd92254-057-p9s2w4</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92254-057-p9s2w5">
 <src.rf>manual</src.rf>

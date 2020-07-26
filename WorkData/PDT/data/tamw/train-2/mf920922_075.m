@@ -97,7 +97,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-075-p2s1Bw4">
@@ -364,7 +364,7 @@
 <LM>w#w-mf920922-075-p2s2w14</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf920922-075-p2s2w15">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 <LM>w#w-mf920922-075-p2s3w5</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-075-p2s3w6">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-075-p2s3w25">
@@ -707,7 +707,7 @@
 <LM>w#w-mf920922-075-p2s4w7</LM>
 </w.rf>
 <form>Bělohradě</form>
-<tag lemma="Bělohrad_;G" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Bělohrad_;G" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920922-075-p2s4w8">
 <src.rf>manual</src.rf>

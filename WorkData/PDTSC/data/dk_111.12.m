@@ -132,7 +132,7 @@
 </w.rf>
 <form>Nejvíc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A---1</AM>
 <AM lemma="nejvíce" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -512,14 +512,14 @@
 <LM>w#w-d1t1911-8</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m111-d1t1911-9">
 <w.rf>
 <LM>w#w-d1t1911-9</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m111-d1t1911-10">
 <w.rf>
@@ -1144,7 +1144,7 @@
 </w.rf>
 <form>Vánocích</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP6-----A----</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -1299,7 +1299,7 @@
 <LM>w#w-d1t1942-9</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m111-d1t1942-10">
 <w.rf>
@@ -1730,7 +1730,7 @@
 <LM>w#w-d1t1972-3</LM>
 </w.rf>
 <form>Teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m111-d1t1972-4">
 <w.rf>
@@ -1986,7 +1986,7 @@
 <LM>w#w-d1t1977-12</LM>
 </w.rf>
 <form>Dávají</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m111-d1t1977-13">
 <w.rf>
@@ -2696,7 +2696,7 @@
 <LM>w#w-d1t2009-9</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m111-d1t2009-10">
 <w.rf>
@@ -3008,7 +3008,7 @@
 <LM>w#w-d1t2016-4</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m111-d1t2016-5">
 <w.rf>
@@ -3022,7 +3022,7 @@
 <LM>w#w-d1t2016-6</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m111-879-882">
 <w.rf>
@@ -3853,7 +3853,7 @@
 <LM>w#w-d1t2038-1</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m111-d1t2038-2">
 <w.rf>
@@ -3871,7 +3871,7 @@
 </w.rf>
 <form>Vánoci</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP7-----A---1</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP7-----A---1</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP7-----A---1</AM>
 </tag>
 </m>
@@ -3887,7 +3887,7 @@
 <LM>w#w-d1t2038-7</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m111-d1t2038-9">
 <w.rf>
@@ -3987,7 +3987,7 @@
 <LM>w#w-d1t2043-2</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m111-d1t2043-3">
 <w.rf>
@@ -4106,7 +4106,7 @@
 <LM>w#w-d1t2043-20</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m111-d1t2043-18">
 <w.rf>
@@ -4139,7 +4139,7 @@
 <LM>w#w-d1t2052-1</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m111-969-972">
 <w.rf>

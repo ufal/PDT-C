@@ -450,7 +450,7 @@
 <LM>w#w-mf930702-117-p3s1w12</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930702-117-p3s1w13">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-mf930702-117-p4s1w4</LM>
 </w.rf>
 <form>zatčen</form>
-<tag lemma="zatknout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-mf930702-117-p4s1w5">
 <src.rf>manual</src.rf>
@@ -567,7 +567,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930702-117-p4s1w11">
@@ -1210,7 +1210,7 @@
 <LM>w#w-mf930702-117-p5s3w13</LM>
 </w.rf>
 <form>východně</form>
-<tag lemma="východně_,s_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="východně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930702-117-p5s3w14">
 <src.rf>manual</src.rf>
@@ -1320,7 +1320,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS7-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS7-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-117-p5s3w27">
@@ -1406,7 +1406,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930702-117-p5s4w4">
@@ -1976,7 +1976,7 @@
 <LM>w#w-mf930702-117-p6s4w8</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930702-117-p6s4w9">
 <src.rf>manual</src.rf>
@@ -2043,7 +2043,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-117-p6s4w17">

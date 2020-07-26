@@ -1327,7 +1327,7 @@
 <LM>w#w-mf930708-021-p5s1w16</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930708-021-p5s1w17">
 <src.rf>manual</src.rf>

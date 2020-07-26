@@ -543,7 +543,7 @@
 <LM>w#w-mf920923-105-p2s7w4</LM>
 </w.rf>
 <form>vydána</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VsQW----X-APP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920923-105-p2s7w5">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-mf920923-105-p3s1w6</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920923-105-p3s1w7">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-mf920923-105-p3s3w14</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920923-105-p3s3w15">
 <src.rf>manual</src.rf>

@@ -135,7 +135,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln95045-018-p2s1Aw10">
@@ -422,7 +422,7 @@
 <LM>w#w-ln95045-018-p2s1Cw23</LM>
 </w.rf>
 <form>níže</form>
-<tag lemma="nízko-1_^(níže,_než...)" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="nízko-1" src="orig" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-ln95045-018-p2s1Cw24">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-ln95045-018-p2s2w20</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-ln95045-018-p2s2w21">
 <src.rf>manual</src.rf>
@@ -1806,7 +1806,7 @@
 <LM>w#w-ln95045-018-p3s7w17</LM>
 </w.rf>
 <form>remizovala</form>
-<tag lemma="remizovat" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="remizovat_,s_^(^DD**remízovat)" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln95045-018-p3s7w18">
 <src.rf>manual</src.rf>
@@ -1952,7 +1952,7 @@
 <LM>w#w-ln95045-018-p3s8w8</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95045-018-p3s8w9">
 <src.rf>manual</src.rf>
@@ -2174,7 +2174,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln95045-018-p4s1w6">
@@ -2467,7 +2467,7 @@
 <LM>w#w-ln95045-018-p4s3w3</LM>
 </w.rf>
 <form>Hanáků</form>
-<tag lemma="Hanák_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Hanák_;E_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95045-018-p4s3w4">
 <src.rf>manual</src.rf>
@@ -2592,7 +2592,7 @@
 <LM>w#w-ln95045-018-p4s4w10</LM>
 </w.rf>
 <form>zastavit</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95045-018-p4s4w11">
 <src.rf>manual</src.rf>

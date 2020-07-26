@@ -298,7 +298,7 @@
 <LM>w#w-mf930703-113-p2s2w6</LM>
 </w.rf>
 <form>pojede</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3F-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf930703-113-p2s2w7">
 <src.rf>manual</src.rf>

@@ -209,7 +209,7 @@
 <LM>w#w-wsj0144-001-p1s0W15</LM>
 </w.rf>
 <form>ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0144-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>

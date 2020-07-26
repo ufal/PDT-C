@@ -1264,7 +1264,7 @@
 <form>právy</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACTP------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1205-001-p1s2W18-Ta">
@@ -1771,7 +1771,7 @@
 <LM>w#w-wsj1205-001-p1s4W18</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1205-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>

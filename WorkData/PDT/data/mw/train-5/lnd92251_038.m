@@ -29,7 +29,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-038-p1s1w3">
@@ -280,7 +280,7 @@
 <LM>w#w-lnd92251-038-p1s2w8</LM>
 </w.rf>
 <form>Kurdům</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-lnd92251-038-p1s2w9">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-lnd92251-038-p1s2w14</LM>
 </w.rf>
 <form>zastavila</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-038-p1s2w15">
 <src.rf>manual</src.rf>

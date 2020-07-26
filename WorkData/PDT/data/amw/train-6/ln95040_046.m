@@ -77,7 +77,7 @@
 <LM>w#w-ln95040-046-p2s1w5</LM>
 </w.rf>
 <form>Barbara</form>
-<tag lemma="Barbara_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Barbara_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-046-p2s1w6">
 <src.rf>manual</src.rf>
@@ -1225,7 +1225,7 @@
 <LM>w#w-ln95040-046-p4s1w1</LM>
 </w.rf>
 <form>Barbara</form>
-<tag lemma="Barbara_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Barbara_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-046-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2252,7 +2252,7 @@
 <LM>w#w-ln95040-046-p5s3w10</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-ln95040-046-p5s3w11">
 <src.rf>manual</src.rf>

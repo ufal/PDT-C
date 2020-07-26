@@ -8029,7 +8029,7 @@
 <LM>w#w-wsj1455-001-p1s34W10</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m-wsj1455-001-p1s34W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11119,7 +11119,7 @@
 <LM>w#w-wsj1455-001-p1s47W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1455-001-p1s47W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11255,7 +11255,7 @@
 <LM>w#w-wsj1455-001-p1s48W9</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1455-001-p1s48W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11904,7 +11904,7 @@
 <LM>w#w-wsj1455-001-p1s51W6</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m-wsj1455-001-p1s51W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12179,7 +12179,7 @@
 <LM>w#w-wsj1455-001-p1s53W3</LM>
 </w.rf>
 <form>pojata</form>
-<tag lemma="pojmout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="pojmout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj1455-001-p1s53W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12725,7 +12725,7 @@
 <LM>w#w-wsj1455-001-p1s55W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1455-001-p1s55W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15377,7 +15377,7 @@
 <LM>w#w-wsj1455-001-p1s66W12</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1455-001-p1s66W13-Ta">
 <src.rf>tagger-a</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln94200-19-p1s1w4</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-19-p2s1A">
@@ -135,7 +135,7 @@
 <LM>w#w-ln94200-19-p2s1Bw9</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-19-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-ln94200-19-p3s1w15</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-19-p3s1w16">
 <src.rf>manual</src.rf>
@@ -507,7 +507,7 @@
 <LM>w#w-ln94200-19-p3s1w18</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-19-p3s1w19">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-ln94200-19-p3s1w21</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-19-p3s1w22">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-ln94200-19-p3s1w25</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-19-p3s1w26">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-ln94200-19-p3s1w28</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-19-p3s1w29">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-ln94200-19-p3s1w31</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-19-p3s1w32">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-ln94200-19-p3s1w34</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-19-p3s1w35">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-ln94200-19-p3s1w37</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-19-p3s1w38">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-ln94200-19-p4s2w3</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-19-p4s2w4">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 <LM>w#w-ln94200-19-p4s2w6</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-19-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-ln94200-19-p4s2w18</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-19-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1143,7 +1143,7 @@
 <LM>w#w-ln94200-19-p4s2w30</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-19-p4s2w31">
 <src.rf>manual</src.rf>

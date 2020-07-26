@@ -1331,7 +1331,7 @@
 <form>CBS</form>
 <tag>
 <AM lemma="CBS_:B_;m_^(am.elevizní_společnost)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="CBS_;m_^(am.elevizní_společnost)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2072-001-p1s3W19-Ta">
@@ -2095,7 +2095,7 @@
 <LM>w#w-wsj2072-001-p1s6W1</LM>
 </w.rf>
 <form>Nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj2072-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2370,7 +2370,7 @@
 <form>CBS</form>
 <tag>
 <AM lemma="CBS_:B_;m_^(am.elevizní_společnost)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="CBS_;m_^(am.elevizní_společnost)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2072-001-p1s7W14-Ta">
@@ -2415,7 +2415,7 @@
 <form>CBS</form>
 <tag>
 <AM lemma="CBS_:B_;m_^(am.elevizní_společnost)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="CBS_;m_^(am.elevizní_společnost)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2072-001-p1s8W3-Ta">

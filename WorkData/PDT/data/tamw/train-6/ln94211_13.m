@@ -21,7 +21,7 @@
 <form>Fatra</form>
 <tag>
 <AM lemma="Fatra_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fatra-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Fatra_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-13-p1s1w2">
@@ -360,7 +360,7 @@
 <form>Fatra</form>
 <tag>
 <AM lemma="Fatra_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fatra-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Fatra_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-13-p2s1Bw32">
@@ -425,7 +425,7 @@
 <form>GmbH</form>
 <tag>
 <AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GmbH-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Gmbh-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-13-p2s1Bw39">
@@ -1094,7 +1094,7 @@
 <form>Fatra</form>
 <tag>
 <AM lemma="Fatra_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fatra-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Fatra_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-13-p4s1w14">
@@ -1434,7 +1434,7 @@
 <form>Fatra</form>
 <tag>
 <AM lemma="Fatra_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fatra-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Fatra_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-13-p5s1w2">

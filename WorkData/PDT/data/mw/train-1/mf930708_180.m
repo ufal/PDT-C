@@ -622,7 +622,7 @@
 <LM>w#w-mf930708-180-p2s4w9</LM>
 </w.rf>
 <form>sovětsko</form>
-<tag lemma="sovětský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="sovětsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930708-180-p2s4w10">
 <src.rf>manual</src.rf>

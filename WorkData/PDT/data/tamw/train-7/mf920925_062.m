@@ -253,7 +253,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-062-p2s1w18">
@@ -387,7 +387,7 @@
 <LM>w#w-mf920925-062-p2s2w15</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-062-p2s2w16">
 <src.rf>manual</src.rf>
@@ -477,7 +477,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920925-062-p2s2w27">
@@ -870,7 +870,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920925-062-p2s4w5">
@@ -903,7 +903,7 @@
 <LM>w#w-mf920925-062-p2s4w8</LM>
 </w.rf>
 <form>vymyslet</form>
-<tag lemma="vymyslet" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vymyslit" src="orig" selected="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-mf920925-062-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1443,7 +1443,7 @@
 <LM>w#w-mf920925-062-p2s7w1</LM>
 </w.rf>
 <form>Zato</form>
-<tag lemma="zato" src="orig" selected="1">J,-------------</tag>
+<tag lemma="zato" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920925-062-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1959,7 +1959,7 @@
 <LM>w#w-mf920925-062-p2s10w10</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920925-062-p2s10w11">
 <src.rf>manual</src.rf>
@@ -2520,7 +2520,7 @@
 <form>resp</form>
 <tag>
 <AM lemma="respektive_:B" src="auto">Db------------8</AM>
-<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------b</AM>
 </tag>
 </m>
 <m id="m-mf920925-062-p2s13w19">
@@ -2593,7 +2593,7 @@
 <LM>w#w-mf920925-062-p2s13w27</LM>
 </w.rf>
 <form>hůř</form>
-<tag lemma="špatně" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="hůře" src="orig" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-mf920925-062-p2s13w28">
 <src.rf>manual</src.rf>
@@ -3746,7 +3746,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-mf920925-062-p2s18w26">
@@ -4250,7 +4250,7 @@
 <LM>w#w-mf920925-062-p2s20w39</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf920925-062-p2s20w40">
 <src.rf>manual</src.rf>

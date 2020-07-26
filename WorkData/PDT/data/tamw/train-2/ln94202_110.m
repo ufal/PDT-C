@@ -186,7 +186,7 @@
 <LM>w#w-ln94202-110-p3s1w11</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-110-p3s1w12">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-ln94202-110-p5s1w8</LM>
 </w.rf>
 <form>podvanácté</form>
-<tag lemma="podvanácté" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podvanácté" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94202-110-p5s1w9">
 <src.rf>manual</src.rf>

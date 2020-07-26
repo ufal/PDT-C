@@ -51,7 +51,7 @@
 <LM>w#w-lnd91301-029-p1s1w5</LM>
 </w.rf>
 <form>PTP</form>
-<tag lemma="PTP-1_^(pracovní_technický_prapor)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="PTP-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91301-029-p1s1w6">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-lnd91301-029-p1s2w5</LM>
 </w.rf>
 <form>PTP</form>
-<tag lemma="PTP-1_^(pracovní_technický_prapor)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="PTP-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91301-029-p1s2w6">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-lnd91301-029-p1s2w8</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_^(inženýr)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="ing_^(inženýr)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91301-029-p1s2w9">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 <LM>w#w-lnd91301-029-p1s2w10</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-029-p1s2w11">
 <src.rf>manual</src.rf>

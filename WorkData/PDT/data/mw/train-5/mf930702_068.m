@@ -606,7 +606,7 @@
 <tag>
 <AM lemma="VIP-1_:B_;m_,t_^(very_important_person)" src="orig">AAXXX----1A----</AM>
 <AM lemma="VIP-1_:B_,t_^(very_important_person)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="VIP-1_^(very_important_person)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="VIP_^(very_important_person)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-068-p2s4w10">

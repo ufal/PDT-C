@@ -877,7 +877,7 @@
 <LM>w#w-wsj0321-001-p1s2W20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0321-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1521,7 +1521,7 @@
 <LM>w#w-wsj0321-001-p1s4W4</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0321-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -308,7 +308,7 @@
 <LM>w#w-d1t988-2</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m711-d1t993-2">
 <w.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-d1t1014-8</LM>
 </w.rf>
 <form>přivezli</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m711-d1t1014-2">
 <w.rf>
@@ -2018,7 +2018,7 @@
 <LM>w#w-d1t1045-1</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m711-d1t1045-2">
 <w.rf>
@@ -2682,7 +2682,7 @@
 <LM>w#w-d1t1062-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m711-d1t1062-4">
 <w.rf>
@@ -2761,7 +2761,7 @@
 <LM>w#w-d1t1074-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m711-d1t1074-4">
 <w.rf>
@@ -3828,7 +3828,7 @@
 <LM>w#w-d1t1145-10</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m711-d1t1145-11">
 <w.rf>
@@ -4019,7 +4019,7 @@
 <LM>w#w-d1t1147-14</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="zač" src="auto" recommended="1">PY-------------</tag>
+<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m711-d-id108183">
 <w.rf>
@@ -4156,7 +4156,7 @@
 </w.rf>
 <form>dnem</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNS7-----A----</AM>
 </tag>
 </m>
@@ -5320,7 +5320,7 @@
 <LM>w#w-d1t1213-18</LM>
 </w.rf>
 <form>zamčeno</form>
-<tag lemma="zamknout" src="auto" recommended="1">VsNS----X-AP---</tag>
+<tag lemma="zamknout" src="auto" recommended="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m711-d1e1208-x2-2088">
 <w.rf>

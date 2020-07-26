@@ -493,7 +493,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln95047-044-p2s3w12">
@@ -1376,7 +1376,7 @@
 <LM>w#w-ln95047-044-p3s5w16</LM>
 </w.rf>
 <form>vyklube</form>
-<tag lemma="vyklubat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyklubat" src="orig" selected="1">VB-S---3P-AAP-1</tag>
 </m>
 <m id="m-ln95047-044-p3s5w17">
 <src.rf>manual</src.rf>
@@ -1748,7 +1748,7 @@
 <LM>w#w-ln95047-044-p4s2w15</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95047-044-p4s2w16">
 <src.rf>manual</src.rf>

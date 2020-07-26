@@ -682,7 +682,7 @@
 <tag>
 <AM lemma="NSR_;G" src="orig">NNFXX-----A----</AM>
 <AM lemma="NSR_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="NSR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NSR_;G_^(Německá_spolková_republika)" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-135-p1s3w5">
@@ -755,7 +755,7 @@
 <LM>w#w-lnd94104-135-p1s3w13</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-135-p1s3w14">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <form>kamkoliv</form>
 <tag>
 <AM lemma="kamkoliv" src="orig">Db-------------</AM>
-<AM lemma="kamkoli" src="auto" recommended="1" selected="1">Db------------1</AM>
+<AM lemma="kamkoliv_,s_^(^DD**kamkoli)" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-135-p1s3w24">
@@ -1360,7 +1360,7 @@
 <LM>w#w-lnd94104-135-p1s6w19</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-lnd94104-135-p1s6w21">
 <src.rf>manual</src.rf>
@@ -1416,7 +1416,7 @@
 <LM>w#w-lnd94104-135-p1s6w27</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-lnd94104-135-p1s6w29">
 <src.rf>manual</src.rf>
@@ -1464,7 +1464,7 @@
 <LM>w#w-lnd94104-135-p1s6w34</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-lnd94104-135-p1s6w36">
 <src.rf>manual</src.rf>
@@ -2416,7 +2416,7 @@
 <LM>w#w-lnd94104-135-p1s12w4</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94104-135-p1s12w5">
 <src.rf>manual</src.rf>
@@ -2712,7 +2712,7 @@
 <LM>w#w-lnd94104-135-p1s12w41</LM>
 </w.rf>
 <form>dejme</form>
-<tag lemma="dát" src="orig" selected="1">Vi-P---1--A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m-lnd94104-135-p1s12w42">
 <src.rf>manual</src.rf>
@@ -3209,7 +3209,7 @@
 <form>Sofia</form>
 <tag>
 <AM lemma="Sofie-2_;Y" src="orig">NNFS1-----A---1</AM>
-<AM lemma="Sofia-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sofie_;G_;Y" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94104-135-p1s12w103">
@@ -3347,7 +3347,7 @@
 <LM>w#w-lnd94104-135-p1s12w118</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_^(a_tak_dále)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="atd_^(a_tak_dále)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-lnd94104-135-p1s12w119">
 <src.rf>manual</src.rf>
@@ -3363,7 +3363,7 @@
 <LM>w#w-lnd94104-135-p1s12w120</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_^(a_tak_dále)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="atd_^(a_tak_dále)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-lnd94104-135-p1s12w121">
 <src.rf>manual</src.rf>
@@ -3395,7 +3395,7 @@
 <LM>w#w-lnd94104-135-p1s12w124</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-lnd94104-135-p1s12w125">
 <src.rf>manual</src.rf>

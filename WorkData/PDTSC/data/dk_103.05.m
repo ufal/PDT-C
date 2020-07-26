@@ -797,7 +797,7 @@
 </w.rf>
 <form>jedu</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---1P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS2-----A----</AM>
 <AM lemma="jed" src="auto">NNIS3-----A----</AM>
 <AM lemma="jed" src="auto">NNIS6-----A----</AM>
@@ -1160,7 +1160,7 @@
 <form>těžko</form>
 <tag>
 <AM lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto">Dg-------1A----</AM>
-<AM lemma="těžko-2_^(sotva)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m103-d1t832-8">
@@ -1310,7 +1310,7 @@
 </w.rf>
 <form>Vydělal</form>
 <tag>
-<AM lemma="vydělat-1_^(peníze)" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="vydělat_^(kůže;peníze)" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="vydělat-2_:W_^(kůže)" src="auto">VpYS---XR-AA---</AM>
 </tag>
 </m>
@@ -1538,7 +1538,7 @@
 <LM>w#w-d1t842-21</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m103-d1t842-18">
 <w.rf>
@@ -1644,7 +1644,7 @@
 </w.rf>
 <form>Vydělal</form>
 <tag>
-<AM lemma="vydělat-1_^(peníze)" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="vydělat_^(kůže;peníze)" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="vydělat-2_:W_^(kůže)" src="auto">VpYS---XR-AA---</AM>
 </tag>
 </m>
@@ -1764,7 +1764,7 @@
 <LM>w#w-d1t844-7</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m103-86-87">
 <w.rf>
@@ -2594,7 +2594,7 @@
 <LM>w#w-d1t897-5</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m103-d-id100378-punct">
 <w.rf>
@@ -2844,7 +2844,7 @@
 <LM>w#w-d1t899-18</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m103-d-m-d1e892-x2-punct-punct">
 <w.rf>

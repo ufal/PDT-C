@@ -879,7 +879,7 @@
 <LM>w#w-wsj2214-001-p1s2W6</LM>
 </w.rf>
 <form>nalezeno</form>
-<tag lemma="naleznout" src="auto" recommended="1">VsNS----X-API--</tag>
+<tag lemma="naleznout" src="auto" recommended="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-wsj2214-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1671,7 +1671,7 @@
 <LM>w#w-wsj2214-001-p1s3W26</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj2214-001-p1s3W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3642,7 +3642,7 @@
 <LM>w#w-wsj2214-001-p1s10W15</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2214-001-p1s10W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3817,7 +3817,7 @@
 <form>GATT</form>
 <tag>
 <AM lemma="GATT_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GATT" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="GATT_^(General_Agreement_on_Tariff_and_Trade)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Gatt" src="auto">NNIS1-----A----</AM>
 <AM lemma="Gatt" src="auto">NNIS4-----A----</AM>
 <AM lemma="Gatt_;Y" src="auto">NNMS1-----A----</AM>

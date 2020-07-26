@@ -406,7 +406,7 @@
 <form>kpt</form>
 <tag>
 <AM lemma="kapitán_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="kpt_^(kapitán)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="kapitán" src="manual" selected="1">NNMXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920925-085-p2s3w16">
@@ -554,7 +554,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920925-085-p2s3w34">
@@ -801,7 +801,7 @@
 <LM>w#w-mf920925-085-p2s7w12</LM>
 </w.rf>
 <form>statisíců</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="stotisíc`100000" src="orig" selected="1">CzIP2---------1</tag>
 </m>
 <m id="m-mf920925-085-p2s7w13">
 <src.rf>manual</src.rf>
@@ -899,7 +899,7 @@
 <LM>w#w-mf920925-085-p2s8w11</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-085-p2s8w12">
 <src.rf>manual</src.rf>
@@ -1630,7 +1630,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-085-p2s12w6">

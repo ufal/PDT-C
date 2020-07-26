@@ -1007,7 +1007,7 @@
 <form>mohl</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95045-038-p2s6w15">
@@ -1502,7 +1502,7 @@
 <form>JAMU</form>
 <tag>
 <AM lemma="JAMU_:B_;m_^(Janáčkova_akademie_múzických_umění)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAMU_;m_^(Janáčkova_akademie_múzických_umění)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-038-p3s2w32">
@@ -3052,7 +3052,7 @@
 <form>může</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95045-038-p5s3w8">
@@ -3732,7 +3732,7 @@
 <LM>w#w-ln95045-038-p6s2w5</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-038-p6s2w6">
 <src.rf>manual</src.rf>

@@ -588,7 +588,7 @@
 <LM>w#w-mf920901-034-p2s5w3</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-mf920901-034-p2s5w4">
 <src.rf>manual</src.rf>

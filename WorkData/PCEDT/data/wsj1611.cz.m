@@ -1533,7 +1533,7 @@
 <LM>w#w-wsj1611-001-p1s3W22</LM>
 </w.rf>
 <form>ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj1611-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2032,7 +2032,7 @@
 <LM>w#w-wsj1611-001-p1s5W7</LM>
 </w.rf>
 <form>ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj1611-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4489,7 +4489,7 @@
 <LM>w#w-wsj1611-001-p1s11W22</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1611-001-p1s11W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5627,7 +5627,7 @@
 <LM>w#w-wsj1611-001-p1s14W13</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1611-001-p1s14W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5962,7 +5962,7 @@
 <LM>w#w-wsj1611-001-p1s15W8</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1611-001-p1s15W9-Ta">
 <src.rf>tagger-a</src.rf>

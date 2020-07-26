@@ -462,7 +462,7 @@
 <LM>w#w-lnd92259-061-p2s3w14</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92259-061-p2s3w15">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <form>SKDH</form>
 <tag>
 <AM lemma="SKDH_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SKDH-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SKDH_;m_^(Slovenské_křesťanskodemokratické_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-061-p2s4w17">

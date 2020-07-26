@@ -552,7 +552,7 @@
 <form>pozn</form>
 <tag>
 <AM lemma="poznámka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930701-077-p2s4w6">
@@ -572,7 +572,7 @@
 <tag>
 <AM lemma="red_^(redakce)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="redakce_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930701-077-p2s4w8">
@@ -855,7 +855,7 @@
 <LM>w#w-mf930701-077-p2s5w19</LM>
 </w.rf>
 <form>Hanáků</form>
-<tag lemma="Hanák_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Hanák_;E_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930701-077-p2s5w20">
 <src.rf>manual</src.rf>

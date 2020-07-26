@@ -1149,7 +1149,7 @@
 <LM>w#w-wsj2030-001-p1s2W10</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj2030-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>

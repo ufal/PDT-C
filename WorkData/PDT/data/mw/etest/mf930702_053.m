@@ -273,7 +273,7 @@
 <LM>w#w-mf930702-053-p1s4w1</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="Celsius" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
 </m>
 <m id="m-mf930702-053-p1s4w2">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-mf930702-053-p1s5w1</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="Celsius" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
 </m>
 <m id="m-mf930702-053-p1s5w2">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-mf930702-053-p1s6w1</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="Celsius" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
 </m>
 <m id="m-mf930702-053-p1s6w2">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-mf930702-053-p2s3w1</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="Celsius" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
 </m>
 <m id="m-mf930702-053-p2s3w2">
 <src.rf>manual</src.rf>
@@ -863,7 +863,7 @@
 <LM>w#w-mf930702-053-p2s4w1</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="Celsius" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
 </m>
 <m id="m-mf930702-053-p2s4w2">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 <LM>w#w-mf930702-053-p3s1w9</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-mf930702-053-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1358,7 +1358,7 @@
 <LM>w#w-mf930702-053-p4s2w32</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930702-053-p4s2w33">
 <src.rf>manual</src.rf>
@@ -1459,7 +1459,7 @@
 <LM>w#w-mf930702-053-p5s2w1</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="Celsius" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
 </m>
 <m id="m-mf930702-053-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1542,7 +1542,7 @@
 <LM>w#w-mf930702-053-p5s3w1</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="Celsius" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
 </m>
 <m id="m-mf930702-053-p5s3w2">
 <src.rf>manual</src.rf>
@@ -1643,7 +1643,7 @@
 <LM>w#w-mf930702-053-p5s5w1</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="Celsius" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
 </m>
 <m id="m-mf930702-053-p5s5w2">
 <src.rf>manual</src.rf>

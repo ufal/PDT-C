@@ -27,7 +27,7 @@
 <LM>w#w-ln94203-17-p1s1w2</LM>
 </w.rf>
 <form>předává</form>
-<tag lemma="předávat-3_^(někomu_něco)_(*6at-3)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="předávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-17-p1s1w3">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-17-p3s1w2">

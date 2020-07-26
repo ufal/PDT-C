@@ -683,7 +683,7 @@
 <LM>w#w-mf930702-021-p2s6w8</LM>
 </w.rf>
 <form>Evropu</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930702-021-p2s6w9">
 <src.rf>manual</src.rf>

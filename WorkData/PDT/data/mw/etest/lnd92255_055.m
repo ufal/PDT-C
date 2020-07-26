@@ -63,7 +63,7 @@
 <LM>w#w-lnd92255-055-p3s1w1</LM>
 </w.rf>
 <form>SOFIA</form>
-<tag lemma="Sofie-1_;G" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Sofie_;G_;Y" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92255-055-p3s1w2">
 <src.rf>manual</src.rf>

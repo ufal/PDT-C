@@ -29,7 +29,7 @@
 <LM>w#w-d1t858-20</LM>
 </w.rf>
 <form>myslela</form>
-<tag lemma="myslet" src="auto" recommended="1">VpQW----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpQW----R-AAI-1</tag>
 </m>
 <m id="m983-d-id80451">
 <w.rf>
@@ -65,7 +65,7 @@
 <form>nepřijmuli</form>
 <tag>
 <AM lemma="přijmout_,x" src="auto" recommended="1">VpMP---XR-NA---</AM>
-<AM lemma="přijmout-2_,h_^(^GC**přijmout-1)" src="manual" selected="1">VpMP----R-NA---</AM>
+<AM lemma="přijmout" src="manual" selected="1">VpMP----R-NAP-1</AM>
 </tag>
 </m>
 <m id="m983-d1e704-x9-7420">
@@ -238,7 +238,7 @@
 <LM>w#w-d1t867-3</LM>
 </w.rf>
 <form>Uměla</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m983-d1t867-2">
 <w.rf>
@@ -365,7 +365,7 @@
 </w.rf>
 <form>jedu</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---1P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS2-----A----</AM>
 <AM lemma="jed" src="auto">NNIS3-----A----</AM>
 <AM lemma="jed" src="auto">NNIS6-----A----</AM>
@@ -1482,7 +1482,7 @@
 <LM>w#w-d1t932-4</LM>
 </w.rf>
 <form>tehdá</form>
-<tag lemma="tehdy_,a" src="auto" recommended="1">Db------------1</tag>
+<tag lemma="tehdá_,h_^(^GC**tehdy)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m983-d1t932-5">
 <w.rf>
@@ -5522,7 +5522,7 @@
 <LM>w#w-d1t1176-3</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m983-d1t1176-4">
 <w.rf>
@@ -6320,7 +6320,7 @@
 <LM>w#w-d1e1244-x2-2413</LM>
 </w.rf>
 <form>nemohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m983-d1e1229-x2-2430">
 <w.rf>

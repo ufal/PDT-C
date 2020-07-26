@@ -1026,7 +1026,7 @@
 <LM>w#w-wsj1035-001-p1s2W14</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1035-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>

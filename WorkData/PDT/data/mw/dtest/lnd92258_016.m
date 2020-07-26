@@ -665,7 +665,7 @@
 <form>sv</form>
 <tag>
 <AM lemma="svazek_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="svatý-1" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92258-016-p2s4w10">

@@ -28,7 +28,7 @@
 <LM>w#w-wsj0726-001-p1s0W2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0726-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2175,7 +2175,7 @@
 <form>Jr</form>
 <tag>
 <AM lemma="jr-88_^(Junior)" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="jr-88_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0726-001-p1s5W43-Ta">

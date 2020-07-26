@@ -699,7 +699,7 @@
 <LM>w#w-wsj0820-001-p1s1W28</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0820-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1053,7 +1053,7 @@
 <LM>w#w-wsj0820-001-p1s2W14</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0820-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2528,7 +2528,7 @@
 <LM>w#w-wsj0820-001-p1s10W9</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0820-001-p1s10W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2763,7 +2763,7 @@
 <LM>w#w-wsj0820-001-p1s12W2</LM>
 </w.rf>
 <form>nedávají</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-P---3P-NAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-wsj0820-001-p1s12W3-Ta">
 <src.rf>tagger-a</src.rf>

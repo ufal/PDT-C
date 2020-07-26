@@ -4418,7 +4418,7 @@
 <LM>w#w-wsj1295-001-p1s13W7</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1295-001-p1s13W8-Ta">
 <src.rf>tagger-a</src.rf>

@@ -3998,7 +3998,7 @@
 <LM>w#w-wsj0956-001-p1s12W7</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0956-001-p1s12W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9258,7 +9258,7 @@
 <LM>w#w-wsj0956-001-p1s31W8</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0956-001-p1s31W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10841,7 +10841,7 @@
 <LM>w#w-wsj0956-001-p1s38W8</LM>
 </w.rf>
 <form>navrženo</form>
-<tag lemma="navrhnout" src="auto" recommended="1">VsNS----X-APP--</tag>
+<tag lemma="navrhnout" src="auto" recommended="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-wsj0956-001-p1s38W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12889,7 +12889,7 @@
 <LM>w#w-wsj0956-001-p1s48W12</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0956-001-p1s48W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13932,7 +13932,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0956-001-p1s51W25-Ta">
@@ -13979,7 +13979,7 @@
 <LM>w#w-wsj0956-001-p1s51W29</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0956-001-p1s51W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14209,7 +14209,7 @@
 <LM>w#w-wsj0956-001-p1s53W5</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0956-001-p1s53W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14952,7 +14952,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0956-001-p1s55W5-Ta">

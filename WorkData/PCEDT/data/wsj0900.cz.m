@@ -1511,7 +1511,7 @@
 <LM>w#w-wsj0900-001-p1s3W16</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0900-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2958,7 +2958,7 @@
 <LM>w#w-wsj0900-001-p1s7W2</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0900-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4711,7 +4711,7 @@
 </w.rf>
 <form>stávají</form>
 <tag>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="auto" recommended="1">VB-P---3P-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="auto" recommended="1">VB-P---3P-AAI--</AM>
 <AM lemma="stávat-3_^(stojím_stojíš)_(*5t-3)" src="auto">VB-P---3P-AAI--</AM>
 </tag>
 </m>

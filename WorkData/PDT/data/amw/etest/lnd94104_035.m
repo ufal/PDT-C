@@ -111,7 +111,7 @@
 <LM>w#w-lnd94104-035-p1s3w8</LM>
 </w.rf>
 <form>Strana</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-035-p1s3w9">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-lnd94104-035-p1s4w12</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd94104-035-p1s4w13">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-lnd94104-035-p1s6w7</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-035-p1s6w8">
 <src.rf>manual</src.rf>
@@ -403,7 +403,7 @@
 <LM>w#w-lnd94104-035-p1s6w16</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-035-p1s6w17">
 <src.rf>manual</src.rf>

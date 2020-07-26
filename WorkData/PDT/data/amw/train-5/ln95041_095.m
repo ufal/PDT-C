@@ -710,7 +710,7 @@
 <LM>w#w-ln95041-095-p2s4w9</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95041-095-p2s4w10">
 <src.rf>manual</src.rf>

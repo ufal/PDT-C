@@ -1534,7 +1534,7 @@
 <LM>w#w-wsj0336-001-p1s6W7</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0336-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2740,7 +2740,7 @@
 <LM>w#w-wsj0336-001-p1s9W49</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0336-001-p1s9W50-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2801,7 +2801,7 @@
 <LM>w#w-wsj0336-001-p1s10W5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0336-001-p1s10W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2894,7 +2894,7 @@
 <LM>w#w-wsj0336-001-p1s10W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0336-001-p1s10W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3411,7 +3411,7 @@
 <LM>w#w-wsj0336-001-p1s12W30</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0336-001-p1s12W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4087,7 +4087,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0336-001-p1s15W2-Ta">
@@ -4612,7 +4612,7 @@
 <LM>w#w-wsj0336-001-p1s17W7</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0336-001-p1s17W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5022,7 +5022,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0336-001-p1s19W4-Ta">

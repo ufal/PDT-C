@@ -21,7 +21,7 @@
 <form>Víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-mf930702-047-p1s1w2">
@@ -799,7 +799,7 @@
 <LM>w#w-mf930702-047-p3s1w2</LM>
 </w.rf>
 <form>Abys</form>
-<tag lemma="aby" src="orig" selected="1">J,-S---2-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------s-</tag>
 </m>
 <m id="m-mf930702-047-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1170,7 +1170,7 @@
 <LM>w#w-mf930702-047-p3s2w2</LM>
 </w.rf>
 <form>Myslela</form>
-<tag lemma="myslet" src="orig" selected="1">VpQW----R-AA---</tag>
+<tag lemma="myslit" src="orig" selected="1">VpQW----R-AAI-1</tag>
 </m>
 <m id="m-mf930702-047-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1861,7 +1861,7 @@
 <LM>w#w-mf930702-047-p3s4w20</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930702-047-p3s4w21">
 <src.rf>manual</src.rf>
@@ -2119,7 +2119,7 @@
 <LM>w#w-mf930702-047-p3s4w50</LM>
 </w.rf>
 <form>melodicko</form>
-<tag lemma="melodický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="melodicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930702-047-p3s4w51">
 <src.rf>manual</src.rf>
@@ -2348,7 +2348,7 @@
 <LM>w#w-mf930702-047-p3s5w17</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930702-047-p3s5w18">
 <src.rf>manual</src.rf>

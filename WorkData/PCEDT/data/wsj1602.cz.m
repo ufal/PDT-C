@@ -214,7 +214,7 @@
 <LM>w#w-wsj1602-001-p1s0W15</LM>
 </w.rf>
 <form>správně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1602-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1957,7 +1957,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>
@@ -2194,7 +2194,7 @@
 <LM>w#w-wsj1602-001-p1s5W6</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1602-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2867,7 +2867,7 @@
 <LM>w#w-wsj1602-001-p1s6W30</LM>
 </w.rf>
 <form>Sandinovců</form>
-<tag lemma="sandinovec_;E" src="auto" recommended="1" selected="1">NNMP2-----A----</tag>
+<tag lemma="sandinovec" src="auto" recommended="1" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1602-001-p1s6W31-Ta">
 <src.rf>tagger-a</src.rf>

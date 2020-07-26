@@ -1133,7 +1133,7 @@
 <LM>w#w-wsj0465-001-p1s4W15</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6598,7 +6598,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0465-001-p1s20W31-Ta">
@@ -9273,7 +9273,7 @@
 <LM>w#w-wsj0465-001-p1s30W1</LM>
 </w.rf>
 <form>Vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s30W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11688,7 +11688,7 @@
 <LM>w#w-wsj0465-001-p1s37W19</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s37W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13467,7 +13467,7 @@
 <LM>w#w-wsj0465-001-p1s45W13</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj0465-001-p1s45W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14607,7 +14607,7 @@
 <LM>w#w-wsj0465-001-p1s51W3</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s51W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16635,7 +16635,7 @@
 <LM>w#w-wsj0465-001-p1s58W12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s58W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -17039,7 +17039,7 @@
 <LM>w#w-wsj0465-001-p1s59W20</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s59W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18574,7 +18574,7 @@
 <LM>w#w-wsj0465-001-p1s65W15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s65W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20017,7 +20017,7 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_;U_^(molekula_DNA)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekulaNA)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFS1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP4-----A----</AM>
@@ -20100,7 +20100,7 @@
 <LM>w#w-wsj0465-001-p1s72W3</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s72W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -21510,7 +21510,7 @@
 <form>Levineovým</form>
 <tag>
 <AM lemma="Levineová_;Y" src="auto" recommended="1">NNFP3-----A----</AM>
-<AM lemma="Levineův_;Y_^(*2)" src="manual" selected="1">AUIS7M---------</AM>
+<AM lemma="Levineová_;Y" src="manual" selected="1">NNFP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0465-001-p1s76W19-Ta">
@@ -23271,7 +23271,7 @@
 <LM>w#w-wsj0465-001-p1s80W30</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s80W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -27101,7 +27101,7 @@
 <LM>w#w-wsj0465-001-p1s92W10</LM>
 </w.rf>
 <form>podávaly</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj0465-001-p1s92W11-Ta">
 <src.rf>tagger-a</src.rf>

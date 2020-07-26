@@ -66,7 +66,7 @@
 <AM lemma="spol_:B_^(společnost)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="společenský_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="společnost_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92256-089-p1s1w7">
@@ -265,7 +265,7 @@
 <LM>w#w-lnd92256-089-p3s1w18</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92256-089-p3s1w19">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <LM>w#w-lnd92256-089-p4s2w5</LM>
 </w.rf>
 <form>jelo</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-089-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1192,7 +1192,7 @@
 <LM>w#w-lnd92256-089-p4s3w15</LM>
 </w.rf>
 <form>vydělají</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd92256-089-p4s3w16">
 <src.rf>manual</src.rf>
@@ -1224,7 +1224,7 @@
 <LM>w#w-lnd92256-089-p4s3w19</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd92256-089-p4s3w20">
 <src.rf>manual</src.rf>
@@ -1463,7 +1463,7 @@
 <LM>w#w-lnd92256-089-p5s2w9</LM>
 </w.rf>
 <form>majetko</form>
-<tag lemma="majetkový" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="majetko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92256-089-p5s2w10">
 <src.rf>manual</src.rf>
@@ -1561,7 +1561,7 @@
 <LM>w#w-lnd92256-089-p5s3w8</LM>
 </w.rf>
 <form>jede</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-089-p5s3w9">
 <src.rf>manual</src.rf>

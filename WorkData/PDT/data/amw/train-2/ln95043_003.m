@@ -2428,7 +2428,7 @@
 <LM>w#w-ln95043-003-p7s2w12</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95043-003-p7s2w13">
 <src.rf>manual</src.rf>

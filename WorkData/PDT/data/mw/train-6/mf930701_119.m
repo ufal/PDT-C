@@ -848,7 +848,7 @@
 <LM>w#w-mf930701-119-p2s6w9</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-119-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1896,7 +1896,7 @@
 <LM>w#w-mf930701-119-p2s14w10</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podruhé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930701-119-p2s14w11">
 <src.rf>manual</src.rf>
@@ -2114,7 +2114,7 @@
 <LM>w#w-mf930701-119-p2s15w17</LM>
 </w.rf>
 <form>Wimbledonem</form>
-<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Wimbledon" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930701-119-p2s15w18">
 <src.rf>manual</src.rf>
@@ -3127,7 +3127,7 @@
 <LM>w#w-mf930701-119-p2s20w20</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-119-p2s20w21">
 <src.rf>manual</src.rf>
@@ -3614,7 +3614,7 @@
 <LM>w#w-mf930701-119-p2s25w15</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf930701-119-p2s25w16">
 <src.rf>manual</src.rf>
@@ -3641,7 +3641,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-119-p2s25w19">
@@ -3698,7 +3698,7 @@
 <LM>w#w-mf930701-119-p2s25w25</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-119-p2s25w26">
 <src.rf>manual</src.rf>

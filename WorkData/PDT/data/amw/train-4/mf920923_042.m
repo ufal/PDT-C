@@ -111,7 +111,7 @@
 <form>ČMFL</form>
 <tag>
 <AM lemma="ČMFL_:B_;m_^(Č.-moravský_fotbalový_svaz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČMFL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČMFL_;m_^(Č.-moravský_fotbalový_svaz)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -252,7 +252,7 @@
 <LM>w#w-mf920923-042-p4s1w4</LM>
 </w.rf>
 <form>nevymyslel</form>
-<tag lemma="vymyslet" src="orig" selected="1">VpYS----R-NA---</tag>
+<tag lemma="vymyslit" src="orig" selected="1">VpYS----R-NAP-1</tag>
 </m>
 <m id="m-mf920923-042-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1556,7 +1556,7 @@
 <LM>w#w-mf920923-042-p5s3w5</LM>
 </w.rf>
 <form>pomalu</form>
-<tag lemma="pomalu" src="orig" selected="1">Db-------------</tag>
+<tag lemma="pomalu" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920923-042-p5s3w6">
 <src.rf>manual</src.rf>
@@ -1764,7 +1764,7 @@
 <LM>w#w-mf920923-042-p5s3w31</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-042-p5s3w32">
 <src.rf>manual</src.rf>
@@ -2187,7 +2187,7 @@
 <LM>w#w-mf920923-042-p6s1w1</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-042-p6s1w2">
 <src.rf>manual</src.rf>
@@ -2245,7 +2245,7 @@
 <form>ČMFL</form>
 <tag>
 <AM lemma="ČMFL_:B_;m_^(Č.-moravský_fotbalový_svaz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČMFL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČMFL_;m_^(Č.-moravský_fotbalový_svaz)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-042-p6s1w9">

@@ -52,7 +52,7 @@
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="s-33" src="manual">Q3-------------</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---b</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-wsj1598-001-p1s0W4-Ta">
@@ -97,7 +97,7 @@
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
 <AM lemma="o-33" src="auto">Q3-------------</AM>
 <AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
-<AM lemma="omezený_^(*3it)" src="manual" selected="1">AANS7----1A---b</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---b</AM>
 </tag>
 </m>
 <m id="m-wsj1598-001-p1s0W8-Ta">
@@ -629,7 +629,7 @@
 <LM>w#w-wsj1598-001-p1s1W23</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1598-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>

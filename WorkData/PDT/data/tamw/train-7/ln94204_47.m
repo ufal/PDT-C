@@ -269,7 +269,7 @@
 <LM>w#w-ln94204-47-p2s2w6</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-47-p2s2w7">
 <src.rf>manual</src.rf>
@@ -1361,7 +1361,7 @@
 <LM>w#w-ln94204-47-p4s3w12</LM>
 </w.rf>
 <form>předány</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsTP----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94204-47-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1698,7 +1698,7 @@
 <LM>w#w-ln94204-47-p4s6w7</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-ln94204-47-p4s6w8">
 <src.rf>manual</src.rf>

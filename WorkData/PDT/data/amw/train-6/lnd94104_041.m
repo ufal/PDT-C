@@ -117,7 +117,7 @@
 <LM>w#w-lnd94104-041-p1s2w3</LM>
 </w.rf>
 <form>ika</form>
-<tag lemma="ika-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ika-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94104-041-p1s2w4">
 <src.rf>manual</src.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-lnd94104-041-p1s5w21</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd94104-041-p1s5w22">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-lnd94104-041-p1s6w9</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94104-041-p1s6w10">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 <LM>w#w-lnd94104-041-p1s6w10</LM>
 </w.rf>
 <form>právy</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-lnd94104-041-p1s6w11">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-lnd94104-041-p1s8w5</LM>
 </w.rf>
 <form>politiku</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94104-041-p1s8w6">
 <src.rf>manual</src.rf>

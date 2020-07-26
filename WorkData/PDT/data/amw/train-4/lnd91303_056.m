@@ -538,7 +538,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd91303-056-p3s2Aw6">
@@ -1251,7 +1251,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd91303-056-p3s5w14">
@@ -1292,7 +1292,7 @@
 <LM>w#w-lnd91303-056-p3s5w18</LM>
 </w.rf>
 <form>obydlil</form>
-<tag lemma="obydlet" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="obydlet" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd91303-056-p3s5w19">
 <src.rf>manual</src.rf>
@@ -1393,7 +1393,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd91303-056-p3s5w31">

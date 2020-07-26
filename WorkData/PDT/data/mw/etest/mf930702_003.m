@@ -156,7 +156,7 @@
 <LM>w#w-mf930702-003-p2s1w13</LM>
 </w.rf>
 <form>bezcelně</form>
-<tag lemma="bezcelně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="bezcelně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930702-003-p2s1w14">
 <src.rf>manual</src.rf>
@@ -334,7 +334,7 @@
 <LM>w#w-mf930702-003-p2s2w17</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf930702-003-p2s2w18">
 <src.rf>manual</src.rf>

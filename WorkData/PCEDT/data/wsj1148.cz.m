@@ -5218,7 +5218,7 @@
 <LM>w#w-wsj1148-001-p1s15W27</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1148-001-p1s15W28-Ta">
 <src.rf>tagger-a</src.rf>

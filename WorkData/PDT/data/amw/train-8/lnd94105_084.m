@@ -122,7 +122,7 @@
 <LM>w#w-lnd94105-084-p1s1Cw8</LM>
 </w.rf>
 <form>Martina</form>
-<tag lemma="Martina_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Martina_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94105-084-p1s1Cw9">
 <src.rf>manual</src.rf>

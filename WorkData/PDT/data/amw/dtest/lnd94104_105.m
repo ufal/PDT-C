@@ -54,7 +54,7 @@
 </w.rf>
 <form>tom</form>
 <tag>
-<AM lemma="tom-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="tom-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
 </tag>
 </m>

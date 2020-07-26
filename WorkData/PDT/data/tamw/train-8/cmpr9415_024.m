@@ -255,7 +255,7 @@
 <LM>w#w-cmpr9415-024-p5s2w14</LM>
 </w.rf>
 <form>Technologicko</form>
-<tag lemma="technologický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="technologicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-cmpr9415-024-p5s2w15">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--6----------</AM>
-<AM lemma="více" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-024-p5s3w8">

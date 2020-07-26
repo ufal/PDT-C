@@ -523,7 +523,7 @@
 <LM>w#w-ln95043-097-p1s4w14</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="ccm_^(centimetr_krychlový)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95043-097-p1s4w15">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-ln95043-097-p1s4w18</LM>
 </w.rf>
 <form>kW</form>
-<tag lemma="kW-1`kilowatt" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilowatt" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-ln95043-097-p1s4w19">
 <src.rf>manual</src.rf>

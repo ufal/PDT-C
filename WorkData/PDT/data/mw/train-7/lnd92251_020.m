@@ -544,7 +544,7 @@
 <LM>w#w-lnd92251-020-p3s4w4</LM>
 </w.rf>
 <form>nejpočetněji</form>
-<tag lemma="početně_^(velké_množství)_(*1ý)" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="početně_^(*1ý)" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd92251-020-p3s4w5">
 <src.rf>manual</src.rf>
@@ -610,7 +610,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-020-p3s4w13">

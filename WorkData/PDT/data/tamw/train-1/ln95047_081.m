@@ -62,7 +62,7 @@
 <tag>
 <AM lemma="ZOO_:B" src="orig">NNFXX-----A----</AM>
 <AM lemma="zoo_:B_^(^zoologická_zahrada)" src="manual">NNFXX-----A----</AM>
-<AM lemma="zoo_^(zoologická_zahrada)" src="manual" selected="1">BNFXX-----A----</AM>
+<AM lemma="zoo" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -395,7 +395,7 @@
 <LM>w#w-ln95047-081-p2s3w4</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-ln95047-081-p2s3w5">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <form>ukradeno</form>
 <tag>
 <AM lemma="ukradnout" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="ukrást" src="auto" recommended="1" selected="1">VsNS----X-APP--</AM>
+<AM lemma="ukradnout" src="auto" recommended="1" selected="1">VsNS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln95047-081-p2s3w9">
@@ -617,7 +617,7 @@
 <tag>
 <AM lemma="ZOO_:B" src="orig">NNFXX-----A----</AM>
 <AM lemma="zoo_:B_^(zoologická_zahrada)" src="manual">NNFXX-----A----</AM>
-<AM lemma="ZOO" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="zoo" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-081-p2s3w32">

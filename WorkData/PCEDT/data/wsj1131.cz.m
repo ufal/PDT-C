@@ -50,7 +50,7 @@
 <LM>w#w-wsj1131-001-p1s0W3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1131-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1144,7 +1144,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1131-001-p1s3W5-Ta">
@@ -2255,7 +2255,7 @@
 <form>programem</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1131-001-p1s7W14-Ta">
@@ -3911,7 +3911,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1131-001-p1s11W30-Ta">
@@ -3979,7 +3979,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1131-001-p1s12W5-Ta">
@@ -4224,7 +4224,7 @@
 <LM>w#w-wsj1131-001-p1s12W22</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1131-001-p1s12W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4428,7 +4428,7 @@
 <LM>w#w-wsj1131-001-p1s13W7</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1131-001-p1s13W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5847,7 +5847,7 @@
 <tag>
 <AM lemma="politik" src="auto">NNMS2-----A----</AM>
 <AM lemma="politik" src="auto">NNMS4-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP5-----A----</AM>
@@ -7079,7 +7079,7 @@
 <LM>w#w-wsj1131-001-p1s22W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1131-001-p1s22W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7719,7 +7719,7 @@
 <tag>
 <AM lemma="politik" src="auto">NNMS2-----A----</AM>
 <AM lemma="politik" src="auto">NNMS4-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP5-----A----</AM>
@@ -7925,7 +7925,7 @@
 <LM>w#w-wsj1131-001-p1s26W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1131-001-p1s26W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8436,7 +8436,7 @@
 <LM>w#w-wsj1131-001-p1s27W12</LM>
 </w.rf>
 <form>vydělává</form>
-<tag lemma="vydělávat_^(kůže;peníze)_(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="vydělávat_^(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1131-001-p1s27W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8444,7 +8444,7 @@
 <LM>w#w-wsj1131-001-p1s27W13</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1131-001-p1s27W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10291,7 +10291,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1131-001-p1s34W7-Ta">
@@ -11061,7 +11061,7 @@
 <LM>w#w-wsj1131-001-p1s37W17</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1131-001-p1s37W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11135,7 +11135,7 @@
 <LM>w#w-wsj1131-001-p1s38W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1131-001-p1s38W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11217,7 +11217,7 @@
 <form>Programem</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1131-001-p1s38W9-Ta">
@@ -15046,7 +15046,7 @@
 <LM>w#w-wsj1131-001-p1s51W16</LM>
 </w.rf>
 <form>nesprávně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1N----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1N----</tag>
 </m>
 <m id="m-wsj1131-001-p1s51W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18664,7 +18664,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1131-001-p1s63W2-Ta">
@@ -19206,7 +19206,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1131-001-p1s65W2-Ta">

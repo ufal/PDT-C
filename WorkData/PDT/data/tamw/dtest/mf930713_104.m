@@ -841,7 +841,7 @@
 <LM>w#w-mf930713-104-p2s5w29</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930713-104-p2s5w30">
 <src.rf>manual</src.rf>

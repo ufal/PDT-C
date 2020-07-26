@@ -97,7 +97,7 @@
 <form>nechal</form>
 <tag>
 <AM lemma="nechat" src="orig">VpYS----R-AAI--</AM>
-<AM lemma="nechat" src="manual" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="nechat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95043-055-p2s1Bw8">
@@ -1854,7 +1854,7 @@
 <LM>w#w-ln95043-055-p4s3w15</LM>
 </w.rf>
 <form>zaštitují</form>
-<tag lemma="zaštiťovat_,s" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="zaštitovat_,s_^(^DD**zaštiťovat)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-055-p4s3w16">
 <src.rf>manual</src.rf>
@@ -2611,7 +2611,7 @@
 <LM>w#w-ln95043-055-p4s7w11</LM>
 </w.rf>
 <form>hledět</form>
-<tag lemma="hledět_^(dívat_se;_hledět_si_něčeho)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="hledět" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95043-055-p4s7w12">
 <src.rf>manual</src.rf>

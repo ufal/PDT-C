@@ -2738,7 +2738,7 @@
 <LM>w#w-wsj1920-001-p1s7W21</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1920-001-p1s7W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3227,7 +3227,7 @@
 <form>Hugem</form>
 <tag>
 <AM lemma="Hug_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Hugo-1_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Hugo_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNS7-----A----</AM>
 </tag>
 </m>

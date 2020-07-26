@@ -2400,7 +2400,7 @@
 <form>programem</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1646-001-p1s9W9-Ta">
@@ -4400,7 +4400,7 @@
 <LM>w#w-wsj1646-001-p1s16W23</LM>
 </w.rf>
 <form>vyzdvihli</form>
-<tag lemma="vyzdvihnout" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vyzdvihnout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1646-001-p1s16W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6971,7 +6971,7 @@
 <LM>w#w-wsj1646-001-p1s25W6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1646-001-p1s25W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -740,7 +740,7 @@
 <form>nalezena</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsQW----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsQW----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsQW----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-mf920924-010-p1s6w21">
@@ -767,7 +767,7 @@
 <LM>w#w-mf920924-010-p1s7w2</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf920924-010-p1s7w3">
 <src.rf>manual</src.rf>
@@ -955,7 +955,7 @@
 <form>nalezena</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsQW----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsQW----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsQW----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-mf920924-010-p1s8w8">
@@ -988,7 +988,7 @@
 <LM>w#w-mf920924-010-p1s8w11</LM>
 </w.rf>
 <form>kalhot</form>
-<tag lemma="kalhoty_^(pomn.)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="kalhoty" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920924-010-p1s8w12">
 <src.rf>manual</src.rf>

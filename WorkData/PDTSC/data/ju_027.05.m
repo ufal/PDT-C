@@ -2221,7 +2221,7 @@
 <LM>w#w-d1t1539-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m027-d1t1539-3">
 <w.rf>
@@ -4284,7 +4284,7 @@
 <LM>w#w-d1t1622-6</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m027-d-id117004-punct">
 <w.rf>
@@ -5623,7 +5623,7 @@
 <LM>w#w-d1t1720-20</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m027-d-m-d1e1715-x2-punct-punct">
 <w.rf>

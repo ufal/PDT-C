@@ -110,7 +110,7 @@
 <LM>w#w-vesm9212-048-p1s1w12</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-vesm9212-048-p1s1w13">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 <LM>w#w-vesm9212-048-p2s3w3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="orig" selected="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACQW------A----</tag>
 </m>
 <m id="m-vesm9212-048-p2s3w4">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <LM>w#w-vesm9212-048-p2s3w16</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-vesm9212-048-p2s3w17">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <tag>
 <AM lemma="tématika" src="orig">NNFS4-----A----</AM>
 <AM lemma="tematika_,x" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="tématika_,i_^(^DS**tematika)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="tématika" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-048-p2s3w21">
@@ -897,7 +897,7 @@
 <LM>w#w-vesm9212-048-p2s3w26</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-vesm9212-048-p2s3w27">
 <src.rf>manual</src.rf>

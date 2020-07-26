@@ -183,7 +183,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-162-p4s1w2">
@@ -347,7 +347,7 @@
 <form>GBP</form>
 <tag>
 <AM lemma="GBP_:B_^(Britská_libra,_mez._zkr.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GBP_^(Britská_libra,_mez._zkr.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GBP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-162-p6s1w3">
@@ -1217,7 +1217,7 @@
 <form>SEK</form>
 <tag>
 <AM lemma="SEK_:B_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SEK_^(švéd._koruna)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-162-p16s1w3">
@@ -1292,7 +1292,7 @@
 <form>DKK</form>
 <tag>
 <AM lemma="DKK_:B_^(dánská_koruna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DKK_^(dánská_koruna)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-162-p17s1w3">
@@ -1529,7 +1529,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-162-p20s1w2">

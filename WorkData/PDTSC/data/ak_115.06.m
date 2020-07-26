@@ -65,7 +65,7 @@
 <LM>w#w-d1t959-13</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m115-d1t959-14">
 <w.rf>
@@ -1099,7 +1099,7 @@
 <LM>w#w-d1t991-11</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m115-d1t991-12">
 <w.rf>
@@ -1622,7 +1622,7 @@
 <LM>w#w-d1t1029-9</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m115-d1t1029-10">
 <w.rf>
@@ -2079,7 +2079,7 @@
 <form>Mami</form>
 <tag>
 <AM lemma="máma" src="auto" recommended="1">NNFS1-----A---1</AM>
-<AM lemma="máma" src="auto" selected="1">NNFS5-----A---1</AM>
+<AM lemma="mami_,h" src="auto" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m115-d1e1020-x3-200">
@@ -2697,7 +2697,7 @@
 <LM>w#w-d1t1053-18</LM>
 </w.rf>
 <form>bála</form>
-<tag lemma="bát" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m115-225-226">
 <w.rf>
@@ -2720,7 +2720,7 @@
 <LM>w#w-d1t1055-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m115-d1t1055-4">
 <w.rf>
@@ -3118,7 +3118,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m115-d1t1065-15">
@@ -3947,7 +3947,7 @@
 <LM>w#w-d1t1076-12</LM>
 </w.rf>
 <form>jedou</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m115-d1t1076-13">
 <w.rf>
@@ -4077,7 +4077,7 @@
 <LM>w#w-d1t1078-8</LM>
 </w.rf>
 <form>Vzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m115-d1t1078-9">
 <w.rf>
@@ -4656,7 +4656,7 @@
 <LM>w#w-d1t1117-15</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m115-d-id124751-punct">
 <w.rf>
@@ -4789,7 +4789,7 @@
 <LM>w#w-d1t1119-15</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m115-d1t1122-1">
 <w.rf>

@@ -54,7 +54,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-003-p1s1w6">
@@ -951,7 +951,7 @@
 <LM>w#w-lnd92257-003-p5s2w28</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-lnd92257-003-p5s2w29">
 <src.rf>manual</src.rf>
@@ -1633,7 +1633,7 @@
 <LM>w#w-lnd92257-003-p6s1w17</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92257-003-p6s1w18">
 <src.rf>manual</src.rf>
@@ -1767,7 +1767,7 @@
 <LM>w#w-lnd92257-003-p6s2w3</LM>
 </w.rf>
 <form>buran</form>
-<tag lemma="buran-1_,h" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="buran" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-003-p6s2w4">
 <src.rf>manual</src.rf>
@@ -2112,7 +2112,7 @@
 <form>NBC</form>
 <tag>
 <AM lemma="NBC-4_:B_;m_^(National_Broadcasting_Corp.;_TV_spol.)" src="orig">NNFXX-----A----</AM>
-<AM lemma="NBC_;m_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto" recommended="1" selected="1">NNFXX-----A---b</AM>
+<AM lemma="NBC-88" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-003-p7s1w19">
@@ -2657,7 +2657,7 @@
 <LM>w#w-lnd92257-003-p7s3w4</LM>
 </w.rf>
 <form>vymysleli</form>
-<tag lemma="vymyslet" src="orig" selected="1">VpMP----R-AA---</tag>
+<tag lemma="vymyslit" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd92257-003-p7s3w5">
 <src.rf>manual</src.rf>
@@ -3224,7 +3224,7 @@
 <LM>w#w-lnd92257-003-p8s2w14</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-003-p8s2w15">
 <src.rf>manual</src.rf>
@@ -3304,7 +3304,7 @@
 <LM>w#w-lnd92257-003-p8s2w24</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92257-003-p8s2w25">
 <src.rf>manual</src.rf>
@@ -3339,7 +3339,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-003-p8s2w29">
@@ -4663,7 +4663,7 @@
 <LM>w#w-lnd92257-003-p9s4w17</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-003-p9s4w18">
 <src.rf>manual</src.rf>
@@ -4679,7 +4679,7 @@
 <LM>w#w-lnd92257-003-p9s4w19</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92257-003-p9s4w20">
 <src.rf>manual</src.rf>
@@ -5167,7 +5167,7 @@
 <LM>w#w-lnd92257-003-p10s2w30</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92257-003-p10s2w31">
 <src.rf>manual</src.rf>
@@ -5601,7 +5601,7 @@
 <LM>w#w-lnd92257-003-p12s2w4</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92257-003-p12s2w5">
 <src.rf>manual</src.rf>

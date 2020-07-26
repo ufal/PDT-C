@@ -323,7 +323,7 @@
 <LM>w#w-wsj1961-001-p1s1W5</LM>
 </w.rf>
 <form>nesprávně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1N----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1N----</tag>
 </m>
 <m id="m-wsj1961-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>

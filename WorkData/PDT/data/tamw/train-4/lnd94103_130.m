@@ -94,7 +94,7 @@
 <form>st</form>
 <tag>
 <AM lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig">NNIXX-----A----</AM>
-<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-130-p1s1w11">
@@ -181,7 +181,7 @@
 <form>st</form>
 <tag>
 <AM lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig">NNIXX-----A----</AM>
-<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-130-p1s1w21">
@@ -286,7 +286,7 @@
 <form>st</form>
 <tag>
 <AM lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig">NNIXX-----A----</AM>
-<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-130-p1s2w7">

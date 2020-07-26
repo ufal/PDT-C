@@ -180,7 +180,7 @@
 <LM>w#w-lnd92257-042-p3s2w10</LM>
 </w.rf>
 <form>punkerů</form>
-<tag lemma="punker" src="auto" selected="1">NNMP2-----A---2</tag>
+<tag lemma="punker_,s_^(^DD**panker)" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92257-042-p3s2w11">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <LM>w#w-lnd92257-042-p3s4w16</LM>
 </w.rf>
 <form>punker</form>
-<tag lemma="punker" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="punker_,s_^(^DD**panker)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-042-p3s4w17">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-lnd92257-042-p3s7w6</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd92257-042-p3s7w7">
 <src.rf>manual</src.rf>

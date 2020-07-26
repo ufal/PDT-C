@@ -27,7 +27,7 @@
 <LM>w#w-lnd91301-096-p1s1w2</LM>
 </w.rf>
 <form>zatápělo</form>
-<tag lemma="zatápět-1_^(rozdělávat_oheň_v_kamnech)" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="zatápět" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 </s>
 <s id="m-lnd91301-096-p2s1">
@@ -71,7 +71,7 @@
 <LM>w#w-lnd91301-096-p3s1w3</LM>
 </w.rf>
 <form>zatopilo</form>
-<tag lemma="zatopit-1_^(udělat_teplo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="zatopit_^(zaplavit_i_udělat_teplo)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-096-p3s1w4">
 <src.rf>manual</src.rf>
@@ -81,7 +81,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd91301-096-p3s1w5">
@@ -784,7 +784,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-096-p3s4w6">
@@ -812,7 +812,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-096-p3s4w9">
@@ -971,7 +971,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SSSR_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-096-p3s6w6">
@@ -1258,7 +1258,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-096-p3s8w15">
@@ -1539,7 +1539,7 @@
 <LM>w#w-lnd91301-096-p3s9w7</LM>
 </w.rf>
 <form>snů</form>
-<tag lemma="sen" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd91301-096-p3s9w8">
 <src.rf>manual</src.rf>

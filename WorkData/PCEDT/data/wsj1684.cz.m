@@ -609,7 +609,7 @@
 <LM>w#w-wsj1684-001-p1s1W21</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m-wsj1684-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3139,7 +3139,7 @@
 <LM>w#w-wsj1684-001-p1s8W24</LM>
 </w.rf>
 <form>katamaranem</form>
-<tag lemma="katamaran" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag lemma="katamaran_,s_^(^DD**katamarán)" src="auto" recommended="1">NNIS7-----A----</tag>
 </m>
 <m id="m-wsj1684-001-p1s8W25-Ta">
 <src.rf>tagger-a</src.rf>

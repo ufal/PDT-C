@@ -1169,7 +1169,7 @@
 <LM>w#w-d1t3405-5</LM>
 </w.rf>
 <form>řikali</form>
-<tag lemma="říkat" src="auto" recommended="1">VpMP----R-AA--6</tag>
+<tag lemma="řikat_,h_^(^GC**říkat)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m044-d1e3400-x2-219">
 <w.rf>
@@ -3305,7 +3305,7 @@
 <LM>w#w-d1t3591-11</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m044-d1e3584-x2-320">
 <w.rf>
@@ -4875,7 +4875,7 @@
 <LM>w#w-d1t3681-8</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m044-d1t3681-9">
 <w.rf>

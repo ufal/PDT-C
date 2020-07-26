@@ -218,7 +218,7 @@
 <LM>w#w-d1t597-6</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m020-d-id82831-punct">
 <w.rf>
@@ -1406,7 +1406,7 @@
 <LM>w#w-d1t640-2</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m020-d1t640-3">
 <w.rf>
@@ -1723,7 +1723,7 @@
 <LM>w#w-d1t648-10</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m020-d1t648-12">
 <w.rf>
@@ -2038,7 +2038,7 @@
 <LM>w#w-d1t653-12</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m020-d1t653-14">
 <w.rf>
@@ -2776,7 +2776,7 @@
 <LM>w#w-d1t677-5</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m020-d1t679-1">
 <w.rf>
@@ -3308,7 +3308,7 @@
 <LM>w#w-d1t690-4</LM>
 </w.rf>
 <form>jedla</form>
-<tag lemma="jíst_^(konzumovat_jídlo)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jíst" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m020-649-651">
 <w.rf>

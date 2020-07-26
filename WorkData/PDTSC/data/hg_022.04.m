@@ -859,7 +859,7 @@
 <LM>w#w-d1t1279-14</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m022-1116-1118">
 <w.rf>
@@ -1127,7 +1127,7 @@
 <LM>w#w-d1t1283-5</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m022-d1t1283-6">
 <w.rf>
@@ -1470,7 +1470,7 @@
 <LM>w#w-d1t1312-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m022-d1t1312-3">
 <w.rf>
@@ -2499,7 +2499,7 @@
 <LM>w#w-d1t1373-3</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m022-d1t1373-4">
 <w.rf>
@@ -2632,7 +2632,7 @@
 <LM>w#w-d1t1379-8</LM>
 </w.rf>
 <form>nejradši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------3A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m022-d1t1379-9">
 <w.rf>
@@ -2927,7 +2927,7 @@
 <LM>w#w-d1t1418-8</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m022-1286-1288">
 <w.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-ln95044-007-p1s1w2</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-007-p1s1w3">
 <src.rf>manual</src.rf>
@@ -296,7 +296,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--7----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-007-p3s1w7">
@@ -361,7 +361,7 @@
 <LM>w#w-ln95044-007-p3s1w14</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-007-p3s1w15">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-007-p3s1w25">
@@ -790,7 +790,7 @@
 <LM>w#w-ln95044-007-p4s2w2</LM>
 </w.rf>
 <form>zaměstnávaly</form>
-<tag lemma="zaměstnávat-1_^(všeob._význam:_činnost,_zaměstnání)_(*6at-1)" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="zaměstnávat_^(*4at)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95044-007-p4s2w3">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 <LM>w#w-ln95044-007-p4s2w5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95044-007-p4s2w6">
 <src.rf>manual</src.rf>

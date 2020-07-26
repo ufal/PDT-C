@@ -725,7 +725,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -5190,7 +5190,7 @@
 <LM>w#w-wsj0592-001-p1s18W21</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m-wsj0592-001-p1s18W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6855,7 +6855,7 @@
 <LM>w#w-wsj0592-001-p1s24W11</LM>
 </w.rf>
 <form>raději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0592-001-p1s24W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10176,7 +10176,7 @@
 <LM>w#w-wsj0592-001-p1s35W4</LM>
 </w.rf>
 <form>nerada</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------N----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------N----</tag>
 </m>
 <m id="m-wsj0592-001-p1s35W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10942,7 +10942,7 @@
 <LM>w#w-wsj0592-001-p1s38W4</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0592-001-p1s38W5-Ta">
 <src.rf>tagger-a</src.rf>

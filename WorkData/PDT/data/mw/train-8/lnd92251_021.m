@@ -790,7 +790,7 @@
 <LM>w#w-lnd92251-021-p3s6w4</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-021-p3s6w5">
 <src.rf>manual</src.rf>

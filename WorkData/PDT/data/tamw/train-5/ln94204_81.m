@@ -312,7 +312,7 @@
 <AM lemma="UNESCO_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Unesco_:B_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="UNESCO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UNESCO_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-81-p2s2w2">
@@ -478,7 +478,7 @@
 <LM>w#w-ln94204-81-p2s3w9</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94204-81-p2s3w10">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-ln94204-81-p2s3w11</LM>
 </w.rf>
 <form>bavorsko</form>
-<tag lemma="bavorský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="bavorsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94204-81-p2s3w12">
 <src.rf>manual</src.rf>

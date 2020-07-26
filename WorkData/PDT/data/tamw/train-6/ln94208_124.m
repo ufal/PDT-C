@@ -217,7 +217,7 @@
 <LM>w#w-ln94208-124-p2s1Cw4</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-124-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -241,7 +241,7 @@
 <LM>w#w-ln94208-124-p2s1Cw7</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-124-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-ln94208-124-p2s2w5</LM>
 </w.rf>
 <form>mířil</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-124-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1541,7 +1541,7 @@
 <LM>w#w-ln94208-124-p4s2w7</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-124-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1607,7 +1607,7 @@
 <LM>w#w-ln94208-124-p4s3w1</LM>
 </w.rf>
 <form>Schalke</form>
-<tag lemma="Schalke_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Schalke_;G_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94208-124-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1820,7 +1820,7 @@
 <LM>w#w-ln94208-124-p4s4w6</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-124-p4s4w7">
 <src.rf>manual</src.rf>
@@ -1916,7 +1916,7 @@
 <LM>w#w-ln94208-124-p4s4w18</LM>
 </w.rf>
 <form>přivezl</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="přivézt" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-124-p4s4w19">
 <src.rf>manual</src.rf>

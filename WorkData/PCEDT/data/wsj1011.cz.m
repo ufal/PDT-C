@@ -2728,7 +2728,7 @@
 <LM>w#w-wsj1011-001-p1s7W16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1011-001-p1s7W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2807,7 +2807,7 @@
 <LM>w#w-wsj1011-001-p1s8W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj1011-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>

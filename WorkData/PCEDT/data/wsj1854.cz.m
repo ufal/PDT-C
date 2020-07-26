@@ -1770,7 +1770,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -1947,7 +1947,7 @@
 <LM>w#w-wsj1854-001-p1s5W8</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1854-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6331,7 +6331,7 @@
 <LM>w#w-wsj1854-001-p1s16W14</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1854-001-p1s16W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6736,7 +6736,7 @@
 <LM>w#w-wsj1854-001-p1s18W3</LM>
 </w.rf>
 <form>zasaženy</form>
-<tag lemma="zasáhnout" src="auto" recommended="1">VsTP----X-APP--</tag>
+<tag lemma="zasáhnout" src="auto" recommended="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-wsj1854-001-p1s18W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6917,7 +6917,7 @@
 <LM>w#w-wsj1854-001-p1s18W18</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1854-001-p1s18W19-Ta">
 <src.rf>tagger-a</src.rf>

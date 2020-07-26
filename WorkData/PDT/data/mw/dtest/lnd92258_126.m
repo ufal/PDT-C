@@ -61,7 +61,7 @@
 <LM>w#w-lnd92258-126-p2s1w3</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ber-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92258-126-p2s1w4">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <LM>w#w-lnd92258-126-p2s3w12</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-126-p2s3w13">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-lnd92258-126-p2s5w13</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-126-p2s5w14">
 <src.rf>manual</src.rf>

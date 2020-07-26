@@ -843,7 +843,7 @@
 <LM>w#w-d1t2537-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m138-d1t2537-4">
 <w.rf>
@@ -934,7 +934,7 @@
 <LM>w#w-d1t2547-2</LM>
 </w.rf>
 <form>Koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m138-d1t2547-1">
 <w.rf>
@@ -1300,7 +1300,7 @@
 </w.rf>
 <form>koupím</form>
 <tag>
-<AM lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VB-S---1P-AAP--</AM>
+<AM lemma="koupit" src="auto" recommended="1">VB-S---1P-AAP--</AM>
 <AM lemma="koupě_^(př._byla_to_dobrá_koupě)" src="auto">NNFP3-----A----</AM>
 </tag>
 </m>
@@ -1740,7 +1740,7 @@
 </w.rf>
 <form>koupím</form>
 <tag>
-<AM lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VB-S---1P-AAP--</AM>
+<AM lemma="koupit" src="auto" recommended="1">VB-S---1P-AAP--</AM>
 <AM lemma="koupě_^(př._byla_to_dobrá_koupě)" src="auto">NNFP3-----A----</AM>
 </tag>
 </m>
@@ -2612,7 +2612,7 @@
 <LM>w#w-d1t2685-19</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m138-147-148">
 <w.rf>
@@ -2758,7 +2758,7 @@
 <LM>w#w-d1t2702-3</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m138-152-163">
 <w.rf>
@@ -2946,7 +2946,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m138-d1t2718-8">
@@ -3976,7 +3976,7 @@
 <LM>w#w-d1t2810-2</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m138-d1t2810-4">
 <w.rf>
@@ -4022,7 +4022,7 @@
 <LM>w#w-d1t2810-10</LM>
 </w.rf>
 <form>myslel</form>
-<tag lemma="myslet" src="auto" recommended="1">VpYS----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m138-d-id126302-punct">
 <w.rf>
@@ -4302,14 +4302,14 @@
 <LM>w#w-d1t2823-13</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m138-d1t2823-14">
 <w.rf>
 <LM>w#w-d1t2823-14</LM>
 </w.rf>
 <form>myslet</form>
-<tag lemma="myslet" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="myslit" src="auto" recommended="1">Vf--------A-I-1</tag>
 </m>
 <m id="m138-274-288">
 <w.rf>
@@ -4356,7 +4356,7 @@
 <LM>w#w-d1t2825-6</LM>
 </w.rf>
 <form>vzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m138-d1t2825-7">
 <w.rf>

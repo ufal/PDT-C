@@ -247,7 +247,7 @@
 <LM>w#w-wsj2019-001-p1s0W18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2019-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -938,7 +938,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -1275,7 +1275,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2019-001-p1s4W13-Ta">
@@ -1906,7 +1906,7 @@
 <LM>w#w-wsj2019-001-p1s7W15</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2019-001-p1s7W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2634,7 +2634,7 @@
 <LM>w#w-wsj2019-001-p1s11W7</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m-wsj2019-001-p1s11W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2770,7 +2770,7 @@
 <LM>w#w-wsj2019-001-p1s11W21</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m-wsj2019-001-p1s11W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4243,7 +4243,7 @@
 <form>zmátly</form>
 <tag>
 <AM lemma="zmást" src="auto">VpTP----R-AAP--</AM>
-<AM lemma="zmátnout_,s" src="auto" recommended="1">VpTP----R-AAP-1</AM>
+<AM lemma="zmátnout" src="auto" recommended="1">VpTP----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-wsj2019-001-p1s19W14-Ta">
@@ -4406,7 +4406,7 @@
 <LM>w#w-wsj2019-001-p1s20W6</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj2019-001-p1s20W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6367,7 +6367,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2019-001-p1s29W13-Ta">

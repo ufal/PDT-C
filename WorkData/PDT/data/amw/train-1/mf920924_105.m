@@ -53,7 +53,7 @@
 <LM>w#w-mf920924-105-p2s1w3</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920924-105-p2s1w4">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920924-105-p4s2w17">
@@ -735,7 +735,7 @@
 <LM>w#w-mf920924-105-p5s1w3</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-105-p5s1w4">
 <src.rf>manual</src.rf>

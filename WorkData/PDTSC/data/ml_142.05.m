@@ -187,7 +187,7 @@
 <LM>w#w-d1t623-8</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m142-d1t623-6">
 <w.rf>
@@ -2460,7 +2460,7 @@
 <LM>w#w-d1t664-10</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m142-d1t664-11">
 <w.rf>
@@ -3957,7 +3957,7 @@
 <LM>w#w-d1t695-16</LM>
 </w.rf>
 <form>uměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m142-d1t695-17">
 <w.rf>
@@ -4197,7 +4197,7 @@
 <LM>w#w-d1t695-56</LM>
 </w.rf>
 <form>uměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m142-496-497">
 <w.rf>
@@ -4843,7 +4843,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m142-528-542">
@@ -5244,7 +5244,7 @@
 <LM>w#w-d1t722-8</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m142-562-563">
 <w.rf>
@@ -5816,7 +5816,7 @@
 <AM lemma="přeložit-2_:W_^(přehnout)" src="auto">VsYS---XX-AP---</AM>
 <AM lemma="přeložit-3_:W_^(z_jazyka)" src="auto" recommended="1">VsYS---XX-AP---</AM>
 <AM lemma="přeložit-3_:W_" src="manual">VsYS---XX-AP---</AM>
-<AM lemma="přeložit-3" src="manual" selected="1">VsYS----X-APP--</AM>
+<AM lemma="přeložit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m142-d1t730-27">

@@ -1291,7 +1291,7 @@
 <LM>w#w-ln95044-127-p4s3w6</LM>
 </w.rf>
 <form>nechalo</form>
-<tag lemma="nechat" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-127-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1447,7 +1447,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-127-p5s1w13">
@@ -1606,7 +1606,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln95044-127-p5s2w14">
@@ -1626,7 +1626,7 @@
 <tag>
 <AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
 <AM lemma="režie" src="manual">NNFXX-----A---8</AM>
-<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95044-127-p5s2w16">
@@ -1645,7 +1645,7 @@
 <form>o</form>
 <tag>
 <AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
-<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95044-127-p5s2w18">
@@ -1857,7 +1857,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-127-p5s3w17">
@@ -1874,7 +1874,7 @@
 <LM>w#w-ln95044-127-p5s3w18</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-127-p5s3w19">
 <src.rf>manual</src.rf>

@@ -51,7 +51,7 @@
 <LM>w#w-mf920901-107-p1s1w5</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČSFR_;G_^(Čs._federativní_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-107-p2s1">
@@ -307,7 +307,7 @@
 <LM>w#w-mf920901-107-p2s3w3</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920901-107-p2s3w4">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-mf920901-107-p2s3w13</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-mf920901-107-p2s3w14">
 <src.rf>manual</src.rf>

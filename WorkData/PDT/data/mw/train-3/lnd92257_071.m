@@ -103,7 +103,7 @@
 <LM>w#w-lnd92257-071-p3s1w8</LM>
 </w.rf>
 <form>Strženi</form>
-<tag lemma="strhnout" src="orig" selected="1">VsMP----X-APP--</tag>
+<tag lemma="strhnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-lnd92257-071-p3s1w9">
 <src.rf>manual</src.rf>
@@ -349,7 +349,7 @@
 <LM>w#w-lnd92257-071-p3s2w23</LM>
 </w.rf>
 <form>strženi</form>
-<tag lemma="strhnout" src="orig" selected="1">VsMP----X-APP--</tag>
+<tag lemma="strhnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-lnd92257-071-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1417,7 +1417,7 @@
 <LM>w#w-lnd92257-071-p3s9w6</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92257-071-p3s9w7">
 <src.rf>manual</src.rf>
@@ -1719,7 +1719,7 @@
 <form>Kdekoliv</form>
 <tag>
 <AM lemma="kdekoliv" src="orig">Db-------------</AM>
-<AM lemma="kdekoli" src="auto" recommended="1" selected="1">Db------------1</AM>
+<AM lemma="kdekoliv_,s_^(^DD**kdekoli)" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-071-p3s11w2">
@@ -2261,7 +2261,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-071-p3s13w16">
@@ -2722,7 +2722,7 @@
 <LM>w#w-lnd92257-071-p3s15w16</LM>
 </w.rf>
 <form>vizuálně</form>
-<tag lemma="vizuálně_,s_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="vizuálně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92257-071-p3s15w17">
 <src.rf>manual</src.rf>

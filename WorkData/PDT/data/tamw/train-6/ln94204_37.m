@@ -70,7 +70,7 @@
 </w.rf>
 <form>mag</form>
 <tag>
-<AM lemma="mag-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="mag-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -98,7 +98,7 @@
 <LM>w#w-ln94204-37-p2s1Bw1</LM>
 </w.rf>
 <form>Litotryptorem</form>
-<tag lemma="litotryptor_;m" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="litotryptor" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94204-37-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-ln94204-37-p2s2w28</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln94204-37-p2s2w29">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <form>MUDr</form>
 <tag>
 <AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-37-p2s4w10">
@@ -798,7 +798,7 @@
 <LM>w#w-ln94204-37-p2s4w19</LM>
 </w.rf>
 <form>nadšeni</form>
-<tag lemma="nadchnout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="nadchnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-ln94204-37-p2s4w20">
 <src.rf>manual</src.rf>

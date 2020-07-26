@@ -12,7 +12,7 @@
 <LM>w#w-d1t2065-1</LM>
 </w.rf>
 <form>Nejradši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------3A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m045-d1t2065-2">
 <w.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-d1t2067-28</LM>
 </w.rf>
 <form>Slovák</form>
-<tag lemma="Slovák_;E" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m045-113-131">
 <w.rf>
@@ -2494,7 +2494,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m045-d-m-d1e2222-x2-punct-punct">
@@ -2640,7 +2640,7 @@
 <form>prvně</form>
 <tag>
 <AM lemma="prvně" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="prvně_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="prvně" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m045-d1t2241-2">
@@ -2751,7 +2751,7 @@
 <LM>w#w-d1t2241-16</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m045-d1t2241-19">
 <w.rf>
@@ -3058,7 +3058,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m045-d-id127266-punct">

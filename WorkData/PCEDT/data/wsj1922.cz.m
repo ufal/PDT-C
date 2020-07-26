@@ -1869,7 +1869,7 @@
 <LM>w#w-wsj1922-001-p1s5W16</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1922-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3527,7 +3527,7 @@
 <LM>w#w-wsj1922-001-p1s11W15</LM>
 </w.rf>
 <form>nedotčena</form>
-<tag lemma="dotknout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="auto" recommended="1">VsQW----X-NPP--</tag>
+<tag lemma="dotknout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="auto" recommended="1">VsQW----X-NPP-1</tag>
 </m>
 <m id="m-wsj1922-001-p1s11W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5118,7 +5118,7 @@
 <LM>w#w-wsj1922-001-p1s19W2</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1922-001-p1s19W3-Ta">
 <src.rf>tagger-a</src.rf>

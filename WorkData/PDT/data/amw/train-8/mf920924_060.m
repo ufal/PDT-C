@@ -444,7 +444,7 @@
 <LM>w#w-mf920924-060-p2s3w1</LM>
 </w.rf>
 <form>Dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-060-p2s3w2">
 <src.rf>manual</src.rf>
@@ -1237,7 +1237,7 @@
 <LM>w#w-mf920924-060-p2s7w15</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-mf920924-060-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1931,7 +1931,7 @@
 <LM>w#w-mf920924-060-p2s12w6</LM>
 </w.rf>
 <form>Samaru</form>
-<tag lemma="Samara-2_;m_^(vozidlo)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Samara_;G_;Y_;m_^(vozidlo;;město;jméno)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920924-060-p2s12w7">
 <src.rf>manual</src.rf>
@@ -2141,7 +2141,7 @@
 <LM>w#w-mf920924-060-p2s14w3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920924-060-p2s14w4">
 <src.rf>manual</src.rf>

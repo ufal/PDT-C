@@ -300,7 +300,7 @@
 </w.rf>
 <form>koupím</form>
 <tag>
-<AM lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VB-S---1P-AAP--</AM>
+<AM lemma="koupit" src="auto" recommended="1">VB-S---1P-AAP--</AM>
 <AM lemma="koupě_^(př._byla_to_dobrá_koupě)" src="auto">NNFP3-----A----</AM>
 </tag>
 </m>
@@ -1163,7 +1163,7 @@
 <LM>w#w-d1t1010-11</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m126-d1t1010-12">
 <w.rf>
@@ -1924,7 +1924,7 @@
 <LM>w#w-d1t1036-45</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m126-d1t1036-46">
 <w.rf>
@@ -2466,7 +2466,7 @@
 </w.rf>
 <form>sexem</form>
 <tag>
-<AM lemma="sex" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="sex-1" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="sexus" src="auto">NNIS7-----A----</AM>
 </tag>
 </m>
@@ -2677,7 +2677,7 @@
 <LM>w#w-d1t1066-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m126-d-id107506-punct">
 <w.rf>
@@ -2852,7 +2852,7 @@
 <LM>w#w-d1t1072-19</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m126-1766-1768">
 <w.rf>
@@ -2877,7 +2877,7 @@
 <LM>w#w-d1t1074-2</LM>
 </w.rf>
 <form>radši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m126-d1t1078-2">
 <w.rf>
@@ -2977,7 +2977,7 @@
 <LM>w#w-d1t1078-11</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m126-d-m-d1e1067-x2-punct-punct">
 <w.rf>
@@ -3135,7 +3135,7 @@
 <LM>w#w-d1t1089-4</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m126-d1t1089-5">
 <w.rf>
@@ -3183,7 +3183,7 @@
 <LM>w#w-d1t1091-5</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m126-d1t1091-6">
 <w.rf>
@@ -3862,7 +3862,7 @@
 <LM>w#w-d1t1102-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m126-d1t1102-3">
 <w.rf>
@@ -3931,7 +3931,7 @@
 <LM>w#w-d1t1108-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m126-d1t1108-5">
 <w.rf>
@@ -4060,7 +4060,7 @@
 <LM>w#w-d1t1110-16</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m126-d1t1110-17">
 <w.rf>
@@ -4198,7 +4198,7 @@
 <LM>w#w-1872-1903</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m126-1872-1902">
 <w.rf>
@@ -4224,7 +4224,7 @@
 <LM>w#w-1872-1891</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m126-1872-1890">
 <w.rf>
@@ -4278,7 +4278,7 @@
 <LM>w#w-1872-1886</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m126-1872-1885">
 <w.rf>
@@ -4598,7 +4598,7 @@
 <LM>w#w-d1t1123-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m126-d1t1123-3">
 <w.rf>
@@ -4655,7 +4655,7 @@
 <LM>w#w-d1t1127-3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m126-d1t1127-4">
 <w.rf>
@@ -4762,7 +4762,7 @@
 <LM>w#w-d1t1130-3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m126-d-m-d1e1103-x3-punct-punct">
 <w.rf>

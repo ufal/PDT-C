@@ -157,7 +157,7 @@
 <LM>w#w-lnd92256-015-p3s2w7</LM>
 </w.rf>
 <form>handicapem</form>
-<tag lemma="handicap" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="handicap_,s_^(^DD**hendikep)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92256-015-p3s2w8">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-lnd92256-015-p3s2w9</LM>
 </w.rf>
 <form>americko</form>
-<tag lemma="americký" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="americko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92256-015-p3s2w10">
 <src.rf>manual</src.rf>
@@ -894,7 +894,7 @@
 <LM>w#w-lnd92256-015-p3s6w9</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-lnd92256-015-p3s6w10">
 <src.rf>manual</src.rf>
@@ -1623,7 +1623,7 @@
 <LM>w#w-lnd92256-015-p3s9w31</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92256-015-p3s9w32">
 <src.rf>manual</src.rf>
@@ -1681,7 +1681,7 @@
 <form>ing</form>
 <tag>
 <AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="ing_^(inženýr)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="ing_^(inženýr)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-015-p3s9w39">

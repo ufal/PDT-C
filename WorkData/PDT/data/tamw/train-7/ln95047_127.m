@@ -911,7 +911,7 @@
 <LM>w#w-ln95047-127-p3s3w21</LM>
 </w.rf>
 <form>managementem</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95047-127-p3s3w22">
 <src.rf>manual</src.rf>
@@ -1375,7 +1375,7 @@
 <form>mil</form>
 <tag>
 <AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln95047-127-p4s2w10">

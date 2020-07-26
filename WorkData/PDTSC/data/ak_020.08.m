@@ -1589,7 +1589,7 @@
 <LM>w#w-d1t1654-4</LM>
 </w.rf>
 <form>sekretářku</form>
-<tag lemma="sekretářka_^(*2)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="sekretářka-2_^(*4-2)" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m020-1106-967">
 <w.rf>
@@ -1644,7 +1644,7 @@
 <LM>w#w-d1t1656-3</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m020-d1t1656-4">
 <w.rf>
@@ -2252,7 +2252,7 @@
 <LM>w#w-d1t1688-11</LM>
 </w.rf>
 <form>kamkoliv</form>
-<tag lemma="kamkoli" src="auto" recommended="1">Db------------1</tag>
+<tag lemma="kamkoliv_,s_^(^DD**kamkoli)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m020-d1t1688-13">
 <w.rf>
@@ -2717,7 +2717,7 @@
 <LM>w#w-d1t1717-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m020-d1t1717-4">
 <w.rf>
@@ -3254,7 +3254,7 @@
 <LM>w#w-d1t1755-7</LM>
 </w.rf>
 <form>Nejdřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m020-d1t1755-6">
 <w.rf>
@@ -3402,7 +3402,7 @@
 <LM>w#w-d1t1766-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m020-d1t1766-2">
 <w.rf>
@@ -3807,7 +3807,7 @@
 </w.rf>
 <form>zatopili</form>
 <tag>
-<AM lemma="zatopit-1_^(udělat_teplo)" src="auto" recommended="1">VpMP----R-AAP--</AM>
+<AM lemma="zatopit_^(zaplavit_i_udělat_teplo)" src="auto" recommended="1">VpMP----R-AAP--</AM>
 <AM lemma="zatopit-2_:W_^(zaplavit)" src="auto">VpMP---XR-AA---</AM>
 </tag>
 </m>
@@ -4245,7 +4245,7 @@
 <LM>w#w-d1t1786-24</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m020-d1t1786-25">
 <w.rf>
@@ -4422,7 +4422,7 @@
 <LM>w#w-d1t1792-9</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m020-d1t1792-10">
 <w.rf>
@@ -4602,7 +4602,7 @@
 <LM>w#w-d1t1797-3</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m020-d1t1797-4">
 <w.rf>
@@ -4689,7 +4689,7 @@
 </w.rf>
 <form>zatopit</form>
 <tag>
-<AM lemma="zatopit-1_^(udělat_teplo)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="zatopit_^(zaplavit_i_udělat_teplo)" src="auto" recommended="1">Vf--------A-P--</AM>
 <AM lemma="zatopit-2_:W_^(zaplavit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -4975,7 +4975,7 @@
 </w.rf>
 <form>Nejvíc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A---1</AM>
 <AM lemma="nejvíce" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -4994,7 +4994,7 @@
 <LM>w#w-d1t1812-4</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m020-d1t1812-5">
 <w.rf>
@@ -5087,7 +5087,7 @@
 </w.rf>
 <form>nezatopil</form>
 <tag>
-<AM lemma="zatopit-1_^(udělat_teplo)" src="auto" recommended="1">VpYS----R-NAP--</AM>
+<AM lemma="zatopit_^(zaplavit_i_udělat_teplo)" src="auto" recommended="1">VpYS----R-NAP--</AM>
 <AM lemma="zatopit-2_:W_^(zaplavit)" src="auto">VpYS---XR-NA---</AM>
 </tag>
 </m>
@@ -5105,7 +5105,7 @@
 <LM>w#w-d1t1816-3</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m020-d1e1718-x6-1247">
 <w.rf>
@@ -5124,7 +5124,7 @@
 <LM>w#w-d1t1816-4</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m020-d1t1816-5">
 <w.rf>
@@ -5184,7 +5184,7 @@
 <LM>w#w-d1t1820-3</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m020-d1t1820-4">
 <w.rf>

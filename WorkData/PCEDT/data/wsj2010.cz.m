@@ -1486,7 +1486,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1698,7 +1698,7 @@
 <LM>w#w-wsj2010-001-p1s5W7</LM>
 </w.rf>
 <form>nemyslel</form>
-<tag lemma="myslet" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpYS----R-NAI-1</tag>
 </m>
 <m id="m-wsj2010-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2100,7 +2100,7 @@
 <LM>w#w-wsj2010-001-p1s6W34</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m-wsj2010-001-p1s6W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2706,7 +2706,7 @@
 <LM>w#w-wsj2010-001-p1s8W14</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m-wsj2010-001-p1s8W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4166,7 +4166,7 @@
 <LM>w#w-wsj2010-001-p1s11W30</LM>
 </w.rf>
 <form>navrženy</form>
-<tag lemma="navrhnout" src="auto" recommended="1">VsTP----X-APP--</tag>
+<tag lemma="navrhnout" src="auto" recommended="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-wsj2010-001-p1s11W31-Ta">
 <src.rf>tagger-a</src.rf>

@@ -680,7 +680,7 @@
 <LM>w#w-wsj2200-001-p1s0W46</LM>
 </w.rf>
 <form>spořitelen</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj2200-001-p1s0W47-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1133,7 +1133,7 @@
 <LM>w#w-wsj2200-001-p1s1W37</LM>
 </w.rf>
 <form>spořitelnu</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj2200-001-p1s1W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3208,7 +3208,7 @@
 <LM>w#w-wsj2200-001-p1s7W15</LM>
 </w.rf>
 <form>spořitelen</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj2200-001-p1s7W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4624,7 +4624,7 @@
 <LM>w#w-wsj2200-001-p1s11W18</LM>
 </w.rf>
 <form>spořitelnách</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m-wsj2200-001-p1s11W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4804,7 +4804,7 @@
 <LM>w#w-wsj2200-001-p1s12W3</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj2200-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4897,7 +4897,7 @@
 <LM>w#w-wsj2200-001-p1s12W13</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj2200-001-p1s12W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5187,7 +5187,7 @@
 <LM>w#w-wsj2200-001-p1s14W6</LM>
 </w.rf>
 <form>kdykoliv</form>
-<tag lemma="kdykoli" src="auto" recommended="1">Db------------1</tag>
+<tag lemma="kdykoliv_,s_^(^DD**kdykoli)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj2200-001-p1s14W7-Ta">
 <src.rf>tagger-a</src.rf>

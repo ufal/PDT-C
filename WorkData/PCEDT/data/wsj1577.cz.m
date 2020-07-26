@@ -674,7 +674,7 @@
 <LM>w#w-wsj1577-001-p1s1W6</LM>
 </w.rf>
 <form>spořitelnami</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj1577-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>

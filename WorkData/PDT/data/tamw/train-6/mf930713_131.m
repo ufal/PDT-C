@@ -449,7 +449,7 @@
 <LM>w#w-mf930713-131-p2s3w15</LM>
 </w.rf>
 <form>Železnic</form>
-<tag lemma="železnice" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="železnice_^(*3ík-1)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930713-131-p2s3w16">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-mf930713-131-p2s3w28</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930713-131-p2s3w29">
 <src.rf>manual</src.rf>

@@ -61,7 +61,7 @@
 <LM>w#w-ln94207-109-p2s1w2</LM>
 </w.rf>
 <form>sezonu</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94207-109-p2s1w3">
 <src.rf>manual</src.rf>
@@ -955,7 +955,7 @@
 <LM>w#w-ln94207-109-p2s5w22</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94207-109-p2s5w23">
 <src.rf>manual</src.rf>

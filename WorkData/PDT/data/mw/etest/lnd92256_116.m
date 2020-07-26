@@ -510,7 +510,7 @@
 <form>ČTK</form>
 <tag>
 <AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČTK_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-116-p3s3w27">
@@ -547,7 +547,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KSČ_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-116-p3s4w4">
@@ -647,7 +647,7 @@
 <LM>w#w-lnd92256-116-p3s4w15</LM>
 </w.rf>
 <form>stranám</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-lnd92256-116-p3s4w16">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-lnd92256-116-p3s4w26</LM>
 </w.rf>
 <form>devizách</form>
-<tag lemma="deviza" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="deviza_^(v_peněžnictví)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-lnd92256-116-p3s4w27">
 <src.rf>manual</src.rf>

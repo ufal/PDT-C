@@ -19,7 +19,7 @@
 <LM>w#w-mf920923-014-p1s1w1</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-014-p1s1w2">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-mf920923-014-p2s1w9</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-014-p2s1w10">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-mf920923-014-p2s4w1</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-014-p2s4w2">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-mf920923-014-p2s5w2</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-014-p2s5w3">
 <src.rf>manual</src.rf>

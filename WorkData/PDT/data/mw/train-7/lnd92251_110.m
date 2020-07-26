@@ -59,7 +59,7 @@
 <LM>w#w-lnd92251-110-p1s1w6</LM>
 </w.rf>
 <form>DNEM</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92251-110-p1s1w7">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-lnd92251-110-p3s2w14</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-110-p3s2w15">
 <src.rf>manual</src.rf>
@@ -2150,7 +2150,7 @@
 <LM>w#w-lnd92251-110-p6s4w7</LM>
 </w.rf>
 <form>pojede</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3F-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd92251-110-p6s4w8">
 <src.rf>manual</src.rf>
@@ -2192,7 +2192,7 @@
 <LM>w#w-lnd92251-110-p7s1w1</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Bohemians_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92251-110-p7s1w2">
 <src.rf>manual</src.rf>
@@ -2490,7 +2490,7 @@
 <LM>w#w-lnd92251-110-p7s2w4</LM>
 </w.rf>
 <form>nejspíše</form>
-<tag lemma="spíše" src="auto" selected="1">Dg-------3A----</tag>
+<tag lemma="nejspíš" src="auto" selected="1">TT------------1</tag>
 </m>
 <m id="m-lnd92251-110-p7s2w5">
 <src.rf>manual</src.rf>
@@ -4028,7 +4028,7 @@
 <LM>w#w-lnd92251-110-p9s4w8</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Bohemians_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92251-110-p9s4w9">
 <src.rf>manual</src.rf>
@@ -4190,7 +4190,7 @@
 <LM>w#w-lnd92251-110-p9s5w14</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-110-p9s5w15">
 <src.rf>manual</src.rf>
@@ -4358,7 +4358,7 @@
 <LM>w#w-lnd92251-110-p9s7w9</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92251-110-p9s7w10">
 <src.rf>manual</src.rf>
@@ -4472,7 +4472,7 @@
 <LM>w#w-lnd92251-110-p10s1w2</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ber-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92251-110-p10s1w3">
 <src.rf>manual</src.rf>
@@ -4488,7 +4488,7 @@
 <LM>w#w-lnd92251-110-p10s1w4</LM>
 </w.rf>
 <form>šv</form>
-<tag lemma="šv-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="šv-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92251-110-p10s1w5">
 <src.rf>manual</src.rf>

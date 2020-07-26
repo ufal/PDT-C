@@ -159,7 +159,7 @@
 <LM>w#w-mf920901-038-p2s2w12</LM>
 </w.rf>
 <form>nápravně</form>
-<tag lemma="nápravně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="nápravně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920901-038-p2s2w13">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-mf920901-038-p2s5w5</LM>
 </w.rf>
 <form>nápravně</form>
-<tag lemma="nápravně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="nápravně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920901-038-p2s5w6">
 <src.rf>manual</src.rf>
@@ -689,7 +689,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920901-038-p2s6w4">
@@ -837,7 +837,7 @@
 <LM>w#w-mf920901-038-p2s6w21</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920901-038-p2s6w22">
 <src.rf>manual</src.rf>

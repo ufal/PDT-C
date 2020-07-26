@@ -371,7 +371,7 @@
 <form>nalezena</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsQW----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsQW----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsQW----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-lnd92257-046-p3s3w8">
@@ -1161,7 +1161,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
+<AM lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-046-p3s7w26">
@@ -1170,7 +1170,7 @@
 <LM>w#w-lnd92257-046-p3s7w26</LM>
 </w.rf>
 <form>uzamčeny</form>
-<tag lemma="uzamknout" src="orig" selected="1">VsTP----X-AP---</tag>
+<tag lemma="uzamknout" src="orig" selected="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-lnd92257-046-p3s7w27">
 <src.rf>manual</src.rf>

@@ -211,7 +211,7 @@
 <LM>w#w-ln95049-060-p1s1w25</LM>
 </w.rf>
 <form>táhne</form>
-<tag lemma="táhnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="táhnout" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-060-p1s1w26">
 <src.rf>manual</src.rf>

@@ -110,7 +110,7 @@
 <LM>w#w-lnd94101-989-p1s1w12</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94101-989-p1s1w13">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-lnd94101-989-p1s3w7</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94101-989-p1s3w8">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <form>Rus</form>
 <tag>
 <AM lemma="Rusko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Rusko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Rusko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94101-989-p1s11Bw15">

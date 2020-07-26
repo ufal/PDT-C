@@ -64,7 +64,7 @@
 <LM>w#w-ln95040-072-p2s1w2</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-ln95040-072-p2s1w3">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <form>knock</form>
 <tag>
 <AM lemma="knock_,t" src="orig">NNIS4-----A----</AM>
-<AM lemma="knock-1_^(knock-out)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="knock_^(knock-out)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-072-p2s3w3">
@@ -1546,7 +1546,7 @@
 <LM>w#w-ln95040-072-p3s5w6</LM>
 </w.rf>
 <form>zastavit</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95040-072-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1655,7 +1655,7 @@
 <LM>w#w-ln95040-072-p3s6w9</LM>
 </w.rf>
 <form>myslel</form>
-<tag lemma="myslet" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag lemma="myslit" src="orig" selected="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m-ln95040-072-p3s6w10">
 <src.rf>manual</src.rf>
@@ -2093,7 +2093,7 @@
 <LM>w#w-ln95040-072-p4s3w14</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln95040-072-p4s3w15">
 <src.rf>manual</src.rf>
@@ -2459,7 +2459,7 @@
 <LM>w#w-ln95040-072-p4s6w14</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95040-072-p4s6w15">
 <src.rf>manual</src.rf>
@@ -3604,7 +3604,7 @@
 <LM>w#w-ln95040-072-p7s4w2</LM>
 </w.rf>
 <form>nebát</form>
-<tag lemma="bát" src="orig" selected="1">Vf--------N-I--</tag>
+<tag lemma="bát-1" src="orig" selected="1">Vf--------N-I--</tag>
 </m>
 <m id="m-ln95040-072-p7s4w3">
 <src.rf>manual</src.rf>
@@ -3830,7 +3830,7 @@
 <LM>w#w-ln95040-072-p7s5w15</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95040-072-p7s5w16">
 <src.rf>manual</src.rf>
@@ -3870,7 +3870,7 @@
 <LM>w#w-ln95040-072-p7s5w20</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95040-072-p7s5w21">
 <src.rf>manual</src.rf>

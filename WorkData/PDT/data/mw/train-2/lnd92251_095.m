@@ -137,7 +137,7 @@
 <LM>w#w-lnd92251-095-p1s1w15</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92251-095-p1s1w16">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <LM>w#w-lnd92251-095-p1s1w21</LM>
 </w.rf>
 <form>tištěn</form>
-<tag lemma="tisknout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="tisknout" src="orig" selected="1">VsYS----X-API-1</tag>
 </m>
 <m id="m-lnd92251-095-p1s1w22">
 <src.rf>manual</src.rf>

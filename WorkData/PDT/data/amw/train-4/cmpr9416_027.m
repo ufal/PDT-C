@@ -61,7 +61,7 @@
 <LM>w#w-cmpr9416-027-p3s1w4</LM>
 </w.rf>
 <form>neznámými</form>
-<tag lemma="neznámá_^(potkat_neznámého_[člověka])_(*1ý)" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="neznámá_^(*1ý)" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-cmpr9416-027-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <form>mld</form>
 <tag>
 <AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFXX---------b</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-027-p4s5w13">

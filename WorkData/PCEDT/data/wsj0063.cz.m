@@ -2601,7 +2601,7 @@
 <LM>w#w-wsj0063-001-p1s7W11</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0063-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2927,7 +2927,7 @@
 <LM>w#w-wsj0063-001-p1s9W3</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0063-001-p1s9W4-Ta">
 <src.rf>tagger-a</src.rf>

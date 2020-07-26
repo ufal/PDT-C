@@ -129,7 +129,7 @@
 <LM>w#w-d1t2555-16</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m050-d1t2555-17">
 <w.rf>
@@ -1194,14 +1194,14 @@
 <LM>w#w-d1t2602-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m050-d1t2602-4">
 <w.rf>
 <LM>w#w-d1t2602-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m050-d-id145580-punct">
 <w.rf>
@@ -1491,7 +1491,7 @@
 <LM>w#w-d1t2623-8</LM>
 </w.rf>
 <form>ortodontistka</form>
-<tag lemma="ortodontistka_^(stomatologický_specialista)_(*2a)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="ortodontistka_^(*2a)" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m050-d-m-d1e2597-x3-punct-punct">
 <w.rf>
@@ -1727,7 +1727,7 @@
 <LM>w#w-d1t2631-5</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m050-d1t2633-1">
 <w.rf>
@@ -1780,7 +1780,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m050-d1e2641-x2-262">
@@ -2306,7 +2306,7 @@
 <LM>w#w-d1t2685-12</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m050-d1t2685-9">
 <w.rf>
@@ -3922,7 +3922,7 @@
 <LM>w#w-d1t2776-4</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m050-d1t2776-5">
 <w.rf>
@@ -4324,7 +4324,7 @@
 <LM>w#w-d1t2799-4</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m050-d1t2799-1">
 <w.rf>

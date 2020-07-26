@@ -391,7 +391,7 @@
 <LM>w#w-ln94202-108-p3s1w5</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-108-p3s1w6">
 <src.rf>manual</src.rf>
@@ -958,7 +958,7 @@
 <LM>w#w-ln94202-108-p3s3w18</LM>
 </w.rf>
 <form>potřetí</form>
-<tag lemma="potřetí" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="potřetí" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94202-108-p3s3w19">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <LM>w#w-ln94202-108-p3s4w24</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-ln94202-108-p3s4w25">
 <src.rf>manual</src.rf>
@@ -1498,7 +1498,7 @@
 <LM>w#w-ln94202-108-p4s2w8</LM>
 </w.rf>
 <form>bál</form>
-<tag lemma="bát" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94202-108-p4s2w9">
 <src.rf>manual</src.rf>

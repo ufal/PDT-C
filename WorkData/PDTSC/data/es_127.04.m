@@ -1272,7 +1272,7 @@
 <LM>w#w-d1t909-8</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m127-d1t909-9">
 <w.rf>
@@ -3455,7 +3455,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m127-d1t999-5">
@@ -4048,7 +4048,7 @@
 <LM>w#w-d1t1019-6</LM>
 </w.rf>
 <form>moct</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">Vf--------A-I-1</tag>
+<tag lemma="moci" src="auto" recommended="1">Vf--------A-I-1</tag>
 </m>
 <m id="m127-d1t1019-7">
 <w.rf>
@@ -4102,7 +4102,7 @@
 <LM>w#w-d1t1019-14</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m127-67-81">
 <w.rf>
@@ -4212,7 +4212,7 @@
 <LM>w#w-d1t1021-11</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m127-d-id111102-punct">
 <w.rf>
@@ -5457,7 +5457,7 @@
 <LM>w#w-d1t1064-16</LM>
 </w.rf>
 <form>nemůžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m127-d1t1066-1">
 <w.rf>
@@ -5502,7 +5502,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m127-d1t1066-7">
@@ -5522,7 +5522,7 @@
 <form>hluboko</form>
 <tag>
 <AM lemma="hluboko" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="hluboko_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hluboko" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m127-167-185">
@@ -5939,7 +5939,7 @@
 <LM>w#w-d1t1081-1</LM>
 </w.rf>
 <form>Mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m127-d1t1081-2">
 <w.rf>
@@ -6422,7 +6422,7 @@
 <LM>w#w-d1t1095-15</LM>
 </w.rf>
 <form>Nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m127-d1t1095-12">
 <w.rf>
@@ -6867,7 +6867,7 @@
 <LM>w#w-d1t1114-7</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m127-d1t1114-8">
 <w.rf>
@@ -6906,7 +6906,7 @@
 <LM>w#w-d1t1116-2</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m127-d1t1116-1">
 <w.rf>
@@ -6971,7 +6971,7 @@
 <form>nejblíž</form>
 <tag>
 <AM lemma="blízko-1" src="auto" recommended="1">Dg-------3A----</AM>
-<AM lemma="blízko-1_^(*3ý)" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="blízko-1" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m127-d1t1116-13">

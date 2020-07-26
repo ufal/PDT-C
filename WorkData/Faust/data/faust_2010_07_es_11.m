@@ -413,7 +413,7 @@
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" recommended="1">VB-S---3P-AA---</AM>
 <AM lemma="stávat-3_:T_^(někdo/něco_stojí,_např._na_nohou)_(*5t-3)">VB-S---3P-AA---</AM>
 <AM lemma="stávat-4_:T_^(něco_stojí_peníze)_(*5t-4)">VB-S---3P-AA---</AM>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="es_11-SCzechM-p1081-s1-w8">
@@ -502,7 +502,7 @@
 <LM>w#w-es_11-SCzechM-p1082-s1-w7</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_11-SCzechM-p1082-s1-w8">
 <w.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-es_11-SCzechM-p1085-s1-w3</LM>
 </w.rf>
 <form>abys</form>
-<tag lemma="aby" recommended="1">J,-S---2-------</tag>
+<tag lemma="aby" recommended="1">J,-----------s-</tag>
 </m>
 <m id="es_11-SCzechM-p1085-s1-w4">
 <w.rf>
@@ -977,7 +977,7 @@
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--4----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--6----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--7----------</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="es_11-SCzechM-p1093-s1-w7">
@@ -1174,7 +1174,7 @@
 <LM>w#w-es_11-SCzechM-p1100-s1-w1</LM>
 </w.rf>
 <form>Rád</form>
-<tag lemma="rád" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" recommended="1">ACYS------A----</tag>
 </m>
 <m id="es_11-SCzechM-p1100-s1-w2">
 <w.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-es_11-SCzechM-p1100-s1-w11</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_11-SCzechM-p1100-s1-w12">
 <w.rf>
@@ -2131,7 +2131,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="es_11-SCzechM-p1114-s1-w20">
@@ -2501,7 +2501,7 @@
 <LM>w#w-es_11-SCzechM-p1128-s1-w7</LM>
 </w.rf>
 <form>Vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_11-SCzechM-p1128-s1-w8">
 <w.rf>
@@ -3686,7 +3686,7 @@
 <LM>w#w-es_11-SCzechM-p1151-s1-w19</LM>
 </w.rf>
 <form>&amp;</form>
-<tag lemma="&amp;amp;" recommended="1">Z:-------------</tag>
+<tag lemma="&amp;" recommended="1">Z:-------------</tag>
 </m>
 <m id="es_11-SCzechM-p1151-s1-w20">
 <w.rf>
@@ -4086,7 +4086,7 @@
 <LM>w#w-es_11-SCzechM-p1166-s1-w14</LM>
 </w.rf>
 <form>nejrovněji</form>
-<tag lemma="rovně_^(přímý,_stejný,_spravedlivý)_(*1ý)" recommended="1">Dg-------3A----</tag>
+<tag lemma="rovně_^(*1ý)" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="es_11-SCzechM-p1166-s1-w15">
 <w.rf>
@@ -4506,7 +4506,7 @@
 </w.rf>
 <form>níže</form>
 <tag>
-<AM lemma="nízko-1_^(níže,_než...)" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" recommended="1">Dg-------2A---1</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP1-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP4-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP5-----A----</AM>

@@ -901,7 +901,7 @@
 <LM>w#w-wsj0610-001-p1s5W13</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0610-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5249,7 +5249,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0610-001-p1s19W2-Ta">
@@ -5554,7 +5554,7 @@
 <LM>w#w-wsj0610-001-p1s19W27</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0610-001-p1s19W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8526,7 +8526,7 @@
 <LM>w#w-wsj0610-001-p1s29W28</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-wsj0610-001-p1s29W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10533,7 +10533,7 @@
 <LM>w#w-wsj0610-001-p1s37W9</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0610-001-p1s37W10-Ta">
 <src.rf>tagger-a</src.rf>

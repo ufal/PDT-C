@@ -41,7 +41,7 @@
 <AM lemma="nadávat-1_:T_^(spílat)_(*6at-1)" src="auto" recommended="1">VpYS---XR-AA---</AM>
 <AM lemma="nadávat-2_:T_^(obdařit,_dotovat)_(*6at-2)" src="auto">VpYS---XR-AA---</AM>
 <AM lemma="nadávat_:T" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="nadávat_^(spílat;;obdařit,_dotovat)_(*4at)" src="manual" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="nadávat_^(*4at)" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m994-d1t627-5">
@@ -3081,14 +3081,14 @@
 <LM>w#w-d1t853-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m994-d1t853-3">
 <w.rf>
 <LM>w#w-d1t853-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m994-d1t853-4">
 <w.rf>
@@ -4712,7 +4712,7 @@
 <form>Bellevue</form>
 <tag>
 <AM lemma="Bellevue_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Bellevue_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Bellevue_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m994-d1t944-12">

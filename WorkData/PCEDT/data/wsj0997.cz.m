@@ -1430,7 +1430,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0997-001-p1s2W39-Ta">
@@ -4465,7 +4465,7 @@
 <LM>w#w-wsj0997-001-p1s12W15</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0997-001-p1s12W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4873,7 +4873,7 @@
 <LM>w#w-wsj0997-001-p1s13W27</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0997-001-p1s13W28-Ta">
 <src.rf>tagger-a</src.rf>

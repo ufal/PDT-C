@@ -2214,7 +2214,7 @@
 <LM>w#w-wsj2398-001-p1s6W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj2398-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2630,7 +2630,7 @@
 <LM>w#w-wsj2398-001-p1s6W34</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj2398-001-p1s6W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3817,7 +3817,7 @@
 <LM>w#w-wsj2398-001-p1s10W9</LM>
 </w.rf>
 <form>hůř</form>
-<tag lemma="špatně" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="hůře" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj2398-001-p1s10W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3966,7 +3966,7 @@
 <LM>w#w-wsj2398-001-p1s10W19</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2398-001-p1s10W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3990,7 +3990,7 @@
 <LM>w#w-wsj2398-001-p1s10W21</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2398-001-p1s10W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3998,7 +3998,7 @@
 <LM>w#w-wsj2398-001-p1s10W22</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2398-001-p1s10W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5427,7 +5427,7 @@
 <LM>w#w-wsj2398-001-p1s15W27</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2398-001-p1s15W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6805,7 +6805,7 @@
 <LM>w#w-wsj2398-001-p1s20W30</LM>
 </w.rf>
 <form>zasažen</form>
-<tag lemma="zasáhnout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="zasáhnout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj2398-001-p1s20W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10053,7 +10053,7 @@
 <form>programem</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2398-001-p1s32W16-Ta">

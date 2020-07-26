@@ -241,7 +241,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920923-027-p2s1w26">
@@ -601,7 +601,7 @@
 <LM>w#w-mf920923-027-p3s1w5</LM>
 </w.rf>
 <form>tematicky</form>
-<tag lemma="tematicky_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="tematicky_^(^DD**tématicky)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920923-027-p3s1w6">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-mf920923-027-p3s3w3">
@@ -944,7 +944,7 @@
 <LM>w#w-mf920923-027-p3s3w5</LM>
 </w.rf>
 <form>míň</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-mf920923-027-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1231,7 +1231,7 @@
 <LM>w#w-mf920923-027-p3s5w9</LM>
 </w.rf>
 <form>akrylem</form>
-<tag lemma="akryl_;m" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="akryl" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf920923-027-p3s5w10">
 <src.rf>manual</src.rf>
@@ -2167,7 +2167,7 @@
 <LM>w#w-mf920923-027-p4s5w4</LM>
 </w.rf>
 <form>Pane</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS5-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-mf920923-027-p4s5w5">
 <src.rf>manual</src.rf>
@@ -2404,7 +2404,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
+<AM lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-027-p4s5w34">

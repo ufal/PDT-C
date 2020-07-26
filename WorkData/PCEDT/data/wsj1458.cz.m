@@ -169,7 +169,7 @@
 </w.rf>
 <form>vzplál</form>
 <tag>
-<AM lemma="vzplanout" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="vzplát" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="vzplát" src="auto">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -458,7 +458,7 @@
 <LM>w#w-wsj1458-001-p1s1W8</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1458-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -833,7 +833,7 @@
 <LM>w#w-wsj1458-001-p1s1W41</LM>
 </w.rf>
 <form>nalezen</form>
-<tag lemma="naleznout" src="auto" recommended="1">VsYS----X-API--</tag>
+<tag lemma="naleznout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj1458-001-p1s1W42-Ta">
 <src.rf>tagger-a</src.rf>

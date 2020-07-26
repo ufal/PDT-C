@@ -108,7 +108,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92256-013-p2s2w4">
@@ -135,7 +135,7 @@
 <form>r</form>
 <tag>
 <AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
-<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92256-013-p2s2w7">
@@ -154,7 +154,7 @@
 <form>o</form>
 <tag>
 <AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
-<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92256-013-p2s2w9">
@@ -382,7 +382,7 @@
 <LM>w#w-lnd92256-013-p2s3w6</LM>
 </w.rf>
 <form>vydáno</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92256-013-p2s3w7">
 <src.rf>manual</src.rf>

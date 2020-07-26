@@ -56,7 +56,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920924-122-p1s1w6">
@@ -309,7 +309,7 @@
 <form>pplk</form>
 <tag>
 <AM lemma="podplukovník_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="pplk_^(podplukovník)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="podplukovník" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920924-122-p2s3w11">
@@ -1040,7 +1040,7 @@
 <LM>w#w-mf920924-122-p2s9w18</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-mf920924-122-p2s9w19">
 <src.rf>manual</src.rf>

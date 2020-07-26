@@ -13,7 +13,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -747,7 +747,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" recommended="1">J^------------8</AM>
-<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2093-s1-w31">
@@ -1102,7 +1102,7 @@
 <LM>w#w-es_20-SCzechM-p2097-s1-w2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_20-SCzechM-p2097-s1-w3">
 <w.rf>
@@ -2482,7 +2482,7 @@
 <LM>w#w-es_20-SCzechM-p2133-s1-w1</LM>
 </w.rf>
 <form>Rád</form>
-<tag lemma="rád" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" recommended="1">ACYS------A----</tag>
 </m>
 <m id="es_20-SCzechM-p2133-s1-w2">
 <w.rf>
@@ -2491,7 +2491,7 @@
 <form>bych</form>
 <tag>
 <AM lemma="být" recommended="1">Vc-S---1-------</AM>
-<AM lemma="být" src="manual" selected="1">Vc-S---1----I--</AM>
+<AM lemma="být" src="manual" selected="1">Vc----------Ic-</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2133-s1-w3">
@@ -2918,7 +2918,7 @@
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--4----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--6----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--7----------</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2134-s1-w5">
@@ -3177,7 +3177,7 @@
 <LM>w#w-es_20-SCzechM-p2136-s1-w14</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_20-SCzechM-p2136-s1-w15">
 <w.rf>
@@ -3673,7 +3673,7 @@
 <LM>w#w-es_20-SCzechM-p2141-s1-w27</LM>
 </w.rf>
 <form>šířeji</form>
-<tag lemma="široko-1_^(šíře,_než...)" recommended="1">Dg-------2A---1</tag>
+<tag lemma="široko-1" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="es_20-SCzechM-p2141-s1-w28">
 <w.rf>
@@ -5414,7 +5414,7 @@
 <LM>w#w-es_20-SCzechM-p2155-s1-w11</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="es_20-SCzechM-p2155-s1-w12">
 <w.rf>
@@ -6827,7 +6827,7 @@
 <LM>w#w-es_20-SCzechM-p2164-s1-w22</LM>
 </w.rf>
 <form>&amp;</form>
-<tag lemma="&amp;amp;" recommended="1">Z:-------------</tag>
+<tag lemma="&amp;" recommended="1">Z:-------------</tag>
 </m>
 <m id="es_20-SCzechM-p2164-s1-w23">
 <w.rf>
@@ -9043,7 +9043,7 @@
 <LM>w#w-es_20-SCzechM-p2185-s1-w35</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="tvůj_^(přivlast.)" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="es_20-SCzechM-p2185-s1-w36">
 <w.rf>

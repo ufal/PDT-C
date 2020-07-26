@@ -35,7 +35,7 @@
 <LM>w#w-mf920901-051-p1s1w3</LM>
 </w.rf>
 <form>hodinou</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920901-051-p1s1w4">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-mf920901-051-p4s1w8</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920901-051-p4s1w9">
 <src.rf>manual</src.rf>
@@ -745,7 +745,7 @@
 <LM>w#w-mf920901-051-p5s1w9</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-mf920901-051-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <form>nechal</form>
 <tag>
 <AM lemma="nechat" src="orig">VpYS----R-AAI--</AM>
-<AM lemma="nechat" src="manual" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="nechat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920901-051-p5s2w21">
@@ -1086,7 +1086,7 @@
 <LM>w#w-mf920901-051-p5s3w4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-mf920901-051-p5s3w5">
 <src.rf>manual</src.rf>
@@ -1104,7 +1104,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-051-p5s3w7">
@@ -1411,7 +1411,7 @@
 <LM>w#w-mf920901-051-p6s2w13</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920901-051-p6s2w14">
 <src.rf>manual</src.rf>

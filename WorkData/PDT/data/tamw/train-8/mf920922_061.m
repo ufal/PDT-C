@@ -229,7 +229,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-061-p2s1w18">
@@ -893,7 +893,7 @@
 <LM>w#w-mf920922-061-p2s5w1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920922-061-p2s5w2">
 <src.rf>manual</src.rf>
@@ -2172,7 +2172,7 @@
 <form>nalezeni</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsMP----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsMP----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsMP----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-mf920922-061-p2s13w3">
@@ -2459,7 +2459,7 @@
 <LM>w#w-mf920922-061-p2s14w19</LM>
 </w.rf>
 <form>stanou</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf920922-061-p2s14w20">
 <src.rf>manual</src.rf>

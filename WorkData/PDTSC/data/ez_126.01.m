@@ -1478,7 +1478,7 @@
 </w.rf>
 <form>více</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="více" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -2282,7 +2282,7 @@
 <LM>w#w-d1t308-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m126-d-id67108-punct">
 <w.rf>
@@ -3632,7 +3632,7 @@
 <form>vytáhnul</form>
 <tag>
 <AM lemma="vytáhnout_,x" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="vytáhnout" src="manual" selected="1">VpYS----R-AA---</AM>
+<AM lemma="vytáhnout" src="manual" selected="1">VpYS----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m126-d1t356-24">
@@ -3695,7 +3695,7 @@
 <LM>w#w-d1t360-5</LM>
 </w.rf>
 <form>péct</form>
-<tag lemma="péci" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="péci" src="auto" recommended="1">Vf--------A-I-1</tag>
 </m>
 <m id="m126-d1t360-6">
 <w.rf>
@@ -4488,7 +4488,7 @@
 <form>panenku</form>
 <tag>
 <AM lemma="panenka-1_^(např_v_oku)" src="auto">NNFS4-----A----</AM>
-<AM lemma="panenka-2_^(na_hraní)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="panenka" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m126-410-412">
@@ -4621,7 +4621,7 @@
 <LM>w#w-d1t393-6</LM>
 </w.rf>
 <form>dávat</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m126-d1t393-8">
 <w.rf>

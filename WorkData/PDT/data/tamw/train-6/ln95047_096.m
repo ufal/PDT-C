@@ -19,7 +19,7 @@
 <LM>w#w-ln95047-096-p1s1w1</LM>
 </w.rf>
 <form>Půlmiliarda</form>
-<tag lemma="půlmiliarda" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="půlmiliarda" src="orig" selected="1">CzFS1----------</tag>
 </m>
 <m id="m-ln95047-096-p1s1w2">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-ln95047-096-p2s1Bw6</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-1" src="orig" selected="1">ClXS2----------</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-ln95047-096-p2s1Bw7">
 <src.rf>manual</src.rf>

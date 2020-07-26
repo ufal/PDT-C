@@ -59,7 +59,7 @@
 <LM>w#w-lnd94103-004-p1s1w6</LM>
 </w.rf>
 <form>nerad</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------N----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------N----</tag>
 </m>
 <m id="m-lnd94103-004-p1s1w7">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-lnd94103-004-p1s1w9</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-004-p1s1w10">
 <src.rf>manual</src.rf>

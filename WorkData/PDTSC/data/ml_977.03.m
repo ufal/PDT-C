@@ -1627,7 +1627,7 @@
 <LM>w#w-id62138-16</LM>
 </w.rf>
 <form>uměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m977-id62102-x1-207">
 <w.rf>
@@ -1983,7 +1983,7 @@
 <LM>w#w-id62216-7</LM>
 </w.rf>
 <form>nedávali</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpMP----R-NAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m977-id62216-8">
 <w.rf>
@@ -2205,7 +2205,7 @@
 <LM>w#w-id62241-11</LM>
 </w.rf>
 <form>umíš</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-S---2P-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-S---2P-AAI--</tag>
 </m>
 <m id="m977-id62241-12">
 <w.rf>
@@ -2252,7 +2252,7 @@
 <tag>
 <AM lemma="ten" src="auto">PDMP1----------</AM>
 <AM lemma="ty" src="auto" recommended="1">PH-S3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PH-S3--2-------</AM>
+<AM lemma="ty" src="manual" selected="1">PH-S3--2-------</AM>
 </tag>
 </m>
 <m id="m977-id62252-4">
@@ -2333,7 +2333,7 @@
 <LM>w#w-id62271-4</LM>
 </w.rf>
 <form>můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m977-id62271-5">
 <w.rf>
@@ -2381,7 +2381,7 @@
 <LM>w#w-id62281-5</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m977-id62281-6">
 <w.rf>
@@ -3420,7 +3420,7 @@
 <AM lemma="půl-2" src="auto">NNFS1-----A----</AM>
 <AM lemma="půl-2" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="půl-3" src="auto">NNNXX-----A----</AM>
-<AM lemma="půl-1_^(*4olovina)" src="manual" selected="1">ClXS1----------</AM>
+<AM lemma="půl-1" src="manual" selected="1">Cl-XX----------</AM>
 </tag>
 </m>
 <m id="m977-id62467-7">
@@ -3485,7 +3485,7 @@
 <LM>w#w-id62477-3</LM>
 </w.rf>
 <form>nerad</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------N----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------N----</tag>
 </m>
 <m id="m977-id62477-4">
 <w.rf>
@@ -4128,7 +4128,7 @@
 <form>lépe</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------2A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="lépe" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m977-427-455">
@@ -4389,7 +4389,7 @@
 <LM>w#w-id62605-8</LM>
 </w.rf>
 <form>klape</form>
-<tag lemma="klapat" src="auto" recommended="1">VB-S---3P-AA---</tag>
+<tag lemma="klapat" src="auto" recommended="1">VB-S---3P-AAI-1</tag>
 </m>
 <m id="m977-448-468">
 <w.rf>
@@ -4900,7 +4900,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="KSČ-1_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KSČ_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m977-d-id99925">
@@ -4970,7 +4970,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="KSČ-1_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KSČ_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m977-id62694-x1-708">
@@ -5287,7 +5287,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m977-id62754-6">
@@ -6344,7 +6344,7 @@
 <LM>w#w-id62940-4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m977-id62940-5">
 <w.rf>

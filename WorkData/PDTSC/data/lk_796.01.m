@@ -23,7 +23,7 @@
 <LM>w#w-id59070-10</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m796-id59070-11">
 <w.rf>
@@ -236,7 +236,7 @@
 <LM>w#w-id59080-15</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m796-id59080-16">
 <w.rf>
@@ -1014,7 +1014,7 @@
 <LM>w#w-id59209-8</LM>
 </w.rf>
 <form>ukradl</form>
-<tag lemma="ukrást" src="auto" recommended="1">VpYS----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m796-id57967-x33-775">
 <w.rf>
@@ -1485,7 +1485,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m796-id59260-1">
@@ -2037,7 +2037,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -2367,7 +2367,7 @@
 <form>řiká</form>
 <tag>
 <AM lemma="říkat_,h_,x" src="auto" recommended="1">VB-S---3P-AA--6</AM>
-<AM lemma="říkat" src="manual" selected="1">VB-S---3P-AA--6</AM>
+<AM lemma="řikat_,h_^(^GC**říkat)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m796-id59354-x4-1408">
@@ -2613,7 +2613,7 @@
 <form>řiká</form>
 <tag>
 <AM lemma="říkat_,h_,x" src="auto" recommended="1">VB-S---3P-AA--6</AM>
-<AM lemma="říkat" src="manual" selected="1">VB-S---3P-AA--6</AM>
+<AM lemma="řikat_,h_^(^GC**říkat)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m796-id59354-x5-1856">
@@ -2843,7 +2843,7 @@
 <LM>w#w-id59471-10</LM>
 </w.rf>
 <form>kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m796-id59471-11">
 <w.rf>
@@ -3545,7 +3545,7 @@
 <LM>w#w-id59577-36</LM>
 </w.rf>
 <form>Mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m796-id59577-34">
 <w.rf>
@@ -3890,7 +3890,7 @@
 <LM>w#w-id59354-x11-2508</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m796-id59610-23">
 <w.rf>
@@ -4595,7 +4595,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m796-2639-2654">
@@ -4622,7 +4622,7 @@
 <LM>w#w-id59672-4</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m796-2639-2655">
 <w.rf>
@@ -6403,7 +6403,7 @@
 <LM>w#w-id59784-61</LM>
 </w.rf>
 <form>ukradli</form>
-<tag lemma="ukrást" src="auto" recommended="1">VpMP----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m796-d-id79569">
 <w.rf>
@@ -6655,7 +6655,7 @@
 <LM>w#w-id59814-15</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m796-407-1007">
 <w.rf>

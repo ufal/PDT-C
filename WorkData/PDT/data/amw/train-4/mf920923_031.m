@@ -254,7 +254,7 @@
 <LM>w#w-mf920923-031-p4s1w14</LM>
 </w.rf>
 <form>hosp</form>
-<tag lemma="hospodářský" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="hospodářský" src="orig" selected="1">AAXXX----1A---a</tag>
 </m>
 <m id="m-mf920923-031-p4s1w15">
 <src.rf>manual</src.rf>

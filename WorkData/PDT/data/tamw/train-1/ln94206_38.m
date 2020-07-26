@@ -53,7 +53,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-38-p1s1w6">
@@ -382,7 +382,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-38-p2s2w12">
@@ -441,7 +441,7 @@
 <LM>w#w-ln94206-38-p2s3w4</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94206-38-p2s3w5">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-ln94206-38-p2s4w12</LM>
 </w.rf>
 <form>předáno</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94206-38-p2s4w13">
 <src.rf>manual</src.rf>

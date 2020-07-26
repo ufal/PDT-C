@@ -64,7 +64,7 @@
 <LM>w#w-wsj1560-001-p1s0W5</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m-wsj1560-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-wsj1560-001-p1s2W14</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1560-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3381,7 +3381,7 @@
 <LM>w#w-wsj1560-001-p1s12W9</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj1560-001-p1s12W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4365,7 +4365,7 @@
 <LM>w#w-wsj1560-001-p1s18W3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj1560-001-p1s18W4-Ta">
 <src.rf>tagger-a</src.rf>

@@ -160,7 +160,7 @@
 <LM>w#w-wsj2368-001-p1s0W14</LM>
 </w.rf>
 <form>CBS</form>
-<tag lemma="CBS_;m_^(am.elevizní_společnost)" src="auto" recommended="1">BNFXX-----A----</tag>
+<tag lemma="CBS-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2368-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-wsj2368-001-p1s1W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2368-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>

@@ -51,7 +51,7 @@
 <LM>w#w-ln95048-142-p1s1w5</LM>
 </w.rf>
 <form>extremistů</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95048-142-p1s1w6">
 <src.rf>manual</src.rf>
@@ -105,7 +105,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-142-p2s1Bw4">
@@ -194,7 +194,7 @@
 <LM>w#w-ln95048-142-p2s1Bw14</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-142-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN_;G_^(^Spolková_republika_Německo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-142-p2s2w15">
@@ -575,7 +575,7 @@
 <LM>w#w-ln95048-142-p2s4w10</LM>
 </w.rf>
 <form>nemohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln95048-142-p2s4w11">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95048-142-p2s4w16">
@@ -724,7 +724,7 @@
 <form>BIS</form>
 <tag>
 <AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BIS_^(Bezp._informační_služba)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-142-p2s4w29">
@@ -1047,7 +1047,7 @@
 <LM>w#w-ln95048-142-p2s6w5</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-142-p2s6w6">
 <src.rf>manual</src.rf>
@@ -1212,7 +1212,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln95048-142-p2s6w26">

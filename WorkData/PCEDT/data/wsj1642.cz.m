@@ -6316,7 +6316,7 @@
 <tag>
 <AM lemma="Caere_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Caere-2_;m" src="manual">NNXXX-----A----</AM>
-<AM lemma="Caere-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Caere_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1642-001-p1s23W2-Ta">
@@ -6745,7 +6745,7 @@
 <form>Caere</form>
 <tag>
 <AM lemma="Caere_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Caere-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Caere_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1642-001-p1s25W3-Ta">
@@ -9510,7 +9510,7 @@
 <LM>w#w-wsj1642-001-p1s34W23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1642-001-p1s34W24-Ta">
 <src.rf>tagger-a</src.rf>

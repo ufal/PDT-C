@@ -2231,7 +2231,7 @@
 <form>Charlotte</form>
 <tag>
 <AM lemma="Charlotte_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Charlotte-2_;G" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Charlotte_;G_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1868-001-p1s5W15-Ta">
@@ -2309,7 +2309,7 @@
 <AM lemma="Karolín_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Karolín_;Y_,t" src="auto">NNMS2-----A----</AM>
 <AM lemma="Karolín_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Karolína_;G_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNP1-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNP4-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNP5-----A----</AM>
@@ -2586,7 +2586,7 @@
 <form>Charlotte</form>
 <tag>
 <AM lemma="Charlotte_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Charlotte-2_;G" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Charlotte_;G_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1868-001-p1s5W44-Ta">
@@ -4213,7 +4213,7 @@
 <LM>w#w-wsj1868-001-p1s10W5</LM>
 </w.rf>
 <form>zastiženi</form>
-<tag lemma="zastihnout" src="auto" recommended="1">VsMP----X-APP--</tag>
+<tag lemma="zastihnout" src="auto" recommended="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-wsj1868-001-p1s10W6-Ta">
 <src.rf>tagger-a</src.rf>

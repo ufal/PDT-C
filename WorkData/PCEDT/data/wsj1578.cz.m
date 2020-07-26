@@ -947,7 +947,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -3199,7 +3199,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1578-001-p1s14W10-Ta">
@@ -3367,7 +3367,7 @@
 <LM>w#w-wsj1578-001-p1s16W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1578-001-p1s16W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3574,7 +3574,7 @@
 <LM>w#w-wsj1578-001-p1s17W6</LM>
 </w.rf>
 <form>převzetími</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" recommended="1">NNNP7-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="auto" recommended="1">NNNP7-----A----</tag>
 </m>
 <m id="m-wsj1578-001-p1s17W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5579,7 +5579,7 @@
 <LM>w#w-wsj1578-001-p1s23W11</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1578-001-p1s23W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6403,7 +6403,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1578-001-p1s27W21-Ta">
@@ -19449,7 +19449,7 @@
 <LM>w#w-wsj1578-001-p1s65W11</LM>
 </w.rf>
 <form>navržen</form>
-<tag lemma="navrhnout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="navrhnout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj1578-001-p1s65W12-Ta">
 <src.rf>tagger-a</src.rf>

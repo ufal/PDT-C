@@ -51,7 +51,7 @@
 <LM>w#w-mf930709-073-p1s1w5</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930709-073-p1s1w6">
 <src.rf>manual</src.rf>
@@ -179,7 +179,7 @@
 <LM>w#w-mf930709-073-p2s1Bw7</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930709-073-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-mf930709-073-p3s2w1</LM>
 </w.rf>
 <form>Kdybychom</form>
-<tag lemma="kdyby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="kdyby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-mf930709-073-p3s2w3">
 <src.rf>manual</src.rf>

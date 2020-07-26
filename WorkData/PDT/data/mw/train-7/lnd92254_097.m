@@ -31,7 +31,7 @@
 <form>ČNHL</form>
 <tag>
 <AM lemma="ČNHL_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČNHL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČNHL_;m_^(Česká_národní_hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-097-p2s1w2">
@@ -608,7 +608,7 @@
 <LM>w#w-lnd92254-097-p2s2w70</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92254-097-p2s2w71">
 <src.rf>manual</src.rf>

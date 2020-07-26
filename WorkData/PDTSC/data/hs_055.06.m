@@ -1621,7 +1621,7 @@
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="častě_^(*1ý)" src="auto">Dg-------2A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m055-d1e2385-x3-200">
@@ -1841,7 +1841,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -2057,7 +2057,7 @@
 <LM>w#w-d1t2426-1</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m055-d1t2426-2">
 <w.rf>
@@ -2524,7 +2524,7 @@
 <LM>w#w-d1t2447-6</LM>
 </w.rf>
 <form>vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m055-d1t2447-7">
 <w.rf>
@@ -2725,7 +2725,7 @@
 <LM>w#w-d1t2459-1</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m055-d-m-d1e2431-x2-punct-punct">
 <w.rf>
@@ -3124,7 +3124,7 @@
 <LM>w#w-d1t2533-1</LM>
 </w.rf>
 <form>Teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m055-d1t2535-1">
 <w.rf>
@@ -3656,7 +3656,7 @@
 <LM>w#w-d1t2561-5</LM>
 </w.rf>
 <form>Neumím</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m055-d1t2561-7">
 <w.rf>
@@ -3813,7 +3813,7 @@
 <LM>w#w-d1t2576-3</LM>
 </w.rf>
 <form>vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m055-d1t2576-4">
 <w.rf>
@@ -4312,7 +4312,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m055-d1e2627-x2-367">

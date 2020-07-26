@@ -270,7 +270,7 @@
 <LM>w#w-d1t1660-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m024-d1t1660-3">
 <w.rf>
@@ -1004,7 +1004,7 @@
 <form>kozaček</form>
 <tag>
 <AM lemma="kozačka-1_^(př._donský)" src="auto">NNFP2-----A----</AM>
-<AM lemma="kozačka_^(bota)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="kozačka_^(bota_i_žena)" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m024-d1e1722-x2-814">
@@ -1551,7 +1551,7 @@
 <LM>w#w-d1t1745-7</LM>
 </w.rf>
 <form>řikali</form>
-<tag lemma="říkat" src="auto" recommended="1">VpMP----R-AA--6</tag>
+<tag lemma="řikat_,h_^(^GC**říkat)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m024-d1e1740-x2-844">
 <w.rf>
@@ -1688,7 +1688,7 @@
 <LM>w#w-d1t1749-6</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m024-d-id114149-punct">
 <w.rf>
@@ -1767,7 +1767,7 @@
 <LM>w#w-d1t1755-8</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m024-d1e1750-x2-858">
 <w.rf>
@@ -2591,7 +2591,7 @@
 <LM>w#w-d1t1816-1</LM>
 </w.rf>
 <form>Jelo</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m024-d1t1816-2">
 <w.rf>

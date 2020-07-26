@@ -1089,7 +1089,7 @@
 <LM>w#w-lnd92251-044-p4s3w18</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-044-p4s3w19">
 <src.rf>manual</src.rf>
@@ -1190,7 +1190,7 @@
 <form>ing</form>
 <tag>
 <AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="ing-1_^(inženýr)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ing_^(inženýr)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-044-p4s3w31">
@@ -1209,7 +1209,7 @@
 <form>arch</form>
 <tag>
 <AM lemma="architekt_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="architekt" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="architekt" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-044-p4s3w33">

@@ -208,7 +208,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-053-p3s2w10">
@@ -315,7 +315,7 @@
 <form>ČSKOS</form>
 <tag>
 <AM lemma="ČSKOS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSKOS_;m_^(České_a_Slovenská_konfederace_odborových_svazů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-053-p3s2w23">
@@ -449,7 +449,7 @@
 <LM>w#w-lnd92258-053-p3s3w5</LM>
 </w.rf>
 <form>ústavně</form>
-<tag lemma="ústavně_,a_^(adjektivum_k_ústava;;ustavičný)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="ústavně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92258-053-p3s3w6">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-053-p3s3w11">
@@ -548,7 +548,7 @@
 <LM>w#w-lnd92258-053-p3s3w17</LM>
 </w.rf>
 <form>právech</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92258-053-p3s3w18">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92258-053-p3s4w7">
@@ -758,7 +758,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-053-p3s4w18">
@@ -908,7 +908,7 @@
 <LM>w#w-lnd92258-053-p3s5w15</LM>
 </w.rf>
 <form>právech</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92258-053-p3s5w16">
 <src.rf>manual</src.rf>
@@ -1192,7 +1192,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-053-p3s7w3">
@@ -1228,7 +1228,7 @@
 <LM>w#w-lnd92258-053-p3s7w6</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92258-053-p3s7w7">
 <src.rf>manual</src.rf>
@@ -1326,7 +1326,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-053-p3s7w19">

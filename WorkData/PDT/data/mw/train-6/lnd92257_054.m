@@ -742,7 +742,7 @@
 <LM>w#w-lnd92257-054-p3s5w7</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92257-054-p3s5w8">
 <src.rf>manual</src.rf>
@@ -784,7 +784,7 @@
 <form>navržen</form>
 <tag>
 <AM lemma="navrhnout" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="navrhnout" src="manual" selected="1">VsYS----X-APP--</AM>
+<AM lemma="navrhnout" src="manual" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-lnd92257-054-p3s5w13">

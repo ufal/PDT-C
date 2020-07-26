@@ -258,7 +258,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SNR_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-067-p2s1w26">
@@ -927,7 +927,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SNR_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-067-p3s5w10">
@@ -1372,7 +1372,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SNR_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-067-p4s1Aw26">
@@ -1556,7 +1556,7 @@
 <LM>w#w-mf920901-067-p4s2w3</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920901-067-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1572,7 +1572,7 @@
 <LM>w#w-mf920901-067-p4s2w5</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920901-067-p4s2w6">
 <src.rf>manual</src.rf>
@@ -2089,7 +2089,7 @@
 <LM>w#w-mf920901-067-p4s3Bw36</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920901-067-p4s3Bw37">
 <src.rf>manual</src.rf>

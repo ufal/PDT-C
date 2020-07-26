@@ -69,7 +69,7 @@
 <LM>w#w-lnd92252-045-p2s1w2</LM>
 </w.rf>
 <form>Ewa</form>
-<tag lemma="Ewa_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ewa_;G_;Y" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-045-p2s1w3">
 <src.rf>manual</src.rf>
@@ -131,7 +131,7 @@
 <LM>w#w-lnd92252-045-p2s1w9</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-lnd92252-045-p2s1w10">
 <src.rf>manual</src.rf>
@@ -1124,7 +1124,7 @@
 <LM>w#w-lnd92252-045-p5s1w8</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-lnd92252-045-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1485,7 +1485,7 @@
 </w.rf>
 <form>Lucina</form>
 <tag>
-<AM lemma="Lucina_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lucina_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Lucinus_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Lucinus_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="lucina_;U" src="auto" recommended="1">NNFS1-----A----</AM>

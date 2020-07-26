@@ -727,7 +727,7 @@
 <LM>w#w-wsj0437-001-p1s3W9</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0437-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6113,7 +6113,7 @@
 <LM>w#w-wsj0437-001-p1s24W20</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0437-001-p1s24W21-Ta">
 <src.rf>tagger-a</src.rf>

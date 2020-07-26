@@ -2283,7 +2283,7 @@
 <LM>w#w-wsj0504-001-p1s8W4</LM>
 </w.rf>
 <form>dávat</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj0504-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6446,7 +6446,7 @@
 <LM>w#w-wsj0504-001-p1s18W20</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0504-001-p1s18W21-Ta">
 <src.rf>tagger-a</src.rf>

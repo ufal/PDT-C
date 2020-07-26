@@ -678,7 +678,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-034-p2s3w11">
@@ -720,7 +720,7 @@
 </w.rf>
 <form>danausích</form>
 <tag>
-<AM lemma="danausí" src="orig" selected="1">AANP2----1A----</AM>
+<AM lemma="danaus_^(motýl)" src="orig" selected="1">NNMP6-----A---1</AM>
 <AM lemma="danaus_;U_,t_^(motýl)" src="auto" recommended="1">NNMP6-----A----</AM>
 <AM lemma="danaus_;U_^(motýl)" src="manual">NNMP6-----A----</AM>
 </tag>
@@ -820,7 +820,7 @@
 <LM>w#w-vesm9212-034-p2s3w27</LM>
 </w.rf>
 <form>zasažena</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsQW----X-AP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-vesm9212-034-p2s3w28">
 <src.rf>manual</src.rf>
@@ -1264,7 +1264,7 @@
 <LM>w#w-vesm9212-034-p2s6w16</LM>
 </w.rf>
 <form>vzlétali</form>
-<tag lemma="vzlétat_,s" src="auto" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="vzlétat" src="auto" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-034-p2s6w17">
 <src.rf>manual</src.rf>
@@ -1494,7 +1494,7 @@
 <form>danausů</form>
 <tag>
 <AM lemma="danaus_;U_,t_^(motýl)" src="auto">NNMP2-----A----</AM>
-<AM lemma="danaus_;U_^(motýl)" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="danaus_^(motýl)" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-034-p2s8w17">
@@ -1579,7 +1579,7 @@
 <form>danausům</form>
 <tag>
 <AM lemma="danaus_;U_,t_^(motýl)" src="auto">NNMP3-----A----</AM>
-<AM lemma="danaus_;U_^(motýl)" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="danaus_^(motýl)" src="manual" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-034-p2s9w8">
@@ -1662,7 +1662,7 @@
 <LM>w#w-vesm9212-034-p2s10w7</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-034-p2s10w8">
 <src.rf>manual</src.rf>
@@ -1752,7 +1752,7 @@
 <LM>w#w-vesm9212-034-p2s11w2</LM>
 </w.rf>
 <form>nezasaženy</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsTP----X-NP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsTP----X-NPP-1</tag>
 </m>
 <m id="m-vesm9212-034-p2s11w3">
 <src.rf>manual</src.rf>
@@ -1808,7 +1808,7 @@
 <LM>w#w-vesm9212-034-p2s11w9</LM>
 </w.rf>
 <form>jižněji</form>
-<tag lemma="jižně_^(*1í)" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="jižně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-vesm9212-034-p2s11w10">
 <src.rf>manual</src.rf>

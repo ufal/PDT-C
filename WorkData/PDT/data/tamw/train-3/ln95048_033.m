@@ -115,7 +115,7 @@
 <LM>w#w-ln95048-033-p1s1w13</LM>
 </w.rf>
 <form>Magdalena</form>
-<tag lemma="Magdalena_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Magdalena_;G_;Y_,s_^(^DD**Magdaléna)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-033-p1s1w14">
 <src.rf>manual</src.rf>

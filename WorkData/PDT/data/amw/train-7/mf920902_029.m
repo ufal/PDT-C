@@ -895,7 +895,7 @@
 <LM>w#w-mf920902-029-p1s6w1</LM>
 </w.rf>
 <form>Právem</form>
-<tag lemma="právem" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="právem" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920902-029-p1s6w2">
 <src.rf>manual</src.rf>
@@ -1238,7 +1238,7 @@
 <LM>w#w-mf920902-029-p1s8w22</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920902-029-p1s8w23">
 <src.rf>manual</src.rf>

@@ -205,7 +205,7 @@
 <LM>w#w-lnd92255-005-p1s2w7</LM>
 </w.rf>
 <form>radám</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-lnd92255-005-p1s2w8">
 <src.rf>manual</src.rf>

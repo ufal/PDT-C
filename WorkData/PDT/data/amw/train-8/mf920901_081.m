@@ -43,7 +43,7 @@
 <LM>w#w-mf920901-081-p1s1w4</LM>
 </w.rf>
 <form>nevydal</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpYS----R-NAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 </s>
 <s id="m-mf920901-081-p2s1">
@@ -164,7 +164,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-081-p2s2w10">
@@ -199,7 +199,7 @@
 <form>kpt</form>
 <tag>
 <AM lemma="kapitán_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="kpt_^(kapitán)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="kapitán" src="manual" selected="1">NNMXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920901-081-p2s2w14">
@@ -710,7 +710,7 @@
 <LM>w#w-mf920901-081-p2s6w5</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920901-081-p2s6w6">
 <src.rf>manual</src.rf>

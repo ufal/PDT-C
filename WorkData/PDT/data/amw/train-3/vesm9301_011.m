@@ -216,7 +216,7 @@
 <LM>w#w-vesm9301-011-p1s2w2</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9301-011-p1s2w3">
 <src.rf>manual</src.rf>
@@ -256,7 +256,7 @@
 <LM>w#w-vesm9301-011-p1s2w7</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9301-011-p1s2w8">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 <LM>w#w-vesm9301-011-p1s2w14</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9301-011-p1s2w15">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-vesm9301-011-p1s4w7</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-011-p1s4w8">
 <src.rf>manual</src.rf>
@@ -575,7 +575,7 @@
 <LM>w#w-vesm9301-011-p1s4w13</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag lemma="říci" src="auto" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9301-011-p1s4w14">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <form>intenzívněji</form>
 <tag>
 <AM lemma="intenzívně_^(*1í)" src="orig">Dg-------2A----</AM>
-<AM lemma="intenzívně_,s_^(^DD**intenzivně)_^(*1í)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="intenzívně_^(*1í)" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-011-p1s5w11">
@@ -993,7 +993,7 @@
 <form>sv</form>
 <tag>
 <AM lemma="svazek_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="svazek" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="svazek" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9301-011-p2s1w7">
@@ -1030,7 +1030,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-vesm9301-011-p2s2w4">

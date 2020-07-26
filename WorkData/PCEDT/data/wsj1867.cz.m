@@ -6667,7 +6667,7 @@
 <form>právy</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACTP------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1867-001-p1s33W15-Ta">
@@ -7833,7 +7833,7 @@
 <LM>w#w-wsj1867-001-p1s36W22</LM>
 </w.rf>
 <form>kuponem</form>
-<tag lemma="kupón" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag lemma="kupon_,s_^(^DD**kupón)" src="auto" recommended="1">NNIS7-----A----</tag>
 </m>
 <m id="m-wsj1867-001-p1s36W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9312,7 +9312,7 @@
 <LM>w#w-wsj1867-001-p1s41W21</LM>
 </w.rf>
 <form>kuponem</form>
-<tag lemma="kupón" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag lemma="kupon_,s_^(^DD**kupón)" src="auto" recommended="1">NNIS7-----A----</tag>
 </m>
 <m id="m-wsj1867-001-p1s41W22-Ta">
 <src.rf>tagger-a</src.rf>

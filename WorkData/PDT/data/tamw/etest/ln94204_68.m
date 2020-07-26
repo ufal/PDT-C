@@ -247,7 +247,7 @@
 <LM>w#w-ln94204-68-p2s2w10</LM>
 </w.rf>
 <form>ukradli</form>
-<tag lemma="ukrást" src="auto" selected="1">VpMP----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln94204-68-p2s2w11">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-ln94204-68-p2s4w10</LM>
 </w.rf>
 <form>soudně</form>
-<tag lemma="soudně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="soudně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94204-68-p2s4w11">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-ln94204-68-p2s4w19</LM>
 </w.rf>
 <form>předán</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94204-68-p2s4w20">
 <src.rf>manual</src.rf>

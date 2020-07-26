@@ -1741,7 +1741,7 @@
 <LM>w#w-ln95046-101-p4s2w26</LM>
 </w.rf>
 <form>dosti</form>
-<tag lemma="dost" src="auto" selected="1">Db------------1</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A---1</tag>
 </m>
 <m id="m-ln95046-101-p4s2w27">
 <src.rf>manual</src.rf>

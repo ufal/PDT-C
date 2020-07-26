@@ -918,7 +918,7 @@
 <LM>w#w-lnd92254-047-p3s3w42</LM>
 </w.rf>
 <form>vydali</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-047-p3s3w43">
 <src.rf>manual</src.rf>
@@ -984,7 +984,7 @@
 <LM>w#w-lnd92254-047-p3s4w6</LM>
 </w.rf>
 <form>bránit</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">Vf--------A-I--</tag>
+<tag lemma="bránit" src="auto" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92254-047-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1051,7 +1051,7 @@
 <tag>
 <AM lemma="NSR_;G" src="orig">NNFXX-----A----</AM>
 <AM lemma="NSR_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="NSR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NSR_;G_^(Německá_spolková_republika)" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-047-p3s4w15">
@@ -1185,7 +1185,7 @@
 <LM>w#w-lnd92254-047-p3s5w11</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-047-p3s5w12">
 <src.rf>manual</src.rf>

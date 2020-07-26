@@ -5137,7 +5137,7 @@
 <LM>w#w-wsj1004-001-p1s14W18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1004-001-p1s14W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6531,7 +6531,7 @@
 <LM>w#w-wsj1004-001-p1s18W7</LM>
 </w.rf>
 <form>rovněji</form>
-<tag lemma="rovně_^(přímý,_stejný,_spravedlivý)_(*1ý)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="rovně_^(*1ý)" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1004-001-p1s18W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7190,7 +7190,7 @@
 <LM>w#w-wsj1004-001-p1s21W30</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1004-001-p1s21W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7229,7 +7229,7 @@
 <LM>w#w-wsj1004-001-p1s21W34</LM>
 </w.rf>
 <form>obsaženo</form>
-<tag lemma="obsáhnout" src="auto" recommended="1">VsNS----X-APP--</tag>
+<tag lemma="obsáhnout" src="auto" recommended="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-wsj1004-001-p1s21W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7374,7 +7374,7 @@
 <LM>w#w-wsj1004-001-p1s21W47</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1004-001-p1s21W48-Ta">
 <src.rf>tagger-a</src.rf>

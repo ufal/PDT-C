@@ -116,7 +116,7 @@
 <LM>w#w-lnd92259-093-p3s2w3</LM>
 </w.rf>
 <form>šampaňského</form>
-<tag lemma="šampaňské_^(víno)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="šampaňské-2_^(víno)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92259-093-p3s2w4">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-lnd92259-093-p3s5w6</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-093-p3s5w7">
 <src.rf>manual</src.rf>
@@ -784,7 +784,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-093-p3s5w9">
@@ -883,7 +883,7 @@
 <LM>w#w-lnd92259-093-p3s6w3</LM>
 </w.rf>
 <form>Alpsko</form>
-<tag lemma="alpský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="alpsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92259-093-p3s6w4">
 <src.rf>manual</src.rf>
@@ -1520,7 +1520,7 @@
 <tag>
 <AM lemma="tom_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
-<AM lemma="tom-99_;Y" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="tom-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-093-p4s1w3">

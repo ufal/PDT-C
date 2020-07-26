@@ -1519,7 +1519,7 @@
 <LM>w#w-wsj0146-001-p1s4W11</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0146-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2425,7 +2425,7 @@
 <LM>w#w-wsj0146-001-p1s7W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0146-001-p1s7W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3492,7 +3492,7 @@
 <LM>w#w-wsj0146-001-p1s10W23</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0146-001-p1s10W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5316,7 +5316,7 @@
 <LM>w#w-wsj0146-001-p1s15W14</LM>
 </w.rf>
 <form>vymysleli</form>
-<tag lemma="vymyslet" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vymyslit" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj0146-001-p1s15W15-Ta">
 <src.rf>tagger-a</src.rf>

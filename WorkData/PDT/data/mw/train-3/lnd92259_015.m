@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--1----------</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-015-p1s1w2">
@@ -329,7 +329,7 @@
 <form>ÖAMTC</form>
 <tag>
 <AM lemma="ÖAMTC-1_:B_;m_,t_^(Öster._Autom.-Motorrad-und_Touring_Club)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÖAMTC-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ÖAMTC_;m_^(Öster.utom.-Motorrad-und_Touring_Club)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-015-p3s3w9">
@@ -402,7 +402,7 @@
 <LM>w#w-lnd92259-015-p3s3w17</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-lnd92259-015-p3s3w18">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 <LM>w#w-lnd92259-015-p3s3w18</LM>
 </w.rf>
 <form>BESIPem</form>
-<tag lemma="BESIP_;m" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Besip_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92259-015-p3s3w19">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-lnd92259-015-p3s5w11</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-lnd92259-015-p3s5w12">
 <src.rf>manual</src.rf>

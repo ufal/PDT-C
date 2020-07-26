@@ -1145,7 +1145,7 @@
 <LM>w#w-d1t519-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m138-d1t524-1">
 <w.rf>
@@ -2193,7 +2193,7 @@
 <LM>w#w-d1t591-5</LM>
 </w.rf>
 <form>Sudetech</form>
-<tag lemma="Sudety_;G" src="auto" recommended="1">NNIP6-----A----</tag>
+<tag lemma="Sudety-1_;G" src="auto" recommended="1">NNIP6-----A----</tag>
 </m>
 <m id="m138-374-375">
 <w.rf>
@@ -2434,7 +2434,7 @@
 <LM>w#w-d1t613-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m138-d1t613-5">
 <w.rf>
@@ -2486,7 +2486,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -2785,7 +2785,7 @@
 <LM>w#w-d1t642-3</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m138-d1t642-4">
 <w.rf>
@@ -2881,14 +2881,14 @@
 <LM>w#w-d1t648-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m138-d1t648-4">
 <w.rf>
 <LM>w#w-d1t648-4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m138-d1t648-5">
 <w.rf>
@@ -3203,7 +3203,7 @@
 <form>Dřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A---5</AM>
-<AM lemma="brzy" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m138-d-id71083-punct">
@@ -3331,7 +3331,7 @@
 <LM>w#w-d1t693-7</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m138-d1t693-8">
 <w.rf>
@@ -3420,7 +3420,7 @@
 <LM>w#w-d1t700-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m138-d1t702-1">
 <w.rf>

@@ -655,7 +655,7 @@
 <LM>w#w-ln95047-084-p3s3w5</LM>
 </w.rf>
 <form>tezemi</form>
-<tag lemma="teze" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="teze_,s_^(^DD**téze)" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln95047-084-p3s3w6">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-ln95047-084-p3s3w33</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln95047-084-p3s3w34">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln95047-084-p3s3w44">
@@ -1586,7 +1586,7 @@
 <LM>w#w-ln95047-084-p4s1w5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95047-084-p4s1w6">
 <src.rf>manual</src.rf>
@@ -3211,7 +3211,7 @@
 <LM>w#w-ln95047-084-p6s2w1</LM>
 </w.rf>
 <form>Zato</form>
-<tag lemma="zato" src="orig" selected="1">J,-------------</tag>
+<tag lemma="zato" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95047-084-p6s2w2">
 <src.rf>manual</src.rf>
@@ -3354,7 +3354,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-084-p6s3w10">
@@ -3403,7 +3403,7 @@
 <LM>w#w-ln95047-084-p6s3w15</LM>
 </w.rf>
 <form>ukradla</form>
-<tag lemma="ukrást" src="auto" selected="1">VpQW----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95047-084-p6s3w16">
 <src.rf>manual</src.rf>
@@ -3918,7 +3918,7 @@
 <LM>w#w-ln95047-084-p6s6w5</LM>
 </w.rf>
 <form>apriorismem</form>
-<tag lemma="apriorizmus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="apriorismus_,s_^(^DD**apriorizmus)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95047-084-p6s6w6">
 <src.rf>manual</src.rf>
@@ -4094,7 +4094,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-084-p6s6w27">
@@ -4312,7 +4312,7 @@
 <LM>w#w-ln95047-084-p7s1w14</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95047-084-p7s1w15">
 <src.rf>manual</src.rf>
@@ -5030,7 +5030,7 @@
 <LM>w#w-ln95047-084-p7s4w8</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-084-p7s4w9">
 <src.rf>manual</src.rf>
@@ -5138,7 +5138,7 @@
 <LM>w#w-ln95047-084-p7s6w2</LM>
 </w.rf>
 <form>kapitalismem</form>
-<tag lemma="kapitalismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95047-084-p7s6w3">
 <src.rf>manual</src.rf>

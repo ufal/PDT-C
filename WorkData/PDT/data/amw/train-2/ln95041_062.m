@@ -946,7 +946,7 @@
 <form>intenzívně</form>
 <tag>
 <AM lemma="intenzívně_^(*1í)" src="orig">Dg-------1A----</AM>
-<AM lemma="intenzívně_,s_^(^DD**intenzivně)_^(*4ívní)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="intenzívně_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-062-p3s1w9">
@@ -1203,7 +1203,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-062-p4s1w14">
@@ -1494,7 +1494,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-062-p4s2w10">
@@ -1612,7 +1612,7 @@
 <LM>w#w-ln95041-062-p4s3w11</LM>
 </w.rf>
 <form>srbsko</form>
-<tag lemma="srbský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="srbsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95041-062-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1975,7 +1975,7 @@
 <LM>w#w-ln95041-062-p5s1w16</LM>
 </w.rf>
 <form>přivezl</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="přivézt" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-062-p5s1w17">
 <src.rf>manual</src.rf>
@@ -2087,7 +2087,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-062-p5s3w4">

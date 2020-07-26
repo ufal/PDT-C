@@ -37,7 +37,7 @@
 <form>ČSAD</form>
 <tag>
 <AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSAD_;m_^(Čs._státní_automobilová_doprava)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -483,7 +483,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930701-082-p2s2w21">
@@ -504,7 +504,7 @@
 <form>ČSAD</form>
 <tag>
 <AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSAD_;m_^(Čs._státní_automobilová_doprava)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-082-p2s3w2">
@@ -829,7 +829,7 @@
 <LM>w#w-mf930701-082-p2s5w16</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf930701-082-p2s5w17">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <form>ČSAD</form>
 <tag>
 <AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSAD_;m_^(Čs._státní_automobilová_doprava)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-082-p3s1w25">
@@ -1197,7 +1197,7 @@
 <LM>w#w-mf930701-082-p3s1w30</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930701-082-p3s1w31">
 <src.rf>manual</src.rf>

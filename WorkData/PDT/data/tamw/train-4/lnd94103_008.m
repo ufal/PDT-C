@@ -147,7 +147,7 @@
 <LM>w#w-lnd94103-008-p1s1w17</LM>
 </w.rf>
 <form>izraelsko</form>
-<tag lemma="izraelský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="izraelsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd94103-008-p1s1w18">
 <src.rf>manual</src.rf>

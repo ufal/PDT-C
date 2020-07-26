@@ -168,7 +168,7 @@
 <form>fordem</form>
 <tag>
 <AM lemma="Ford-2_;m_^(vozidlo)" src="orig">NNIS7-----A----</AM>
-<AM lemma="ford_;m" src="auto" recommended="1" selected="1">NNIS7-----A----</AM>
+<AM lemma="ford" src="auto" recommended="1" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-110-p2s1Bw8">
@@ -331,7 +331,7 @@
 <LM>w#w-mf930709-110-p2s2w12</LM>
 </w.rf>
 <form>hodinách</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930709-110-p2s2w13">
 <src.rf>manual</src.rf>

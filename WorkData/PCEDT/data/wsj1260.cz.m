@@ -162,7 +162,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1260-001-p1s0W12-Ta">
@@ -260,7 +260,7 @@
 <LM>w#w-wsj1260-001-p1s0W21</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m-wsj1260-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1203,7 +1203,7 @@
 <LM>w#w-wsj1260-001-p1s2W11</LM>
 </w.rf>
 <form>nejvíc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m-wsj1260-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2036,7 +2036,7 @@
 <LM>w#w-wsj1260-001-p1s5W13</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m-wsj1260-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>

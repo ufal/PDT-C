@@ -228,7 +228,7 @@
 <form>vulgarismů</form>
 <tag>
 <AM lemma="vulgarismus" src="orig">NNIP2-----A----</AM>
-<AM lemma="vulgarismus_^(^DD**vulgarizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="vulgarismus_,s_^(^DD**vulgarizmus)" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-027-p3s1w21">
@@ -603,7 +603,7 @@
 <LM>w#w-lnd91303-027-p3s4w10</LM>
 </w.rf>
 <form>hodinou</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91303-027-p3s4w11">
 <src.rf>manual</src.rf>
@@ -847,7 +847,7 @@
 <LM>w#w-lnd91303-027-p3s5w5</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd91303-027-p3s5w6">
 <src.rf>manual</src.rf>
@@ -1447,7 +1447,7 @@
 <LM>w#w-lnd91303-027-p3s7Bw4</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-027-p3s7Bw5">
 <src.rf>manual</src.rf>
@@ -1700,7 +1700,7 @@
 <LM>w#w-lnd91303-027-p3s8w6</LM>
 </w.rf>
 <form>hodinou</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91303-027-p3s8w7">
 <src.rf>manual</src.rf>
@@ -1873,7 +1873,7 @@
 <LM>w#w-lnd91303-027-p4s1w9</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91303-027-p4s1w10">
 <src.rf>manual</src.rf>
@@ -2354,7 +2354,7 @@
 <form>kpt</form>
 <tag>
 <AM lemma="kapitán_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="kpt_^(kapitán)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="kapitán" src="manual" selected="1">NNMXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd91303-027-p4s3w9">

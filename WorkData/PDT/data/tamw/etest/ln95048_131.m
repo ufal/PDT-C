@@ -135,7 +135,7 @@
 <LM>w#w-ln95048-131-p2s1Bw7</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95048-131-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -323,7 +323,7 @@
 <LM>w#w-ln95048-131-p2s1Bw29</LM>
 </w.rf>
 <form>zastavil</form>
-<tag lemma="zastavit-2_^(zástavní_právo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-131-p2s1Bw30">
 <src.rf>manual</src.rf>

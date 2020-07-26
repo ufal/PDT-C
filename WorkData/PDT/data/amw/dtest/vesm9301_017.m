@@ -200,7 +200,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS7-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS7-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-017-p2s1w19">
@@ -595,7 +595,7 @@
 <LM>w#w-vesm9301-017-p2s5w14</LM>
 </w.rf>
 <form>ušima</form>
-<tag lemma="ucho" src="orig" selected="1">NNFD7-----A----</tag>
+<tag lemma="ucho-2" src="orig" selected="1">NNFD7-----A----</tag>
 </m>
 <m id="m-vesm9301-017-p2s5w15">
 <src.rf>manual</src.rf>
@@ -2074,7 +2074,7 @@
 <LM>w#w-vesm9301-017-p3s8w10</LM>
 </w.rf>
 <form>nebránilo</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-vesm9301-017-p3s8w11">
 <src.rf>manual</src.rf>
@@ -2136,7 +2136,7 @@
 <LM>w#w-vesm9301-017-p4s1w6</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-vesm9301-017-p4s1w7">
 <src.rf>manual</src.rf>
@@ -2160,7 +2160,7 @@
 <LM>w#w-vesm9301-017-p4s1w9</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-vesm9301-017-p4s1w10">
 <src.rf>manual</src.rf>
@@ -2210,7 +2210,7 @@
 <LM>w#w-vesm9301-017-p4s2w2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-vesm9301-017-p4s2w3">
 <src.rf>manual</src.rf>
@@ -2558,7 +2558,7 @@
 <LM>w#w-vesm9301-017-p4s4w13</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9301-017-p4s4w14">
 <src.rf>manual</src.rf>
@@ -2994,7 +2994,7 @@
 <LM>w#w-vesm9301-017-p4s6w23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-vesm9301-017-p4s6w24">
 <src.rf>manual</src.rf>

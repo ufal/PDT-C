@@ -154,7 +154,7 @@
 <LM>w#w-lnd92256-034-p2s2w10</LM>
 </w.rf>
 <form>přistiženi</form>
-<tag lemma="přistihnout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="přistihnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-lnd92256-034-p2s2w11">
 <src.rf>manual</src.rf>
@@ -172,7 +172,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-034-p2s2w13">
@@ -298,7 +298,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--2----------</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--2----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-034-p2s3w10">
@@ -663,7 +663,7 @@
 <LM>w#w-lnd92256-034-p2s5w12</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92256-034-p2s5w13">
 <src.rf>manual</src.rf>
@@ -883,7 +883,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-034-p2s6w19">

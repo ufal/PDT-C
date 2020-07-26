@@ -1666,7 +1666,7 @@
 <LM>w#w-wsj1262-001-p1s8W3</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1262-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1885,7 +1885,7 @@
 <LM>w#w-wsj1262-001-p1s9W9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1262-001-p1s9W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1913,7 +1913,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -2156,7 +2156,7 @@
 <LM>w#w-wsj1262-001-p1s11W4</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1262-001-p1s11W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3296,7 +3296,7 @@
 <LM>w#w-wsj1262-001-p1s17W7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1262-001-p1s17W8-Ta">
 <src.rf>tagger-a</src.rf>

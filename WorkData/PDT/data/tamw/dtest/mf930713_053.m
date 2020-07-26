@@ -286,7 +286,7 @@
 <LM>w#w-mf930713-053-p1s1Bw27</LM>
 </w.rf>
 <form>odňaty</form>
-<tag lemma="odejmout" src="orig" selected="1">VsTP----X-AP---</tag>
+<tag lemma="odejmout" src="orig" selected="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-mf930713-053-p1s1Bw28">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 <LM>w#w-mf930713-053-p2s2Bw3</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-053-p2s2Bw4">
 <src.rf>manual</src.rf>

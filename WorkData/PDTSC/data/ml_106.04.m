@@ -701,7 +701,7 @@
 <LM>w#w-d1t957-8</LM>
 </w.rf>
 <form>vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m106-d1t957-9">
 <w.rf>
@@ -3235,7 +3235,7 @@
 <LM>w#w-d1t1066-7</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m106-d1t1066-9">
 <w.rf>
@@ -3265,7 +3265,7 @@
 <LM>w#w-d1t1066-12</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m106-d1t1066-14">
 <w.rf>
@@ -3934,7 +3934,7 @@
 <LM>w#w-d1t1098-6</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m106-d1t1098-7">
 <w.rf>

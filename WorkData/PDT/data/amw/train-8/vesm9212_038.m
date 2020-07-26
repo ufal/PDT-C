@@ -195,7 +195,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-038-p2s2w7">
@@ -295,7 +295,7 @@
 <LM>w#w-vesm9212-038-p2s2w18</LM>
 </w.rf>
 <form>okem</form>
-<tag lemma="oko" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-vesm9212-038-p2s2w19">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-vesm9212-038-p2s3w3</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-vesm9212-038-p2s3w4">
 <src.rf>manual</src.rf>
@@ -600,7 +600,7 @@
 <LM>w#w-vesm9212-038-p2s5w3</LM>
 </w.rf>
 <form>myslela</form>
-<tag lemma="myslet" src="orig" selected="1">VpQW----R-AA---</tag>
+<tag lemma="myslit" src="orig" selected="1">VpQW----R-AAI-1</tag>
 </m>
 <m id="m-vesm9212-038-p2s5w4">
 <src.rf>manual</src.rf>
@@ -989,7 +989,7 @@
 <LM>w#w-vesm9212-038-p2s7w8</LM>
 </w.rf>
 <form>baktériemi</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="baktérie_,s_^(^DD**bakterie)" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-vesm9212-038-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-038-p3s1w3">

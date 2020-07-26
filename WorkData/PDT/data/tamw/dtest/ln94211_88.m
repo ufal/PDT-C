@@ -43,7 +43,7 @@
 <LM>w#w-ln94211-88-p1s1w4</LM>
 </w.rf>
 <form>hub</form>
-<tag lemma="houba_^(houbovitá_věc/rostlina)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="houba" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-88-p2s1">
@@ -85,7 +85,7 @@
 <LM>w#w-ln94211-88-p2s1w5</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94211-88-p2s1w6">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-ln94211-88-p2s3w27</LM>
 </w.rf>
 <form>hub</form>
-<tag lemma="houba_^(houbovitá_věc/rostlina)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="houba" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94211-88-p2s3w28">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-ln94211-88-p3s1w10</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94211-88-p3s1w11">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-ln94211-88-p4s2w1</LM>
 </w.rf>
 <form>Zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94211-88-p4s2w2">
 <src.rf>manual</src.rf>
@@ -972,7 +972,7 @@
 <LM>w#w-ln94211-88-p4s3w3</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94211-88-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1028,7 +1028,7 @@
 <LM>w#w-ln94211-88-p4s3w10</LM>
 </w.rf>
 <form>hub</form>
-<tag lemma="houba_^(houbovitá_věc/rostlina)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="houba" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94211-88-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-ln94211-88-p4s4w2</LM>
 </w.rf>
 <form>hub</form>
-<tag lemma="houba_^(houbovitá_věc/rostlina)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="houba" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94211-88-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1184,7 +1184,7 @@
 <LM>w#w-ln94211-88-p4s5w7</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94211-88-p4s5w8">
 <src.rf>manual</src.rf>
@@ -1290,7 +1290,7 @@
 <LM>w#w-ln94211-88-p4s6w4</LM>
 </w.rf>
 <form>hub</form>
-<tag lemma="houba_^(houbovitá_věc/rostlina)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="houba" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94211-88-p4s6w5">
 <src.rf>manual</src.rf>

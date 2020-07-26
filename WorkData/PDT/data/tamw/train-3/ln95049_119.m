@@ -433,7 +433,7 @@
 <form>nalezena</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsQW----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsQW----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsQW----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln95049-119-p2s3w16">
@@ -765,7 +765,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-119-p3s3w11">
@@ -1453,7 +1453,7 @@
 <LM>w#w-ln95049-119-p5s3w8</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95049-119-p5s3w9">
 <src.rf>manual</src.rf>

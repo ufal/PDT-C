@@ -3038,7 +3038,7 @@
 <form>stala</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpQW----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92259-079-p6s4w16">

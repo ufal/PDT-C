@@ -44,7 +44,7 @@
 </w.rf>
 <form>pane</form>
 <tag>
-<AM lemma="pan_^(oslovení)" recommended="1">NNMS5-----A----</AM>
+<AM lemma="pan" recommended="1">NNMS5-----A----</AM>
 <AM lemma="pán_^(oslovení)">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -161,7 +161,7 @@
 <LM>w#w-jh_02-SCzechM-p0100-s1-w12</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="jh_02-SCzechM-p0100-s1-w13">
 <w.rf>
@@ -330,7 +330,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -349,7 +349,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -1324,7 +1324,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -1907,7 +1907,7 @@
 <LM>w#w-jh_02-SCzechM-p0112-s1-w31</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" recommended="1">J,-----------m-</tag>
 </m>
 <m id="jh_02-SCzechM-p0112-s1-w32">
 <w.rf>
@@ -2343,7 +2343,7 @@
 <LM>w#w-jh_02-SCzechM-p0116-s1-w12</LM>
 </w.rf>
 <form>očí</form>
-<tag lemma="oko" recommended="1">NNFP2-----A----</tag>
+<tag lemma="oko-2" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="jh_02-SCzechM-p0116-s1-w13">
 <w.rf>
@@ -2514,7 +2514,7 @@
 <LM>w#w-jh_02-SCzechM-p0118-s1-w2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="jh_02-SCzechM-p0118-s1-w3">
 <w.rf>
@@ -3253,7 +3253,7 @@
 <LM>w#w-jh_02-SCzechM-p0126-s1-w19</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" recommended="1">J,-----------m-</tag>
 </m>
 <m id="jh_02-SCzechM-p0126-s1-w20">
 <w.rf>
@@ -3356,7 +3356,7 @@
 </w.rf>
 <form>RŮŽOVĚ</form>
 <tag>
-<AM lemma="růžově_^(*1ý)" recommended="1">Dg-------1A----</AM>
+<AM lemma="růžově_;o_^(*1ý)" recommended="1">Dg-------1A----</AM>
 <AM lemma="Růžův_;Y_^(*2a)">AUFS3M---------</AM>
 <AM lemma="Růžův_;Y_^(*2a)">AUFS6M---------</AM>
 <AM lemma="Růžův_;Y_^(*2a)">AUIS3M--------6</AM>
@@ -3569,7 +3569,7 @@
 <form>bys</form>
 <tag>
 <AM lemma="být" recommended="1">Vc-S---2-------</AM>
-<AM lemma="být" src="manual" selected="1">Vc-S---2----I--</AM>
+<AM lemma="být" src="manual" selected="1">Vc----------Is-</AM>
 </tag>
 </m>
 <m id="jh_02-SCzechM-p0132-s1-w10">
@@ -5388,7 +5388,7 @@
 <LM>w#w-jh_02-SCzechM-p0161-s1-w20</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="jh_02-SCzechM-p0161-s1-w21">
 <w.rf>
@@ -6379,7 +6379,7 @@
 <form>Odine</form>
 <tag>
 <AM lemma="Odin_;Y" recommended="1">NNMS5-----A----</AM>
-<AM lemma="Odin_;Y" src="manual" selected="1">NNMS5-----A----</AM>
+<AM lemma="Odin_;Y_,s_^(^DD**Ódin)" src="manual" selected="1">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="jh_02-SCzechM-p0180-s1-w5">
@@ -6525,7 +6525,7 @@
 <LM>w#w-jh_02-SCzechM-p0186-s1-w2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" recommended="1">ACYS------A----</tag>
 </m>
 <m id="jh_02-SCzechM-p0186-s1-w3">
 <w.rf>
@@ -7126,7 +7126,7 @@
 <tag>
 <AM lemma="WWW-1_:B_,t_,x_^(World_Wide_Web)" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="www_:B_^(World_Wide_Web)" src="manual">NNXXX-----A----</AM>
-<AM lemma="www_^(World_Wide_Web)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="www_^(world_wide_web)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_02-SCzechM-p0194-s1-w28">

@@ -764,7 +764,7 @@
 <LM>w#w-mf930703-048-p4s1w10</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf930703-048-p4s1w11">
 <src.rf>manual</src.rf>
@@ -918,7 +918,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930703-048-p4s1w30">
@@ -967,7 +967,7 @@
 <LM>w#w-mf930703-048-p4s1w35</LM>
 </w.rf>
 <form>Bundesbanka</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bundesbanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-048-p4s1w36">
 <src.rf>manual</src.rf>
@@ -1263,7 +1263,7 @@
 <LM>w#w-mf930703-048-p6s1w7</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930703-048-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1571,7 +1571,7 @@
 <LM>w#w-mf930703-048-p6s4w3</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-048-p6s4w4">
 <src.rf>manual</src.rf>
@@ -1717,7 +1717,7 @@
 <LM>w#w-mf930703-048-p7s1w11</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930703-048-p7s1w12">
 <src.rf>manual</src.rf>
@@ -1956,7 +1956,7 @@
 <LM>w#w-mf930703-048-p7s3w1</LM>
 </w.rf>
 <form>Bundesbanka</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bundesbanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-048-p7s3w2">
 <src.rf>manual</src.rf>

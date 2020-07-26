@@ -93,7 +93,7 @@
 <LM>w#w-mf930708-043-p2s1w7</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930708-043-p2s1w8">
 <src.rf>manual</src.rf>

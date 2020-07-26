@@ -1746,7 +1746,7 @@
 <form>Umami</form>
 <tag>
 <AM lemma="Uma_;G" src="orig">NNFP7-----A----</AM>
-<AM lemma="umami_;U_^(pátá_chuť)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="umami_^(pátá_chuť)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-031-p38s2Fw2">

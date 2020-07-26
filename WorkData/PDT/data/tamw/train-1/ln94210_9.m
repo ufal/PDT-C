@@ -129,7 +129,7 @@
 <form>ČD</form>
 <tag>
 <AM lemma="ČD_:B_;m_^(České_dráhy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČD_;m_^(České_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-9-p2s1Bw9">
@@ -342,7 +342,7 @@
 <form>ČD</form>
 <tag>
 <AM lemma="ČD_:B_;m_^(České_dráhy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČD_;m_^(České_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-9-p2s2w8">
@@ -581,7 +581,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln94210-9-p3s1w5">
@@ -816,7 +816,7 @@
 <LM>w#w-ln94210-9-p4s1w4</LM>
 </w.rf>
 <form>urbanisticko</form>
-<tag lemma="urbanistický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="urbanisticko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94210-9-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1146,7 +1146,7 @@
 <LM>w#w-ln94210-9-p5s1w9</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94210-9-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1459,7 +1459,7 @@
 <LM>w#w-ln94210-9-p6s1w9</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94210-9-p6s1w10">
 <src.rf>manual</src.rf>
@@ -1581,7 +1581,7 @@
 <LM>w#w-ln94210-9-p6s2w4</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94210-9-p6s2w5">
 <src.rf>manual</src.rf>
@@ -1673,7 +1673,7 @@
 <form>ČD</form>
 <tag>
 <AM lemma="ČD_:B_;m_^(České_dráhy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČD_;m_^(České_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-9-p6s3w2">
@@ -1979,7 +1979,7 @@
 <form>ČD</form>
 <tag>
 <AM lemma="ČD_:B_;m_^(České_dráhy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČD_;m_^(České_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-9-p7s1w5">
@@ -2134,7 +2134,7 @@
 <LM>w#w-ln94210-9-p7s2w10</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94210-9-p7s2w11">
 <src.rf>manual</src.rf>

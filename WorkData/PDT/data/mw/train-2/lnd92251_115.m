@@ -27,7 +27,7 @@
 <LM>w#w-lnd92251-115-p1s1w2</LM>
 </w.rf>
 <form>očí</form>
-<tag lemma="oko" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92251-115-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-lnd92251-115-p1s1w4</LM>
 </w.rf>
 <form>očí</form>
-<tag lemma="oko" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92251-115-p2s1">
@@ -356,7 +356,7 @@
 <LM>w#w-lnd92251-115-p2s3w12</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-115-p2s3w13">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-lnd92251-115-p2s5w8</LM>
 </w.rf>
 <form>bránil</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-115-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1684,7 +1684,7 @@
 <LM>w#w-lnd92251-115-p2s10w4</LM>
 </w.rf>
 <form>nadával</form>
-<tag lemma="nadávat-1_^(spílat)_(*6at-1)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="nadávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-115-p2s10w5">
 <src.rf>manual</src.rf>

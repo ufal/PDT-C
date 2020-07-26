@@ -1863,7 +1863,7 @@
 <LM>w#w-wsj0634-001-p1s5W23</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj0634-001-p1s5W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2400,7 +2400,7 @@
 <LM>w#w-wsj0634-001-p1s8W9</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s8W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2775,7 +2775,7 @@
 <LM>w#w-wsj0634-001-p1s10W2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0634-001-p1s10W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4342,7 +4342,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0634-001-p1s15W7-Ta">
@@ -4921,7 +4921,7 @@
 <LM>w#w-wsj0634-001-p1s16W18</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0634-001-p1s16W19-Ta">
 <src.rf>tagger-a</src.rf>

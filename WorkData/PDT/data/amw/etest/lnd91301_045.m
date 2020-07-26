@@ -207,7 +207,7 @@
 <LM>w#w-lnd91301-045-p2s2w8</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd91301-045-p2s2w9">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-lnd91301-045-p2s5w4</LM>
 </w.rf>
 <form>koutů</form>
-<tag lemma="kout_^(př._dát_něco_do_kouta)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kout-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd91301-045-p2s5w5">
 <src.rf>manual</src.rf>

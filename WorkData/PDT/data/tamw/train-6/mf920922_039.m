@@ -137,7 +137,7 @@
 <form>ČZPI</form>
 <tag>
 <AM lemma="ČZPI_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČZPI-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČZPI_;m_^(Česká_zemědělská_a_potravinářská_inspekce)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-039-p2s2w12">
@@ -194,7 +194,7 @@
 <LM>w#w-mf920922-039-p2s2w18</LM>
 </w.rf>
 <form>Stoličnaja</form>
-<tag lemma="Stoličnaja-1_^(vodka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Stoličnaja_;m_^(vodka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-039-p2s2w19">
 <src.rf>manual</src.rf>
@@ -236,7 +236,7 @@
 <LM>w#w-mf920922-039-p2s3w2</LM>
 </w.rf>
 <form>vydán</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920922-039-p2s3w3">
 <src.rf>manual</src.rf>

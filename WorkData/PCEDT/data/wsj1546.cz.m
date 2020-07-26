@@ -330,7 +330,7 @@
 <LM>w#w-wsj1546-001-p1s0W26</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1546-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1130,7 +1130,7 @@
 <LM>w#w-wsj1546-001-p1s3W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1546-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>

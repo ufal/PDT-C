@@ -93,7 +93,7 @@
 <form>NASA</form>
 <tag>
 <AM lemma="NASA_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NASA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-010-p1s1w11">
@@ -286,7 +286,7 @@
 <LM>w#w-vesm9303-010-p1s2w5</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-010-p1s2w6">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-vesm9303-010-p1s2w27</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-010-p1s2w28">
 <src.rf>manual</src.rf>
@@ -2004,7 +2004,7 @@
 <LM>w#w-vesm9303-010-p1s8w42</LM>
 </w.rf>
 <form>ppm</form>
-<tag lemma="ppm_^(partes_per_milion)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ppm_^(partes_per_milion)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9303-010-p1s8w43">
 <src.rf>manual</src.rf>
@@ -2869,7 +2869,7 @@
 <LM>w#w-vesm9303-010-p1s12w7</LM>
 </w.rf>
 <form>podává</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9303-010-p1s12w8">
 <src.rf>manual</src.rf>
@@ -3338,7 +3338,7 @@
 <LM>w#w-vesm9303-010-p1s15w10</LM>
 </w.rf>
 <form>podává</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9303-010-p1s15w11">
 <src.rf>manual</src.rf>

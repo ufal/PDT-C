@@ -320,7 +320,7 @@
 <LM>w#w-wsj1582-001-p1s1W8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1582-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-wsj1582-001-p1s1W9</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1582-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-wsj1582-001-p1s2W27</LM>
 </w.rf>
 <form>nemocemi</form>
-<tag lemma="nemoc_^(choroba)" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="nemoc" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj1582-001-p1s2W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -972,7 +972,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1582-001-p1s3W16-Ta">
@@ -2518,7 +2518,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -2854,7 +2854,7 @@
 <LM>w#w-wsj1582-001-p1s8W27</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1582-001-p1s8W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4582,7 +4582,7 @@
 <LM>w#w-wsj1582-001-p1s13W22</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m-wsj1582-001-p1s13W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4807,7 +4807,7 @@
 <LM>w#w-wsj1582-001-p1s14W10</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1582-001-p1s14W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5505,7 +5505,7 @@
 <LM>w#w-wsj1582-001-p1s15W24</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1582-001-p1s15W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5793,7 +5793,7 @@
 <LM>w#w-wsj1582-001-p1s15W49</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1582-001-p1s15W50-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6072,7 +6072,7 @@
 <LM>w#w-wsj1582-001-p1s17W1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1582-001-p1s17W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6282,7 +6282,7 @@
 <LM>w#w-wsj1582-001-p1s18W5</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1582-001-p1s18W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7611,7 +7611,7 @@
 <LM>w#w-wsj1582-001-p1s22W11</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1582-001-p1s22W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7818,7 +7818,7 @@
 <LM>w#w-wsj1582-001-p1s23W5</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m-wsj1582-001-p1s23W6-Ta">
 <src.rf>tagger-a</src.rf>

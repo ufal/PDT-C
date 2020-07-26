@@ -35,7 +35,7 @@
 <LM>w#w-ln94210-124-p1s1w3</LM>
 </w.rf>
 <form>potřetí</form>
-<tag lemma="potřetí" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="potřetí" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94210-124-p1s1w4">
 <src.rf>manual</src.rf>
@@ -200,7 +200,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-124-p2s1Bw14">
@@ -259,7 +259,7 @@
 <LM>w#w-ln94210-124-p2s2w3</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94210-124-p2s2w4">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-ln94210-124-p2s2w5</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94210-124-p2s2w6">
 <src.rf>manual</src.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-ln94210-124-p2s3w2</LM>
 </w.rf>
 <form>šampion</form>
-<tag lemma="šampion" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="šampion_,s_^(^DD**šampión)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-124-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1031,7 +1031,7 @@
 <LM>w#w-ln94210-124-p2s4Bw12</LM>
 </w.rf>
 <form>nepřeložila</form>
-<tag lemma="přeložit-1_^(přemístit)" src="orig" selected="1">VpQW----R-NAP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-ln94210-124-p2s4Bw13">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-124-p2s4Bw24">
@@ -1221,7 +1221,7 @@
 <LM>w#w-ln94210-124-p3s1w4</LM>
 </w.rf>
 <form>pojede</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3F-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln94210-124-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1519,7 +1519,7 @@
 <LM>w#w-ln94210-124-p3s2w1</LM>
 </w.rf>
 <form>Nepojedou</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-P---3F-NAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-P---3F-NAI--</tag>
 </m>
 <m id="m-ln94210-124-p3s2w2">
 <src.rf>manual</src.rf>

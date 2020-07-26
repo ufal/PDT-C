@@ -96,7 +96,7 @@
 <LM>w#w-d1t3116-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m136-d1t3116-7">
 <w.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-d1e3117-x2-1035</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m136-d1e3117-x2-1036">
 <w.rf>

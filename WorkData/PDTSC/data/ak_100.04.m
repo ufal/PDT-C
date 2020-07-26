@@ -349,7 +349,7 @@
 <LM>w#w-d1t952-1</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m100-d1t952-2">
 <w.rf>
@@ -1088,7 +1088,7 @@
 <LM>w#w-d1t1007-10</LM>
 </w.rf>
 <form>Kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m100-d1t1007-11">
 <w.rf>
@@ -1649,7 +1649,7 @@
 <LM>w#w-d1t1013-2</LM>
 </w.rf>
 <form>Abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m100-d1t1013-3">
 <w.rf>
@@ -1728,7 +1728,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m100-d1t1013-12">
@@ -3511,7 +3511,7 @@
 <form>ČVUT</form>
 <tag>
 <AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČVUT-1_;m_^(České_vysoké_učení_technické)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČVUT_;m_^(České_vysoké_učení_technické)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m100-d1e1070-x2-390">
@@ -4008,7 +4008,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m100-d1e1125-x2-439">
@@ -4103,7 +4103,7 @@
 <LM>w#w-d1t1136-1</LM>
 </w.rf>
 <form>Kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m100-442-443">
 <w.rf>
@@ -4244,7 +4244,7 @@
 <LM>w#w-d1t1141-9</LM>
 </w.rf>
 <form>kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m100-d1t1141-10">
 <w.rf>

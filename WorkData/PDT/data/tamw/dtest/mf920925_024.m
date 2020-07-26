@@ -1330,7 +1330,7 @@
 <LM>w#w-mf920925-024-p6s1w1</LM>
 </w.rf>
 <form>Těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920925-024-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1516,7 +1516,7 @@
 <LM>w#w-mf920925-024-p6s2w7</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf920925-024-p6s2w8">
 <src.rf>manual</src.rf>
@@ -1630,7 +1630,7 @@
 <LM>w#w-mf920925-024-p6s3w9</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920925-024-p6s3w10">
 <src.rf>manual</src.rf>
@@ -2145,7 +2145,7 @@
 <LM>w#w-mf920925-024-p6s8w14</LM>
 </w.rf>
 <form>nenechal</form>
-<tag lemma="nechat" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf920925-024-p6s8w15">
 <src.rf>manual</src.rf>
@@ -2169,7 +2169,7 @@
 <LM>w#w-mf920925-024-p6s8w17</LM>
 </w.rf>
 <form>ujít</form>
-<tag lemma="ujít-2_^(výdělek;_pozornost)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="ujít-1_^(kus_cesty,výdělek)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920925-024-p6s8w18">
 <src.rf>manual</src.rf>
@@ -2233,7 +2233,7 @@
 <LM>w#w-mf920925-024-p6s8w25</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920925-024-p6s8w26">
 <src.rf>manual</src.rf>

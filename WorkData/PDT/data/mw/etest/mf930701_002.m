@@ -106,7 +106,7 @@
 <form>čtk</form>
 <tag>
 <AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="čtk_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-002-p2s1w6">
@@ -705,7 +705,7 @@
 <LM>w#w-mf930701-002-p2s4w10</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930701-002-p2s4w11">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <form>ČSLA</form>
 <tag>
 <AM lemma="ČSLA_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSLA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSLA_;m_^(Československá_lidová_armáda)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-002-p2s6w3">
@@ -1044,7 +1044,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-002-p2s7w8">
@@ -1111,7 +1111,7 @@
 <LM>w#w-mf930701-002-p2s8w3</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-002-p2s8w4">
 <src.rf>manual</src.rf>

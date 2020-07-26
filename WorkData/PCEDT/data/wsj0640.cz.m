@@ -2678,7 +2678,7 @@
 </w.rf>
 <form>Vánoc</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="vánoce_,i_^(^DS**Vánoce)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -3712,7 +3712,7 @@
 <LM>w#w-wsj0640-001-p1s13W32</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0640-001-p1s13W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3865,7 +3865,7 @@
 <LM>w#w-wsj0640-001-p1s14W5</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0640-001-p1s14W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5687,7 +5687,7 @@
 <LM>w#w-wsj0640-001-p1s21W4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0640-001-p1s21W5-Ta">
 <src.rf>tagger-a</src.rf>

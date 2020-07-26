@@ -621,7 +621,7 @@
 <LM>w#w-ln94207-118-p2s4w4</LM>
 </w.rf>
 <form>správně</form>
-<tag lemma="správně_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94207-118-p2s4w5">
 <src.rf>manual</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-ln94207-118-p2s4w24</LM>
 </w.rf>
 <form>Schönbergovou</form>
-<tag lemma="Schönbergův_;Y_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Schönbergův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-ln94207-118-p2s4w25">
 <src.rf>manual</src.rf>
@@ -915,7 +915,7 @@
 <form>Mélisandou</form>
 <tag>
 <AM lemma="Mélisanda_;Y" src="auto">NNFS7-----A----</AM>
-<AM lemma="Mélisanda_;Y" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Mélisanda_;Y_,s_^(^DD**Melisanda)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-118-p2s4w41">
@@ -1660,7 +1660,7 @@
 <LM>w#w-ln94207-118-p2s7w19</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94207-118-p2s7w20">
 <src.rf>manual</src.rf>
@@ -2108,7 +2108,7 @@
 <LM>w#w-ln94207-118-p2s8w43</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-ln94207-118-p2s8w44">
 <src.rf>manual</src.rf>
@@ -2410,7 +2410,7 @@
 <LM>w#w-ln94207-118-p3s2w6</LM>
 </w.rf>
 <form>lyricko</form>
-<tag lemma="lyrický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="lyricko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94207-118-p3s2w7">
 <src.rf>manual</src.rf>
@@ -2886,7 +2886,7 @@
 <LM>w#w-ln94207-118-p3s3w20</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94207-118-p3s3w21">
 <src.rf>manual</src.rf>
@@ -3430,7 +3430,7 @@
 <LM>w#w-ln94207-118-p4s1w12</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94207-118-p4s1w13">
 <src.rf>manual</src.rf>
@@ -3643,7 +3643,7 @@
 <LM>w#w-ln94207-118-p4s2w13</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-118-p4s2w14">
 <src.rf>manual</src.rf>

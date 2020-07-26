@@ -189,7 +189,7 @@
 <LM>w#w-ln94201-73-p2s1w16</LM>
 </w.rf>
 <form>sn</form>
-<tag lemma="sn-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="sn-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94201-73-p2s1w17">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-ln94201-73-p3s4w8</LM>
 </w.rf>
 <form>nemyslelo</form>
-<tag lemma="myslet" src="orig" selected="1">VpNS----R-NA---</tag>
+<tag lemma="myslit" src="orig" selected="1">VpNS----R-NAI-1</tag>
 </m>
 <m id="m-ln94201-73-p3s4w9">
 <src.rf>manual</src.rf>
@@ -3064,7 +3064,7 @@
 <LM>w#w-ln94201-73-p7s4w18</LM>
 </w.rf>
 <form>dáváme</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln94201-73-p7s4w19">
 <src.rf>manual</src.rf>

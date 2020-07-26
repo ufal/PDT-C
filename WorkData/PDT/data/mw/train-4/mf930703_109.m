@@ -114,7 +114,7 @@
 <form>s</form>
 <tag>
 <AM lemma="státní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="státní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="státní" src="manual" selected="1">AAXXX----1A---a</AM>
 </tag>
 </m>
 <m id="m-mf930703-109-p2s1w9">
@@ -133,7 +133,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930703-109-p2s1w11">

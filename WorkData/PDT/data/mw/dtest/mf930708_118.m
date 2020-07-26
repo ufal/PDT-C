@@ -464,7 +464,7 @@
 <form>ol</form>
 <tag>
 <AM lemma="olympijský_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="olympijský" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="olympijský" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-118-p2s2w32">

@@ -1098,7 +1098,7 @@
 </w.rf>
 <form>hodinách</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP6-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -3237,7 +3237,7 @@
 <LM>w#w-wsj2070-001-p1s11W20</LM>
 </w.rf>
 <form>Evropou</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj2070-001-p1s11W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6733,7 +6733,7 @@
 <LM>w#w-wsj2070-001-p1s23W28</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj2070-001-p1s23W29-Ta">
 <src.rf>tagger-a</src.rf>

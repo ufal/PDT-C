@@ -76,7 +76,7 @@
 <form>FMV</form>
 <tag>
 <AM lemma="FMV_:B_;m_^(Federální_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FMV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FMV" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-034-p3s1w4">
@@ -154,7 +154,7 @@
 <form>gen</form>
 <tag>
 <AM lemma="generál_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="generál" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="generál" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-034-p3s1w13">
@@ -173,7 +173,7 @@
 <form>mjr</form>
 <tag>
 <AM lemma="major_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="major" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="major" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-034-p3s1w15">
@@ -243,7 +243,7 @@
 <LM>w#w-lnd92254-034-p3s2w8</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-034-p3s2w9">
 <src.rf>manual</src.rf>
@@ -360,7 +360,7 @@
 <LM>w#w-lnd92254-034-p3s3w5</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-034-p3s3w6">
 <src.rf>manual</src.rf>
@@ -450,7 +450,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-034-p3s3w17">
@@ -622,7 +622,7 @@
 <form>ČSSR</form>
 <tag>
 <AM lemma="ČSSR-1_:B_;G_^(Čs._socialistická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSR-1_;G_^(Čs._socialistická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSSR_;G_^(Čs._socialistická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-034-p3s3w37">
@@ -639,7 +639,7 @@
 <LM>w#w-lnd92254-034-p3s3w38</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-034-p3s3w39">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-034-p3s3w49">

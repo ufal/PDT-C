@@ -621,7 +621,7 @@
 <AM lemma="pesos" src="orig">NNNXX-----A----</AM>
 <AM lemma="peso_,x" src="auto" recommended="1">NNIXX-----A---1</AM>
 <AM lemma="pesos_,s_^(^DD**peso)" src="manual">NNIXX-----A---1</AM>
-<AM lemma="pesos_,s_^(^DD**peso)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="peso_^(měna_někt._jihoamer._zemí)" src="manual" selected="1">NNNXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95045-008-p3s3w9">
@@ -674,7 +674,7 @@
 <tag>
 <AM lemma="pesos" src="orig">NNNXX-----A----</AM>
 <AM lemma="peso_,x" src="auto" recommended="1">NNIXX-----A---1</AM>
-<AM lemma="pesos_,s_^(^DD**peso)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="peso_^(měna_někt._jihoamer._zemí)" src="manual" selected="1">NNNXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95045-008-p3s3w15">

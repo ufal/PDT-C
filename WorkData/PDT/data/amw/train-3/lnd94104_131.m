@@ -35,7 +35,7 @@
 <LM>w#w-lnd94104-131-p1s1Aw3</LM>
 </w.rf>
 <form>disciplinárkou</form>
-<tag lemma="disciplinárka_,h" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="disciplinárka" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94104-131-p1s1B">
@@ -1873,7 +1873,7 @@
 <LM>w#w-lnd94104-131-p1s10w5</LM>
 </w.rf>
 <form>předali</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-131-p1s10w6">
 <src.rf>manual</src.rf>
@@ -2312,7 +2312,7 @@
 <LM>w#w-lnd94104-131-p1s13w5</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-lnd94104-131-p1s13w7">
 <src.rf>manual</src.rf>

@@ -864,7 +864,7 @@
 <LM>w#w-d1t2089-25</LM>
 </w.rf>
 <form>vylítne</form>
-<tag lemma="vylítnout" src="auto" recommended="1">VB-S---3P-AAP--</tag>
+<tag lemma="vylítnout_,h_^(^GC**vylétnout)" src="auto" recommended="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m049-d1t2089-26">
 <w.rf>
@@ -1518,7 +1518,7 @@
 <LM>w#w-d1t2136-6</LM>
 </w.rf>
 <form>teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m049-d1t2138-3">
 <w.rf>
@@ -2655,7 +2655,7 @@
 <LM>w#w-d1t2185-19</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m049-539-540">
 <w.rf>
@@ -3238,7 +3238,7 @@
 <LM>w#w-d1t2222-10</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m049-d1t2222-13">
 <w.rf>

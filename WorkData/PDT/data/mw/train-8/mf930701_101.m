@@ -202,7 +202,7 @@
 <LM>w#w-mf930701-101-p1s2w10</LM>
 </w.rf>
 <form>zatopila</form>
-<tag lemma="zatopit-2_^(zaplavit)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="zatopit_^(zaplavit_i_udělat_teplo)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930701-101-p1s2w11">
 <src.rf>manual</src.rf>

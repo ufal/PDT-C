@@ -393,7 +393,7 @@
 <LM>w#w-ln94204-91-p2s1w45</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94204-91-p2s1w46">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-ln94204-91-p3s2w9</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94204-91-p3s2w10">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-ln94204-91-p4s2w4</LM>
 </w.rf>
 <form>intenzivně</form>
-<tag lemma="intenzivně_^(*4ívní)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="intenzivně_^(^DD**intenzívně)_(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94204-91-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1112,7 +1112,7 @@
 <LM>w#w-ln94204-91-p5s2w7</LM>
 </w.rf>
 <form>rusko</form>
-<tag lemma="ruský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="rusko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94204-91-p5s2w8">
 <src.rf>manual</src.rf>
@@ -1383,7 +1383,7 @@
 <LM>w#w-ln94204-91-p6s1w11</LM>
 </w.rf>
 <form>tajně</form>
-<tag lemma="tajně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="tajně-1_^(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94204-91-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1571,7 +1571,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-91-p6s2w6">

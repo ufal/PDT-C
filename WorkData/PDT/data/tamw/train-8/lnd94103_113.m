@@ -238,7 +238,7 @@
 <form>NHL</form>
 <tag>
 <AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NHL_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-113-p1s3w18">
@@ -939,7 +939,7 @@
 <LM>w#w-lnd94103-113-p1s6w5</LM>
 </w.rf>
 <form>mířili</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-113-p1s6w6">
 <src.rf>manual</src.rf>

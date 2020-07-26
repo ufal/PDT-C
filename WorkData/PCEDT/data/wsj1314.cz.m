@@ -115,7 +115,7 @@
 <LM>w#w-wsj1314-001-p1s0W10</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj1314-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1563,7 +1563,7 @@
 <LM>w#w-wsj1314-001-p1s6W7</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1314-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2964,7 +2964,7 @@
 <LM>w#w-wsj1314-001-p1s11W7</LM>
 </w.rf>
 <form>vaším</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS7-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS7-P2-------</tag>
 </m>
 <m id="m-wsj1314-001-p1s11W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3662,7 +3662,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -6206,7 +6206,7 @@
 <LM>w#w-wsj1314-001-p1s21W13</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj1314-001-p1s21W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7690,7 +7690,7 @@
 <LM>w#w-wsj1314-001-p1s25W7</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1314-001-p1s25W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9690,7 +9690,7 @@
 <LM>w#w-wsj1314-001-p1s29W18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1314-001-p1s29W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15254,7 +15254,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1314-001-p1s43W22-Ta">

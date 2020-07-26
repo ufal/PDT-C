@@ -594,7 +594,7 @@
 <LM>w#w-lnd94104-114-p1s4w8</LM>
 </w.rf>
 <form>nevydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-NAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd94104-114-p1s4w9">
 <src.rf>manual</src.rf>

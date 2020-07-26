@@ -631,7 +631,7 @@
 <LM>w#w-ln95045-024-p3s2w14</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95045-024-p3s2w15">
 <src.rf>manual</src.rf>

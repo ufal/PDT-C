@@ -144,7 +144,7 @@
 <LM>w#w-lnd91301-066-p3s1w12</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91301-066-p3s1w13">
 <src.rf>manual</src.rf>

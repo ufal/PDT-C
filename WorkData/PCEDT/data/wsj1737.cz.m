@@ -4363,7 +4363,7 @@
 <LM>w#w-wsj1737-001-p1s16W6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1737-001-p1s16W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4399,7 +4399,7 @@
 <LM>w#w-wsj1737-001-p1s16W10</LM>
 </w.rf>
 <form>koupilo</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpNS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1737-001-p1s16W11-Ta">
 <src.rf>tagger-a</src.rf>

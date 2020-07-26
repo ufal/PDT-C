@@ -3306,7 +3306,7 @@
 <LM>w#w-wsj1467-001-p1s9W26</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1467-001-p1s9W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3314,7 +3314,7 @@
 <LM>w#w-wsj1467-001-p1s9W27</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1467-001-p1s9W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4396,7 +4396,7 @@
 <LM>w#w-wsj1467-001-p1s13W3</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1467-001-p1s13W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5703,7 +5703,7 @@
 <LM>w#w-wsj1467-001-p1s17W6</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1467-001-p1s17W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8782,7 +8782,7 @@
 </w.rf>
 <form>Vánoc</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="vánoce_,i_^(^DS**Vánoce)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -9753,7 +9753,7 @@
 <LM>w#w-wsj1467-001-p1s29W28</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1467-001-p1s29W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10309,7 +10309,7 @@
 <LM>w#w-wsj1467-001-p1s31W8</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1467-001-p1s31W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11765,7 +11765,7 @@
 <LM>w#w-wsj1467-001-p1s35W17</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1467-001-p1s35W18-Ta">
 <src.rf>tagger-a</src.rf>

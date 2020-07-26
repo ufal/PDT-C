@@ -109,7 +109,7 @@
 <LM>w#w-vesm9211-018-p2s1w6</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-018-p2s1w7">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <form>t</form>
 <tag>
 <AM lemma="t-1`tuna_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="tuna" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="tuna" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-018-p2s3w16">
@@ -436,7 +436,7 @@
 <form>t</form>
 <tag>
 <AM lemma="t-1`tuna_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="tuna" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="tuna" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-018-p2s3w21">
@@ -521,7 +521,7 @@
 <form>t</form>
 <tag>
 <AM lemma="t-1`tuna_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="tuna" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="tuna" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-018-p2s3w31">
@@ -624,7 +624,7 @@
 <form>t</form>
 <tag>
 <AM lemma="t-1`tuna_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="tuna" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="tuna" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-018-p2s3w43">
@@ -633,7 +633,7 @@
 <LM>w#w-vesm9211-018-p2s3w43</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-vesm9211-018-p2s3w44">
 <src.rf>manual</src.rf>

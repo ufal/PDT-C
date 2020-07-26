@@ -315,7 +315,7 @@
 <form>ČOI</form>
 <tag>
 <AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČOI_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-11-p2s2w11">

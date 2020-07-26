@@ -291,7 +291,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-054-p2s2w6">
@@ -757,7 +757,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-054-p3s2w5">
@@ -1014,7 +1014,7 @@
 <LM>w#w-ln95044-054-p3s3w1</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-054-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1098,7 +1098,7 @@
 <AM lemma="elementarismus" src="orig">NNIS7-----A----</AM>
 <AM lemma="elementarizmus_,x" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="elemeelementarismus_^(^DD**elementarizmus)" src="manual">NNIS7-----A----</AM>
-<AM lemma="elementarismus_^(^DD**elementarizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="elementarismus_,s_^(^DD**elementarizmus)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-054-p3s3w12">
@@ -3734,7 +3734,7 @@
 <LM>w#w-ln95044-054-p6s4w32</LM>
 </w.rf>
 <form>pomalu</form>
-<tag lemma="pomalu" src="orig" selected="1">Db-------------</tag>
+<tag lemma="pomalu" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95044-054-p6s4w33">
 <src.rf>manual</src.rf>
@@ -3938,7 +3938,7 @@
 <LM>w#w-ln95044-054-p6s7w4</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-ln95044-054-p6s7w5">
 <src.rf>manual</src.rf>
@@ -3948,7 +3948,7 @@
 <form>mysleli</form>
 <tag>
 <AM lemma="myslet" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="myslet" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="myslit" src="manual" selected="1">VpMP----R-AAI-1</AM>
 </tag>
 </m>
 <m id="m-ln95044-054-p6s7w6">
@@ -4209,7 +4209,7 @@
 <LM>w#w-ln95044-054-p6s9w6</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95044-054-p6s9w7">
 <src.rf>manual</src.rf>
@@ -4561,7 +4561,7 @@
 <LM>w#w-ln95044-054-p7s1w23</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-ln95044-054-p7s1w24">
 <src.rf>manual</src.rf>
@@ -4785,7 +4785,7 @@
 <form>hl</form>
 <tag>
 <AM lemma="hlavní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="hlavní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="hlavní" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95044-054-p7s4w3">

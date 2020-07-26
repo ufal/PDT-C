@@ -167,7 +167,7 @@
 <LM>w#w-ln95044-081-p2s1Bw13</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-081-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-ln95044-081-p2s2w17</LM>
 </w.rf>
 <form>jíst</form>
-<tag lemma="jíst_^(konzumovat_jídlo)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="jíst" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95044-081-p2s2w18">
 <src.rf>manual</src.rf>

@@ -431,7 +431,7 @@
 <LM>w#w-lnd92251-073-p3s1w36</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-lnd92251-073-p3s1w37">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 <LM>w#w-lnd92251-073-p3s2w19</LM>
 </w.rf>
 <form>přeložena</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VsQW----X-APP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92251-073-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1112,7 +1112,7 @@
 <LM>w#w-lnd92251-073-p3s3w13</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92251-073-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <LM>w#w-lnd92251-073-p4s1w13</LM>
 </w.rf>
 <form>snem</form>
-<tag lemma="sen" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92251-073-p4s1w14">
 <src.rf>manual</src.rf>
@@ -2622,7 +2622,7 @@
 <LM>w#w-lnd92251-073-p5s2w19</LM>
 </w.rf>
 <form>očima</form>
-<tag lemma="oko" src="orig" selected="1">NNFD7-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFD7-----A----</tag>
 </m>
 <m id="m-lnd92251-073-p5s2w20">
 <src.rf>manual</src.rf>
@@ -2784,7 +2784,7 @@
 <LM>w#w-lnd92251-073-p5s3w17</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="orig" selected="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACQW------A----</tag>
 </m>
 <m id="m-lnd92251-073-p5s3w18">
 <src.rf>manual</src.rf>
@@ -2996,7 +2996,7 @@
 <LM>w#w-lnd92251-073-p5s5w5</LM>
 </w.rf>
 <form>cynismem</form>
-<tag lemma="cynismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="cynismus_,s_^(^DD**cynizmus)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92251-073-p5s5w6">
 <src.rf>manual</src.rf>
@@ -3796,7 +3796,7 @@
 <LM>w#w-lnd92251-073-p6s2w6</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-073-p6s2w7">
 <src.rf>manual</src.rf>

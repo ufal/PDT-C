@@ -206,7 +206,7 @@
 <LM>w#w-wsj0412-001-p1s0W14</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0412-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>

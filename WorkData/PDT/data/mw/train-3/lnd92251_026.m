@@ -245,7 +245,7 @@
 <LM>w#w-lnd92251-026-p2s1w27</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-026-p2s1w28">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-026-p2s3w12">
@@ -670,7 +670,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-026-p2s3w28">
@@ -853,7 +853,7 @@
 <form>nalezeny</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsTP----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsTP----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsTP----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-lnd92251-026-p2s5w8">

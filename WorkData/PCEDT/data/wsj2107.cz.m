@@ -1423,7 +1423,7 @@
 <LM>w#w-wsj2107-001-p1s5W3</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2107-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1839,7 +1839,7 @@
 <LM>w#w-wsj2107-001-p1s6W11</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-wsj2107-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>

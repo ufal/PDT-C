@@ -52,7 +52,7 @@
 <LM>w#w-lnd94104-073-p1s1Aw5</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd94104-073-p1s1Aw6">
 <src.rf>manual</src.rf>

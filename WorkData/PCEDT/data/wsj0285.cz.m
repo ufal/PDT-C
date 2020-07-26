@@ -2477,7 +2477,7 @@
 <LM>w#w-wsj0285-001-p1s6W48</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0285-001-p1s6W49-Ta">
 <src.rf>tagger-a</src.rf>

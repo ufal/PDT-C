@@ -150,7 +150,7 @@
 <LM>w#w-d1t1215-25</LM>
 </w.rf>
 <form>nejlíp</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A---1</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m122-d1t1215-26">
 <w.rf>
@@ -1005,7 +1005,7 @@
 <LM>w#w-d1t1246-25</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m122-d1t1246-26">
 <w.rf>
@@ -1202,7 +1202,7 @@
 <LM>w#w-d1t1248-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m122-d1t1248-3">
 <w.rf>
@@ -1768,7 +1768,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m122-d1t1278-12">
@@ -1918,7 +1918,7 @@
 <LM>w#w-d1t1281-8</LM>
 </w.rf>
 <form>Jedeme</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m122-d1t1281-9">
 <w.rf>
@@ -3738,7 +3738,7 @@
 <form>programem</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m122-d-id111613-punct">
@@ -3753,7 +3753,7 @@
 <LM>w#w-d1t1351-5</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m122-d1t1351-6">
 <w.rf>
@@ -3974,7 +3974,7 @@
 </w.rf>
 <form>více</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="více" src="auto">Ca--X----------</AM>
 </tag>
 </m>

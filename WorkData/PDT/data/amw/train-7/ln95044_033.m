@@ -43,7 +43,7 @@
 <LM>w#w-ln95044-033-p1s1w4</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="NHL_;m_^(Nár._hokejová_liga)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95044-033-p1s1w5">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-ln95044-033-p2s1w17</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="NHL_;m_^(Nár._hokejová_liga)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95044-033-p2s1w18">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <form>jr</form>
 <tag>
 <AM lemma="junior_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="jr" src="auto" recommended="1" selected="1">BNMXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-033-p2s1w30">
@@ -419,7 +419,7 @@
 <LM>w#w-ln95044-033-p2s2w10</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-033-p2s2w11">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-ln95044-033-p2s3w7</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="NHL_;m_^(Nár._hokejová_liga)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95044-033-p2s3w8">
 <src.rf>manual</src.rf>
@@ -1974,7 +1974,7 @@
 <LM>w#w-ln95044-033-p3s2w7</LM>
 </w.rf>
 <form>zastavila</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95044-033-p3s2w8">
 <src.rf>manual</src.rf>
@@ -2096,7 +2096,7 @@
 <LM>w#w-ln95044-033-p3s3w4</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-033-p3s3w5">
 <src.rf>manual</src.rf>
@@ -2258,7 +2258,7 @@
 <LM>w#w-ln95044-033-p3s4w4</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95044-033-p3s4w5">
 <src.rf>manual</src.rf>
@@ -2397,7 +2397,7 @@
 <LM>w#w-ln95044-033-p3s5w5</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="NHL_;m_^(Nár._hokejová_liga)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95044-033-p3s5w6">
 <src.rf>manual</src.rf>
@@ -2593,7 +2593,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln95044-033-p3s6w5">
@@ -2642,7 +2642,7 @@
 <LM>w#w-ln95044-033-p3s6w10</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95044-033-p3s6w11">
 <src.rf>manual</src.rf>
@@ -2894,7 +2894,7 @@
 <LM>w#w-ln95044-033-p3s8w14</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-033-p3s8w15">
 <src.rf>manual</src.rf>
@@ -3104,7 +3104,7 @@
 <LM>w#w-ln95044-033-p3s9w10</LM>
 </w.rf>
 <form>snem</form>
-<tag lemma="sen" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95044-033-p3s9w11">
 <src.rf>manual</src.rf>
@@ -3176,7 +3176,7 @@
 <LM>w#w-ln95044-033-p3s9w19</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95044-033-p3s9w20">
 <src.rf>manual</src.rf>
@@ -3293,7 +3293,7 @@
 <LM>w#w-ln95044-033-p3s10w5</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="NHL_;m_^(Nár._hokejová_liga)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95044-033-p3s10w6">
 <src.rf>manual</src.rf>
@@ -3407,7 +3407,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-033-p3s10w20">
@@ -3434,7 +3434,7 @@
 <LM>w#w-ln95044-033-p3s11w1</LM>
 </w.rf>
 <form>Mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95044-033-p3s11w2">
 <src.rf>manual</src.rf>
@@ -3644,7 +3644,7 @@
 <LM>w#w-ln95044-033-p3s12w17</LM>
 </w.rf>
 <form>můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln95044-033-p3s12w18">
 <src.rf>manual</src.rf>
@@ -3933,7 +3933,7 @@
 <LM>w#w-ln95044-033-p3s15w9</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-033-p3s15w10">
 <src.rf>manual</src.rf>
@@ -4023,7 +4023,7 @@
 <LM>w#w-ln95044-033-p3s16w5</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-033-p3s16w6">
 <src.rf>manual</src.rf>
@@ -4049,7 +4049,7 @@
 <LM>w#w-ln95044-033-p3s17w1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-033-p3s17w2">
 <src.rf>manual</src.rf>
@@ -4089,7 +4089,7 @@
 <LM>w#w-ln95044-033-p3s17w6</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="NHL_;m_^(Nár._hokejová_liga)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95044-033-p3s17w7">
 <src.rf>manual</src.rf>
@@ -4721,7 +4721,7 @@
 <LM>w#w-ln95044-033-p3s22w10</LM>
 </w.rf>
 <form>dával</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-033-p3s22w11">
 <src.rf>manual</src.rf>
@@ -4801,7 +4801,7 @@
 <LM>w#w-ln95044-033-p3s22w20</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln95044-033-p3s22w21">
 <src.rf>manual</src.rf>
@@ -4809,7 +4809,7 @@
 <LM>w#w-ln95044-033-p3s22w21</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-033-p3s22w22">
 <src.rf>manual</src.rf>

@@ -2755,7 +2755,7 @@
 <form>CBS</form>
 <tag>
 <AM lemma="CBS_:B_;m_^(am.elevizní_společnost)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="CBS_;m_^(am._televizní_společnost)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0408-001-p1s6W43-Ta">
@@ -3723,7 +3723,7 @@
 <LM>w#w-wsj0408-001-p1s9W20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0408-001-p1s9W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4060,7 +4060,7 @@
 <LM>w#w-wsj0408-001-p1s10W26</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0408-001-p1s10W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4658,7 +4658,7 @@
 <AM lemma="Raděj_;Y" src="auto">NNMS3-----A----</AM>
 <AM lemma="Raděj_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Raděj_;Y" src="auto">NNMS6-----A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-wsj0408-001-p1s12W17-Ta">
@@ -4667,7 +4667,7 @@
 <LM>w#w-wsj0408-001-p1s12W17</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0408-001-p1s12W18-Ta">
 <src.rf>tagger-a</src.rf>

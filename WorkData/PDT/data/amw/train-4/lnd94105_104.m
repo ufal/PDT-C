@@ -242,7 +242,7 @@
 <LM>w#w-lnd94105-104-p1s2w13</LM>
 </w.rf>
 <form>mechanismem</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="mechanismus_,s_^(^DD**mechanizmus)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd94105-104-p1s2w14">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-lnd94105-104-p1s4w12</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94105-104-p1s4w13">
 <src.rf>manual</src.rf>

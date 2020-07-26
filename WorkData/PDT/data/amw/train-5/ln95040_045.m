@@ -1047,7 +1047,7 @@
 <LM>w#w-ln95040-045-p3s3w27</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95040-045-p3s3w28">
 <src.rf>manual</src.rf>
@@ -1967,7 +1967,7 @@
 <form>jako</form>
 <tag>
 <AM lemma="jako-1" src="auto">J,-------------</AM>
-<AM lemma="jako-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jako-1" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-045-p5s1w8">
@@ -2145,7 +2145,7 @@
 <LM>w#w-ln95040-045-p5s2w14</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-ln95040-045-p5s2w15">
 <src.rf>manual</src.rf>

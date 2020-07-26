@@ -2675,7 +2675,7 @@
 <LM>w#w-wsj0564-001-p1s9W5</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0564-001-p1s9W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3002,7 +3002,7 @@
 <LM>w#w-wsj0564-001-p1s10W3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m-wsj0564-001-p1s10W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3197,7 +3197,7 @@
 <LM>w#w-wsj0564-001-p1s10W20</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m-wsj0564-001-p1s10W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5626,7 +5626,7 @@
 <LM>w#w-wsj0564-001-p1s19W38</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0564-001-p1s19W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8604,7 +8604,7 @@
 <LM>w#w-wsj0564-001-p1s30W7</LM>
 </w.rf>
 <form>dával</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0564-001-p1s30W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10164,7 +10164,7 @@
 <LM>w#w-wsj0564-001-p1s36W6</LM>
 </w.rf>
 <form>růžově</form>
-<tag lemma="růžově_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="růžově_;o_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0564-001-p1s36W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13663,7 +13663,7 @@
 <LM>w#w-wsj0564-001-p1s49W6</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0564-001-p1s49W7-Ta">
 <src.rf>tagger-a</src.rf>

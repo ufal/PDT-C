@@ -120,7 +120,7 @@
 <form>kpt</form>
 <tag>
 <AM lemma="kapitán_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="kpt_^(kapitán)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="kapitán" src="manual" selected="1">NNMXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92256-026-p1s1w14">
@@ -239,7 +239,7 @@
 <form>pplk</form>
 <tag>
 <AM lemma="podplukovník_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="pplk_^(podplukovník)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="podplukovník" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92256-026-p1s3w5">
@@ -338,7 +338,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-026-p2s1w6">

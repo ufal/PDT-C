@@ -180,7 +180,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-014-p1s3w10">
@@ -349,7 +349,7 @@
 <LM>w#w-lnd94103-014-p1s3w30</LM>
 </w.rf>
 <form>předána</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsQW----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd94103-014-p1s3w31">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <form>mjr</form>
 <tag>
 <AM lemma="major_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="major" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="major" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-014-p1s4w6">
@@ -468,7 +468,7 @@
 <LM>w#w-lnd94103-014-p1s4w10</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94103-014-p1s4w11">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-014-p1s4w13">
@@ -993,7 +993,7 @@
 <LM>w#w-lnd94103-014-p1s7w3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94103-014-p1s7w4">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <form>mjr</form>
 <tag>
 <AM lemma="major_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="major" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="major" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-014-p1s8w15">

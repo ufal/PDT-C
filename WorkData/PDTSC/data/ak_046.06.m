@@ -251,7 +251,7 @@
 <LM>w#w-d1t1680-9</LM>
 </w.rf>
 <form>Vypřáhli</form>
-<tag lemma="vypřáhnout" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="vypřáhnout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m046-d1t1680-10">
 <w.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-d1t1684-3</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m046-d1t1686-1">
 <w.rf>
@@ -644,7 +644,7 @@
 <LM>w#w-d1t1715-6</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m046-d-id97402-punct">
 <w.rf>
@@ -754,7 +754,7 @@
 </w.rf>
 <form>jede</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -958,7 +958,7 @@
 <form>parničkami</form>
 <tag>
 <AM lemma="parnička_,l_^(parní_stříkačka)" src="auto" recommended="1">NNFP7-----A----</AM>
-<AM lemma="parnička_,l_^(parní_stříkačka;hovorově_parní_lokomotiva)" src="manual" selected="1">NNFP7-----A----</AM>
+<AM lemma="parnička_,l_^(parní_stříkačka)" src="manual" selected="1">NNFP7-----A----</AM>
 </tag>
 </m>
 <m id="m046-d1e1736-x2-441">
@@ -1268,7 +1268,7 @@
 <form>parničkách</form>
 <tag>
 <AM lemma="parnička_,l_^(parní_stříkačka)" src="auto" recommended="1">NNFP6-----A----</AM>
-<AM lemma="parnička_,l_^(parní_stříkačka;hovorově_parní_lokomotiva)" src="manual" selected="1">NNFP6-----A----</AM>
+<AM lemma="parnička_,l_^(parní_stříkačka)" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m046-d-id98380-punct">
@@ -1769,7 +1769,7 @@
 <form>parnička</form>
 <tag>
 <AM lemma="parnička_,l_^(parní_stříkačka)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="parnička_,l_^(parní_stříkačka;hovorově_parní_lokomotiva)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="parnička_,l_^(parní_stříkačka)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m046-467-471">
@@ -1833,7 +1833,7 @@
 <form>parničkách</form>
 <tag>
 <AM lemma="parnička_,l_^(parní_stříkačka)" src="auto" recommended="1">NNFP6-----A----</AM>
-<AM lemma="parnička_,l_^(parní_stříkačka;hovorově_parní_lokomotiva)" src="manual" selected="1">NNFP6-----A----</AM>
+<AM lemma="parnička_,l_^(parní_stříkačka)" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m046-d1t1801-4">
@@ -3356,7 +3356,7 @@
 <form>dřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------2A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m046-d1t1867-8">
@@ -3506,7 +3506,7 @@
 <LM>w#w-d1t1870-12</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m046-d1t1870-13">
 <w.rf>
@@ -3524,7 +3524,7 @@
 <LM>w#w-d1t1870-14</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m046-d1t1870-15">
 <w.rf>

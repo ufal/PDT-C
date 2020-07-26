@@ -43,7 +43,7 @@
 <LM>w#w-lnd92253-010-p1s1w4</LM>
 </w.rf>
 <form>dnem</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92253-010-p1s1w5">
 <src.rf>manual</src.rf>

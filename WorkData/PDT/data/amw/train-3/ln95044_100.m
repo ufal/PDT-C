@@ -207,7 +207,7 @@
 <LM>w#w-ln95044-100-p2s1Bw11</LM>
 </w.rf>
 <form>ústředně</form>
-<tag lemma="ústředně_,s_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="ústředně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95044-100-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-ln95044-100-p3s3w11</LM>
 </w.rf>
 <form>ústředně</form>
-<tag lemma="ústředně_,s_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="ústředně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95044-100-p3s3w12">
 <src.rf>manual</src.rf>
@@ -940,7 +940,7 @@
 <LM>w#w-ln95044-100-p3s4w32</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95044-100-p3s4w33">
 <src.rf>manual</src.rf>
@@ -1202,7 +1202,7 @@
 <form>Mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-100-p4s2w2">
@@ -1467,7 +1467,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
 <AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual">Ca--1----------</AM>
-<AM lemma="nejvíce" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-100-p4s3w2">
@@ -1926,7 +1926,7 @@
 <LM>w#w-ln95044-100-p4s4w13</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95044-100-p4s4w14">
 <src.rf>manual</src.rf>
@@ -1972,7 +1972,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-100-p4s4w19">
@@ -1989,7 +1989,7 @@
 <LM>w#w-ln95044-100-p4s4w20</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-100-p4s4w21">
 <src.rf>manual</src.rf>
@@ -2326,7 +2326,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
 <AM lemma="hodně-3" src="manual">Dg-------2A----</AM>
-<AM lemma="hodně-1" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-100-p5s1w41">
@@ -2661,7 +2661,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-100-p5s3w7">

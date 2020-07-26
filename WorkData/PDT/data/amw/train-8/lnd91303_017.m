@@ -147,7 +147,7 @@
 <form>stal</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91303-017-p4s1w11">
@@ -452,7 +452,7 @@
 </w.rf>
 <form>Norman</form>
 <tag>
-<AM lemma="Norman-4_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Norman-1_;E_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Norman-1_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Norman-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Norman-3_;G" src="auto">NNIS1-----A----</AM>

@@ -590,7 +590,7 @@
 <LM>w#w-wsj1718-001-p1s1W15</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1718-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>

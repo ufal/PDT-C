@@ -300,7 +300,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-074-p3s2w2">
@@ -691,7 +691,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-074-p5s7w10">
@@ -764,7 +764,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92253-074-p5s7w17">
@@ -1017,7 +1017,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-074-p7s2w2">
@@ -1190,7 +1190,7 @@
 <LM>w#w-lnd92253-074-p10s2w1</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-074-p10s2w2">
 <src.rf>manual</src.rf>

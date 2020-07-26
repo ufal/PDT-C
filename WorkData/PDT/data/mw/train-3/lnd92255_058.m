@@ -679,7 +679,7 @@
 <LM>w#w-lnd92255-058-p4s3w12</LM>
 </w.rf>
 <form>jižně</form>
-<tag lemma="jižně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="jižně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92255-058-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1144,7 +1144,7 @@
 <LM>w#w-lnd92255-058-p5s1w14</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92255-058-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1740,7 +1740,7 @@
 <LM>w#w-lnd92255-058-p5s4w14</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-058-p5s4w15">
 <src.rf>manual</src.rf>

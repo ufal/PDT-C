@@ -220,7 +220,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-145-p2s1Bw19">
@@ -271,7 +271,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930709-145-p2s1Bw25">
@@ -1010,7 +1010,7 @@
 <LM>w#w-mf930709-145-p2s6w15</LM>
 </w.rf>
 <form>jižně</form>
-<tag lemma="jižně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="jižně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930709-145-p2s6w16">
 <src.rf>manual</src.rf>

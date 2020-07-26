@@ -1724,7 +1724,7 @@
 <LM>w#w-wsj0932-001-p1s7W5</LM>
 </w.rf>
 <form>dávat</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj0932-001-p1s7W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -77,7 +77,7 @@
 <LM>w#w-mf930703-057-p2s1w5</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="čtk_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930703-057-p2s1w6">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-mf930703-057-p2s4w20</LM>
 </w.rf>
 <form>nezelo</form>
-<tag lemma="zet" src="orig" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="zet-2" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf930703-057-p2s4w21">
 <src.rf>manual</src.rf>

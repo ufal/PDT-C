@@ -2656,7 +2656,7 @@
 <LM>w#w-wsj1827-001-p1s7W33</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1827-001-p1s7W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4087,7 +4087,7 @@
 <LM>w#w-wsj1827-001-p1s12W5</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1827-001-p1s12W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5965,7 +5965,7 @@
 <LM>w#w-wsj1827-001-p1s18W18</LM>
 </w.rf>
 <form>ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj1827-001-p1s18W19-Ta">
 <src.rf>tagger-a</src.rf>

@@ -952,7 +952,7 @@
 <LM>w#w-wsj0096-001-p1s2W33</LM>
 </w.rf>
 <form>podávat</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj0096-001-p1s2W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1312,7 +1312,7 @@
 <LM>w#w-wsj0096-001-p1s4W10</LM>
 </w.rf>
 <form>zastiženi</form>
-<tag lemma="zastihnout" src="auto" recommended="1">VsMP----X-APP--</tag>
+<tag lemma="zastihnout" src="auto" recommended="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-wsj0096-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2519,7 +2519,7 @@
 <LM>w#w-wsj0096-001-p1s9W12</LM>
 </w.rf>
 <form>zastižen</form>
-<tag lemma="zastihnout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="zastihnout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj0096-001-p1s9W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3244,7 +3244,7 @@
 <LM>w#w-wsj0096-001-p1s12W11</LM>
 </w.rf>
 <form>zastižen</form>
-<tag lemma="zastihnout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="zastihnout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj0096-001-p1s12W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4112,7 +4112,7 @@
 <LM>w#w-wsj0096-001-p1s15W5</LM>
 </w.rf>
 <form>zastiženi</form>
-<tag lemma="zastihnout" src="auto" recommended="1">VsMP----X-APP--</tag>
+<tag lemma="zastihnout" src="auto" recommended="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-wsj0096-001-p1s15W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7170,7 +7170,7 @@
 <LM>w#w-wsj0096-001-p1s26W8</LM>
 </w.rf>
 <form>zastižen</form>
-<tag lemma="zastihnout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="zastihnout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj0096-001-p1s26W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7972,7 +7972,7 @@
 <form>Jr</form>
 <tag>
 <AM lemma="jr-88_^(Junior)" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="jr-88_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0096-001-p1s28W22-Ta">
@@ -8066,7 +8066,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -10119,7 +10119,7 @@
 <LM>w#w-wsj0096-001-p1s36W13</LM>
 </w.rf>
 <form>zastižen</form>
-<tag lemma="zastihnout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="zastihnout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj0096-001-p1s36W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10404,7 +10404,7 @@
 <form>Jr</form>
 <tag>
 <AM lemma="jr-88_^(Junior)" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="jr-88_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0096-001-p1s37W18-Ta">
@@ -13643,7 +13643,7 @@
 <form>Jr</form>
 <tag>
 <AM lemma="jr-88_^(Junior)" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="jr-88_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0096-001-p1s41W75-Ta">
@@ -16707,7 +16707,7 @@
 <LM>w#w-wsj0096-001-p1s45W32</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj0096-001-p1s45W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20762,7 +20762,7 @@
 <LM>w#w-wsj0096-001-p1s49W16</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0096-001-p1s49W17-Ta">
 <src.rf>tagger-a</src.rf>

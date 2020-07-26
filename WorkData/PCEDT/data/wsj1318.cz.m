@@ -3596,7 +3596,7 @@
 <LM>w#w-wsj1318-001-p1s8W27</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1318-001-p1s8W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4007,7 +4007,7 @@
 <form>programům</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP3-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP3-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1318-001-p1s9W14-Ta">
@@ -4071,7 +4071,7 @@
 <LM>w#w-wsj1318-001-p1s9W18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1318-001-p1s9W19-Ta">
 <src.rf>tagger-a</src.rf>

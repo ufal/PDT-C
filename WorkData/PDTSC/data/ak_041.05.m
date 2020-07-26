@@ -653,7 +653,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -741,7 +741,7 @@
 </w.rf>
 <form>Víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -984,7 +984,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m041-d1t1866-4">
@@ -1392,7 +1392,7 @@
 <AM lemma="záhumenek" src="auto">NNIS3-----A----</AM>
 <AM lemma="záhumenek" src="auto">NNIS5-----A----</AM>
 <AM lemma="záhumenek" src="auto">NNIS6-----A----</AM>
-<AM lemma="záhumenka_,s" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="záhumenka" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m041-314-316">
@@ -1824,7 +1824,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m041-d1t1939-3">
@@ -1864,7 +1864,7 @@
 <LM>w#w-d1t1939-6</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m041-d1t1939-7">
 <w.rf>
@@ -1973,7 +1973,7 @@
 <form>dřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------2A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m041-347-349">
@@ -2293,7 +2293,7 @@
 <LM>w#w-d1t1974-5</LM>
 </w.rf>
 <form>Nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m041-d1t1976-1">
 <w.rf>
@@ -2357,7 +2357,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m041-d-m-d1e1978-x3-punct-punct">
@@ -2396,7 +2396,7 @@
 <tag>
 <AM lemma="nanejvýš" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="nanejvýš_^(*0e)" src="manual">Db-------------</AM>
-<AM lemma="nanejvýš_^(*0e)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="nanejvýš" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m041-d1t1983-7">
@@ -2449,7 +2449,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m041-d1e1990-x2-378">
@@ -3793,7 +3793,7 @@
 </w.rf>
 <form>více</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="více" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -3805,7 +3805,7 @@
 <tag>
 <AM lemma="málo-3" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="méně" src="auto">Ca--X----------</AM>
-<AM lemma="málo-3_^(málo_důsledný)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="méně" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m041-d1t2101-1">
@@ -3860,7 +3860,7 @@
 <LM>w#w-d1t2101-3</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m041-d-m-d1e2079-x2-punct-punct">
 <w.rf>

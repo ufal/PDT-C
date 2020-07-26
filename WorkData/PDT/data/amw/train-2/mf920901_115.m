@@ -265,7 +265,7 @@
 <LM>w#w-mf920901-115-p2s3w7</LM>
 </w.rf>
 <form>svrženo</form>
-<tag lemma="svrhnout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="svrhnout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-mf920901-115-p2s3w8">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-mf920901-115-p4s1w8</LM>
 </w.rf>
 <form>arménsko</form>
-<tag lemma="arménský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="arménsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf920901-115-p4s1w9">
 <src.rf>manual</src.rf>

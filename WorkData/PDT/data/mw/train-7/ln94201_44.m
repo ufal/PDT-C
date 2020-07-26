@@ -85,7 +85,7 @@
 <LM>w#w-ln94201-44-p2s1w5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94201-44-p2s1w6">
 <src.rf>manual</src.rf>

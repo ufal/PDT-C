@@ -60,7 +60,7 @@
 <LM>w#w-wsj1399-001-p1s0W5</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1399-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-wsj1399-001-p1s0W32</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1399-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4359,7 +4359,7 @@
 <LM>w#w-wsj1399-001-p1s14W25</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1" selected="1">Db-------------</tag>
+<tag lemma="loni" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m-wsj1399-001-p1s14W26-Ta">
 <src.rf>tagger-a</src.rf>

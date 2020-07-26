@@ -363,7 +363,7 @@
 <LM>w#w-mf930702-045-p2s1w36</LM>
 </w.rf>
 <form>RÁDI</form>
-<tag lemma="rád" src="orig" selected="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACMP------A----</tag>
 </m>
 <m id="m-mf930702-045-p2s1w37">
 <src.rf>manual</src.rf>
@@ -1013,7 +1013,7 @@
 <LM>w#w-mf930702-045-p2s3w24</LM>
 </w.rf>
 <form>převážily</form>
-<tag lemma="převážit-2_^(dostat_[se]_navrch)" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="převážit_^(znovu_zvážit;dostat_[se]_navrch)" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-045-p2s3w25">
 <src.rf>manual</src.rf>

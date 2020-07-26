@@ -62,7 +62,7 @@
 <LM>w#w-ln94210-68-p1s1w6</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94210-68-p1s1w7">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-ln94210-68-p3s3w15</LM>
 </w.rf>
 <form>trestně</form>
-<tag lemma="trestně_^(řád,_odpovědnost)_(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="trestně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94210-68-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1746,7 +1746,7 @@
 <LM>w#w-ln94210-68-p3s8w5</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94210-68-p3s8w6">
 <src.rf>manual</src.rf>

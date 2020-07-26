@@ -1257,7 +1257,7 @@
 <LM>w#w-ln95044-080-p5s2w2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95044-080-p5s2w3">
 <src.rf>manual</src.rf>
@@ -1629,7 +1629,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-080-p6s1w20">
@@ -2193,7 +2193,7 @@
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="JAR-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-080-p8s1Aw4">
@@ -2479,7 +2479,7 @@
 <tag>
 <AM lemma="jaro" src="orig">NNNP2-----A----</AM>
 <AM lemma="JAR-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-080-p8s1Bw12">
@@ -3647,7 +3647,7 @@
 <LM>w#w-ln95044-080-p12s1w3</LM>
 </w.rf>
 <form>dnům</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP3-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP3-----A----</tag>
 </m>
 <m id="m-ln95044-080-p12s1w4">
 <src.rf>manual</src.rf>
@@ -3943,7 +3943,7 @@
 <LM>w#w-ln95044-080-p12s1w40</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95044-080-p12s1w41">
 <src.rf>manual</src.rf>

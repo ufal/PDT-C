@@ -226,7 +226,7 @@
 <LM>w#w-ln95043-043-p2s1Bw12</LM>
 </w.rf>
 <form>extremistům</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln95043-043-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -1250,7 +1250,7 @@
 <LM>w#w-ln95043-043-p3s4w12</LM>
 </w.rf>
 <form>zastavit</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95043-043-p3s4w13">
 <src.rf>manual</src.rf>

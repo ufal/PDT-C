@@ -299,7 +299,7 @@
 <LM>w#w-d1t3489-1</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m005-d1t3489-3">
 <w.rf>
@@ -538,7 +538,7 @@
 <LM>w#w-d1t3520-2</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m005-d1t3520-4">
 <w.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-d1t3526-4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m005-d1t3526-5">
 <w.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-d1t3544-3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m005-d-id157098">
 <w.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-d1t3550-12</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m005-d1t3550-10">
 <w.rf>
@@ -1710,7 +1710,7 @@
 <LM>w#w-d1t3602-11</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m005-d1t3602-12">
 <w.rf>
@@ -2336,7 +2336,7 @@
 <LM>w#w-d1t3645-7</LM>
 </w.rf>
 <form>Vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m005-d1t3645-3">
 <w.rf>
@@ -2427,7 +2427,7 @@
 <LM>w#w-d1t3645-15</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m005-d1t3645-18">
 <w.rf>
@@ -3107,7 +3107,7 @@
 <LM>w#w-d1t3663-9</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m005-d1t3663-10">
 <w.rf>
@@ -3272,7 +3272,7 @@
 <LM>w#w-d1t3679-4</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m005-d1e3676-x2-14754">
 <w.rf>
@@ -3303,7 +3303,7 @@
 <LM>w#w-d1t3679-9</LM>
 </w.rf>
 <form>Dával</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m005-d1t3679-7">
 <w.rf>
@@ -3364,7 +3364,7 @@
 <LM>w#w-d1t3689-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m005-d1t3689-5">
 <w.rf>
@@ -3705,7 +3705,7 @@
 <form>JZD</form>
 <tag>
 <AM lemma="JZD_:B_^(Jednotné_zemědělské_družstvo)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="JZD_^(Jednotné_zemědělské_družstvo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JZD_^(Jednotné_zemědělské_družstvo)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m005-d-id163815">
@@ -3763,7 +3763,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -3818,7 +3818,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>

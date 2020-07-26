@@ -695,7 +695,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-014-p9s2w5">
@@ -898,7 +898,7 @@
 <form>cca</form>
 <tag>
 <AM lemma="cca_:B_,t" src="orig">Db-------------</AM>
-<AM lemma="cca" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="cirka" src="manual" selected="1">TT------------a</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-014-p9s3w4">
@@ -924,7 +924,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-014-p9s3w6">
@@ -1242,7 +1242,7 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="WC-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="WC_^(water_closet)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-014-p9s7w6">

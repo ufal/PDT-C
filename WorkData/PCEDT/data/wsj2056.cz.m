@@ -78,7 +78,7 @@
 <LM>w#w-wsj2056-001-p1s0W7</LM>
 </w.rf>
 <form>vydělává</form>
-<tag lemma="vydělávat_^(kůže;peníze)_(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="vydělávat_^(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj2056-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1721,7 +1721,7 @@
 <LM>w#w-wsj2056-001-p1s4W21</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2056-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4076,7 +4076,7 @@
 <AM lemma="Lon_;Y" src="auto">NNMP1-----A---1</AM>
 <AM lemma="Lon_;Y" src="auto">NNMP5-----A---1</AM>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2056-001-p1s12W2-Ta">

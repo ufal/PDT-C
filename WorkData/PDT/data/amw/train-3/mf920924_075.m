@@ -694,7 +694,7 @@
 <LM>w#w-mf920924-075-p3s5w8</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920924-075-p3s5w9">
 <src.rf>manual</src.rf>

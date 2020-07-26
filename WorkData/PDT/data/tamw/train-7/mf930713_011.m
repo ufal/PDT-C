@@ -2810,7 +2810,7 @@
 <LM>w#w-mf930713-011-p2s11w39</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930713-011-p2s11w40">
 <src.rf>manual</src.rf>
@@ -3100,7 +3100,7 @@
 <LM>w#w-mf930713-011-p2s12w26</LM>
 </w.rf>
 <form>varhanami</form>
-<tag lemma="varhany" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="varhany-1" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-mf930713-011-p2s12w27">
 <src.rf>manual</src.rf>

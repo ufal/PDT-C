@@ -16,7 +16,7 @@
 <AM lemma="Lon_;Y" src="auto">NNMP1-----A---1</AM>
 <AM lemma="Lon_;Y" src="auto">NNMP5-----A---1</AM>
 <AM lemma="vloni_,h" src="auto" recommended="1">Db------------1</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m045-d1t1163-3">
@@ -31,7 +31,7 @@
 <LM>w#w-d1t1163-5</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m045-d1t1163-6">
 <w.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-d1t1165-12</LM>
 </w.rf>
 <form>vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m045-d-id89772-punct">
 <w.rf>
@@ -1175,7 +1175,7 @@
 <LM>w#w-d1t1217-12</LM>
 </w.rf>
 <form>Nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m045-d1t1217-9">
 <w.rf>
@@ -1713,7 +1713,7 @@
 <LM>w#w-d1t1259-16</LM>
 </w.rf>
 <form>Podávala</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m045-d1t1259-13">
 <w.rf>
@@ -2298,7 +2298,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m045-d-m-d1e1292-x2-punct-punct">
@@ -2416,7 +2416,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m045-d1e1300-x2-710">
@@ -3546,7 +3546,7 @@
 <LM>w#w-d1t1362-9</LM>
 </w.rf>
 <form>prostřihli</form>
-<tag lemma="prostřihnout" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="prostřihnout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m045-754-755">
 <w.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-ln94201-76-p1s1w2</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Bohemians_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94201-76-p1s1w3">
 <src.rf>manual</src.rf>

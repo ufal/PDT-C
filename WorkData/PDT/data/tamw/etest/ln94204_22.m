@@ -29,7 +29,7 @@
 <form>PVC</form>
 <tag>
 <AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PVC" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PVC_^(polyvinylchlorid)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p1s1w3">
@@ -182,7 +182,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p2s1w15">
@@ -258,7 +258,7 @@
 <form>PVC</form>
 <tag>
 <AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PVC" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PVC_^(polyvinylchlorid)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p2s1w24">
@@ -291,7 +291,7 @@
 <LM>w#w-ln94204-22-p2s1w27</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-ln94204-22-p2s1w28">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <form>PVC</form>
 <tag>
 <AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PVC" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PVC_^(polyvinylchlorid)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p3s1w24">
@@ -720,7 +720,7 @@
 <LM>w#w-ln94204-22-p3s1w28</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podruhé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-22-p3s1w29">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p4s1w8">
@@ -1512,7 +1512,7 @@
 <form>PVC</form>
 <tag>
 <AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PVC" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PVC_^(polyvinylchlorid)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p5s1w21">
@@ -1540,7 +1540,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p5s1w24">
@@ -1718,7 +1718,7 @@
 <form>PVC</form>
 <tag>
 <AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PVC" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PVC_^(polyvinylchlorid)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p5s3w4">

@@ -3673,7 +3673,7 @@
 </w.rf>
 <form>dnem</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNS7-----A----</AM>
 </tag>
 </m>
@@ -5087,7 +5087,7 @@
 <LM>w#w-wsj1305-001-p1s13W12</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1305-001-p1s13W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6218,7 +6218,7 @@
 <LM>w#w-wsj1305-001-p1s16W28</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1305-001-p1s16W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7842,7 +7842,7 @@
 <LM>w#w-wsj1305-001-p1s23W4</LM>
 </w.rf>
 <form>vázán</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" recommended="1">VsYS----X-API--</tag>
+<tag lemma="vázat" src="auto" recommended="1">VsYS----X-API--</tag>
 </m>
 <m id="m-wsj1305-001-p1s23W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9430,7 +9430,7 @@
 <LM>w#w-wsj1305-001-p1s29W4</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1305-001-p1s29W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10661,7 +10661,7 @@
 <LM>w#w-wsj1305-001-p1s34W9</LM>
 </w.rf>
 <form>zaseli</form>
-<tag lemma="zasít" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="zasít" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1305-001-p1s34W10-Ta">
 <src.rf>tagger-a</src.rf>

@@ -161,7 +161,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-17-p2s1w16">
@@ -471,7 +471,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-17-p2s1w54">
@@ -578,7 +578,7 @@
 <LM>w#w-ln94207-17-p2s2w9</LM>
 </w.rf>
 <form>Slovákům</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln94207-17-p2s2w10">
 <src.rf>manual</src.rf>
@@ -719,7 +719,7 @@
 <LM>w#w-ln94207-17-p3s1w14</LM>
 </w.rf>
 <form>Evropou</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94207-17-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1421,7 +1421,7 @@
 <LM>w#w-ln94207-17-p4s3w10</LM>
 </w.rf>
 <form>sňalo</form>
-<tag lemma="sejmout" src="orig" selected="1">VpNS----R-AA---</tag>
+<tag lemma="sejmout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-ln94207-17-p4s3w11">
 <src.rf>manual</src.rf>
@@ -2023,7 +2023,7 @@
 <LM>w#w-ln94207-17-p5s4w29</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94207-17-p5s4w30">
 <src.rf>manual</src.rf>
@@ -2209,7 +2209,7 @@
 <form>ČSR</form>
 <tag>
 <AM lemma="ČSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSR-2_;G_^(Československá_republika_do_r._1960)" src="manual" selected="1">BNFXX-----A----</AM>
+<AM lemma="ČSR_;G_^(Česká_socialistická_republika;Československá_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-17-p5s4w53">
@@ -2270,7 +2270,7 @@
 <form>ČSR</form>
 <tag>
 <AM lemma="ČSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSR-2_;G_^(Československá_republika_do_r._1960)" src="manual" selected="1">BNFXX-----A----</AM>
+<AM lemma="ČSR_;G_^(Česká_socialistická_republika;Československá_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-17-p5s5w7">
@@ -3033,7 +3033,7 @@
 <form>ČSR</form>
 <tag>
 <AM lemma="ČSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSR-2_;G_^(Československá_republika_do_r._1960)" src="manual" selected="1">BNFXX-----A----</AM>
+<AM lemma="ČSR_;G_^(Česká_socialistická_republika;Československá_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-17-p6s4w24">
@@ -3675,7 +3675,7 @@
 <LM>w#w-ln94207-17-p7s2w40</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94207-17-p7s2w41">
 <src.rf>manual</src.rf>
@@ -4008,7 +4008,7 @@
 <LM>w#w-ln94207-17-p7s4w21</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94207-17-p7s4w22">
 <src.rf>manual</src.rf>

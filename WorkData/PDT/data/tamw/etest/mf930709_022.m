@@ -391,7 +391,7 @@
 <LM>w#w-mf930709-022-p2s2w16</LM>
 </w.rf>
 <form>obsaženy</form>
-<tag lemma="obsáhnout" src="orig" selected="1">VsTP----X-AP---</tag>
+<tag lemma="obsáhnout" src="orig" selected="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-mf930709-022-p2s2w17">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-mf930709-022-p3s1w9</LM>
 </w.rf>
 <form>dnem</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930709-022-p3s1w10">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930709-022-p3s2w9">
@@ -1353,7 +1353,7 @@
 <LM>w#w-mf930709-022-p4s5w20</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-1" src="orig" selected="1">ClXS2----------</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf930709-022-p4s5w21">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-022-p5s2w5">
@@ -1496,7 +1496,7 @@
 <LM>w#w-mf930709-022-p5s2w5</LM>
 </w.rf>
 <form>vázána</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" selected="1">VsQW----X-API--</tag>
+<tag lemma="vázat" src="auto" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-mf930709-022-p5s2w6">
 <src.rf>manual</src.rf>

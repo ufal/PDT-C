@@ -27,7 +27,7 @@
 <LM>w#w-d1t3582-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m138-d1t3586-1">
 <w.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-d1t3613-1</LM>
 </w.rf>
 <form>Mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m138-d-id146654-punct">
 <w.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-418-420</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m138-418-419">
 <w.rf>
@@ -1556,7 +1556,7 @@
 <LM>w#w-d1t3702-3</LM>
 </w.rf>
 <form>Blaníkem</form>
-<tag lemma="Blaník_;G" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag lemma="Blaník_;G_;m" src="auto" recommended="1">NNIS7-----A----</tag>
 </m>
 <m id="m138-d1e3693-x2-517">
 <w.rf>
@@ -1808,7 +1808,7 @@
 <form>Dřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A---5</AM>
-<AM lemma="brzy" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m138-d1t3738-5">
@@ -2523,7 +2523,7 @@
 </w.rf>
 <form>jedu</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---1P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS2-----A----</AM>
 <AM lemma="jed" src="auto">NNIS3-----A----</AM>
 <AM lemma="jed" src="auto">NNIS6-----A----</AM>
@@ -2656,7 +2656,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m138-565-575">
@@ -3363,7 +3363,7 @@
 <LM>w#w-d1t3831-5</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m138-d1t3831-6">
 <w.rf>
@@ -3400,7 +3400,7 @@
 <LM>w#w-610-1145</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m138-610-1146">
 <w.rf>
@@ -3737,7 +3737,7 @@
 <AM lemma="Martin_^(*2a)" src="auto">AUNP4F---------</AM>
 <AM lemma="Martin_^(*2a)" src="auto">AUNP5F---------</AM>
 <AM lemma="Martin_^(*2a)" src="auto">AUNS2F---------</AM>
-<AM lemma="Martina_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Martina_;G_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Martino_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Martino_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Martinus_;Y" src="auto">NNMS2-----A----</AM>

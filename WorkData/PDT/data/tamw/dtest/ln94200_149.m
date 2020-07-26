@@ -523,7 +523,7 @@
 <LM>w#w-ln94200-149-p2s4w11</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-ln94200-149-p2s4w12">
 <src.rf>manual</src.rf>

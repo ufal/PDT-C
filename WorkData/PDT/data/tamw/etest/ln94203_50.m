@@ -103,7 +103,7 @@
 <LM>w#w-ln94203-50-p2s1Bw4</LM>
 </w.rf>
 <form>jop</form>
-<tag lemma="jop-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="jop-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-50-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -1206,7 +1206,7 @@
 <LM>w#w-ln94203-50-p2s5Bw1</LM>
 </w.rf>
 <form>MUDr</form>
-<tag lemma="MUDr-1_^(doktor_medicíny)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="MUDr_^(doktor_medicíny)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-50-p2s5Bw2">
 <src.rf>manual</src.rf>
@@ -1775,7 +1775,7 @@
 <LM>w#w-ln94203-50-p3s2w4</LM>
 </w.rf>
 <form>nebránil</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94203-50-p3s2w5">
 <src.rf>manual</src.rf>

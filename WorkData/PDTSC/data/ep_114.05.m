@@ -999,7 +999,7 @@
 <form>cm</form>
 <tag>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m114-d1t1424-1">
@@ -1036,7 +1036,7 @@
 <form>cm</form>
 <tag>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m114-281-300">
@@ -2539,7 +2539,7 @@
 <LM>w#w-d1t1489-7</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m114-d1t1489-8">
 <w.rf>
@@ -3091,7 +3091,7 @@
 <form>méně</form>
 <tag>
 <AM lemma="málo-3" src="auto" recommended="1">Dg-------2A----</AM>
-<AM lemma="méně" src="auto" selected="1">Ca--X----------</AM>
+<AM lemma="méně" src="auto" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m114-d1t1496-21">
@@ -3276,7 +3276,7 @@
 </w.rf>
 <form>více</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="více" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -3493,7 +3493,7 @@
 <form>MW</form>
 <tag>
 <AM lemma="megawatt_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="megawatt" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="megawatt" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m114-371-375">
@@ -3686,7 +3686,7 @@
 <LM>w#w-d1t1522-4</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m114-d1t1522-5">
 <w.rf>
@@ -3975,7 +3975,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m114-d1t1540-3">
@@ -4146,7 +4146,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m114-d1t1562-4">
@@ -4176,7 +4176,7 @@
 </w.rf>
 <form>nejvíce</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A----</AM>
 <AM lemma="nejvíce" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -4795,7 +4795,7 @@
 <LM>w#w-d1t1596-18</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m114-426-931">
 <w.rf>
@@ -6473,7 +6473,7 @@
 <form>KW</form>
 <tag>
 <AM lemma="kilowatt_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="kilowatt" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="kilowatt" src="manual" selected="1">NNIXX-----A---a</AM>
 </tag>
 </m>
 <m id="m114-d1t1673-7">

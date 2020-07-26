@@ -862,7 +862,7 @@
 <LM>w#w-wsj1036-001-p1s2W17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1036-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2898,7 +2898,7 @@
 <form>programům</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP3-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP3-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1036-001-p1s8W3-Ta">
@@ -5694,7 +5694,7 @@
 </w.rf>
 <form>výš</form>
 <tag>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A---1</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS4-----A---1</AM>
 </tag>
@@ -7524,7 +7524,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1036-001-p1s20W22-Ta">
@@ -12551,7 +12551,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>

@@ -348,7 +348,7 @@
 <LM>w#w-ln95043-041-p2s3w7</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95043-041-p2s3w8">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VsNS----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VsNS---XX-AP---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VsNS----X-APP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VsNS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln95043-041-p2s4w6">
@@ -792,7 +792,7 @@
 <LM>w#w-ln95043-041-p2s7w13</LM>
 </w.rf>
 <form>právem</form>
-<tag lemma="právem" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="právem" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-041-p2s7w14">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <LM>w#w-ln95043-041-p2s7w16</LM>
 </w.rf>
 <form>neprávem</form>
-<tag lemma="právem" src="auto" selected="1">Db--------N----</tag>
+<tag lemma="právem" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-ln95043-041-p2s7w17">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-ln95043-041-p2s8w1</LM>
 </w.rf>
 <form>Zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95043-041-p2s8w2">
 <src.rf>manual</src.rf>
@@ -914,7 +914,7 @@
 <LM>w#w-ln95043-041-p2s8w3</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95043-041-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1680,7 +1680,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VsTP----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VsTP---XX-AP---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VsTP----X-APP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VsTP----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln95043-041-p4s3w8">
@@ -1991,7 +1991,7 @@
 <LM>w#w-ln95043-041-p5s1w19</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="orig" selected="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACMP------A----</tag>
 </m>
 <m id="m-ln95043-041-p5s1w20">
 <src.rf>manual</src.rf>
@@ -3575,7 +3575,7 @@
 <LM>w#w-ln95043-041-p6s7w14</LM>
 </w.rf>
 <form>můžeš</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---2P-AAI--</tag>
 </m>
 <m id="m-ln95043-041-p6s7w15">
 <src.rf>manual</src.rf>
@@ -3583,7 +3583,7 @@
 <LM>w#w-ln95043-041-p6s7w15</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95043-041-p6s7w16">
 <src.rf>manual</src.rf>

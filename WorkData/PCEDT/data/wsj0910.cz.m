@@ -1583,7 +1583,7 @@
 <LM>w#w-wsj0910-001-p1s4W5</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj0910-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3728,7 +3728,7 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="OSN-1_:B_^(Organizace_spojených_národů)" src="auto">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -4518,7 +4518,7 @@
 <LM>w#w-wsj0910-001-p1s12W33</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0910-001-p1s12W34-Ta">
 <src.rf>tagger-a</src.rf>

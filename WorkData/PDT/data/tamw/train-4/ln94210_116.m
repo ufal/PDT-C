@@ -380,7 +380,7 @@
 <LM>w#w-ln94210-116-p3s1w22</LM>
 </w.rf>
 <form>remizoval</form>
-<tag lemma="remizovat" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="remizovat_,s_^(^DD**remízovat)" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94210-116-p3s1w23">
 <src.rf>manual</src.rf>

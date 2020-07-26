@@ -51,7 +51,7 @@
 <LM>w#w-lnd92257-055-p1s1Aw5</LM>
 </w.rf>
 <form>DNŮ</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92257-055-p2s1A">
@@ -186,7 +186,7 @@
 <LM>w#w-lnd92257-055-p3s1Aw12</LM>
 </w.rf>
 <form>americko</form>
-<tag lemma="americký" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="americko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92257-055-p3s1Aw13">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-lnd92257-055-p2s1Bw1</LM>
 </w.rf>
 <form>Tamara</form>
-<tag lemma="Tamara-3_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-3_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-055-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-lnd92257-055-p1s1Dw2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-lnd92257-055-p1s1Dw3">
 <src.rf>manual</src.rf>
@@ -1167,7 +1167,7 @@
 <LM>w#w-lnd92257-055-p1s1Dw8</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-lnd92257-055-p1s1Dw9">
 <src.rf>manual</src.rf>
@@ -1231,7 +1231,7 @@
 <LM>w#w-lnd92257-055-p1s1Dw16</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-lnd92257-055-p1s1Dw17">
 <src.rf>manual</src.rf>
@@ -1249,7 +1249,7 @@
 <form>stal</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92257-055-p1s1Dw19">
@@ -1406,7 +1406,7 @@
 <LM>w#w-lnd92257-055-p1s1Ew4</LM>
 </w.rf>
 <form>nejlíp</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------3A---1</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------3A---1</tag>
 </m>
 <m id="m-lnd92257-055-p1s1Ew5">
 <src.rf>manual</src.rf>
@@ -1868,7 +1868,7 @@
 <LM>w#w-lnd92257-055-p1s2Bw8</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-lnd92257-055-p1s2Bw10">
 <src.rf>manual</src.rf>
@@ -2046,7 +2046,7 @@
 <LM>w#w-lnd92257-055-p1s3Bw4</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-055-p1s3Bw5">
 <src.rf>manual</src.rf>
@@ -2317,7 +2317,7 @@
 <form>sci</form>
 <tag>
 <AM lemma="science-2_:B_,t_^(angl._vědecký)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="sci-1_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="sci" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-055-p2s1Fw8">

@@ -90,7 +90,7 @@
 <LM>w#w-ln95046-102-p2s1Bw3</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln95046-102-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <form>MUDr</form>
 <tag>
 <AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-102-p3s2w4">
@@ -687,7 +687,7 @@
 <LM>w#w-ln95046-102-p3s2w12</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-102-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-ln95046-102-p4s1w9</LM>
 </w.rf>
 <form>nemohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln95046-102-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1330,7 +1330,7 @@
 <LM>w#w-ln95046-102-p4s2w5</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95046-102-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1402,7 +1402,7 @@
 <LM>w#w-ln95046-102-p4s2w14</LM>
 </w.rf>
 <form>Norka</form>
-<tag lemma="Norka_;E" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Norka_;E_;Y_^(*2)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-102-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1798,7 +1798,7 @@
 <LM>w#w-ln95046-102-p4s5w5</LM>
 </w.rf>
 <form>koupeno</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95046-102-p4s5w6">
 <src.rf>manual</src.rf>
@@ -2308,7 +2308,7 @@
 <LM>w#w-ln95046-102-p5s3w25</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln95046-102-p5s3w26">
 <src.rf>manual</src.rf>

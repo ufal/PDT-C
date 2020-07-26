@@ -169,7 +169,7 @@
 <LM>w#w-lnd92258-051-p4s1w3</LM>
 </w.rf>
 <form>fsch</form>
-<tag lemma="fsch-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="fsch-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92258-051-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1337,7 +1337,7 @@
 <LM>w#w-lnd92258-051-p4s6w4</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-lnd92258-051-p4s6w5">
 <src.rf>manual</src.rf>

@@ -757,7 +757,7 @@
 <LM>w#w-mf930709-054-p2s5w7</LM>
 </w.rf>
 <form>rolích</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930709-054-p2s5w8">
 <src.rf>manual</src.rf>
@@ -821,7 +821,7 @@
 <LM>w#w-mf930709-054-p2s5w15</LM>
 </w.rf>
 <form>Dagmar</form>
-<tag lemma="Dagmar_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Dagmar_;Y_;m" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930709-054-p2s5w16">
 <src.rf>manual</src.rf>

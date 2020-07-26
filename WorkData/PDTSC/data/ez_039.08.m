@@ -254,7 +254,7 @@
 <form>parničkách</form>
 <tag>
 <AM lemma="parnička_,l_^(parní_stříkačka)" src="auto" recommended="1">NNFP6-----A----</AM>
-<AM lemma="parnička_,l_^(parní_stříkačka;hovorově_parní_lokomotiva)" src="manual" selected="1">NNFP6-----A----</AM>
+<AM lemma="parnička_,l_^(parní_stříkačka)" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m039-d1e3357-x2-664">
@@ -484,7 +484,7 @@
 <form>dřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------2A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m039-668-724">
@@ -551,7 +551,7 @@
 <LM>w#w-668-717</LM>
 </w.rf>
 <form>začly</form>
-<tag lemma="začít" src="auto" recommended="1">VpTP----R-AAP-6</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpTP----R-AAP-6</tag>
 </m>
 <m id="m039-668-716">
 <w.rf>
@@ -847,7 +847,7 @@
 <LM>w#w-d1t3405-6</LM>
 </w.rf>
 <form>začli</form>
-<tag lemma="začít" src="auto" recommended="1">VpMP----R-AAP-6</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpMP----R-AAP-6</tag>
 </m>
 <m id="m039-d1t3405-7">
 <w.rf>
@@ -2292,7 +2292,7 @@
 <form>parničkách</form>
 <tag>
 <AM lemma="parnička_,l_^(parní_stříkačka)" src="auto" recommended="1">NNFP6-----A----</AM>
-<AM lemma="parnička_,l_^(parní_stříkačka;hovorově_parní_lokomotiva)" src="manual" selected="1">NNFP6-----A----</AM>
+<AM lemma="parnička_,l_^(parní_stříkačka)" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m039-847-849">
@@ -2911,7 +2911,7 @@
 <form>parničkách</form>
 <tag>
 <AM lemma="parnička_,l_^(parní_stříkačka)" src="auto" recommended="1">NNFP6-----A----</AM>
-<AM lemma="parnička_,l_^(parní_stříkačka;hovorově_parní_lokomotiva)" src="manual" selected="1">NNFP6-----A----</AM>
+<AM lemma="parnička_,l_^(parní_stříkačka)" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m039-d1e3493-x3-914">
@@ -3014,7 +3014,7 @@
 <LM>w#w-d1t3531-5</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m039-d-id157436-punct">
 <w.rf>
@@ -3816,7 +3816,7 @@
 <LM>w#w-d1t3580-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m039-d1t3580-3">
 <w.rf>

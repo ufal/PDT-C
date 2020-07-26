@@ -391,7 +391,7 @@
 <LM>w#w-ln94200-74-p3s1w16</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94200-74-p3s1w17">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <tag>
 <AM lemma="science-2_:B_,t_^(angl._vědecký)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="sci-1_^(jen_ve_spojení_sci-fi)" src="manual">A2--------A----</AM>
-<AM lemma="sci-1_^(sci-fi)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="sci" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-74-p4s1w4">

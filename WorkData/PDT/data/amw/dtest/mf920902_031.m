@@ -506,7 +506,7 @@
 <LM>w#w-mf920902-031-p2s3w26</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-031-p2s3w27">
 <src.rf>manual</src.rf>

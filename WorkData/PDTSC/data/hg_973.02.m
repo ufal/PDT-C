@@ -1322,7 +1322,7 @@
 <LM>w#w-id61366-13</LM>
 </w.rf>
 <form>dáno</form>
-<tag lemma="dát" src="auto" recommended="1">VsNS----X-APP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m973-id61366-10">
 <w.rf>
@@ -1593,7 +1593,7 @@
 <LM>w#w-id61424-3</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m973-id61424-4">
 <w.rf>
@@ -1793,7 +1793,7 @@
 </w.rf>
 <form>Kolikrát</form>
 <tag>
-<AM lemma="kolikrát-1_^(mnohokrát)" src="auto" selected="1">Co-------------</AM>
+<AM lemma="kolikrát" src="auto" selected="1">Co-------------</AM>
 <AM lemma="kolikrát-2_^(táz.)" src="auto" recommended="1">Cu-------------</AM>
 </tag>
 </m>
@@ -1819,7 +1819,7 @@
 <LM>w#w-id61449-6</LM>
 </w.rf>
 <form>vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m973-id61449-7">
 <w.rf>
@@ -2597,7 +2597,7 @@
 <form>vezme</form>
 <tag>
 <AM lemma="vézt_^(něco/někoho_autem,_vlakem,...)" src="auto">Vi-P---1--A-I--</AM>
-<AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+<AM lemma="vzít" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m973-id61221-x5-4633">
@@ -2775,7 +2775,7 @@
 <LM>w#w-id61591-4</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m973-id61591-5">
 <w.rf>
@@ -2792,7 +2792,7 @@
 <LM>w#w-id61591-6</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m973-id61591-7">
 <w.rf>
@@ -3526,7 +3526,7 @@
 <LM>w#w-id61782-14</LM>
 </w.rf>
 <form>dýl</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------2A---6</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------2A---6</tag>
 </m>
 <m id="m973-d-id86652">
 <w.rf>
@@ -3993,7 +3993,7 @@
 <LM>w#w-id61921-1</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m973-7589-7601">
 <w.rf>
@@ -4777,7 +4777,7 @@
 <LM>w#w-id62034-7</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m973-id62034-8">
 <w.rf>
@@ -5729,7 +5729,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m973-id62265-x1-7573">
@@ -5744,7 +5744,7 @@
 <LM>w#w-id62308-4</LM>
 </w.rf>
 <form>vezmeme</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VB-P---1P-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m973-id62308-5">
 <w.rf>
@@ -5799,7 +5799,7 @@
 <form>krátce</form>
 <tag>
 <AM lemma="krátce" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="krátce_^(*2ký)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="krátce" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m973-id62265-x1-10832">
@@ -6001,7 +6001,7 @@
 <LM>w#w-id62338-1</LM>
 </w.rf>
 <form>ukradl</form>
-<tag lemma="ukrást" src="auto" recommended="1">VpYS----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m973-id62338-2">
 <w.rf>
@@ -6253,7 +6253,7 @@
 <AM lemma="půl-2" src="auto">NNFS1-----A----</AM>
 <AM lemma="půl-2" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="půl-3" src="auto">NNNXX-----A----</AM>
-<AM lemma="půl-1_^(*4olovina)" src="manual" selected="1">ClXS1----------</AM>
+<AM lemma="půl-1" src="manual" selected="1">Cl-XX----------</AM>
 </tag>
 </m>
 <m id="m973-id62382-11">

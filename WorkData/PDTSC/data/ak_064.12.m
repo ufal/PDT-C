@@ -445,7 +445,7 @@
 <LM>w#w-d1t3247-9</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m064-d-id163748-punct">
 <w.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-d1t3249-5</LM>
 </w.rf>
 <form>Cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m064-d1t3249-3">
 <w.rf>
@@ -1473,7 +1473,7 @@
 <LM>w#w-d1t3317-3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m064-d-id165955-punct">
 <w.rf>
@@ -1717,7 +1717,7 @@
 <LM>w#w-d1t3332-3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m064-d1t3332-4">
 <w.rf>
@@ -1773,7 +1773,7 @@
 <LM>w#w-d1t3336-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m064-d1t3336-5">
 <w.rf>
@@ -2374,7 +2374,7 @@
 <LM>w#w-d1t3395-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m064-d1t3395-3">
 <w.rf>
@@ -2517,7 +2517,7 @@
 <LM>w#w-d1t3404-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m064-d1t3404-7">
 <w.rf>

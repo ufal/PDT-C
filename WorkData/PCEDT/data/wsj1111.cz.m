@@ -241,7 +241,7 @@
 <LM>w#w-wsj1111-001-p1s0W19</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj1111-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -600,7 +600,7 @@
 <LM>w#w-wsj1111-001-p1s1W21</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1111-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3911,7 +3911,7 @@
 <LM>w#w-wsj1111-001-p1s14W19</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1111-001-p1s14W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4283,7 +4283,7 @@
 <tag>
 <AM lemma="Koupil_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Koupil_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</AM>
+<AM lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-wsj1111-001-p1s17W2-Ta">

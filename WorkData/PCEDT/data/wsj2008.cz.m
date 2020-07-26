@@ -1800,7 +1800,7 @@
 <AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual">NNXXX-----A---8</AM>
 <AM lemma="USA_:B_;m^(United_States_of_America)" src="manual">NNXXX-----A----</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s5W18-Ta">
@@ -3459,7 +3459,7 @@
 <LM>w#w-wsj2008-001-p1s11W2</LM>
 </w.rf>
 <form>Kdybyste</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m-wsj2008-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3475,7 +3475,7 @@
 <LM>w#w-wsj2008-001-p1s11W4</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2008-001-p1s11W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3638,7 +3638,7 @@
 <LM>w#w-wsj2008-001-p1s11W16</LM>
 </w.rf>
 <form>kdekoliv</form>
-<tag lemma="kdekoli" src="auto" recommended="1">Db------------1</tag>
+<tag lemma="kdekoliv_,s_^(^DD**kdekoli)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj2008-001-p1s11W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4486,7 +4486,7 @@
 <LM>w#w-wsj2008-001-p1s14W15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2008-001-p1s14W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4960,7 +4960,7 @@
 <LM>w#w-wsj2008-001-p1s16W21</LM>
 </w.rf>
 <form>potřebami</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj2008-001-p1s16W22-Ta">
 <src.rf>tagger-a</src.rf>

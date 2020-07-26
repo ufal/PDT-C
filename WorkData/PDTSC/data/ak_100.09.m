@@ -1089,7 +1089,7 @@
 <LM>w#w-d1t2095-2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m100-d1t2095-3">
 <w.rf>
@@ -1489,7 +1489,7 @@
 <LM>w#w-d1t2114-1</LM>
 </w.rf>
 <form>Teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m100-d1t2114-11">
 <w.rf>
@@ -1893,7 +1893,7 @@
 </w.rf>
 <form>Vánoc</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -3232,7 +3232,7 @@
 <LM>w#w-d1t2189-8</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m100-59-62">
 <w.rf>
@@ -3616,7 +3616,7 @@
 <LM>w#w-d1t2207-6</LM>
 </w.rf>
 <form>odpřísáhnout</form>
-<tag lemma="odpřisáhnout" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="odpřísáhnout_,i_^(^DS**odpřisáhnout)" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m100-d-id146678-punct">
 <w.rf>
@@ -3940,7 +3940,7 @@
 <LM>w#w-d1t2224-9</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m100-d-id147258-punct">
 <w.rf>
@@ -4072,7 +4072,7 @@
 <LM>w#w-d1t2226-2</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
 </m>
 <m id="m100-d1t2226-3">
 <w.rf>
@@ -4485,7 +4485,7 @@
 <LM>w#w-d1t2239-6</LM>
 </w.rf>
 <form>bránili</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="bránit" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m100-d1t2239-7">
 <w.rf>
@@ -4512,7 +4512,7 @@
 <form>esesákům</form>
 <tag>
 <AM lemma="esesák_,h" src="auto" recommended="1">NNMP3-----A----</AM>
-<AM lemma="esesák" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="esesák_,h" src="manual" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m100-79-80">

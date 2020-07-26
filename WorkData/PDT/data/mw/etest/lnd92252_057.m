@@ -131,7 +131,7 @@
 <LM>w#w-lnd92252-057-p1s1Aw15</LM>
 </w.rf>
 <form>kdybyste</form>
-<tag lemma="kdyby" src="orig" selected="1">J,-P---2-------</tag>
+<tag lemma="kdyby" src="orig" selected="1">J,-----------e-</tag>
 </m>
 <m id="m-lnd92252-057-p1s1Aw17">
 <src.rf>manual</src.rf>

@@ -114,7 +114,7 @@
 <LM>w#w-ln95047-114-p2s1w7</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95047-114-p2s1w8">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-ln95047-114-p3s1w11</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-ln95047-114-p3s1w12">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <form>Nechme</form>
 <tag>
 <AM lemma="nechat" src="orig">Vi-P---1--A----</AM>
-<AM lemma="nechat" src="manual" selected="1">Vi-P---1--A-P--</AM>
+<AM lemma="nechat" src="manual" selected="1">Vi-P---1--A-P-1</AM>
 </tag>
 </m>
 <m id="m-ln95047-114-p3s2w2">
@@ -902,7 +902,7 @@
 <LM>w#w-ln95047-114-p3s3w18</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95047-114-p3s3w19">
 <src.rf>manual</src.rf>
@@ -1242,7 +1242,7 @@
 <LM>w#w-ln95047-114-p4s1w6</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95047-114-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1454,7 +1454,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-114-p4s4w4">
@@ -1929,7 +1929,7 @@
 <LM>w#w-ln95047-114-p5s3w7</LM>
 </w.rf>
 <form>pomalu</form>
-<tag lemma="pomalu" src="orig" selected="1">Db-------------</tag>
+<tag lemma="pomalu" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95047-114-p5s3w8">
 <src.rf>manual</src.rf>
@@ -1977,7 +1977,7 @@
 <LM>w#w-ln95047-114-p5s3w14</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-114-p5s3w15">
 <src.rf>manual</src.rf>
@@ -2099,7 +2099,7 @@
 <LM>w#w-ln95047-114-p5s4w1</LM>
 </w.rf>
 <form>Těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95047-114-p5s4w2">
 <src.rf>manual</src.rf>
@@ -3053,7 +3053,7 @@
 <LM>w#w-ln95047-114-p7s2w7</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95047-114-p7s2w8">
 <src.rf>manual</src.rf>
@@ -3410,7 +3410,7 @@
 <form>kamkoliv</form>
 <tag>
 <AM lemma="kamkoliv" src="orig">Db-------------</AM>
-<AM lemma="kamkoli" src="auto" recommended="1" selected="1">Db------------1</AM>
+<AM lemma="kamkoliv_,s_^(^DD**kamkoli)" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-114-p7s4w18">

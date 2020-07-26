@@ -249,7 +249,7 @@
 <LM>w#w-cmpr9413-028-p3s1w1</LM>
 </w.rf>
 <form>Koupete</form>
-<tag lemma="koupat" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="koupat" src="orig" selected="1">VB-P---2P-AAI-1</tag>
 </m>
 <m id="m-cmpr9413-028-p3s1w2">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-cmpr9413-028-p3s1w3</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="orig" selected="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACMP------A----</tag>
 </m>
 <m id="m-cmpr9413-028-p3s1w4">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-cmpr9413-028-p5s1w2</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČSFR_;G_^(Čs._federativní_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-028-p6s1">
@@ -531,7 +531,7 @@
 <LM>w#w-cmpr9413-028-p6s1w1</LM>
 </w.rf>
 <form>Očima</form>
-<tag lemma="oko" src="orig" selected="1">NNFD7-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFD7-----A----</tag>
 </m>
 <m id="m-cmpr9413-028-p6s1w2">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-cmpr9413-028-p6s1w12</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9413-028-p6s1w13">
 <src.rf>manual</src.rf>

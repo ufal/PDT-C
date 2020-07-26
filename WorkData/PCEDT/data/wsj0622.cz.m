@@ -1080,7 +1080,7 @@
 <LM>w#w-wsj0622-001-p1s2W12</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0622-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2622,7 +2622,7 @@
 <LM>w#w-wsj0622-001-p1s6W18</LM>
 </w.rf>
 <form>nařčena</form>
-<tag lemma="nařknout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="nařknout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj0622-001-p1s6W19-Ta">
 <src.rf>tagger-a</src.rf>

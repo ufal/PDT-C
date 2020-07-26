@@ -77,7 +77,7 @@
 <LM>w#w-lnd94101-016-p1s2w3</LM>
 </w.rf>
 <form>jop</form>
-<tag lemma="jop-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="jop-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94101-016-p1s2w4">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-lnd94101-016-p1s4w8</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd94101-016-p1s4w9">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-lnd94101-016-p1s6w1</LM>
 </w.rf>
 <form>Pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-016-p1s6w2">
 <src.rf>manual</src.rf>

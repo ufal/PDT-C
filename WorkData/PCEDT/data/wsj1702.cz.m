@@ -1814,7 +1814,7 @@
 <LM>w#w-wsj1702-001-p1s4W11</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1702-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1951,7 +1951,7 @@
 <LM>w#w-wsj1702-001-p1s5W7</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1702-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>

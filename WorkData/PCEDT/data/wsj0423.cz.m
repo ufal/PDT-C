@@ -617,7 +617,7 @@
 <LM>w#w-wsj0423-001-p1s1W7</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0423-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-wsj0423-001-p1s1W9</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0423-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1864,7 +1864,7 @@
 <LM>w#w-wsj0423-001-p1s6W10</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj0423-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2518,7 +2518,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0423-001-p1s9W8-Ta">
@@ -3278,7 +3278,7 @@
 <LM>w#w-wsj0423-001-p1s12W4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0423-001-p1s12W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3868,7 +3868,7 @@
 <form>GATT</form>
 <tag>
 <AM lemma="GATT_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GATT" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="GATT_^(General_Agreement_on_Tariff_and_Trade)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Gatt" src="auto">NNIS1-----A----</AM>
 <AM lemma="Gatt" src="auto">NNIS4-----A----</AM>
 <AM lemma="Gatt_;Y" src="auto">NNMS1-----A----</AM>
@@ -4882,7 +4882,7 @@
 <LM>w#w-wsj0423-001-p1s18W18</LM>
 </w.rf>
 <form>Evropu</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0423-001-p1s18W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5081,7 +5081,7 @@
 <LM>w#w-wsj0423-001-p1s19W15</LM>
 </w.rf>
 <form>myslet</form>
-<tag lemma="myslet" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="myslit" src="auto" recommended="1">Vf--------A-I-1</tag>
 </m>
 <m id="m-wsj0423-001-p1s19W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6915,7 +6915,7 @@
 <LM>w#w-wsj0423-001-p1s24W29</LM>
 </w.rf>
 <form>nesprávně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1N----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1N----</tag>
 </m>
 <m id="m-wsj0423-001-p1s24W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7859,7 +7859,7 @@
 <LM>w#w-wsj0423-001-p1s27W9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0423-001-p1s27W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7934,7 +7934,7 @@
 <LM>w#w-wsj0423-001-p1s27W16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0423-001-p1s27W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8179,7 +8179,7 @@
 <LM>w#w-wsj0423-001-p1s28W6</LM>
 </w.rf>
 <form>necháme</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m-wsj0423-001-p1s28W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8759,7 +8759,7 @@
 <LM>w#w-wsj0423-001-p1s31W8</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m-wsj0423-001-p1s31W9-Ta">
 <src.rf>tagger-a</src.rf>

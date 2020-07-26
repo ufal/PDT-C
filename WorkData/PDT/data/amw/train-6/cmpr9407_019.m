@@ -86,7 +86,7 @@
 <LM>w#w-cmpr9407-019-p2s1w9</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-cmpr9407-019-p2s1w10">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <tag>
 <AM lemma="OPBH_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OPBH_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="OPBH-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OPBH_^(Obvodní_podnik_bytového_hospodářství)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-019-p2s1w25">
@@ -226,7 +226,7 @@
 <LM>w#w-cmpr9407-019-p2s1w26</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9407-019-p2s1w27">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-cmpr9407-019-p2s2w37</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například" src="orig" selected="1">Db------------b</tag>
+<tag lemma="například" src="orig" selected="1">TT------------b</tag>
 </m>
 <m id="m-cmpr9407-019-p2s2w38">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-cmpr9407-019-p2s2w42</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_^(a_podobně)" src="auto" selected="1">Db------------b</tag>
+<tag lemma="apod_^(a_podobně)" src="auto" selected="1">Bb-------------</tag>
 </m>
 <m id="m-cmpr9407-019-p2s2w43">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-cmpr9407-019-p2s3w6</LM>
 </w.rf>
 <form>spořitelna</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-019-p2s3w7">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-cmpr9407-019-p2s3w11</LM>
 </w.rf>
 <form>zastavit</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9407-019-p2s3w12">
 <src.rf>manual</src.rf>
@@ -886,7 +886,7 @@
 <LM>w#w-cmpr9407-019-p2s3w12</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-cmpr9407-019-p2s3w13">
 <src.rf>manual</src.rf>

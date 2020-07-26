@@ -4955,7 +4955,7 @@
 <LM>w#w-wsj0047-001-p1s15W2</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0047-001-p1s15W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6367,7 +6367,7 @@
 <LM>w#w-wsj0047-001-p1s18W26</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0047-001-p1s18W27-Ta">
 <src.rf>tagger-a</src.rf>

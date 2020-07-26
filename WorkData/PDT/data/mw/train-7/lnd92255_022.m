@@ -64,7 +64,7 @@
 <form>nar</form>
 <tag>
 <AM lemma="narozený_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="narozený" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="narozený" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92255-022-p1s1w7">
@@ -142,7 +142,7 @@
 <LM>w#w-lnd92255-022-p1s2w8</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92255-022-p1s2w9">
 <src.rf>manual</src.rf>

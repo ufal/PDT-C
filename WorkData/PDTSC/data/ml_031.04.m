@@ -689,7 +689,7 @@
 <LM>w#w-d1t1356-8</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m031-d1t1356-9">
 <w.rf>
@@ -1219,7 +1219,7 @@
 <LM>w#w-d1t1413-4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m031-d-id108737-punct">
 <w.rf>
@@ -1317,7 +1317,7 @@
 <LM>w#w-d1t1418-16</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m031-d1e1378-x3-142">
 <w.rf>
@@ -1512,7 +1512,7 @@
 <LM>w#w-d1t1424-9</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m031-d1t1424-10">
 <w.rf>
@@ -2022,7 +2022,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m031-d1t1437-4">
@@ -2772,7 +2772,7 @@
 <LM>w#w-d1t1482-5</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m031-d-id111994-punct">
 <w.rf>
@@ -3529,7 +3529,7 @@
 <LM>w#w-d1t1550-14</LM>
 </w.rf>
 <form>oblíkly</form>
-<tag lemma="oblíknout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
+<tag lemma="oblíknout_,h_^(^GC**obléknout)" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m031-d-id114465-punct">
 <w.rf>
@@ -3871,7 +3871,7 @@
 <LM>w#w-d1t1557-1</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m031-d1t1557-2">
 <w.rf>

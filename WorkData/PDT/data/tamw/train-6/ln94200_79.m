@@ -1309,7 +1309,7 @@
 <LM>w#w-ln94200-79-p4s1w17</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94200-79-p4s1w18">
 <src.rf>manual</src.rf>

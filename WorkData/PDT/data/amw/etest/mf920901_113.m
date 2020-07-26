@@ -59,7 +59,7 @@
 <LM>w#w-mf920901-113-p1s1w6</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920901-113-p1s1w7">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-mf920901-113-p2s3w14</LM>
 </w.rf>
 <form>lahvemi</form>
-<tag lemma="lahev" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-mf920901-113-p2s3w15">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-mf920901-113-p3s1w7</LM>
 </w.rf>
 <form>lahvemi</form>
-<tag lemma="lahev" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-mf920901-113-p3s1w8">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-id60710-4</LM>
 </w.rf>
 <form>nemile</form>
-<tag lemma="mile-1_^(příjemný)_(*3ý-1)" src="auto" recommended="1">Dg-------1N----</tag>
+<tag lemma="mile-1_^(*3ý-1)" src="auto" recommended="1">Dg-------1N----</tag>
 </m>
 <m id="m796-id60710-5">
 <w.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-id60778-6</LM>
 </w.rf>
 <form>radši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m796-id60778-8">
 <w.rf>
@@ -1418,7 +1418,7 @@
 <LM>w#w-id60840-4</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m796-id60840-5">
 <w.rf>
@@ -1595,7 +1595,7 @@
 <form>Sankt</form>
 <tag>
 <AM lemma="Sankt_;G_,t_^(jako_součást_názvu)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Sankt_;G_^(jako_součást_názvu)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Sankt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m796-id60048-x31-115">
@@ -2319,7 +2319,7 @@
 <LM>w#w-id60950-4</LM>
 </w.rf>
 <form>kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m796-id60950-5">
 <w.rf>
@@ -3909,7 +3909,7 @@
 <LM>w#w-id61116-9</LM>
 </w.rf>
 <form>nenechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m796-id60048-x41-2480">
 <w.rf>
@@ -3985,7 +3985,7 @@
 <LM>w#w-id61126-9</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m796-id61126-10">
 <w.rf>
@@ -6255,7 +6255,7 @@
 <tag>
 <AM lemma="smět" src="auto">VsFS4---X-API--</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS4-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="směna_^(výměna_za_něco;pracovní)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m796-d-id104254">
@@ -6561,7 +6561,7 @@
 </w.rf>
 <form>Polák</form>
 <tag>
-<AM lemma="Polák_;E" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="polák-1_;U" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>

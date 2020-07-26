@@ -107,7 +107,7 @@
 <LM>w#w-ln95040-127-p1s1w12</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95040-127-p1s1w13">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 <LM>w#w-ln95040-127-p2s1Bw6</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-127-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-ln95040-127-p3s1w8</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95040-127-p3s1w9">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-ln95040-127-p3s2w9</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95040-127-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1043,7 +1043,7 @@
 <LM>w#w-ln95040-127-p3s2w33</LM>
 </w.rf>
 <form>potřebami</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln95040-127-p3s2w34">
 <src.rf>manual</src.rf>
@@ -1290,7 +1290,7 @@
 <LM>w#w-ln95040-127-p4s2w2</LM>
 </w.rf>
 <form>Pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-127-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1520,7 +1520,7 @@
 <AM lemma="UNESCO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Unesco_:B_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="UNESCO_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="UNESCO_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-127-p4s3w13">

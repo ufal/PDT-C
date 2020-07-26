@@ -199,7 +199,7 @@
 <LM>w#w-d1t588-1</LM>
 </w.rf>
 <form>Teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m065-d1t588-5">
 <w.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-d1t604-4</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m065-d1t604-5">
 <w.rf>
@@ -916,7 +916,7 @@
 </w.rf>
 <form>vydělá</form>
 <tag>
-<AM lemma="vydělat-1_^(peníze)" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+<AM lemma="vydělat_^(kůže;peníze)" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 <AM lemma="vydělat-2_:W_^(kůže)" src="auto">VB-S---3P-AA---</AM>
 </tag>
 </m>
@@ -981,7 +981,7 @@
 <LM>w#w-d1t625-3</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m065-d1t625-4">
 <w.rf>
@@ -1098,7 +1098,7 @@
 <LM>w#w-d1t632-1</LM>
 </w.rf>
 <form>Dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m065-d-id78854-punct">
 <w.rf>
@@ -1274,7 +1274,7 @@
 <LM>w#w-d1t642-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m065-d1t642-2">
 <w.rf>
@@ -2175,7 +2175,7 @@
 <form>Dost</form>
 <tag>
 <AM lemma="Dosta_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="dost" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="dost" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m065-d1t734-8">
@@ -2240,7 +2240,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -2539,7 +2539,7 @@
 <LM>w#w-d1t755-4</LM>
 </w.rf>
 <form>nejraději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m065-d1t755-6">
 <w.rf>
@@ -2634,7 +2634,7 @@
 <form>Dost</form>
 <tag>
 <AM lemma="Dosta_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="dost" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="dost" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m065-d1t760-2">
@@ -2833,7 +2833,7 @@
 <LM>w#w-d1t764-4</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m065-d1t764-5">
 <w.rf>
@@ -2872,7 +2872,7 @@
 <LM>w#w-d1t764-10</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m065-d1e744-x3-105">
 <w.rf>
@@ -3248,7 +3248,7 @@
 <form>Dost</form>
 <tag>
 <AM lemma="Dosta_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="dost" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="dost" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m065-d1t781-2">
@@ -3414,7 +3414,7 @@
 <LM>w#w-d1t788-2</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m065-d1t786-11">
 <w.rf>
@@ -3540,7 +3540,7 @@
 <LM>w#w-d1t792-8</LM>
 </w.rf>
 <form>nevzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP----R-NAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m065-194-201">
 <w.rf>
@@ -4228,7 +4228,7 @@
 <LM>w#w-d1t818-8</LM>
 </w.rf>
 <form>ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m065-d1t818-9">
 <w.rf>

@@ -310,7 +310,7 @@
 <form>jako</form>
 <tag>
 <AM lemma="jako-1" src="auto">J,-------------</AM>
-<AM lemma="jako-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jako-1" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-88-p2s2w6">
@@ -537,7 +537,7 @@
 <LM>w#w-ln94202-88-p3s1w13</LM>
 </w.rf>
 <form>Magdalenou</form>
-<tag lemma="Magdalena_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Magdalena_;G_;Y_,s_^(^DD**Magdaléna)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94202-88-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 <LM>w#w-ln94202-88-p3s4w6</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-88-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1212,7 +1212,7 @@
 <form>sv</form>
 <tag>
 <AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-88-p3s5w16">
@@ -1269,7 +1269,7 @@
 <LM>w#w-ln94202-88-p3s5w22</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94202-88-p3s5w23">
 <src.rf>manual</src.rf>
@@ -1375,7 +1375,7 @@
 <LM>w#w-ln94202-88-p4s1w9</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94202-88-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1999,7 +1999,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94202-88-p4s5w8">
 <src.rf>manual</src.rf>
@@ -2007,7 +2007,7 @@
 <LM>w#w-ln94202-88-p4s5w8</LM>
 </w.rf>
 <form>vokálně</form>
-<tag lemma="vokálně_,a_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="vokálně_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94202-88-p4s5w9">
 <src.rf>manual</src.rf>
@@ -2049,7 +2049,7 @@
 <form>sv</form>
 <tag>
 <AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-88-p4s5w14">

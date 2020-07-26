@@ -1801,7 +1801,7 @@
 <LM>w#w-wsj1234-001-p1s4W19</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj1234-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1836,7 +1836,7 @@
 <LM>w#w-wsj1234-001-p1s4W23</LM>
 </w.rf>
 <form>oč</form>
-<tag lemma="oč" src="auto" recommended="1">PY-------------</tag>
+<tag lemma="co" src="auto" recommended="1">PQ--4--------o-</tag>
 </m>
 <m id="m-wsj1234-001-p1s4W24-Ta">
 <src.rf>tagger-a</src.rf>

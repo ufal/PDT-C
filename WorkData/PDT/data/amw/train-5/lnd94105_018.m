@@ -340,7 +340,7 @@
 <LM>w#w-lnd94105-018-p1s9w14</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd94105-018-p1s9w15">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 <form>VZP</form>
 <tag>
 <AM lemma="VZP-1_:B_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VZP-1_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VZP_;m_^(Všeobecná_zdravotní_pojišťovna)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-018-p1s9w17">

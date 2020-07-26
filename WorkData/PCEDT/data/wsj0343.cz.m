@@ -1011,7 +1011,7 @@
 <LM>w#w-wsj0343-001-p1s2W22</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0343-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1467,7 +1467,7 @@
 <LM>w#w-wsj0343-001-p1s4W7</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m-wsj0343-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1569,7 +1569,7 @@
 <LM>w#w-wsj0343-001-p1s4W16</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0343-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2640,7 +2640,7 @@
 <LM>w#w-wsj0343-001-p1s5W48</LM>
 </w.rf>
 <form>dána</form>
-<tag lemma="dát" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0343-001-p1s5W49-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3443,7 +3443,7 @@
 <LM>w#w-wsj0343-001-p1s8W16</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj0343-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3706,7 +3706,7 @@
 <LM>w#w-wsj0343-001-p1s9W18</LM>
 </w.rf>
 <form>nechaly</form>
-<tag lemma="nechat" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0343-001-p1s9W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4434,7 +4434,7 @@
 <LM>w#w-wsj0343-001-p1s12W6</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0343-001-p1s12W7-Ta">
 <src.rf>tagger-a</src.rf>

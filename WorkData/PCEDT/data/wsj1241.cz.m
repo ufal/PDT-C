@@ -173,7 +173,7 @@
 <LM>w#w-wsj1241-001-p1s0W9</LM>
 </w.rf>
 <form>Evropou</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1241-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1490,7 +1490,7 @@
 <LM>w#w-wsj1241-001-p1s3W4</LM>
 </w.rf>
 <form>Evropou</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1241-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>

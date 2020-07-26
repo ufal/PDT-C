@@ -51,7 +51,7 @@
 <LM>w#w-mf930713-154-p1s1w5</LM>
 </w.rf>
 <form>Romů</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930713-154-p1s1w6">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <LM>w#w-mf930713-154-p2s3w5</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-154-p2s3w6">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-mf930713-154-p3s1w14</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-154-p3s1w15">
 <src.rf>manual</src.rf>

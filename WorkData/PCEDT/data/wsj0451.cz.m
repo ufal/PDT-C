@@ -289,7 +289,7 @@
 <LM>w#w-wsj0451-001-p1s0W24</LM>
 </w.rf>
 <form>nesprávně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1N----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1N----</tag>
 </m>
 <m id="m-wsj0451-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1667,7 +1667,7 @@
 <LM>w#w-wsj0451-001-p1s4W20</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0451-001-p1s4W21-Ta">
 <src.rf>tagger-a</src.rf>

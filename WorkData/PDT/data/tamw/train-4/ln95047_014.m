@@ -161,7 +161,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televize_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95047-014-p2s1Bw11">
@@ -345,7 +345,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televize_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95047-014-p2s2w21">
@@ -1187,7 +1187,7 @@
 <LM>w#w-ln95047-014-p4s2w29</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95047-014-p4s2w30">
 <src.rf>manual</src.rf>

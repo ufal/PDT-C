@@ -143,7 +143,7 @@
 <form>sv</form>
 <tag>
 <AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-016-p2s1w12">
@@ -236,7 +236,7 @@
 <form>prof</form>
 <tag>
 <AM lemma="profesor_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="prof_^(profesor)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="prof_^(profesor)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-016-p2s2w11">

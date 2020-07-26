@@ -642,7 +642,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-102-p2s6w6">

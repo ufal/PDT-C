@@ -223,7 +223,7 @@
 <LM>w#w-mf920923-023-p3s1w19</LM>
 </w.rf>
 <form>přivezla</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="přivézt" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-023-p3s1w20">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-mf920923-023-p3s2w22</LM>
 </w.rf>
 <form>vezmete</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VB-P---2P-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m-mf920923-023-p3s2w23">
 <src.rf>manual</src.rf>
@@ -802,7 +802,7 @@
 <LM>w#w-mf920923-023-p3s3w15</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920923-023-p3s3w16">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-mf920923-023-p3s5w1</LM>
 </w.rf>
 <form>Zato</form>
-<tag lemma="zato" src="orig" selected="1">J,-------------</tag>
+<tag lemma="zato" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920923-023-p3s5w2">
 <src.rf>manual</src.rf>

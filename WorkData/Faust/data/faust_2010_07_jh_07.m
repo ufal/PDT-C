@@ -1420,7 +1420,7 @@
 <form>Sofia</form>
 <tag>
 <AM lemma="Sofie-1_;G" recommended="1">NNFS1-----A---1</AM>
-<AM lemma="Sofie-2_;Y" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Sofie_;G_;Y" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="jh_07-SCzechM-p0658-s1-w2">
@@ -1642,7 +1642,7 @@
 <LM>w#w-jh_07-SCzechM-p0660-s1-w20</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" recommended="1">Dg-------3A----</tag>
+<tag lemma="dříve" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="jh_07-SCzechM-p0660-s1-w21">
 <w.rf>
@@ -1689,7 +1689,7 @@
 <AM lemma="překládat-3_^(z_jazyka)" recommended="1">VB-S---1P-AAI--</AM>
 <AM lemma="překládat-1_^(přemístit)">VB-S---1P-AAI--</AM>
 <AM lemma="překládat-2_^(přehnout)">VB-S---1P-AAI--</AM>
-<AM lemma="překládat-3_^(z_jazyka)" src="manual" selected="1">VB-S---1P-AAI--</AM>
+<AM lemma="překládat" src="manual" selected="1">VB-S---1P-AAI--</AM>
 </tag>
 </m>
 <m id="jh_07-SCzechM-p0671-s1-w2">
@@ -1782,7 +1782,7 @@
 <LM>w#w-jh_07-SCzechM-p0673-s1-w5</LM>
 </w.rf>
 <form>snech</form>
-<tag lemma="sen" recommended="1">NNIP6-----A----</tag>
+<tag lemma="sen-1" recommended="1">NNIP6-----A----</tag>
 </m>
 </s>
 <s id="s-jh_07-SCzechM-p0677-s1-w9">
@@ -2631,7 +2631,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -2928,7 +2928,7 @@
 <LM>w#w-jh_07-SCzechM-p0692-s1-w5</LM>
 </w.rf>
 <form>raději</form>
-<tag lemma="rád" recommended="1">Dg-------2A----</tag>
+<tag lemma="rád-2" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="jh_07-SCzechM-p0692-s1-w6">
 <w.rf>
@@ -3042,7 +3042,7 @@
 <AM lemma="uefa">X@-------------</AM>
 <AM lemma="uefa-77" src="manual">F%-------------</AM>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="manual">NNXXX-----A----</AM>
-<AM lemma="uefa_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="uefa_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="jh_07-SCzechM-p0696-s1-w6">
@@ -3497,7 +3497,7 @@
 <form>myslel</form>
 <tag>
 <AM lemma="myslet" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="myslet" src="manual" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="myslit" src="manual" selected="1">VpYS----R-AAI-1</AM>
 </tag>
 </m>
 <m id="jh_07-SCzechM-p0701-s1-w5">
@@ -3524,7 +3524,7 @@
 <form>bychom</form>
 <tag>
 <AM lemma="být" recommended="1">Vc-P---1-------</AM>
-<AM lemma="být" src="manual" selected="1">Vc-P---1----I--</AM>
+<AM lemma="být" src="manual" selected="1">Vc----------Im-</AM>
 </tag>
 </m>
 <m id="jh_07-SCzechM-p0701-s1-w8">
@@ -3565,7 +3565,7 @@
 <form>zabrat</form>
 <tag>
 <AM lemma="zabrat_^([zabavit]_něco_někomu)" recommended="1">Vf--------A-P--</AM>
-<AM lemma="zabrat" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="zabrat_^([zabavit]_něco_někomu)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="jh_07-SCzechM-p0701-s1-w12">
@@ -5127,7 +5127,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -5517,7 +5517,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)">NNFP2-----A----</AM>
 </tag>
 </m>

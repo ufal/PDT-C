@@ -395,7 +395,7 @@
 <LM>w#w-d1t1741-18</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m012-d1t1741-19">
 <w.rf>
@@ -843,7 +843,7 @@
 </w.rf>
 <form>mami</form>
 <tag>
-<AM lemma="máma" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="mami_,h" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="máma" src="auto">NNFS5-----A---1</AM>
 </tag>
 </m>
@@ -1783,7 +1783,7 @@
 <LM>w#w-d1t1891-1</LM>
 </w.rf>
 <form>průmyslovku</form>
-<tag lemma="průmyslovka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="průmyslovka_,h" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m012-d-id112159">
 <w.rf>
@@ -1989,7 +1989,7 @@
 <LM>w#w-d1t1905-3</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m012-d1t1905-4">
 <w.rf>
@@ -3237,7 +3237,7 @@
 <LM>w#w-d1t1990-12</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m012-d1t1990-13">
 <w.rf>
@@ -4436,7 +4436,7 @@
 <LM>w#w-d1t2078-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m012-d-id118438">
 <w.rf>
@@ -4589,7 +4589,7 @@
 </w.rf>
 <form>nadávalo</form>
 <tag>
-<AM lemma="nadávat-1_^(spílat)_(*6at-1)" src="auto" recommended="1">VpNS----R-AAI--</AM>
+<AM lemma="nadávat_^(*4at)" src="auto" recommended="1">VpNS----R-AAI--</AM>
 <AM lemma="nadávat-2_:T_^(obdařit,_dotovat)_(*6at-2)" src="auto">VpNS---XR-AA---</AM>
 <AM lemma="nadávat_:T" src="auto">VpNS---XR-AA---</AM>
 </tag>
@@ -4906,7 +4906,7 @@
 <LM>w#w-d1t2097-7</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m012-d1t2097-5">
 <w.rf>
@@ -4977,7 +4977,7 @@
 <LM>w#w-d1t2101-5</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m012-d-id119402">
 <w.rf>
@@ -6211,7 +6211,7 @@
 <LM>w#w-d1t2174-6</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="auto" recommended="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m012-1505-24">
 <w.rf>

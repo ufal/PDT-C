@@ -1346,7 +1346,7 @@
 <LM>w#w-wsj1540-001-p1s3W16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1540-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3665,7 +3665,7 @@
 <LM>w#w-wsj1540-001-p1s12W10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1540-001-p1s12W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6198,7 +6198,7 @@
 <LM>w#w-wsj1540-001-p1s22W3</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1540-001-p1s22W4-Ta">
 <src.rf>tagger-a</src.rf>

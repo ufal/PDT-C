@@ -3322,7 +3322,7 @@
 <LM>w#w-wsj1855-001-p1s8W16</LM>
 </w.rf>
 <form>nenechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------N-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------N-P--</tag>
 </m>
 <m id="m-wsj1855-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4385,7 +4385,7 @@
 <LM>w#w-wsj1855-001-p1s10W41</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1855-001-p1s10W42-Ta">
 <src.rf>tagger-a</src.rf>

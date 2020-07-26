@@ -761,7 +761,7 @@
 <tag>
 <AM lemma="sarkasmus" src="orig">NNIS7-----A----</AM>
 <AM lemma="v" src="manual">NNIS7-----A----</AM>
-<AM lemma="sarkasmus_,s_^(^DD**sarkazmus)" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="sarkasmus" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-057-p3s2w13">

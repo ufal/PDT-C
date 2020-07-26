@@ -1320,7 +1320,7 @@
 <LM>w#w-ln95041-093-p5s1w9</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95041-093-p5s1w10">
 <src.rf>manual</src.rf>

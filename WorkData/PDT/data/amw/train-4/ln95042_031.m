@@ -390,7 +390,7 @@
 <LM>w#w-ln95042-031-p2s2w11</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95042-031-p2s2w12">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-ln95042-031-p2s2w25</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="ccm_^(centimetr_krychlový)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95042-031-p2s2w26">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <tag>
 <AM lemma="ÖMV_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="ÖMV_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ÖMV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ÖMV_;m_^(Österreichische_Mineralölverwaltung)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-031-p3s1w25">
@@ -890,7 +890,7 @@
 <form>VIP</form>
 <tag>
 <AM lemma="VIP-1_:B_,t_^(very_important_person)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VIP-1_^(very_important_person)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="VIP_^(very_important_person)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-031-p3s1w30">
@@ -996,7 +996,7 @@
 <LM>w#w-ln95042-031-p3s1w38</LM>
 </w.rf>
 <form>fiest</form>
-<tag lemma="fiesta_;m" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="fiesta" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95042-031-p3s1w39">
 <src.rf>manual</src.rf>
@@ -1022,7 +1022,7 @@
 <form>BMW</form>
 <tag>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="auto">NNNXX-----A----</AM>
-<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">NNNXX-----A---b</AM>
+<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-031-p3s1w42">
@@ -1294,7 +1294,7 @@
 <LM>w#w-ln95042-031-p3s1w72</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95042-031-p3s1w73">
 <src.rf>manual</src.rf>
@@ -2725,7 +2725,7 @@
 <LM>w#w-ln95042-031-p5s3w8</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95042-031-p5s3w9">
 <src.rf>manual</src.rf>
@@ -4288,7 +4288,7 @@
 <LM>w#w-ln95042-031-p6s1w12</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95042-031-p6s1w13">
 <src.rf>manual</src.rf>
@@ -4553,7 +4553,7 @@
 <LM>w#w-ln95042-031-p6s1w44</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95042-031-p6s1w45">
 <src.rf>manual</src.rf>
@@ -4593,7 +4593,7 @@
 <LM>w#w-ln95042-031-p6s1w49</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="ccm_^(centimetr_krychlový)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95042-031-p6s1w50">
 <src.rf>manual</src.rf>
@@ -4649,7 +4649,7 @@
 <LM>w#w-ln95042-031-p6s1w56</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95042-031-p6s1w57">
 <src.rf>manual</src.rf>

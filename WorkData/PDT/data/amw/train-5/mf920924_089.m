@@ -268,7 +268,7 @@
 <LM>w#w-mf920924-089-p2s2w2</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-089-p2s2w3">
 <src.rf>manual</src.rf>

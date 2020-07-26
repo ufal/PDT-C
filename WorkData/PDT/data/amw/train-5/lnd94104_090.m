@@ -205,7 +205,7 @@
 <LM>w#w-lnd94104-090-p1s2w1</LM>
 </w.rf>
 <form>Těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94104-090-p1s2w2">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-lnd94104-090-p1s2w2</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag lemma="říci" src="auto" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94104-090-p1s2w3">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <LM>w#w-lnd94104-090-p1s2w11</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-lnd94104-090-p1s2w12">
 <src.rf>manual</src.rf>
@@ -2418,7 +2418,7 @@
 <LM>w#w-lnd94104-090-p1s18w18</LM>
 </w.rf>
 <form>sympozií</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94104-090-p1s18w19">
 <src.rf>manual</src.rf>
@@ -2854,7 +2854,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-lnd94104-090-p1s21w15">

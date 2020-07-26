@@ -1007,7 +1007,7 @@
 <LM>w#w-cmpr9415-026-p5s2w4</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9415-026-p5s2w5">
 <src.rf>manual</src.rf>
@@ -2749,7 +2749,7 @@
 <LM>w#w-cmpr9415-026-p10s1w28</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČSFR_;G_^(Čs._federativní_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-026-p10s1w29">
 <src.rf>manual</src.rf>
@@ -2907,7 +2907,7 @@
 <LM>w#w-cmpr9415-026-p10s2w12</LM>
 </w.rf>
 <form>sekretářka</form>
-<tag lemma="sekretářka_^(*2)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="sekretářka-2_^(*4-2)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-026-p10s2w13">
 <src.rf>manual</src.rf>
@@ -3126,7 +3126,7 @@
 <LM>w#w-cmpr9415-026-p10s3w18</LM>
 </w.rf>
 <form>sekretářku</form>
-<tag lemma="sekretářka_^(*2)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="sekretářka-2_^(*4-2)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9415-026-p10s3w19">
 <src.rf>manual</src.rf>
@@ -3322,7 +3322,7 @@
 <form>nalezen</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsYS----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsYS----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-026-p10s4w24">
@@ -3549,7 +3549,7 @@
 <LM>w#w-cmpr9415-026-p10s5w19</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČSFR_;G_^(Čs._federativní_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-026-p10s5w20">
 <src.rf>manual</src.rf>
@@ -3715,7 +3715,7 @@
 <LM>w#w-cmpr9415-026-p11s1w14</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČSFR_;G_^(Čs._federativní_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-026-p11s1w15">
 <src.rf>manual</src.rf>
@@ -4121,7 +4121,7 @@
 <LM>w#w-cmpr9415-026-p11s3w33</LM>
 </w.rf>
 <form>sekretářku</form>
-<tag lemma="sekretářka_^(*2)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="sekretářka-2_^(*4-2)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9415-026-p11s3w34">
 <src.rf>manual</src.rf>
@@ -4203,7 +4203,7 @@
 <LM>w#w-cmpr9415-026-p12s1w9</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-cmpr9415-026-p12s1w10">
 <src.rf>manual</src.rf>
@@ -4389,7 +4389,7 @@
 <LM>w#w-cmpr9415-026-p12s2w16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-cmpr9415-026-p12s2w17">
 <src.rf>manual</src.rf>
@@ -4503,7 +4503,7 @@
 <LM>w#w-cmpr9415-026-p12s3w11</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-cmpr9415-026-p12s3w12">
 <src.rf>manual</src.rf>
@@ -4753,7 +4753,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">Vf--------A-I--</AM>
+<AM lemma="nalézt_^(někam)" src="auto" selected="1">Vf--------A-I--</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-026-p14s1w9">
@@ -4974,7 +4974,7 @@
 <LM>w#w-cmpr9415-026-p14s3w5</LM>
 </w.rf>
 <form>umět</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">Vf--------A-I--</tag>
+<tag lemma="umět" src="auto" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-cmpr9415-026-p14s3w6">
 <src.rf>manual</src.rf>
@@ -5102,7 +5102,7 @@
 <LM>w#w-cmpr9415-026-p14s3w21</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-cmpr9415-026-p14s3w22">
 <src.rf>manual</src.rf>
@@ -5380,7 +5380,7 @@
 <LM>w#w-cmpr9415-026-p15s1w2</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-cmpr9415-026-p15s1w3">
 <src.rf>manual</src.rf>
@@ -5468,7 +5468,7 @@
 <LM>w#w-cmpr9415-026-p15s1w13</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-cmpr9415-026-p15s1w14">
 <src.rf>manual</src.rf>
@@ -5893,7 +5893,7 @@
 <LM>w#w-cmpr9415-026-p15s5w11</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-cmpr9415-026-p15s5w12">
 <src.rf>manual</src.rf>
@@ -5919,7 +5919,7 @@
 <LM>w#w-cmpr9415-026-p16s1w2</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-cmpr9415-026-p16s1w3">
 <src.rf>manual</src.rf>
@@ -6089,7 +6089,7 @@
 <LM>w#w-cmpr9415-026-p16s2w7</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9415-026-p16s2w8">
 <src.rf>manual</src.rf>
@@ -6295,7 +6295,7 @@
 <LM>w#w-cmpr9415-026-p19s1Bw2</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-cmpr9415-026-p19s1Bw3">
 <src.rf>manual</src.rf>

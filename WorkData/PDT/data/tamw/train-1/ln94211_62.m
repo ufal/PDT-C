@@ -69,7 +69,7 @@
 <LM>w#w-ln94211-62-p2s1Aw3</LM>
 </w.rf>
 <form>luč</form>
-<tag lemma="luč-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="luč-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94211-62-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -161,7 +161,7 @@
 <LM>w#w-ln94211-62-p2s1Bw9</LM>
 </w.rf>
 <form>Slovák</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-62-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -230,7 +230,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-62-p2s1Bw18">
@@ -337,7 +337,7 @@
 <LM>w#w-ln94211-62-p2s2w6</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94211-62-p2s2w7">
 <src.rf>manual</src.rf>

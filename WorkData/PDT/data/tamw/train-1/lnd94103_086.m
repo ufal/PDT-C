@@ -618,7 +618,7 @@
 <LM>w#w-lnd94103-086-p1s5w25</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd94103-086-p1s5w26">
 <src.rf>manual</src.rf>
@@ -1348,7 +1348,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1---------1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94103-086-p1s13w26">
@@ -1455,7 +1455,7 @@
 <LM>w#w-lnd94103-086-p1s14w7</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94103-086-p1s14w8">
 <src.rf>manual</src.rf>
@@ -1749,7 +1749,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-086-p1s16w6">
@@ -2184,7 +2184,7 @@
 <LM>w#w-lnd94103-086-p1s18w10</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd94103-086-p1s18w11">
 <src.rf>manual</src.rf>
@@ -2707,7 +2707,7 @@
 <form>HIV</form>
 <tag>
 <AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HIV_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="HIV_;U_^(lidský_virus_způsobujícíIDS)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-086-p1s23w5">
@@ -3170,7 +3170,7 @@
 <form>Dr</form>
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Dr_^(doktor)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-086-p1s26w10">
@@ -3368,7 +3368,7 @@
 <LM>w#w-lnd94103-086-p1s27w12</LM>
 </w.rf>
 <form>tripů</form>
-<tag lemma="trip" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="trip-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94103-086-p1s27w13">
 <src.rf>manual</src.rf>
@@ -3671,7 +3671,7 @@
 <LM>w#w-lnd94103-086-p1s28Bw3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94103-086-p1s28Bw4">
 <src.rf>manual</src.rf>
@@ -4151,7 +4151,7 @@
 <LM>w#w-lnd94103-086-p1s29Aw28</LM>
 </w.rf>
 <form>nemohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-lnd94103-086-p1s29Aw29">
 <src.rf>manual</src.rf>
@@ -4265,7 +4265,7 @@
 <LM>w#w-lnd94103-086-p1s29Bw9</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94103-086-p1s29Bw10">
 <src.rf>manual</src.rf>
@@ -4735,7 +4735,7 @@
 <LM>w#w-lnd94103-086-p1s33w3</LM>
 </w.rf>
 <form>vezmete</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VB-P---2P-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m-lnd94103-086-p1s33w4">
 <src.rf>manual</src.rf>
@@ -4775,7 +4775,7 @@
 <LM>w#w-lnd94103-086-p1s33w8</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-lnd94103-086-p1s33w9">
 <src.rf>manual</src.rf>
@@ -5564,7 +5564,7 @@
 <LM>w#w-lnd94103-086-p1s37w8</LM>
 </w.rf>
 <form>dnem</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd94103-086-p1s37w9">
 <src.rf>manual</src.rf>

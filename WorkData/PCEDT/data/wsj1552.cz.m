@@ -1262,7 +1262,7 @@
 <LM>w#w-wsj1552-001-p1s3W27</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1552-001-p1s3W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3734,7 +3734,7 @@
 <LM>w#w-wsj1552-001-p1s11W28</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj1552-001-p1s11W29-Ta">
 <src.rf>tagger-a</src.rf>

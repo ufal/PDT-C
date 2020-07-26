@@ -781,7 +781,7 @@
 <LM>w#w-ln94207-117-p2s5w12</LM>
 </w.rf>
 <form>noblesně</form>
-<tag lemma="noblesně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="noblesně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94207-117-p2s5w13">
 <src.rf>manual</src.rf>
@@ -893,7 +893,7 @@
 <LM>w#w-ln94207-117-p2s5w26</LM>
 </w.rf>
 <form>pavilonů</form>
-<tag lemma="pavilon" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="pavilon_,s_^(^DD**pavilón)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94207-117-p2s5w27">
 <src.rf>manual</src.rf>
@@ -1469,7 +1469,7 @@
 <LM>w#w-ln94207-117-p2s7w15</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94207-117-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1549,7 +1549,7 @@
 <LM>w#w-ln94207-117-p2s7w25</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94207-117-p2s7w26">
 <src.rf>manual</src.rf>

@@ -61,7 +61,7 @@
 <LM>w#w-ln94210-139-p2s1Aw1</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-139-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <LM>w#w-ln94210-139-p2s1Bw3</LM>
 </w.rf>
 <form>tajně</form>
-<tag lemma="tajně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="tajně-1_^(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94210-139-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-ln94210-139-p3s3w1</LM>
 </w.rf>
 <form>Dosti</form>
-<tag lemma="dost" src="auto" selected="1">Db------------1</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A---1</tag>
 </m>
 <m id="m-ln94210-139-p3s3w2">
 <src.rf>manual</src.rf>
@@ -953,7 +953,7 @@
 <LM>w#w-ln94210-139-p3s4w12</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94210-139-p3s4w13">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <LM>w#w-ln94210-139-p3s5w8</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94210-139-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1312,7 +1312,7 @@
 <LM>w#w-ln94210-139-p3s7w1</LM>
 </w.rf>
 <form>Myšlena</form>
-<tag lemma="myslet" src="orig" selected="1">VsQW----X-API--</tag>
+<tag lemma="myslit" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln94210-139-p3s7w2">
 <src.rf>manual</src.rf>
@@ -2149,7 +2149,7 @@
 <LM>w#w-ln94210-139-p4s5w29</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94210-139-p4s5w30">
 <src.rf>manual</src.rf>
@@ -2378,7 +2378,7 @@
 <form>StB</form>
 <tag>
 <AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="StB_;m_^(Státní_bezpečnost)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-139-p4s5w59">
@@ -2685,7 +2685,7 @@
 <form>radši</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A---1</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A---1</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln94210-139-p4s8w4">

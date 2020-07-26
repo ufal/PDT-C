@@ -1000,7 +1000,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m043-d1e1270-x3-33">
@@ -1471,7 +1471,7 @@
 <LM>w#w-d1t1352-12</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m043-d1t1352-13">
 <w.rf>
@@ -2023,7 +2023,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m043-d1t1371-4">
@@ -3588,7 +3588,7 @@
 <LM>w#w-d1t1478-3</LM>
 </w.rf>
 <form>umíte</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-P---2P-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m043-d1t1478-4">
 <w.rf>
@@ -3664,14 +3664,14 @@
 <LM>w#w-d1t1494-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m043-d1t1494-3">
 <w.rf>
 <LM>w#w-d1t1494-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m043-d1t1494-4">
 <w.rf>
@@ -3801,7 +3801,7 @@
 <form>lehce</form>
 <tag>
 <AM lemma="lehce" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="lehce_^(*2ký)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="lehce" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m043-d1t1498-5">
@@ -4344,7 +4344,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m043-d1e1539-x2-176">

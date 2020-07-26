@@ -19,7 +19,7 @@
 <LM>w#w-d1t1725-19</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m125-d1t1725-20">
 <w.rf>
@@ -108,7 +108,7 @@
 <LM>w#w-d1t1725-28</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m125-d1t1725-29">
 <w.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-d1t1727-8</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m125-47-67">
 <w.rf>
@@ -1564,7 +1564,7 @@
 </w.rf>
 <form>více</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="více" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -1712,7 +1712,7 @@
 <LM>w#w-d1t1775-4</LM>
 </w.rf>
 <form>Zuzanka</form>
-<tag lemma="Zuzanka_;Y_,e" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Zuzanka_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m125-d-id161866-punct">
 <w.rf>
@@ -2805,7 +2805,7 @@
 <LM>w#w-d1t1794-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m125-d1t1794-3">
 <w.rf>
@@ -2856,7 +2856,7 @@
 <LM>w#w-d1t1798-3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m125-d-id163874-punct">
 <w.rf>
@@ -2917,7 +2917,7 @@
 <LM>w#w-d1t1798-9</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m125-d1t1798-10">
 <w.rf>

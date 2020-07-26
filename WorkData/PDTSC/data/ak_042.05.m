@@ -146,7 +146,7 @@
 <LM>w#w-d1t1334-2</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m042-d1t1334-4">
 <w.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-d1t1364-3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m042-d1t1366-1">
 <w.rf>
@@ -772,7 +772,7 @@
 <AM lemma="půl-1" src="auto">ClXS1----------</AM>
 <AM lemma="půl-1" src="auto">ClXS2----------</AM>
 <AM lemma="půl-1" src="auto">ClXS3----------</AM>
-<AM lemma="půl-1" src="auto" selected="1">ClXS4----------</AM>
+<AM lemma="půl-1" src="auto" selected="1">Cl-XX----------</AM>
 <AM lemma="půl-1" src="auto">ClXS6----------</AM>
 <AM lemma="půl-1" src="auto">ClXS7----------</AM>
 <AM lemma="půl-2" src="auto">NNFS1-----A----</AM>
@@ -1042,7 +1042,7 @@
 <LM>w#w-d1t1390-2</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m042-d1t1390-3">
 <w.rf>
@@ -1837,7 +1837,7 @@
 <LM>w#w-d1t1450-2</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m042-d1t1450-3">
 <w.rf>
@@ -1957,7 +1957,7 @@
 <LM>w#w-d1t1472-2</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m042-d1t1472-3">
 <w.rf>
@@ -2015,7 +2015,7 @@
 <LM>w#w-d1t1476-5</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m042-d1e1473-x2-310">
 <w.rf>
@@ -2344,7 +2344,7 @@
 <LM>w#w-d1t1484-7</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m042-d-m-d1e1473-x2-punct-punct">
 <w.rf>

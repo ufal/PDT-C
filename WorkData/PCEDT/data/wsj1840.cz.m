@@ -2309,7 +2309,7 @@
 <LM>w#w-wsj1840-001-p1s7W24</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m-wsj1840-001-p1s7W25-Ta">
 <src.rf>tagger-a</src.rf>

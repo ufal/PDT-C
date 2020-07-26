@@ -268,7 +268,7 @@
 <LM>w#w-d1t20-12</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m132-d1t20-13">
 <w.rf>
@@ -431,14 +431,14 @@
 <LM>w#w-d1t38-1</LM>
 </w.rf>
 <form>Ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m132-d1t38-2">
 <w.rf>
 <LM>w#w-d1t38-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m132-d1t38-3">
 <w.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-d1t38-5</LM>
 </w.rf>
 <form>váma</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2------6</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2------6</tag>
 </m>
 <m id="m132-d1t38-6">
 <w.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-d1t62-10</LM>
 </w.rf>
 <form>vytáhnul</form>
-<tag lemma="vytáhnout" src="auto" recommended="1">VpYS----R-AA---</tag>
+<tag lemma="vytáhnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m132-d1e51-x2-16">
 <w.rf>
@@ -1335,7 +1335,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m132-d-id57338-punct">
@@ -2057,7 +2057,7 @@
 <LM>w#w-d1t156-6</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m132-d1t156-7">
 <w.rf>
@@ -2080,7 +2080,7 @@
 <LM>w#w-d1t164-1</LM>
 </w.rf>
 <form>Ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m132-d1t164-2">
 <w.rf>
@@ -2348,7 +2348,7 @@
 <LM>w#w-d1t175-4</LM>
 </w.rf>
 <form>mlada</form>
-<tag lemma="mlado" src="auto" recommended="1">NNNS2-----A----</tag>
+<tag lemma="mlada" src="auto" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="m132-d1t175-5">
 <w.rf>
@@ -3383,7 +3383,7 @@
 <LM>w#w-d1t233-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m132-d1t233-4">
 <w.rf>
@@ -3478,7 +3478,7 @@
 <LM>w#w-d1t233-12</LM>
 </w.rf>
 <form>umíte</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-P---2P-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m132-d-id61487-punct">
 <w.rf>
@@ -3584,7 +3584,7 @@
 <LM>w#w-104-105</LM>
 </w.rf>
 <form>umím</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m132-d1t243-4">
 <w.rf>

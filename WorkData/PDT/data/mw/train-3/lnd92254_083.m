@@ -135,7 +135,7 @@
 <form>ž</form>
 <tag>
 <AM lemma="žokej_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="žokej" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="ž-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-083-p1s2w4">
@@ -471,7 +471,7 @@
 <form>ž</form>
 <tag>
 <AM lemma="žokej_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="žokej" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="ž-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-083-p1s9w4">
@@ -534,7 +534,7 @@
 <form>Vokalíza</form>
 <tag>
 <AM lemma="vokalíza" src="orig">NNFS1-----A----</AM>
-<AM lemma="Vokalíza_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Vokalíza_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-083-p1s11w2">
@@ -629,7 +629,7 @@
 <form>Mr</form>
 <tag>
 <AM lemma="Mister_:B_,t" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Mr-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Mr-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-083-p1s13w2">
@@ -669,7 +669,7 @@
 <tag>
 <AM lemma="žokej_:B" src="orig">NNMXX-----A---8</AM>
 <AM lemma="žokej" src="manual">NNMXX-----A---8</AM>
-<AM lemma="ž-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ž-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-083-p1s13w6">
@@ -1020,7 +1020,7 @@
 <form>ž</form>
 <tag>
 <AM lemma="žokej_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="žokej" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="ž-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-083-p1s22w4">

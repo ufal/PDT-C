@@ -493,7 +493,7 @@
 <LM>w#w-d1t400-1</LM>
 </w.rf>
 <form>Můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m063-d-m-d1e397-x2-punct-punct">
 <w.rf>
@@ -1539,7 +1539,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m063-d1e490-x2-57">
@@ -2051,7 +2051,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m063-d1t552-4">
@@ -2792,7 +2792,7 @@
 <LM>w#w-d1t669-6</LM>
 </w.rf>
 <form>nevzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpQW----R-NAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m063-d1t669-8">
 <w.rf>
@@ -2912,7 +2912,7 @@
 <LM>w#w-d1t675-10</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m063-d1t673-8">
 <w.rf>

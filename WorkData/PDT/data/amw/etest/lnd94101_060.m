@@ -61,7 +61,7 @@
 <LM>w#w-lnd94101-060-p1s2w1</LM>
 </w.rf>
 <form>Saná</form>
-<tag lemma="Saná_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Saná_;G" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd94101-060-p1s2w2">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-lnd94101-060-p1s5w7</LM>
 </w.rf>
 <form>Alímu</form>
-<tag lemma="Alí_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Alí-1_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94101-060-p1s5w8">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-lnd94101-060-p1s5w29</LM>
 </w.rf>
 <form>Saná</form>
-<tag lemma="Saná_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Saná_;G" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd94101-060-p1s5w30">
 <src.rf>manual</src.rf>

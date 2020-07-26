@@ -189,7 +189,7 @@
 <LM>w#w-mf930703-133-p2s1w13</LM>
 </w.rf>
 <form>ukrajinsko</form>
-<tag lemma="ukrajinský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="ukrajinsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930703-133-p2s1w14">
 <src.rf>manual</src.rf>

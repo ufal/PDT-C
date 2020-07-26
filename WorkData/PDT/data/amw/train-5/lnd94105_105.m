@@ -468,7 +468,7 @@
 <LM>w#w-lnd94105-105-p1s2w7</LM>
 </w.rf>
 <form>stali</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-105-p1s2w8">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-lnd94105-105-p1s4w21</LM>
 </w.rf>
 <form>mířil</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-105-p1s4w22">
 <src.rf>manual</src.rf>
@@ -1365,7 +1365,7 @@
 <LM>w#w-lnd94105-105-p1s7w12</LM>
 </w.rf>
 <form>nevymyslela</form>
-<tag lemma="vymyslet" src="orig" selected="1">VpQW----R-NA---</tag>
+<tag lemma="vymyslit" src="orig" selected="1">VpQW----R-NAP-1</tag>
 </m>
 <m id="m-lnd94105-105-p1s7w13">
 <src.rf>manual</src.rf>
@@ -1633,7 +1633,7 @@
 <LM>w#w-lnd94105-105-p1s9w5</LM>
 </w.rf>
 <form>bránil</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-105-p1s9w6">
 <src.rf>manual</src.rf>
@@ -1705,7 +1705,7 @@
 <LM>w#w-lnd94105-105-p1s9w14</LM>
 </w.rf>
 <form>mířil</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-105-p1s9w15">
 <src.rf>manual</src.rf>
@@ -2020,7 +2020,7 @@
 <LM>w#w-lnd94105-105-p1s18Cw4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-lnd94105-105-p1s18Cw5">
 <src.rf>manual</src.rf>

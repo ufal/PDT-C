@@ -1058,7 +1058,7 @@
 <LM>w#w-d1t3317-2</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m138-d1t3320-1">
 <w.rf>
@@ -2077,7 +2077,7 @@
 <LM>w#w-d1t3424-4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m138-d1t3427-1">
 <w.rf>
@@ -2170,7 +2170,7 @@
 <LM>w#w-d1t3448-5</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m138-d-m-d1e3445-x2-punct-punct">
 <w.rf>
@@ -2205,7 +2205,7 @@
 <LM>w#w-d1t3460-2</LM>
 </w.rf>
 <form>Dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m138-d1t3460-3">
 <w.rf>
@@ -2231,7 +2231,7 @@
 <LM>w#w-d1t3460-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m138-d1t3460-5">
 <w.rf>
@@ -2640,7 +2640,7 @@
 <AM lemma="Martin_^(*2a)" src="auto">AUNP4F---------</AM>
 <AM lemma="Martin_^(*2a)" src="auto">AUNP5F---------</AM>
 <AM lemma="Martin_^(*2a)" src="auto">AUNS2F---------</AM>
-<AM lemma="Martina_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Martina_;G_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Martino_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Martino_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Martinus_;Y" src="auto">NNMS2-----A----</AM>
@@ -2773,7 +2773,7 @@
 <LM>w#w-d1t3517-2</LM>
 </w.rf>
 <form>Michalka</form>
-<tag lemma="Michalka_;Y_^(*2)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Michalka_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m138-351-352">
 <w.rf>
@@ -2917,7 +2917,7 @@
 <AM lemma="Martin_^(*2a)" src="auto">AUNP4F---------</AM>
 <AM lemma="Martin_^(*2a)" src="auto">AUNP5F---------</AM>
 <AM lemma="Martin_^(*2a)" src="auto">AUNS2F---------</AM>
-<AM lemma="Martina_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Martina_;G_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Martino_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Martino_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Martinus_;Y" src="auto">NNMS2-----A----</AM>
@@ -3392,7 +3392,7 @@
 <AM lemma="Martin_^(*2a)" src="auto">AUNP4F---------</AM>
 <AM lemma="Martin_^(*2a)" src="auto">AUNP5F---------</AM>
 <AM lemma="Martin_^(*2a)" src="auto">AUNS2F---------</AM>
-<AM lemma="Martina_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Martina_;G_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Martino_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Martino_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Martinus_;Y" src="auto">NNMS2-----A----</AM>

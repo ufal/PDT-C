@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="VW-2_:B_;m_,t_^(název_firmy_Volkswagen)" src="orig">NNFXX-----A----</AM>
 <AM lemma="VW_:B_;m_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="VW_;m_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-072-p1s1w2">
@@ -57,7 +57,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-072-p1s1w6">
@@ -475,7 +475,7 @@
 <LM>w#w-mf930713-072-p2s2w19</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930713-072-p2s2w20">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <form>proc</form>
 <tag>
 <AM lemma="procento_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="procento" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="procento" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-072-p2s2w22">
@@ -603,7 +603,7 @@
 <form>proc</form>
 <tag>
 <AM lemma="procento_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="procento" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="procento" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-072-p2s3w10">
@@ -712,7 +712,7 @@
 <form>proc</form>
 <tag>
 <AM lemma="procento_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="procento" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="procento" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-072-p2s3w23">
@@ -797,7 +797,7 @@
 <form>proc</form>
 <tag>
 <AM lemma="procento_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="procento" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="procento" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-072-p2s3w33">
@@ -882,7 +882,7 @@
 <form>proc</form>
 <tag>
 <AM lemma="procento_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="procento" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="procento" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-072-p2s3w43">

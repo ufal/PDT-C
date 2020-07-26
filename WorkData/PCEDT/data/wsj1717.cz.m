@@ -1034,7 +1034,7 @@
 <LM>w#w-wsj1717-001-p1s3W8</LM>
 </w.rf>
 <form>navržena</form>
-<tag lemma="navrhnout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="navrhnout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj1717-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>

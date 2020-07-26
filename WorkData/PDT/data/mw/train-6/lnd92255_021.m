@@ -264,7 +264,7 @@
 <form>s</form>
 <tag>
 <AM lemma="státní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="státní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="státní" src="manual" selected="1">AAXXX----1A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92255-021-p3s4w5">
@@ -283,7 +283,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92255-021-p3s4w7">
@@ -542,7 +542,7 @@
 <LM>w#w-lnd92255-021-p3s6w6</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92255-021-p3s6w7">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-021-p3s6w11">
@@ -882,7 +882,7 @@
 <form>s</form>
 <tag>
 <AM lemma="státní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="státní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="státní" src="manual" selected="1">AAXXX----1A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92255-021-p3s8w6">
@@ -901,7 +901,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92255-021-p3s8w8">

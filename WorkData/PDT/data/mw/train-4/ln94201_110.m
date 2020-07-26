@@ -1738,7 +1738,7 @@
 <form>Viktoria</form>
 <tag>
 <AM lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Viktoria-1_;Y_^(ženské_jméno)" src="manual" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Viktoria_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-110-p1s11w13">
@@ -1979,7 +1979,7 @@
 <LM>w#w-ln94201-110-p1s13w2</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-110-p1s13w3">
 <src.rf>manual</src.rf>

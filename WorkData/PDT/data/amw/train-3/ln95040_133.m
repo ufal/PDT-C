@@ -77,7 +77,7 @@
 <form>nejvíc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m-ln95040-133-p1s1w9">
@@ -2595,7 +2595,7 @@
 <LM>w#w-ln95040-133-p6s4w20</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95040-133-p6s4w21">
 <src.rf>manual</src.rf>
@@ -2737,7 +2737,7 @@
 <tag>
 <AM lemma="BBC_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BBC-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="BBC_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BBC_;m_^(British_Broadcasting_Corporation)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-133-p6s4w38">
@@ -3036,7 +3036,7 @@
 <LM>w#w-ln95040-133-p6s5w36</LM>
 </w.rf>
 <form>Lawrencem</form>
-<tag lemma="Lawrence_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Lawrenc_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95040-133-p6s5w37">
 <src.rf>manual</src.rf>
@@ -3562,7 +3562,7 @@
 <AM lemma="Reuters_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="Reuter_;m" src="auto">NNMXX-----A----</AM>
 <AM lemma="reuters_;m_^(agentura)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="reuters_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="reuters_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-133-p7s2Bw3">

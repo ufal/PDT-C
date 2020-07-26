@@ -686,7 +686,7 @@
 <LM>w#w-ln94200-116-p2s3w8</LM>
 </w.rf>
 <form>albánsko</form>
-<tag lemma="albánský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="albánsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94200-116-p2s3w9">
 <src.rf>manual</src.rf>

@@ -148,7 +148,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920924-058-p2s2w10">
@@ -457,7 +457,7 @@
 <LM>w#w-mf920924-058-p2s4w13</LM>
 </w.rf>
 <form>přivézt</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="přivézt" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920924-058-p2s4w14">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <LM>w#w-mf920924-058-p2s5w17</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920924-058-p2s5w18">
 <src.rf>manual</src.rf>

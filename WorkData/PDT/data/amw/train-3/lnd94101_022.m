@@ -1223,7 +1223,7 @@
 <LM>w#w-lnd94101-022-p1s7w15</LM>
 </w.rf>
 <form>nevinně</form>
-<tag lemma="vinně-1_^(kdo_je_vinen/vinna)_(*3ý-1)" src="orig" selected="1">Dg-------1N----</tag>
+<tag lemma="vinně-1_^(*3ý-1)_(*3ý-2)" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-lnd94101-022-p1s7w16">
 <src.rf>manual</src.rf>
@@ -1249,7 +1249,7 @@
 <LM>w#w-lnd94101-022-p1s8w2</LM>
 </w.rf>
 <form>nemohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd94101-022-p1s8w3">
 <src.rf>manual</src.rf>

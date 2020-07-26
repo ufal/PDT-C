@@ -61,7 +61,7 @@
 <LM>w#w-mf930709-020-p2s1Aw2</LM>
 </w.rf>
 <form>KOLODĚJÍCH</form>
-<tag lemma="Koloděje_;G_;Y" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="Koloděje_;G" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930709-020-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <tag>
 <AM lemma="mikroorganizmus" src="orig">NNIP3-----A---1</AM>
 <AM lemma="mikroorganismus" src="auto" recommended="1">NNIP3-----A----</AM>
-<AM lemma="mikroorganismus_,s_^(^DD**mikroorganizmus)" src="manual" selected="1">NNIP3-----A---1</AM>
+<AM lemma="mikroorganismus_,s_^(^DD**mikroorganizmus)" src="manual" selected="1">NNIP3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-020-p2s4Aw14">
@@ -784,7 +784,7 @@
 <LM>w#w-mf930709-020-p2s5w12</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-020-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1406,7 +1406,7 @@
 <LM>w#w-mf930709-020-p2s9w21</LM>
 </w.rf>
 <form>Petrově</form>
-<tag lemma="Petrov_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Petrov-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930709-020-p2s9w22">
 <src.rf>manual</src.rf>
@@ -1642,7 +1642,7 @@
 <LM>w#w-mf930709-020-p2s11w2</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930709-020-p2s11w3">
 <src.rf>manual</src.rf>
@@ -1658,7 +1658,7 @@
 <LM>w#w-mf930709-020-p2s11w4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930709-020-p2s11w5">
 <src.rf>manual</src.rf>

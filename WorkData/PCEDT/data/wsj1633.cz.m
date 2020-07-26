@@ -748,7 +748,7 @@
 <LM>w#w-wsj1633-001-p1s1W34</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1633-001-p1s1W35-Ta">
 <src.rf>tagger-a</src.rf>

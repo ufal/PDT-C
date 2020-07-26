@@ -76,7 +76,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m044-d1e291-x2-181">
@@ -1294,7 +1294,7 @@
 <LM>w#w-d1t348-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m044-d1t348-3">
 <w.rf>
@@ -1344,7 +1344,7 @@
 <LM>w#w-d1t356-4</LM>
 </w.rf>
 <form>Táhl</form>
-<tag lemma="táhnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
+<tag lemma="táhnout" src="auto" recommended="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m044-d1t356-5">
 <w.rf>
@@ -2143,7 +2143,7 @@
 <LM>w#w-d1t411-1</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m044-d1t411-2">
 <w.rf>
@@ -3227,7 +3227,7 @@
 <LM>w#w-d1t496-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m044-d1t496-4">
 <w.rf>
@@ -3242,7 +3242,7 @@
 </w.rf>
 <form>nejvíc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A---1</AM>
 <AM lemma="nejvíce" src="auto">Ca--X---------1</AM>
 </tag>
 </m>

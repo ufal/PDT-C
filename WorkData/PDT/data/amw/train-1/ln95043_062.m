@@ -770,7 +770,7 @@
 <LM>w#w-ln95043-062-p2s4w25</LM>
 </w.rf>
 <form>věcně</form>
-<tag lemma="věcně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="věcně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-062-p2s4w26">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-ln95043-062-p2s5w4</LM>
 </w.rf>
 <form>narozdíl</form>
-<tag lemma="narozdíl" src="auto" selected="1">RF-------------</tag>
+<tag lemma="narozdíl_,h" src="auto" selected="1">RF-------------</tag>
 </m>
 <m id="m-ln95043-062-p2s5w5">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-062-p2s5w9">

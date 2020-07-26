@@ -512,7 +512,7 @@
 <LM>w#w-d1t1572-5</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m049-d1t1572-6">
 <w.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-d1t1581-8</LM>
 </w.rf>
 <form>Dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m049-d1t1581-9">
 <w.rf>
@@ -603,7 +603,7 @@
 <tag>
 <AM lemma="smět" src="auto">VsFS4---X-API--</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS4-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="směna_^(výměna_za_něco;pracovní)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m049-1121-1139">
@@ -1327,7 +1327,7 @@
 <LM>w#w-d1t1615-7</LM>
 </w.rf>
 <form>Nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m049-1186-841">
 <w.rf>
@@ -1573,7 +1573,7 @@
 <form>Liazka</form>
 <tag>
 <AM lemma="liazka_;m_,h" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="liazka_;m_,h" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="liazka_,h" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m049-d1e1620-x2-48">
@@ -1788,7 +1788,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -3256,7 +3256,7 @@
 <LM>w#w-d1t1718-4</LM>
 </w.rf>
 <form>natáhli</form>
-<tag lemma="natáhnout" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="natáhnout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m049-d1t1718-5">
 <w.rf>
@@ -3601,7 +3601,7 @@
 <LM>w#w-d1t1733-5</LM>
 </w.rf>
 <form>dáme</form>
-<tag lemma="dát" src="auto" recommended="1">VB-P---1P-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m049-d1t1733-6">
 <w.rf>
@@ -3733,7 +3733,7 @@
 <LM>w#w-d1t1733-13</LM>
 </w.rf>
 <form>zaleje</form>
-<tag lemma="zalít" src="auto" recommended="1">VB-S---3P-AA---</tag>
+<tag lemma="zalít" src="auto" recommended="1">VB-S---3P-AAP-1</tag>
 </m>
 <m id="m049-d1t1733-20">
 <w.rf>

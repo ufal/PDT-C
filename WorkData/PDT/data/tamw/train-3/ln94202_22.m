@@ -389,7 +389,7 @@
 <LM>w#w-ln94202-22-p2s2w17</LM>
 </w.rf>
 <form>chorvatsko</form>
-<tag lemma="chorvatský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="chorvatsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94202-22-p2s2w18">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-ln94202-22-p3s2w16</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln94202-22-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1521,7 +1521,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-22-p5s1w2">

@@ -112,7 +112,7 @@
 </w.rf>
 <form>tom</form>
 <tag>
-<AM lemma="tom-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="tom-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
 </tag>
 </m>
@@ -180,7 +180,7 @@
 <LM>w#w-lnd92255-115-p3s2w6</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92255-115-p3s2w7">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <form>Čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92255-115-p3s4w2">
@@ -672,7 +672,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Francouzkou</form>
-<tag lemma="Francouzka_;E" src="auto" selected="1">NNFS7-----A----</tag>
+<tag lemma="Francouzka_;E_^(*2)" src="auto" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92255-115-p3s4w12">
 <src.rf>manual</src.rf>

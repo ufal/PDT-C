@@ -821,7 +821,7 @@
 <form>mohlo</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS---XR-AA---</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VpNS----R-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m010-d1t2734-5">
@@ -938,7 +938,7 @@
 <AM lemma="půl-1" src="auto">ClXS4----------</AM>
 <AM lemma="půl-1" src="auto">ClXS6----------</AM>
 <AM lemma="půl-1" src="auto">ClXS7----------</AM>
-<AM lemma="půl-2" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="půl-1" src="auto" selected="1">Cl-XX----------</AM>
 <AM lemma="půl-2" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="půl-3" src="auto">NNNXX-----A----</AM>
 </tag>
@@ -1375,7 +1375,7 @@
 <LM>w#w-d1t2818-3</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m010-d1t2818-2">
 <w.rf>
@@ -1810,7 +1810,7 @@
 <LM>w#w-d1t2862-1</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m010-d1t2862-2">
 <w.rf>
@@ -1855,7 +1855,7 @@
 <LM>w#w-d1t2872-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m010-d1t2872-5">
 <w.rf>
@@ -1921,7 +1921,7 @@
 <LM>w#w-d1t2872-10</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m010-d-id133027">
 <w.rf>
@@ -3340,7 +3340,7 @@
 <form>mohlo</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS---XR-AA---</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VpNS----R-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m010-d1t3031-4">

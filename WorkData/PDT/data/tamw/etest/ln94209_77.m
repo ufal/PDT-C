@@ -1932,7 +1932,7 @@
 <LM>w#w-ln94209-77-p4s6w3</LM>
 </w.rf>
 <form>domácku</form>
-<tag lemma="domácku" src="orig" selected="1">Db-------------</tag>
+<tag lemma="domácku" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94209-77-p4s6w4">
 <src.rf>manual</src.rf>
@@ -3196,7 +3196,7 @@
 <LM>w#w-ln94209-77-p5s7w27</LM>
 </w.rf>
 <form>miminkem</form>
-<tag lemma="miminko_,e" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="miminko" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94209-77-p5s7w28">
 <src.rf>manual</src.rf>
@@ -3223,7 +3223,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-77-p5s7w31">

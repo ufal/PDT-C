@@ -29,7 +29,7 @@
 <form>Konstruktiva</form>
 <tag>
 <AM lemma="Konstruktiva_;Y_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Konstruktiva-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p1s1w3">
@@ -117,7 +117,7 @@
 <form>Konstruktiva</form>
 <tag>
 <AM lemma="Konstruktiva_;Y_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Konstruktiva-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p2s1w8">
@@ -699,7 +699,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p2s3w26">
@@ -718,7 +718,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p2s3w28">
@@ -739,7 +739,7 @@
 <form>Konstruktiva</form>
 <tag>
 <AM lemma="Konstruktiva_;Y_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Konstruktiva-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p2s4w2">
@@ -954,7 +954,7 @@
 <form>Konstruktiva</form>
 <tag>
 <AM lemma="Konstruktiva_;Y_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Konstruktiva-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p2s5w24">

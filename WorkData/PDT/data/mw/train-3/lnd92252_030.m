@@ -382,7 +382,7 @@
 <LM>w#w-lnd92252-030-p2s1w14</LM>
 </w.rf>
 <form>napadeni</form>
-<tag lemma="napadnout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="napadnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-lnd92252-030-p2s1w15">
 <src.rf>manual</src.rf>

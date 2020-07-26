@@ -708,7 +708,7 @@
 <LM>w#w-mf930703-017-p3s2w13</LM>
 </w.rf>
 <form>bránila</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930703-017-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1137,7 +1137,7 @@
 <LM>w#w-mf930703-017-p4s1w11</LM>
 </w.rf>
 <form>rozvodů</form>
-<tag lemma="rozvod-2_^(vody,_plynu...)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930703-017-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1281,7 +1281,7 @@
 <LM>w#w-mf930703-017-p4s1w29</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930703-017-p4s1w30">
 <src.rf>manual</src.rf>

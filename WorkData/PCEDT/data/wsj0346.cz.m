@@ -233,7 +233,7 @@
 <LM>w#w-wsj0346-001-p1s0W21</LM>
 </w.rf>
 <form>analyticko</form>
-<tag lemma="analytický" src="auto" recommended="1">S2--------A----</tag>
+<tag lemma="analyticko" src="auto" recommended="1">S2--------A----</tag>
 </m>
 <m id="m-wsj0346-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>

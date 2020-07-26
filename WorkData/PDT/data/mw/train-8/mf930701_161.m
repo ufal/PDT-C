@@ -35,7 +35,7 @@
 <LM>w#w-mf930701-161-p2s1w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="OSN_;m_^(Organizace_spojených_národů)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-161-p2s1w4">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-mf930701-161-p3s1w22</LM>
 </w.rf>
 <form>vyňata</form>
-<tag lemma="vyjmout" src="orig" selected="1">VsQW----X-AP---</tag>
+<tag lemma="vyjmout" src="orig" selected="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-mf930701-161-p3s1w23">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-161-p3s2w16">
@@ -1595,7 +1595,7 @@
 <LM>w#w-mf930701-161-p7s1w10</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-161-p7s1w11">
 <src.rf>manual</src.rf>
@@ -1723,7 +1723,7 @@
 <LM>w#w-mf930701-161-p7s1w26</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-161-p7s1w27">
 <src.rf>manual</src.rf>
@@ -2358,7 +2358,7 @@
 <LM>w#w-mf930701-161-p9s3w9</LM>
 </w.rf>
 <form>událostmi</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-mf930701-161-p9s3w10">
 <src.rf>manual</src.rf>

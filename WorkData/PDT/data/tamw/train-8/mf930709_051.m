@@ -1106,7 +1106,7 @@
 <LM>w#w-mf930709-051-p5s2w2</LM>
 </w.rf>
 <form>Nemůžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-mf930709-051-p5s2w3">
 <src.rf>manual</src.rf>

@@ -435,7 +435,7 @@
 <tag>
 <AM lemma="intenzívně_^(*1í)" src="orig">Dg-------1A----</AM>
 <AM lemma="intenzívně_^(*1í)_,s_^(^DD**intenzivně)" src="manual">Dg-------1A----</AM>
-<AM lemma="intenzívně_,s_^(^DD**intenzivně)_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="intenzívně_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-116-p2s5w4">
@@ -809,7 +809,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-116-p3s1w31">
@@ -1146,7 +1146,7 @@
 <LM>w#w-mf920923-116-p4s1w31</LM>
 </w.rf>
 <form>otištěn</form>
-<tag lemma="otisknout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="otisknout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-mf920923-116-p4s1w32">
 <src.rf>manual</src.rf>

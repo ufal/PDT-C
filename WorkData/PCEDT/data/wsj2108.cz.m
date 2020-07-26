@@ -80,7 +80,7 @@
 <LM>w#w-wsj2108-001-p1s0W6</LM>
 </w.rf>
 <form>nesprávně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1N----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1N----</tag>
 </m>
 <m id="m-wsj2108-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-wsj2108-001-p1s0W16</LM>
 </w.rf>
 <form>vaším</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS7-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS7-P2-------</tag>
 </m>
 <m id="m-wsj2108-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -857,7 +857,7 @@
 <LM>w#w-wsj2108-001-p1s1W46</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj2108-001-p1s1W47-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3189,7 +3189,7 @@
 <LM>w#w-wsj2108-001-p1s8W3</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2108-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>

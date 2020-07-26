@@ -1580,7 +1580,7 @@
 <LM>w#w-ln94204-34-p3s10w9</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln94204-34-p3s10w10">
 <src.rf>manual</src.rf>

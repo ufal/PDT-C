@@ -421,7 +421,7 @@
 <LM>w#w-ln95048-099-p2s2w21</LM>
 </w.rf>
 <form>Martinu</form>
-<tag lemma="Martina_;Y" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Martina_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-099-p2s2w22">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-ln95048-099-p2s3w11</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95048-099-p2s3w12">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <form>pozn</form>
 <tag>
 <AM lemma="poznámka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95048-099-p2s3w22">
@@ -632,7 +632,7 @@
 <form>aut</form>
 <tag>
 <AM lemma="autor_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="autor" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="autor" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95048-099-p2s3w24">

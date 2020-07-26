@@ -849,7 +849,7 @@
 </w.rf>
 <form>právem</form>
 <tag>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS7-----A----</AM>
 <AM lemma="právem" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -1008,7 +1008,7 @@
 <LM>w#w-wsj2383-001-p1s2W4</LM>
 </w.rf>
 <form>napadeny</form>
-<tag lemma="napadnout" src="auto" recommended="1">VsTP----X-APP--</tag>
+<tag lemma="napadnout" src="auto" recommended="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-wsj2383-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1440,7 +1440,7 @@
 <LM>w#w-wsj2383-001-p1s3W23</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2383-001-p1s3W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2266,7 +2266,7 @@
 <LM>w#w-wsj2383-001-p1s6W3</LM>
 </w.rf>
 <form>myslelo</form>
-<tag lemma="myslet" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpNS----R-AAI-1</tag>
 </m>
 <m id="m-wsj2383-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>

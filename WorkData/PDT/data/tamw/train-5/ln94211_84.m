@@ -193,7 +193,7 @@
 <form>Tansu</form>
 <tag>
 <AM lemma="Tansa_;G" src="orig">NNFS4-----A----</AM>
-<AM lemma="Tansu_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Tansu_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-84-p2s1Bw17">

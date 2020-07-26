@@ -396,7 +396,7 @@
 <LM>w#w-lnd94104-076-p1s4w12</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94104-076-p1s4w13">
 <src.rf>manual</src.rf>
@@ -1410,7 +1410,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpNS---XR-NA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpNS---XR-NA---</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">VpNS----R-NAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpNS----R-NAI--</AM>
 </tag>
 </m>
 <m id="m-lnd94104-076-p1s12w10">
@@ -1731,7 +1731,7 @@
 <LM>w#w-lnd94104-076-p1s14w5</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-lnd94104-076-p1s14w6">
 <src.rf>manual</src.rf>
@@ -1918,7 +1918,7 @@
 <LM>w#w-lnd94104-076-p1s14w28</LM>
 </w.rf>
 <form>bránila</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-076-p1s14w29">
 <src.rf>manual</src.rf>
@@ -2161,7 +2161,7 @@
 <LM>w#w-lnd94104-076-p1s16w9</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94104-076-p1s16w10">
 <src.rf>manual</src.rf>

@@ -322,7 +322,7 @@
 <LM>w#w-lnd94103-068-p1s4w11</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-068-p1s4w12">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-lnd94103-068-p1s5w4</LM>
 </w.rf>
 <form>kvota</form>
-<tag lemma="kvóta" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="kvota_,s_^(^DD**kvóta)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-068-p1s5w5">
 <src.rf>manual</src.rf>
@@ -1044,7 +1044,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-068-p1s8w41">

@@ -61,7 +61,7 @@
 <LM>w#w-ln94200-58-p2s1Aw3</LM>
 </w.rf>
 <form>jap</form>
-<tag lemma="jap-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="jap-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-58-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-ln94200-58-p2s1Aw5</LM>
 </w.rf>
 <form>mst</form>
-<tag lemma="mst-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="mst-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-58-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -1432,7 +1432,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-58-p4s1w2">

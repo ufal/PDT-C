@@ -447,7 +447,7 @@
 <LM>w#w-ln94201-62-p2s3w8</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94201-62-p2s3w9">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VB-S---3P-AAP--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VB-S---3P-AAP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94201-62-p3s1w6">
@@ -758,7 +758,7 @@
 <LM>w#w-ln94201-62-p3s1w7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94201-62-p3s1w8">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <form>dát</form>
 <tag>
 <AM lemma="dát" src="orig">Vf--------A-P--</AM>
-<AM lemma="dát" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="dát-1" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-ln94201-62-p3s1w16">

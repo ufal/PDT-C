@@ -207,7 +207,7 @@
 <LM>w#w-lnd92256-100-p3s2w8</LM>
 </w.rf>
 <form>kanadsko</form>
-<tag lemma="kanadský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="kanadsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92256-100-p3s2w9">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-lnd92256-100-p3s5w6</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd92256-100-p3s5w7">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 <LM>w#w-lnd92256-100-p4s1w24</LM>
 </w.rf>
 <form>poosmé</form>
-<tag lemma="poosmé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poosmé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92256-100-p4s1w25">
 <src.rf>manual</src.rf>

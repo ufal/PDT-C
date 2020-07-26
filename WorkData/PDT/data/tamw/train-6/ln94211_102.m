@@ -93,7 +93,7 @@
 <LM>w#w-ln94211-102-p2s1w5</LM>
 </w.rf>
 <form>Jitka</form>
-<tag lemma="Jitka-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jitka-1_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-102-p2s1w6">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-ln94211-102-p2s2w5</LM>
 </w.rf>
 <form>vydával</form>
-<tag lemma="vydávat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="vydávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-102-p2s2w6">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-ln94211-102-p2s3w25</LM>
 </w.rf>
 <form>Atlantisem</form>
-<tag lemma="Atlantis_;G" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Atlantis-2_;G_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94211-102-p2s3w26">
 <src.rf>manual</src.rf>

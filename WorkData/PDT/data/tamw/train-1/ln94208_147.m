@@ -355,7 +355,7 @@
 <form>mil</form>
 <tag>
 <AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln94208-147-p2s3w19">
@@ -648,7 +648,7 @@
 <LM>w#w-ln94208-147-p3s1w16</LM>
 </w.rf>
 <form>rusko</form>
-<tag lemma="ruský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="rusko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94208-147-p3s1w17">
 <src.rf>manual</src.rf>

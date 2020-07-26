@@ -33,7 +33,7 @@
 <LM>w#w-d1t1047-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m026-d1t1047-4">
 <w.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-d1t1053-10</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m026-d1t1053-11">
 <w.rf>

@@ -278,7 +278,7 @@
 <LM>w#w-wsj1739-001-p1s0W21</LM>
 </w.rf>
 <form>potřebami</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj1739-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>

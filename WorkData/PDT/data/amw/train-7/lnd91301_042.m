@@ -137,7 +137,7 @@
 <form>pplk</form>
 <tag>
 <AM lemma="podplukovník_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="pplk_^(podplukovník)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="podplukovník" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd91301-042-p3s1w11">
@@ -226,7 +226,7 @@
 <LM>w#w-lnd91301-042-p3s1w21</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd91301-042-p3s1w22">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-lnd91301-042-p3s3w18</LM>
 </w.rf>
 <form>očí</form>
-<tag lemma="oko" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd91301-042-p3s3w19">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-042-p3s3w28">
@@ -740,7 +740,7 @@
 <LM>w#w-lnd91301-042-p3s5w8</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd91301-042-p3s5w9">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <form>mm</form>
 <tag>
 <AM lemma="mm-1`milimetr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd91301-042-p3s6w25">
@@ -1078,7 +1078,7 @@
 <LM>w#w-lnd91301-042-p3s7w8</LM>
 </w.rf>
 <form>očí</form>
-<tag lemma="oko" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd91301-042-p3s7w9">
 <src.rf>manual</src.rf>

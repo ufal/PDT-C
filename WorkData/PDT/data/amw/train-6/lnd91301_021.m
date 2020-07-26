@@ -262,7 +262,7 @@
 <LM>w#w-lnd91301-021-p4s1w21</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-021-p4s1w22">
 <src.rf>manual</src.rf>

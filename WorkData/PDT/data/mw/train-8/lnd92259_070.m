@@ -401,7 +401,7 @@
 <LM>w#w-lnd92259-070-p3s4w9</LM>
 </w.rf>
 <form>zasažen</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-lnd92259-070-p3s4w10">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-lnd92259-070-p3s8w16</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-070-p3s8w17">
 <src.rf>manual</src.rf>

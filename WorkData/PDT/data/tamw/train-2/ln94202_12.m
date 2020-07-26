@@ -199,7 +199,7 @@
 <form>BMW</form>
 <tag>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="auto">NNNXX-----A----</AM>
-<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-12-p1s2w14">
@@ -492,7 +492,7 @@
 <form>ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
+<AM lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-12-p1s3w20">
@@ -650,7 +650,7 @@
 <tag>
 <AM lemma="Maserati_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="Maserati_;m" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Maserati_;m_^(značka_automobilu)" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="Maserati_;m" src="auto" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-12-p1s4w12">
@@ -751,7 +751,7 @@
 <LM>w#w-ln94202-12-p1s6w4</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-ln94202-12-p1s6w5">
 <src.rf>manual</src.rf>

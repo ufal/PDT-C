@@ -1313,7 +1313,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p2s8w16">
@@ -1698,7 +1698,7 @@
 <LM>w#w-ln95042-011-p2s10w25</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95042-011-p2s10w26">
 <src.rf>manual</src.rf>
@@ -1708,7 +1708,7 @@
 <form>naleznou</form>
 <tag>
 <AM lemma="naleznout" src="orig">VB-P---3P-AAP--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VB-P---3P-AAP--</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VB-P---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p2s10w27">
@@ -2078,7 +2078,7 @@
 <LM>w#w-ln95042-011-p3s3w2</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95042-011-p3s3w3">
 <src.rf>manual</src.rf>
@@ -2277,7 +2277,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p3s4w6">
@@ -2786,7 +2786,7 @@
 <LM>w#w-ln95042-011-p3s7w11</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například" src="orig" selected="1">Db------------b</tag>
+<tag lemma="například" src="orig" selected="1">TT------------b</tag>
 </m>
 <m id="m-ln95042-011-p3s7w12">
 <src.rf>manual</src.rf>
@@ -3967,7 +3967,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p6s2w5">
@@ -5130,7 +5130,7 @@
 <LM>w#w-ln95042-011-p6s6w3</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95042-011-p6s6w4">
 <src.rf>manual</src.rf>
@@ -5536,7 +5536,7 @@
 <LM>w#w-ln95042-011-p6s8Bw5</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95042-011-p6s8Bw6">
 <src.rf>manual</src.rf>
@@ -6535,7 +6535,7 @@
 <LM>w#w-ln95042-011-p6s12w4</LM>
 </w.rf>
 <form>můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-ln95042-011-p6s12w5">
 <src.rf>manual</src.rf>
@@ -6836,7 +6836,7 @@
 <LM>w#w-ln95042-011-p6s14Bw11</LM>
 </w.rf>
 <form>můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-ln95042-011-p6s14Bw12">
 <src.rf>manual</src.rf>
@@ -7000,7 +7000,7 @@
 <LM>w#w-ln95042-011-p6s16w4</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95042-011-p6s16w5">
 <src.rf>manual</src.rf>
@@ -7128,7 +7128,7 @@
 <LM>w#w-ln95042-011-p6s16w20</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95042-011-p6s16w21">
 <src.rf>manual</src.rf>
@@ -8063,7 +8063,7 @@
 <LM>w#w-ln95042-011-p9s2w13</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95042-011-p9s2w14">
 <src.rf>manual</src.rf>
@@ -8195,7 +8195,7 @@
 <LM>w#w-ln95042-011-p9s4w4</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95042-011-p9s4w5">
 <src.rf>manual</src.rf>

@@ -185,7 +185,7 @@
 <LM>w#w-mf920902-050-p2s3w1</LM>
 </w.rf>
 <form>Mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-050-p2s3w2">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-mf920902-050-p2s5w3</LM>
 </w.rf>
 <form>zasaženo</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-mf920902-050-p2s5w4">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-mf920902-050-p2s6w10</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920902-050-p2s6w11">
 <src.rf>manual</src.rf>

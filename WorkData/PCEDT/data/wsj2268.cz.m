@@ -113,7 +113,7 @@
 <LM>w#w-wsj2268-001-p1s1W10</LM>
 </w.rf>
 <form>vyhla</form>
-<tag lemma="vyhnout" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="vyhnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj2268-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1950,7 +1950,7 @@
 <LM>w#w-wsj2268-001-p1s5W7</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2268-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2158,7 +2158,7 @@
 <LM>w#w-wsj2268-001-p1s5W24</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj2268-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln95049-094-p1s1w4</LM>
 </w.rf>
 <form>kandidátku</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95049-094-p1s1w5">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-ln95049-094-p2s2w15</LM>
 </w.rf>
 <form>kandidátkách</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln95049-094-p2s2w16">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-094-p2s2w31">
@@ -795,7 +795,7 @@
 <LM>w#w-ln95049-094-p2s3w34</LM>
 </w.rf>
 <form>vydala</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95049-094-p2s3w35">
 <src.rf>manual</src.rf>

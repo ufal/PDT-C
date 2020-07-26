@@ -513,7 +513,7 @@
 <LM>w#w-d1t3306-5</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m056-d1t3306-6">
 <w.rf>
@@ -988,7 +988,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" selected="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" selected="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -1105,7 +1105,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m056-d1t3361-2">
@@ -2419,7 +2419,7 @@
 <LM>w#w-d1t3438-2</LM>
 </w.rf>
 <form>Nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m056-d1t3438-1">
 <w.rf>
@@ -2513,7 +2513,7 @@
 <tag>
 <AM lemma="vydělávat-1_:T_^(peníze)_(*6at-1)" src="auto" recommended="1">VB-S---3P-NA---</AM>
 <AM lemma="vydělávat-2_:T_^(kůže)_(*6at-2)" src="auto">VB-S---3P-NA---</AM>
-<AM lemma="vydělávat_^(kůže;peníze)_(*4at)" src="manual" selected="1">VB-S---3P-NAI--</AM>
+<AM lemma="vydělávat_^(*4at)" src="manual" selected="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>
 <m id="m056-d1t3438-10">
@@ -2999,7 +2999,7 @@
 <LM>w#w-d1t3479-12</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m056-d1t3479-13">
 <w.rf>
@@ -3025,7 +3025,7 @@
 <LM>w#w-d1t3479-16</LM>
 </w.rf>
 <form>Jedeme</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m056-d1t3479-22">
 <w.rf>
@@ -3207,7 +3207,7 @@
 <LM>w#w-d1t3481-16</LM>
 </w.rf>
 <form>jedeme</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m056-d1t3481-17">
 <w.rf>

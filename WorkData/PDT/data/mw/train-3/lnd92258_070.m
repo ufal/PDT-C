@@ -143,7 +143,7 @@
 <LM>w#w-lnd92258-070-p2s2w11</LM>
 </w.rf>
 <form>indicko</form>
-<tag lemma="indický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="indicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92258-070-p2s2w12">
 <src.rf>manual</src.rf>

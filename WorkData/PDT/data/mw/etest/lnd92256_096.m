@@ -53,7 +53,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-096-p1s1w6">
@@ -88,7 +88,7 @@
 <LM>w#w-lnd92256-096-p2s1w1</LM>
 </w.rf>
 <form>Nepříjemně</form>
-<tag lemma="příjemně-1_^(všeob.,_poz._emoce)_(*3ý-1)" src="orig" selected="1">Dg-------1N----</tag>
+<tag lemma="příjemně_^(*1ý)" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-lnd92256-096-p2s1w2">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-096-p3s2w19">
@@ -864,7 +864,7 @@
 <LM>w#w-lnd92256-096-p4s3w5</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-096-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1435,7 +1435,7 @@
 <LM>w#w-lnd92256-096-p6s1w21</LM>
 </w.rf>
 <form>nepříjemně</form>
-<tag lemma="příjemně-1_^(všeob.,_poz._emoce)_(*3ý-1)" src="orig" selected="1">Dg-------1N----</tag>
+<tag lemma="příjemně_^(*1ý)" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-lnd92256-096-p6s1w22">
 <src.rf>manual</src.rf>
@@ -1496,7 +1496,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-096-p6s2w6">
@@ -1805,7 +1805,7 @@
 <LM>w#w-lnd92256-096-p6s4w15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd92256-096-p6s4w16">
 <src.rf>manual</src.rf>
@@ -1967,7 +1967,7 @@
 <LM>w#w-lnd92256-096-p7s1w17</LM>
 </w.rf>
 <form>Kanadou</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92256-096-p7s1w18">
 <src.rf>manual</src.rf>

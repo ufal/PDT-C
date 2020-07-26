@@ -73,7 +73,7 @@
 </w.rf>
 <form>kor</form>
 <tag>
-<AM lemma="kor-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="kor-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="kora_,a" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -127,7 +127,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-022-p2s2w5">

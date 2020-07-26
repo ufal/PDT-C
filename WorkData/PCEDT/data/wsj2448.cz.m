@@ -2137,7 +2137,7 @@
 <LM>w#w-wsj2448-001-p1s8W6</LM>
 </w.rf>
 <form>starostmi</form>
-<tag lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="starost-2_^(*5ý-2)" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj2448-001-p1s8W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2997,7 +2997,7 @@
 <LM>w#w-wsj2448-001-p1s11W19</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2448-001-p1s11W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4617,7 +4617,7 @@
 <LM>w#w-wsj2448-001-p1s17W17</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj2448-001-p1s17W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5520,7 +5520,7 @@
 <LM>w#w-wsj2448-001-p1s20W18</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m-wsj2448-001-p1s20W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5529,7 +5529,7 @@
 </w.rf>
 <form>Tingem</form>
 <tag>
-<AM lemma="Ting_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Ting-1_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
 <AM lemma="ting_,a_^(nejvyšší_shromáždění._svobodných_islandských_občanů)" src="auto">NNIS7-----A----</AM>
 </tag>
 </m>
@@ -8532,7 +8532,7 @@
 </w.rf>
 <form>Vánoc</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="vánoce_,i_^(^DS**Vánoce)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -10091,7 +10091,7 @@
 <LM>w#w-wsj2448-001-p1s35W9</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj2448-001-p1s35W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11043,7 +11043,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -11912,7 +11912,7 @@
 <LM>w#w-wsj2448-001-p1s41W19</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2448-001-p1s41W20-Ta">
 <src.rf>tagger-a</src.rf>

@@ -213,7 +213,7 @@
 <LM>w#w-lnd94104-033-p1s2w8</LM>
 </w.rf>
 <form>Saná</form>
-<tag lemma="Saná_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Saná_;G" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd94104-033-p1s2w9">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-lnd94104-033-p1s3w18</LM>
 </w.rf>
 <form>nadávali</form>
-<tag lemma="nadávat" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="nadávat_^(*4at)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-033-p1s3w19">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-lnd94104-033-p1s5w15</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94104-033-p1s5w16">
 <src.rf>manual</src.rf>

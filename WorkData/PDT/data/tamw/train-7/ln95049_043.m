@@ -429,7 +429,7 @@
 <LM>w#w-ln95049-043-p2s2w18</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-ln95049-043-p2s2w19">
 <src.rf>manual</src.rf>

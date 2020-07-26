@@ -51,7 +51,7 @@
 <LM>w#w-lnd94105-063-p1s1w5</LM>
 </w.rf>
 <form>očima</form>
-<tag lemma="oko" src="orig" selected="1">NNFD7-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFD7-----A----</tag>
 </m>
 <m id="m-lnd94105-063-p1s1w6">
 <src.rf>manual</src.rf>

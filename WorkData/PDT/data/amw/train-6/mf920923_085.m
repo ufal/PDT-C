@@ -250,7 +250,7 @@
 <LM>w#w-mf920923-085-p1s2w5</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kčs_^(Koruna_čs.)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920923-085-p1s2w6">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <form>Ing</form>
 <tag>
 <AM lemma="Ing-2_:B_^(inženýrka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Ing_^(inženýr)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="Ing_^(inženýr)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-085-p1s3w2">
@@ -639,7 +639,7 @@
 <LM>w#w-mf920923-085-p1s3w38</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920923-085-p1s3w39">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-mf920923-085-p1s4w7</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-085-p1s4w8">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-mf920923-085-p1s4w27</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920923-085-p1s4w28">
 <src.rf>manual</src.rf>

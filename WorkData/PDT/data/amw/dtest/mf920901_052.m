@@ -69,7 +69,7 @@
 <LM>w#w-mf920901-052-p1s2w1</LM>
 </w.rf>
 <form>FIFA</form>
-<tag lemma="FIFA_;m" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="FIFA-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-052-p1s2w2">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-mf920901-052-p4s1w9</LM>
 </w.rf>
 <form>Mohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-mf920901-052-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1026,7 +1026,7 @@
 <LM>w#w-mf920901-052-p4s1w27</LM>
 </w.rf>
 <form>nejdřív</form>
-<tag lemma="brzy" src="auto" selected="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" selected="1">Dg-------3A---1</tag>
 </m>
 <m id="m-mf920901-052-p4s1w28">
 <src.rf>manual</src.rf>
@@ -1488,7 +1488,7 @@
 <LM>w#w-mf920901-052-p6s1w3</LM>
 </w.rf>
 <form>táhne</form>
-<tag lemma="táhnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="táhnout" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-052-p6s1w4">
 <src.rf>manual</src.rf>
@@ -1804,7 +1804,7 @@
 <LM>w#w-mf920901-052-p7s2w12</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920901-052-p7s2w13">
 <src.rf>manual</src.rf>

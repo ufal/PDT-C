@@ -282,7 +282,7 @@
 <LM>w#w-ln94210-109-p2s2w13</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-109-p2s2w14">
 <src.rf>manual</src.rf>
@@ -1202,7 +1202,7 @@
 <LM>w#w-ln94210-109-p3s5w25</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-109-p3s5w26">
 <src.rf>manual</src.rf>
@@ -1294,7 +1294,7 @@
 <form>Čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94210-109-p3s6w6">
@@ -1497,7 +1497,7 @@
 <LM>w#w-ln94210-109-p3s7w5</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-109-p3s7w6">
 <src.rf>manual</src.rf>
@@ -2066,7 +2066,7 @@
 <LM>w#w-ln94210-109-p4s3w23</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94210-109-p4s3w24">
 <src.rf>manual</src.rf>
@@ -2084,7 +2084,7 @@
 <LM>w#w-ln94210-109-p4s4w1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94210-109-p4s4w2">
 <src.rf>manual</src.rf>
@@ -2594,7 +2594,7 @@
 <AM lemma="hektolitr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="hlavní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="hnout_,h_,x" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="hlavní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="hlavní" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94210-109-p4s7w12">
@@ -3139,7 +3139,7 @@
 <LM>w#w-ln94210-109-p5s5w2</LM>
 </w.rf>
 <form>vydá</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94210-109-p5s5w3">
 <src.rf>manual</src.rf>

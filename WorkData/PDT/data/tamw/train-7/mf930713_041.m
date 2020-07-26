@@ -115,7 +115,7 @@
 <LM>w#w-mf930713-041-p1s1Cw2</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930713-041-p1s1Cw3">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-mf930713-041-p2s2w1</LM>
 </w.rf>
 <form>Zastavili</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-041-p2s2w2">
 <src.rf>manual</src.rf>
@@ -1489,7 +1489,7 @@
 <LM>w#w-mf930713-041-p4s1Aw1</LM>
 </w.rf>
 <form>Ukradl</form>
-<tag lemma="ukrást" src="auto" selected="1">VpYS----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-041-p4s1Aw2">
 <src.rf>manual</src.rf>
@@ -2046,7 +2046,7 @@
 <LM>w#w-mf930713-041-p4s5w3</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930713-041-p4s5w4">
 <src.rf>manual</src.rf>
@@ -2078,7 +2078,7 @@
 <LM>w#w-mf930713-041-p4s5w7</LM>
 </w.rf>
 <form>dopaden</form>
-<tag lemma="dopadnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="dopadnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-mf930713-041-p4s5w8">
 <src.rf>manual</src.rf>

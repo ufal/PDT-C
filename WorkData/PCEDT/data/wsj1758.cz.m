@@ -154,7 +154,7 @@
 <LM>w#w-wsj1758-001-p1s1W5</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1758-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -197,7 +197,7 @@
 <LM>w#w-d1t261-9</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m133-d1t261-10">
 <w.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-d1t296-2</LM>
 </w.rf>
 <form>vylítla</form>
-<tag lemma="vylítnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
+<tag lemma="vylítnout_,h_^(^GC**vylétnout)" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m133-d1t296-3">
 <w.rf>
@@ -911,7 +911,7 @@
 <form>panenkami</form>
 <tag>
 <AM lemma="panenka-1_^(např_v_oku)" src="auto">NNFP7-----A----</AM>
-<AM lemma="panenka-2_^(na_hraní)" src="auto" recommended="1">NNFP7-----A----</AM>
+<AM lemma="panenka" src="auto" recommended="1">NNFP7-----A----</AM>
 </tag>
 </m>
 </s>
@@ -943,7 +943,7 @@
 <tag>
 <AM lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto">Dg-------1A----</AM>
 <AM lemma="těžko-2_^(sotva)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="těžko-2_^(sotva)_(*3ý)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m133-d1t311-5">
@@ -1048,7 +1048,7 @@
 <LM>w#w-d1t313-2</LM>
 </w.rf>
 <form>Neumím</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m133-d1t313-3">
 <w.rf>
@@ -2043,7 +2043,7 @@
 <form>panenku</form>
 <tag>
 <AM lemma="panenka-1_^(např_v_oku)" src="auto">NNFS4-----A----</AM>
-<AM lemma="panenka-2_^(na_hraní)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="panenka" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m133-d-id67610-punct">

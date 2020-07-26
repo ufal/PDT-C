@@ -54,7 +54,7 @@
 </w.rf>
 <form>lb</form>
 <tag>
-<AM lemma="lb-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="lb-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="libra-2_:B_^(váhová_jednotka)" src="auto" recommended="1">NNXXX-----A---8</AM>
 </tag>
 </m>

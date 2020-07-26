@@ -27,7 +27,7 @@
 <LM>w#w-mf920925-051-p1s1w2</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920925-051-p1s1w3">
 <src.rf>manual</src.rf>
@@ -71,7 +71,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920925-051-p2s1w5">
@@ -349,7 +349,7 @@
 <form>resp</form>
 <tag>
 <AM lemma="respektive_:B" src="auto">Db------------8</AM>
-<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------b</AM>
 </tag>
 </m>
 <m id="m-mf920925-051-p2s1w39">
@@ -392,7 +392,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920925-051-p2s1w44">
@@ -806,7 +806,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920925-051-p2s4w21">
@@ -831,7 +831,7 @@
 <LM>w#w-mf920925-051-p2s4w23</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-mf920925-051-p2s4w24">
 <src.rf>manual</src.rf>
@@ -966,7 +966,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920925-051-p2s5w15">
@@ -1236,7 +1236,7 @@
 <LM>w#w-mf920925-051-p2s6w17</LM>
 </w.rf>
 <form>Yamaha</form>
-<tag lemma="yamaha-1_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="yamaha" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-051-p2s6w18">
 <src.rf>manual</src.rf>

@@ -40,7 +40,7 @@
 </w.rf>
 <form>Inc</form>
 <tag>
-<AM lemma="Inc-77" src="auto" recommended="1">B%-------------</AM>
+<AM lemma="Inc-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -442,7 +442,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
-<AM lemma="Co-77" src="manual" selected="1">B%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1226-001-p1s1W4-Ta">
@@ -577,7 +577,7 @@
 <form>Corp</form>
 <tag>
 <AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Corp-77" src="manual" selected="1">B%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1226-001-p1s2W5-Ta">
@@ -634,7 +634,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
-<AM lemma="Co-77" src="manual" selected="1">B%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1226-001-p1s2W10-Ta">
@@ -678,7 +678,7 @@
 <form>Corp</form>
 <tag>
 <AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Corp-77" src="manual" selected="1">B%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1226-001-p1s2W14-Ta">
@@ -789,7 +789,7 @@
 <LM>w#w-wsj1226-001-p1s2W23</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1226-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2057,7 +2057,7 @@
 </w.rf>
 <form>Inc</form>
 <tag>
-<AM lemma="Inc-77" src="auto" recommended="1">B%-------------</AM>
+<AM lemma="Inc-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -3204,7 +3204,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
-<AM lemma="Co-77" src="manual" selected="1">B%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1226-001-p1s12W7-Ta">
@@ -3279,7 +3279,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" selected="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1226-001-p1s12W14-Ta">
@@ -6606,7 +6606,7 @@
 <form>Corp</form>
 <tag>
 <AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Corp-77" src="manual" selected="1">B%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1226-001-p1s24W6-Ta">
@@ -8689,7 +8689,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1226-001-p1s32W13-Ta">
@@ -8764,7 +8764,7 @@
 </w.rf>
 <form>Inc</form>
 <tag>
-<AM lemma="Inc-77" src="auto" recommended="1">B%-------------</AM>
+<AM lemma="Inc-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
 </tag>
 </m>

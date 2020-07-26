@@ -493,7 +493,7 @@
 <LM>w#w-cmpr9416-044-p8s1w8</LM>
 </w.rf>
 <form>můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-044-p8s1w9">
 <src.rf>manual</src.rf>
@@ -1817,7 +1817,7 @@
 <form>nám</form>
 <tag>
 <AM lemma="já" src="orig">PP-P3--1-------</AM>
-<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-044-p17s1w9">
@@ -1908,7 +1908,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-044-p17s1w20">

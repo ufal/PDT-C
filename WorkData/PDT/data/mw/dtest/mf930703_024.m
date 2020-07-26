@@ -236,7 +236,7 @@
 <form>GmbH</form>
 <tag>
 <AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GmbH-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Gmbh-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-024-p3s1w18">
@@ -490,7 +490,7 @@
 <LM>w#w-mf930703-024-p3s2w10</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="akciový" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf930703-024-p3s2w11">
 <src.rf>manual</src.rf>
@@ -506,7 +506,7 @@
 <LM>w#w-mf930703-024-p3s2w12</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-mf930703-024-p3s2w13">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-mf930703-024-p3s4w9</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-024-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1107,7 +1107,7 @@
 <LM>w#w-mf930703-024-p4s1w13</LM>
 </w.rf>
 <form>výhradně</form>
-<tag lemma="výhradně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="výhradně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930703-024-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 <LM>w#w-mf930703-024-p4s3w15</LM>
 </w.rf>
 <form>směnách</form>
-<tag lemma="směna-2_^(pracovní;...)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="směna_^(výměna_za_něco;pracovní)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930703-024-p4s3w16">
 <src.rf>manual</src.rf>
@@ -2062,7 +2062,7 @@
 <LM>w#w-mf930703-024-p4s8w2</LM>
 </w.rf>
 <form>Nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930703-024-p4s8w3">
 <src.rf>manual</src.rf>
@@ -2144,7 +2144,7 @@
 <LM>w#w-mf930703-024-p4s9w5</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930703-024-p4s9w6">
 <src.rf>manual</src.rf>

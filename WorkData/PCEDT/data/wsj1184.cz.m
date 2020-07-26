@@ -777,7 +777,7 @@
 <LM>w#w-wsj1184-001-p1s1W9</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1184-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -926,7 +926,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s1W22-Ta">
@@ -1202,7 +1202,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s2W3-Ta">
@@ -2127,7 +2127,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s4W6-Ta">
@@ -3134,7 +3134,7 @@
 <LM>w#w-wsj1184-001-p1s6W12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1184-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4312,7 +4312,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s9W10-Ta">
@@ -5323,7 +5323,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s12W25-Ta">
@@ -5332,7 +5332,7 @@
 <LM>w#w-wsj1184-001-p1s12W25</LM>
 </w.rf>
 <form>nařčena</form>
-<tag lemma="nařknout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="nařknout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj1184-001-p1s12W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5793,7 +5793,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s13W24-Ta">
@@ -5851,7 +5851,7 @@
 <LM>w#w-wsj1184-001-p1s13W29</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1184-001-p1s13W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6055,7 +6055,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s14W11-Ta">
@@ -6850,7 +6850,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s15W11-Ta">
@@ -7665,7 +7665,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s17W8-Ta">
@@ -8138,7 +8138,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s18W18-Ta">
@@ -8415,7 +8415,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s19W3-Ta">
@@ -8531,7 +8531,7 @@
 <LM>w#w-wsj1184-001-p1s19W11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1184-001-p1s19W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8775,7 +8775,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s19W31-Ta">
@@ -9501,7 +9501,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s20W26-Ta">
@@ -9565,7 +9565,7 @@
 <LM>w#w-wsj1184-001-p1s20W31</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1184-001-p1s20W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9832,7 +9832,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s21W6-Ta">
@@ -10200,7 +10200,7 @@
 <AM lemma="GE-2_:B_^(geocentrická_gravitační_konstanta)" src="auto">NNFXX-----A----</AM>
 <AM lemma="GE-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="germanium_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="GE-1_;m_^(General_Electric_Company)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s22W5-Ta">

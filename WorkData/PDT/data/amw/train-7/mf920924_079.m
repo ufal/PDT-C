@@ -27,7 +27,7 @@
 <LM>w#w-mf920924-079-p1s1w2</LM>
 </w.rf>
 <form>NORIMBERKA</form>
-<tag lemma="Norimberk_;G" src="auto" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Norimberk_;G" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-079-p1s1w3">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-mf920924-079-p1s2w15</LM>
 </w.rf>
 <form>výhradně</form>
-<tag lemma="výhradně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="výhradně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-079-p1s2w16">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-mf920924-079-p1s3w5</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920924-079-p1s3w6">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-mf920924-079-p1s3w8</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920924-079-p1s3w9">
 <src.rf>manual</src.rf>

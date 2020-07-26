@@ -317,7 +317,7 @@
 <form>kpt</form>
 <tag>
 <AM lemma="kapitán_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="kapitán" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="kapitán" src="manual" selected="1">NNMXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920901-036-p1s1w39">

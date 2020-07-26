@@ -83,7 +83,7 @@
 <LM>w#w-lnd92255-063-p1s1w9</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd92255-063-p1s1w10">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <form>ČSTK</form>
 <tag>
 <AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSTK-1_;m_^(Československá_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-063-p2s1w3">

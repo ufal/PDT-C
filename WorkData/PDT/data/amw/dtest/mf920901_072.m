@@ -307,7 +307,7 @@
 <form>ČSKOS</form>
 <tag>
 <AM lemma="ČSKOS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSKOS_;m_^(České_a_Slovenská_konfederace_odborových_svazů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-072-p2s3w8">
@@ -374,7 +374,7 @@
 <LM>w#w-mf920901-072-p2s4w2</LM>
 </w.rf>
 <form>vzalo</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-072-p2s4w3">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-072-p2s4w15">
@@ -531,7 +531,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-072-p2s4w22">
@@ -638,7 +638,7 @@
 <LM>w#w-mf920901-072-p2s5w12</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-mf920901-072-p2s5w13">
 <src.rf>manual</src.rf>

@@ -856,7 +856,7 @@
 <LM>w#w-wsj0029-001-p1s2W4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0029-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2233,7 +2233,7 @@
 <LM>w#w-wsj0029-001-p1s8W3</LM>
 </w.rf>
 <form>navrženy</form>
-<tag lemma="navrhnout" src="auto" recommended="1">VsTP----X-APP--</tag>
+<tag lemma="navrhnout" src="auto" recommended="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-wsj0029-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3469,7 +3469,7 @@
 <LM>w#w-wsj0029-001-p1s11W11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0029-001-p1s11W12-Ta">
 <src.rf>tagger-a</src.rf>

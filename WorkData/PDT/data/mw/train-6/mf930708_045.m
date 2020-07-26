@@ -1816,7 +1816,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
 <AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual">Ca--4---------1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m-mf930708-045-p4s1w10">
@@ -1949,7 +1949,7 @@
 <LM>w#w-mf930708-045-p4s3w2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-mf930708-045-p4s3w3">
 <src.rf>manual</src.rf>
@@ -3113,7 +3113,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
+<AM lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-045-p5s1w23">
@@ -3280,7 +3280,7 @@
 <LM>w#w-mf930708-045-p5s1w42</LM>
 </w.rf>
 <form>nerad</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------N----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------N----</tag>
 </m>
 <m id="m-mf930708-045-p5s1w43">
 <src.rf>manual</src.rf>
@@ -3288,7 +3288,7 @@
 <LM>w#w-mf930708-045-p5s1w43</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-mf930708-045-p5s1w44">
 <src.rf>manual</src.rf>
@@ -3738,7 +3738,7 @@
 <LM>w#w-mf930708-045-p6s3w13</LM>
 </w.rf>
 <form>nebránil</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930708-045-p6s3w14">
 <src.rf>manual</src.rf>
@@ -4550,7 +4550,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930708-045-p7s1w24">
@@ -4687,7 +4687,7 @@
 <LM>w#w-mf930708-045-p7s1w40</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-mf930708-045-p7s1w41">
 <src.rf>manual</src.rf>

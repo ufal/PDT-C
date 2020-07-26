@@ -411,7 +411,7 @@
 <form>nadšen</form>
 <tag>
 <AM lemma="nadchnout" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="nadchnout" src="manual" selected="1">VsYS----X-APP--</AM>
+<AM lemma="nadchnout" src="manual" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-mf930709-013-p2s2w19">
@@ -585,7 +585,7 @@
 <LM>w#w-mf930709-013-p2s3w16</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-013-p2s3w17">
 <src.rf>manual</src.rf>

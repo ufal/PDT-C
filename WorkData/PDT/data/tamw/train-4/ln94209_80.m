@@ -250,7 +250,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VsYS----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VsYS---XX-AP---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VsYS----X-APP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln94209-80-p2s2w4">
@@ -485,7 +485,7 @@
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
 <AM lemma="dr_:B_^(doktor)" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Dr_^(doktor)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-80-p2s4w2">
@@ -750,7 +750,7 @@
 <LM>w#w-ln94209-80-p2s5w9</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln94209-80-p2s5w10">
 <src.rf>manual</src.rf>

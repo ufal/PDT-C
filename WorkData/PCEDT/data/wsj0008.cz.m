@@ -1052,7 +1052,7 @@
 <LM>w#w-wsj0008-001-p1s4W16</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0008-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>

@@ -77,7 +77,7 @@
 <LM>w#w-ln94204-129-p2s1Aw4</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94204-129-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -194,7 +194,7 @@
 <LM>w#w-ln94204-129-p2s1Cw2</LM>
 </w.rf>
 <form>výše</form>
-<tag lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="vysoko-1" src="orig" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-ln94204-129-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -336,7 +336,7 @@
 <LM>w#w-ln94204-129-p2s1Cw19</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94204-129-p2s1Cw20">
 <src.rf>manual</src.rf>
@@ -1576,7 +1576,7 @@
 <LM>w#w-ln94204-129-p3s5w1</LM>
 </w.rf>
 <form>Nemohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m-ln94204-129-p3s5w2">
 <src.rf>manual</src.rf>
@@ -2218,7 +2218,7 @@
 <form>našel</form>
 <tag>
 <AM lemma="najít" src="orig">VpYS----R-AAP--</AM>
-<AM lemma="najít_:;W" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="najít" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94204-129-p3s8Aw5">
@@ -2295,7 +2295,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-129-p3s8Bw5">
@@ -2465,7 +2465,7 @@
 <AM lemma="challenger" src="orig">NNMP3-----A----</AM>
 <AM lemma="Challenger_;m_^(letadlo_Challenger)" src="auto">NNIP3-----A----</AM>
 <AM lemma="challenger_,t_^(tenisový_turnaj)" src="auto" recommended="1">NNIP3-----A----</AM>
-<AM lemma="challenger_^(tenisový_turnaj)" src="manual" selected="1">NNIP3-----A----</AM>
+<AM lemma="challenger" src="manual" selected="1">NNIP3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-129-p3s9w17">

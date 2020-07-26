@@ -19,7 +19,7 @@
 <LM>w#w-ln94203-118-p1s1w1</LM>
 </w.rf>
 <form>Schalke</form>
-<tag lemma="Schalke_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Schalke_;G_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-118-p1s1w2">
 <src.rf>manual</src.rf>
@@ -145,7 +145,7 @@
 <LM>w#w-ln94203-118-p2s1Cw5</LM>
 </w.rf>
 <form>Schalke</form>
-<tag lemma="Schalke_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Schalke_;G_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-118-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-ln94203-118-p2s1Cw21</LM>
 </w.rf>
 <form>Schalke</form>
-<tag lemma="Schalke_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Schalke_;G_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-118-p2s1Cw22">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-ln94203-118-p2s3w5</LM>
 </w.rf>
 <form>Schalke</form>
-<tag lemma="Schalke_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Schalke_;G_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-118-p2s3w6">
 <src.rf>manual</src.rf>

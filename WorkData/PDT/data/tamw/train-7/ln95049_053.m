@@ -479,7 +479,7 @@
 <LM>w#w-ln95049-053-p2s2w13</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95049-053-p2s2w14">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-ln95049-053-p2s2w14</LM>
 </w.rf>
 <form>skokanka</form>
-<tag lemma="skokanka_^(*2)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="skokanka" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-053-p2s2w15">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95049-053-p2s2w31">
@@ -899,7 +899,7 @@
 <LM>w#w-ln95049-053-p3s1w32</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95049-053-p3s1w33">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <LM>w#w-ln95049-053-p3s1w38</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95049-053-p3s1w39">
 <src.rf>manual</src.rf>
@@ -1927,7 +1927,7 @@
 <LM>w#w-ln95049-053-p4s2w14</LM>
 </w.rf>
 <form>mohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-ln95049-053-p4s2w15">
 <src.rf>manual</src.rf>
@@ -2693,7 +2693,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95049-053-p4s6w42">
@@ -3075,7 +3075,7 @@
 <LM>w#w-ln95049-053-p5s3w2</LM>
 </w.rf>
 <form>umějí</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="umět" src="auto" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-053-p5s3w3">
 <src.rf>manual</src.rf>
@@ -3085,7 +3085,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln95049-053-p5s3w4">

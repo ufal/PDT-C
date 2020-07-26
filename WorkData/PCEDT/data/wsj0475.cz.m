@@ -3260,7 +3260,7 @@
 <LM>w#w-wsj0475-001-p1s11W9</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0475-001-p1s11W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6091,7 +6091,7 @@
 <LM>w#w-wsj0475-001-p1s20W5</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m-wsj0475-001-p1s20W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7690,7 +7690,7 @@
 <LM>w#w-wsj0475-001-p1s24W33</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0475-001-p1s24W34-Ta">
 <src.rf>tagger-a</src.rf>

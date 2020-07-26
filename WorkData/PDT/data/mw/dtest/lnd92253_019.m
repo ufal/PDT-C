@@ -646,7 +646,7 @@
 <LM>w#w-lnd92253-019-p3s1w17</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92253-019-p3s1w18">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-019-p4s1w7">
@@ -996,7 +996,7 @@
 <tag>
 <AM lemma="Eterna_;Y_,t" src="auto">NNFS1-----A----</AM>
 <AM lemma="Eterna-2_;m" src="manual">NNFS1-----A----</AM>
-<AM lemma="Eterna-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Eterna_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-019-p4s3w4">
@@ -1076,7 +1076,7 @@
 <LM>w#w-lnd92253-019-p4s3w12</LM>
 </w.rf>
 <form>Omega</form>
-<tag lemma="Omega_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Omega_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-019-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1226,7 +1226,7 @@
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual">NNFXX-----A----</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-019-p4s4w18">
@@ -1527,7 +1527,7 @@
 <LM>w#w-lnd92253-019-p5s1w36</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92253-019-p5s1w37">
 <src.rf>manual</src.rf>
@@ -1568,7 +1568,7 @@
 <LM>w#w-lnd92253-019-p5s1w41</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92253-019-p5s1w42">
 <src.rf>manual</src.rf>

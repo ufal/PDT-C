@@ -199,7 +199,7 @@
 <form>Adria</form>
 <tag>
 <AM lemma="Adrie_;Y" src="orig">NNFS1-----A---1</AM>
-<AM lemma="Adrie-2_;m" src="manual" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Adrie-1_;Y_;m" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95040-052-p2s1w19">
@@ -1799,7 +1799,7 @@
 <LM>w#w-ln95040-052-p5s1w5</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95040-052-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2312,7 +2312,7 @@
 <LM>w#w-ln95040-052-p5s4w6</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95040-052-p5s4w7">
 <src.rf>manual</src.rf>

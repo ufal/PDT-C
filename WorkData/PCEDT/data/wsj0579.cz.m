@@ -444,7 +444,7 @@
 <LM>w#w-wsj0579-001-p1s2W7</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0579-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-wsj0579-001-p1s2W12</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_;G_^(United_States_ofmerica)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0579-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>

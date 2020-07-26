@@ -687,7 +687,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -1410,7 +1410,7 @@
 <LM>w#w-d1t1022-6</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m123-d-id89998-punct">
 <w.rf>
@@ -2713,7 +2713,7 @@
 <LM>w#w-d1t1084-6</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m123-d1t1084-7">
 <w.rf>
@@ -2739,14 +2739,14 @@
 <LM>w#w-d1t1084-9</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m123-d1t1084-10">
 <w.rf>
 <LM>w#w-d1t1084-10</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m123-d1t1084-11">
 <w.rf>
@@ -3204,7 +3204,7 @@
 <LM>w#w-d1t1114-1</LM>
 </w.rf>
 <form>Můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m123-d1t1114-4">
 <w.rf>
@@ -3622,7 +3622,7 @@
 <form>prvně</form>
 <tag>
 <AM lemma="prvně" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="prvně_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="prvně" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m123-d1t1136-5">
@@ -4153,7 +4153,7 @@
 <LM>w#w-d1t1174-4</LM>
 </w.rf>
 <form>pomahá</form>
-<tag lemma="pomáhat_,h" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="pomahat_,h_^(^GC**pomáhat)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m123-d1t1178-1">
 <w.rf>
@@ -4595,7 +4595,7 @@
 <AM lemma="půl-2" src="auto">NNFS1-----A----</AM>
 <AM lemma="půl-2" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="půl-3" src="auto">NNNXX-----A----</AM>
-<AM lemma="půl-1_^(*4olovina)" src="manual" selected="1">ClXS4----------</AM>
+<AM lemma="půl-1" src="manual" selected="1">Cl-XX----------</AM>
 </tag>
 </m>
 <m id="m123-d1t1193-16">
@@ -5041,7 +5041,7 @@
 <LM>w#w-d1t1209-2</LM>
 </w.rf>
 <form>zaměstnán</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="zaměstnat" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m123-274-275">
 <w.rf>

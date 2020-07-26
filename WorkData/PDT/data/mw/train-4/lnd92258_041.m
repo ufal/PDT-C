@@ -387,7 +387,7 @@
 <LM>w#w-lnd92258-041-p2s3w4</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92258-041-p2s3w5">
 <src.rf>manual</src.rf>

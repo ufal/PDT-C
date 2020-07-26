@@ -861,7 +861,7 @@
 <LM>w#w-d1t1936-27</LM>
 </w.rf>
 <form>jíme</form>
-<tag lemma="jíst_^(konzumovat_jídlo)" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="jíst" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m037-185-189">
 <w.rf>
@@ -1443,7 +1443,7 @@
 <LM>w#w-d1e1968-x2-221</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m037-d1t1971-19">
 <w.rf>
@@ -1860,7 +1860,7 @@
 <LM>w#w-d1t1981-2</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m037-d1t1981-1">
 <w.rf>
@@ -2151,7 +2151,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m037-d1t1994-2">
@@ -2441,7 +2441,7 @@
 <LM>w#w-d1t2012-3</LM>
 </w.rf>
 <form>nejraději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m037-d-id117066-punct">
 <w.rf>
@@ -3070,7 +3070,7 @@
 <LM>w#w-d1t2099-2</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m037-d1e2084-x2-326">
 <w.rf>
@@ -3393,7 +3393,7 @@
 <LM>w#w-d1t2105-1</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m037-d-id119200-punct">
 <w.rf>
@@ -4567,7 +4567,7 @@
 <LM>w#w-d1t2154-12</LM>
 </w.rf>
 <form>přivezli</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m037-d1t2154-9">
 <w.rf>
@@ -5039,7 +5039,7 @@
 <LM>w#w-d1t2186-22</LM>
 </w.rf>
 <form>nechají</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m037-d1t2186-23">
 <w.rf>

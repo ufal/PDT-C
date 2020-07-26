@@ -37,7 +37,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-043-p2s1w4">
@@ -250,7 +250,7 @@
 <LM>w#w-cmpr9407-043-p3s1Bw1</LM>
 </w.rf>
 <form>Mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s1Bw2">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 <form>CAUSA</form>
 <tag>
 <AM lemma="kauza_,x" src="orig">NNFS1-----A----</AM>
-<AM lemma="cauza_,s_^(^DD**kauza)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="causa_,s_^(^DD**kauza)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-043-p3s5Cw2">

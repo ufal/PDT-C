@@ -967,7 +967,7 @@
 <LM>w#w-mf920924-071-p10s2w1</LM>
 </w.rf>
 <form>Jitka</form>
-<tag lemma="Jitka-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jitka-1_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-071-p10s2w2">
 <src.rf>manual</src.rf>
@@ -2080,7 +2080,7 @@
 <LM>w#w-mf920924-071-p21s1w3</LM>
 </w.rf>
 <form>Tatrovanka</form>
-<tag lemma="Tatrovanka_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatrovanka_;G_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-071-p21s1w4">
 <src.rf>manual</src.rf>
@@ -2403,7 +2403,7 @@
 <tag>
 <AM lemma="Discoparty_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="discoparty_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="discoparty" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="discoparty_,s_^(^DD**diskopárty)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2622,7 +2622,7 @@
 <LM>w#w-mf920924-071-p26s1w9</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 </s>
 <s id="m-mf920924-071-p27s1">
@@ -3310,7 +3310,7 @@
 <LM>w#w-mf920924-071-p38s1w2</LM>
 </w.rf>
 <form>BESKYD</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920924-071-p38s1w3">
 <src.rf>manual</src.rf>

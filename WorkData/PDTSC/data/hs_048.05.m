@@ -215,7 +215,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m048-d-m-d1e1427-x3-punct-punct">
@@ -665,7 +665,7 @@
 <LM>w#w-d1t1471-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-d1t1471-2">
 <w.rf>
@@ -1286,7 +1286,7 @@
 <LM>w#w-d1t1495-4</LM>
 </w.rf>
 <form>přivezla</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m048-d1t1497-1">
 <w.rf>
@@ -1705,7 +1705,7 @@
 <LM>w#w-d1t1520-8</LM>
 </w.rf>
 <form>nevzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpQW----R-NAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m048-d-id103748-punct">
 <w.rf>
@@ -2744,7 +2744,7 @@
 <LM>w#w-d1t1603-12</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m048-d1t1603-13">
 <w.rf>
@@ -2931,7 +2931,7 @@
 <LM>w#w-d1t1609-7</LM>
 </w.rf>
 <form>podává</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m048-d1t1609-9">
 <w.rf>
@@ -3339,7 +3339,7 @@
 <LM>w#w-d1t1614-32</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m048-d1t1614-33">
 <w.rf>
@@ -3556,7 +3556,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -3948,7 +3948,7 @@
 <LM>w#w-d1t1660-2</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-d1t1660-5">
 <w.rf>
@@ -4005,7 +4005,7 @@
 <LM>w#w-d1t1660-9</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-d-id108361-punct">
 <w.rf>

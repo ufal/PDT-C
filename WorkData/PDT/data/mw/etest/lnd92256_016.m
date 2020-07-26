@@ -45,7 +45,7 @@
 <LM>w#w-lnd92256-016-p2s1w2</LM>
 </w.rf>
 <form>půlmiliarda</form>
-<tag lemma="půlmiliarda" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="půlmiliarda" src="orig" selected="1">CzFS1----------</tag>
 </m>
 </s>
 <s id="m-lnd92256-016-p3s1">

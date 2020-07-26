@@ -3198,7 +3198,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1412-001-p1s11W2-Ta">
@@ -3580,7 +3580,7 @@
 <LM>w#w-wsj1412-001-p1s12W4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1412-001-p1s12W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3999,7 +3999,7 @@
 <form>Charlotte</form>
 <tag>
 <AM lemma="Charlotte_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Charlotte_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Charlotte_;G_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1412-001-p1s17W2-Ta">

@@ -1453,7 +1453,7 @@
 <LM>w#w-wsj1963-001-p1s2W31</LM>
 </w.rf>
 <form>nemocem</form>
-<tag lemma="nemoc_^(choroba)" src="auto" recommended="1">NNFP3-----A---1</tag>
+<tag lemma="nemoc" src="auto" recommended="1">NNFP3-----A---1</tag>
 </m>
 <m id="m-wsj1963-001-p1s2W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2517,7 +2517,7 @@
 <LM>w#w-wsj1963-001-p1s6W5</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1963-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>

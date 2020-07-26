@@ -353,7 +353,7 @@
 <LM>w#w-wsj0964-001-p1s1W4</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj0964-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1347,7 +1347,7 @@
 <LM>w#w-wsj0964-001-p1s5W2</LM>
 </w.rf>
 <form>Nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0964-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1638,7 +1638,7 @@
 <form>absolutně</form>
 <tag>
 <AM lemma="absolutno" src="auto">NNNS6-----A----</AM>
-<AM lemma="absolutně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="absolutně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0964-001-p1s5W30-Ta">
@@ -5529,7 +5529,7 @@
 <LM>w#w-wsj0964-001-p1s20W5</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0964-001-p1s20W6-Ta">
 <src.rf>tagger-a</src.rf>

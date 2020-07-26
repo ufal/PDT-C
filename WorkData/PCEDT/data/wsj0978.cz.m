@@ -324,7 +324,7 @@
 <LM>w#w-wsj0978-001-p1s2W2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0978-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-wsj0978-001-p1s3W5</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0978-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2065,7 +2065,7 @@
 <LM>w#w-wsj0978-001-p1s7W15</LM>
 </w.rf>
 <form>ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0978-001-p1s7W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2594,7 +2594,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -3059,7 +3059,7 @@
 <LM>w#w-wsj0978-001-p1s10W23</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0978-001-p1s10W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3237,7 +3237,7 @@
 <LM>w#w-wsj0978-001-p1s11W9</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0978-001-p1s11W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3593,7 +3593,7 @@
 <LM>w#w-wsj0978-001-p1s12W23</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0978-001-p1s12W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4810,7 +4810,7 @@
 <LM>w#w-wsj0978-001-p1s16W11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0978-001-p1s16W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4852,7 +4852,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" selected="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0978-001-p1s16W16-Ta">
@@ -6639,7 +6639,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0978-001-p1s22W10-Ta">
@@ -7679,7 +7679,7 @@
 <LM>w#w-wsj0978-001-p1s25W25</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0978-001-p1s25W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8886,7 +8886,7 @@
 <LM>w#w-wsj0978-001-p1s30W16</LM>
 </w.rf>
 <form>nejvíc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m-wsj0978-001-p1s30W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9835,7 +9835,7 @@
 <LM>w#w-wsj0978-001-p1s32W30</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0978-001-p1s32W31-Ta">
 <src.rf>tagger-a</src.rf>

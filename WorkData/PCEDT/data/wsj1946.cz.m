@@ -1483,7 +1483,7 @@
 <LM>w#w-wsj1946-001-p1s6W3</LM>
 </w.rf>
 <form>pozorně</form>
-<tag lemma="pozorně-1_^(všímavý,_milý,_soustředěný)_(*3ý-1)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="pozorně-1_^(*3ý-1)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1946-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3000,7 +3000,7 @@
 <LM>w#w-wsj1946-001-p1s11W18</LM>
 </w.rf>
 <form>podávali</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj1946-001-p1s11W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4959,7 +4959,7 @@
 <LM>w#w-wsj1946-001-p1s20W10</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1946-001-p1s20W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11569,7 +11569,7 @@
 <LM>w#w-wsj1946-001-p1s43W14</LM>
 </w.rf>
 <form>dávat</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj1946-001-p1s43W15-Ta">
 <src.rf>tagger-a</src.rf>

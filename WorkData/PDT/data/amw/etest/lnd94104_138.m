@@ -80,7 +80,7 @@
 <form>BIS</form>
 <tag>
 <AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BIS_^(Bezp._informační_služba)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-138-p1s1w9">
@@ -349,7 +349,7 @@
 <form>BIS</form>
 <tag>
 <AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BIS_^(Bezp._informační_služba)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-138-p1s3w24">
@@ -466,7 +466,7 @@
 <form>BIS</form>
 <tag>
 <AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BIS_^(Bezp._informační_služba)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-138-p1s4w5">
@@ -787,7 +787,7 @@
 <LM>w#w-lnd94104-138-p1s5w24</LM>
 </w.rf>
 <form>předal</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-138-p1s5w25">
 <src.rf>manual</src.rf>
@@ -1807,7 +1807,7 @@
 <form>BIS</form>
 <tag>
 <AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BIS_^(Bezp._informační_služba)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-138-p1s10w6">
@@ -1890,7 +1890,7 @@
 <form>BIS</form>
 <tag>
 <AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BIS_^(Bezp._informační_služba)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-138-p1s10w16">
@@ -2161,7 +2161,7 @@
 <form>BIS</form>
 <tag>
 <AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BIS_^(Bezp._informační_služba)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-138-p1s12w6">
@@ -2441,7 +2441,7 @@
 <form>FMV</form>
 <tag>
 <AM lemma="FMV_:B_;m_^(Federální_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FMV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FMV" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-138-p1s13w15">

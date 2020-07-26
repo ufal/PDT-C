@@ -734,7 +734,7 @@
 <LM>w#w-wsj0688-001-p1s1W21</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0688-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1323,7 +1323,7 @@
 <LM>w#w-wsj0688-001-p1s3W18</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0688-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4543,7 +4543,7 @@
 <LM>w#w-wsj0688-001-p1s15W5</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1" selected="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1" selected="1">TT-------------</tag>
 </m>
 <m id="m-wsj0688-001-p1s15W6-Ta">
 <src.rf>tagger-a</src.rf>

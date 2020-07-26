@@ -173,7 +173,7 @@
 <LM>w#w-wsj0933-001-p1s0W14</LM>
 </w.rf>
 <form>událostech</form>
-<tag lemma="událost_^(*3ý)" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="událost" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m-wsj0933-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4278,7 +4278,7 @@
 <LM>w#w-wsj0933-001-p1s17W9</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0933-001-p1s17W10-Ta">
 <src.rf>tagger-a</src.rf>

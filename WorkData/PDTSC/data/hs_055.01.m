@@ -1114,7 +1114,7 @@
 <tag>
 <AM lemma="předat-1_:T_,a_^(příst)" src="auto">VpTP---XR-AA---</AM>
 <AM lemma="předat-2_:W_^(se;_dát_něčeho_příliš)" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="předat-3_^(někomu_něco)" src="auto" recommended="1">VpTP----R-AAP--</AM>
+<AM lemma="předat" src="auto" recommended="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m055-d1t495-8">
@@ -1424,7 +1424,7 @@
 <tag>
 <AM lemma="předat-1_:T_,a_^(příst)" src="auto">Vf--------A----</AM>
 <AM lemma="předat-2_:W_^(se;_dát_něčeho_příliš)" src="auto">Vf--------A----</AM>
-<AM lemma="předat-3_^(někomu_něco)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="předat" src="auto" recommended="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m055-d1t544-12">
@@ -2013,7 +2013,7 @@
 <LM>w#w-d1t602-9</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m055-d1t604-1">
 <w.rf>
@@ -2344,7 +2344,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-3" src="auto">Dg-------2A---1</AM>
-<AM lemma="více" src="auto" recommended="1">Ca--X---------1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m055-329-341">
@@ -2408,7 +2408,7 @@
 <LM>w#w-d1t634-5</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m055-d1t634-6">
 <w.rf>
@@ -2640,7 +2640,7 @@
 <AM lemma="Bor-1_;Y" src="auto">NNMP6-----A----</AM>
 <AM lemma="Bor-2_;G" src="auto">NNIP6-----A----</AM>
 <AM lemma="Boro_;G" src="auto">NNNP6-----A----</AM>
-<AM lemma="Bory_;G" src="auto" selected="1">NNIP6-----A----</AM>
+<AM lemma="Bory-2_;G" src="auto" selected="1">NNIP6-----A----</AM>
 <AM lemma="bor" src="auto" recommended="1">NNIP6-----A----</AM>
 </tag>
 </m>
@@ -3656,7 +3656,7 @@
 <LM>w#w-d1t752-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m055-d1t752-3">
 <w.rf>
@@ -3905,7 +3905,7 @@
 <LM>w#w-d1t759-8</LM>
 </w.rf>
 <form>Kdybychom</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m055-d1t759-11">
 <w.rf>

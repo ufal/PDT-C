@@ -963,7 +963,7 @@
 <form>programem</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0493-001-p1s3W5-Ta">
@@ -3325,7 +3325,7 @@
 <LM>w#w-wsj0493-001-p1s11W22</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0493-001-p1s11W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3907,7 +3907,7 @@
 <LM>w#w-wsj0493-001-p1s14W9</LM>
 </w.rf>
 <form>pošesté</form>
-<tag lemma="pošesté" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="pošesté" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0493-001-p1s14W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6316,7 +6316,7 @@
 </w.rf>
 <form>stává</form>
 <tag>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="stávat-3_^(stojím_stojíš)_(*5t-3)" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>

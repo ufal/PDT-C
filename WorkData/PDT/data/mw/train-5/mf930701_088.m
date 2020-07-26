@@ -195,7 +195,7 @@
 <LM>w#w-mf930701-088-p2s1w12</LM>
 </w.rf>
 <form>Kanada</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-088-p2s1w13">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <form>GVU</form>
 <tag>
 <AM lemma="GVU_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="GVU-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GVU_^(Galerie_výtvarného_umění)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-088-p2s1w27">
@@ -881,7 +881,7 @@
 <form>Marian</form>
 <tag>
 <AM lemma="Marián_;Y_,x" src="orig">NNMS1-----A----</AM>
-<AM lemma="Marian_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Marian_;Y_,s_^(^DD**Marián)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-088-p2s2w8">
@@ -1103,7 +1103,7 @@
 <LM>w#w-mf930701-088-p2s2w33</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="akciový" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf930701-088-p2s2w34">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-mf930701-088-p2s2w35</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-mf930701-088-p2s2w36">
 <src.rf>manual</src.rf>
@@ -1244,7 +1244,7 @@
 <LM>w#w-mf930701-088-p2s3w14</LM>
 </w.rf>
 <form>Dagmar</form>
-<tag lemma="Dagmar_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Dagmar_;Y_;m" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930701-088-p2s3w15">
 <src.rf>manual</src.rf>
@@ -3552,7 +3552,7 @@
 <LM>w#w-mf930701-088-p4s1w33</LM>
 </w.rf>
 <form>Jitka</form>
-<tag lemma="Jitka-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jitka-1_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-088-p4s1w34">
 <src.rf>manual</src.rf>
@@ -5063,7 +5063,7 @@
 <LM>w#w-mf930701-088-p4s2w81</LM>
 </w.rf>
 <form>BESKYD</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-088-p4s2w82">
 <src.rf>manual</src.rf>
@@ -5183,7 +5183,7 @@
 <LM>w#w-mf930701-088-p4s2w96</LM>
 </w.rf>
 <form>frýdecko</form>
-<tag lemma="frýdecký" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="frýdecko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930701-088-p4s2w97">
 <src.rf>manual</src.rf>
@@ -5223,7 +5223,7 @@
 <LM>w#w-mf930701-088-p4s2w101</LM>
 </w.rf>
 <form>Clara</form>
-<tag lemma="Clara_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Clara_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-088-p4s2w102">
 <src.rf>manual</src.rf>

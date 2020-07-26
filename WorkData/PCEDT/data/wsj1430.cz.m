@@ -243,7 +243,7 @@
 <form>vs</form>
 <tag>
 <AM lemma="versus_:B_,t" src="auto" recommended="1">RR--1---------8</AM>
-<AM lemma="versus" src="manual" selected="1">RR--1---------8</AM>
+<AM lemma="versus" src="manual" selected="1">RR--1---------b</AM>
 </tag>
 </m>
 <m id="m-wsj1430-001-p1s0W17-Ta">

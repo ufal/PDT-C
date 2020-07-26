@@ -1118,7 +1118,7 @@
 <LM>w#w-ln94205-44-p2s5w5</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94205-44-p2s5w6">
 <src.rf>manual</src.rf>

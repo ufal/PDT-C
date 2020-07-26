@@ -2573,7 +2573,7 @@
 <LM>w#w-wsj2331-001-p1s6W36</LM>
 </w.rf>
 <form>předčít</form>
-<tag lemma="předčit" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="předčit" src="auto" recommended="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-wsj2331-001-p1s6W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3282,7 +3282,7 @@
 <LM>w#w-wsj2331-001-p1s9W5</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2331-001-p1s9W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5347,7 +5347,7 @@
 <LM>w#w-wsj2331-001-p1s14W12</LM>
 </w.rf>
 <form>najat</form>
-<tag lemma="najmout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="najmout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj2331-001-p1s14W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5394,7 +5394,7 @@
 <LM>w#w-wsj2331-001-p1s14W17</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj2331-001-p1s14W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10646,7 +10646,7 @@
 <LM>w#w-wsj2331-001-p1s33W34</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2331-001-p1s33W35-Ta">
 <src.rf>tagger-a</src.rf>

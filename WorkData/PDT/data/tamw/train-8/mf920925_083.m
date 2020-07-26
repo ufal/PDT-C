@@ -405,7 +405,7 @@
 <LM>w#w-mf920925-083-p2s4w3</LM>
 </w.rf>
 <form>předal</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-083-p2s4w4">
 <src.rf>manual</src.rf>

@@ -104,7 +104,7 @@
 </w.rf>
 <form>Penelope</form>
 <tag>
-<AM lemma="Penelope_;Y" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Penelope_;Y_,s_^(^DD**Penelopa)" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Penelopa_;Y" src="auto" recommended="1">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -421,7 +421,7 @@
 <LM>w#w-ln94205-98-p2s2w17</LM>
 </w.rf>
 <form>skečů</form>
-<tag lemma="skeč" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="skeč-2" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94205-98-p2s2w18">
 <src.rf>manual</src.rf>
@@ -2553,7 +2553,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-98-p3s6w51">
@@ -2646,7 +2646,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln94205-98-p3s7w10">
@@ -2792,7 +2792,7 @@
 <LM>w#w-ln94205-98-p3s7w25</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94205-98-p3s7w26">
 <src.rf>manual</src.rf>
@@ -2981,7 +2981,7 @@
 <LM>w#w-ln94205-98-p3s8w19</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94205-98-p3s8w20">
 <src.rf>manual</src.rf>
@@ -3098,7 +3098,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-98-p4s1Bw6">
@@ -3151,7 +3151,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-98-p4s2w4">

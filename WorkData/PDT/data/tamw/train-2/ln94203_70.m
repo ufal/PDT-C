@@ -273,7 +273,7 @@
 <LM>w#w-ln94203-70-p2s2w11</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94203-70-p2s2w12">
 <src.rf>manual</src.rf>

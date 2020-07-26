@@ -410,7 +410,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-51-p2s2w24">
@@ -485,7 +485,7 @@
 <LM>w#w-ln94201-51-p2s3w5</LM>
 </w.rf>
 <form>mířil</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94201-51-p2s3w6">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-ln94201-51-p2s3w10</LM>
 </w.rf>
 <form>faraonů</form>
-<tag lemma="faraon" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="faraon_,s_^(^DD**faraón)" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94201-51-p2s3w11">
 <src.rf>manual</src.rf>

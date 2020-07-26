@@ -367,7 +367,7 @@
 <LM>w#w-lnd92258-006-p2s3w4</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92258-006-p2s3w5">
 <src.rf>manual</src.rf>

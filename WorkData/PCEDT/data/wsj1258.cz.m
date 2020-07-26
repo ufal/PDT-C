@@ -3525,7 +3525,7 @@
 <LM>w#w-wsj1258-001-p1s11W6</LM>
 </w.rf>
 <form>správně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1258-001-p1s11W7-Ta">
 <src.rf>tagger-a</src.rf>

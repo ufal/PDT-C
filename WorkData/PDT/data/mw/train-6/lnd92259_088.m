@@ -308,7 +308,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92259-088-p2s2w9">
@@ -760,7 +760,7 @@
 <LM>w#w-lnd92259-088-p2s3w29</LM>
 </w.rf>
 <form>Poláků</form>
-<tag lemma="Polák_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Polák_;E_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92259-088-p2s3w30">
 <src.rf>manual</src.rf>

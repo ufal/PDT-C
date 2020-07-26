@@ -383,7 +383,7 @@
 <LM>w#w-mf930703-018-p2s2w15</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-mf930703-018-p2s2w16">
 <src.rf>manual</src.rf>

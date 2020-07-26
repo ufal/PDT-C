@@ -679,7 +679,7 @@
 <LM>w#w-wsj0236-001-p1s2W6</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0236-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>

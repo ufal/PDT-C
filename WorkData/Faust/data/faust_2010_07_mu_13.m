@@ -120,7 +120,7 @@
 <form>dávají</form>
 <tag>
 <AM lemma="dávat_^(*3t)" recommended="1">VB-P---3P-AAI--</AM>
-<AM lemma="dávat_^(*3t)" src="manual" selected="1">VB-P---3P-AAI--</AM>
+<AM lemma="dávat-1_^(*5t-1)" src="manual" selected="1">VB-P---3P-AAI--</AM>
 </tag>
 </m>
 <m id="mu_13-SCzechM-p1296-s1-w4">
@@ -548,7 +548,7 @@
 <LM>w#w-mu_13-SCzechM-p1300-s1-w22</LM>
 </w.rf>
 <form>jejímiž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" recommended="1">P1XP7FS3-------</tag>
+<tag lemma="jehož" recommended="1">P1XP7FS3-------</tag>
 </m>
 <m id="mu_13-SCzechM-p1300-s1-w23">
 <w.rf>
@@ -1233,7 +1233,7 @@
 <LM>w#w-mu_13-SCzechM-p1313-s1-w2</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" recommended="1">NNFS7-----A----</tag>
 </m>
 </s>
 <s id="s-mu_13-SCzechM-p1314-s1-w1">
@@ -2528,7 +2528,7 @@
 <LM>w#w-mu_13-SCzechM-p1354-s1-w4</LM>
 </w.rf>
 <form>Rád</form>
-<tag lemma="rád" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" recommended="1">ACYS------A----</tag>
 </m>
 <m id="mu_13-SCzechM-p1354-s1-w5">
 <w.rf>
@@ -2537,7 +2537,7 @@
 <form>bych</form>
 <tag>
 <AM lemma="být" recommended="1">Vc-S---1-------</AM>
-<AM lemma="být" src="manual" selected="1">Vc-S---1----I--</AM>
+<AM lemma="být" src="manual" selected="1">Vc----------Ic-</AM>
 </tag>
 </m>
 <m id="mu_13-SCzechM-p1354-s1-w6">
@@ -2628,7 +2628,7 @@
 <LM>w#w-mu_13-SCzechM-p1354-s1-w13</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" recommended="1">Db-------------</tag>
+<tag lemma="například" recommended="1">TT-------------</tag>
 </m>
 <m id="mu_13-SCzechM-p1354-s1-w14">
 <w.rf>
@@ -3347,7 +3347,7 @@
 <LM>w#w-mu_13-SCzechM-p1369-s1-w4</LM>
 </w.rf>
 <form>Vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="mu_13-SCzechM-p1369-s1-w5">
 <w.rf>
@@ -4961,7 +4961,7 @@
 </w.rf>
 <form>níže</form>
 <tag>
-<AM lemma="nízko-1_^(níže,_než...)" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" recommended="1">Dg-------2A---1</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP1-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP4-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP5-----A----</AM>

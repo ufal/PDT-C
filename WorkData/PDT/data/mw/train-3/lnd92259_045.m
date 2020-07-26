@@ -873,7 +873,7 @@
 <LM>w#w-lnd92259-045-p3s5w26</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92259-045-p3s5w27">
 <src.rf>manual</src.rf>

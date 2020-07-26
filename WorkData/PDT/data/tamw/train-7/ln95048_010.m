@@ -657,7 +657,7 @@
 <LM>w#w-ln95048-010-p3s1w8</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95048-010-p3s1w9">
 <src.rf>manual</src.rf>

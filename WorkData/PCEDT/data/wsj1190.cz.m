@@ -2662,7 +2662,7 @@
 <LM>w#w-wsj1190-001-p1s6W10</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1190-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6710,7 +6710,7 @@
 <LM>w#w-wsj1190-001-p1s17W19</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1190-001-p1s17W20-Ta">
 <src.rf>tagger-a</src.rf>

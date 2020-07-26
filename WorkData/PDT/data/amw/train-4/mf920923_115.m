@@ -209,7 +209,7 @@
 <LM>w#w-mf920923-115-p2s2w12</LM>
 </w.rf>
 <form>vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-115-p2s2w13">
 <src.rf>manual</src.rf>

@@ -1586,7 +1586,7 @@
 <LM>w#w-wsj2065-001-p1s6W7</LM>
 </w.rf>
 <form>zastiženi</form>
-<tag lemma="zastihnout" src="auto" recommended="1">VsMP----X-APP--</tag>
+<tag lemma="zastihnout" src="auto" recommended="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-wsj2065-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>

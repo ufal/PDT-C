@@ -280,7 +280,7 @@
 </w.rf>
 <form>stále</form>
 <tag>
-<AM lemma="stále" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="stále_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="stále_^(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -1316,7 +1316,7 @@
 <LM>w#w-d1t1342-18</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m124-d1t1342-19">
 <w.rf>
@@ -1401,7 +1401,7 @@
 <LM>w#w-d1t1342-29</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m124-d1t1342-30">
 <w.rf>
@@ -1463,7 +1463,7 @@
 <LM>w#w-d1t1344-2</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m124-d1t1344-3">
 <w.rf>
@@ -1792,7 +1792,7 @@
 <LM>w#w-d1t1349-5</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m124-d1t1349-6">
 <w.rf>
@@ -2314,7 +2314,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m124-d1t1366-5">
@@ -3007,7 +3007,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m124-d1t1377-17">
@@ -3302,7 +3302,7 @@
 <form>velorexech</form>
 <tag>
 <AM lemma="velorex_^(vozidlo_značky_Velorex)" src="auto" recommended="1">NNIP6-----A----</AM>
-<AM lemma="velorex_;m_^(vozidlo_značky_Velorex)" src="manual" selected="1">NNIP6-----A----</AM>
+<AM lemma="velorex_^(vozidlo_značky_Velorex)" src="manual" selected="1">NNIP6-----A----</AM>
 </tag>
 </m>
 <m id="m124-541-1299">
@@ -3480,7 +3480,7 @@
 <form>velorexů</form>
 <tag>
 <AM lemma="velorex_^(vozidlo_značky_Velorex)" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="velorex_;m_^(vozidlo_značky_Velorex)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="velorex_^(vozidlo_značky_Velorex)" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m124-547-553">
@@ -3719,7 +3719,7 @@
 <LM>w#w-d1t1387-2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m124-d1t1387-3">
 <w.rf>
@@ -4093,7 +4093,7 @@
 <LM>w#w-d1t1391-35</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m124-d1e1388-x2-566">
 <w.rf>

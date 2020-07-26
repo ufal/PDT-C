@@ -37,7 +37,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-012-p1s1w4">
@@ -205,7 +205,7 @@
 <LM>w#w-mf930708-012-p2s1w17</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930708-012-p2s1w18">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-012-p2s1w25">
@@ -444,7 +444,7 @@
 <form>vydělávají</form>
 <tag>
 <AM lemma="vydělávat-1_:T_^(peníze)_(*6at-1)" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="vydělávat" src="manual" selected="1">VB-P---3P-AAI--</AM>
+<AM lemma="vydělávat_^(*4at)" src="manual" selected="1">VB-P---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930708-012-p2s2w11">
@@ -1053,7 +1053,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-012-p2s6w3">
@@ -1765,7 +1765,7 @@
 <form>spíše</form>
 <tag>
 <AM lemma="spíše" src="orig">Dg-------2A---1</AM>
-<AM lemma="spíše" src="manual" selected="1">TT------------1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-mf930708-012-p2s11w10">
@@ -1832,7 +1832,7 @@
 <form>vydělávají</form>
 <tag>
 <AM lemma="vydělávat-1_:T_^(peníze)_(*6at-1)" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="vydělávat" src="manual" selected="1">VB-P---3P-AAI--</AM>
+<AM lemma="vydělávat_^(*4at)" src="manual" selected="1">VB-P---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930708-012-p2s11w18">

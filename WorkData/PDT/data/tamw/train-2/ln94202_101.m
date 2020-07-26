@@ -536,7 +536,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-101-p3s1w7">
@@ -779,7 +779,7 @@
 <LM>w#w-ln94202-101-p3s2w20</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94202-101-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1053,7 +1053,7 @@
 <LM>w#w-ln94202-101-p3s3w26</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94202-101-p3s3w27">
 <src.rf>manual</src.rf>
@@ -1255,7 +1255,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-101-p3s4w16">
@@ -1976,7 +1976,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-101-p4s2w51">
@@ -1985,7 +1985,7 @@
 <LM>w#w-ln94202-101-p4s2w51</LM>
 </w.rf>
 <form>Diane</form>
-<tag lemma="Diane_;Y" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Diane_;Y_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-101-p4s2w52">
 <src.rf>manual</src.rf>
@@ -2252,7 +2252,7 @@
 <LM>w#w-ln94202-101-p4s3w30</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94202-101-p4s3w31">
 <src.rf>manual</src.rf>
@@ -3482,7 +3482,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-101-p5s2w10">
@@ -3851,7 +3851,7 @@
 <form>achillovka</form>
 <tag>
 <AM lemma="achilovka_,x" src="orig">NNFS1-----A----</AM>
-<AM lemma="achillovka_,i_^(^DS**achilovka)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="achillovka_,s_^(^DD**achilovka)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-101-p5s4w15">
@@ -3911,7 +3911,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-101-p5s5w6">
@@ -4049,7 +4049,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-101-p5s5w22">
@@ -4121,7 +4121,7 @@
 </w.rf>
 <form>Matete</form>
 <tag>
-<AM lemma="Matete_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Matete_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="mást" src="auto" recommended="1">VB-P---2P-AAI--</AM>
 </tag>
 </m>
@@ -4158,7 +4158,7 @@
 </w.rf>
 <form>Matete</form>
 <tag>
-<AM lemma="Matete_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Matete_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="mást" src="auto" recommended="1">VB-P---2P-AAI--</AM>
 </tag>
 </m>
@@ -4633,7 +4633,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-101-p5s8w12">

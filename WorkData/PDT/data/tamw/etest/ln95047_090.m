@@ -710,7 +710,7 @@
 <LM>w#w-ln95047-090-p3s1w19</LM>
 </w.rf>
 <form>podávám</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">VB-S---1P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln95047-090-p3s1w20">
 <src.rf>manual</src.rf>
@@ -2474,7 +2474,7 @@
 <form>nalezeny</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsTP----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsTP----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsTP----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln95047-090-p5s1w21">

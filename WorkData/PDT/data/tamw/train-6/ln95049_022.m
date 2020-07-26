@@ -721,7 +721,7 @@
 <LM>w#w-ln95049-022-p2s3w4</LM>
 </w.rf>
 <form>nenechal</form>
-<tag lemma="nechat" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln95049-022-p2s3w5">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-ln95049-022-p2s3w10</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95049-022-p2s3w11">
 <src.rf>manual</src.rf>
@@ -817,7 +817,7 @@
 <LM>w#w-ln95049-022-p2s3w16</LM>
 </w.rf>
 <form>škrábe</form>
-<tag lemma="škrábat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="škrábat" src="orig" selected="1">VB-S---3P-AAI-1</tag>
 </m>
 <m id="m-ln95049-022-p2s3w17">
 <src.rf>manual</src.rf>
@@ -2054,7 +2054,7 @@
 <LM>w#w-ln95049-022-p4s1w13</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95049-022-p4s1w14">
 <src.rf>manual</src.rf>
@@ -2591,7 +2591,7 @@
 <LM>w#w-ln95049-022-p5s1w7</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="orig" selected="1">J,-S---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------c-</tag>
 </m>
 <m id="m-ln95049-022-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2623,7 +2623,7 @@
 <LM>w#w-ln95049-022-p5s1w12</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95049-022-p5s1w13">
 <src.rf>manual</src.rf>
@@ -2671,7 +2671,7 @@
 <LM>w#w-ln95049-022-p5s1w18</LM>
 </w.rf>
 <form>táhl</form>
-<tag lemma="táhnout" src="auto" selected="1">VpYS----R-AAP-1</tag>
+<tag lemma="táhnout" src="auto" selected="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m-ln95049-022-p5s1w19">
 <src.rf>manual</src.rf>
@@ -2761,7 +2761,7 @@
 <LM>w#w-ln95049-022-p5s2w4</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95049-022-p5s2w5">
 <src.rf>manual</src.rf>

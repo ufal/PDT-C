@@ -426,7 +426,7 @@
 <LM>w#w-ln95049-081-p2s2w17</LM>
 </w.rf>
 <form>extremistů</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95049-081-p2s2w18">
 <src.rf>manual</src.rf>

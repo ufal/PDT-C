@@ -181,7 +181,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930713-037-p2s1Bw12">

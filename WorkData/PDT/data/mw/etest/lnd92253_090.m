@@ -325,7 +325,7 @@
 <LM>w#w-lnd92253-090-p1s1w31</LM>
 </w.rf>
 <form>PAVEL</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-090-p1s1w32">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92253-090-p1s2w20">

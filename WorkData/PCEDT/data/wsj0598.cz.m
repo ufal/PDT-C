@@ -222,7 +222,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1258,7 +1258,7 @@
 <LM>w#w-wsj0598-001-p1s6W15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0598-001-p1s6W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5299,7 +5299,7 @@
 <LM>w#w-wsj0598-001-p1s20W11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0598-001-p1s20W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6265,7 +6265,7 @@
 <LM>w#w-wsj0598-001-p1s23W30</LM>
 </w.rf>
 <form>klepů</form>
-<tag lemma="klep" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="klep-1" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0598-001-p1s23W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7165,7 +7165,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -7403,7 +7403,7 @@
 <LM>w#w-wsj0598-001-p1s30W5</LM>
 </w.rf>
 <form>pozorně</form>
-<tag lemma="pozorně-1_^(všímavý,_milý,_soustředěný)_(*3ý-1)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="pozorně-1_^(*3ý-1)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0598-001-p1s30W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8400,7 +8400,7 @@
 <tag>
 <AM lemma="politik" src="auto">NNMS2-----A----</AM>
 <AM lemma="politik" src="auto">NNMS4-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP5-----A----</AM>
@@ -9403,7 +9403,7 @@
 <form>Neochota</form>
 <tag>
 <AM lemma="neochota" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="ochota" src="manual" selected="1">NNFS1-----N----</AM>
+<AM lemma="neochota" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s39W2-Ta">
@@ -9854,7 +9854,7 @@
 </w.rf>
 <form>právem</form>
 <tag>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS7-----A----</AM>
 <AM lemma="právem" src="auto">Dg-------1A----</AM>
 </tag>
 </m>

@@ -173,7 +173,7 @@
 <LM>w#w-mf920923-037-p2s1w16</LM>
 </w.rf>
 <form>Stoličnaja</form>
-<tag lemma="Stoličnaja-1_^(vodka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Stoličnaja_;m_^(vodka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-037-p2s1w17">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-mf920923-037-p2s1w18</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-mf920923-037-p2s1w19">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <form>ČZPI</form>
 <tag>
 <AM lemma="ČZPI_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČZPI-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČZPI_;m_^(Česká_zemědělská_a_potravinářská_inspekce)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-037-p2s1w28">
@@ -474,7 +474,7 @@
 <LM>w#w-mf920923-037-p2s2w6</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920923-037-p2s2w7">
 <src.rf>manual</src.rf>
@@ -800,7 +800,7 @@
 <LM>w#w-mf920923-037-p3s1w31</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-037-p3s1w32">
 <src.rf>manual</src.rf>
@@ -893,7 +893,7 @@
 <form>ČZPI</form>
 <tag>
 <AM lemma="ČZPI_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČZPI-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČZPI_;m_^(Česká_zemědělská_a_potravinářská_inspekce)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-037-p3s1w43">
@@ -968,7 +968,7 @@
 <LM>w#w-mf920923-037-p3s2w6</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-mf920923-037-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-mf920923-037-p3s2w14</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-mf920923-037-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1064,7 +1064,7 @@
 <LM>w#w-mf920923-037-p3s2w18</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-mf920923-037-p3s2w19">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 <LM>w#w-mf920923-037-p3s3w7</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920923-037-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1628,7 +1628,7 @@
 <LM>w#w-mf920923-037-p3s6w10</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-mf920923-037-p3s6w11">
 <src.rf>manual</src.rf>
@@ -2466,7 +2466,7 @@
 <LM>w#w-mf920923-037-p5s3w14</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-037-p5s3w15">
 <src.rf>manual</src.rf>
@@ -2506,7 +2506,7 @@
 <LM>w#w-mf920923-037-p5s3w19</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-mf920923-037-p5s3w20">
 <src.rf>manual</src.rf>
@@ -2540,7 +2540,7 @@
 <LM>w#w-mf920923-037-p5s4w1</LM>
 </w.rf>
 <form>Zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920923-037-p5s4w2">
 <src.rf>manual</src.rf>
@@ -2764,7 +2764,7 @@
 <LM>w#w-mf920923-037-p6s1w18</LM>
 </w.rf>
 <form>nemohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m-mf920923-037-p6s1w19">
 <src.rf>manual</src.rf>

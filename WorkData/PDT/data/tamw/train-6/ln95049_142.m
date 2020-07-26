@@ -214,7 +214,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln95049-142-p2s2w12">
@@ -1048,7 +1048,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln95049-142-p2s7w12">
@@ -1741,7 +1741,7 @@
 <form>Quelle</form>
 <tag>
 <AM lemma="Quelle_;m_,t_^(něm._zasílatelská_obch._společnost)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Quelle_;m_^(něm._zasílatelská_obch._společnost)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Quelle_;m_^(něm._zasílatelská_obch._společnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-142-p2s10w21">

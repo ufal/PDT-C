@@ -1289,7 +1289,7 @@
 <LM>w#w-mf930709-130-p4s5w6</LM>
 </w.rf>
 <form>Vlčkovou</form>
-<tag lemma="Vlčkův_;Y_^(*3ek)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Vlčkův_;Y_^(*2o)_(*3ek)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-mf930709-130-p4s5w7">
 <src.rf>manual</src.rf>

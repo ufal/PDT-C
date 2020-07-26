@@ -250,7 +250,7 @@
 <LM>w#w-mf930708-076-p2s2w2</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-mf930708-076-p2s2w3">
 <src.rf>manual</src.rf>

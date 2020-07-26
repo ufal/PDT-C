@@ -308,7 +308,7 @@
 <LM>w#w-ln95047-122-p2s2w8</LM>
 </w.rf>
 <form>přeloženy</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VsTP----X-APP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95047-122-p2s2w9">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-ln95047-122-p2s2w13</LM>
 </w.rf>
 <form>staly</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-122-p2s2w14">
 <src.rf>manual</src.rf>

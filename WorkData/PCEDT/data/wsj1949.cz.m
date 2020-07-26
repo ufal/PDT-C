@@ -1181,7 +1181,7 @@
 <LM>w#w-wsj1949-001-p1s4W13</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1949-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3709,7 +3709,7 @@
 <LM>w#w-wsj1949-001-p1s11W15</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1949-001-p1s11W16-Ta">
 <src.rf>tagger-a</src.rf>

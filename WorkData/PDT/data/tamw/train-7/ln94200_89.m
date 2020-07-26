@@ -293,7 +293,7 @@
 <LM>w#w-ln94200-89-p2s2w1</LM>
 </w.rf>
 <form>Nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln94200-89-p2s2w2">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-ln94200-89-p2s2w9</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94200-89-p2s2w10">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-ln94200-89-p2s3w19</LM>
 </w.rf>
 <form>zaměstnán</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="zaměstnat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94200-89-p2s3w20">
 <src.rf>manual</src.rf>

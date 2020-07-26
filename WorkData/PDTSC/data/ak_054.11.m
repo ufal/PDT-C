@@ -438,7 +438,7 @@
 <LM>w#w-d1t2539-6</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m054-d1t2539-7">
 <w.rf>
@@ -1527,7 +1527,7 @@
 <form>Flexareta</form>
 <tag>
 <AM lemma="Flexareta" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Flexareta_,h_^(^GC**Flexaret)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Flexareta_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m054-d1e2581-x2-205">
@@ -1712,7 +1712,7 @@
 <LM>w#w-d1t2584-35</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m054-d1t2584-36">
 <w.rf>
@@ -1751,7 +1751,7 @@
 <form>Flexareta</form>
 <tag>
 <AM lemma="Flexareta" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Flexareta_,h_^(^GC**Flexaret)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Flexareta_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m054-d-m-d1e2585-x2-punct-punct">
@@ -1904,7 +1904,7 @@
 <LM>w#w-d1t2606-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m054-d1t2606-3">
 <w.rf>
@@ -1936,7 +1936,7 @@
 <LM>w#w-d1t2610-1</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m054-d1t2610-3">
 <w.rf>
@@ -1954,7 +1954,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -2153,7 +2153,7 @@
 <AM lemma="půl-1" src="auto">ClXS1----------</AM>
 <AM lemma="půl-1" src="auto">ClXS2----------</AM>
 <AM lemma="půl-1" src="auto">ClXS3----------</AM>
-<AM lemma="půl-1" src="auto" selected="1">ClXS4----------</AM>
+<AM lemma="půl-1" src="auto" selected="1">Cl-XX----------</AM>
 <AM lemma="půl-1" src="auto">ClXS6----------</AM>
 <AM lemma="půl-1" src="auto">ClXS7----------</AM>
 <AM lemma="půl-2" src="auto">NNFS1-----A----</AM>
@@ -3324,7 +3324,7 @@
 <LM>w#w-d1t2678-1</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m054-d1t2678-4">
 <w.rf>
@@ -3892,7 +3892,7 @@
 <LM>w#w-d1t2705-9</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m054-d1t2705-8">
 <w.rf>

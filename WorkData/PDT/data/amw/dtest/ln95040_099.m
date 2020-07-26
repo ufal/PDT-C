@@ -532,7 +532,7 @@
 <LM>w#w-ln95040-099-p3s3w6</LM>
 </w.rf>
 <form>zaměstnával</form>
-<tag lemma="zaměstnávat-1_^(všeob._význam:_činnost,_zaměstnání)_(*6at-1)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="zaměstnávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-099-p3s3w7">
 <src.rf>manual</src.rf>

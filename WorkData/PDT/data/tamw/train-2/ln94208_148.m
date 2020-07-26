@@ -760,7 +760,7 @@
 <LM>w#w-ln94208-148-p4s2w4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94208-148-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-148-p4s3w22">
@@ -1524,7 +1524,7 @@
 <LM>w#w-ln94208-148-p5s4Aw1</LM>
 </w.rf>
 <form>Může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-148-p5s4Aw2">
 <src.rf>manual</src.rf>
@@ -1544,7 +1544,7 @@
 <LM>w#w-ln94208-148-p5s4Aw3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94208-148-p5s4Aw4">
 <src.rf>manual</src.rf>
@@ -1754,7 +1754,7 @@
 <LM>w#w-ln94208-148-p5s4Bw2</LM>
 </w.rf>
 <form>ma</form>
-<tag lemma="ma-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ma-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94208-148-p5s4Bw3">
 <src.rf>manual</src.rf>

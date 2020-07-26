@@ -471,7 +471,7 @@
 <LM>w#w-es_08-SCzechM-p0756-s1-w7</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_08-SCzechM-p0756-s1-w8">
 <w.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-es_08-SCzechM-p0760-s1-w8</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" recommended="1">Vf--------A-P--</tag>
+<tag lemma="vzít" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="es_08-SCzechM-p0760-s1-w9">
 <w.rf>
@@ -769,7 +769,7 @@
 </w.rf>
 <form>Víc</form>
 <tag>
-<AM lemma="hodně-2" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" recommended="1">Dg-------2A---1</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--1----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--2----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--3----------</AM>
@@ -1686,7 +1686,7 @@
 <LM>w#w-es_08-SCzechM-p0785-s1-w29</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_08-SCzechM-p0785-s1-w30">
 <w.rf>
@@ -1745,7 +1745,7 @@
 <LM>w#w-es_08-SCzechM-p0785-s1-w35</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_08-SCzechM-p0785-s1-w36">
 <w.rf>
@@ -4414,7 +4414,7 @@
 <LM>w#w-es_08-SCzechM-p0830-s1-w2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" recommended="1">ACYS------A----</tag>
 </m>
 <m id="es_08-SCzechM-p0830-s1-w3">
 <w.rf>
@@ -4454,14 +4454,14 @@
 <LM>w#w-es_08-SCzechM-p0832-s1-w1</LM>
 </w.rf>
 <form>Rád</form>
-<tag lemma="rád" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" recommended="1">ACYS------A----</tag>
 </m>
 <m id="es_08-SCzechM-p0832-s1-w2">
 <w.rf>
 <LM>w#w-es_08-SCzechM-p0832-s1-w2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="es_08-SCzechM-p0832-s1-w3">
 <w.rf>
@@ -4560,7 +4560,7 @@
 <LM>w#w-es_08-SCzechM-p0834-s1-w5</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="es_08-SCzechM-p0834-s1-w6">
 <w.rf>
@@ -5892,7 +5892,7 @@
 <LM>w#w-es_08-SCzechM-p0861-s1-w4</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" recommended="1">ACMP------A----</tag>
 </m>
 </s>
 </mdata>

@@ -2840,7 +2840,7 @@
 <LM>w#w-wsj1405-001-p1s5W30</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1405-001-p1s5W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3425,7 +3425,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -4414,7 +4414,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -5095,7 +5095,7 @@
 <LM>w#w-wsj1405-001-p1s12W18</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1405-001-p1s12W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7500,7 +7500,7 @@
 <form>americko</form>
 <tag>
 <AM lemma="americký" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="americko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="americko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1405-001-p1s22W12-Ta">
@@ -8772,7 +8772,7 @@
 <LM>w#w-wsj1405-001-p1s27W35</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1405-001-p1s27W36-Ta">
 <src.rf>tagger-a</src.rf>

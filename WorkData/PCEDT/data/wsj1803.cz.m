@@ -1933,7 +1933,7 @@
 <LM>w#w-wsj1803-001-p1s5W3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1803-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4117,7 +4117,7 @@
 <LM>w#w-wsj1803-001-p1s12W2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1803-001-p1s12W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4656,7 +4656,7 @@
 <LM>w#w-wsj1803-001-p1s14W16</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1803-001-p1s14W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4683,7 +4683,7 @@
 <LM>w#w-wsj1803-001-p1s14W19</LM>
 </w.rf>
 <form>postižena</form>
-<tag lemma="postihnout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="postihnout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj1803-001-p1s14W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9934,7 +9934,7 @@
 <LM>w#w-wsj1803-001-p1s33W7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1803-001-p1s33W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10198,7 +10198,7 @@
 <LM>w#w-wsj1803-001-p1s33W28</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1803-001-p1s33W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10408,7 +10408,7 @@
 <LM>w#w-wsj1803-001-p1s34W20</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1803-001-p1s34W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10491,7 +10491,7 @@
 <LM>w#w-wsj1803-001-p1s34W28</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1803-001-p1s34W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12182,7 +12182,7 @@
 <LM>w#w-wsj1803-001-p1s38W13</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1803-001-p1s38W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13938,7 +13938,7 @@
 <LM>w#w-wsj1803-001-p1s43W17</LM>
 </w.rf>
 <form>postiženy</form>
-<tag lemma="postihnout" src="auto" recommended="1">VsTP----X-APP--</tag>
+<tag lemma="postihnout" src="auto" recommended="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-wsj1803-001-p1s43W18-Ta">
 <src.rf>tagger-a</src.rf>

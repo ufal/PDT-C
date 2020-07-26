@@ -88,7 +88,7 @@
 <LM>w#w-d1t314-5</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m038-d1t314-6">
 <w.rf>
@@ -305,7 +305,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m038-d1t332-4">
@@ -557,7 +557,7 @@
 <LM>w#w-d1t353-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m038-d-id66201-punct">
 <w.rf>
@@ -1029,7 +1029,7 @@
 <LM>w#w-d1t366-14</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m038-d1t366-15">
 <w.rf>
@@ -2407,7 +2407,7 @@
 <LM>w#w-d1t450-9</LM>
 </w.rf>
 <form>pomahat</form>
-<tag lemma="pomáhat_,h" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="pomahat_,h_^(^GC**pomáhat)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m038-d-id70353-punct">
 <w.rf>
@@ -4920,7 +4920,7 @@
 <LM>w#w-d1t610-12</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m038-d1t610-13">
 <w.rf>
@@ -5020,7 +5020,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m038-d1t613-8">

@@ -99,7 +99,7 @@
 <LM>w#w-ln95048-105-p2s1Bw4</LM>
 </w.rf>
 <form>Manfred</form>
-<tag lemma="Manfréd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Manfred_;Y_,s_^(^DD**Manfréd)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-105-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -220,7 +220,7 @@
 <LM>w#w-ln95048-105-p2s1Bw18</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-105-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <form>NSDAP</form>
 <tag>
 <AM lemma="NSDAP-1_:B_;m_,t_^(Nationalsoz._Deutsche_Arbeiterpartei)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="NSDAP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NSDAP_;m_^(Nationalsoz.eutscherbeiterpartei)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p2s3w8">

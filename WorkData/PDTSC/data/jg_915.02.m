@@ -223,7 +223,7 @@
 <form>Těžko</form>
 <tag>
 <AM lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto">Dg-------1A----</AM>
-<AM lemma="těžko-2_^(sotva)" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m915-d1e756-x4-1288">
@@ -344,7 +344,7 @@
 <LM>w#w-d1t776-2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m915-d1t776-3">
 <w.rf>
@@ -433,7 +433,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m915-d1t778-4">
@@ -473,7 +473,7 @@
 <form>vždy</form>
 <tag>
 <AM lemma="vždy" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždy" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždy" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m915-d1t783-3">
@@ -4074,7 +4074,7 @@
 <LM>w#w-d1t968-4</LM>
 </w.rf>
 <form>intenzivně</form>
-<tag lemma="intenzivně_,s_^(^DD**intenzívní)_(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="intenzivně_^(^DD**intenzívně)_(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m915-d-id88915">
 <w.rf>
@@ -4652,7 +4652,7 @@
 <LM>w#w-d1t981-30</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m915-d-id89894">
 <w.rf>
@@ -6005,7 +6005,7 @@
 <LM>w#w-d1t1016-17</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m915-776-1059">
 <w.rf>
@@ -6037,7 +6037,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m915-d1t1020-6">
@@ -6167,7 +6167,7 @@
 <tag>
 <AM lemma="smět" src="auto">VsFS4---X-API--</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS4-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="směna_^(výměna_za_něco;pracovní)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m915-1046-2455">
@@ -6719,7 +6719,7 @@
 <LM>w#w-d1t1039-3</LM>
 </w.rf>
 <form>nalívali</form>
-<tag lemma="nalívat_^(*3t)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nalívat_,s_^(^DD**nalévat)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m915-d1t1039-4">
 <w.rf>
@@ -7021,7 +7021,7 @@
 <LM>w#w-d1t1048-1</LM>
 </w.rf>
 <form>ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m915-d1t1048-2">
 <w.rf>
@@ -7695,7 +7695,7 @@
 <LM>w#w-d1t1067-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m915-d1t1067-3">
 <w.rf>
@@ -7723,7 +7723,7 @@
 <LM>w#w-d1t1067-5</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m915-d1t1067-6">
 <w.rf>
@@ -8115,7 +8115,7 @@
 <LM>w#w-d1t1117-1</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m915-2008-2018">
 <w.rf>
@@ -8596,7 +8596,7 @@
 <LM>w#w-d1t1135-5</LM>
 </w.rf>
 <form>dával</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m915-d1t1135-7">
 <w.rf>

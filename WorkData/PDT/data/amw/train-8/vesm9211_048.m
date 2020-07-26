@@ -208,7 +208,7 @@
 <LM>w#w-vesm9211-048-p2s1w1</LM>
 </w.rf>
 <form>KONRAD</form>
-<tag lemma="Konrád_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Konrad_;Y_,s_^(^DD**Konrád)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-048-p2s1w2">
 <src.rf>manual</src.rf>
@@ -317,7 +317,7 @@
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="strana-4_^(v_knize,_rukopise,...)" src="manual">NNFXX-----A---9</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-vesm9211-048-p3s1w8">

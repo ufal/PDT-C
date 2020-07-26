@@ -30,7 +30,7 @@
 <LM>w#w-d1t631-3</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m123-d-id76347-punct">
 <w.rf>
@@ -1146,7 +1146,7 @@
 <LM>w#w-d1t673-8</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m123-d-m-d1e642-x3-punct-punct">
 <w.rf>
@@ -1235,7 +1235,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m123-d1t677-7">
@@ -1275,7 +1275,7 @@
 </w.rf>
 <form>nejvíce</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A----</AM>
 <AM lemma="nejvíce" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -1969,7 +1969,7 @@
 <LM>w#w-d1t713-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m123-d-m-d1e678-x3-punct-punct">
 <w.rf>
@@ -3420,7 +3420,7 @@
 <LM>w#w-d1t813-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m123-d-id82807-punct">
 <w.rf>
@@ -4814,7 +4814,7 @@
 <LM>w#w-d1t876-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m123-d-id85519-punct">
 <w.rf>
@@ -4964,7 +4964,7 @@
 <LM>w#w-d1t888-3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m123-73-74">
 <w.rf>
@@ -5290,7 +5290,7 @@
 <LM>w#w-d1t912-6</LM>
 </w.rf>
 <form>nebály</form>
-<tag lemma="bát" src="auto" recommended="1">VpTP----R-NAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m123-d1t912-7">
 <w.rf>
@@ -5666,7 +5666,7 @@
 <LM>w#w-d1t933-5</LM>
 </w.rf>
 <form>Příbramí</form>
-<tag lemma="Příbram_;G" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="Příbram-2_;G" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m123-d1t933-7">
 <w.rf>

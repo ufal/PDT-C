@@ -1088,7 +1088,7 @@
 <LM>w#w-ln94203-95-p3s3w21</LM>
 </w.rf>
 <form>vydány</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VsTP----X-APP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94203-95-p3s3w22">
 <src.rf>manual</src.rf>
@@ -1428,7 +1428,7 @@
 <LM>w#w-ln94203-95-p4s1w17</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94203-95-p4s1w18">
 <src.rf>manual</src.rf>

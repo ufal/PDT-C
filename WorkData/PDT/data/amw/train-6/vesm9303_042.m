@@ -169,7 +169,7 @@
 <LM>w#w-vesm9303-042-p4s1w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9303-042-p4s1w7">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-vesm9303-042-p5s1w1</LM>
 </w.rf>
 <form>Dagmar</form>
-<tag lemma="Dagmar_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Dagmar_;Y_;m" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-vesm9303-042-p5s1w2">
 <src.rf>manual</src.rf>
@@ -227,7 +227,7 @@
 <LM>w#w-vesm9303-042-p5s1w4</LM>
 </w.rf>
 <form>Dagmar</form>
-<tag lemma="Dagmar_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Dagmar_;Y_;m" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-vesm9303-042-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1423,7 +1423,7 @@
 <LM>w#w-vesm9303-042-p39s1Bw1</LM>
 </w.rf>
 <form>Pozdně</form>
-<tag lemma="pozdně-2_^(v_roce,_ročním_období)_(*3í-2)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="pozdně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9303-042-p39s1Bw2">
 <src.rf>manual</src.rf>

@@ -224,7 +224,7 @@
 <LM>w#w-ln95044-058-p6s3w6</LM>
 </w.rf>
 <form>umět</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">Vf--------A-I--</tag>
+<tag lemma="umět" src="auto" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95044-058-p6s3w7">
 <src.rf>manual</src.rf>

@@ -769,7 +769,7 @@
 <LM>w#w-lnd92254-060-p3s5w6</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92254-060-p3s5w7">
 <src.rf>manual</src.rf>

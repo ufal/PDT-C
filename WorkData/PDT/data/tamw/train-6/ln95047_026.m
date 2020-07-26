@@ -578,7 +578,7 @@
 <LM>w#w-ln95047-026-p3s1w10</LM>
 </w.rf>
 <form>nedávají</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-P---3P-NAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln95047-026-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1208,7 +1208,7 @@
 <LM>w#w-ln95047-026-p3s4w14</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95047-026-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1699,7 +1699,7 @@
 <form>ZOH</form>
 <tag>
 <AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZOH-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ZOH_^(Zimní_olympijské_hry)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-026-p3s8w28">
@@ -2921,7 +2921,7 @@
 <LM>w#w-ln95047-026-p4s5w10</LM>
 </w.rf>
 <form>rádo</form>
-<tag lemma="rád" src="orig" selected="1">ACNS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACNS------A----</tag>
 </m>
 <m id="m-ln95047-026-p4s5w11">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln94207-1-p1s1w1</LM>
 </w.rf>
 <form>Méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94207-1-p1s1w2">
 <src.rf>manual</src.rf>

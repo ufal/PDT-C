@@ -1079,7 +1079,7 @@
 <LM>w#w-d1t461-14</LM>
 </w.rf>
 <form>Věruškou</form>
-<tag lemma="Věruška_;Y_,e" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="Věruška_;Y" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m140-d1e458-x2-437">
 <w.rf>
@@ -1169,7 +1169,7 @@
 <LM>w#w-d1t465-4</LM>
 </w.rf>
 <form>vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m140-d-m-d1e458-x2-punct-punct">
 <w.rf>
@@ -1555,7 +1555,7 @@
 <LM>w#w-d1t490-3</LM>
 </w.rf>
 <form>Věruška</form>
-<tag lemma="Věruška_;Y_,e" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Věruška_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m140-d1t490-5">
 <w.rf>
@@ -1656,7 +1656,7 @@
 <LM>w#w-d1t496-1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m140-d1t496-2">
 <w.rf>
@@ -1852,7 +1852,7 @@
 <LM>w#w-d1t500-6</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m140-d1t500-9">
 <w.rf>
@@ -1866,7 +1866,7 @@
 <LM>w#w-d1t500-8</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m140-d1t500-10">
 <w.rf>
@@ -1981,7 +1981,7 @@
 <LM>w#w-d1t505-3</LM>
 </w.rf>
 <form>Teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m140-d1t505-4">
 <w.rf>
@@ -1998,7 +1998,7 @@
 <LM>w#w-d1t505-5</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m140-d1t505-6">
 <w.rf>
@@ -2695,7 +2695,7 @@
 <LM>w#w-d1t529-4</LM>
 </w.rf>
 <form>třičtvrtě</form>
-<tag lemma="třičtvrtě" src="auto" recommended="1">Cv------------6</tag>
+<tag lemma="třičtvrtě" src="auto" recommended="1">Cl-XX----------</tag>
 </m>
 <m id="m140-d1e522-x2-549">
 <w.rf>
@@ -3199,7 +3199,7 @@
 <LM>w#w-d1t560-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m140-d1t560-3">
 <w.rf>
@@ -3325,7 +3325,7 @@
 <LM>w#w-d1t572-7</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m140-d1t572-8">
 <w.rf>

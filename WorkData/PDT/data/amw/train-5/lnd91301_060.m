@@ -310,7 +310,7 @@
 <LM>w#w-lnd91301-060-p4s3w13</LM>
 </w.rf>
 <form>Khmerů</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Khmer_;E_,s_^(^DD**Khmér)" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91301-060-p4s3w14">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 <LM>w#w-lnd91301-060-p4s5w18</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-060-p4s5w19">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-lnd91301-060-p4s6w21</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-060-p4s6w22">
 <src.rf>manual</src.rf>

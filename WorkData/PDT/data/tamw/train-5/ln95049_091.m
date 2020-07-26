@@ -1374,7 +1374,7 @@
 <LM>w#w-ln95049-091-p4s1w18</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95049-091-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1845,7 +1845,7 @@
 <LM>w#w-ln95049-091-p4s4w8</LM>
 </w.rf>
 <form>navržena</form>
-<tag lemma="navrhnout" src="orig" selected="1">VsQW----X-AP---</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-ln95049-091-p4s4w9">
 <src.rf>manual</src.rf>
@@ -2044,7 +2044,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-091-p5s1w12">
@@ -2064,7 +2064,7 @@
 <tag>
 <AM lemma="expertíza" src="orig">NNFP2-----A----</AM>
 <AM lemma="expertiza" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="expertiza_,s_^(^DD**expertíza)" src="manual" selected="1">NNFP2-----A----</AM>
+<AM lemma="expertiza_,s_^(^DD**expertýza)" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-091-p5s1w14">
@@ -2131,7 +2131,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--7----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-091-p5s1w22">
@@ -2172,7 +2172,7 @@
 <LM>w#w-ln95049-091-p5s1w26</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95049-091-p5s1w27">
 <src.rf>manual</src.rf>

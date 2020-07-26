@@ -2632,7 +2632,7 @@
 <LM>w#w-wsj1263-001-p1s7W2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj1263-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3397,7 +3397,7 @@
 <LM>w#w-wsj1263-001-p1s11W36</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1263-001-p1s11W37-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1088,7 +1088,7 @@
 <LM>w#w-es_13-SCzechM-p1313-s1-w2</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" recommended="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="s-es_13-SCzechM-p1314-s1-w1">
@@ -2600,7 +2600,7 @@
 <LM>w#w-es_13-SCzechM-p1356-s1-w3</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P7--2-------</tag>
 </m>
 </s>
 <s id="s-es_13-SCzechM-p1358-s1-w1">
@@ -3093,7 +3093,7 @@
 <LM>w#w-es_13-SCzechM-p1369-s1-w5</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_13-SCzechM-p1369-s1-w6">
 <w.rf>
@@ -3129,7 +3129,7 @@
 <AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--4----------</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--6----------</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--7----------</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="es_13-SCzechM-p1369-s1-w9">
@@ -3233,7 +3233,7 @@
 <AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--4----------</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--6----------</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--7----------</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="es_13-SCzechM-p1369-s1-w18">
@@ -3319,7 +3319,7 @@
 <AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--6----------</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--7----------</AM>
 <AM lemma="hodně-" src="manual">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="es_13-SCzechM-p1369-s1-w26">
@@ -4744,7 +4744,7 @@
 </w.rf>
 <form>níže</form>
 <tag>
-<AM lemma="nízko-1_^(níže,_než...)" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" recommended="1">Dg-------2A---1</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP1-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP4-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP5-----A----</AM>

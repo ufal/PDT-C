@@ -123,7 +123,7 @@
 <form>kV</form>
 <tag>
 <AM lemma="kV-1`kilovolt_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilovolt" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilovolt" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94206-9-p2s1w10">
@@ -196,7 +196,7 @@
 <form>kV</form>
 <tag>
 <AM lemma="kV-1`kilovolt_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilovolt" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilovolt" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94206-9-p2s2w6">
@@ -754,7 +754,7 @@
 <LM>w#w-ln94206-9-p3s3w20</LM>
 </w.rf>
 <form>právem</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94206-9-p3s3w21">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAFXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94206-9-p3s3w23">
@@ -791,7 +791,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94206-9-p3s3w25">
@@ -992,7 +992,7 @@
 <LM>w#w-ln94206-9-p4s1w14</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94206-9-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1120,7 +1120,7 @@
 <LM>w#w-ln94206-9-p4s1w30</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-ln94206-9-p4s1w31">
 <src.rf>manual</src.rf>
@@ -1239,7 +1239,7 @@
 <form>ČKD</form>
 <tag>
 <AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-9-p4s2w13">
@@ -1335,7 +1335,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-9-p5s1w10">
@@ -1635,7 +1635,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-9-p6s1w7">
@@ -1922,7 +1922,7 @@
 <form>intenzivně</form>
 <tag>
 <AM lemma="intenzivně_^(*4ívní)" src="orig">Dg-------1A----</AM>
-<AM lemma="intenzivně_^(*4ívní)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="intenzivně_^(^DD**intenzívně)_(*1í)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-9-p7s1w8">
@@ -2021,7 +2021,7 @@
 <form>ISO</form>
 <tag>
 <AM lemma="ISO-1_:B_;m_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ISO-1_;m_^(Intl._Standards_Org.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ISO_^(Intl._Standards_Org.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-9-p7s1w20">

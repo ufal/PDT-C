@@ -691,7 +691,7 @@
 <LM>w#w-wsj0335-001-p1s1W14</LM>
 </w.rf>
 <form>nalezeny</form>
-<tag lemma="naleznout" src="auto" recommended="1">VsTP----X-API--</tag>
+<tag lemma="naleznout" src="auto" recommended="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-wsj0335-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1470,7 +1470,7 @@
 <LM>w#w-wsj0335-001-p1s2W16</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0335-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3271,7 +3271,7 @@
 <LM>w#w-wsj0335-001-p1s6W18</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0335-001-p1s6W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3330,7 +3330,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0335-001-p1s6W24-Ta">
@@ -5991,7 +5991,7 @@
 <LM>w#w-wsj0335-001-p1s15W35</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0335-001-p1s15W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6252,7 +6252,7 @@
 <LM>w#w-wsj0335-001-p1s17W10</LM>
 </w.rf>
 <form>dána</form>
-<tag lemma="dát" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0335-001-p1s17W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6880,7 +6880,7 @@
 <LM>w#w-wsj0335-001-p1s18W6</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0335-001-p1s18W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9520,7 +9520,7 @@
 <LM>w#w-wsj0335-001-p1s26W21</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0335-001-p1s26W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9687,7 +9687,7 @@
 <LM>w#w-wsj0335-001-p1s27W11</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m-wsj0335-001-p1s27W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9978,7 +9978,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0335-001-p1s28W14-Ta">
@@ -10160,7 +10160,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0335-001-p1s29W2-Ta">
@@ -10929,7 +10929,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0335-001-p1s31W2-Ta">
@@ -11328,7 +11328,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0335-001-p1s33W2-Ta">
@@ -12099,7 +12099,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0335-001-p1s34W2-Ta">

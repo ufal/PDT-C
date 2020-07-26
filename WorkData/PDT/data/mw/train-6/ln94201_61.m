@@ -1577,7 +1577,7 @@
 <LM>w#w-ln94201-61-p3s3w7</LM>
 </w.rf>
 <form>východně</form>
-<tag lemma="východně_,s_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="východně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94201-61-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1755,7 +1755,7 @@
 <LM>w#w-ln94201-61-p3s4w18</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94201-61-p3s4w19">
 <src.rf>manual</src.rf>
@@ -1847,7 +1847,7 @@
 <form>ing</form>
 <tag>
 <AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="ing_^(inženýr)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="ing_^(inženýr)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-61-p4s1w2">

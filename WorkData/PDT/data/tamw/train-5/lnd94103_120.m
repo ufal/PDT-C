@@ -104,7 +104,7 @@
 <LM>w#w-lnd94103-120-p1s2w7</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-120-p1s2w8">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <tag>
 <AM lemma="Rus_;E" src="orig">NNMS1-----A----</AM>
 <AM lemma="Rus_;E" src="manual">NNMP1-----A---8</AM>
-<AM lemma="Rusko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Rusko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-120-p1s11w9">

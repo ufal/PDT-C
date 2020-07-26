@@ -301,7 +301,7 @@
 <tag>
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="auto" recommended="1">VpNS---XR-AA---</AM>
 <AM lemma="stávat-3_:T_^(někdo/něco_stojí,_např._na_nohou)_(*5t-3)" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VpNS----R-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m147-d1t884-21">
@@ -448,7 +448,7 @@
 <LM>w#w-d1t886-5</LM>
 </w.rf>
 <form>nerada</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------N----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------N----</tag>
 </m>
 <m id="m147-d1t886-6">
 <w.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-d1t886-25</LM>
 </w.rf>
 <form>Nejdřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m147-d1t886-26">
 <w.rf>
@@ -1424,7 +1424,7 @@
 <LM>w#w-d1t906-7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m147-d1t906-8">
 <w.rf>
@@ -1610,7 +1610,7 @@
 <AM lemma="všechen" src="auto">PLNS1---------1</AM>
 <AM lemma="všechen" src="auto">PLNS4---------1</AM>
 <AM lemma="všechen" src="auto">PLNS5---------1</AM>
-<AM lemma="VŠE_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VŠE_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m147-d1e916-x2-403">
@@ -3398,7 +3398,7 @@
 <LM>w#w-d1t956-5</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m147-d1t956-6">
 <w.rf>
@@ -4137,7 +4137,7 @@
 <LM>w#w-d1t966-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m147-d1t966-5">
 <w.rf>

@@ -144,7 +144,7 @@
 <LM>w#w-mf930702-022-p2s1w10</LM>
 </w.rf>
 <form>popáté</form>
-<tag lemma="popáté" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="popáté" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930702-022-p2s1w11">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-mf930702-022-p3s2w8</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930702-022-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1395,7 +1395,7 @@
 <LM>w#w-mf930702-022-p5s1w5</LM>
 </w.rf>
 <form>Bundesbank</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Bundesbanka_;m" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930702-022-p5s1w6">
 <src.rf>manual</src.rf>

@@ -91,7 +91,7 @@
 <LM>w#w-lnd92251-104-p1s1w10</LM>
 </w.rf>
 <form>Schalke</form>
-<tag lemma="Schalke_;m" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Schalke_;G_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92251-104-p1s1w11">
 <src.rf>manual</src.rf>

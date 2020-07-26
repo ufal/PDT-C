@@ -374,7 +374,7 @@
 <LM>w#w-ln94200-172-p2s3w2</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln94200-172-p2s3w3">
 <src.rf>manual</src.rf>
@@ -875,7 +875,7 @@
 <LM>w#w-ln94200-172-p2s4w43</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-172-p2s4w44">
 <src.rf>manual</src.rf>
@@ -1292,7 +1292,7 @@
 <form>jako</form>
 <tag>
 <AM lemma="jako-1" src="auto">J,-------------</AM>
-<AM lemma="jako-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jako-1" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-172-p3s1w10">
@@ -1317,7 +1317,7 @@
 <LM>w#w-ln94200-172-p3s1w12</LM>
 </w.rf>
 <form>Jeanem</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-172-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-172-p3s1w22">
@@ -1616,7 +1616,7 @@
 <LM>w#w-ln94200-172-p3s1w49</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94200-172-p3s1w50">
 <src.rf>manual</src.rf>
@@ -3190,7 +3190,7 @@
 <LM>w#w-ln94200-172-p4s6w29</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-172-p4s6w30">
 <src.rf>manual</src.rf>
@@ -3828,7 +3828,7 @@
 <LM>w#w-ln94200-172-p5s4w14</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94200-172-p5s4w15">
 <src.rf>manual</src.rf>
@@ -4257,7 +4257,7 @@
 <form>sarkasmem</form>
 <tag>
 <AM lemma="sarkasmus" src="orig">NNIS7-----A----</AM>
-<AM lemma="sarkasmus_,s_^(^DD**sarkazmus)" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="sarkasmus" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-172-p6s1w18">

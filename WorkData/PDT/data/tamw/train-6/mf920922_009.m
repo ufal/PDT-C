@@ -101,7 +101,7 @@
 <form>SBČS</form>
 <tag>
 <AM lemma="SBČS_:B_;m_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SBČS_;m_^(býv._Státní_banka_československá)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -178,7 +178,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-009-p2s1w10">
@@ -197,7 +197,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920922-009-p2s1w12">
@@ -336,7 +336,7 @@
 <form>SBČS</form>
 <tag>
 <AM lemma="SBČS_:B_;m_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SBČS_;m_^(býv._Státní_banka_československá)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-009-p2s1w29">
@@ -587,7 +587,7 @@
 <LM>w#w-mf920922-009-p2s4w17</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920922-009-p2s4w18">
 <src.rf>manual</src.rf>

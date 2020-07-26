@@ -813,7 +813,7 @@
 <LM>w#w-wsj1814-001-p1s1W24</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1814-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1951,7 +1951,7 @@
 <LM>w#w-wsj1814-001-p1s5W7</LM>
 </w.rf>
 <form>nedotčeno</form>
-<tag lemma="dotknout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="auto" recommended="1">VsNS----X-NPP--</tag>
+<tag lemma="dotknout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="auto" recommended="1">VsNS----X-NPP-1</tag>
 </m>
 <m id="m-wsj1814-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>

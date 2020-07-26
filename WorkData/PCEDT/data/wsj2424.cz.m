@@ -1243,7 +1243,7 @@
 <form>Va</form>
 <tag>
 <AM lemma="Virginie_:B_;G_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Virginie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Va-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2424-001-p1s3W16-Ta">

@@ -688,7 +688,7 @@
 <LM>w#w-wsj1293-001-p1s1W33</LM>
 </w.rf>
 <form>potřebou</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1293-001-p1s1W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1318,7 +1318,7 @@
 <LM>w#w-wsj1293-001-p1s3W32</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1293-001-p1s3W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1689,7 +1689,7 @@
 <LM>w#w-wsj1293-001-p1s5W5</LM>
 </w.rf>
 <form>spořitelnami</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj1293-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2854,7 +2854,7 @@
 <LM>w#w-wsj1293-001-p1s9W10</LM>
 </w.rf>
 <form>spořitelnami</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj1293-001-p1s9W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4694,7 +4694,7 @@
 <LM>w#w-wsj1293-001-p1s16W27</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1293-001-p1s16W28-Ta">
 <src.rf>tagger-a</src.rf>

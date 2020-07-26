@@ -651,7 +651,7 @@
 <LM>w#w-ln94206-71-p3s1w4</LM>
 </w.rf>
 <form>připomenul</form>
-<tag lemma="připomenout" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag lemma="připomenout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94206-71-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1239,7 +1239,7 @@
 <LM>w#w-ln94206-71-p3s3w25</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94206-71-p3s3w26">
 <src.rf>manual</src.rf>

@@ -261,7 +261,7 @@
 <LM>w#w-ln94211-119-p2s2w9</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-ln94211-119-p2s2w10">
 <src.rf>manual</src.rf>

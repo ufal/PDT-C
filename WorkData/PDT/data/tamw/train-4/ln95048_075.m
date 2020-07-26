@@ -442,7 +442,7 @@
 <LM>w#w-ln95048-075-p2s2w26</LM>
 </w.rf>
 <form>statisticko</form>
-<tag lemma="statistický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="statisticko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95048-075-p2s2w27">
 <src.rf>manual</src.rf>
@@ -1132,7 +1132,7 @@
 <LM>w#w-ln95048-075-p4s2w4</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-075-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1263,7 +1263,7 @@
 <LM>w#w-ln95048-075-p4s2w20</LM>
 </w.rf>
 <form>nepodávají</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">VB-P---3P-NAI--</tag>
+<tag lemma="podávat_^(*4at)" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln95048-075-p4s2w21">
 <src.rf>manual</src.rf>
@@ -1358,7 +1358,7 @@
 <form>nestalo</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-NA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpNS----R-NAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-075-p4s3w9">
@@ -1854,7 +1854,7 @@
 <form>dána</form>
 <tag>
 <AM lemma="dát" src="orig">VsQW----X-APP--</AM>
-<AM lemma="dát" src="manual" selected="1">VsQW----X-APP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-075-p5s2w12">
@@ -2089,7 +2089,7 @@
 <LM>w#w-ln95048-075-p5s3w24</LM>
 </w.rf>
 <form>stává</form>
-<tag lemma="stávat-2_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stávat-2_^(*5t-2)_(*5t-3)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-075-p5s3w25">
 <src.rf>manual</src.rf>
@@ -2197,7 +2197,7 @@
 <form>vzato</form>
 <tag>
 <AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="manual" selected="1">VsNS----X-APP--</AM>
+<AM lemma="vzít" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-075-p5s4w10">
@@ -2294,7 +2294,7 @@
 <LM>w#w-ln95048-075-p5s4w21</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="orig" selected="1">J,-S---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------c-</tag>
 </m>
 <m id="m-ln95048-075-p5s4w23">
 <src.rf>manual</src.rf>
@@ -2522,7 +2522,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-075-p6s1w16">

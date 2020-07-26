@@ -1212,7 +1212,7 @@
 <LM>w#w-wsj2203-001-p1s5W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2203-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3433,7 +3433,7 @@
 <LM>w#w-wsj2203-001-p1s11W19</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
+<tag lemma="tj_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
 </m>
 <m id="m-wsj2203-001-p1s11W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4044,7 +4044,7 @@
 <LM>w#w-wsj2203-001-p1s14W17</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
+<tag lemma="tj_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
 </m>
 <m id="m-wsj2203-001-p1s14W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4285,7 +4285,7 @@
 <LM>w#w-wsj2203-001-p1s15W17</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
+<tag lemma="tj_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
 </m>
 <m id="m-wsj2203-001-p1s15W18-Ta">
 <src.rf>tagger-a</src.rf>

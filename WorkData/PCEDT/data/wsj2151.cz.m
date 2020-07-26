@@ -473,7 +473,7 @@
 <form>sype</form>
 <tag>
 <AM lemma="syp" src="auto">NNIS5-----A----</AM>
-<AM lemma="sypat" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="sypat" src="auto" recommended="1">VB-S---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m-wsj2151-001-p1s1W14-Ta">
@@ -1890,7 +1890,7 @@
 <form>irsko</form>
 <tag>
 <AM lemma="irský" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="irsko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="irsko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2151-001-p1s7W8-Ta">
@@ -2187,7 +2187,7 @@
 <LM>w#w-wsj2151-001-p1s9W1</LM>
 </w.rf>
 <form>Těžko</form>
-<tag lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1" selected="1">Dg-------1A----</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj2151-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3877,7 +3877,7 @@
 <LM>w#w-wsj2151-001-p1s16W11</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2151-001-p1s16W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5258,7 +5258,7 @@
 <LM>w#w-wsj2151-001-p1s24W9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2151-001-p1s24W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5840,7 +5840,7 @@
 <tag>
 <AM lemma="Iljušin-1_;Y" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="Iljušin-2_;m" src="auto">NNIP2-----A----</AM>
-<AM lemma="iljušin-1_;m_^(letadlo)" src="auto" selected="1">NNIP2-----A----</AM>
+<AM lemma="iljušin-1_^(letadlo)" src="auto" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2151-001-p1s27W11-Ta">
@@ -7281,7 +7281,7 @@
 <form>sovětsko</form>
 <tag>
 <AM lemma="sovětský" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="sovětsko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="sovětsko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2151-001-p1s32W18-Ta">
@@ -10648,7 +10648,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2151-001-p1s44W20-Ta">
@@ -10731,7 +10731,7 @@
 <LM>w#w-wsj2151-001-p1s45W2</LM>
 </w.rf>
 <form>vydělává</form>
-<tag lemma="vydělávat_^(kůže;peníze)_(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="vydělávat_^(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj2151-001-p1s45W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -443,7 +443,7 @@
 <LM>w#w-d1t787-4</LM>
 </w.rf>
 <form>bydlili</form>
-<tag lemma="bydlet" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="bydlet" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m002-d1t787-5">
 <w.rf>
@@ -2845,7 +2845,7 @@
 <LM>w#w-d1t872-11</LM>
 </w.rf>
 <form>bydlil</form>
-<tag lemma="bydlet" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="bydlet" src="auto" recommended="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m002-d1t872-10">
 <w.rf>
@@ -3658,7 +3658,7 @@
 <LM>w#w-d1t896-12</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m002-d1t898-1">
 <w.rf>
@@ -3816,7 +3816,7 @@
 <LM>w#w-d1t904-4</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m002-d-id2620068">
 <w.rf>
@@ -4050,7 +4050,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m002-d1e910-x2-1829">
@@ -5212,7 +5212,7 @@
 <LM>w#w-d1t976-2</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m002-d1t976-3">
 <w.rf>
@@ -5846,7 +5846,7 @@
 <LM>w#w-d1t999-7</LM>
 </w.rf>
 <form>musit</form>
-<tag lemma="muset_,s" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="muset" src="auto" recommended="1">Vf--------A-I-1</tag>
 </m>
 <m id="m002-d1t999-8">
 <w.rf>
@@ -6109,7 +6109,7 @@
 <LM>w#w-d1t1012-8</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m002-d1t1012-6">
 <w.rf>

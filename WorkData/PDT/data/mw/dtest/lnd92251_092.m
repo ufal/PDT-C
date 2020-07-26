@@ -69,7 +69,7 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-092-p1s1w7">
@@ -693,7 +693,7 @@
 <AM lemma="ČSTS_:B_;m_^(Čs._tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČSTS_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ČSTS-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČSTS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSTS_;m_^(Český_svaz_tanečního_sportu)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-092-p3s1w68">
@@ -769,7 +769,7 @@
 <AM lemma="ČSTS_:B_;m_^(Čs._tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČSTS_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ČSTS-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČSTS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSTS_;m_^(Český_svaz_tanečního_sportu)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-092-p3s2w7">
@@ -1241,7 +1241,7 @@
 <LM>w#w-lnd92251-092-p5s1w5</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-lnd92251-092-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1323,7 +1323,7 @@
 <LM>w#w-lnd92251-092-p5s2w1</LM>
 </w.rf>
 <form>Pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-092-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1362,7 +1362,7 @@
 <AM lemma="ČSTS_:B_;m_^(Čs._tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČSTS_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ČSTS-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČSTS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSTS_;m_^(Český_svaz_tanečního_sportu)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-092-p5s2w6">
@@ -1381,7 +1381,7 @@
 <form>pozn</form>
 <tag>
 <AM lemma="poznámka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-092-p5s2w8">
@@ -1400,7 +1400,7 @@
 <form>aut</form>
 <tag>
 <AM lemma="autor_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="autor" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="autor" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-092-p5s2w10">
@@ -1729,7 +1729,7 @@
 <LM>w#w-lnd92251-092-p5s4w6</LM>
 </w.rf>
 <form>předal</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-092-p5s4w7">
 <src.rf>manual</src.rf>
@@ -2733,7 +2733,7 @@
 <LM>w#w-lnd92251-092-p7s2w45</LM>
 </w.rf>
 <form>vydělávat</form>
-<tag lemma="vydělávat-1_^(peníze)_(*6at-1)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="vydělávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92251-092-p7s2w46">
 <src.rf>manual</src.rf>
@@ -2817,7 +2817,7 @@
 <LM>w#w-lnd92251-092-p9s1w3</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---2-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ie-</tag>
 </m>
 <m id="m-lnd92251-092-p9s1w4">
 <src.rf>manual</src.rf>
@@ -3239,7 +3239,7 @@
 <LM>w#w-lnd92251-092-p10s1w8</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92251-092-p10s1w9">
 <src.rf>manual</src.rf>
@@ -3504,7 +3504,7 @@
 <LM>w#w-lnd92251-092-p12s2w11</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd92251-092-p12s2w12">
 <src.rf>manual</src.rf>
@@ -3896,7 +3896,7 @@
 <LM>w#w-lnd92251-092-p13s2w14</LM>
 </w.rf>
 <form>Martinou</form>
-<tag lemma="Martina_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Martina_;G_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92251-092-p13s2w15">
 <src.rf>manual</src.rf>
@@ -4444,7 +4444,7 @@
 <LM>w#w-lnd92251-092-p13s5w18</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92251-092-p13s5w19">
 <src.rf>manual</src.rf>
@@ -4463,7 +4463,7 @@
 <LM>w#w-lnd92251-092-p13s5w20</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-092-p13s5w21">
 <src.rf>manual</src.rf>
@@ -4601,7 +4601,7 @@
 <LM>w#w-lnd92251-092-p13s6w6</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92251-092-p13s6w7">
 <src.rf>manual</src.rf>
@@ -4609,7 +4609,7 @@
 <LM>w#w-lnd92251-092-p13s6w7</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92251-092-p13s6w8">
 <src.rf>manual</src.rf>
@@ -4875,7 +4875,7 @@
 <LM>w#w-lnd92251-092-p13s7w7</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92251-092-p13s7w8">
 <src.rf>manual</src.rf>
@@ -5136,7 +5136,7 @@
 <LM>w#w-lnd92251-092-p13s8w16</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-lnd92251-092-p13s8w17">
 <src.rf>manual</src.rf>

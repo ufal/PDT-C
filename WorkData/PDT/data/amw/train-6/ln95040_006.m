@@ -222,7 +222,7 @@
 <form>GmbH</form>
 <tag>
 <AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GmbH-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Gmbh-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-006-p2s1Bw15">

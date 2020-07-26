@@ -121,7 +121,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-142-p2s1w10">
@@ -334,7 +334,7 @@
 <form>Mr</form>
 <tag>
 <AM lemma="Mister_:B_,t" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Mister" src="manual" selected="1">NNMXX-----A---b</AM>
+<AM lemma="Mr-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-142-p2s2w16">
@@ -854,7 +854,7 @@
 <LM>w#w-lnd92258-142-p2s7w12</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="mj_^(mimo_jiné)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-lnd92258-142-p2s7w13">
 <src.rf>manual</src.rf>

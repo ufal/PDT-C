@@ -492,7 +492,7 @@
 <LM>w#w-wsj0712-001-p1s1W20</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0712-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -953,7 +953,7 @@
 <LM>w#w-wsj0712-001-p1s2W17</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0712-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1596,7 +1596,7 @@
 <LM>w#w-wsj0712-001-p1s3W19</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0712-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>

@@ -593,7 +593,7 @@
 <LM>w#w-lnd91303-119-p4s2w14</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd91303-119-p4s2w15">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <form>ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
+<AM lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-119-p5s1w7">
@@ -881,7 +881,7 @@
 <LM>w#w-lnd91303-119-p5s1w14</LM>
 </w.rf>
 <form>postižen</form>
-<tag lemma="postihnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="postihnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-lnd91303-119-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1342,7 +1342,7 @@
 <LM>w#w-lnd91303-119-p5s2w25</LM>
 </w.rf>
 <form>neb</form>
-<tag lemma="nebo_,a" src="orig" selected="1">J^------------2</tag>
+<tag lemma="neb" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd91303-119-p5s2w26">
 <src.rf>manual</src.rf>
@@ -1959,7 +1959,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-lnd91303-119-p6s2w22">
@@ -2357,7 +2357,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--7----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-119-p6s3w21">
@@ -2942,7 +2942,7 @@
 <LM>w#w-lnd91303-119-p7s1w50</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kčs_^(Koruna_čs.)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91303-119-p7s1w51">
 <src.rf>manual</src.rf>
@@ -3596,7 +3596,7 @@
 <LM>w#w-lnd91303-119-p8s3w4</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-lnd91303-119-p8s3w5">
 <src.rf>manual</src.rf>

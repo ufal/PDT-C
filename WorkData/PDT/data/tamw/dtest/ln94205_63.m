@@ -481,7 +481,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-63-p3s1w9">
@@ -815,7 +815,7 @@
 <LM>w#w-ln94205-63-p3s2w23</LM>
 </w.rf>
 <form>kalhot</form>
-<tag lemma="kalhoty_^(pomn.)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="kalhoty" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94205-63-p3s2w24">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-ln94205-63-p4s1w14</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94205-63-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1095,7 +1095,7 @@
 <LM>w#w-ln94205-63-p4s2w8</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94205-63-p4s2w9">
 <src.rf>manual</src.rf>

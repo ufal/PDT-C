@@ -359,7 +359,7 @@
 <LM>w#w-mf920923-110-p4s2w34</LM>
 </w.rf>
 <form>Vladimir</form>
-<tag lemma="Vladimir_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vladimir_;Y_,s_^(^DD**Vladimír)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-110-p4s2w35">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-mf920923-110-p4s3w11</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf920923-110-p4s3w12">
 <src.rf>manual</src.rf>

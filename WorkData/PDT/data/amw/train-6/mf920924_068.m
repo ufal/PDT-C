@@ -395,7 +395,7 @@
 <form>Stoličnaja</form>
 <tag>
 <AM lemma="Stoličnaja-1_,t_^(vodka)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Stoličnaja-1_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Stoličnaja_;m_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-068-p2s3w25">
@@ -412,7 +412,7 @@
 <LM>w#w-mf920924-068-p2s3w26</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-mf920924-068-p2s3w27">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-mf920924-068-p2s4w6</LM>
 </w.rf>
 <form>obsažen</form>
-<tag lemma="obsáhnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="obsáhnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-mf920924-068-p2s4w7">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-mf920924-068-p2s4w7</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920924-068-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1183,7 +1183,7 @@
 <LM>w#w-mf920924-068-p2s7w9</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-mf920924-068-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 <LM>w#w-mf920924-068-p2s7w10</LM>
 </w.rf>
 <form>zlatě</form>
-<tag lemma="zlatě_^(atribut;_z._řetízek,_poklad,...)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="zlatě-1_^(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-068-p2s7w11">
 <src.rf>manual</src.rf>
@@ -1339,7 +1339,7 @@
 <form>Stoličnaja</form>
 <tag>
 <AM lemma="Stoličnaja-1_,t_^(vodka)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Stoličnaja-1_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Stoličnaja_;m_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-068-p2s8w12">

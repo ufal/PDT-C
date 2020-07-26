@@ -59,7 +59,7 @@
 <LM>w#w-ln94206-33-p1s1w6</LM>
 </w.rf>
 <form>šampaňského</form>
-<tag lemma="šampaňské_^(víno)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="šampaňské-2_^(víno)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94206-33-p1s1w7">
 <src.rf>manual</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-ln94206-33-p1s2w5</LM>
 </w.rf>
 <form>vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94206-33-p1s2w6">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-ln94206-33-p1s3w2</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-33-p1s3w3">
 <src.rf>manual</src.rf>

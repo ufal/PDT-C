@@ -2555,7 +2555,7 @@
 <LM>w#w-wsj1901-001-p1s7W16</LM>
 </w.rf>
 <form>zemědělsko</form>
-<tag lemma="zemědělský" src="auto" recommended="1">S2--------A----</tag>
+<tag lemma="zemědělsko" src="auto" recommended="1">S2--------A----</tag>
 </m>
 <m id="m-wsj1901-001-p1s7W17-Ta">
 <src.rf>tagger-a</src.rf>

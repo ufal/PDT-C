@@ -1379,7 +1379,7 @@
 <LM>w#w-wsj1940-001-p1s5W6</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1940-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1593,7 +1593,7 @@
 <LM>w#w-wsj1940-001-p1s6W7</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1940-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>

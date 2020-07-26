@@ -106,7 +106,7 @@
 <form>kamkoliv</form>
 <tag>
 <AM lemma="kamkoliv" src="orig">Db-------------</AM>
-<AM lemma="kamkoli" src="auto" recommended="1" selected="1">Db------------1</AM>
+<AM lemma="kamkoliv_,s_^(^DD**kamkoli)" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-003-p3s1Bw3">
@@ -147,7 +147,7 @@
 <LM>w#w-cmpr9415-003-p3s1Bw7</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-003-p4s1">
@@ -205,7 +205,7 @@
 <LM>w#w-cmpr9415-003-p4s1w7</LM>
 </w.rf>
 <form>příjemně</form>
-<tag lemma="příjemně-1_^(všeob.,_poz._emoce)_(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="příjemně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9415-003-p4s1w8">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-cmpr9415-003-p4s2w17</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-003-p4s2w18">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-cmpr9415-003-p4s3w6</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="orig" selected="1">J,-S---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------c-</tag>
 </m>
 <m id="m-cmpr9415-003-p4s3w8">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <form>stává</form>
 <tag>
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-003-p4s3w24">
@@ -1330,7 +1330,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-003-p7s2w9">
@@ -1444,7 +1444,7 @@
 </w.rf>
 <form>Louise</form>
 <tag>
-<AM lemma="Louise_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Louise_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto">NNIS5-----A----</AM>
 <AM lemma="Louis-3_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Louis-3_;Y" src="auto">NNMS2-----A----</AM>
@@ -1738,7 +1738,7 @@
 <form>stávalo</form>
 <tag>
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VpNS----R-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-003-p7s4w6">
@@ -2337,7 +2337,7 @@
 <LM>w#w-cmpr9415-003-p9s2w3</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-003-p9s2w4">
 <src.rf>manual</src.rf>
@@ -2949,7 +2949,7 @@
 <LM>w#w-cmpr9415-003-p10s1w12</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-003-p10s1w13">
 <src.rf>manual</src.rf>
@@ -3253,7 +3253,7 @@
 <form>Stává</form>
 <tag>
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-003-p11s2w2">
@@ -3984,7 +3984,7 @@
 <LM>w#w-cmpr9415-003-p12s3w9</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9415-003-p12s3w10">
 <src.rf>manual</src.rf>

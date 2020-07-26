@@ -517,7 +517,7 @@
 <tag>
 <AM lemma="smět" src="auto">VsFS4---X-API--</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS4-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="směna_^(výměna_za_něco;pracovní)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0980-001-p1s0W40-Ta">
@@ -1034,7 +1034,7 @@
 <tag>
 <AM lemma="smět" src="auto">VsFS4---X-API--</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS4-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="směna_^(výměna_za_něco;pracovní)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0980-001-p1s2W21-Ta">
@@ -1153,7 +1153,7 @@
 <LM>w#w-wsj0980-001-p1s2W29</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0980-001-p1s2W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1908,7 +1908,7 @@
 <tag>
 <AM lemma="smět" src="auto">VsQW----X-API--</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS1-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="směna_^(výměna_za_něco;pracovní)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0980-001-p1s6W3-Ta">
@@ -2246,7 +2246,7 @@
 <LM>w#w-wsj0980-001-p1s7W11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0980-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>

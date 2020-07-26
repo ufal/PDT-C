@@ -35,7 +35,7 @@
 <LM>w#w-mf930709-033-p1s1w3</LM>
 </w.rf>
 <form>vydat</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930709-033-p1s1w4">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-033-p3s1w12">
@@ -1340,7 +1340,7 @@
 <LM>w#w-mf930709-033-p4s1w25</LM>
 </w.rf>
 <form>předají</form>
-<tag lemma="předat-2_^(se;_dát_něčeho_příliš)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930709-033-p4s1w26">
 <src.rf>manual</src.rf>

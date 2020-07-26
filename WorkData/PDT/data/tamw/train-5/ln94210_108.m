@@ -172,7 +172,7 @@
 <tag>
 <AM lemma="nenávratně_^(*1ý)" src="orig">Dg-------1A----</AM>
 <AM lemma="nenávratno-1" src="auto">NNNS6-----A----</AM>
-<AM lemma="návratně_^(*1í)" src="auto" recommended="1" selected="1">Dg-------1N----</AM>
+<AM lemma="návratně_^(*1í)_(*1ý)" src="auto" recommended="1" selected="1">Dg-------1N----</AM>
 </tag>
 </m>
 <m id="m-ln94210-108-p2s1Cw14">
@@ -239,7 +239,7 @@
 <LM>w#w-ln94210-108-p2s2w2</LM>
 </w.rf>
 <form>výhradně</form>
-<tag lemma="výhradně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="výhradně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94210-108-p2s2w3">
 <src.rf>manual</src.rf>
@@ -2483,7 +2483,7 @@
 <LM>w#w-ln94210-108-p3s9w3</LM>
 </w.rf>
 <form>natáhla</form>
-<tag lemma="natáhnout" src="orig" selected="1">VpQW----R-AA---</tag>
+<tag lemma="natáhnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94210-108-p3s9w4">
 <src.rf>manual</src.rf>
@@ -3187,7 +3187,7 @@
 <LM>w#w-ln94210-108-p4s1w3</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94210-108-p4s1w4">
 <src.rf>manual</src.rf>
@@ -3277,7 +3277,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-108-p4s1w15">
@@ -3439,7 +3439,7 @@
 <LM>w#w-ln94210-108-p4s2w16</LM>
 </w.rf>
 <form>zamyslet</form>
-<tag lemma="zamyslet" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zamyslit" src="orig" selected="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-ln94210-108-p4s2w17">
 <src.rf>manual</src.rf>

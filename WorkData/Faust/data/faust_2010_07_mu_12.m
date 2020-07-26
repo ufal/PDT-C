@@ -381,7 +381,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -2774,7 +2774,7 @@
 <LM>w#w-mu_12-SCzechM-p1243-s1-w6</LM>
 </w.rf>
 <form>abys</form>
-<tag lemma="aby" recommended="1">J,-S---2-------</tag>
+<tag lemma="aby" recommended="1">J,-----------s-</tag>
 </m>
 </s>
 <s id="s-mu_12-SCzechM-p1245-s1-w2">
@@ -3100,7 +3100,7 @@
 <form>vždy</form>
 <tag>
 <AM lemma="vždy" recommended="1">Db--------A----</AM>
-<AM lemma="vždy" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždy" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="mu_12-SCzechM-p1257-s1-w15">
@@ -3333,7 +3333,7 @@
 <LM>w#w-mu_12-SCzechM-p1261-s1-w4</LM>
 </w.rf>
 <form>abyste</form>
-<tag lemma="aby" recommended="1">J,-P---2-------</tag>
+<tag lemma="aby" recommended="1">J,-----------e-</tag>
 </m>
 <m id="mu_12-SCzechM-p1261-s1-w5">
 <w.rf>
@@ -4667,7 +4667,7 @@
 </w.rf>
 <form>dnem</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS7-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS7-----A----</AM>
 <AM lemma="dno_^(např._propasti)">NNNS7-----A----</AM>
 </tag>
 </m>
@@ -6048,7 +6048,7 @@
 <LM>w#w-mu_12-SCzechM-p1286-s1-w32</LM>
 </w.rf>
 <form>Vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="mu_12-SCzechM-p1286-s1-w33">
 <w.rf>

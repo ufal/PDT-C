@@ -719,7 +719,7 @@
 <LM>w#w-ln94205-13-p2s4w8</LM>
 </w.rf>
 <form>vydělat</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94205-13-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1929,7 +1929,7 @@
 <LM>w#w-ln94205-13-p6s1w22</LM>
 </w.rf>
 <form>kodem</form>
-<tag lemma="kód" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="kod_,s_^(^DD**kód)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94205-13-p6s1w23">
 <src.rf>manual</src.rf>
@@ -3040,7 +3040,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-13-p8s2w6">
@@ -3831,7 +3831,7 @@
 <LM>w#w-ln94205-13-p10s3w18</LM>
 </w.rf>
 <form>kurzech</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP6-----A----</tag>
+<tag lemma="kurz" src="auto" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94205-13-p10s3w19">
 <src.rf>manual</src.rf>
@@ -4265,7 +4265,7 @@
 <LM>w#w-ln94205-13-p12s1w19</LM>
 </w.rf>
 <form>centrálně</form>
-<tag lemma="centrálně_,a_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="centrálně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94205-13-p12s1w20">
 <src.rf>manual</src.rf>

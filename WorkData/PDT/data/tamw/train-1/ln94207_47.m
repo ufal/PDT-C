@@ -37,7 +37,7 @@
 <form>ZOH</form>
 <tag>
 <AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZOH-1_^(Zimní_olympijské_hry)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ZOH_^(Zimní_olympijské_hry)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-47-p1s1w4">
@@ -295,7 +295,7 @@
 <form>ZOH</form>
 <tag>
 <AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZOH-1_^(Zimní_olympijské_hry)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ZOH_^(Zimní_olympijské_hry)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-47-p2s1Bw29">

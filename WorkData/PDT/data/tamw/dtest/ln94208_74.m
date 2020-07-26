@@ -119,7 +119,7 @@
 <LM>w#w-ln94208-74-p2s1Bw6</LM>
 </w.rf>
 <form>rusko</form>
-<tag lemma="ruský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="rusko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94208-74-p2s1Bw7">
 <src.rf>manual</src.rf>

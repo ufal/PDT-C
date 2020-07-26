@@ -55,7 +55,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-017-p2s1w3">
@@ -540,7 +540,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-017-p2s2w27">
@@ -1145,7 +1145,7 @@
 <LM>w#w-mf920922-017-p2s5w28</LM>
 </w.rf>
 <form>Bundesbanka</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bundesbanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-017-p2s5w29">
 <src.rf>manual</src.rf>
@@ -1163,7 +1163,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-017-p2s5w31">
@@ -1489,7 +1489,7 @@
 <LM>w#w-mf920922-017-p2s7w9</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-mf920922-017-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1645,7 +1645,7 @@
 <LM>w#w-mf920922-017-p2s9w4</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920922-017-p2s9w5">
 <src.rf>manual</src.rf>
@@ -1817,7 +1817,7 @@
 <LM>w#w-mf920922-017-p2s11w1</LM>
 </w.rf>
 <form>Bundesbanka</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bundesbanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-017-p2s11w2">
 <src.rf>manual</src.rf>
@@ -2069,7 +2069,7 @@
 <LM>w#w-mf920922-017-p2s13w2</LM>
 </w.rf>
 <form>Bundesbanka</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bundesbanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-017-p2s13w3">
 <src.rf>manual</src.rf>
@@ -2287,7 +2287,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-017-p2s14w9">

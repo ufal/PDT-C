@@ -4338,7 +4338,7 @@
 </w.rf>
 <form>nevinně</form>
 <tag>
-<AM lemma="vinně-1_^(kdo_je_vinen/vinna)_(*3ý-1)" src="auto" recommended="1">Dg-------1N----</AM>
+<AM lemma="vinně-1_^(*3ý-1)_(*3ý-2)" src="auto" recommended="1">Dg-------1N----</AM>
 <AM lemma="vinně-2_^(vyrobený_z_vína)_(*3ý-2)" src="auto">Dg-------1N----</AM>
 </tag>
 </m>
@@ -5214,7 +5214,7 @@
 <LM>w#w-wsj0515-001-p1s21W4</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0515-001-p1s21W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6275,7 +6275,7 @@
 <LM>w#w-wsj0515-001-p1s26W7</LM>
 </w.rf>
 <form>proseje</form>
-<tag lemma="prosít" src="auto" recommended="1">VB-S---3P-AAP--</tag>
+<tag lemma="prosít" src="auto" recommended="1">VB-S---3P-AAP-1</tag>
 </m>
 <m id="m-wsj0515-001-p1s26W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6463,7 +6463,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0515-001-p1s27W9-Ta">
@@ -6810,7 +6810,7 @@
 <LM>w#w-wsj0515-001-p1s28W23</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0515-001-p1s28W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7549,7 +7549,7 @@
 <LM>w#w-wsj0515-001-p1s31W13</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0515-001-p1s31W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7980,7 +7980,7 @@
 <LM>w#w-wsj0515-001-p1s32W27</LM>
 </w.rf>
 <form>lipoproteinů</form>
-<tag lemma="lipoprotein_;U" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="lipoprotein" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0515-001-p1s32W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8816,7 +8816,7 @@
 <LM>w#w-wsj0515-001-p1s35W26</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj0515-001-p1s35W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8852,7 +8852,7 @@
 <LM>w#w-wsj0515-001-p1s35W30</LM>
 </w.rf>
 <form>vytištěna</form>
-<tag lemma="vytisknout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="vytisknout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj0515-001-p1s35W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12112,7 +12112,7 @@
 <LM>w#w-wsj0515-001-p1s51W3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m-wsj0515-001-p1s51W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13147,7 +13147,7 @@
 <LM>w#w-wsj0515-001-p1s54W23</LM>
 </w.rf>
 <form>kulčiba</form>
-<tag lemma="kulčiba_;U" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="kulčiba" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0515-001-p1s54W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13419,7 +13419,7 @@
 <LM>w#w-wsj0515-001-p1s55W12</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m-wsj0515-001-p1s55W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14702,7 +14702,7 @@
 <LM>w#w-wsj0515-001-p1s62W4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0515-001-p1s62W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -4282,7 +4282,7 @@
 <LM>w#w-wsj1435-001-p1s16W11</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1435-001-p1s16W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5081,7 +5081,7 @@
 </w.rf>
 <form>Barbara</form>
 <tag>
-<AM lemma="Barbara_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Barbara_;G_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Barbaro_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Barbaro_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="barbar" src="auto">NNMS2-----A----</AM>
@@ -5115,7 +5115,7 @@
 <LM>w#w-wsj1435-001-p1s21W1</LM>
 </w.rf>
 <form>Nejdřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m-wsj1435-001-p1s21W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6307,7 +6307,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>
@@ -9615,7 +9615,7 @@
 <LM>w#w-wsj1435-001-p1s41W6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1435-001-p1s41W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9946,7 +9946,7 @@
 <LM>w#w-wsj1435-001-p1s42W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1435-001-p1s42W2-Ta">
 <src.rf>tagger-a</src.rf>

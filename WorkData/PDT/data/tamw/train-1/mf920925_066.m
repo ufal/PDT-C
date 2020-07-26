@@ -37,7 +37,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-066-p1s1w4">
@@ -1044,7 +1044,7 @@
 <LM>w#w-mf920925-066-p3s3w18</LM>
 </w.rf>
 <form>tajně</form>
-<tag lemma="tajně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="tajně-1_^(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920925-066-p3s3w19">
 <src.rf>manual</src.rf>
@@ -1092,7 +1092,7 @@
 <LM>w#w-mf920925-066-p3s3w25</LM>
 </w.rf>
 <form>vázáni</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" selected="1">VsMP----X-API--</tag>
+<tag lemma="vázat" src="auto" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-mf920925-066-p3s3w26">
 <src.rf>manual</src.rf>
@@ -1428,7 +1428,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-066-p4s1w10">
@@ -2096,7 +2096,7 @@
 <LM>w#w-mf920925-066-p4s4w7</LM>
 </w.rf>
 <form>Aleš</form>
-<tag lemma="Aleš-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Aleš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-066-p4s4w8">
 <src.rf>manual</src.rf>
@@ -2503,7 +2503,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_;m_;^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-066-p5s1w12">
@@ -2606,7 +2606,7 @@
 <LM>w#w-mf920925-066-p5s1w23</LM>
 </w.rf>
 <form>texaskách</form>
-<tag lemma="texasky" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="texasky-2" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf920925-066-p5s1w24">
 <src.rf>manual</src.rf>

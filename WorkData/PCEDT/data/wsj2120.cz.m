@@ -191,7 +191,7 @@
 <LM>w#w-wsj2120-001-p1s0W15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2120-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -730,7 +730,7 @@
 <LM>w#w-wsj2120-001-p1s2W6</LM>
 </w.rf>
 <form>spořitelna</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj2120-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>

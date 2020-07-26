@@ -140,7 +140,7 @@
 <form>sehnat</form>
 <tag>
 <AM lemma="sehnat" src="orig">Vf--------A----</AM>
-<AM lemma="sehnat" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="sehnat_^(shánět)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-lnd94103-135-p1s3w7">

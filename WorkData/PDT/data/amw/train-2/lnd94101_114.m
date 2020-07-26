@@ -62,7 +62,7 @@
 <tag>
 <AM lemma="jaro" src="auto">NNNP2-----A----</AM>
 <AM lemma="JAR-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -257,7 +257,7 @@
 <tag>
 <AM lemma="jaro" src="orig">NNNP2-----A----</AM>
 <AM lemma="JAR-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-114-p1s2w11">
@@ -940,7 +940,7 @@
 <LM>w#w-lnd94101-114-p1s5w39</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94101-114-p1s5w40">
 <src.rf>manual</src.rf>
@@ -1080,7 +1080,7 @@
 <LM>w#w-lnd94101-114-p1s7w1</LM>
 </w.rf>
 <form>Naším</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-lnd94101-114-p1s7w2">
 <src.rf>manual</src.rf>
@@ -1104,7 +1104,7 @@
 <LM>w#w-lnd94101-114-p1s7w4</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94101-114-p1s7w5">
 <src.rf>manual</src.rf>
@@ -2325,7 +2325,7 @@
 <form>nalezeny</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsTP----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsTP----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsTP----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-lnd94101-114-p1s14w11">

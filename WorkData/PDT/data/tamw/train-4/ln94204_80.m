@@ -659,7 +659,7 @@
 <form>nevoják</form>
 <tag>
 <AM lemma="nevoják" src="orig">NNMS1-----A----</AM>
-<AM lemma="voják" src="manual" selected="1">NNMS1-----N----</AM>
+<AM lemma="nevoják" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-80-p2s4w12">
@@ -985,7 +985,7 @@
 <LM>w#w-ln94204-80-p2s5w7</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-80-p2s5w8">
 <src.rf>manual</src.rf>

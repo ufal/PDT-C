@@ -205,7 +205,7 @@
 <LM>w#w-ln94207-67-p2s1Bw12</LM>
 </w.rf>
 <form>taxikářů</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94207-67-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <form>zn</form>
 <tag>
 <AM lemma="značka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="značka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="značka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94207-67-p2s1Bw34">
@@ -750,7 +750,7 @@
 <LM>w#w-ln94207-67-p2s5w19</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94207-67-p2s5w20">
 <src.rf>manual</src.rf>

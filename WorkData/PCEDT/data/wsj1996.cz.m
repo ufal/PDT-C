@@ -1357,7 +1357,7 @@
 <LM>w#w-wsj1996-001-p1s3W18</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m-wsj1996-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1473,7 +1473,7 @@
 <LM>w#w-wsj1996-001-p1s3W27</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1996-001-p1s3W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1952,7 +1952,7 @@
 <LM>w#w-wsj1996-001-p1s5W1</LM>
 </w.rf>
 <form>Zamysleme</form>
-<tag lemma="zamyslet" src="auto" recommended="1">Vi-P---1--A-P--</tag>
+<tag lemma="zamyslit" src="auto" recommended="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m-wsj1996-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2873,7 +2873,7 @@
 <LM>w#w-wsj1996-001-p1s7W22</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m-wsj1996-001-p1s7W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9275,7 +9275,7 @@
 <LM>w#w-wsj1996-001-p1s28W9</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1996-001-p1s28W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9745,7 +9745,7 @@
 <LM>w#w-wsj1996-001-p1s30W33</LM>
 </w.rf>
 <form>upgradovat</form>
-<tag lemma="upgradovat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="upgradovat" src="auto" recommended="1">Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1996-001-p1s30W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10770,7 +10770,7 @@
 <LM>w#w-wsj1996-001-p1s34W9</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj1996-001-p1s34W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10966,7 +10966,7 @@
 <LM>w#w-wsj1996-001-p1s35W8</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj1996-001-p1s35W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -17204,7 +17204,7 @@
 <LM>w#w-wsj1996-001-p1s56W8</LM>
 </w.rf>
 <form>vydělával</form>
-<tag lemma="vydělávat_^(kůže;peníze)_(*4at)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="vydělávat_^(*4at)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1996-001-p1s56W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18334,7 +18334,7 @@
 <LM>w#w-wsj1996-001-p1s62W4</LM>
 </w.rf>
 <form>vašimi</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSXP7-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSXP7-P2-------</tag>
 </m>
 <m id="m-wsj1996-001-p1s62W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -19544,7 +19544,7 @@
 <LM>w#w-wsj1996-001-p1s66W45</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1996-001-p1s66W46-Ta">
 <src.rf>tagger-a</src.rf>
@@ -19799,7 +19799,7 @@
 <LM>w#w-wsj1996-001-p1s69W2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1996-001-p1s69W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20245,7 +20245,7 @@
 <LM>w#w-wsj1996-001-p1s71W4</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj1996-001-p1s71W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20478,7 +20478,7 @@
 <LM>w#w-wsj1996-001-p1s72W13</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m-wsj1996-001-p1s72W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -639,7 +639,7 @@
 <LM>w#w-lnd92252-036-p5s2w12</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92252-036-p5s2w13">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-lnd92252-036-p5s2w20</LM>
 </w.rf>
 <form>srbsko</form>
-<tag lemma="srbský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="srbsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92252-036-p5s2w21">
 <src.rf>manual</src.rf>
@@ -979,7 +979,7 @@
 <LM>w#w-lnd92252-036-p6s1w11</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-036-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1352,7 +1352,7 @@
 <LM>w#w-lnd92252-036-p7s1w2</LM>
 </w.rf>
 <form>srbsko</form>
-<tag lemma="srbský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="srbsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92252-036-p7s1w3">
 <src.rf>manual</src.rf>
@@ -1893,7 +1893,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-036-p8s2w16">

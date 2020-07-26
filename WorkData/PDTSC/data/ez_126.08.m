@@ -236,7 +236,7 @@
 <LM>w#w-d1t1454-7</LM>
 </w.rf>
 <form>jely</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m126-d1t1454-8">
 <w.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-d1t1454-19</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m126-d1t1454-20">
 <w.rf>
@@ -1336,7 +1336,7 @@
 <LM>w#w-d1t1482-5</LM>
 </w.rf>
 <form>ségra</form>
-<tag lemma="ségra_,l" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="ségra_,h" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m126-d1t1482-6">
 <w.rf>
@@ -3258,7 +3258,7 @@
 <LM>w#w-d1e1503-x3-503</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m126-d1e1503-x3-502">
 <w.rf>
@@ -3317,7 +3317,7 @@
 <LM>w#w-d1e1503-x3-497</LM>
 </w.rf>
 <form>sekretářka</form>
-<tag lemma="sekretářka_^(*2)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="sekretářka-2_^(*4-2)" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m126-d1e1503-x3-496">
 <w.rf>
@@ -3371,7 +3371,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m126-548-13">
@@ -3676,7 +3676,7 @@
 <form>RVHP</form>
 <tag>
 <AM lemma="RVHP-1_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="RVHP-1_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="RVHP-1_;m_^(Rada_vzájemné_hospodářské_pomoci)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m126-d-id136804-punct">
@@ -4619,7 +4619,7 @@
 <LM>w#w-d1t1566-51</LM>
 </w.rf>
 <form>Dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m126-d1t1566-54">
 <w.rf>

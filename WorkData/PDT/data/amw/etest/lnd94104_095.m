@@ -475,7 +475,7 @@
 <LM>w#w-lnd94104-095-p1s4w30</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-095-p1s4w31">
 <src.rf>manual</src.rf>
@@ -899,7 +899,7 @@
 <LM>w#w-lnd94104-095-p1s7w4</LM>
 </w.rf>
 <form>nechaly</form>
-<tag lemma="nechat" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-095-p1s7w5">
 <src.rf>manual</src.rf>

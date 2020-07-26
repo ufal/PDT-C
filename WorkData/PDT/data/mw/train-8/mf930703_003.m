@@ -510,7 +510,7 @@
 <form>HSDMS</form>
 <tag>
 <AM lemma="HSDMS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="HSDMS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="HSDMS_;m_^(Hnutí_za_samosprávnou_demokracii_Moravy_a_Slezska)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-003-p2s3w8">
@@ -1011,7 +1011,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-003-p3s1w41">

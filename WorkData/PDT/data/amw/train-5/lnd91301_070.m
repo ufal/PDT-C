@@ -550,7 +550,7 @@
 <LM>w#w-lnd91301-070-p3s2w6</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd91301-070-p3s2w7">
 <src.rf>manual</src.rf>
@@ -894,7 +894,7 @@
 <LM>w#w-lnd91301-070-p4s1w14</LM>
 </w.rf>
 <form>vzplály</form>
-<tag lemma="vzplanout" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="vzplát" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-070-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1126,7 +1126,7 @@
 <LM>w#w-lnd91301-070-p4s3w3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91301-070-p4s3w4">
 <src.rf>manual</src.rf>

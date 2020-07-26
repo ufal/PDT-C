@@ -170,7 +170,7 @@
 <LM>w#w-ln95041-026-p2s1Bw13</LM>
 </w.rf>
 <form>stali</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95041-026-p2s1Bw14">
 <src.rf>manual</src.rf>

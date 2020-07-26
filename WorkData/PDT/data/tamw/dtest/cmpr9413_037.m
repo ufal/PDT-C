@@ -37,7 +37,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-037-p2s1w4">
@@ -97,7 +97,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Grammy</form>
-<tag lemma="Grammy_;m" src="auto" recommended="1" selected="1">NNFS2-----A----</tag>
+<tag lemma="Grammy_;m" src="auto" recommended="1" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9413-037-p3s1Aw6">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-cmpr9413-037-p3s1Bw10</LM>
 </w.rf>
 <form>ftalátů</form>
-<tag lemma="ftalát_;U" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="ftalát" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9413-037-p3s1Bw11">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-cmpr9413-037-p3s6w6</LM>
 </w.rf>
 <form>PAVEL</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-037-p3s6w7">
 <src.rf>manual</src.rf>

@@ -2146,7 +2146,7 @@
 <LM>w#w-cmpr9406-064-p13s2w38</LM>
 </w.rf>
 <form>svržen</form>
-<tag lemma="svrhnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="svrhnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-cmpr9406-064-p13s2w39">
 <src.rf>manual</src.rf>
@@ -2581,7 +2581,7 @@
 <LM>w#w-cmpr9406-064-p14s2w16</LM>
 </w.rf>
 <form>pojato</form>
-<tag lemma="pojmout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="pojmout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-cmpr9406-064-p14s2w17">
 <src.rf>manual</src.rf>
@@ -2589,7 +2589,7 @@
 <LM>w#w-cmpr9406-064-p14s2w17</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9406-064-p14s2w18">
 <src.rf>manual</src.rf>
@@ -2853,7 +2853,7 @@
 <LM>w#w-cmpr9406-064-p14s2w50</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9406-064-p14s2w51">
 <src.rf>manual</src.rf>
@@ -3185,7 +3185,7 @@
 <LM>w#w-cmpr9406-064-p14s4w12</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9406-064-p14s4w13">
 <src.rf>manual</src.rf>
@@ -3337,7 +3337,7 @@
 <LM>w#w-cmpr9406-064-p14s4w31</LM>
 </w.rf>
 <form>můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-cmpr9406-064-p14s4w32">
 <src.rf>manual</src.rf>
@@ -3841,7 +3841,7 @@
 <LM>w#w-cmpr9406-064-p16s1w11</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9406-064-p16s1w12">
 <src.rf>manual</src.rf>

@@ -5084,7 +5084,7 @@
 <LM>w#w-wsj0767-001-p1s13W10</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0767-001-p1s13W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6080,7 +6080,7 @@
 <LM>w#w-wsj0767-001-p1s17W10</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj0767-001-p1s17W11-Ta">
 <src.rf>tagger-a</src.rf>

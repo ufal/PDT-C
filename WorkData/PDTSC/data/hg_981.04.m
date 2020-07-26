@@ -1941,7 +1941,7 @@
 <LM>w#w-d1t1803-5</LM>
 </w.rf>
 <form>Jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m981-d1t1803-3">
 <w.rf>
@@ -2156,7 +2156,7 @@
 <LM>w#w-d1t1805-12</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m981-d1e1800-x3-5484">
 <w.rf>
@@ -2296,7 +2296,7 @@
 <LM>w#w-d1t1809-6</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m981-d1t1809-7">
 <w.rf>
@@ -2389,7 +2389,7 @@
 <LM>w#w-d1t1811-10</LM>
 </w.rf>
 <form>řikali</form>
-<tag lemma="říkat" src="auto" recommended="1">VpMP----R-AA--6</tag>
+<tag lemma="řikat_,h_^(^GC**říkat)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m981-5485-5496">
 <w.rf>
@@ -2583,7 +2583,7 @@
 <LM>w#w-d1t1820-4</LM>
 </w.rf>
 <form>nepomysleli</form>
-<tag lemma="pomyslet" src="auto" recommended="1">VpMP----R-NA---</tag>
+<tag lemma="pomyslit" src="auto" recommended="1">VpMP----R-NAP-1</tag>
 </m>
 <m id="m981-d-id110919">
 <w.rf>
@@ -2604,7 +2604,7 @@
 <LM>w#w-d1e1800-x4-5621</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m981-d1t1820-7">
 <w.rf>
@@ -2644,7 +2644,7 @@
 <LM>w#w-d1t1820-10</LM>
 </w.rf>
 <form>Mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m981-d-id110991">
 <w.rf>
@@ -3469,7 +3469,7 @@
 </w.rf>
 <form>pasem</form>
 <tag>
-<AM lemma="pas-2_^(na_lidském_těle;;cestovní)" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIS7-----A----</AM>
 <AM lemma="paso_,t_^(passo_doble)" src="auto">NNNS7-----A----</AM>
 <AM lemma="pasus" src="auto">NNIS7-----A----</AM>
@@ -3899,7 +3899,7 @@
 </w.rf>
 <form>pasem</form>
 <tag>
-<AM lemma="pas-2_^(na_lidském_těle;;cestovní)" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIS7-----A----</AM>
 <AM lemma="paso_,t_^(passo_doble)" src="auto">NNNS7-----A----</AM>
 <AM lemma="pasus" src="auto">NNIS7-----A----</AM>
@@ -5223,7 +5223,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m981-d1t2000-8">

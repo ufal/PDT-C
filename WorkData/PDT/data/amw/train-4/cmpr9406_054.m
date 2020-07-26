@@ -37,7 +37,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-054-p2s1w4">
@@ -761,7 +761,7 @@
 <LM>w#w-cmpr9406-054-p3s4Cw3</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-cmpr9406-054-p3s4Cw4">
 <src.rf>manual</src.rf>
@@ -833,7 +833,7 @@
 <LM>w#w-cmpr9406-054-p3s4Cw12</LM>
 </w.rf>
 <form>NÁMI</form>
-<tag lemma="já" src="orig" selected="1">PP-P7--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P7--1-------</tag>
 </m>
 <m id="m-cmpr9406-054-p3s4Cw13">
 <src.rf>manual</src.rf>

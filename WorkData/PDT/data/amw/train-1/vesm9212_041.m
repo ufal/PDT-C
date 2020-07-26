@@ -447,7 +447,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-041-p2s1w52">
@@ -562,7 +562,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-041-p2s1w66">
@@ -972,7 +972,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-041-p3s2Bw6">
@@ -1371,7 +1371,7 @@
 <LM>w#w-vesm9212-041-p4s2w4</LM>
 </w.rf>
 <form>právem</form>
-<tag lemma="právem" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="právem" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9212-041-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1721,7 +1721,7 @@
 <tag>
 <AM lemma="přece_,a" src="orig">Db------------2</AM>
 <AM lemma="přece-1_,a" src="auto" recommended="1">J^------------2</AM>
-<AM lemma="přece-1" src="manual" selected="1">J^------------2</AM>
+<AM lemma="přec_,a_^(^DD**přece-1)" src="manual" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-041-p5s1w29">
@@ -3449,7 +3449,7 @@
 <form>přec</form>
 <tag>
 <AM lemma="přece_,a" src="orig">Db------------2</AM>
-<AM lemma="přece-1_,a" src="auto" recommended="1" selected="1">J^------------2</AM>
+<AM lemma="přec_,a_^(^DD**přece-1)" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-041-p7s4w8">
@@ -4470,7 +4470,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
+<AM lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-041-p9s4w8">
@@ -4979,7 +4979,7 @@
 <LM>w#w-vesm9212-041-p10s1w27</LM>
 </w.rf>
 <form>vymysleli</form>
-<tag lemma="vymyslet" src="orig" selected="1">VpMP----R-AA---</tag>
+<tag lemma="vymyslit" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-vesm9212-041-p10s1w28">
 <src.rf>manual</src.rf>
@@ -5946,7 +5946,7 @@
 <LM>w#w-vesm9212-041-p12s2w4</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-vesm9212-041-p12s2w6">
 <src.rf>manual</src.rf>
@@ -6108,7 +6108,7 @@
 <LM>w#w-vesm9212-041-p12s2w24</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-vesm9212-041-p12s2w26">
 <src.rf>manual</src.rf>
@@ -6172,7 +6172,7 @@
 <LM>w#w-vesm9212-041-p12s2w33</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-vesm9212-041-p12s2w35">
 <src.rf>manual</src.rf>
@@ -6302,7 +6302,7 @@
 <LM>w#w-vesm9212-041-p12s3w6</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-vesm9212-041-p12s3w8">
 <src.rf>manual</src.rf>
@@ -6342,7 +6342,7 @@
 <LM>w#w-vesm9212-041-p12s3w12</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-vesm9212-041-p12s3w13">
 <src.rf>manual</src.rf>
@@ -6386,7 +6386,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
+<AM lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-041-p12s4w2">

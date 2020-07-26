@@ -457,7 +457,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-105-p2s2w27">
@@ -721,7 +721,7 @@
 <LM>w#w-mf930701-105-p3s2w4</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-105-p3s2w5">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-mf930701-105-p3s2w22</LM>
 </w.rf>
 <form>Spartu</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930701-105-p3s2w23">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-mf930701-105-p3s2w26</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemians_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-105-p3s2w27">
 <src.rf>manual</src.rf>
@@ -987,7 +987,7 @@
 <LM>w#w-mf930701-105-p3s3w1</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-105-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1131,7 +1131,7 @@
 <LM>w#w-mf930701-105-p3s3w19</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930701-105-p3s3w20">
 <src.rf>manual</src.rf>

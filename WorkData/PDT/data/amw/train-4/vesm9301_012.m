@@ -51,7 +51,7 @@
 <LM>w#w-vesm9301-012-p1s1w5</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-vesm9301-012-p1s1w7">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-vesm9301-012-p1s1w16</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-vesm9301-012-p1s1w18">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-vesm9301-012-p1s2w8</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="orig" selected="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACMP------A----</tag>
 </m>
 <m id="m-vesm9301-012-p1s2w9">
 <src.rf>manual</src.rf>

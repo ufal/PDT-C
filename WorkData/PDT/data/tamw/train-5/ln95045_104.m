@@ -495,7 +495,7 @@
 <LM>w#w-ln95045-104-p2s4w2</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-104-p2s4w3">
 <src.rf>manual</src.rf>

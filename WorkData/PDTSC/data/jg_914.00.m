@@ -1430,7 +1430,7 @@
 <LM>w#w-d1t109-6</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m914-d-id57644">
 <w.rf>
@@ -1643,7 +1643,7 @@
 <LM>w#w-d1t130-12</LM>
 </w.rf>
 <form>nechají</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m914-d-id58128">
 <w.rf>
@@ -2579,7 +2579,7 @@
 <LM>w#w-d1t169-12</LM>
 </w.rf>
 <form>táhli</form>
-<tag lemma="táhnout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
+<tag lemma="táhnout" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m914-d1t169-13">
 <w.rf>
@@ -3667,7 +3667,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m914-d1t206-2">
@@ -4349,7 +4349,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m914-d1e276-x2-1029">
@@ -4474,7 +4474,7 @@
 <LM>w#w-d1t291-5</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m914-d1t291-4">
 <w.rf>
@@ -6754,7 +6754,7 @@
 <LM>w#w-d1t385-4</LM>
 </w.rf>
 <form>zaměstnán</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="zaměstnat" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m914-2385-2404">
 <w.rf>
@@ -6856,7 +6856,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>

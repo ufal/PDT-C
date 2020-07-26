@@ -53,7 +53,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>česku</form>
-<tag lemma="česko-2_^(ve_spojení_&quot;po_česku&quot;)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="česku_^(ve_spojení_&quot;po_česku&quot;)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln95043-019-p2s1A">
@@ -148,7 +148,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95043-019-p2s1Bw9">
@@ -277,7 +277,7 @@
 <LM>w#w-ln95043-019-p2s1Bw24</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95043-019-p2s1Bw25">
 <src.rf>manual</src.rf>

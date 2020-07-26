@@ -1683,7 +1683,7 @@
 <LM>w#w-wsj0667-001-p1s5W19</LM>
 </w.rf>
 <form>potřebou</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj0667-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>

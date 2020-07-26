@@ -310,7 +310,7 @@
 <tag>
 <AM lemma="Aprilia_;m_^(motorka)" src="orig">NNFS1-----A----</AM>
 <AM lemma="Aprilia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Aprilia_;m_^(motocykl)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Aprilia_;G_;m" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-092-p2s2w8">
@@ -596,7 +596,7 @@
 <tag>
 <AM lemma="Aprilia_;m_^(motorka)" src="orig">NNFS1-----A----</AM>
 <AM lemma="Aprilia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Aprilia_;m_^(motocykl)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Aprilia_;G_;m" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-092-p2s3w13">
@@ -760,7 +760,7 @@
 <LM>w#w-ln95048-092-p2s3w32</LM>
 </w.rf>
 <form>Yamaha</form>
-<tag lemma="Yamaha-2_;m" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Yamaha_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s3w33">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-ln95048-092-p2s4w18</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln95048-092-p2s4w19">
 <src.rf>manual</src.rf>

@@ -102,7 +102,7 @@
 <LM>w#w-mf930709-071-p2s2Aw3</LM>
 </w.rf>
 <form>ina</form>
-<tag lemma="ina-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ina-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930709-071-p2s2Aw4">
 <src.rf>manual</src.rf>
@@ -1056,7 +1056,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-071-p2s6w6">
@@ -1605,7 +1605,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-071-p2s9w26">
@@ -1905,7 +1905,7 @@
 <LM>w#w-mf930709-071-p2s11w11</LM>
 </w.rf>
 <form>zastavila</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930709-071-p2s11w12">
 <src.rf>manual</src.rf>

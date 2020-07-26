@@ -2335,7 +2335,7 @@
 <LM>w#w-wsj0261-001-p1s7W27</LM>
 </w.rf>
 <form>kiwi</form>
-<tag lemma="kiwi_;U" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag lemma="kiwi" src="auto" recommended="1">NNNXX-----A----</tag>
 </m>
 <m id="m-wsj0261-001-p1s7W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3607,7 +3607,7 @@
 <LM>w#w-wsj0261-001-p1s12W2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0261-001-p1s12W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4627,7 +4627,7 @@
 <LM>w#w-wsj0261-001-p1s13W22</LM>
 </w.rf>
 <form>vymyslet</form>
-<tag lemma="vymyslet" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="vymyslit" src="auto" recommended="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-wsj0261-001-p1s13W23-Ta">
 <src.rf>tagger-a</src.rf>

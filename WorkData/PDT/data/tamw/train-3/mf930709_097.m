@@ -359,7 +359,7 @@
 <form>h</form>
 <tag>
 <AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s2Bw24">
@@ -442,7 +442,7 @@
 <LM>w#w-mf930709-097-p2s3w6</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930709-097-p2s3w7">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s6w11">
@@ -1038,7 +1038,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s7w16">
@@ -1310,7 +1310,7 @@
 <LM>w#w-mf930709-097-p2s9w22</LM>
 </w.rf>
 <form>pojedou</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-P---3F-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-mf930709-097-p2s9w23">
 <src.rf>manual</src.rf>
@@ -1466,7 +1466,7 @@
 <AM lemma="BMW-2_:B_;m_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="manual">NNNXX-----A---8</AM>
-<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s10w12">
@@ -1817,7 +1817,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s13w7">
@@ -1884,7 +1884,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s13w15">
@@ -2081,7 +2081,7 @@
 <form>h</form>
 <tag>
 <AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s14w15">

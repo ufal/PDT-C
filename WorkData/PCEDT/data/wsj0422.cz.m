@@ -1510,7 +1510,7 @@
 <LM>w#w-wsj0422-001-p1s4W28</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m-wsj0422-001-p1s4W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1993,7 +1993,7 @@
 <LM>w#w-wsj0422-001-p1s6W16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0422-001-p1s6W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5150,7 +5150,7 @@
 <LM>w#w-wsj0422-001-p1s21W11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0422-001-p1s21W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7036,7 +7036,7 @@
 <LM>w#w-wsj0422-001-p1s29W10</LM>
 </w.rf>
 <form>událostech</form>
-<tag lemma="událost_^(*3ý)" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="událost" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m-wsj0422-001-p1s29W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7058,7 +7058,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -7068,7 +7068,7 @@
 <LM>w#w-wsj0422-001-p1s29W13</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m-wsj0422-001-p1s29W14-Ta">
 <src.rf>tagger-a</src.rf>

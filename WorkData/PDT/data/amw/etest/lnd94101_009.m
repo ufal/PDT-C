@@ -61,7 +61,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="jaro" src="auto">NNNP2-----A----</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -292,7 +292,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-009-p1s1Cw24">
@@ -878,7 +878,7 @@
 <LM>w#w-lnd94101-009-p1s4w14</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94101-009-p1s4w15">
 <src.rf>manual</src.rf>

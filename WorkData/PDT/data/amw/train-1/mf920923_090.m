@@ -27,7 +27,7 @@
 <LM>w#w-mf920923-090-p1s1w2</LM>
 </w.rf>
 <form>podvodně</form>
-<tag lemma="podvodně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="podvodně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 </s>
 <s id="m-mf920923-090-p2s1">
@@ -617,7 +617,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-090-p2s4w9">

@@ -297,7 +297,7 @@
 <LM>w#w-lnd92256-077-p2s3w13</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-077-p2s3w14">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-lnd92256-077-p2s3w19</LM>
 </w.rf>
 <form>rozvodů</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92256-077-p2s3w20">
 <src.rf>manual</src.rf>

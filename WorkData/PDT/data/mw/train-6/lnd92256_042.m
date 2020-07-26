@@ -332,7 +332,7 @@
 <LM>w#w-lnd92256-042-p2s3w16</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92256-042-p2s3w17">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <LM>w#w-lnd92256-042-p2s4w4</LM>
 </w.rf>
 <form>zastavily</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-042-p2s4w5">
 <src.rf>manual</src.rf>

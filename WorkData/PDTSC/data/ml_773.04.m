@@ -660,7 +660,7 @@
 <LM>w#w-d1t1208-9</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m773-d1t1208-7">
 <w.rf>
@@ -1215,7 +1215,7 @@
 <LM>w#w-d1t1265-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m773-d1t1265-4">
 <w.rf>
@@ -1366,7 +1366,7 @@
 <LM>w#w-d1t1268-10</LM>
 </w.rf>
 <form>nedával</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m773-d-id98720">
 <w.rf>
@@ -3699,7 +3699,7 @@
 <LM>w#w-d1t1370-6</LM>
 </w.rf>
 <form>Bránila</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="bránit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m773-d1t1370-4">
 <w.rf>
@@ -3863,7 +3863,7 @@
 <LM>w#w-d1t1375-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m773-d-id103761">
 <w.rf>
@@ -4308,7 +4308,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m773-d1t1388-10">
@@ -5673,7 +5673,7 @@
 <LM>w#w-d1t1449-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m773-d1t1449-5">
 <w.rf>

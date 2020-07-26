@@ -288,7 +288,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m064-d1e328-x3-124">
@@ -631,7 +631,7 @@
 <LM>w#w-d1t363-11</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m064-d-m-d1e354-x2-punct-punct">
 <w.rf>
@@ -749,7 +749,7 @@
 <form>cestovkou</form>
 <tag>
 <AM lemma="cestovka_,h" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="cestovka" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="cestovka_,h" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m064-161-162">
@@ -1725,7 +1725,7 @@
 <LM>w#w-d1t455-6</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m064-d1e452-x2-216">
 <w.rf>
@@ -2514,7 +2514,7 @@
 <LM>w#w-d1t520-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m064-d1t520-4">
 <w.rf>
@@ -2719,14 +2719,14 @@
 <LM>w#w-d1t532-2</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m064-d1t532-3">
 <w.rf>
 <LM>w#w-d1t532-3</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m064-d1t532-4">
 <w.rf>
@@ -3649,7 +3649,7 @@
 <LM>w#w-d1t595-16</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m064-d1t595-3">
 <w.rf>
@@ -3668,7 +3668,7 @@
 </w.rf>
 <form>Vánocích</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP6-----A----</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>

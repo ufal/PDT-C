@@ -45,7 +45,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-133-p1s1w5">
@@ -791,7 +791,7 @@
 <LM>w#w-ln94210-133-p3s1w26</LM>
 </w.rf>
 <form>šíře</form>
-<tag lemma="široko-1_^(šíře,_než...)" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="široko-1" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94210-133-p3s1w27">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 <LM>w#w-ln94210-133-p3s1w44</LM>
 </w.rf>
 <form>nemohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln94210-133-p3s1w45">
 <src.rf>manual</src.rf>

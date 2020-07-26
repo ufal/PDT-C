@@ -2064,7 +2064,7 @@
 </w.rf>
 <form>Nemyslím</form>
 <tag>
-<AM lemma="myslet" src="auto" selected="1">VB-S---1P-NAI--</AM>
+<AM lemma="myslit" src="auto" selected="1">VB-S---1P-NAI--</AM>
 <AM lemma="myslit" src="auto" recommended="1">VB-S---1P-NAI--</AM>
 </tag>
 </m>
@@ -3095,7 +3095,7 @@
 <LM>w#w-wsj1561-001-p1s10W41</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj1561-001-p1s10W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5549,7 +5549,7 @@
 <LM>w#w-wsj1561-001-p1s17W12</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1561-001-p1s17W13-Ta">
 <src.rf>tagger-a</src.rf>

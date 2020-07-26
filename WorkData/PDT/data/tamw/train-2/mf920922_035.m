@@ -176,7 +176,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920922-035-p2s2w12">
@@ -526,7 +526,7 @@
 <LM>w#w-mf920922-035-p2s5w5</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920922-035-p2s5w6">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 <form>VZP</form>
 <tag>
 <AM lemma="VZP-1_:B_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VZP-1_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VZP_;m_^(Všeobecná_zdravotní_pojišťovna)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-035-p2s5w29">
@@ -828,7 +828,7 @@
 <LM>w#w-mf920922-035-p2s6w13</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920922-035-p2s6w14">
 <src.rf>manual</src.rf>

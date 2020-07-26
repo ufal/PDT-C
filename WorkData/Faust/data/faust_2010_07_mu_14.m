@@ -38,7 +38,7 @@
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--4----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--6----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--7----------</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="mu_14-SCzechM-p1392-s1-w4">
@@ -247,7 +247,7 @@
 <tag>
 <AM lemma="BBC_:B_;m" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="BBC_:B_;m">NNNXX-----A---8</AM>
-<AM lemma="BBC_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BBC_;m_^(British_Broadcasting_Corporation)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_14-SCzechM-p1397-s1-w12">
@@ -779,7 +779,7 @@
 <LM>w#w-mu_14-SCzechM-p1406-s1-w9</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="mu_14-SCzechM-p1406-s1-w10">
 <w.rf>
@@ -945,7 +945,7 @@
 <tag>
 <AM lemma="control_:B_,t" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ctrl_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="Ctrl_^(Control)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ctrl_^(Control)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_14-SCzechM-p1407-s1-w4">
@@ -2201,7 +2201,7 @@
 <form>Nežiji</form>
 <tag>
 <AM lemma="žít" recommended="1">VB-S---1P-NAI-1</AM>
-<AM lemma="žít" src="manual" selected="1">VB-S---1P-NAI--</AM>
+<AM lemma="žít" src="manual" selected="1">VB-S---1P-NAI-1</AM>
 </tag>
 </m>
 <m id="mu_14-SCzechM-p1453-s1-w6">
@@ -2334,7 +2334,7 @@
 <LM>w#w-mu_14-SCzechM-p1456-s1-w1</LM>
 </w.rf>
 <form>ahoj</form>
-<tag lemma="ahoj" recommended="1">TT-------------</tag>
+<tag lemma="ahoj" recommended="1">II-------------</tag>
 </m>
 </s>
 <s id="s-mu_14-SCzechM-p1460-s1-w2">
@@ -2366,7 +2366,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -2857,7 +2857,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)">NNFP5-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" selected="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="mu_14-SCzechM-p1468-s1-w21">
@@ -2945,7 +2945,7 @@
 <form>bych</form>
 <tag>
 <AM lemma="být" recommended="1">Vc-S---1-------</AM>
-<AM lemma="být" src="manual" selected="1">Vc-S---1----I--</AM>
+<AM lemma="být" src="manual" selected="1">Vc----------Ic-</AM>
 </tag>
 </m>
 <m id="mu_14-SCzechM-p1469-s1-w3">
@@ -3506,7 +3506,7 @@
 <tag>
 <AM lemma="nechat" recommended="1">VB-S---1P-AAI--</AM>
 <AM lemma="nechat" src="manual">VB-S---1P-AAI--</AM>
-<AM lemma="nechat" src="manual" selected="1">VB-S---1P-AAI--</AM>
+<AM lemma="nechat" src="manual" selected="1">VB-S---1P-AAP--</AM>
 </tag>
 </m>
 <m id="mu_14-SCzechM-p1471-s1-w36">
@@ -3875,7 +3875,7 @@
 <LM>w#w-mu_14-SCzechM-p1473-s1-w16</LM>
 </w.rf>
 <form>Vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="mu_14-SCzechM-p1473-s1-w17">
 <w.rf>
@@ -4351,7 +4351,7 @@
 <form>sehnat</form>
 <tag>
 <AM lemma="sehnat" recommended="1">Vf--------A----</AM>
-<AM lemma="sehnat" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="sehnat_^(shánět)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="mu_14-SCzechM-p1488-s1-w5">
@@ -5369,7 +5369,7 @@
 <form>naskenovat</form>
 <tag>
 <AM lemma="nascanovat_:W" recommended="1">Vf--------A----</AM>
-<AM lemma="nascanovat" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="naskenovat_,s_^(^DD**nascanovat)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="mu_14-SCzechM-p1513-s1-w11">

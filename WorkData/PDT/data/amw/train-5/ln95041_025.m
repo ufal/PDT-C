@@ -316,7 +316,7 @@
 <LM>w#w-ln95041-025-p2s2w13</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95041-025-p2s2w14">
 <src.rf>manual</src.rf>

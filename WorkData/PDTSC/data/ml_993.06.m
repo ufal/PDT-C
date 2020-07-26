@@ -677,7 +677,7 @@
 <LM>w#w-d1t1516-3</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m993-d1t1516-4">
 <w.rf>
@@ -1472,7 +1472,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m993-d1t1588-2">
@@ -1570,7 +1570,7 @@
 <LM>w#w-d1t1594-1</LM>
 </w.rf>
 <form>kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m993-d1t1594-2">
 <w.rf>
@@ -1723,7 +1723,7 @@
 <LM>w#w-d1t1601-6</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m993-d1t1601-2">
 <w.rf>
@@ -2373,7 +2373,7 @@
 <LM>w#w-d1t1638-4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m993-d1t1638-5">
 <w.rf>
@@ -3372,7 +3372,7 @@
 <LM>w#w-d1t1681-3</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m993-3123-990">
 <w.rf>
@@ -4290,7 +4290,7 @@
 <form>Hitlerjugend</form>
 <tag>
 <AM lemma="Hitlerjugend_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Hitlerjugend_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Hitlerjugend_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m993-d-id121985">
@@ -4564,7 +4564,7 @@
 <LM>w#w-d1t1767-2</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m993-d1t1767-4">
 <w.rf>

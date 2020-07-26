@@ -2126,7 +2126,7 @@
 <LM>w#w-wsj1759-001-p1s6W10</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m-wsj1759-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>

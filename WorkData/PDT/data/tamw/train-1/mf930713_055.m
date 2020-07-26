@@ -112,7 +112,7 @@
 <LM>w#w-mf930713-055-p2s1w6</LM>
 </w.rf>
 <form>očima</form>
-<tag lemma="oko" src="orig" selected="1">NNFD7-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFD7-----A----</tag>
 </m>
 <m id="m-mf930713-055-p2s1w7">
 <src.rf>manual</src.rf>
@@ -1782,7 +1782,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-055-p3s3w25">
@@ -1823,7 +1823,7 @@
 <LM>w#w-mf930713-055-p3s3w29</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930713-055-p3s3w30">
 <src.rf>manual</src.rf>

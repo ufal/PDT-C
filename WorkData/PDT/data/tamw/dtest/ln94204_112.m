@@ -181,7 +181,7 @@
 <LM>w#w-ln94204-112-p2s1Bw12</LM>
 </w.rf>
 <form>šampion</form>
-<tag lemma="šampion" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="šampion_,s_^(^DD**šampión)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-112-p2s1Bw13">
 <src.rf>manual</src.rf>

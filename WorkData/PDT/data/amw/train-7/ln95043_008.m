@@ -272,7 +272,7 @@
 <LM>w#w-ln95043-008-p2s2w4</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-008-p2s2w5">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--2----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-008-p2s2w9">
@@ -469,7 +469,7 @@
 <form>lavičku</form>
 <tag>
 <AM lemma="lavička-2" src="auto">NNFS4-----A----</AM>
-<AM lemma="lavička" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="lavička-2" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-008-p2s2w29">
@@ -703,7 +703,7 @@
 <form>lavičku</form>
 <tag>
 <AM lemma="lavička-2" src="auto">NNFS4-----A----</AM>
-<AM lemma="lavička" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="lavička-2" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-008-p2s3w22">
@@ -924,7 +924,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
+<AM lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-008-p3s3w2">
@@ -1639,7 +1639,7 @@
 <LM>w#w-ln95043-008-p3s8w5</LM>
 </w.rf>
 <form>nemůžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-ln95043-008-p3s8w6">
 <src.rf>manual</src.rf>
@@ -1705,7 +1705,7 @@
 <LM>w#w-ln95043-008-p3s9w5</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-008-p3s9w6">
 <src.rf>manual</src.rf>

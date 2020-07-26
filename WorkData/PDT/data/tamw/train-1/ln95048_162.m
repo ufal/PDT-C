@@ -278,7 +278,7 @@
 <LM>w#w-ln95048-162-p2s1Bw19</LM>
 </w.rf>
 <form>navržen</form>
-<tag lemma="navrhnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln95048-162-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <form>ČD</form>
 <tag>
 <AM lemma="ČD_:B_;m_^(České_dráhy)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ČD_;m_^(České_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-162-p2s3w19">
@@ -1299,7 +1299,7 @@
 <LM>w#w-ln95048-162-p4s2w7</LM>
 </w.rf>
 <form>navrženy</form>
-<tag lemma="navrhnout" src="orig" selected="1">VsTP----X-AP---</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-ln95048-162-p4s2w8">
 <src.rf>manual</src.rf>
@@ -2558,7 +2558,7 @@
 <LM>w#w-ln95048-162-p7s3w6</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95048-162-p7s3w7">
 <src.rf>manual</src.rf>

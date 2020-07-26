@@ -171,7 +171,7 @@
 <LM>w#w-mf920924-052-p3s1w4</LM>
 </w.rf>
 <form>taxikářů</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920924-052-p3s1w5">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-mf920924-052-p3s1w14</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920924-052-p3s1w15">
 <src.rf>manual</src.rf>
@@ -267,7 +267,7 @@
 <LM>w#w-mf920924-052-p3s1w16</LM>
 </w.rf>
 <form>bránit</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">Vf--------A-I--</tag>
+<tag lemma="bránit" src="auto" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920924-052-p3s1w17">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-mf920924-052-p3s2w5</LM>
 </w.rf>
 <form>vydávány</form>
-<tag lemma="vydávat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*6at-2)" src="orig" selected="1">VsTP----X-API--</tag>
+<tag lemma="vydávat_^(*4at)" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf920924-052-p3s2w6">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <form>staly</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpTP----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920924-052-p3s2w20">
@@ -677,7 +677,7 @@
 <form>nestala</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-NA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpQW----R-NAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-mf920924-052-p3s3w12">
@@ -782,7 +782,7 @@
 <LM>w#w-mf920924-052-p3s4w2</LM>
 </w.rf>
 <form>nemohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf920924-052-p3s4w3">
 <src.rf>manual</src.rf>

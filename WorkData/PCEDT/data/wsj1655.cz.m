@@ -2036,7 +2036,7 @@
 <LM>w#w-wsj1655-001-p1s3W9</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1655-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2221,7 +2221,7 @@
 <form>matku</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS4-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1655-001-p1s3W25-Ta">
@@ -2451,7 +2451,7 @@
 <LM>w#w-wsj1655-001-p1s3W44</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m-wsj1655-001-p1s3W45-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2529,7 +2529,7 @@
 <LM>w#w-wsj1655-001-p1s3W50</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m-wsj1655-001-p1s3W51-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3028,7 +3028,7 @@
 <LM>w#w-wsj1655-001-p1s5W15</LM>
 </w.rf>
 <form>kouta</form>
-<tag lemma="kout_^(př._dát_něco_do_kouta)" src="auto" recommended="1">NNIS2-----A----</tag>
+<tag lemma="kout-1" src="auto" recommended="1">NNIS2-----A----</tag>
 </m>
 <m id="m-wsj1655-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4906,7 +4906,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1655-001-p1s9W69-Ta">
@@ -6100,7 +6100,7 @@
 <LM>w#w-wsj1655-001-p1s17W2</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m-wsj1655-001-p1s17W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6182,7 +6182,7 @@
 <LM>w#w-wsj1655-001-p1s18W2</LM>
 </w.rf>
 <form>Rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m-wsj1655-001-p1s18W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6317,7 +6317,7 @@
 <LM>w#w-wsj1655-001-p1s19W12</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1655-001-p1s19W13-Ta">
 <src.rf>tagger-a</src.rf>

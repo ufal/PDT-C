@@ -2046,7 +2046,7 @@
 <form>Nejdřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------3A---5</AM>
-<AM lemma="brzy" src="manual" selected="1">Dg-------3A---1</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1469-001-p1s9W2-Ta">
@@ -3117,7 +3117,7 @@
 <LM>w#w-wsj1469-001-p1s12W28</LM>
 </w.rf>
 <form>postiženy</form>
-<tag lemma="postihnout" src="auto" recommended="1">VsTP----X-APP--</tag>
+<tag lemma="postihnout" src="auto" recommended="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-wsj1469-001-p1s12W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3125,7 +3125,7 @@
 <LM>w#w-wsj1469-001-p1s12W29</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1469-001-p1s12W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4562,7 +4562,7 @@
 <LM>w#w-wsj1469-001-p1s18W13</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1469-001-p1s18W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6874,7 +6874,7 @@
 <LM>w#w-wsj1469-001-p1s26W6</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1469-001-p1s26W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8152,7 +8152,7 @@
 <LM>w#w-wsj1469-001-p1s31W15</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1469-001-p1s31W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12717,7 +12717,7 @@
 <LM>w#w-wsj1469-001-p1s50W12</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1469-001-p1s50W13-Ta">
 <src.rf>tagger-a</src.rf>

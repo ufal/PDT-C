@@ -12,7 +12,7 @@
 <LM>w#w-d1t519-12</LM>
 </w.rf>
 <form>Teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m042-d1t519-13">
 <w.rf>
@@ -70,7 +70,7 @@
 <LM>w#w-d1t521-1</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m042-d1t521-2">
 <w.rf>
@@ -458,7 +458,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1" selected="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1" selected="1">ACQW------A----</tag>
 </m>
 <m id="m042-d1t575-4">
 <w.rf>
@@ -976,7 +976,7 @@
 <LM>w#w-d1t600-1</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m042-d1t600-2">
 <w.rf>
@@ -1847,7 +1847,7 @@
 <form>stane</form>
 <tag>
 <AM lemma="stanout_^(např._na_vrcholu)" src="auto">VB-S---3P-AAP--</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 <AM lemma="stan" src="auto">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -2485,7 +2485,7 @@
 <LM>w#w-d1t712-3</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m042-d1t712-4">
 <w.rf>
@@ -2561,7 +2561,7 @@
 <LM>w#w-d1t712-12</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m042-d-m-d1e703-x2-punct-punct">
 <w.rf>

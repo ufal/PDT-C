@@ -415,7 +415,7 @@
 <LM>w#w-d1t1258-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m985-d1t1258-5">
 <w.rf>
@@ -824,7 +824,7 @@
 <AM lemma="poklep" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="poklep" src="auto">NNIS3-----A----</AM>
 <AM lemma="poklep" src="auto">NNIS6-----A----</AM>
-<AM lemma="poklepat" src="auto" selected="1">VB-S---1P-AA---</AM>
+<AM lemma="poklepat" src="auto" selected="1">VB-S---1P-AAP-1</AM>
 </tag>
 </m>
 <m id="m985-d1t1284-10">
@@ -854,7 +854,7 @@
 <LM>w#w-d1t1289-1</LM>
 </w.rf>
 <form>Ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m985-d1t1289-2">
 <w.rf>
@@ -1621,7 +1621,7 @@
 <LM>w#w-d1t1321-5</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m985-d1t1321-6">
 <w.rf>
@@ -1948,7 +1948,7 @@
 <LM>w#w-d1t1336-7</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m985-d1t1336-8">
 <w.rf>
@@ -2730,7 +2730,7 @@
 <LM>w#w-d1t1388-11</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m985-2451-1863">
 <w.rf>
@@ -2904,7 +2904,7 @@
 <LM>w#w-d1t1403-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m985-d-id96476">
 <w.rf>
@@ -2918,7 +2918,7 @@
 <LM>w#w-d1t1403-5</LM>
 </w.rf>
 <form>abyste</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m985-d1t1405-2">
 <w.rf>
@@ -2963,7 +2963,7 @@
 <LM>w#w-d1t1405-1</LM>
 </w.rf>
 <form>cest</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m985-d1t1405-4">
 <w.rf>
@@ -2983,7 +2983,7 @@
 <LM>w#w-d1t1411-1</LM>
 </w.rf>
 <form>abyste</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m985-d1t1411-5">
 <w.rf>
@@ -3093,7 +3093,7 @@
 <LM>w#w-d1t1413-5</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m985-d1t1413-7">
 <w.rf>

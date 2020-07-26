@@ -1220,7 +1220,7 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČSD-1_;m_^(Čs._státní_dráhy)" src="manual" selected="1">BNFXX-----A----</AM>
+<AM lemma="ČSD_;m_^(Čs._státní_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m022-d-m-d1e706-x2-punct-punct">
@@ -1535,7 +1535,7 @@
 <LM>w#w-d1t741-7</LM>
 </w.rf>
 <form>jedou</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m022-d1t741-8">
 <w.rf>
@@ -2154,7 +2154,7 @@
 <LM>w#w-d1t792-9</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m022-d1e789-x2-690">
 <w.rf>
@@ -3291,7 +3291,7 @@
 <LM>w#w-d1t849-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m022-d1t849-3">
 <w.rf>

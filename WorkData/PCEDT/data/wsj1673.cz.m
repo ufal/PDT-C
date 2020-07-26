@@ -238,7 +238,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1673-001-p1s0W17-Ta">
@@ -384,7 +384,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1673-001-p1s0W28-Ta">
@@ -2131,7 +2131,7 @@
 </w.rf>
 <form>Montana</form>
 <tag>
-<AM lemma="Montana_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Montana-2_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Montanus_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Montanus_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="montana_;U_,t" src="auto">AAXXX----1A----</AM>
@@ -2202,7 +2202,7 @@
 <LM>w#w-wsj1673-001-p1s5W5</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1673-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>

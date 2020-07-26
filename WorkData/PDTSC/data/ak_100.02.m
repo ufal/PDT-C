@@ -679,7 +679,7 @@
 <LM>w#w-d1t560-5</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m100-d1t560-6">
 <w.rf>
@@ -1513,7 +1513,7 @@
 <LM>w#w-d1t582-18</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m100-d1t582-19">
 <w.rf>
@@ -3101,7 +3101,7 @@
 <LM>w#w-d1t650-7</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m100-d1t650-9">
 <w.rf>
@@ -4333,7 +4333,7 @@
 <LM>w#w-d1t698-4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m100-d1t698-5">
 <w.rf>

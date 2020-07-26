@@ -564,7 +564,7 @@
 <LM>w#w-mf930709-011-p2s4w4</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930709-011-p2s4w5">
 <src.rf>manual</src.rf>

@@ -2883,7 +2883,7 @@
 </w.rf>
 <form>Myslíme</form>
 <tag>
-<AM lemma="myslet" src="auto" selected="1">VB-P---1P-AAI--</AM>
+<AM lemma="myslit" src="auto" selected="1">VB-P---1P-AAI--</AM>
 <AM lemma="myslit" src="auto" recommended="1">VB-P---1P-AAI--</AM>
 </tag>
 </m>

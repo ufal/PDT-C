@@ -414,7 +414,7 @@
 <LM>w#w-lnd91301-037-p2s3w13</LM>
 </w.rf>
 <form>okénkem</form>
-<tag lemma="okénko_,e" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="okénko" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-lnd91301-037-p2s3w14">
 <src.rf>manual</src.rf>
@@ -424,7 +424,7 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="WC-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="WC_^(water_closet)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-037-p2s3w15">

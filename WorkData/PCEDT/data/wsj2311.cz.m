@@ -65,7 +65,7 @@
 <AM lemma="Concord_;m" src="auto">NNIS6-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS5-----A----</AM>
 <AM lemma="concorde_;m_,t_^(letadlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="concorde_;m_^(letadlo)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="concorde_^(letadlo)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2311-001-p1s0W5-Ta">

@@ -213,7 +213,7 @@
 <LM>w#w-lnd94103-092-p1s2w6</LM>
 </w.rf>
 <form>tapisériím</form>
-<tag lemma="tapisérie" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="tapisérie_,s_^(^DD**tapiserie)" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-lnd94103-092-p1s2w7">
 <src.rf>manual</src.rf>

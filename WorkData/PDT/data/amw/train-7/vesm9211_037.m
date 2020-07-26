@@ -100,7 +100,7 @@
 <LM>w#w-vesm9211-037-p1s1w11</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-vesm9211-037-p1s1w12">
 <src.rf>manual</src.rf>
@@ -440,7 +440,7 @@
 <LM>w#w-vesm9211-037-p2s1Bw22</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-vesm9211-037-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-vesm9211-037-p2s1Bw23</LM>
 </w.rf>
 <form>vydat</form>
-<tag lemma="vydat-3_^(se,_př._na_cestu)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9211-037-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-vesm9211-037-p2s2w12</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-vesm9211-037-p2s2w13">
 <src.rf>manual</src.rf>
@@ -866,7 +866,7 @@
 <LM>w#w-vesm9211-037-p2s4w7</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9211-037-p2s4w8">
 <src.rf>manual</src.rf>

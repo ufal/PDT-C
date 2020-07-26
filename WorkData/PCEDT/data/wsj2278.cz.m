@@ -766,7 +766,7 @@
 <LM>w#w-wsj2278-001-p1s3W5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2278-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2788,7 +2788,7 @@
 <LM>w#w-wsj2278-001-p1s7W33</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2278-001-p1s7W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2820,7 +2820,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -3098,7 +3098,7 @@
 <LM>w#w-wsj2278-001-p1s8W20</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2278-001-p1s8W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3977,7 +3977,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_;m" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>
@@ -6030,7 +6030,7 @@
 <LM>w#w-wsj2278-001-p1s19W4</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj2278-001-p1s19W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6862,7 +6862,7 @@
 <LM>w#w-wsj2278-001-p1s23W6</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj2278-001-p1s23W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9057,7 +9057,7 @@
 <form>ekonomicko</form>
 <tag>
 <AM lemma="ekonomický" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="ekonomicko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="ekonomicko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2278-001-p1s30W14-Ta">
@@ -11026,7 +11026,7 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="OSN-1_:B_^(Organizace_spojených_národů)" src="auto">NNXXX-----A---8</AM>
 </tag>
 </m>

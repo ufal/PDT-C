@@ -581,7 +581,7 @@
 <LM>w#w-ln95046-111-p2s4w19</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95046-111-p2s4w20">
 <src.rf>manual</src.rf>

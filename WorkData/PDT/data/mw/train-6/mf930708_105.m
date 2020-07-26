@@ -353,7 +353,7 @@
 <LM>w#w-mf930708-105-p2s4w5</LM>
 </w.rf>
 <form>vyňali</form>
-<tag lemma="vyjmout_,a" src="auto" selected="1">VpMP----R-AA---</tag>
+<tag lemma="vyjmout" src="auto" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930708-105-p2s4w6">
 <src.rf>manual</src.rf>

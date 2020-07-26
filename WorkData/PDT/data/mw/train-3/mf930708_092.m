@@ -21,7 +21,7 @@
 <form>ČSA</form>
 <tag>
 <AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSA-1_;m_^(Čs./České_aerolinie)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSA_;m_^(Čs./České_aerolinie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-092-p1s1w2">
@@ -54,7 +54,7 @@
 <LM>w#w-mf930708-092-p1s1w5</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf930708-092-p1s1w6">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-mf930708-092-p2s2w7</LM>
 </w.rf>
 <form>boeingů</form>
-<tag lemma="boeing_;m_^(letadlo)" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="boeing_^(letadlo)" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930708-092-p2s2w8">
 <src.rf>manual</src.rf>
@@ -1588,7 +1588,7 @@
 <LM>w#w-mf930708-092-p4s4w20</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-092-p4s4w21">
 <src.rf>manual</src.rf>

@@ -1069,7 +1069,7 @@
 <form>Hz</form>
 <tag>
 <AM lemma="Hz-1`hertz_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="hertz" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="hertz" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p3s2w13">
@@ -1164,7 +1164,7 @@
 <LM>w#w-vesm9212-003-p4s1w10</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9212-003-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1574,7 +1574,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p4s3w16">

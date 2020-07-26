@@ -1322,7 +1322,7 @@
 <form>dát</form>
 <tag>
 <AM lemma="dát" recommended="1">Vf--------A-P--</AM>
-<AM lemma="dát" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="dát-1" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="mu_15-SCzechM-p1546-s1-w5">
@@ -1504,7 +1504,7 @@
 <LM>w#w-mu_15-SCzechM-p1554-s1-w4</LM>
 </w.rf>
 <form>ahoj</form>
-<tag lemma="ahoj" recommended="1">TT-------------</tag>
+<tag lemma="ahoj" recommended="1">II-------------</tag>
 </m>
 <m id="mu_15-SCzechM-p1554-s1-w5">
 <w.rf>
@@ -1624,7 +1624,7 @@
 <LM>w#w-mu_15-SCzechM-p1556-s1-w9</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="mu_15-SCzechM-p1556-s1-w10">
 <w.rf>
@@ -1879,7 +1879,7 @@
 <form>PAMem</form>
 <tag>
 <AM lemma="Pam_;Y" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Pam_;Y_;m" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Pam_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="mu_15-SCzechM-p1557-s1-w3">
@@ -1947,7 +1947,7 @@
 <LM>w#w-mu_15-SCzechM-p1559-s1-w1</LM>
 </w.rf>
 <form>Rád</form>
-<tag lemma="rád" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" recommended="1">ACYS------A----</tag>
 </m>
 <m id="mu_15-SCzechM-p1559-s1-w2">
 <w.rf>
@@ -2155,7 +2155,7 @@
 <form>bych</form>
 <tag>
 <AM lemma="být" recommended="1">Vc-S---1-------</AM>
-<AM lemma="být" src="manual" selected="1">Vc-S---1----I--</AM>
+<AM lemma="být" src="manual" selected="1">Vc----------Ic-</AM>
 </tag>
 </m>
 <m id="mu_15-SCzechM-p1570-s1-w5">
@@ -3085,7 +3085,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -3216,7 +3216,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -4293,7 +4293,7 @@
 <tag>
 <AM lemma="ten" recommended="1">PDMP1----------</AM>
 <AM lemma="ty">PH-S3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PH-S3--2-------</AM>
+<AM lemma="ty" src="manual" selected="1">PH-S3--2-------</AM>
 </tag>
 </m>
 <m id="mu_15-SCzechM-p1616-s1-w4">

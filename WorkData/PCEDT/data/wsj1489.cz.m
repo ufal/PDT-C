@@ -96,7 +96,7 @@
 <LM>w#w-wsj1489-001-p1s0W9</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1489-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>

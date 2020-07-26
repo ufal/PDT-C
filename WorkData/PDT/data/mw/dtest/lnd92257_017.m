@@ -334,7 +334,7 @@
 <LM>w#w-lnd92257-017-p3s3w5</LM>
 </w.rf>
 <form>anesteziologicko</form>
-<tag lemma="anesteziologický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="anesteziologicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92257-017-p3s3w6">
 <src.rf>manual</src.rf>

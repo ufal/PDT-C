@@ -59,7 +59,7 @@
 <LM>w#w-d1t3726-3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m048-483-484">
 <w.rf>
@@ -118,7 +118,7 @@
 <LM>w#w-d1t3728-5</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m048-d1t3728-6">
 <w.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-d1e3706-x3-540</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-d1e3706-x3-539">
 <w.rf>
@@ -1238,7 +1238,7 @@
 <LM>w#w-d1t3767-17</LM>
 </w.rf>
 <form>nemohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m048-641-643">
 <w.rf>
@@ -1410,7 +1410,7 @@
 <LM>w#w-d1t3774-2</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m048-644-669">
 <w.rf>
@@ -1576,7 +1576,7 @@
 <LM>w#w-d1t3780-2</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-d1t3780-3">
 <w.rf>
@@ -1943,7 +1943,7 @@
 <LM>w#w-d1t3795-6</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-686-687">
 <w.rf>
@@ -2132,7 +2132,7 @@
 <LM>w#w-d1t3800-8</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m048-d1t3800-10">
 <w.rf>
@@ -2409,7 +2409,7 @@
 <LM>w#w-d1t3815-5</LM>
 </w.rf>
 <form>Myslela</form>
-<tag lemma="myslet" src="auto" recommended="1">VpQW----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpQW----R-AAI-1</tag>
 </m>
 <m id="m048-d1t3815-3">
 <w.rf>
@@ -3136,7 +3136,7 @@
 </w.rf>
 <form>Vydělám</form>
 <tag>
-<AM lemma="vydělat-1_^(peníze)" src="auto" recommended="1">VB-S---1P-AAP--</AM>
+<AM lemma="vydělat_^(kůže;peníze)" src="auto" recommended="1">VB-S---1P-AAP--</AM>
 <AM lemma="vydělat-2_:W_^(kůže)" src="auto">VB-S---1P-AA---</AM>
 </tag>
 </m>
@@ -3458,7 +3458,7 @@
 <LM>w#w-d1t3860-9</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-d1t3860-8">
 <w.rf>
@@ -3572,7 +3572,7 @@
 <LM>w#w-d1t3865-7</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-d1t3865-10">
 <w.rf>
@@ -3683,7 +3683,7 @@
 <LM>w#w-d1t3865-19</LM>
 </w.rf>
 <form>bys</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Is-</tag>
 </m>
 <m id="m048-d1t3865-21">
 <w.rf>
@@ -3778,7 +3778,7 @@
 <LM>w#w-d1t3867-5</LM>
 </w.rf>
 <form>vezmu</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VB-S---1P-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m048-792-794">
 <w.rf>
@@ -3801,7 +3801,7 @@
 <LM>w#w-d1t3867-9</LM>
 </w.rf>
 <form>Vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m048-d1t3867-8">
 <w.rf>
@@ -4308,7 +4308,7 @@
 <LM>w#w-d1t3882-9</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-d1t3882-8">
 <w.rf>
@@ -4409,7 +4409,7 @@
 <LM>w#w-d1t3886-5</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m048-d-id191758-punct">
 <w.rf>
@@ -4451,7 +4451,7 @@
 <LM>w#w-d1t3886-13</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m048-814-816">
 <w.rf>
@@ -4578,7 +4578,7 @@
 <LM>w#w-d1t3889-13</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m048-d1t3889-14">
 <w.rf>
@@ -5074,7 +5074,7 @@
 <LM>w#w-d1t3918-7</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m048-d-id193019-punct">
 <w.rf>

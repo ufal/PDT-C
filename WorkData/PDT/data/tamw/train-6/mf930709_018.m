@@ -346,7 +346,7 @@
 <form>ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
+<AM lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-018-p2s2Bw9">
@@ -647,7 +647,7 @@
 <LM>w#w-mf930709-018-p2s5w5</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930709-018-p2s5w6">
 <src.rf>manual</src.rf>
@@ -655,7 +655,7 @@
 <LM>w#w-mf930709-018-p2s5w6</LM>
 </w.rf>
 <form>vyňata</form>
-<tag lemma="vyjmout" src="orig" selected="1">VsQW----X-AP---</tag>
+<tag lemma="vyjmout" src="orig" selected="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-mf930709-018-p2s5w7">
 <src.rf>manual</src.rf>

@@ -163,7 +163,7 @@
 <LM>w#w-d1t2649-7</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m148-d1t2649-1">
 <w.rf>
@@ -287,7 +287,7 @@
 </w.rf>
 <form>jedu</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---1P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS2-----A----</AM>
 <AM lemma="jed" src="auto">NNIS3-----A----</AM>
 <AM lemma="jed" src="auto">NNIS6-----A----</AM>
@@ -456,7 +456,7 @@
 <LM>w#w-d1t2670-10</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m148-d1t2673-1">
 <w.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-d1t2709-2</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m148-d1t2711-2">
 <w.rf>
@@ -931,7 +931,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m148-d1t2726-1">
@@ -1028,7 +1028,7 @@
 <LM>w#w-d1t2733-3</LM>
 </w.rf>
 <form>dávalo</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m148-d-m-d1e2691-x2-punct-punct">
 <w.rf>
@@ -1299,7 +1299,7 @@
 <tag>
 <AM lemma="svobodný" src="auto" recommended="1">ACQW------A----</AM>
 <AM lemma="svobodno" src="manual">NNNS2-----A----</AM>
-<AM lemma="svobodna" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="svobodna_^(za_svobodna)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m148-417-430">
@@ -2741,7 +2741,7 @@
 <LM>w#w-d1t2851-1</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m148-d1t2851-2">
 <w.rf>
@@ -2898,7 +2898,7 @@
 <LM>w#w-d1t2862-5</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m148-d1t2862-6">
 <w.rf>
@@ -3491,7 +3491,7 @@
 <LM>w#w-d1e2886-x2-538</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m148-d1e2886-x2-539">
 <w.rf>
@@ -3582,7 +3582,7 @@
 <LM>w#w-d1t2897-1</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m148-d1t2900-1">
 <w.rf>
@@ -4833,7 +4833,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m148-d1t2999-3">
@@ -5052,7 +5052,7 @@
 <LM>w#w-d1t3012-3</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m148-d1t3012-4">
 <w.rf>
@@ -5725,7 +5725,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -6098,7 +6098,7 @@
 <LM>w#w-d1t3072-2</LM>
 </w.rf>
 <form>průmyslovku</form>
-<tag lemma="průmyslovka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="průmyslovka_,h" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m148-d-id136553-punct">
 <w.rf>

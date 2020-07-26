@@ -335,7 +335,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-2" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" recommended="1">Dg-------2A---1</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--1----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--2----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--3----------</AM>
@@ -2123,7 +2123,7 @@
 <LM>w#w-jh_16-SCzechM-p1667-s1-w1</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="jh_16-SCzechM-p1667-s1-w2">
 <w.rf>
@@ -2428,7 +2428,7 @@
 <LM>w#w-jh_16-SCzechM-p1670-s1-w7</LM>
 </w.rf>
 <form>Necháš</form>
-<tag lemma="nechat" recommended="1">VB-S---2P-AAI--</tag>
+<tag lemma="nechat" recommended="1">VB-S---2P-AAP--</tag>
 </m>
 <m id="jh_16-SCzechM-p1670-s1-w8">
 <w.rf>
@@ -2859,7 +2859,7 @@
 <LM>w#w-jh_16-SCzechM-p1676-s1-w20</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="jh_16-SCzechM-p1676-s1-w21">
 <w.rf>
@@ -2940,7 +2940,7 @@
 <LM>w#w-jh_16-SCzechM-p1676-s1-w29</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="jh_16-SCzechM-p1676-s1-w30">
 <w.rf>
@@ -3588,7 +3588,7 @@
 <LM>w#w-jh_16-SCzechM-p1696-s1-w1</LM>
 </w.rf>
 <form>rozmyslet</form>
-<tag lemma="rozmyslet" recommended="1">Vf--------A----</tag>
+<tag lemma="rozmyslit" recommended="1">Vf--------A-P-1</tag>
 </m>
 <m id="jh_16-SCzechM-p1696-s1-w2">
 <w.rf>
@@ -4066,7 +4066,7 @@
 <tag>
 <AM lemma="VW_:B_;m_,t_^(název_firmy/auta_Volkswagen)" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="VW-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="VW_;m_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_16-SCzechM-p1709-s1-w10">
@@ -4171,7 +4171,7 @@
 <LM>w#w-jh_16-SCzechM-p1716-s1-w5</LM>
 </w.rf>
 <form>nenechám</form>
-<tag lemma="nechat" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="nechat" recommended="1">VB-S---1P-NAP--</tag>
 </m>
 <m id="jh_16-SCzechM-p1716-s1-w6">
 <w.rf>
@@ -4187,7 +4187,7 @@
 <LM>w#w-jh_16-SCzechM-p1722-s1-w1</LM>
 </w.rf>
 <form>napadeny</form>
-<tag lemma="napadnout" recommended="1">VsTP----X-AP---</tag>
+<tag lemma="napadnout" recommended="1">VsTP----X-APP-1</tag>
 </m>
 <m id="jh_16-SCzechM-p1722-s1-w2">
 <w.rf>
@@ -4906,7 +4906,7 @@
 <LM>w#w-jh_16-SCzechM-p1730-s1-w23</LM>
 </w.rf>
 <form>snů</form>
-<tag lemma="sen" recommended="1">NNIP2-----A----</tag>
+<tag lemma="sen-1" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="jh_16-SCzechM-p1730-s1-w24">
 <w.rf>
@@ -5084,7 +5084,7 @@
 </w.rf>
 <form>Více</form>
 <tag>
-<AM lemma="hodně-2" recommended="1">Dg-------2A----</AM>
+<AM lemma="více" recommended="1">Dg-------2A----</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--1----------</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--2----------</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--3----------</AM>
@@ -5207,7 +5207,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-2" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" recommended="1">Dg-------2A---1</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--1----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--2----------</AM>
 <AM lemma="víc_^(víc_+_2._p.,_víc_peněz)">Ca--3----------</AM>

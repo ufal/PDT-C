@@ -176,7 +176,7 @@
 <LM>w#w-ln95049-048-p1s2w3</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-048-p1s2w4">
 <src.rf>manual</src.rf>

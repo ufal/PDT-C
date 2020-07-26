@@ -729,7 +729,7 @@
 <LM>w#w-ln95048-034-p2s5w1</LM>
 </w.rf>
 <form>Nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln95048-034-p2s5w2">
 <src.rf>manual</src.rf>
@@ -1207,7 +1207,7 @@
 <LM>w#w-ln95048-034-p3s1w15</LM>
 </w.rf>
 <form>nezřídka</form>
-<tag lemma="zřídka" src="orig" selected="1">Db--------N----</tag>
+<tag lemma="zřídka" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-ln95048-034-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1749,7 +1749,7 @@
 <LM>w#w-ln95048-034-p3s5w8</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95048-034-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1855,7 +1855,7 @@
 <LM>w#w-ln95048-034-p3s6w7</LM>
 </w.rf>
 <form>rolích</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln95048-034-p3s6w8">
 <src.rf>manual</src.rf>
@@ -3420,7 +3420,7 @@
 <LM>w#w-ln95048-034-p3s14w23</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95048-034-p3s14w24">
 <src.rf>manual</src.rf>
@@ -5158,7 +5158,7 @@
 <form>starostmi</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP7-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP7-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP7-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP7-----A----</AM>
 </tag>
 </m>

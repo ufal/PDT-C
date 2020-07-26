@@ -226,7 +226,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0723-001-p1s0W18-Ta">
@@ -4390,7 +4390,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0723-001-p1s15W11-Ta">
@@ -4642,7 +4642,7 @@
 <LM>w#w-wsj0723-001-p1s16W8</LM>
 </w.rf>
 <form>dávalo</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj0723-001-p1s16W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4848,7 +4848,7 @@
 <LM>w#w-wsj0723-001-p1s16W26</LM>
 </w.rf>
 <form>vázány</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" recommended="1">VsTP----X-API--</tag>
+<tag lemma="vázat" src="auto" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="m-wsj0723-001-p1s16W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6315,7 +6315,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0723-001-p1s21W38-Ta">

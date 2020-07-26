@@ -149,7 +149,7 @@
 <LM>w#w-ln94200-134-p2s1w12</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94200-134-p2s1w13">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-ln94200-134-p2s4w17</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94200-134-p2s4w18">
 <src.rf>manual</src.rf>
@@ -656,7 +656,7 @@
 <LM>w#w-ln94200-134-p2s4w29</LM>
 </w.rf>
 <form>Mňága</form>
-<tag lemma="Mňága_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mňága_;m" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-134-p2s4w30">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <tag>
 <AM lemma="Žďorp_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Žďorp" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Žďorp_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Žďorp_;m" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-134-p2s4w32">
@@ -928,7 +928,7 @@
 <LM>w#w-ln94200-134-p2s4w60</LM>
 </w.rf>
 <form>Lue</form>
-<tag lemma="Lue_;m" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Lu-3_;Y" src="orig" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-ln94200-134-p2s4w61">
 <src.rf>manual</src.rf>

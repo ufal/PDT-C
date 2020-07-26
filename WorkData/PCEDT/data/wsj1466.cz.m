@@ -761,7 +761,7 @@
 <LM>w#w-wsj1466-001-p1s1W24</LM>
 </w.rf>
 <form>podávala</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1466-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>

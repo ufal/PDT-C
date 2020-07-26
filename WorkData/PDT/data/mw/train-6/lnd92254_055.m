@@ -45,7 +45,7 @@
 <LM>w#w-lnd92254-055-p2s1w2</LM>
 </w.rf>
 <form>zastaveny</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VsTP----X-APP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 </s>
 <s id="m-lnd92254-055-p3s1">
@@ -97,7 +97,7 @@
 <LM>w#w-lnd92254-055-p3s2w1</LM>
 </w.rf>
 <form>Strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-055-p3s2w2">
 <src.rf>manual</src.rf>
@@ -164,7 +164,7 @@
 <LM>w#w-lnd92254-055-p3s2w9</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-055-p3s2w10">
 <src.rf>manual</src.rf>
@@ -180,7 +180,7 @@
 <LM>w#w-lnd92254-055-p3s2w11</LM>
 </w.rf>
 <form>Kurdů</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92254-055-p3s2w12">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-lnd92254-055-p3s4w10</LM>
 </w.rf>
 <form>irácko</form>
-<tag lemma="irácký" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="irácko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92254-055-p3s4w11">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-lnd92254-055-p3s5w19</LM>
 </w.rf>
 <form>jižně</form>
-<tag lemma="jižně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="jižně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92254-055-p3s5w20">
 <src.rf>manual</src.rf>
@@ -1131,7 +1131,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-055-p3s8w7">

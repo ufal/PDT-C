@@ -1014,7 +1014,7 @@
 <LM>w#w-mf920923-122-p2s7w3</LM>
 </w.rf>
 <form>Politika</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-122-p2s7w4">
 <src.rf>manual</src.rf>

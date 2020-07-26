@@ -684,7 +684,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95044-121-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1245,7 +1245,7 @@
 <LM>w#w-ln95044-121-p4s3w11</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-121-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1544,7 +1544,7 @@
 <form>vydaly</form>
 <tag>
 <AM lemma="vydat-4_:W_^(platit,_př._vydat_peníze,_v._se_ze_všeho)" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="vydat-4" src="manual" selected="1">VpTP----R-AAP--</AM>
+<AM lemma="vydat" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95044-121-p4s5w7">
@@ -1849,7 +1849,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-121-p5s2w5">
@@ -2006,7 +2006,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-121-p5s3w16">
@@ -2394,7 +2394,7 @@
 <LM>w#w-ln95044-121-p5s5w4</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95044-121-p5s5w5">
 <src.rf>manual</src.rf>

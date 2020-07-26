@@ -282,7 +282,7 @@
 <LM>w#w-ln94200-107-p2s1Bw27</LM>
 </w.rf>
 <form>počtvrté</form>
-<tag lemma="počtvrté" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="počtvrté" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94200-107-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-107-p2s3w16">
@@ -839,7 +839,7 @@
 <LM>w#w-ln94200-107-p2s5w8</LM>
 </w.rf>
 <form>diskusím</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-ln94200-107-p2s5w9">
 <src.rf>manual</src.rf>

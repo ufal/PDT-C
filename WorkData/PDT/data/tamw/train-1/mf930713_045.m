@@ -471,7 +471,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Fs-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-045-p2s5w5">
@@ -546,7 +546,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Fs-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-045-p2s5w15">
@@ -825,7 +825,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Fs-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-045-p2s7w9">
@@ -900,7 +900,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Fs-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-045-p2s7w18">
@@ -943,7 +943,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Fs-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-045-p2s7w23">
@@ -1178,7 +1178,7 @@
 <LM>w#w-mf930713-045-p2s9w4</LM>
 </w.rf>
 <form>předán</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930713-045-p2s9w5">
 <src.rf>manual</src.rf>
@@ -1212,7 +1212,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Fs-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-045-p2s9w9">
@@ -2238,7 +2238,7 @@
 <form>FS</form>
 <tag>
 <AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Fs-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-045-p2s18w9">
@@ -2515,7 +2515,7 @@
 <LM>w#w-mf930713-045-p2s21w12</LM>
 </w.rf>
 <form>hodinách</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930713-045-p2s21w13">
 <src.rf>manual</src.rf>

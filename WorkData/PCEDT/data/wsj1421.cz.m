@@ -1320,7 +1320,7 @@
 <LM>w#w-wsj1421-001-p1s4W23</LM>
 </w.rf>
 <form>myslet</form>
-<tag lemma="myslet" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="myslit" src="auto" recommended="1">Vf--------A-I-1</tag>
 </m>
 <m id="m-wsj1421-001-p1s4W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1566,7 +1566,7 @@
 <LM>w#w-wsj1421-001-p1s5W4</LM>
 </w.rf>
 <form>událostech</form>
-<tag lemma="událost_^(*3ý)" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="událost" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m-wsj1421-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3724,7 +3724,7 @@
 <LM>w#w-wsj1421-001-p1s10W17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1421-001-p1s10W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4913,7 +4913,7 @@
 <LM>w#w-wsj1421-001-p1s17W14</LM>
 </w.rf>
 <form>správně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1421-001-p1s17W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9159,7 +9159,7 @@
 <LM>w#w-wsj1421-001-p1s30W11</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1421-001-p1s30W12-Ta">
 <src.rf>tagger-a</src.rf>

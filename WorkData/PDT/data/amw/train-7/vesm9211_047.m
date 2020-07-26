@@ -147,7 +147,7 @@
 <LM>w#w-vesm9211-047-p2s1w2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-vesm9211-047-p2s1w3">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-vesm9211-047-p7s1w10</LM>
 </w.rf>
 <form>jedeš</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---2P-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-S---2P-AAI--</tag>
 </m>
 <m id="m-vesm9211-047-p7s1w11">
 <src.rf>manual</src.rf>

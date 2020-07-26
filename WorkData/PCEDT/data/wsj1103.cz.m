@@ -1059,7 +1059,7 @@
 <LM>w#w-wsj1103-001-p1s2W8</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1103-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6881,7 +6881,7 @@
 </w.rf>
 <form>zabředlo</form>
 <tag>
-<AM lemma="zabřednout" src="auto" recommended="1">VpNS----R-AAP--</AM>
+<AM lemma="zabřednout" src="auto" recommended="1">VpNS----R-AAP-1</AM>
 <AM lemma="zabřednout" src="auto">VpNS----R-AAP-1</AM>
 </tag>
 </m>

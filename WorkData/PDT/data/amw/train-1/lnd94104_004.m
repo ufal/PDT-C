@@ -61,7 +61,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="jaro" src="orig">NNNP2-----A----</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-004-p1s1w7">

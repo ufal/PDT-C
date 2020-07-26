@@ -311,7 +311,7 @@
 <LM>w#w-lnd92253-013-p2s2w21</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92253-013-p2s2w22">
 <src.rf>manual</src.rf>
@@ -1953,7 +1953,7 @@
 <LM>w#w-lnd92253-013-p2s8w29</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92253-013-p2s8w30">
 <src.rf>manual</src.rf>
@@ -2054,7 +2054,7 @@
 <LM>w#w-lnd92253-013-p2s8w40</LM>
 </w.rf>
 <form>předá</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92253-013-p2s8w41">
 <src.rf>manual</src.rf>

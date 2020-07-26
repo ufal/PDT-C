@@ -1179,7 +1179,7 @@
 <LM>w#w-d1t2984-1</LM>
 </w.rf>
 <form>Nejdřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m016-d1t2984-2">
 <w.rf>
@@ -2629,7 +2629,7 @@
 <form>škoda</form>
 <tag>
 <AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="škoda" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m016-d1e3069-x4-2402">
@@ -2653,7 +2653,7 @@
 <LM>w#w-d1t3080-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m016-d1t3080-3">
 <w.rf>
@@ -2779,7 +2779,7 @@
 <LM>w#w-d1t3086-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m016-d1t3086-7">
 <w.rf>
@@ -2819,7 +2819,7 @@
 <LM>w#w-d1t3092-3</LM>
 </w.rf>
 <form>rádo</form>
-<tag lemma="rád" src="auto" recommended="1">ACNS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACNS------A----</tag>
 </m>
 <m id="m016-d1t3092-4">
 <w.rf>

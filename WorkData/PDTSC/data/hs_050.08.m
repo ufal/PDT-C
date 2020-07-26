@@ -393,7 +393,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m050-d1e2271-x2-315">
@@ -545,7 +545,7 @@
 <LM>w#w-d1t2295-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="zač" src="auto" recommended="1">PY-------------</tag>
+<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m050-d-id135119-punct">
 <w.rf>
@@ -3196,7 +3196,7 @@
 <LM>w#w-d1t2461-2</LM>
 </w.rf>
 <form>Teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m050-d1t2461-3">
 <w.rf>
@@ -3441,7 +3441,7 @@
 <LM>w#w-d1t2486-5</LM>
 </w.rf>
 <form>nedám</form>
-<tag lemma="dát" src="auto" recommended="1">VB-S---1P-NAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-S---1P-NAP--</tag>
 </m>
 <m id="m050-d1t2486-6">
 <w.rf>
@@ -3517,7 +3517,7 @@
 </w.rf>
 <form>půl</form>
 <tag>
-<AM lemma="půl-1" src="auto" selected="1">ClXS1----------</AM>
+<AM lemma="půl-1" src="auto" selected="1">Cl-XX----------</AM>
 <AM lemma="půl-1" src="auto">ClXS2----------</AM>
 <AM lemma="půl-1" src="auto">ClXS3----------</AM>
 <AM lemma="půl-1" src="auto">ClXS4----------</AM>
@@ -3784,7 +3784,7 @@
 <LM>w#w-d1t2502-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m050-d1t2502-2">
 <w.rf>
@@ -3889,7 +3889,7 @@
 </w.rf>
 <form>vydělává</form>
 <tag>
-<AM lemma="vydělávat-1_^(peníze)_(*6at-1)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="vydělávat_^(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="vydělávat-2_:T_^(kůže)_(*6at-2)" src="auto">VB-S---3P-AA---</AM>
 </tag>
 </m>
@@ -4076,7 +4076,7 @@
 <LM>w#w-d1t2515-8</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m050-d1e2510-x2-160">
 <w.rf>

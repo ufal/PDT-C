@@ -114,7 +114,7 @@
 <LM>w#w-lnd92251-084-p2s1w4</LM>
 </w.rf>
 <form>rolích</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92251-084-p3s1">
@@ -294,7 +294,7 @@
 <LM>w#w-lnd92251-084-p3s3w3</LM>
 </w.rf>
 <form>rolích</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-lnd92251-084-p3s3w4">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-lnd92251-084-p3s5w10</LM>
 </w.rf>
 <form>potřetí</form>
-<tag lemma="potřetí" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="potřetí" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92251-084-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1221,7 +1221,7 @@
 <LM>w#w-lnd92251-084-p4s3w15</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-lnd92251-084-p4s3w16">
 <src.rf>manual</src.rf>
@@ -2979,7 +2979,7 @@
 <form>prodl</form>
 <tag>
 <AM lemma="prodloužení_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="prodloužení" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="prodloužení" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-084-p6s1w48">
@@ -3320,7 +3320,7 @@
 <LM>w#w-lnd92251-084-p7s4w5</LM>
 </w.rf>
 <form>Rangers</form>
-<tag lemma="Rangers_;m" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Rangers-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-lnd92251-084-p7s4w6">
 <src.rf>manual</src.rf>

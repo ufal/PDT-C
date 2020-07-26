@@ -3548,7 +3548,7 @@
 <LM>w#w-wsj1951-001-p1s12W4</LM>
 </w.rf>
 <form>prozatímně</form>
-<tag lemma="prozatímně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="prozatímně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1951-001-p1s12W5-Ta">
 <src.rf>tagger-a</src.rf>

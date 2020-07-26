@@ -30,7 +30,7 @@
 <LM>w#w-wsj2401-001-p1s0W2</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-wsj2401-001-p1s1">
@@ -180,7 +180,7 @@
 <LM>w#w-wsj2401-001-p1s1W11</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj2401-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-wsj2401-001-p1s4W15</LM>
 </w.rf>
 <form>přistiženi</form>
-<tag lemma="přistihnout" src="auto" recommended="1">VsMP----X-APP--</tag>
+<tag lemma="přistihnout" src="auto" recommended="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-wsj2401-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>

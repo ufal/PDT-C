@@ -892,7 +892,7 @@
 <LM>w#w-wsj0105-001-p1s3W8</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0105-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1793,7 +1793,7 @@
 <LM>w#w-wsj0105-001-p1s7W14</LM>
 </w.rf>
 <form>nemocemi</form>
-<tag lemma="nemoc_^(choroba)" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="nemoc" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj0105-001-p1s7W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2702,7 +2702,7 @@
 <LM>w#w-wsj0105-001-p1s9W32</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj0105-001-p1s9W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6145,7 +6145,7 @@
 <LM>w#w-wsj0105-001-p1s19W19</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m-wsj0105-001-p1s19W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7126,7 +7126,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0105-001-p1s24W12-Ta">
@@ -8394,7 +8394,7 @@
 <LM>w#w-wsj0105-001-p1s28W20</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0105-001-p1s28W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9816,7 +9816,7 @@
 <LM>w#w-wsj0105-001-p1s31W17</LM>
 </w.rf>
 <form>abyste</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m-wsj0105-001-p1s31W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10256,7 +10256,7 @@
 <LM>w#w-wsj0105-001-p1s33W2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0105-001-p1s33W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10844,7 +10844,7 @@
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNP4-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNP5-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNS2-----A----</AM>
-<AM lemma="Karolína-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Karolína_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 </s>

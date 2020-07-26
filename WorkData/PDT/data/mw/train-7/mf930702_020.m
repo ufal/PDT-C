@@ -136,7 +136,7 @@
 <LM>w#w-mf930702-020-p2s1w10</LM>
 </w.rf>
 <form>popáté</form>
-<tag lemma="popáté" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="popáté" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930702-020-p2s1w11">
 <src.rf>manual</src.rf>

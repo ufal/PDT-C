@@ -690,7 +690,7 @@
 <LM>w#w-ln94204-109-p2s2w38</LM>
 </w.rf>
 <form>nezastavil</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpYS----R-NAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94204-109-p2s2w39">
 <src.rf>manual</src.rf>

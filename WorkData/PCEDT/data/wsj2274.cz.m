@@ -881,7 +881,7 @@
 <LM>w#w-wsj2274-001-p1s3W31</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2274-001-p1s3W32-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1806,7 +1806,7 @@
 <LM>w#w-mf930708-135-p4s4w3</LM>
 </w.rf>
 <form>Martinou</form>
-<tag lemma="Martina_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Martina_;G_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf930708-135-p4s4w4">
 <src.rf>manual</src.rf>
@@ -2133,7 +2133,7 @@
 <LM>w#w-mf930708-135-p4s6w18</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930708-135-p4s6w19">
 <src.rf>manual</src.rf>

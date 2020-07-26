@@ -1598,7 +1598,7 @@
 <LM>w#w-d1t704-6</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m147-d1t704-7">
 <w.rf>
@@ -1609,7 +1609,7 @@
 <AM lemma="táhlo" src="auto">NNNS1-----A----</AM>
 <AM lemma="táhlo" src="auto">NNNS4-----A----</AM>
 <AM lemma="táhlo" src="auto">NNNS5-----A----</AM>
-<AM lemma="táhnout" src="auto" recommended="1">VpNS----R-AAP-1</AM>
+<AM lemma="táhnout" src="auto" recommended="1">VpNS----R-AAI-1</AM>
 </tag>
 </m>
 <m id="m147-645-646">
@@ -1676,7 +1676,7 @@
 <AM lemma="zatlít_,s" src="auto">Vi-S---2--A----</AM>
 <AM lemma="zatlít_,s" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="zatnout_,x" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="zatnout" src="manual" selected="1">VpMP----R-AA---</AM>
+<AM lemma="zatnout" src="manual" selected="1">VpMP----R-AAP-2</AM>
 </tag>
 </m>
 <m id="m147-d1t704-18">
@@ -2332,7 +2332,7 @@
 </w.rf>
 <form>více</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="více" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -2344,7 +2344,7 @@
 <tag>
 <AM lemma="málo-3" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="méně" src="auto">Ca--X----------</AM>
-<AM lemma="málo-3_^(málo_důsledný)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="méně" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m147-d1t715-7">
@@ -2449,7 +2449,7 @@
 <LM>w#w-d1t720-5</LM>
 </w.rf>
 <form>Teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m147-d1t720-7">
 <w.rf>
@@ -4959,7 +4959,7 @@
 </w.rf>
 <form>Víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>

@@ -354,7 +354,7 @@
 <LM>w#w-d1t943-3</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m023-d1t943-4">
 <w.rf>
@@ -1021,7 +1021,7 @@
 <LM>w#w-d1t990-1</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m023-d1t990-2">
 <w.rf>
@@ -1362,7 +1362,7 @@
 <LM>w#w-d1t1020-1</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m023-d1t1020-2">
 <w.rf>
@@ -1467,7 +1467,7 @@
 <AM lemma="táhlo" src="auto">NNNS1-----A----</AM>
 <AM lemma="táhlo" src="auto">NNNS4-----A----</AM>
 <AM lemma="táhlo" src="auto">NNNS5-----A----</AM>
-<AM lemma="táhnout" src="auto" recommended="1">VpNS----R-AAP-1</AM>
+<AM lemma="táhnout" src="auto" recommended="1">VpNS----R-AAI-1</AM>
 </tag>
 </m>
 <m id="m023-d1t1034-5">
@@ -2007,7 +2007,7 @@
 <LM>w#w-d1t1059-13</LM>
 </w.rf>
 <form>Mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m023-d1t1059-12">
 <w.rf>
@@ -2124,7 +2124,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m023-d1e1064-x2-1085">
@@ -2295,7 +2295,7 @@
 <LM>w#w-d1t1083-7</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m023-d1t1083-8">
 <w.rf>
@@ -2740,7 +2740,7 @@
 <LM>w#w-d1t1114-4</LM>
 </w.rf>
 <form>Můžou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m023-d1t1114-3">
 <w.rf>
@@ -3737,7 +3737,7 @@
 </w.rf>
 <form>vydělal</form>
 <tag>
-<AM lemma="vydělat-1_^(peníze)" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="vydělat_^(kůže;peníze)" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="vydělat-2_:W_^(kůže)" src="auto">VpYS---XR-AA---</AM>
 </tag>
 </m>
@@ -5261,7 +5261,7 @@
 <LM>w#w-d1t1264-9</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m023-d-id86393-punct">
 <w.rf>

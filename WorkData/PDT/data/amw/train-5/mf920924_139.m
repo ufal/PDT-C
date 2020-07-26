@@ -59,7 +59,7 @@
 <LM>w#w-mf920924-139-p1s1w6</LM>
 </w.rf>
 <form>izraelsko</form>
-<tag lemma="izraelský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="izraelsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf920924-139-p1s1w7">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-mf920924-139-p2s2w10</LM>
 </w.rf>
 <form>izraelsko</form>
-<tag lemma="izraelský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="izraelsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf920924-139-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1215,7 +1215,7 @@
 <form>Lawrencem</form>
 <tag>
 <AM lemma="Lawrence_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Lawrenc_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-139-p5s3w29">
@@ -1292,7 +1292,7 @@
 <LM>w#w-mf920924-139-p5s5w1</LM>
 </w.rf>
 <form>Můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-mf920924-139-p5s5w2">
 <src.rf>manual</src.rf>

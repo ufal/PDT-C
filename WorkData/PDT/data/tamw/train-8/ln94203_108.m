@@ -46,7 +46,7 @@
 <LM>w#w-ln94203-108-p2s1Aw1</LM>
 </w.rf>
 <form>Bordeaux</form>
-<tag lemma="Bordeaux_;G" src="auto" selected="1">NNXXX-----A----</tag>
+<tag lemma="Bordeaux_;G_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-108-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-ln94203-108-p3s3w14</LM>
 </w.rf>
 <form>prostředkem</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94203-108-p3s3w15">
 <src.rf>manual</src.rf>

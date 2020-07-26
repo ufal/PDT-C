@@ -167,7 +167,7 @@
 <LM>w#w-cmpr9407-020-p13s1w7</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-cmpr9407-020-p13s1w8">
 <src.rf>manual</src.rf>

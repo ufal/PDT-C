@@ -59,7 +59,7 @@
 <LM>w#w-wsj1817-001-p1s0W5</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1817-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -749,7 +749,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_;m" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>
@@ -1066,7 +1066,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_;m" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>
@@ -1161,7 +1161,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_;m" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>
@@ -1550,7 +1550,7 @@
 <LM>w#w-wsj1817-001-p1s4W13</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1817-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4840,7 +4840,7 @@
 <LM>w#w-wsj1817-001-p1s12W18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1817-001-p1s12W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5509,7 +5509,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -6606,7 +6606,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_;m" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>
@@ -7206,7 +7206,7 @@
 <LM>w#w-wsj1817-001-p1s21W4</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1817-001-p1s21W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8212,7 +8212,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_;m" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>
@@ -8493,7 +8493,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_;m" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>
@@ -9351,7 +9351,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_;m" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>
@@ -9471,7 +9471,7 @@
 <LM>w#w-wsj1817-001-p1s30W13</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj1817-001-p1s30W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10307,7 +10307,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_;m" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>
@@ -10585,7 +10585,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_;m" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>
@@ -10697,7 +10697,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_;m" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>

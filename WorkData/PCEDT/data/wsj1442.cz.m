@@ -118,7 +118,7 @@
 </w.rf>
 <form>dnem</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNS7-----A----</AM>
 </tag>
 </m>
@@ -4408,7 +4408,7 @@
 <LM>w#w-wsj1442-001-p1s12W17</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1442-001-p1s12W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5947,7 +5947,7 @@
 <LM>w#w-wsj1442-001-p1s17W12</LM>
 </w.rf>
 <form>spořitelen</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1442-001-p1s17W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5995,7 +5995,7 @@
 <LM>w#w-wsj1442-001-p1s18W1</LM>
 </w.rf>
 <form>Nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1442-001-p1s18W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6372,7 +6372,7 @@
 <LM>w#w-wsj1442-001-p1s19W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1442-001-p1s19W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7560,7 +7560,7 @@
 <LM>w#w-wsj1442-001-p1s23W4</LM>
 </w.rf>
 <form>spořitelen</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1442-001-p1s23W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7761,7 +7761,7 @@
 <LM>w#w-wsj1442-001-p1s23W15</LM>
 </w.rf>
 <form>spořitelen</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1442-001-p1s23W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7976,7 +7976,7 @@
 <LM>w#w-wsj1442-001-p1s24W9</LM>
 </w.rf>
 <form>spořitelen</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1442-001-p1s24W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10724,7 +10724,7 @@
 <form>škoda</form>
 <tag>
 <AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="škoda" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1442-001-p1s31W10-Ta">
@@ -13683,7 +13683,7 @@
 <LM>w#w-wsj1442-001-p1s40W20</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1442-001-p1s40W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14736,7 +14736,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1442-001-p1s44W13-Ta">
@@ -16863,7 +16863,7 @@
 <form>BB</form>
 <tag>
 <AM lemma="BB_:B" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="BB-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="BB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1442-001-p1s50W23-Ta">
@@ -16894,7 +16894,7 @@
 <form>BB</form>
 <tag>
 <AM lemma="BB_:B" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="BB-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="BB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1442-001-p1s50W26-Ta">
@@ -18277,7 +18277,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>

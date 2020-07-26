@@ -87,7 +87,7 @@
 <LM>w#w-cmpr9415-006-p3s1w3</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-006-p3s1w4">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <AM lemma="město_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="m-1_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="moře_:B" src="manual">NNNS7-----A---8</AM>
-<AM lemma="moře" src="manual" selected="1">NNNXX-----A---b</AM>
+<AM lemma="moře" src="manual" selected="1">NNNS7-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-006-p9s1w19">
@@ -750,7 +750,7 @@
 <LM>w#w-cmpr9415-006-p9s2w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-006-p9s2w7">
 <src.rf>manual</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-cmpr9415-006-p10s1w8</LM>
 </w.rf>
 <form>WC</form>
-<tag lemma="WC" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="WC_^(water_closet)" src="orig" selected="1">BNNXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-006-p10s1w9">
 <src.rf>manual</src.rf>
@@ -1152,7 +1152,7 @@
 <LM>w#w-cmpr9415-006-p10s2w9</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-006-p10s2w10">
 <src.rf>manual</src.rf>

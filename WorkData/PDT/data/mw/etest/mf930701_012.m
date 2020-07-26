@@ -51,7 +51,7 @@
 <LM>w#w-mf930701-012-p1s1w5</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-mf930701-012-p1s1w6">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-mf930701-012-p2s3w2</LM>
 </w.rf>
 <form>Kurdů</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930701-012-p2s3w3">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-mf930701-012-p2s4w8</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930701-012-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1085,7 +1085,7 @@
 <LM>w#w-mf930701-012-p4s1w15</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-mf930701-012-p4s1w16">
 <src.rf>manual</src.rf>

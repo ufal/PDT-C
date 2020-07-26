@@ -49,7 +49,7 @@
 <LM>w#w-d1t257-15</LM>
 </w.rf>
 <form>myslel</form>
-<tag lemma="myslet" src="auto" recommended="1">VpYS----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m797-d-id69085">
 <w.rf>
@@ -1096,7 +1096,7 @@
 <LM>w#w-d1t281-17</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m797-d1t281-18">
 <w.rf>
@@ -2035,7 +2035,7 @@
 <LM>w#w-d1t307-1</LM>
 </w.rf>
 <form>Dříve</form>
-<tag lemma="brzy" src="auto" recommended="1" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m797-d1t307-2">
 <w.rf>
@@ -2920,7 +2920,7 @@
 <form>matku</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS4-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m797-d1t324-18">
@@ -3600,7 +3600,7 @@
 <LM>w#w-d1t348-8</LM>
 </w.rf>
 <form>sehnat</form>
-<tag lemma="sehnat" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="sehnat_^(shánět)" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m797-d1t348-9">
 <w.rf>
@@ -4514,7 +4514,7 @@
 <LM>w#w-d1t407-9</LM>
 </w.rf>
 <form>pektoris</form>
-<tag lemma="pectoris" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag lemma="pektoris-77" src="auto" recommended="1">F%-------------</tag>
 </m>
 <m id="m797-d1e396-x3-2754">
 <w.rf>
@@ -4805,7 +4805,7 @@
 <LM>w#w-d1t413-7</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m797-d1t413-10">
 <w.rf>
@@ -4920,14 +4920,14 @@
 <LM>w#w-d1t415-6</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m797-d1t415-8">
 <w.rf>
 <LM>w#w-d1t415-8</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m797-d1t415-9">
 <w.rf>
@@ -5132,7 +5132,7 @@
 <LM>w#w-d1t434-2</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m797-d1t434-3">
 <w.rf>
@@ -5179,7 +5179,7 @@
 <LM>w#w-d1t447-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m797-d1t447-4">
 <w.rf>
@@ -5387,7 +5387,7 @@
 <LM>w#w-d1t462-1</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m797-d1t462-2">
 <w.rf>
@@ -5661,7 +5661,7 @@
 <LM>w#w-d1t477-10</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m797-d-id79171">
 <w.rf>
@@ -5684,7 +5684,7 @@
 <LM>w#w-d1t481-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m797-d1t481-4">
 <w.rf>
@@ -5747,7 +5747,7 @@
 <LM>w#w-d1t485-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m797-d1t485-3">
 <w.rf>
@@ -5969,7 +5969,7 @@
 <tag>
 <AM lemma="svobodný" src="auto" recommended="1">ACQW------A----</AM>
 <AM lemma="svobodno" src="manual">NNNS2-----A----</AM>
-<AM lemma="svobodna" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="svobodna_^(za_svobodna)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m797-d-id79837">

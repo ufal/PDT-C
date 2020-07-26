@@ -4257,7 +4257,7 @@
 <LM>w#w-wsj1622-001-p1s17W16</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj1622-001-p1s17W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4436,7 +4436,7 @@
 <LM>w#w-wsj1622-001-p1s17W33</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1622-001-p1s17W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7017,7 +7017,7 @@
 <LM>w#w-wsj1622-001-p1s25W28</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1622-001-p1s25W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9438,7 +9438,7 @@
 <LM>w#w-wsj1622-001-p1s32W28</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-wsj1622-001-p1s32W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9538,7 +9538,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1622-001-p1s33W2-Ta">

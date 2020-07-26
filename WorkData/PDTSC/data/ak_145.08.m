@@ -1308,7 +1308,7 @@
 <LM>w#w-d1t1488-7</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m145-d1t1488-8">
 <w.rf>
@@ -1349,7 +1349,7 @@
 <LM>w#w-d1t1504-3</LM>
 </w.rf>
 <form>bonsajů</form>
-<tag lemma="bonsaj" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="bonsaj-2" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m145-d-id125409-punct">
 <w.rf>
@@ -1365,14 +1365,14 @@
 <LM>w#w-d1t1508-2</LM>
 </w.rf>
 <form>Abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m145-d1t1508-3">
 <w.rf>
 <LM>w#w-d1t1508-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m145-d1t1508-5">
 <w.rf>
@@ -1532,7 +1532,7 @@
 <LM>w#w-d1t1512-13</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m145-d1t1512-14">
 <w.rf>
@@ -2137,7 +2137,7 @@
 <LM>w#w-d1t1547-2</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m145-d-id127318-punct">
 <w.rf>
@@ -2691,7 +2691,7 @@
 <LM>w#w-d1t1569-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m145-d1t1569-3">
 <w.rf>
@@ -2791,7 +2791,7 @@
 <LM>w#w-d1t1569-14</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m145-d1t1569-15">
 <w.rf>
@@ -2991,7 +2991,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -3418,7 +3418,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>

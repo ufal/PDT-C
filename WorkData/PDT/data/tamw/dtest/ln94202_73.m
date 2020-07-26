@@ -630,7 +630,7 @@
 <LM>w#w-ln94202-73-p2s3w19</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94202-73-p2s3w20">
 <src.rf>manual</src.rf>

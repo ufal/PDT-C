@@ -1036,7 +1036,7 @@
 <LM>w#w-wsj1712-001-p1s2W23</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1712-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3120,7 +3120,7 @@
 <LM>w#w-wsj1712-001-p1s9W6</LM>
 </w.rf>
 <form>nechalo</form>
-<tag lemma="nechat" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1712-001-p1s9W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4128,7 +4128,7 @@
 <LM>w#w-wsj1712-001-p1s12W18</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1712-001-p1s12W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6067,7 +6067,7 @@
 <LM>w#w-wsj1712-001-p1s17W17</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1712-001-p1s17W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6213,7 +6213,7 @@
 <LM>w#w-wsj1712-001-p1s17W29</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj1712-001-p1s17W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6798,7 +6798,7 @@
 <LM>w#w-wsj1712-001-p1s19W7</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1712-001-p1s19W8-Ta">
 <src.rf>tagger-a</src.rf>

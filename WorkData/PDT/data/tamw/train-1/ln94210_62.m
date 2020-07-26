@@ -577,7 +577,7 @@
 <LM>w#w-ln94210-62-p3s2w7</LM>
 </w.rf>
 <form>Stranou</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94210-62-p3s2w8">
 <src.rf>manual</src.rf>

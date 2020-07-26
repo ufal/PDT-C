@@ -93,7 +93,7 @@
 <LM>w#w-cmpr9406-018-p2s1w7</LM>
 </w.rf>
 <form>PF</form>
-<tag lemma="PF" src="auto" selected="1">NNXXX-----A---b</tag>
+<tag lemma="PF-88" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9406-018-p2s1w8">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <form>mm</form>
 <tag>
 <AM lemma="mm-1`milimetr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-018-p6s1w5">
@@ -358,7 +358,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-018-p7s1w5">
@@ -537,7 +537,7 @@
 <form>kg</form>
 <tag>
 <AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-018-p8s2w8">

@@ -83,7 +83,7 @@
 <LM>w#w-ln95040-148-p1s1w9</LM>
 </w.rf>
 <form>kupónovku</form>
-<tag lemma="kupónovka_,h" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="kupónovka" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95040-148-p1s1w10">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-148-p1s2w7">
@@ -352,7 +352,7 @@
 <LM>w#w-ln95040-148-p3s1Bw13</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95040-148-p3s1Bw14">
 <src.rf>manual</src.rf>
@@ -1082,7 +1082,7 @@
 <LM>w#w-ln95040-148-p5s1w4</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95040-148-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1266,7 +1266,7 @@
 <form>Nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-148-p5s3w2">
@@ -1285,7 +1285,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-148-p5s3w4">
@@ -2007,7 +2007,7 @@
 <LM>w#w-ln95040-148-p6s1w7</LM>
 </w.rf>
 <form>zaměstnává</form>
-<tag lemma="zaměstnávat-1_^(všeob._význam:_činnost,_zaměstnání)_(*6at-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="zaměstnávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95040-148-p6s1w8">
 <src.rf>manual</src.rf>

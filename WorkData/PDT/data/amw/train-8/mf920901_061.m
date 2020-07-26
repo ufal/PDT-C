@@ -255,7 +255,7 @@
 <LM>w#w-mf920901-061-p2s2w11</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920901-061-p2s2w12">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <form>sehnat</form>
 <tag>
 <AM lemma="sehnat" src="orig">Vf--------A----</AM>
-<AM lemma="sehnat" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="sehnat_^(shánět)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-mf920901-061-p2s5w8">
@@ -887,7 +887,7 @@
 <LM>w#w-mf920901-061-p2s8w10</LM>
 </w.rf>
 <form>abyste</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---2-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------e-</tag>
 </m>
 <m id="m-mf920901-061-p2s8w12">
 <src.rf>manual</src.rf>

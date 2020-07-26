@@ -101,7 +101,7 @@
 <LM>w#w-mf930701-006-p2s1w5</LM>
 </w.rf>
 <form>dávali</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930701-006-p2s1w6">
 <src.rf>manual</src.rf>
@@ -1387,7 +1387,7 @@
 <LM>w#w-mf930701-006-p4s2w8</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-006-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1451,7 +1451,7 @@
 <LM>w#w-mf930701-006-p4s2w16</LM>
 </w.rf>
 <form>uraniem</form>
-<tag lemma="uranium_;U" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="uranium" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930701-006-p4s2w17">
 <src.rf>manual</src.rf>

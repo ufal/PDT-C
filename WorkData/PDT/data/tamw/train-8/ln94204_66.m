@@ -61,7 +61,7 @@
 <LM>w#w-ln94204-66-p2s1Aw4</LM>
 </w.rf>
 <form>vet</form>
-<tag lemma="vet-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="vet-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-66-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-66-p2s1Bw9">
@@ -262,7 +262,7 @@
 <LM>w#w-ln94204-66-p2s1Bw22</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94204-66-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč" src="auto" recommended="1" selected="1">NNFXX-----A---b</AM>
+<AM lemma="Kč_^(koruna_česká)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-66-p2s2w9">

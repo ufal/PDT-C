@@ -279,7 +279,7 @@
 <LM>w#w-lnd91303-054-p2s1w5</LM>
 </w.rf>
 <form>nejhůř</form>
-<tag lemma="špatně" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="hůře" src="orig" selected="1">Dg-------3A---1</tag>
 </m>
 <m id="m-lnd91303-054-p2s1w6">
 <src.rf>manual</src.rf>
@@ -1065,7 +1065,7 @@
 <LM>w#w-lnd91303-054-p7s1w4</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91303-054-p7s1w5">
 <src.rf>manual</src.rf>
@@ -1514,7 +1514,7 @@
 <LM>w#w-lnd91303-054-p10s1w12</LM>
 </w.rf>
 <form>PAVEL</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-054-p10s1w13">
 <src.rf>manual</src.rf>

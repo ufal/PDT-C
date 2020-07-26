@@ -331,7 +331,7 @@
 </w.rf>
 <form>AT</form>
 <tag>
-<AM lemma="AT" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AT-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="At-77" src="auto">F%-------------</AM>
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at-77" src="auto">F%-------------</AM>
@@ -795,7 +795,7 @@
 <LM>w#w-wsj1064-001-p1s2W3</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1064-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -888,7 +888,7 @@
 </w.rf>
 <form>AT</form>
 <tag>
-<AM lemma="AT" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AT-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="At-77" src="auto">F%-------------</AM>
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at-77" src="auto">F%-------------</AM>
@@ -2285,7 +2285,7 @@
 </w.rf>
 <form>AT</form>
 <tag>
-<AM lemma="AT" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AT-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="At-77" src="auto">F%-------------</AM>
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at-77" src="auto">F%-------------</AM>
@@ -2584,7 +2584,7 @@
 </w.rf>
 <form>AT</form>
 <tag>
-<AM lemma="AT" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AT-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="At-77" src="auto">F%-------------</AM>
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at-77" src="auto">F%-------------</AM>
@@ -3393,7 +3393,7 @@
 </w.rf>
 <form>AT</form>
 <tag>
-<AM lemma="AT" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AT-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="At-77" src="auto">F%-------------</AM>
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at-77" src="auto">F%-------------</AM>
@@ -3866,7 +3866,7 @@
 </w.rf>
 <form>AT</form>
 <tag>
-<AM lemma="AT" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AT-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="At-77" src="auto">F%-------------</AM>
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at-77" src="auto">F%-------------</AM>
@@ -4034,7 +4034,7 @@
 <LM>w#w-wsj1064-001-p1s12W4</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1064-001-p1s12W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4187,7 +4187,7 @@
 </w.rf>
 <form>AT</form>
 <tag>
-<AM lemma="AT" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AT-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="At-77" src="auto">F%-------------</AM>
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at-77" src="auto">F%-------------</AM>

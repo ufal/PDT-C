@@ -203,7 +203,7 @@
 <form>ZOH</form>
 <tag>
 <AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZOH-1_^(Zimní_olympijské_hry)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ZOH_^(Zimní_olympijské_hry)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-085-p1s4w7">

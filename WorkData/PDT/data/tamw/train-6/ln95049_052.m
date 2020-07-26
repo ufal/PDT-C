@@ -413,7 +413,7 @@
 <LM>w#w-ln95049-052-p2s2w1</LM>
 </w.rf>
 <form>Právem</form>
-<tag lemma="právem" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="právem" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95049-052-p2s2w2">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-ln95049-052-p2s2w34</LM>
 </w.rf>
 <form>necháme</form>
-<tag lemma="nechat" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m-ln95049-052-p2s2w35">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-ln95049-052-p2s2w35</LM>
 </w.rf>
 <form>ujít</form>
-<tag lemma="ujít-2_^(výdělek;_pozornost)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="ujít-1_^(kus_cesty,výdělek)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95049-052-p2s2w36">
 <src.rf>manual</src.rf>

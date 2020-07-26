@@ -489,7 +489,7 @@
 <LM>w#w-d1t1449-3</LM>
 </w.rf>
 <form>Neumím</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m146-d1t1449-5">
 <w.rf>
@@ -760,7 +760,7 @@
 </w.rf>
 <form>Jitkou</form>
 <tag>
-<AM lemma="Jitka-1_;Y" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="Jitka-1_;Y_;m" src="auto" recommended="1">NNFS7-----A----</AM>
 <AM lemma="Jitka-2_;m" src="auto">NNFS7-----A----</AM>
 </tag>
 </m>
@@ -1051,7 +1051,7 @@
 </w.rf>
 <form>stále</form>
 <tag>
-<AM lemma="stále" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="stále_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="stále_^(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -1284,7 +1284,7 @@
 <LM>w#w-d1t1473-10</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m146-d1t1473-14">
 <w.rf>
@@ -1396,7 +1396,7 @@
 <LM>w#w-d1t1483-1</LM>
 </w.rf>
 <form>Vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m146-d1t1483-2">
 <w.rf>
@@ -1451,7 +1451,7 @@
 <LM>w#w-d1t1487-7</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m146-d1t1487-8">
 <w.rf>
@@ -2532,7 +2532,7 @@
 <LM>w#w-d1t1511-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m146-d1t1511-3">
 <w.rf>
@@ -2641,7 +2641,7 @@
 <LM>w#w-d1t1513-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m146-d1t1513-7">
 <w.rf>
@@ -2694,7 +2694,7 @@
 <LM>w#w-d1t1517-3</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m146-d1t1517-4">
 <w.rf>

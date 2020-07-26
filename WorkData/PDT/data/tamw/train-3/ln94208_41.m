@@ -45,7 +45,7 @@
 <LM>w#w-ln94208-41-p2s1w3</LM>
 </w.rf>
 <form>kamionů</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kamion_,s_^(^DD**kamión)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94208-41-p2s1w4">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-ln94208-41-p2s4w13</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94208-41-p2s4w14">
 <src.rf>manual</src.rf>

@@ -61,7 +61,7 @@
 <LM>w#w-d1t25-5</LM>
 </w.rf>
 <form>kdybyste</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m791-d1t25-7">
 <w.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-d1t90-2</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m791-d1t90-3">
 <w.rf>
@@ -1239,7 +1239,7 @@
 <LM>w#w-d1t107-4</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m791-d1t107-5">
 <w.rf>
@@ -2015,7 +2015,7 @@
 <LM>w#w-d1t146-1</LM>
 </w.rf>
 <form>Táhne</form>
-<tag lemma="táhnout" src="auto" recommended="1">VB-S---3P-AAP--</tag>
+<tag lemma="táhnout" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m791-d1t146-2">
 <w.rf>
@@ -2079,7 +2079,7 @@
 <LM>w#w-d1t154-1</LM>
 </w.rf>
 <form>Kdybyste</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m791-d1t154-2">
 <w.rf>
@@ -2193,7 +2193,7 @@
 <LM>w#w-d1t154-8</LM>
 </w.rf>
 <form>vaším</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS7-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS7-P2-------</tag>
 </m>
 <m id="m791-d1t154-9">
 <w.rf>
@@ -3627,7 +3627,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m791-d1t197-8">
@@ -4415,7 +4415,7 @@
 <form>pochopitelně</form>
 <tag>
 <AM lemma="pochopitelně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="pochopitelně-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="pochopitelně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m791-d1t225-3">
@@ -5081,7 +5081,7 @@
 <LM>w#w-d1t240-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m791-d1t240-4">
 <w.rf>
@@ -5363,7 +5363,7 @@
 <LM>w#w-d1t240-34</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m791-d-id63918">
 <w.rf>
@@ -5542,7 +5542,7 @@
 <LM>w#w-d1e155-x11-2520</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m791-d1t251-1">
 <w.rf>

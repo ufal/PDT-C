@@ -644,7 +644,7 @@
 <form>PVC</form>
 <tag>
 <AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PVC-1_;U_^(polyvinylchlorid)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PVC_^(polyvinylchlorid)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-045-p3s1w13">
@@ -725,7 +725,7 @@
 <LM>w#w-mf930703-045-p3s1w22</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930703-045-p3s1w23">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 <LM>w#w-mf930703-045-p3s2w3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930703-045-p3s2w4">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-mf930703-045-p4s1w17</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930703-045-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1213,7 +1213,7 @@
 <LM>w#w-mf930703-045-p4s2w18</LM>
 </w.rf>
 <form>hledět</form>
-<tag lemma="hledět_^(dívat_se;_hledět_si_něčeho)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="hledět" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930703-045-p4s2w19">
 <src.rf>manual</src.rf>

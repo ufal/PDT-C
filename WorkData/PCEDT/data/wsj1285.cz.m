@@ -636,7 +636,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1285-001-p1s2W6-Ta">
@@ -4124,7 +4124,7 @@
 <LM>w#w-wsj1285-001-p1s17W24</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1285-001-p1s17W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7844,7 +7844,7 @@
 <LM>w#w-wsj1285-001-p1s29W8</LM>
 </w.rf>
 <form>dávat</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj1285-001-p1s29W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8098,7 +8098,7 @@
 <LM>w#w-wsj1285-001-p1s30W6</LM>
 </w.rf>
 <form>dávat</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj1285-001-p1s30W7-Ta">
 <src.rf>tagger-a</src.rf>

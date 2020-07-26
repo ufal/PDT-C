@@ -1238,7 +1238,7 @@
 <LM>w#w-d1t521-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m147-d-m-d1e514-x3-punct-punct">
 <w.rf>
@@ -1324,7 +1324,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m147-d-m-d1e526-x2-punct-punct">
@@ -1803,7 +1803,7 @@
 <LM>w#w-d1t546-7</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m147-465-469">
 <w.rf>
@@ -2663,14 +2663,14 @@
 <LM>w#w-d1t565-18</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m147-d1t565-19">
 <w.rf>
 <LM>w#w-d1t565-19</LM>
 </w.rf>
 <form>nesehnali</form>
-<tag lemma="sehnat" src="auto" recommended="1">VpMP----R-NAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="auto" recommended="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m147-d1t565-20">
 <w.rf>

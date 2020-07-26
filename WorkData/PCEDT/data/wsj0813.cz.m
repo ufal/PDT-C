@@ -362,7 +362,7 @@
 <LM>w#w-wsj0813-001-p1s1W18</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0813-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-wsj0813-001-p1s2W2</LM>
 </w.rf>
 <form>DSP</form>
-<tag lemma="DSP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="DSP-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0813-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

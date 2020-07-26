@@ -572,7 +572,7 @@
 <LM>w#w-d1t2061-1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m021-d1t2061-2">
 <w.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-d1t2096-4</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m021-218-161">
 <w.rf>
@@ -2446,7 +2446,7 @@
 </w.rf>
 <form>Stávalo</form>
 <tag>
-<AM lemma="stávat-2_^(něco_se_přihodilo)_(*5t-2)" src="auto" recommended="1">VpNS----R-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="auto" recommended="1">VpNS----R-AAI--</AM>
 <AM lemma="stávat-3_:T_^(někdo/něco_stojí,_např._na_nohou)_(*5t-3)" src="auto">VpNS---XR-AA---</AM>
 </tag>
 </m>
@@ -2815,7 +2815,7 @@
 <LM>w#w-d1t2228-5</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m021-d1t2228-6">
 <w.rf>
@@ -3953,7 +3953,7 @@
 <LM>w#w-d1t2277-1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m021-d1t2277-2">
 <w.rf>
@@ -4845,7 +4845,7 @@
 <LM>w#w-d1t2310-6</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m021-d1t2310-7">
 <w.rf>
@@ -5015,7 +5015,7 @@
 <LM>w#w-d1t2322-9</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m021-d-id139355-punct">
 <w.rf>
@@ -5029,7 +5029,7 @@
 <LM>w#w-d1t2322-11</LM>
 </w.rf>
 <form>kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m021-d1t2322-13">
 <w.rf>

@@ -104,7 +104,7 @@
 <LM>w#w-mf930708-143-p2s1w5</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ouš-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930708-143-p2s1w6">
 <src.rf>manual</src.rf>
@@ -1080,7 +1080,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-143-p2s8w10">
@@ -1177,7 +1177,7 @@
 <LM>w#w-mf930708-143-p2s8w21</LM>
 </w.rf>
 <form>vydělá</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930708-143-p2s8w22">
 <src.rf>manual</src.rf>

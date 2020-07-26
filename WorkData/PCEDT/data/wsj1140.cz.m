@@ -1162,7 +1162,7 @@
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9FS3----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9FS6----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9FS7----------</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])" src="auto">NNFS1-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])" src="auto">NNFS4-----A----</AM>
 </tag>
@@ -2374,7 +2374,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -2736,7 +2736,7 @@
 <LM>w#w-wsj1140-001-p1s6W29</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1140-001-p1s6W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3458,7 +3458,7 @@
 <LM>w#w-wsj1140-001-p1s8W4</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1140-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3935,7 +3935,7 @@
 <LM>w#w-wsj1140-001-p1s8W40</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1140-001-p1s8W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6696,7 +6696,7 @@
 <LM>w#w-wsj1140-001-p1s21W2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1140-001-p1s21W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7536,7 +7536,7 @@
 <LM>w#w-wsj1140-001-p1s23W22</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1140-001-p1s23W23-Ta">
 <src.rf>tagger-a</src.rf>

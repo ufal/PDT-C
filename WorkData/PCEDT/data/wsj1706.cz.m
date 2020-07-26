@@ -2845,7 +2845,7 @@
 <LM>w#w-wsj1706-001-p1s6W26</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1706-001-p1s6W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3273,7 +3273,7 @@
 <LM>w#w-wsj1706-001-p1s8W3</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1706-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4533,7 +4533,7 @@
 <LM>w#w-wsj1706-001-p1s11W7</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj1706-001-p1s11W8-Ta">
 <src.rf>tagger-a</src.rf>

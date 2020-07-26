@@ -216,7 +216,7 @@
 <LM>w#w-cmpr9406-033-p20s1w16</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-033-p20s1w17">
 <src.rf>manual</src.rf>

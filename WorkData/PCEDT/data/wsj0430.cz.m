@@ -237,7 +237,7 @@
 </w.rf>
 <form>hodinách</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP6-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -671,7 +671,7 @@
 <LM>w#w-wsj0430-001-p1s3W15</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0430-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3090,7 +3090,7 @@
 <LM>w#w-wsj0430-001-p1s15W5</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj0430-001-p1s15W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4097,7 +4097,7 @@
 <LM>w#w-wsj0430-001-p1s20W7</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0430-001-p1s20W8-Ta">
 <src.rf>tagger-a</src.rf>

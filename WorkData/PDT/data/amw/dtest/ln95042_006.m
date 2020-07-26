@@ -541,7 +541,7 @@
 <LM>w#w-ln95042-006-p3s1w10</LM>
 </w.rf>
 <form>vydána</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VsQW----X-APP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95042-006-p3s1w11">
 <src.rf>manual</src.rf>
@@ -575,7 +575,7 @@
 <form>ČNB</form>
 <tag>
 <AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_;m_^(Česká_národní_banka)" src="manual" selected="1">NNFXX-----A---b</AM>
+<AM lemma="ČNB_;m_^(Česká_národní_banka)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-006-p3s1w15">
@@ -1105,7 +1105,7 @@
 <LM>w#w-ln95042-006-p3s4w6</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95042-006-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1506,7 +1506,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč" src="auto" recommended="1" selected="1">NNFXX-----A---b</AM>
+<AM lemma="Kč_^(koruna_česká)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-006-p3s6w9">
@@ -1718,7 +1718,7 @@
 <LM>w#w-ln95042-006-p3s6w34</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-006-p3s6w35">
 <src.rf>manual</src.rf>

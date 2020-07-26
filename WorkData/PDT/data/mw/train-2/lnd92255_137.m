@@ -638,7 +638,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-137-p2s1w76">
@@ -2037,7 +2037,7 @@
 <tag>
 <AM lemma="Jaite_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Jaite_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Jaite-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jaite_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-137-p3s2w70">
@@ -3307,7 +3307,7 @@
 <LM>w#w-lnd92255-137-p7s5w1</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Bohemians_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-137-p7s5w2">
 <src.rf>manual</src.rf>
@@ -3373,7 +3373,7 @@
 <LM>w#w-lnd92255-137-p7s6w3</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92255-137-p7s6w4">
 <src.rf>manual</src.rf>
@@ -4260,7 +4260,7 @@
 <LM>w#w-lnd92255-137-p9s1w8</LM>
 </w.rf>
 <form>tažena</form>
-<tag lemma="táhnout" src="orig" selected="1">VsQW----X-API--</tag>
+<tag lemma="táhnout" src="orig" selected="1">VsQW----X-API-1</tag>
 </m>
 <m id="m-lnd92255-137-p9s1w9">
 <src.rf>manual</src.rf>
@@ -4593,7 +4593,7 @@
 <LM>w#w-lnd92255-137-p11s1w21</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kčs_^(Koruna_čs.)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-137-p11s1w22">
 <src.rf>manual</src.rf>
@@ -4665,7 +4665,7 @@
 <LM>w#w-lnd92255-137-p11s1w30</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kčs_^(Koruna_čs.)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-137-p11s1w31">
 <src.rf>manual</src.rf>
@@ -4737,7 +4737,7 @@
 <LM>w#w-lnd92255-137-p11s1w39</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kčs_^(Koruna_čs.)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-137-p11s1w40">
 <src.rf>manual</src.rf>
@@ -4848,7 +4848,7 @@
 <LM>w#w-lnd92255-137-p13s1w11</LM>
 </w.rf>
 <form>zastavena</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VsQW----X-APP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92255-137-p13s1w12">
 <src.rf>manual</src.rf>
@@ -5042,7 +5042,7 @@
 <LM>w#w-lnd92255-137-p14s1w6</LM>
 </w.rf>
 <form>remizovala</form>
-<tag lemma="remizovat" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="remizovat_,s_^(^DD**remízovat)" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-lnd92255-137-p14s1w7">
 <src.rf>manual</src.rf>
@@ -6503,7 +6503,7 @@
 <LM>w#w-lnd92255-137-p16s29w1</LM>
 </w.rf>
 <form>Barma</form>
-<tag lemma="Barma_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Barma_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-137-p16s29w2">
 <src.rf>manual</src.rf>

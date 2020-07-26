@@ -93,7 +93,7 @@
 <LM>w#w-ln94205-53-p2s1Aw3</LM>
 </w.rf>
 <form>em</form>
-<tag lemma="em-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="em-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-53-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -941,7 +941,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-53-p3s2w8">
@@ -1670,7 +1670,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln94205-53-p4s2w5">

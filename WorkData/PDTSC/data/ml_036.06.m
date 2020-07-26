@@ -73,7 +73,7 @@
 <LM>w#w-d1t1435-15</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m036-d1t1435-16">
 <w.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-d1t1448-6</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m036-222-227">
 <w.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-d1t1452-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m036-d1t1452-4">
 <w.rf>
@@ -1323,7 +1323,7 @@
 <LM>w#w-d1t1487-8</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m036-d1t1487-9">
 <w.rf>
@@ -1383,7 +1383,7 @@
 <LM>w#w-d1t1489-2</LM>
 </w.rf>
 <form>kamkoliv</form>
-<tag lemma="kamkoli" src="auto" recommended="1">Db------------1</tag>
+<tag lemma="kamkoliv_,s_^(^DD**kamkoli)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m036-d1t1489-3">
 <w.rf>
@@ -1817,7 +1817,7 @@
 <LM>w#w-d1t1503-8</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m036-d1t1503-7">
 <w.rf>
@@ -2259,14 +2259,14 @@
 <LM>w#w-d1t1517-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m036-d1t1517-4">
 <w.rf>
 <LM>w#w-d1t1517-4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m036-d1t1517-5">
 <w.rf>
@@ -2355,14 +2355,14 @@
 <LM>w#w-d1t1527-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m036-d1t1527-3">
 <w.rf>
 <LM>w#w-d1t1527-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m036-d1t1527-4">
 <w.rf>
@@ -2853,7 +2853,7 @@
 <LM>w#w-d1t1543-22</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m036-d1t1543-23">
 <w.rf>
@@ -2991,7 +2991,7 @@
 <LM>w#w-d1t1545-8</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m036-d-id109333-punct">
 <w.rf>
@@ -3761,7 +3761,7 @@
 <LM>w#w-d1t1589-4</LM>
 </w.rf>
 <form>přivezla</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m036-d1t1589-5">
 <w.rf>
@@ -4065,7 +4065,7 @@
 <form>pouze</form>
 <tag>
 <AM lemma="pouze" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="pouze_^(*2hý)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="pouze" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m036-d1t1611-3">
@@ -4135,7 +4135,7 @@
 <LM>w#w-d1t1617-6</LM>
 </w.rf>
 <form>cest</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m036-d1t1617-7">
 <w.rf>
@@ -4606,7 +4606,7 @@
 <LM>w#w-d1t1635-7</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m036-d1t1635-8">
 <w.rf>

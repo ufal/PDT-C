@@ -35,7 +35,7 @@
 <LM>w#w-lnd92251-107-p1s1w3</LM>
 </w.rf>
 <form>dostižen</form>
-<tag lemma="dostihnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="dostihnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 </s>
 <s id="m-lnd92251-107-p2s1">
@@ -2985,7 +2985,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-107-p10s2w2">
@@ -3625,7 +3625,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-107-p13s2w2">
@@ -3902,7 +3902,7 @@
 <LM>w#w-lnd92251-107-p18s2w1</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-107-p18s2w2">
 <src.rf>manual</src.rf>

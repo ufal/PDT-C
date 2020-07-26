@@ -21,7 +21,7 @@
 <form>Tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920902-126-p1s1w2">
@@ -387,7 +387,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-126-p2s3Bw11">
@@ -1894,7 +1894,7 @@
 <LM>w#w-mf920902-126-p3s7w5</LM>
 </w.rf>
 <form>výsostně</form>
-<tag lemma="výsostně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="výsostně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920902-126-p3s7w6">
 <src.rf>manual</src.rf>

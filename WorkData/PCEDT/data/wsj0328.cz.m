@@ -1925,7 +1925,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -2627,7 +2627,7 @@
 <LM>w#w-wsj0328-001-p1s8W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0328-001-p1s8W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4778,7 +4778,7 @@
 <LM>w#w-wsj0328-001-p1s13W4</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0328-001-p1s13W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6243,7 +6243,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_;m" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>
@@ -7003,7 +7003,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_;m" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="NASA_;m_^(National_Aeronautics_and_Space_Administration)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>
@@ -8152,7 +8152,7 @@
 <form>programům</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP3-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP3-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0328-001-p1s21W17-Ta">
@@ -10490,7 +10490,7 @@
 <tag>
 <AM lemma="služebna" src="auto">NNFS3-----A----</AM>
 <AM lemma="služebna" src="auto">NNFS6-----A----</AM>
-<AM lemma="služebně_^(poměr,byt,zbraň,...)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="služebně-1_^(*3ý-1)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0328-001-p1s27W12-Ta">
@@ -10674,7 +10674,7 @@
 <LM>w#w-wsj0328-001-p1s27W25</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0328-001-p1s27W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10891,7 +10891,7 @@
 <LM>w#w-wsj0328-001-p1s27W41</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0328-001-p1s27W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11800,7 +11800,7 @@
 <LM>w#w-wsj0328-001-p1s29W10</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0328-001-p1s29W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14425,7 +14425,7 @@
 <LM>w#w-wsj0328-001-p1s35W52</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0328-001-p1s35W53-Ta">
 <src.rf>tagger-a</src.rf>

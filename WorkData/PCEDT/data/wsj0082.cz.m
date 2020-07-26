@@ -140,7 +140,7 @@
 <LM>w#w-wsj0082-001-p1s0W9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0082-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3501,7 +3501,7 @@
 <LM>w#w-wsj0082-001-p1s11W14</LM>
 </w.rf>
 <form>životně</form>
-<tag lemma="životně_^(př._rod_životný)_(souvisí_se_životem;_prostředí,...)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="životně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0082-001-p1s11W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3553,7 +3553,7 @@
 <LM>w#w-wsj0082-001-p1s11W18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0082-001-p1s11W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3995,7 +3995,7 @@
 <LM>w#w-wsj0082-001-p1s12W24</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0082-001-p1s12W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4259,7 +4259,7 @@
 <LM>w#w-wsj0082-001-p1s13W21</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0082-001-p1s13W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4866,7 +4866,7 @@
 </w.rf>
 <form>vzplály</form>
 <tag>
-<AM lemma="vzplanout" src="auto" recommended="1">VpTP----R-AAP--</AM>
+<AM lemma="vzplát" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="vzplát" src="auto">VpTP----R-AAP--</AM>
 </tag>
 </m>
@@ -9717,7 +9717,7 @@
 <LM>w#w-wsj0082-001-p1s32W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0082-001-p1s32W2-Ta">
 <src.rf>tagger-a</src.rf>

@@ -507,7 +507,7 @@
 <LM>w#w-d1t1838-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m943-d1t1838-3">
 <w.rf>
@@ -847,7 +847,7 @@
 <LM>w#w-d1t1851-4</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m943-d1t1851-5">
 <w.rf>
@@ -1170,7 +1170,7 @@
 <LM>w#w-d1t1879-4</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m943-d1t1879-6">
 <w.rf>
@@ -1333,7 +1333,7 @@
 <LM>w#w-d1t1890-2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m943-d1t1890-3">
 <w.rf>
@@ -1479,7 +1479,7 @@
 <LM>w#w-d1t1906-2</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m943-d1t1906-3">
 <w.rf>
@@ -1510,7 +1510,7 @@
 <LM>w#w-d1t1906-6</LM>
 </w.rf>
 <form>přivezli</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m943-d1e1901-x2-10184">
 <w.rf>
@@ -1623,7 +1623,7 @@
 <LM>w#w-d1t1920-4</LM>
 </w.rf>
 <form>přivezli</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m943-d1t1920-5">
 <w.rf>
@@ -1896,7 +1896,7 @@
 <LM>w#w-d1t1942-3</LM>
 </w.rf>
 <form>nepředstavitelně</form>
-<tag lemma="představitelně-1_^(si_něco;_něco/někoho_někomu)_(*3ý-1)" src="auto" recommended="1">Dg-------1N----</tag>
+<tag lemma="představitelně-1_^(*3ý-1)" src="auto" recommended="1">Dg-------1N----</tag>
 </m>
 <m id="m943-d1t1942-4">
 <w.rf>
@@ -2858,7 +2858,7 @@
 <LM>w#w-d1t1993-2</LM>
 </w.rf>
 <form>podávali</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m943-d1t1993-3">
 <w.rf>

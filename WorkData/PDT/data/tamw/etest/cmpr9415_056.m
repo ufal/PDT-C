@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9415-056-p3s1w1</LM>
 </w.rf>
 <form>PANE</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS5-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-cmpr9415-056-p3s1w2">
 <src.rf>manual</src.rf>

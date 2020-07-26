@@ -1684,7 +1684,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1717,7 +1717,7 @@
 <LM>w#w-wsj1657-001-p1s5W23</LM>
 </w.rf>
 <form>odtržena</form>
-<tag lemma="odtrhnout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="odtrhnout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj1657-001-p1s5W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7092,7 +7092,7 @@
 <LM>w#w-wsj1657-001-p1s21W30</LM>
 </w.rf>
 <form>pozorně</form>
-<tag lemma="pozorně-1_^(všímavý,_milý,_soustředěný)_(*3ý-1)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="pozorně-1_^(*3ý-1)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1657-001-p1s21W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7780,7 +7780,7 @@
 <tag>
 <AM lemma="politik" src="auto">NNMS2-----A----</AM>
 <AM lemma="politik" src="auto">NNMS4-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP5-----A----</AM>
@@ -10503,7 +10503,7 @@
 <LM>w#w-wsj1657-001-p1s32W8</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1657-001-p1s32W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11353,7 +11353,7 @@
 <LM>w#w-wsj1657-001-p1s35W12</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1657-001-p1s35W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13155,7 +13155,7 @@
 <LM>w#w-wsj1657-001-p1s42W19</LM>
 </w.rf>
 <form>napadena</form>
-<tag lemma="napadnout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="napadnout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj1657-001-p1s42W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13319,7 +13319,7 @@
 <LM>w#w-wsj1657-001-p1s43W3</LM>
 </w.rf>
 <form>událostech</form>
-<tag lemma="událost_^(*3ý)" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="událost" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m-wsj1657-001-p1s43W4-Ta">
 <src.rf>tagger-a</src.rf>

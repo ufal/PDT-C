@@ -1633,7 +1633,7 @@
 <LM>w#w-d1t1261-4</LM>
 </w.rf>
 <form>nejraději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m102-d-id91047-punct">
 <w.rf>
@@ -1663,7 +1663,7 @@
 <LM>w#w-d1t1267-3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m102-d1t1267-5">
 <w.rf>
@@ -1717,7 +1717,7 @@
 <LM>w#w-d1t1267-10</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m102-d1t1269-1">
 <w.rf>
@@ -4073,7 +4073,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -4317,7 +4317,7 @@
 <form>těžko</form>
 <tag>
 <AM lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto">Dg-------1A----</AM>
-<AM lemma="těžko-2_^(sotva)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m102-d1t1422-9">
@@ -4337,7 +4337,7 @@
 <LM>w#w-d1t1422-10</LM>
 </w.rf>
 <form>můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m102-d1t1422-11">
 <w.rf>
@@ -4478,7 +4478,7 @@
 <LM>w#w-d1t1424-13</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
 </m>
 <m id="m102-109-110">
 <w.rf>
@@ -4623,7 +4623,7 @@
 <LM>w#w-d1t1431-10</LM>
 </w.rf>
 <form>okének</form>
-<tag lemma="okénko_,e" src="auto" recommended="1">NNNP2-----A----</tag>
+<tag lemma="okénko" src="auto" recommended="1">NNNP2-----A----</tag>
 </m>
 <m id="m102-d1t1431-11">
 <w.rf>
@@ -4811,7 +4811,7 @@
 <LM>w#w-d1t1443-5</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m102-d1t1443-6">
 <w.rf>

@@ -125,7 +125,7 @@
 <form>čtk</form>
 <tag>
 <AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="čtk_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-113-p2s1Aw6">
@@ -168,7 +168,7 @@
 <LM>w#w-ln94211-113-p2s1Bw3</LM>
 </w.rf>
 <form>intenzivně</form>
-<tag lemma="intenzivně_^(*4ívní)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="intenzivně_^(^DD**intenzívně)_(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94211-113-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -266,7 +266,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
+<AM lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-113-p2s1Bw16">
@@ -512,7 +512,7 @@
 <LM>w#w-ln94211-113-p3s1w3</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94211-113-p3s1w4">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <form>mil</form>
 <tag>
 <AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln94211-113-p3s1w11">
@@ -621,7 +621,7 @@
 <form>mil</form>
 <tag>
 <AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln94211-113-p3s1w17">
@@ -638,7 +638,7 @@
 <LM>w#w-ln94211-113-p3s1w18</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94211-113-p3s1w19">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94211-113-p3s1w24">
@@ -1219,7 +1219,7 @@
 <LM>w#w-ln94211-113-p3s4w21</LM>
 </w.rf>
 <form>obejity</form>
-<tag lemma="obejit" src="orig" selected="1">VsTP----X-APP--</tag>
+<tag lemma="obejít" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94211-113-p3s4w22">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <form>KB</form>
 <tag>
 <AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_;m_^(Komerční_banka)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-113-p3s5w8">
@@ -1448,7 +1448,7 @@
 <form>KB</form>
 <tag>
 <AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_;m_^(Komerční_banka)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-113-p3s5w24">
@@ -1847,7 +1847,7 @@
 <form>moci</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">Vf--------A----</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">Vf--------A-I--</AM>
+<AM lemma="moci" src="manual" selected="1">Vf--------A-I--</AM>
 </tag>
 </m>
 <m id="m-ln94211-113-p3s7w21">

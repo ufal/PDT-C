@@ -1288,7 +1288,7 @@
 <AM lemma="nízko-1_^(níže,_než...)" src="auto">Dg-------2A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])" src="auto">NNFS1-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])" src="auto">NNFS4-----A----</AM>
-<AM lemma="nízko-1_^(níže,_než...)_(*3ý)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="nízko-1" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-wsj1142-001-p1s3W19-Ta">
@@ -1654,7 +1654,7 @@
 <LM>w#w-wsj1142-001-p1s5W11</LM>
 </w.rf>
 <form>zasaženy</form>
-<tag lemma="zasáhnout" src="auto" recommended="1">VsTP----X-APP--</tag>
+<tag lemma="zasáhnout" src="auto" recommended="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-wsj1142-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1662,7 +1662,7 @@
 <LM>w#w-wsj1142-001-p1s5W12</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1142-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1798,7 +1798,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>
@@ -5605,7 +5605,7 @@
 <LM>w#w-wsj1142-001-p1s18W8</LM>
 </w.rf>
 <form>nechají</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-wsj1142-001-p1s18W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5862,7 +5862,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>
@@ -7373,7 +7373,7 @@
 <LM>w#w-wsj1142-001-p1s24W21</LM>
 </w.rf>
 <form>vydělávají</form>
-<tag lemma="vydělávat_^(kůže;peníze)_(*4at)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="vydělávat_^(*4at)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj1142-001-p1s24W22-Ta">
 <src.rf>tagger-a</src.rf>

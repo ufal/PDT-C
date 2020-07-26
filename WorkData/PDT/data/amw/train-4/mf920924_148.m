@@ -147,7 +147,7 @@
 <LM>w#w-mf920924-148-p1s1w17</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-148-p1s1w18">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-lnd92259-030-p1s1w1</LM>
 </w.rf>
 <form>Průmyslovka</form>
-<tag lemma="průmyslovka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="průmyslovka_,h" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-030-p1s1w2">
 <src.rf>manual</src.rf>
@@ -506,7 +506,7 @@
 <LM>w#w-lnd92259-030-p2s4w14</LM>
 </w.rf>
 <form>průmyslovka</form>
-<tag lemma="průmyslovka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="průmyslovka_,h" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-030-p2s4w15">
 <src.rf>manual</src.rf>

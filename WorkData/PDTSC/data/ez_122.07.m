@@ -1414,7 +1414,7 @@
 <LM>w#w-d1t1653-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m122-d1t1653-4">
 <w.rf>
@@ -2138,7 +2138,7 @@
 <LM>w#w-d1t1700-4</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m122-d-id129601-punct">
 <w.rf>
@@ -2918,7 +2918,7 @@
 <LM>w#w-d1t1742-8</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m122-d1t1742-4">
 <w.rf>
@@ -4087,7 +4087,7 @@
 <LM>w#w-d1t1787-5</LM>
 </w.rf>
 <form>dejme</form>
-<tag lemma="dát" src="auto" recommended="1">Vi-P---1--A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m122-d1t1787-6">
 <w.rf>

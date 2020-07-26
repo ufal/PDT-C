@@ -420,7 +420,7 @@
 <LM>w#w-lnd94104-051-p1s4w29</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="EU-1_;m_^(Evropská_Unie)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94104-051-p1s4w30">
 <src.rf>manual</src.rf>

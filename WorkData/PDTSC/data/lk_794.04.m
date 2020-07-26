@@ -555,7 +555,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -984,7 +984,7 @@
 <LM>w#w-d1t1032-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m794-d1t1032-3">
 <w.rf>
@@ -2613,7 +2613,7 @@
 <LM>w#w-d1t1104-1</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m794-12160-12277">
 <w.rf>
@@ -2689,7 +2689,7 @@
 <LM>w#w-d1t1104-9</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m794-d-id112805">
 <w.rf>
@@ -3879,7 +3879,7 @@
 <form>esesák</form>
 <tag>
 <AM lemma="esesák_,h" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="esesák" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="esesák_,h" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m794-d-id114777">

@@ -2437,7 +2437,7 @@
 <LM>w#w-wsj0568-001-p1s7W13</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj0568-001-p1s7W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5009,7 +5009,7 @@
 <LM>w#w-wsj0568-001-p1s14W9</LM>
 </w.rf>
 <form>Evropou</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj0568-001-p1s14W10-Ta">
 <src.rf>tagger-a</src.rf>

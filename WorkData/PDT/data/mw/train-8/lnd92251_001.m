@@ -404,7 +404,7 @@
 <LM>w#w-lnd92251-001-p4s1w42</LM>
 </w.rf>
 <form>PAN</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-001-p4s1w43">
 <src.rf>manual</src.rf>

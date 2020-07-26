@@ -299,7 +299,7 @@
 <form>Lolou</form>
 <tag>
 <AM lemma="Lola_;Y" src="orig">NNFS7-----A----</AM>
-<AM lemma="Lola-2_;m" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Lola_;Y_;m" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-97-p2s2w10">
@@ -993,7 +993,7 @@
 <LM>w#w-ln94209-97-p2s7w1</LM>
 </w.rf>
 <form>Šampion</form>
-<tag lemma="šampion" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="šampion_,s_^(^DD**šampión)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-97-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1017,7 +1017,7 @@
 <LM>w#w-ln94209-97-p2s7w4</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94209-97-p2s7w5">
 <src.rf>manual</src.rf>
@@ -1327,7 +1327,7 @@
 <LM>w#w-ln94209-97-p2s9Bw1</LM>
 </w.rf>
 <form>Jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94209-97-p2s9Bw2">
 <src.rf>manual</src.rf>
@@ -1415,7 +1415,7 @@
 <LM>w#w-ln94209-97-p2s9Bw12</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94209-97-p2s9Bw13">
 <src.rf>manual</src.rf>

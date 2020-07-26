@@ -63,7 +63,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="jaro" src="orig">NNNP2-----A----</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-147-p1s1Bw3">
@@ -616,7 +616,7 @@
 <LM>w#w-mf920924-147-p2s3w33</LM>
 </w.rf>
 <form>Mandelovou</form>
-<tag lemma="Mandelův_;Y_^(*2a)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Mandelův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-mf920924-147-p2s3w34">
 <src.rf>manual</src.rf>

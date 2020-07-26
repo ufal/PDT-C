@@ -27,7 +27,7 @@
 <LM>w#w-ln94209-58-p1s1Aw2</LM>
 </w.rf>
 <form>Bohouš</form>
-<tag lemma="Bohouš_;Y_,h" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bohouš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-58-p1s1Aw3">
 <src.rf>manual</src.rf>

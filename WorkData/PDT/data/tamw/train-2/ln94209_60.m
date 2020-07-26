@@ -896,7 +896,7 @@
 <form>Katharine</form>
 <tag>
 <AM lemma="Katharine_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Katharine_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Katharine_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-60-p3s2w11">
@@ -1073,7 +1073,7 @@
 <LM>w#w-ln94209-60-p3s2w32</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94209-60-p3s2w33">
 <src.rf>manual</src.rf>
@@ -1458,7 +1458,7 @@
 <LM>w#w-ln94209-60-p4s1w8</LM>
 </w.rf>
 <form>pěvecko</form>
-<tag lemma="pěvecký" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="pěvecko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94209-60-p4s1w9">
 <src.rf>manual</src.rf>
@@ -2257,7 +2257,7 @@
 <LM>w#w-ln94209-60-p4s4Bw24</LM>
 </w.rf>
 <form>očí</form>
-<tag lemma="oko" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94209-60-p4s4Bw25">
 <src.rf>manual</src.rf>

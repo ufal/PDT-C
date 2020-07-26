@@ -1789,7 +1789,7 @@
 <LM>w#w-wsj1133-001-p1s4W14</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1133-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>

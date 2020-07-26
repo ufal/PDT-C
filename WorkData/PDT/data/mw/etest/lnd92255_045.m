@@ -577,7 +577,7 @@
 <LM>w#w-lnd92255-045-p2s4w19</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92255-045-p2s4w20">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-lnd92255-045-p2s5w4</LM>
 </w.rf>
 <form>causu</form>
-<tag lemma="kauza" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="causa_,s_^(^DD**kauza)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92255-045-p2s5w5">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-045-p2s5w17">

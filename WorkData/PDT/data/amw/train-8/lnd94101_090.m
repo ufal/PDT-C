@@ -2110,7 +2110,7 @@
 <LM>w#w-lnd94101-090-p1s14w10</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="NHL_;m_^(Nár._hokejová_liga)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94101-090-p1s14w11">
 <src.rf>manual</src.rf>
@@ -2254,7 +2254,7 @@
 <LM>w#w-lnd94101-090-p1s15w10</LM>
 </w.rf>
 <form>Švédem</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94101-090-p1s15w11">
 <src.rf>manual</src.rf>

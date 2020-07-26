@@ -87,7 +87,7 @@
 <form>čtk</form>
 <tag>
 <AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="čtk_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-006-p2s1w4">
@@ -488,7 +488,7 @@
 <LM>w#w-mf930702-006-p2s3w13</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930702-006-p2s3w14">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <LM>w#w-mf930702-006-p3s1w10</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930702-006-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1118,7 +1118,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-006-p4s2w13">
@@ -1207,7 +1207,7 @@
 <LM>w#w-mf930702-006-p4s2w23</LM>
 </w.rf>
 <form>předáni</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsMP----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930702-006-p4s2w24">
 <src.rf>manual</src.rf>

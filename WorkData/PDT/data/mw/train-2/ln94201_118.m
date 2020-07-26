@@ -1029,7 +1029,7 @@
 <LM>w#w-ln94201-118-p3s2w12</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94201-118-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1108,7 +1108,7 @@
 <form>předneseno</form>
 <tag>
 <AM lemma="přednést" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="přednést" src="manual" selected="1">VsNS----X-APP--</AM>
+<AM lemma="přednést" src="manual" selected="1">VsNS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln94201-118-p3s3w7">
@@ -1332,7 +1332,7 @@
 <form>stal</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94201-118-p4s2w8">
@@ -2703,7 +2703,7 @@
 <LM>w#w-ln94201-118-p5s4w32</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-ln94201-118-p5s4w33">
 <src.rf>manual</src.rf>
@@ -3213,7 +3213,7 @@
 <LM>w#w-ln94201-118-p6s2w25</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94201-118-p6s2w26">
 <src.rf>manual</src.rf>
@@ -3519,7 +3519,7 @@
 <LM>w#w-ln94201-118-p7s2w1</LM>
 </w.rf>
 <form>Dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94201-118-p7s2w2">
 <src.rf>manual</src.rf>
@@ -3705,7 +3705,7 @@
 <LM>w#w-ln94201-118-p7s2w22</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94201-118-p7s2w23">
 <src.rf>manual</src.rf>

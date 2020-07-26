@@ -35,7 +35,7 @@
 <LM>w#w-lnd94105-021-p1s1Aw3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94105-021-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-021-p1s2w28">
@@ -690,7 +690,7 @@
 <LM>w#w-lnd94105-021-p1s4w8</LM>
 </w.rf>
 <form>postiženi</form>
-<tag lemma="postihnout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="postihnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-lnd94105-021-p1s4w9">
 <src.rf>manual</src.rf>
@@ -700,7 +700,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94105-021-p1s4w10">
@@ -1494,7 +1494,7 @@
 <LM>w#w-lnd94105-021-p1s7w24</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd94105-021-p1s7w25">
 <src.rf>manual</src.rf>
@@ -1650,7 +1650,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-021-p1s8w13">
@@ -1715,7 +1715,7 @@
 <LM>w#w-lnd94105-021-p1s8w20</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94105-021-p1s8w21">
 <src.rf>manual</src.rf>
@@ -1805,7 +1805,7 @@
 <LM>w#w-lnd94105-021-p1s9w10</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94105-021-p1s9w11">
 <src.rf>manual</src.rf>

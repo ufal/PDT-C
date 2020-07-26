@@ -143,7 +143,7 @@
 <LM>w#w-lnd92252-004-p2s2w11</LM>
 </w.rf>
 <form>svržen</form>
-<tag lemma="svrhnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="svrhnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-lnd92252-004-p2s2w12">
 <src.rf>manual</src.rf>

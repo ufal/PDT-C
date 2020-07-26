@@ -1589,7 +1589,7 @@
 <LM>w#w-wsj1665-001-p1s4W25</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1665-001-p1s4W26-Ta">
 <src.rf>tagger-a</src.rf>

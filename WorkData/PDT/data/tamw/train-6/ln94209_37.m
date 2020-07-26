@@ -61,7 +61,7 @@
 <LM>w#w-ln94209-37-p2s1Aw3</LM>
 </w.rf>
 <form>luč</form>
-<tag lemma="luč-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="luč-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94209-37-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -935,7 +935,7 @@
 <form>intenzivně</form>
 <tag>
 <AM lemma="intenzivně_^(*4ívní)" src="orig">Dg-------1A----</AM>
-<AM lemma="intenzivně_,s_^(^DD**intenzívně)_^(*4ivní)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="intenzivně_^(^DD**intenzívně)_(*1í)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-37-p2s6w6">

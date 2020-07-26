@@ -12,7 +12,7 @@
 <LM>w#w-d1t952-22</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m146-d1t952-18">
 <w.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-d1t972-8</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m146-d1t972-9">
 <w.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-d1t986-17</LM>
 </w.rf>
 <form>Dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m146-d1t986-18">
 <w.rf>
@@ -1516,7 +1516,7 @@
 </w.rf>
 <form>míň</form>
 <tag>
-<AM lemma="málo-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="méně" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="méně" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -3566,7 +3566,7 @@
 <tag>
 <AM lemma="Nechal_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Nechal_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="nechat" src="auto" recommended="1">VpTP----R-AAI--</AM>
+<AM lemma="nechat" src="auto" recommended="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m146-d1t1060-43">
@@ -3802,7 +3802,7 @@
 <LM>w#w-d1t1064-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m146-d1t1064-3">
 <w.rf>
@@ -4339,7 +4339,7 @@
 <LM>w#w-d1t1118-19</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m146-d1t1118-20">
 <w.rf>
@@ -4353,7 +4353,7 @@
 <LM>w#w-d1t1118-23</LM>
 </w.rf>
 <form>nenechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m146-350-351">
 <w.rf>

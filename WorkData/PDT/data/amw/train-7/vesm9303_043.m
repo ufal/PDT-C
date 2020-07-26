@@ -19,7 +19,7 @@
 <LM>w#w-vesm9303-043-p1s1w1</LM>
 </w.rf>
 <form>Pozdně</form>
-<tag lemma="pozdně-2_^(v_roce,_ročním_období)_(*3í-2)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="pozdně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9303-043-p1s1w2">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-vesm9303-043-p2s2w11</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9303-043-p2s2w12">
 <src.rf>manual</src.rf>
@@ -567,7 +567,7 @@
 <LM>w#w-vesm9303-043-p2s4w3</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9303-043-p2s4w4">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpYS---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-vesm9303-043-p2s4w34">
@@ -1137,7 +1137,7 @@
 <tag>
 <AM lemma="Rawalpindi_;G_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Rávalpindí_;G_,x" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Rawalpindi_;G_,s_^(^DD**Rávalpindí)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Rawalpindi_;G_,s_^(^DD**Rávalpindí)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-043-p3s1w22">
@@ -1266,7 +1266,7 @@
 <LM>w#w-vesm9303-043-p3s1w37</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_^(to_je/jest)" src="orig" selected="1">J^------------b</tag>
+<tag lemma="tj_^(to_je/jest)" src="orig" selected="1">B^-------------</tag>
 </m>
 <m id="m-vesm9303-043-p3s1w38">
 <src.rf>manual</src.rf>

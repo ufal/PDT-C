@@ -218,7 +218,7 @@
 <form>lei</form>
 <tag>
 <AM lemma="lei_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="lei" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="lei" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-47-p2s1Bw19">
@@ -767,7 +767,7 @@
 <form>lei</form>
 <tag>
 <AM lemma="lei_,t" src="auto">NNIXX-----A----</AM>
-<AM lemma="lei" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="lei" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-47-p3s3w16">

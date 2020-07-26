@@ -1058,7 +1058,7 @@
 <AM lemma="netáhlo_,h_^(neschopný_člověk)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="netáhlo_,h_^(neschopný_člověk)" src="auto">NNNS4-----A----</AM>
 <AM lemma="netáhlo_,h_^(neschopný_člověk)" src="auto">NNNS5-----A----</AM>
-<AM lemma="táhnout" src="auto" selected="1">VpNS----R-NAP-1</AM>
+<AM lemma="táhnout" src="auto" selected="1">VpNS----R-NAI-1</AM>
 </tag>
 </m>
 <m id="m147-403-404">
@@ -1983,7 +1983,7 @@
 <LM>w#w-d1t229-7</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m147-464-465">
 <w.rf>
@@ -2024,7 +2024,7 @@
 <LM>w#w-d1t229-11</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m147-d1t229-12">
 <w.rf>
@@ -4146,7 +4146,7 @@
 <LM>w#w-d1t277-2</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m147-d1t277-3">
 <w.rf>

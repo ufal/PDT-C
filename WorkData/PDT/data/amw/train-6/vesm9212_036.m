@@ -673,7 +673,7 @@
 <LM>w#w-vesm9212-036-p2s3w35</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-036-p2s3w36">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-vesm9212-036-p2s4w7</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například" src="orig" selected="1">Db------------b</tag>
+<tag lemma="například" src="orig" selected="1">TT------------b</tag>
 </m>
 <m id="m-vesm9212-036-p2s4w8">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-vesm9212-036-p2s4w10</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-vesm9212-036-p2s4w11">
 <src.rf>manual</src.rf>
@@ -1372,7 +1372,7 @@
 <LM>w#w-vesm9212-036-p2s5w27</LM>
 </w.rf>
 <form>hypothalamů</form>
-<tag lemma="hypotalamus_;U" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hypothalamus_,s_^(^DD**hypotalamus)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9212-036-p2s5w28">
 <src.rf>manual</src.rf>
@@ -1396,7 +1396,7 @@
 <LM>w#w-vesm9212-036-p2s5w30</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-vesm9212-036-p2s5w31">
 <src.rf>manual</src.rf>

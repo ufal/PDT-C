@@ -671,7 +671,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -1136,7 +1136,7 @@
 <LM>w#w-d1t1835-5</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m122-d1t1835-6">
 <w.rf>
@@ -1366,7 +1366,7 @@
 <LM>w#w-d1t1847-10</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m122-d1t1847-13">
 <w.rf>
@@ -1417,7 +1417,7 @@
 <LM>w#w-d1t1851-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m122-d1t1851-5">
 <w.rf>
@@ -1596,7 +1596,7 @@
 </w.rf>
 <form>více</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="více" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -2724,7 +2724,7 @@
 <tag>
 <AM lemma="říkat_,h_,x" src="auto" recommended="1">VB-S---3P-AA--6</AM>
 <AM lemma="říkat_,h" src="manual">VB-S---3P-AA--6</AM>
-<AM lemma="říkat" src="manual" selected="1">VB-S---3P-AA--6</AM>
+<AM lemma="řikat_,h_^(^GC**říkat)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m122-d1e1910-x2-355">
@@ -2787,7 +2787,7 @@
 <LM>w#w-d1t1913-42</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="auto" recommended="1">S2--------A----</tag>
+<tag lemma="česko" src="auto" recommended="1">S2--------A----</tag>
 </m>
 <m id="m122-d1t1913-43">
 <w.rf>
@@ -3666,7 +3666,7 @@
 <LM>w#w-d1t1970-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m122-d1t1970-3">
 <w.rf>
@@ -3717,7 +3717,7 @@
 <LM>w#w-d1t1978-3</LM>
 </w.rf>
 <form>rádo</form>
-<tag lemma="rád" src="auto" recommended="1">ACNS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACNS------A----</tag>
 </m>
 <m id="m122-d1t1978-4">
 <w.rf>
@@ -3806,7 +3806,7 @@
 <LM>w#w-d1t1982-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m122-d1t1982-7">
 <w.rf>

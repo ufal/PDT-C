@@ -499,7 +499,7 @@
 <LM>w#w-wsj1472-001-p1s1W3</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1472-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1990,7 +1990,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1472-001-p1s6W11-Ta">
@@ -2024,7 +2024,7 @@
 <LM>w#w-wsj1472-001-p1s6W13</LM>
 </w.rf>
 <form>dány</form>
-<tag lemma="dát" src="auto" recommended="1">VsTP----X-APP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1472-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>

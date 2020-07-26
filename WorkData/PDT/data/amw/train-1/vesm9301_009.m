@@ -341,7 +341,7 @@
 <LM>w#w-vesm9301-009-p1s3w2</LM>
 </w.rf>
 <form>stává</form>
-<tag lemma="stávat-2_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stávat-2_^(*5t-2)_(*5t-3)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-009-p1s3w3">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-vesm9301-009-p1s4w4</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9301-009-p1s4w5">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-vesm9301-009-p1s5w3</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9301-009-p1s5w4">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-vesm9301-009-p1s6w6</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9301-009-p1s6w7">
 <src.rf>manual</src.rf>
@@ -745,7 +745,7 @@
 <LM>w#w-vesm9301-009-p1s6w14</LM>
 </w.rf>
 <form>nebáli</form>
-<tag lemma="bát" src="orig" selected="1">VpMP----R-NAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-vesm9301-009-p1s6w15">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-vesm9301-009-p1s7w8</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-vesm9301-009-p1s7w9">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <form>Dr</form>
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Dr_^(doktor)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-009-p2s1w4">

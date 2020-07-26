@@ -777,7 +777,7 @@
 <LM>w#w-lnd92254-056-p3s2w79</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92254-056-p3s2w80">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VsQW----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VsQW---XX-AP---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VsQW----X-APP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VsQW----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-lnd92254-056-p3s4w9">
@@ -1342,7 +1342,7 @@
 <LM>w#w-lnd92254-056-p3s5w46</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92254-056-p3s5w47">
 <src.rf>manual</src.rf>

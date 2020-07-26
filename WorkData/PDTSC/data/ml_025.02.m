@@ -696,7 +696,7 @@
 <form>ČD</form>
 <tag>
 <AM lemma="ČD_:B_;m_^(České_dráhy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČD_;m_^(České_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m025-d1t862-1">
@@ -1057,7 +1057,7 @@
 <LM>w#w-d1t894-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m025-d1t894-3">
 <w.rf>
@@ -2033,7 +2033,7 @@
 <LM>w#w-d1t981-2</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m025-d1t981-4">
 <w.rf>
@@ -3060,7 +3060,7 @@
 <LM>w#w-d1t1065-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m025-d-id79948-punct">
 <w.rf>
@@ -3109,7 +3109,7 @@
 <LM>w#w-d1t1069-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m025-d-id80087-punct">
 <w.rf>

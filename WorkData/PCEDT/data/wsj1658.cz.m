@@ -3844,7 +3844,7 @@
 <LM>w#w-wsj1658-001-p1s11W12</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1658-001-p1s11W13-Ta">
 <src.rf>tagger-a</src.rf>

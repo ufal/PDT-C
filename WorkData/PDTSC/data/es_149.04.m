@@ -580,7 +580,7 @@
 <form>pouze</form>
 <tag>
 <AM lemma="pouze" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="pouze_^(*2hý)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="pouze" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m149-d1t809-19">
@@ -809,7 +809,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m149-d1t835-4">
@@ -2164,7 +2164,7 @@
 <LM>w#w-d1t872-25</LM>
 </w.rf>
 <form>opaskem</form>
-<tag lemma="opasek-2" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag lemma="opasek" src="auto" recommended="1">NNIS7-----A----</tag>
 </m>
 <m id="m149-d1t872-26">
 <w.rf>
@@ -3473,7 +3473,7 @@
 <form>dříve</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A----</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m149-d1t920-2">
@@ -4044,7 +4044,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m149-d1t940-3">
@@ -5275,7 +5275,7 @@
 <LM>w#w-d1t966-12</LM>
 </w.rf>
 <form>jelo</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m149-d1t966-13">
 <w.rf>
@@ -5333,7 +5333,7 @@
 <LM>w#w-d1t970-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m149-d1t970-4">
 <w.rf>
@@ -6193,7 +6193,7 @@
 <LM>w#w-d1t1013-17</LM>
 </w.rf>
 <form>začli</form>
-<tag lemma="začít" src="auto" recommended="1">VpMP----R-AAP-6</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpMP----R-AAP-6</tag>
 </m>
 <m id="m149-d1t1013-16">
 <w.rf>

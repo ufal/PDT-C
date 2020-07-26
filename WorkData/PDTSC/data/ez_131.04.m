@@ -422,7 +422,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m131-d1t794-6">
@@ -562,7 +562,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m131-d1t800-11">
@@ -792,7 +792,7 @@
 <LM>w#w-d1t806-8</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m131-d1t806-9">
 <w.rf>
@@ -852,7 +852,7 @@
 <tag>
 <AM lemma="mlíkařka_,h_^(*2)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mlíkařka_,h_^(^GC**mlékařka)^(*2)" src="manual">NNFS1-----A----</AM>
-<AM lemma="mlíkařka_,h_^(^GC**mlékařka)_(*2)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="mlíkařka_^(^GC**mlékařka)_(*2)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m131-d1t811-4">
@@ -907,7 +907,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m131-d1t811-8">
@@ -922,7 +922,7 @@
 <LM>w#w-414-415</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m131-d1t811-9">
 <w.rf>
@@ -1073,7 +1073,7 @@
 <LM>w#w-d1e795-x3-518</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m131-d1e795-x3-519">
 <w.rf>
@@ -1444,14 +1444,14 @@
 <LM>w#w-d1e795-x3-485</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m131-d1e795-x3-484">
 <w.rf>
 <LM>w#w-d1e795-x3-484</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m131-d1e795-x3-483">
 <w.rf>
@@ -1490,7 +1490,7 @@
 <LM>w#w-d1e795-x3-477</LM>
 </w.rf>
 <form>bála</form>
-<tag lemma="bát" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m131-d1e795-x3-476">
 <w.rf>
@@ -3709,7 +3709,7 @@
 <LM>w#w-d1t889-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m131-d1t889-2">
 <w.rf>
@@ -3735,7 +3735,7 @@
 <LM>w#w-d1t889-5</LM>
 </w.rf>
 <form>vezmu</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VB-S---1P-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m131-d1t889-6">
 <w.rf>
@@ -4317,7 +4317,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m131-105-339">
@@ -4703,7 +4703,7 @@
 <LM>w#w-d1t925-11</LM>
 </w.rf>
 <form>Baťů</form>
-<tag lemma="Baťa_;Y_;m" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="Baťa_;Y" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m131-d1t925-13">
 <w.rf>
@@ -4877,7 +4877,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m131-d1t932-9">
@@ -5164,7 +5164,7 @@
 <LM>w#w-d1t934-23</LM>
 </w.rf>
 <form>nejela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-NAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m131-d1t934-24">
 <w.rf>
@@ -5217,7 +5217,7 @@
 <LM>w#w-d1t934-28</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m131-d1t934-29">
 <w.rf>

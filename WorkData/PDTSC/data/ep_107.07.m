@@ -411,7 +411,7 @@
 <LM>w#w-d1t1378-11</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m107-d1t1378-12">
 <w.rf>
@@ -1151,7 +1151,7 @@
 <LM>w#w-d1t1396-32</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m107-91-813">
 <w.rf>
@@ -1566,7 +1566,7 @@
 <LM>w#w-d1t1412-8</LM>
 </w.rf>
 <form>Teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m107-d1t1412-7">
 <w.rf>
@@ -1772,7 +1772,7 @@
 <LM>w#w-d1t1416-11</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m107-d1t1416-12">
 <w.rf>
@@ -1902,7 +1902,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -2072,7 +2072,7 @@
 <LM>w#w-d1t1421-2</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m107-d1t1421-3">
 <w.rf>
@@ -2336,7 +2336,7 @@
 <LM>w#w-d1t1421-31</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m107-d1t1421-28">
 <w.rf>
@@ -2658,7 +2658,7 @@
 <LM>w#w-d1t1432-10</LM>
 </w.rf>
 <form>teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m107-d1t1432-7">
 <w.rf>
@@ -3114,7 +3114,7 @@
 <LM>w#w-d1t1457-4</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m107-d1t1457-5">
 <w.rf>
@@ -3768,7 +3768,7 @@
 <LM>w#w-d1t1471-7</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m107-d1t1471-8">
 <w.rf>
@@ -4242,7 +4242,7 @@
 </w.rf>
 <form>Lola</form>
 <tag>
-<AM lemma="Lola_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Lola_;Y_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Lolo-2_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Lolo-2_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -4271,7 +4271,7 @@
 <LM>w#w-d1t1477-36</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m107-d1t1477-37">
 <w.rf>
@@ -4417,7 +4417,7 @@
 <LM>w#w-d1t1477-57</LM>
 </w.rf>
 <form>Lolu</form>
-<tag lemma="Lola_;Y" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="Lola_;Y_;m" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m107-d1t1477-54">
 <w.rf>
@@ -4745,7 +4745,7 @@
 <LM>w#w-d1t1482-15</LM>
 </w.rf>
 <form>mířila</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="mířit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m107-d1t1482-16">
 <w.rf>
@@ -6721,7 +6721,7 @@
 <LM>w#w-d1t1537-2</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m107-d1t1537-4">
 <w.rf>
@@ -6874,7 +6874,7 @@
 <LM>w#w-d1t1541-18</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m107-d1e1538-x2-1042">
 <w.rf>

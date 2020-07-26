@@ -1169,7 +1169,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS7-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS7-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-012-p4s2w25">
@@ -1716,7 +1716,7 @@
 <form>lavičku</form>
 <tag>
 <AM lemma="lavička-2" src="auto">NNFS4-----A----</AM>
-<AM lemma="lavička" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="lavička-2" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-012-p5s2w19">

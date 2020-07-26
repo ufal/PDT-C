@@ -447,7 +447,7 @@
 <LM>w#w-mf930701-083-p2s3w1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930701-083-p2s3w2">
 <src.rf>manual</src.rf>
@@ -1310,7 +1310,7 @@
 <LM>w#w-mf930701-083-p2s9w7</LM>
 </w.rf>
 <form>vytištěny</form>
-<tag lemma="vytisknout" src="orig" selected="1">VsTP----X-AP---</tag>
+<tag lemma="vytisknout" src="orig" selected="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-mf930701-083-p2s9w8">
 <src.rf>manual</src.rf>
@@ -1475,7 +1475,7 @@
 <LM>w#w-mf930701-083-p2s10w11</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930701-083-p2s10w12">
 <src.rf>manual</src.rf>

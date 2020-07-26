@@ -506,7 +506,7 @@
 <LM>w#w-wsj1465-001-p1s1W19</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1465-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1627,7 +1627,7 @@
 <LM>w#w-wsj1465-001-p1s3W20</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1465-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>

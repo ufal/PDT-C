@@ -378,7 +378,7 @@
 <LM>w#w-lnd92251-036-p3s1w8</LM>
 </w.rf>
 <form>zasažen</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-lnd92251-036-p3s1w9">
 <src.rf>manual</src.rf>

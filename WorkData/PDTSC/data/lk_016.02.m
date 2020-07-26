@@ -302,7 +302,7 @@
 <LM>w#w-d1t980-4</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m016-d1t982-2">
 <w.rf>
@@ -2829,7 +2829,7 @@
 <LM>w#w-d1t1190-1</LM>
 </w.rf>
 <form>Můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m016-d1t1190-2">
 <w.rf>
@@ -3040,7 +3040,7 @@
 <LM>w#w-d1t1206-1</LM>
 </w.rf>
 <form>Můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m016-d1t1206-2">
 <w.rf>
@@ -3488,7 +3488,7 @@
 <LM>w#w-d1t1279-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m016-d1t1279-3">
 <w.rf>
@@ -4750,7 +4750,7 @@
 <LM>w#w-d1t1425-2</LM>
 </w.rf>
 <form>zatčeno</form>
-<tag lemma="zatknout" src="auto" recommended="1">VsNS----X-AP---</tag>
+<tag lemma="zatknout" src="auto" recommended="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m016-d1t1425-3">
 <w.rf>

@@ -1069,7 +1069,7 @@
 <LM>w#w-d1t2511-14</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m100-d1t2511-16">
 <w.rf>
@@ -1319,7 +1319,7 @@
 <LM>w#w-d1t2519-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m100-d1t2519-3">
 <w.rf>
@@ -1428,7 +1428,7 @@
 <LM>w#w-d1t2528-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m100-d1t2528-7">
 <w.rf>

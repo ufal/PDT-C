@@ -631,7 +631,7 @@
 <LM>w#w-lnd92251-091-p2s4w20</LM>
 </w.rf>
 <form>mililitrů</form>
-<tag lemma="ml-1`mililitr" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="mililitr" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92251-091-p2s4w21">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-lnd92251-091-p2s6w20</LM>
 </w.rf>
 <form>pomalu</form>
-<tag lemma="pomalu" src="orig" selected="1">Db-------------</tag>
+<tag lemma="pomalu" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92251-091-p2s6w21">
 <src.rf>manual</src.rf>

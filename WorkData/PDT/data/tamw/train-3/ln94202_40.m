@@ -212,7 +212,7 @@
 <LM>w#w-ln94202-40-p2s1Cw3</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94202-40-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -1400,7 +1400,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln94202-40-p4s1w27">
@@ -1581,7 +1581,7 @@
 <form>hl</form>
 <tag>
 <AM lemma="hlavní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="hlavní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="hlavní" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-40-p5s1w12">

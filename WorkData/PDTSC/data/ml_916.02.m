@@ -90,7 +90,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m916-d1t715-4">
@@ -1475,7 +1475,7 @@
 <LM>w#w-d1t772-8</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m916-d1t772-9">
 <w.rf>
@@ -2161,7 +2161,7 @@
 <LM>w#w-d1t800-1</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m916-d1t800-2">
 <w.rf>
@@ -5179,7 +5179,7 @@
 <LM>w#w-d1t975-10</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m916-d1t975-11">
 <w.rf>
@@ -6164,7 +6164,7 @@
 <form>matkou</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS7-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m916-d1e1031-x2-3369">
@@ -6914,7 +6914,7 @@
 <LM>w#w-d1t1066-2</LM>
 </w.rf>
 <form>francouzsko</form>
-<tag lemma="francouzský" src="auto" recommended="1">S2--------A----</tag>
+<tag lemma="francouzsko" src="auto" recommended="1">S2--------A----</tag>
 </m>
 <m id="m916-d1e1031-x3-1653">
 <w.rf>

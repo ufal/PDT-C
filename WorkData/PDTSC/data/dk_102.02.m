@@ -39,7 +39,7 @@
 <LM>w#w-d1t613-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m102-d-id69924-punct">
 <w.rf>
@@ -219,7 +219,7 @@
 </w.rf>
 <form>více</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="více" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -2200,7 +2200,7 @@
 <LM>w#w-d1t744-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m102-d1t744-4">
 <w.rf>
@@ -2804,7 +2804,7 @@
 <LM>w#w-d1t780-10</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m102-d-id75404-punct">
 <w.rf>
@@ -3945,7 +3945,7 @@
 <LM>w#w-d1t838-9</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m102-d1t838-11">
 <w.rf>
@@ -4022,7 +4022,7 @@
 <LM>w#w-d1t840-2</LM>
 </w.rf>
 <form>příležitostně</form>
-<tag lemma="příležitostně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="příležitostně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m102-d1t840-8">
 <w.rf>
@@ -4078,7 +4078,7 @@
 <LM>w#w-d1e831-x2-116</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m102-d1t840-14">
 <w.rf>
@@ -4154,7 +4154,7 @@
 <LM>w#w-d1t850-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m102-d1e847-x2-117">
 <w.rf>

@@ -811,7 +811,7 @@
 <LM>w#w-d1t791-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m137-d1t791-3">
 <w.rf>
@@ -1928,7 +1928,7 @@
 <LM>w#w-d1t834-32</LM>
 </w.rf>
 <form>bála</form>
-<tag lemma="bát" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m137-406-407">
 <w.rf>

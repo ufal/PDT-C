@@ -200,7 +200,7 @@
 <LM>w#w-ln94207-133-p2s1Bw13</LM>
 </w.rf>
 <form>ukradli</form>
-<tag lemma="ukrást" src="auto" selected="1">VpMP----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln94207-133-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <form>hl</form>
 <tag>
 <AM lemma="hlavní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="hlavní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="hlavní" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94207-133-p2s2w7">
@@ -341,7 +341,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-133-p2s2w13">
@@ -488,7 +488,7 @@
 <LM>w#w-ln94207-133-p2s4w17</LM>
 </w.rf>
 <form>ukradli</form>
-<tag lemma="ukrást" src="auto" selected="1">VpMP----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln94207-133-p2s4w18">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-133-p2s4w21">

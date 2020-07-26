@@ -1445,7 +1445,7 @@
 <LM>w#w-d1t884-1</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m144-d1t884-2">
 <w.rf>
@@ -2038,7 +2038,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -2616,7 +2616,7 @@
 <LM>w#w-d1t922-11</LM>
 </w.rf>
 <form>Mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m144-d1t922-12">
 <w.rf>
@@ -2842,7 +2842,7 @@
 <form>vzali</form>
 <tag>
 <AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="manual" selected="1">VpMP----R-AAP--</AM>
+<AM lemma="vzít" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m144-d-id102190-punct">
@@ -3005,7 +3005,7 @@
 <LM>w#w-d1t944-5</LM>
 </w.rf>
 <form>umíš</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-S---2P-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-S---2P-AAI--</tag>
 </m>
 <m id="m144-d-id102570-punct">
 <w.rf>
@@ -3060,7 +3060,7 @@
 <LM>w#w-d1t954-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m144-d1t954-4">
 <w.rf>
@@ -3536,7 +3536,7 @@
 <LM>w#w-d1t975-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m144-d1t975-2">
 <w.rf>
@@ -4069,7 +4069,7 @@
 <form>jel</form>
 <tag>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="jet-1" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m144-d1t1000-11">
@@ -4248,14 +4248,14 @@
 <LM>w#w-d1t1007-4</LM>
 </w.rf>
 <form>kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m144-d1t1007-5">
 <w.rf>
 <LM>w#w-d1t1007-5</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m144-d1t1007-6">
 <w.rf>
@@ -4264,7 +4264,7 @@
 <form>jel</form>
 <tag>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="jet-1" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m144-d1t1007-7">
@@ -4352,7 +4352,7 @@
 <form>jeli</form>
 <tag>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="jet-1" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m144-d1t1007-18">
@@ -4592,7 +4592,7 @@
 <LM>w#w-d1t1009-23</LM>
 </w.rf>
 <form>tatrovkou</form>
-<tag lemma="tatrovka_;m_,h" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="tatrovka_,h" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m144-d1t1009-25">
 <w.rf>

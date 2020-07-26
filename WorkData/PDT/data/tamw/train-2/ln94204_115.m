@@ -21,7 +21,7 @@
 <form>Nalezeno</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsNS----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsNS----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsNS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln94204-115-p1s1w2">
@@ -203,7 +203,7 @@
 <LM>w#w-ln94204-115-p2s1Bw16</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-115-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -360,7 +360,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94204-115-p2s2w6">
@@ -492,7 +492,7 @@
 <LM>w#w-ln94204-115-p2s2w21</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-115-p2s2w22">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-ln94204-115-p2s2w24</LM>
 </w.rf>
 <form>zastaveno</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94204-115-p2s2w25">
 <src.rf>manual</src.rf>
@@ -755,7 +755,7 @@
 <LM>w#w-ln94204-115-p2s4w3</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-115-p2s4w4">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-115-p2s4w6">

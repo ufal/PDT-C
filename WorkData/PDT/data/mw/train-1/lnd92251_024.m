@@ -225,7 +225,7 @@
 <LM>w#w-lnd92251-024-p3s2w10</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92251-024-p3s2w11">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-024-p3s2w19">
@@ -368,7 +368,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-024-p4s1w5">
@@ -393,7 +393,7 @@
 <LM>w#w-lnd92251-024-p4s1w7</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-lnd92251-024-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1426,7 +1426,7 @@
 <LM>w#w-lnd92251-024-p4s6w25</LM>
 </w.rf>
 <form>potřebou</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92251-024-p4s6w26">
 <src.rf>manual</src.rf>

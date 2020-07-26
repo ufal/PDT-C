@@ -19,7 +19,7 @@
 <LM>w#w-ln94210-103-p1s1w1</LM>
 </w.rf>
 <form>Stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94210-103-p1s1w2">
 <src.rf>manual</src.rf>

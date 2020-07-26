@@ -62,7 +62,7 @@
 <LM>w#w-ln94203-135-p1s1w6</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 </s>
 <s id="m-ln94203-135-p2s1A">
@@ -223,7 +223,7 @@
 <tag>
 <AM lemma="lei_^(platidlo)" src="orig">NNNXX-----A----</AM>
 <AM lemma="lei_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="lei" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="lei" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-135-p2s1Bw18">

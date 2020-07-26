@@ -425,7 +425,7 @@
 <LM>w#w-ln95049-056-p3s1w7</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95049-056-p3s1w8">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-ln95049-056-p3s2w8</LM>
 </w.rf>
 <form>navržena</form>
-<tag lemma="navrhnout" src="orig" selected="1">VsQW----X-AP---</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-ln95049-056-p3s2w9">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-ln95049-056-p3s3w10</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95049-056-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1376,7 +1376,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95049-056-p5s1w18">

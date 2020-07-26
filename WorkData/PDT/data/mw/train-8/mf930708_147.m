@@ -909,7 +909,7 @@
 <LM>w#w-mf930708-147-p3s2w18</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930708-147-p3s2w19">
 <src.rf>manual</src.rf>

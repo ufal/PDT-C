@@ -165,7 +165,7 @@
 <LM>w#w-wsj2422-001-p1s0W14</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2422-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-wsj2422-001-p1s1W15</LM>
 </w.rf>
 <form>potřebami</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj2422-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -936,7 +936,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2422-001-p1s3W2-Ta">
@@ -1271,7 +1271,7 @@
 <LM>w#w-wsj2422-001-p1s4W9</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2422-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1439,7 +1439,7 @@
 <LM>w#w-wsj2422-001-p1s5W3</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2422-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>

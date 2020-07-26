@@ -377,7 +377,7 @@
 <LM>w#w-wsj0418-001-p1s0W29</LM>
 </w.rf>
 <form>antibiotik</form>
-<tag lemma="antibiotikum_;U" src="auto" recommended="1">NNNP2-----A----</tag>
+<tag lemma="antibiotikum" src="auto" recommended="1">NNNP2-----A----</tag>
 </m>
 <m id="m-wsj0418-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>

@@ -172,7 +172,7 @@
 <LM>w#w-wsj1319-001-p1s0W13</LM>
 </w.rf>
 <form>převzetích</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" recommended="1">NNNP6-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="auto" recommended="1">NNNP6-----A----</tag>
 </m>
 <m id="m-wsj1319-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3636,7 +3636,7 @@
 <LM>w#w-wsj1319-001-p1s14W4</LM>
 </w.rf>
 <form>dával</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1319-001-p1s14W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3800,7 +3800,7 @@
 <LM>w#w-wsj1319-001-p1s15W10</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1319-001-p1s15W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4890,7 +4890,7 @@
 <LM>w#w-wsj1319-001-p1s18W4</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1319-001-p1s18W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7311,7 +7311,7 @@
 <LM>w#w-wsj1319-001-p1s26W11</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1319-001-p1s26W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8136,7 +8136,7 @@
 </w.rf>
 <form>právem</form>
 <tag>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS7-----A----</AM>
 <AM lemma="právem" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -8322,7 +8322,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1319-001-p1s29W9-Ta">
@@ -9389,7 +9389,7 @@
 <LM>w#w-wsj1319-001-p1s32W25</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1319-001-p1s32W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10424,7 +10424,7 @@
 <LM>w#w-wsj1319-001-p1s35W17</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1319-001-p1s35W18-Ta">
 <src.rf>tagger-a</src.rf>

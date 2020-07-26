@@ -119,7 +119,7 @@
 <LM>w#w-ln95041-119-p3s1w7</LM>
 </w.rf>
 <form>vydali</form>
-<tag lemma="vydat-4_^(platit,_př._vydat_peníze,_v._se_ze_všeho)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95041-119-p3s1w8">
 <src.rf>manual</src.rf>

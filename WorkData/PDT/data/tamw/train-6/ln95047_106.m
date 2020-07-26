@@ -332,7 +332,7 @@
 <LM>w#w-ln95047-106-p2s2w5</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95047-106-p2s2w6">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <LM>w#w-ln95047-106-p2s5w3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln95047-106-p2s5w4">
 <src.rf>manual</src.rf>
@@ -930,7 +930,7 @@
 <form>vázáni</form>
 <tag>
 <AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto">VsMP---XX-AP---</AM>
-<AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="manual" selected="1">VsMP----X-API--</AM>
+<AM lemma="vázat" src="manual" selected="1">VsMP----X-API--</AM>
 </tag>
 </m>
 <m id="m-ln95047-106-p2s5w11">

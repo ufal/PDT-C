@@ -240,7 +240,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-031-p1s3w23">
@@ -458,7 +458,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-031-p1s5w10">
@@ -856,7 +856,7 @@
 <form>TGM</form>
 <tag>
 <AM lemma="TGM_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGM-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TGM_^(Tomáš_Garrigue_Masaryk)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-031-p1s7w7">
@@ -1275,7 +1275,7 @@
 <form>ČSSD</form>
 <tag>
 <AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSSD_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-031-p1s9w7">
@@ -1316,7 +1316,7 @@
 <LM>w#w-lnd94105-031-p1s9w11</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-031-p1s9w12">
 <src.rf>manual</src.rf>
@@ -1501,7 +1501,7 @@
 <form>TGM</form>
 <tag>
 <AM lemma="TGM_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TGM-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TGM_^(Tomáš_Garrigue_Masaryk)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-031-p1s11w7">
@@ -1526,7 +1526,7 @@
 <LM>w#w-lnd94105-031-p1s11w9</LM>
 </w.rf>
 <form>předávány</form>
-<tag lemma="předávat-3_^(někomu_něco)_(*6at-3)" src="orig" selected="1">VsTP----X-API--</tag>
+<tag lemma="předávat_^(*4at)" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd94105-031-p1s11w10">
 <src.rf>manual</src.rf>
@@ -1552,7 +1552,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94105-031-p1s11w13">
@@ -1577,7 +1577,7 @@
 <LM>w#w-lnd94105-031-p1s11w15</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd94105-031-p1s11w16">
 <src.rf>manual</src.rf>

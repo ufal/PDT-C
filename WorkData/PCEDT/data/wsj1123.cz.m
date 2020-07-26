@@ -55,7 +55,7 @@
 <LM>w#w-wsj1123-001-p1s0W4</LM>
 </w.rf>
 <form>podávají</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj1123-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1383,7 +1383,7 @@
 <LM>w#w-wsj1123-001-p1s3W19</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1123-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2488,7 +2488,7 @@
 <LM>w#w-wsj1123-001-p1s9W10</LM>
 </w.rf>
 <form>nač</form>
-<tag lemma="nač" src="auto" recommended="1">PY-------------</tag>
+<tag lemma="co" src="auto" recommended="1">PQ--4--------n-</tag>
 </m>
 <m id="m-wsj1123-001-p1s9W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3036,7 +3036,7 @@
 <LM>w#w-wsj1123-001-p1s10W29</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
+<tag lemma="tj_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
 </m>
 <m id="m-wsj1123-001-p1s10W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4868,7 +4868,7 @@
 <AM lemma="Tina_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Tino_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Tino_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Tina-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Tina_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1123-001-p1s19W3-Ta">
@@ -5563,7 +5563,7 @@
 <LM>w#w-wsj1123-001-p1s21W18</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1123-001-p1s21W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5738,7 +5738,7 @@
 <LM>w#w-wsj1123-001-p1s21W33</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1123-001-p1s21W34-Ta">
 <src.rf>tagger-a</src.rf>

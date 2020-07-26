@@ -2405,7 +2405,7 @@
 <LM>w#w-wsj1970-001-p1s6W14</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1970-001-p1s6W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2550,7 +2550,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1970-001-p1s6W28-Ta">
@@ -8887,7 +8887,7 @@
 <LM>w#w-wsj1970-001-p1s30W6</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj1970-001-p1s30W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9117,7 +9117,7 @@
 <LM>w#w-wsj1970-001-p1s30W30</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1970-001-p1s30W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10260,7 +10260,7 @@
 <tag>
 <AM lemma="Tchaj-1_;Y_,t" src="auto">NNMXX-----A----</AM>
 <AM lemma="Tchaj-2_;G" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="Tchaj-2_;G" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="Tchaj" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1970-001-p1s37W11-Ta">

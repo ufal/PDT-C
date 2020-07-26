@@ -397,7 +397,7 @@
 <LM>w#w-lnd92257-013-p3s4w6</LM>
 </w.rf>
 <form>vojensko</form>
-<tag lemma="vojenský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="vojensko-2" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92257-013-p3s4w7">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SNR_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-013-p4s1w7">
@@ -809,7 +809,7 @@
 <LM>w#w-lnd92257-013-p4s2w6</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92257-013-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1655,7 +1655,7 @@
 <form>Čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92257-013-p4s6w22">

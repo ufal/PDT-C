@@ -131,7 +131,7 @@
 <LM>w#w-ln94209-51-p2s1w10</LM>
 </w.rf>
 <form>Mariou</form>
-<tag lemma="Maria_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS7-----A---1</tag>
 </m>
 <m id="m-ln94209-51-p2s1w11">
 <src.rf>manual</src.rf>

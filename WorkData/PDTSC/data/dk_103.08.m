@@ -95,7 +95,7 @@
 <LM>w#w-d1t1188-11</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m103-d1t1188-12">
 <w.rf>
@@ -122,7 +122,7 @@
 <LM>w#w-d1t1188-16</LM>
 </w.rf>
 <form>Přivezl</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m103-d1t1188-15">
 <w.rf>
@@ -574,7 +574,7 @@
 <form>panenku</form>
 <tag>
 <AM lemma="panenka-1_^(např_v_oku)" src="auto">NNFS4-----A----</AM>
-<AM lemma="panenka-2_^(na_hraní)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="panenka" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m103-280-281">
@@ -1813,7 +1813,7 @@
 <LM>w#w-d1t1250-10</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m103-d1t1250-11">
 <w.rf>
@@ -2498,7 +2498,7 @@
 </w.rf>
 <form>Vánoci</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP7-----A---1</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP7-----A---1</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP7-----A---1</AM>
 </tag>
 </m>
@@ -2556,7 +2556,7 @@
 </w.rf>
 <form>Vánoci</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP7-----A---1</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP7-----A---1</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP7-----A---1</AM>
 </tag>
 </m>
@@ -2635,7 +2635,7 @@
 <LM>w#w-d1t1284-2</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m103-d1t1284-4">
 <w.rf>
@@ -3214,7 +3214,7 @@
 <LM>w#w-d1t1315-4</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m103-d1t1315-5">
 <w.rf>

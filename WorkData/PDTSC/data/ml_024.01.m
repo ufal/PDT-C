@@ -691,7 +691,7 @@
 <LM>w#w-d1t337-14</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m024-d1t337-15">
 <w.rf>
@@ -2084,7 +2084,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -2817,7 +2817,7 @@
 <LM>w#w-d1t456-4</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m024-d1t456-5">
 <w.rf>
@@ -3255,14 +3255,14 @@
 <LM>w#w-d1t460-23</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m024-d1t460-21">
 <w.rf>
 <LM>w#w-d1t460-21</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m024-d1t460-25">
 <w.rf>
@@ -3290,7 +3290,7 @@
 <LM>w#w-d1t460-27</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m024-d1t460-28">
 <w.rf>
@@ -3416,7 +3416,7 @@
 <LM>w#w-d1t466-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m024-d-id69819-punct">
 <w.rf>
@@ -3682,7 +3682,7 @@
 </w.rf>
 <form>Velikonocích</form>
 <tag>
-<AM lemma="Velikonoce" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="Velikonoce_;m" src="auto" recommended="1">NNFP6-----A----</AM>
 <AM lemma="velikonoce_^(^DS**Velikonoce)" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -4665,7 +4665,7 @@
 <LM>w#w-d1t539-8</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m024-64-66">
 <w.rf>
@@ -4921,7 +4921,7 @@
 <LM>w#w-d1t549-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m024-d1t549-4">
 <w.rf>

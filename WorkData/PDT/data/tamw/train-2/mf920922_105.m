@@ -633,7 +633,7 @@
 <LM>w#w-mf920922-105-p2s7w7</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-105-p2s7w8">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="WC-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="WC_^(water_closet)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-105-p2s7w14">
@@ -1587,7 +1587,7 @@
 <LM>w#w-mf920922-105-p2s16w9</LM>
 </w.rf>
 <form>můžeš</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---2P-AAI--</tag>
 </m>
 <m id="m-mf920922-105-p2s16w10">
 <src.rf>manual</src.rf>
@@ -2041,7 +2041,7 @@
 <LM>w#w-mf920922-105-p2s19w12</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920922-105-p2s19w13">
 <src.rf>manual</src.rf>
@@ -2408,7 +2408,7 @@
 <LM>w#w-mf920922-105-p2s21w21</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-mf920922-105-p2s21w22">
 <src.rf>manual</src.rf>
@@ -2432,7 +2432,7 @@
 <LM>w#w-mf920922-105-p2s21w24</LM>
 </w.rf>
 <form>můžeš</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---2P-AAI--</tag>
 </m>
 <m id="m-mf920922-105-p2s21w25">
 <src.rf>manual</src.rf>
@@ -2790,7 +2790,7 @@
 <LM>w#w-mf920922-105-p2s23Bw15</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="orig" selected="1">J,-S---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------c-</tag>
 </m>
 <m id="m-mf920922-105-p2s23Bw17">
 <src.rf>manual</src.rf>
@@ -3254,7 +3254,7 @@
 <LM>w#w-mf920922-105-p2s27w7</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920922-105-p2s27w8">
 <src.rf>manual</src.rf>

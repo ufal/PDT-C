@@ -200,7 +200,7 @@
 <LM>w#w-ln94207-55-p2s1Bw2</LM>
 </w.rf>
 <form>zpravodajka</form>
-<tag lemma="zpravodajka-2_^(člověk)_(*4-2)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="zpravodajka-2_^(*4-2)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-55-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-ln94207-55-p2s3w1</LM>
 </w.rf>
 <form>Šampionku</form>
-<tag lemma="šampionka_^(*2)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="šampionka_^(^DD**šampiónka)_(*2)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94207-55-p2s3w2">
 <src.rf>manual</src.rf>
@@ -1059,7 +1059,7 @@
 <LM>w#w-ln94207-55-p2s3w22</LM>
 </w.rf>
 <form>WTA</form>
-<tag lemma="WTA-1_;m_^(Women's_Tennis_Association)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="WTA-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94207-55-p2s3w23">
 <src.rf>manual</src.rf>
@@ -1453,7 +1453,7 @@
 <LM>w#w-ln94207-55-p3s1w7</LM>
 </w.rf>
 <form>v</form>
-<tag lemma="versus" src="orig" selected="1">RR--1---------b</tag>
+<tag lemma="versus" src="orig" selected="1">RR--1---------c</tag>
 </m>
 <m id="m-ln94207-55-p3s1w8">
 <src.rf>manual</src.rf>
@@ -2741,7 +2741,7 @@
 <LM>w#w-ln94207-55-p3s9w8</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94207-55-p3s9w9">
 <src.rf>manual</src.rf>
@@ -2935,7 +2935,7 @@
 <LM>w#w-ln94207-55-p3s10w19</LM>
 </w.rf>
 <form>nemohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln94207-55-p3s10w20">
 <src.rf>manual</src.rf>
@@ -3924,7 +3924,7 @@
 <LM>w#w-ln94207-55-p4s3w4</LM>
 </w.rf>
 <form>umím</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-S---1P-AAI--</tag>
+<tag lemma="umět" src="auto" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln94207-55-p4s3w5">
 <src.rf>manual</src.rf>
@@ -3959,7 +3959,7 @@
 <LM>w#w-ln94207-55-p4s3w8</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94207-55-p4s3w9">
 <src.rf>manual</src.rf>
@@ -4456,7 +4456,7 @@
 <LM>w#w-ln94207-55-p4s7w11</LM>
 </w.rf>
 <form>Francouzka</form>
-<tag lemma="Francouzka_;E" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Francouzka_;E_^(*2)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-55-p4s7w12">
 <src.rf>manual</src.rf>
@@ -4608,7 +4608,7 @@
 <LM>w#w-ln94207-55-p4s7w30</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_^(a_tak_dále)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="atd_^(a_tak_dále)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-ln94207-55-p4s7w31">
 <src.rf>manual</src.rf>

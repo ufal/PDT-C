@@ -450,7 +450,7 @@
 <LM>w#w-lnd94101-106-p1s5w4</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94101-106-p1s5w5">
 <src.rf>manual</src.rf>

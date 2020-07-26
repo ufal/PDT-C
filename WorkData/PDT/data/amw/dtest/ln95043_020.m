@@ -19,7 +19,7 @@
 <LM>w#w-ln95043-020-p1s1w1</LM>
 </w.rf>
 <form>Nejlépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln95043-020-p1s1w2">
 <src.rf>manual</src.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-ln95043-020-p2s3w7</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95043-020-p2s3w8">
 <src.rf>manual</src.rf>
@@ -1213,7 +1213,7 @@
 <LM>w#w-ln95043-020-p4s2w10</LM>
 </w.rf>
 <form>podvanácté</form>
-<tag lemma="podvanácté" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podvanácté" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95043-020-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1229,7 +1229,7 @@
 <LM>w#w-ln95043-020-p4s2w12</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95043-020-p4s2w13">
 <src.rf>manual</src.rf>

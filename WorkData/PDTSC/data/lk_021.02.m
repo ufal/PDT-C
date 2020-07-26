@@ -91,7 +91,7 @@
 <LM>w#w-d1t680-3</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m021-d1t680-2">
 <w.rf>
@@ -894,7 +894,7 @@
 <form>může</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m021-d1t725-3">
@@ -1267,7 +1267,7 @@
 <LM>w#w-d1t748-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m021-d1t748-4">
 <w.rf>
@@ -1473,7 +1473,7 @@
 <form>jedl</form>
 <tag>
 <AM lemma="jíst_^(konzumovat_jídlo)" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="jíst_^(konzumovat_jídlo)" src="manual" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="jíst" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m021-d-id81556-punct">
@@ -1519,7 +1519,7 @@
 </w.rf>
 <form>Stávalo</form>
 <tag>
-<AM lemma="stávat-2_^(něco_se_přihodilo)_(*5t-2)" src="auto" recommended="1">VpNS----R-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="auto" recommended="1">VpNS----R-AAI--</AM>
 <AM lemma="stávat-3_:T_^(někdo/něco_stojí,_např._na_nohou)_(*5t-3)" src="auto">VpNS---XR-AA---</AM>
 </tag>
 </m>
@@ -1599,7 +1599,7 @@
 <LM>w#w-d1t771-13</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m021-d1t771-15">
 <w.rf>
@@ -1771,7 +1771,7 @@
 <LM>w#w-d1t787-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m021-d1t787-4">
 <w.rf>
@@ -2567,7 +2567,7 @@
 <LM>w#w-d1t825-2</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m021-d1t829-1">
 <w.rf>
@@ -3415,7 +3415,7 @@
 </w.rf>
 <form>kolikrát</form>
 <tag>
-<AM lemma="kolikrát-1_^(mnohokrát)" src="auto" recommended="1">Co-------------</AM>
+<AM lemma="kolikrát" src="auto" recommended="1">Co-------------</AM>
 <AM lemma="kolikrát-2_^(táz.)" src="auto">Cu-------------</AM>
 </tag>
 </m>

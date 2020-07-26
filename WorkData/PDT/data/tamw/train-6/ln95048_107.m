@@ -1147,7 +1147,7 @@
 <LM>w#w-ln95048-107-p3s4w27</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-107-p3s4w28">
 <src.rf>manual</src.rf>
@@ -2146,7 +2146,7 @@
 <LM>w#w-ln95048-107-p5s2w24</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95048-107-p5s2w25">
 <src.rf>manual</src.rf>
@@ -2736,7 +2736,7 @@
 <LM>w#w-ln95048-107-p6s2w17</LM>
 </w.rf>
 <form>nenechá</form>
-<tag lemma="nechat" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln95048-107-p6s2w18">
 <src.rf>manual</src.rf>

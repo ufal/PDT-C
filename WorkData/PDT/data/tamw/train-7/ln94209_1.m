@@ -35,7 +35,7 @@
 <LM>w#w-ln94209-1-p1s1w3</LM>
 </w.rf>
 <form>dvojnásob</form>
-<tag lemma="dvojnásob" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dvojnásob`2" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94209-1-p1s1w4">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-1-p2s2w14">
@@ -589,7 +589,7 @@
 <LM>w#w-ln94209-1-p3s2w6</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94209-1-p3s2w7">
 <src.rf>manual</src.rf>
@@ -913,7 +913,7 @@
 <LM>w#w-ln94209-1-p4s1w21</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94209-1-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1504,7 +1504,7 @@
 <LM>w#w-ln94209-1-p6s1w14</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-ln94209-1-p6s1w15">
 <src.rf>manual</src.rf>

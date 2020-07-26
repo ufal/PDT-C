@@ -395,7 +395,7 @@
 <LM>w#w-lnd94103-024-p1s2w23</LM>
 </w.rf>
 <form>hodinách</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-lnd94103-024-p1s2w24">
 <src.rf>manual</src.rf>

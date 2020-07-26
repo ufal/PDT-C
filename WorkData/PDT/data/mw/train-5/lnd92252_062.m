@@ -1249,7 +1249,7 @@
 <LM>w#w-lnd92252-062-p4s4w19</LM>
 </w.rf>
 <form>očí</form>
-<tag lemma="oko" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92252-062-p4s4w20">
 <src.rf>manual</src.rf>
@@ -1554,7 +1554,7 @@
 <LM>w#w-lnd92252-062-p4s5w23</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92252-062-p4s5w24">
 <src.rf>manual</src.rf>
@@ -1578,7 +1578,7 @@
 <LM>w#w-lnd92252-062-p4s5w26</LM>
 </w.rf>
 <form>mluvčímu</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92252-062-p4s5w27">
 <src.rf>manual</src.rf>
@@ -1767,7 +1767,7 @@
 <LM>w#w-lnd92252-062-p4s6w12</LM>
 </w.rf>
 <form>nestalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-NAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-lnd92252-062-p4s6w13">
 <src.rf>manual</src.rf>

@@ -596,7 +596,7 @@
 <form>CIA</form>
 <tag>
 <AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIA-1_;m_^(Central_Intelligence_Agency,_USA)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-089-p1s3w4">
@@ -1033,7 +1033,7 @@
 <LM>w#w-lnd92255-089-p1s5w12</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92255-089-p1s5w13">
 <src.rf>manual</src.rf>
@@ -1399,7 +1399,7 @@
 <LM>w#w-lnd92255-089-p1s8w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-089-p1s8w4">
 <src.rf>manual</src.rf>

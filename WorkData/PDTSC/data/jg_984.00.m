@@ -649,7 +649,7 @@
 <LM>w#w-d1t71-4</LM>
 </w.rf>
 <form>jesli</form>
-<tag lemma="jestli_,h" src="auto" recommended="1">J,------------7</tag>
+<tag lemma="jesli_,h_^(^GC**jestli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m984-d1t71-5">
 <w.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-d1t73-5</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m984-d1t75-1">
 <w.rf>
@@ -1180,7 +1180,7 @@
 <form>uboze</form>
 <tag>
 <AM lemma="uboze" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="uboze_^(*2hý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="uboze" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m984-d-id57571">
@@ -3180,7 +3180,7 @@
 <LM>w#w-d1t223-5</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m984-d1t223-6">
 <w.rf>
@@ -3212,7 +3212,7 @@
 <LM>w#w-d1t225-1</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m984-d1t225-2">
 <w.rf>
@@ -4345,7 +4345,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m984-d1t277-9">

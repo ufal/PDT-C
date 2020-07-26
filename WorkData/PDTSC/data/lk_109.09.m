@@ -67,7 +67,7 @@
 <LM>w#w-d1t1407-8</LM>
 </w.rf>
 <form>nedáme</form>
-<tag lemma="dát" src="auto" recommended="1">VB-P---1P-NAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-P---1P-NAP--</tag>
 </m>
 <m id="m109-d1t1407-9">
 <w.rf>
@@ -315,7 +315,7 @@
 <LM>w#w-d1t1411-8</LM>
 </w.rf>
 <form>Necháme</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m109-d1t1411-9">
 <w.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-d1t1411-17</LM>
 </w.rf>
 <form>travička</form>
-<tag lemma="travička_^(tráva)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="travička_^(*2)" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m109-d1t1411-14">
 <w.rf>
@@ -1342,7 +1342,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m109-d1t1437-3">
@@ -1692,7 +1692,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1760,7 +1760,7 @@
 <form>správně</form>
 <tag>
 <AM lemma="správně_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="správně_^(*1í)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m109-d1t1450-10">
@@ -2640,7 +2640,7 @@
 <LM>w#w-d1t1487-13</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m109-d1t1487-14">
 <w.rf>
@@ -2669,7 +2669,7 @@
 <form>nejdřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------3A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------3A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m109-d1t1487-17">
@@ -3416,7 +3416,7 @@
 <LM>w#w-d1t1496-15</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m109-d1t1496-16">
 <w.rf>
@@ -4715,7 +4715,7 @@
 <AM lemma="blízko-1" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="blíž" src="auto">RR--2----------</AM>
 <AM lemma="blíž" src="auto">RR--3----------</AM>
-<AM lemma="blízko-1_^(*3ý)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="blízko-1" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m109-d1t1521-15">
@@ -4929,7 +4929,7 @@
 <LM>w#w-177-178</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m109-177-179">
 <w.rf>
@@ -4954,7 +4954,7 @@
 <LM>w#w-d1t1527-9</LM>
 </w.rf>
 <form>dáme</form>
-<tag lemma="dát" src="auto" recommended="1">VB-P---1P-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m109-d1t1527-10">
 <w.rf>
@@ -5822,7 +5822,7 @@
 <form>Nejdřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------3A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------3A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m109-d1t1553-2">
@@ -6280,7 +6280,7 @@
 <AM lemma="blízko-1" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="blíž" src="auto">RR--2----------</AM>
 <AM lemma="blíž" src="auto">RR--3----------</AM>
-<AM lemma="blízko-1_^(*3ý)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="blízko-1" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m109-d1t1559-11">

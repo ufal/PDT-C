@@ -83,7 +83,7 @@
 <LM>w#w-ln94203-42-p1s1w9</LM>
 </w.rf>
 <form>rozvodech</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-42-p2s1A">
@@ -199,7 +199,7 @@
 <LM>w#w-ln94203-42-p2s1Bw9</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94203-42-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94203-42-p3s2w5">

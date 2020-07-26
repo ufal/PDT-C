@@ -776,7 +776,7 @@
 <LM>w#w-cmpr9410-025-p6s1w1</LM>
 </w.rf>
 <form>Koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9410-025-p6s1w2">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-cmpr9410-025-p6s2w3</LM>
 </w.rf>
 <form>soju</form>
-<tag lemma="soja" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="soja_,s_^(^DD**sója)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9410-025-p6s2w4">
 <src.rf>manual</src.rf>
@@ -1717,7 +1717,7 @@
 <form>jako</form>
 <tag>
 <AM lemma="jako-1" src="auto">J,-------------</AM>
-<AM lemma="jako-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jako-1" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-025-p8s3w25">

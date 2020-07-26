@@ -684,7 +684,7 @@
 <form>Esther</form>
 <tag>
 <AM lemma="Esther_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Esther_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Esther_;Y_,s_^(^DD**Ester)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-39-p3s3w9">
@@ -930,7 +930,7 @@
 <LM>w#w-ln94204-39-p4s1w6</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94204-39-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1050,7 +1050,7 @@
 <LM>w#w-ln94204-39-p4s1w20</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-1" src="orig" selected="1">ClXS3----------</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-ln94204-39-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1625,7 +1625,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-39-p5s1w11">
@@ -2161,7 +2161,7 @@
 <LM>w#w-ln94204-39-p7s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94204-39-p7s1w2">
 <src.rf>manual</src.rf>

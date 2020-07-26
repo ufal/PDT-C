@@ -1330,7 +1330,7 @@
 <LM>w#w-wsj1445-001-p1s3W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1445-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3487,7 +3487,7 @@
 <LM>w#w-wsj1445-001-p1s10W28</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1445-001-p1s10W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6856,7 +6856,7 @@
 <LM>w#w-wsj1445-001-p1s25W2</LM>
 </w.rf>
 <form>Nebojíme</form>
-<tag lemma="bát" src="auto" recommended="1">VB-P---1P-NAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-wsj1445-001-p1s25W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6980,7 +6980,7 @@
 <LM>w#w-wsj1445-001-p1s25W10</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj1445-001-p1s25W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7168,7 +7168,7 @@
 <LM>w#w-wsj1445-001-p1s27W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1445-001-p1s27W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7983,7 +7983,7 @@
 <LM>w#w-wsj1445-001-p1s29W25</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1445-001-p1s29W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8091,7 +8091,7 @@
 <LM>w#w-wsj1445-001-p1s29W34</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1445-001-p1s29W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8210,7 +8210,7 @@
 <LM>w#w-wsj1445-001-p1s30W10</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj1445-001-p1s30W11-Ta">
 <src.rf>tagger-a</src.rf>

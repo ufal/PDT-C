@@ -1622,7 +1622,7 @@
 <LM>w#w-wsj0525-001-p1s3W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0525-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4163,7 +4163,7 @@
 <LM>w#w-wsj0525-001-p1s9W25</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0525-001-p1s9W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4298,7 +4298,7 @@
 <LM>w#w-wsj0525-001-p1s10W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0525-001-p1s10W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6667,7 +6667,7 @@
 <LM>w#w-wsj0525-001-p1s19W9</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0525-001-p1s19W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6882,7 +6882,7 @@
 <LM>w#w-wsj0525-001-p1s19W30</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0525-001-p1s19W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7420,7 +7420,7 @@
 <LM>w#w-wsj0525-001-p1s21W17</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0525-001-p1s21W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9581,7 +9581,7 @@
 <LM>w#w-wsj0525-001-p1s27W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0525-001-p1s27W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9950,7 +9950,7 @@
 <LM>w#w-wsj0525-001-p1s27W31</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0525-001-p1s27W32-Ta">
 <src.rf>tagger-a</src.rf>

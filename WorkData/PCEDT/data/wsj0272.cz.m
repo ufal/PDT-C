@@ -483,7 +483,7 @@
 <form>Berthold</form>
 <tag>
 <AM lemma="Berthold_;Y_,s_^(^DD**Bertold)" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Berthold_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Berthold_;Y_,s_^(^DD**Bertold)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0272-001-p1s2W17-Ta">
@@ -567,7 +567,7 @@
 <LM>w#w-wsj0272-001-p1s2W24</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0272-001-p1s2W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-wsj0272-001-p1s2W39</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0272-001-p1s2W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -734,7 +734,7 @@
 <form>Berthold</form>
 <tag>
 <AM lemma="Berthold_;Y_,s_^(^DD**Bertold)" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Berthold_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Berthold_;Y_,s_^(^DD**Bertold)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0272-001-p1s3W2-Ta">

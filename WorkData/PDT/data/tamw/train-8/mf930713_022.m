@@ -103,7 +103,7 @@
 <form>Švéd</form>
 <tag>
 <AM lemma="Švédsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Švédsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Švédsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-022-p2s1w11">

@@ -549,7 +549,7 @@
 <LM>w#w-d1t2534-12</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m024-d-m-d1e2510-x3-punct-punct">
 <w.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-d1t2540-1</LM>
 </w.rf>
 <form>Vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m024-d1t2540-2">
 <w.rf>
@@ -1552,7 +1552,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m024-d1t2584-10">
@@ -2189,7 +2189,7 @@
 <LM>w#w-d1t2616-1</LM>
 </w.rf>
 <form>podívam</form>
-<tag lemma="podívat_,h" src="auto" recommended="1">VB-S---1P-AAP-6</tag>
+<tag lemma="podívat" src="auto" recommended="1">VB-S---1P-AAP-6</tag>
 </m>
 <m id="m024-d1t2616-2">
 <w.rf>
@@ -4038,7 +4038,7 @@
 <LM>w#w-d1t2703-5</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m024-22_2-47">
 <w.rf>
@@ -4105,7 +4105,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -4452,7 +4452,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m024-d1e2721-x2-484">
@@ -4756,7 +4756,7 @@
 <LM>w#w-d1t2748-3</LM>
 </w.rf>
 <form>Nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m024-d1t2748-2">
 <w.rf>

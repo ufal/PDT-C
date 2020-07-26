@@ -105,7 +105,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-110-p2s1Bw5">
@@ -585,7 +585,7 @@
 <LM>w#w-ln94200-110-p2s3w25</LM>
 </w.rf>
 <form>portugalsko</form>
-<tag lemma="portugalský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="portugalsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94200-110-p2s3w26">
 <src.rf>manual</src.rf>

@@ -1472,7 +1472,7 @@
 <LM>w#w-d1t1855-3</LM>
 </w.rf>
 <form>tatrou</form>
-<tag lemma="tatra_;m" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="tatra" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m148-d1t1855-4">
 <w.rf>
@@ -2656,7 +2656,7 @@
 <LM>w#w-651-659</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m148-d1t1959-1">
 <w.rf>
@@ -2934,7 +2934,7 @@
 <LM>w#w-d1t1981-1</LM>
 </w.rf>
 <form>nechme</form>
-<tag lemma="nechat" src="auto" recommended="1">Vi-P---1--A----</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vi-P---1--A-P-1</tag>
 </m>
 <m id="m148-d1t1981-2">
 <w.rf>
@@ -3235,7 +3235,7 @@
 <LM>w#w-d1t2000-5</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m148-d-id108349-punct">
 <w.rf>
@@ -3416,7 +3416,7 @@
 <LM>w#w-d1t2008-2</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m148-d1t2015-1">
 <w.rf>
@@ -3730,7 +3730,7 @@
 <LM>w#w-d1t2036-1</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m148-d1t2036-2">
 <w.rf>
@@ -3891,7 +3891,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m148-d1t2045-8">
@@ -3973,7 +3973,7 @@
 <LM>w#w-d1t2047-5</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m148-d-id109784-punct">
 <w.rf>

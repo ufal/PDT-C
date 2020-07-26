@@ -1215,7 +1215,7 @@
 <LM>w#w-wsj0442-001-p1s3W7</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0442-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6146,7 +6146,7 @@
 <LM>w#w-wsj0442-001-p1s14W38</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0442-001-p1s14W39-Ta">
 <src.rf>tagger-a</src.rf>

@@ -451,7 +451,7 @@
 <form>vzňala</form>
 <tag>
 <AM lemma="vznítit" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="vznít" src="auto" recommended="1" selected="1">VpQW----R-AA---</AM>
+<AM lemma="vznítit" src="auto" recommended="1" selected="1">VpQW----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-mf930709-107-p2s2w15">

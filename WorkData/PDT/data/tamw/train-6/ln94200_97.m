@@ -1428,7 +1428,7 @@
 <LM>w#w-ln94200-97-p5s1w4</LM>
 </w.rf>
 <form>výše</form>
-<tag lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="vysoko-1" src="orig" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-ln94200-97-p5s1w5">
 <src.rf>manual</src.rf>

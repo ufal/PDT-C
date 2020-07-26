@@ -351,7 +351,7 @@
 <LM>w#w-wsj0003-001-p1s0W29</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0003-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1153,7 +1153,7 @@
 <LM>w#w-wsj0003-001-p1s3W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0003-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1215,7 +1215,7 @@
 <LM>w#w-wsj0003-001-p1s3W6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0003-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3606,7 +3606,7 @@
 <LM>w#w-wsj0003-001-p1s12W14</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0003-001-p1s12W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7613,7 +7613,7 @@
 <LM>w#w-wsj0003-001-p1s26W16</LM>
 </w.rf>
 <form>ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0003-001-p1s26W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7833,7 +7833,7 @@
 <LM>w#w-wsj0003-001-p1s27W14</LM>
 </w.rf>
 <form>nemocemi</form>
-<tag lemma="nemoc_^(choroba)" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="nemoc" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj0003-001-p1s27W15-Ta">
 <src.rf>tagger-a</src.rf>

@@ -149,7 +149,7 @@
 <LM>w#w-mf930701-152-p2s1w10</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-152-p2s1w11">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-152-p3s2w2">
@@ -582,7 +582,7 @@
 <LM>w#w-mf930701-152-p3s2w7</LM>
 </w.rf>
 <form>zatčeno</form>
-<tag lemma="zatknout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-mf930701-152-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-mf930701-152-p3s4w16</LM>
 </w.rf>
 <form>očí</form>
-<tag lemma="oko" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-152-p3s4w17">
 <src.rf>manual</src.rf>
@@ -1577,7 +1577,7 @@
 <LM>w#w-mf930701-152-p5s1w6</LM>
 </w.rf>
 <form>hinduistů</form>
-<tag lemma="hinduista_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="hinduista" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930701-152-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1915,7 +1915,7 @@
 <LM>w#w-mf930701-152-p5s2w12</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930701-152-p5s2w13">
 <src.rf>manual</src.rf>

@@ -657,7 +657,7 @@
 <form>DPH</form>
 <tag>
 <AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DPH-1" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DPH-1_^(daň_z_přidané_hodnoty)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-141-p4s1w11">

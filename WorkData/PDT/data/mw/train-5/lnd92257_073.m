@@ -1040,7 +1040,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-073-p1s5w2">
@@ -1764,7 +1764,7 @@
 <LM>w#w-lnd92257-073-p1s7w20</LM>
 </w.rf>
 <form>vervně</form>
-<tag lemma="vervně_,a_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="vervně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92257-073-p1s7w21">
 <src.rf>manual</src.rf>
@@ -2308,7 +2308,7 @@
 <LM>w#w-lnd92257-073-p1s8w22</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92257-073-p1s8w23">
 <src.rf>manual</src.rf>

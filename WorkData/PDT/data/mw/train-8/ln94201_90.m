@@ -63,7 +63,7 @@
 <form>n</form>
 <tag>
 <AM lemma="nad-1_:B" src="orig">RR--7---------8</AM>
-<AM lemma="nad-1" src="manual" selected="1">RR--7---------8</AM>
+<AM lemma="nad-1" src="manual" selected="1">RR--7---------b</AM>
 </tag>
 </m>
 <m id="m-ln94201-90-p2s1w3">
@@ -154,7 +154,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televizní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="televizní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="televizní" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94201-90-p2s2w10">
@@ -187,7 +187,7 @@
 <LM>w#w-ln94201-90-p2s2w13</LM>
 </w.rf>
 <form>česku</form>
-<tag lemma="česko-2_^(ve_spojení_&quot;po_česku&quot;)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="česku_^(ve_spojení_&quot;po_česku&quot;)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94201-90-p2s2w14">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-ln94201-90-p2s4w16</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-90-p2s4w17">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <form>Prochaska</form>
 <tag>
 <AM lemma="Prochaska_;G" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prochaska-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Prochaska_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-90-p2s4w18">
@@ -704,7 +704,7 @@
 <LM>w#w-ln94201-90-p2s4w22</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94201-90-p2s4w23">
 <src.rf>manual</src.rf>

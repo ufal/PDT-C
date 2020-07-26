@@ -72,7 +72,7 @@
 <LM>w#w-ln94208-35-p2s1Aw3</LM>
 </w.rf>
 <form>em</form>
-<tag lemma="em-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="em-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94208-35-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-ln94208-35-p2s1Bw7</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-35-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <LM>w#w-ln94208-35-p2s4w11</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag lemma="říci" src="auto" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94208-35-p2s4w12">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <LM>w#w-ln94208-35-p2s4w20</LM>
 </w.rf>
 <form>vydával</form>
-<tag lemma="vydávat-3_^(se,_př._na_cestu)_(*6at-3)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="vydávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-35-p2s4w21">
 <src.rf>manual</src.rf>
@@ -730,7 +730,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln94208-35-p2s4w31">
@@ -971,7 +971,7 @@
 <LM>w#w-ln94208-35-p2s5w11</LM>
 </w.rf>
 <form>zastaveno</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94208-35-p2s5w12">
 <src.rf>manual</src.rf>

@@ -62,7 +62,7 @@
 <LM>w#w-ln94200-65-p1s1w6</LM>
 </w.rf>
 <form>nevydal</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpYS----R-NAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 </s>
 <s id="m-ln94200-65-p2s1A">
@@ -212,7 +212,7 @@
 <form>CIA</form>
 <tag>
 <AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIA-1_;m_^(Central_Intelligence_Agency,_USA)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw17">
@@ -331,7 +331,7 @@
 <LM>w#w-ln94200-65-p2s1Bw30</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <form>CIA</form>
 <tag>
 <AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIA-1_;m_^(Central_Intelligence_Agency,_USA)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw36">
@@ -563,7 +563,7 @@
 <form>FBI</form>
 <tag>
 <AM lemma="FBI_:B_;m_,t_^(Fed._Bureau_of_Investigation)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FBI_;m_^(Fed._Bureau_of_Investigation)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FBI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p2s3w15">

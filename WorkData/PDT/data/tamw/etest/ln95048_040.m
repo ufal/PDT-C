@@ -178,7 +178,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpYS---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95048-040-p2s2w5">
@@ -1043,7 +1043,7 @@
 <LM>w#w-ln95048-040-p2s7w6</LM>
 </w.rf>
 <form>překládány</form>
-<tag lemma="překládat-3_^(z_jazyka)" src="orig" selected="1">VsTP----X-API--</tag>
+<tag lemma="překládat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95048-040-p2s7w7">
 <src.rf>manual</src.rf>

@@ -1384,7 +1384,7 @@
 <LM>w#w-wsj2413-001-p1s2W22</LM>
 </w.rf>
 <form>pozorně</form>
-<tag lemma="pozorně-1_^(všímavý,_milý,_soustředěný)_(*3ý-1)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="pozorně-1_^(*3ý-1)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj2413-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5074,7 +5074,7 @@
 <LM>w#w-wsj2413-001-p1s14W11</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2413-001-p1s14W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6763,7 +6763,7 @@
 <LM>w#w-wsj2413-001-p1s22W6</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2413-001-p1s22W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7279,7 +7279,7 @@
 <AM lemma="v-1" src="auto">RR--6----------</AM>
 <AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="v-33" src="auto">Q3-------------</AM>
-<AM lemma="versus" src="auto" recommended="1">BR--1---------9</AM>
+<AM lemma="versus" src="auto" recommended="1">RR--1---------c</AM>
 </tag>
 </m>
 <m id="m-wsj2413-001-p1s24W12-Ta">
@@ -7300,7 +7300,7 @@
 <tag>
 <AM lemma="h-33" src="auto">Q3-------------</AM>
 <AM lemma="h-33" src="auto">Q3-------------</AM>
-<AM lemma="hodina" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFXX-----A---b</AM>
 <AM lemma="hodinový" src="auto">AAXXX----1A---8</AM></tag>
 <form_change>spell</form_change></m>
 <m id="m-wsj2413-001-p1s24W13-Ta">
@@ -7698,7 +7698,7 @@
 <LM>w#w-wsj2413-001-p1s25W7</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2413-001-p1s25W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8598,7 +8598,7 @@
 <LM>w#w-wsj2413-001-p1s29W10</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m-wsj2413-001-p1s29W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9091,7 +9091,7 @@
 <LM>w#w-wsj2413-001-p1s31W11</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2413-001-p1s31W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10225,7 +10225,7 @@
 <LM>w#w-wsj2413-001-p1s36W6</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m-wsj2413-001-p1s36W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10606,7 +10606,7 @@
 <LM>w#w-wsj2413-001-p1s38W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2413-001-p1s38W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11324,7 +11324,7 @@
 <tag>
 <AM lemma="h-33" src="auto">Q3-------------</AM>
 <AM lemma="h-33" src="auto">Q3-------------</AM>
-<AM lemma="hodina" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFXX-----A---b</AM>
 <AM lemma="hodinový" src="auto">AAXXX----1A---8</AM></tag>
 <form_change>spell</form_change></m>
 <m id="m-wsj2413-001-p1s39W24-Ta">

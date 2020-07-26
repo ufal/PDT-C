@@ -197,7 +197,7 @@
 <LM>w#w-mf920924-029-p2s1w18</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920924-029-p2s1w19">
 <src.rf>manual</src.rf>
@@ -1501,7 +1501,7 @@
 <LM>w#w-mf920924-029-p2s9w8</LM>
 </w.rf>
 <form>vydala</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-029-p2s9w9">
 <src.rf>manual</src.rf>
@@ -2067,7 +2067,7 @@
 <form>ES</form>
 <tag>
 <AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES_;m_^(Evropská_společenství)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-029-p2s11w34">

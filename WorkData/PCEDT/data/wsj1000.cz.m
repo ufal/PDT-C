@@ -1155,7 +1155,7 @@
 <LM>w#w-wsj1000-001-p1s2W24</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1000-001-p1s2W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2336,7 +2336,7 @@
 <LM>w#w-wsj1000-001-p1s6W1</LM>
 </w.rf>
 <form>Nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1000-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7636,7 +7636,7 @@
 <LM>w#w-wsj1000-001-p1s22W12</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m-wsj1000-001-p1s22W13-Ta">
 <src.rf>tagger-a</src.rf>

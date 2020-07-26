@@ -714,7 +714,7 @@
 <LM>w#w-mf930708-107-p2s6w13</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-mf930708-107-p2s6w14">
 <src.rf>manual</src.rf>

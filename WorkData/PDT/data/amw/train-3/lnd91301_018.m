@@ -114,7 +114,7 @@
 <LM>w#w-lnd91301-018-p3s1w5</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd91301-018-p3s1w6">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 <form>npor</form>
 <tag>
 <AM lemma="nadporučík_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="nadporučík" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="nadporučík" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd91301-018-p3s1w27">
@@ -992,7 +992,7 @@
 <LM>w#w-lnd91301-018-p3s7w16</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd91301-018-p3s7w17">
 <src.rf>manual</src.rf>
@@ -1110,7 +1110,7 @@
 <LM>w#w-lnd91301-018-p3s8w8</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-018-p3s8w9">
 <src.rf>manual</src.rf>
@@ -1174,7 +1174,7 @@
 <LM>w#w-lnd91301-018-p3s8w16</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd91301-018-p3s8w17">
 <src.rf>manual</src.rf>

@@ -413,7 +413,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m013-d1e3510-x2-854">
@@ -450,7 +450,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m013-d1t3513-7">
@@ -989,7 +989,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m013-d-m-d1e3565-x3-punct-punct">
@@ -1013,7 +1013,7 @@
 <LM>w#w-d1t3583-2</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m013-d1t3583-4">
 <w.rf>
@@ -1152,7 +1152,7 @@
 <LM>w#w-d1t3587-8</LM>
 </w.rf>
 <form>Můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m013-d1t3587-9">
 <w.rf>
@@ -1320,7 +1320,7 @@
 <LM>w#w-d1t3599-2</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m013-d1t3599-3">
 <w.rf>
@@ -1494,7 +1494,7 @@
 <AM lemma="Luba_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Lubo_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Lubo_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Luba-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Luba_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m013-d1e3618-x2-930">
@@ -1950,7 +1950,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m013-d1t3641-5">
@@ -2151,7 +2151,7 @@
 <LM>w#w-d1t3666-6</LM>
 </w.rf>
 <form>odvlíkli</form>
-<tag lemma="odvlíknout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
+<tag lemma="odvlíknout_,h_^(^GC**odvléknout)" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m013-d1t3666-11">
 <w.rf>
@@ -2448,7 +2448,7 @@
 <AM lemma="Luba_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Lubo_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Lubo_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Luba-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Luba_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m013-1008-1014">
@@ -2675,7 +2675,7 @@
 <LM>w#w-d1t3689-8</LM>
 </w.rf>
 <form>přivezl</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m013-d1t3689-9">
 <w.rf>
@@ -3906,7 +3906,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m013-d1t3799-3">
@@ -4010,7 +4010,7 @@
 <form>hezky</form>
 <tag>
 <AM lemma="hezky" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="hezky_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hezky" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m013-d1t3807-3">
@@ -4058,7 +4058,7 @@
 <form>vámi</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P7--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P7--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P7--2-------</AM>
 </tag>
 </m>
 <m id="m013-d1t3807-7">
@@ -4114,7 +4114,7 @@
 <form>vámi</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P7--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P7--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P7--2-------</AM>
 </tag>
 </m>
 <m id="m013-d1t3811-4">

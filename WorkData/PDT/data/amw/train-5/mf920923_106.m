@@ -202,7 +202,7 @@
 <LM>w#w-mf920923-106-p2s2w16</LM>
 </w.rf>
 <form>vydávala</form>
-<tag lemma="vydávat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="vydávat_^(*4at)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920923-106-p2s2w17">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-mf920923-106-p3s2w10</LM>
 </w.rf>
 <form>politiku</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920923-106-p3s2w11">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <LM>w#w-mf920923-106-p4s1Aw2</LM>
 </w.rf>
 <form>POLITIKA</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-106-p4s1Aw3">
 <src.rf>manual</src.rf>
@@ -914,7 +914,7 @@
 <LM>w#w-mf920923-106-p6s1w1</LM>
 </w.rf>
 <form>POLITIKA</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-106-p6s1w2">
 <src.rf>manual</src.rf>

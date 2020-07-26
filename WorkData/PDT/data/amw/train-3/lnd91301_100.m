@@ -273,7 +273,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd91301-100-p3s1w29">
@@ -316,7 +316,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd91301-100-p3s1w34">
@@ -391,7 +391,7 @@
 <LM>w#w-lnd91301-100-p3s9w4</LM>
 </w.rf>
 <form>nevydaly</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpTP----R-NAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-lnd91301-100-p3s9w5">
 <src.rf>manual</src.rf>

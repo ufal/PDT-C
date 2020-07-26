@@ -1985,7 +1985,7 @@
 <LM>w#w-wsj0546-001-p1s5W12</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0546-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1993,7 +1993,7 @@
 <LM>w#w-wsj0546-001-p1s5W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0546-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2299,7 +2299,7 @@
 <form>absolutně</form>
 <tag>
 <AM lemma="absolutno" src="auto">NNNS6-----A----</AM>
-<AM lemma="absolutně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="absolutně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0546-001-p1s7W4-Ta">
@@ -3522,7 +3522,7 @@
 <LM>w#w-wsj0546-001-p1s10W14</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0546-001-p1s10W15-Ta">
 <src.rf>tagger-a</src.rf>

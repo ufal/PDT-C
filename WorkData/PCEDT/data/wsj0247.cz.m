@@ -4292,7 +4292,7 @@
 <LM>w#w-wsj0247-001-p1s10W27</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m-wsj0247-001-p1s10W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4732,7 +4732,7 @@
 <LM>w#w-wsj0247-001-p1s12W3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0247-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4770,7 +4770,7 @@
 <LM>w#w-wsj0247-001-p1s12W7</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0247-001-p1s12W8-Ta">
 <src.rf>tagger-a</src.rf>

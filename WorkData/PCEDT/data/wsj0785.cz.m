@@ -1027,7 +1027,7 @@
 <LM>w#w-wsj0785-001-p1s3W4</LM>
 </w.rf>
 <form>vyňata</form>
-<tag lemma="vyjmout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="vyjmout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj0785-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>

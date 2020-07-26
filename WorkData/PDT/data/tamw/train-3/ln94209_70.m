@@ -59,7 +59,7 @@
 <LM>w#w-ln94209-70-p1s1w6</LM>
 </w.rf>
 <form>přeložen</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94209-70-p1s1w7">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 <LM>w#w-ln94209-70-p2s1w19</LM>
 </w.rf>
 <form>přeložena</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VsQW----X-APP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94209-70-p2s1w20">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-ln94209-70-p2s2w35</LM>
 </w.rf>
 <form>přeložil</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-70-p2s2w36">
 <src.rf>manual</src.rf>
@@ -1609,7 +1609,7 @@
 <LM>w#w-ln94209-70-p3s3w14</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-70-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1866,7 +1866,7 @@
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="takzvaný_:B" src="manual">AAXXX----1A----</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94209-70-p4s1w28">

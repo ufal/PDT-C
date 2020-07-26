@@ -1295,7 +1295,7 @@
 <LM>w#w-vesm9303-015-p2s6w22</LM>
 </w.rf>
 <form>vranka</form>
-<tag lemma="vranka-2_;U_^(ryba_Cottus)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="vranka_^(ryba;kůň)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-015-p2s6w23">
 <src.rf>manual</src.rf>
@@ -2233,7 +2233,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-vesm9303-015-p4s1w22">

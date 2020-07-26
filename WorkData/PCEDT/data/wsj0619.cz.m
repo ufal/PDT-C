@@ -3231,7 +3231,7 @@
 <LM>w#w-wsj0619-001-p1s10W8</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj0619-001-p1s10W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6121,7 +6121,7 @@
 <LM>w#w-wsj0619-001-p1s21W12</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0619-001-p1s21W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6387,7 +6387,7 @@
 <LM>w#w-wsj0619-001-p1s22W11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0619-001-p1s22W12-Ta">
 <src.rf>tagger-a</src.rf>

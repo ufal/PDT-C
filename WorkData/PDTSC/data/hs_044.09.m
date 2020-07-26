@@ -116,7 +116,7 @@
 <LM>w#w-d1t2708-3</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m044-d1t2708-2">
 <w.rf>
@@ -654,7 +654,7 @@
 </w.rf>
 <form>míň</form>
 <tag>
-<AM lemma="málo-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="méně" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="méně" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -678,7 +678,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -896,7 +896,7 @@
 <LM>w#w-d1t2734-1</LM>
 </w.rf>
 <form>Dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m044-d1t2736-1">
 <w.rf>
@@ -1627,7 +1627,7 @@
 <LM>w#w-d1t2765-1</LM>
 </w.rf>
 <form>dávat</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m044-d1t2765-2">
 <w.rf>
@@ -1688,7 +1688,7 @@
 <LM>w#w-d1t2769-8</LM>
 </w.rf>
 <form>dávalo</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m044-d1t2769-9">
 <w.rf>
@@ -1709,7 +1709,7 @@
 <LM>w#w-d1t2769-10</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m044-d1t2769-2">
 <w.rf>
@@ -1739,7 +1739,7 @@
 <LM>w#w-d1t2769-4</LM>
 </w.rf>
 <form>nedává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-NAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m044-1131-1134">
 <w.rf>
@@ -1849,7 +1849,7 @@
 <LM>w#w-d1t2772-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m044-d1t2772-4">
 <w.rf>
@@ -2370,7 +2370,7 @@
 <LM>w#w-d1t2795-2</LM>
 </w.rf>
 <form>dávaly</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m044-d1t2795-3">
 <w.rf>
@@ -2531,7 +2531,7 @@
 <LM>w#w-d1t2798-8</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m044-d1t2798-9">
 <w.rf>
@@ -2653,7 +2653,7 @@
 <LM>w#w-d1t2804-1</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m044-d1t2802-4">
 <w.rf>
@@ -3210,7 +3210,7 @@
 <LM>w#w-d1t2845-1</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m044-d1t2845-4">
 <w.rf>
@@ -4012,7 +4012,7 @@
 <LM>w#w-d1t2882-21</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m044-d1t2882-22">
 <w.rf>
@@ -4150,7 +4150,7 @@
 <LM>w#w-d1t2893-6</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m044-d1t2893-7">
 <w.rf>
@@ -5648,7 +5648,7 @@
 </w.rf>
 <form>sika</form>
 <tag>
-<AM lemma="sika_^(jelen)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="sika_^(jelen_sika)" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="sika_;U_^(jelen_sika)" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -5713,7 +5713,7 @@
 </w.rf>
 <form>sika</form>
 <tag>
-<AM lemma="sika_^(jelen)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="sika_^(jelen_sika)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="sika_;U_^(jelen_sika)" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>

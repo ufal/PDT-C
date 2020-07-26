@@ -2840,7 +2840,7 @@
 <LM>w#w-wsj0276-001-p1s9W9</LM>
 </w.rf>
 <form>zastiženi</form>
-<tag lemma="zastihnout" src="auto" recommended="1">VsMP----X-APP--</tag>
+<tag lemma="zastihnout" src="auto" recommended="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-wsj0276-001-p1s9W10-Ta">
 <src.rf>tagger-a</src.rf>

@@ -238,7 +238,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p2s1w22">
@@ -411,7 +411,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p2s2w5">
@@ -633,7 +633,7 @@
 <LM>w#w-mf930708-160-p3s1w16</LM>
 </w.rf>
 <form>IMF</form>
-<tag lemma="IMF-1_;m_^(International_Monetary_Fund)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="IMF-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930708-160-p3s1w17">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p3s1w37">
@@ -856,7 +856,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p3s2w7">
@@ -865,7 +865,7 @@
 <LM>w#w-mf930708-160-p3s2w7</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-160-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-mf930708-160-p4s1w14</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf930708-160-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1214,7 +1214,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p4s1w25">
@@ -1420,7 +1420,7 @@
 <LM>w#w-mf930708-160-p4s2w13</LM>
 </w.rf>
 <form>šířeji</form>
-<tag lemma="široko-1_^(šíře,_než...)" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="široko-1" src="orig" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-mf930708-160-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1657,7 +1657,7 @@
 <LM>w#w-mf930708-160-p4s3w23</LM>
 </w.rf>
 <form>mechanismech</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="mechanismus_,s_^(^DD**mechanizmus)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf930708-160-p4s3w24">
 <src.rf>manual</src.rf>
@@ -1769,7 +1769,7 @@
 <LM>w#w-mf930708-160-p5s1w9</LM>
 </w.rf>
 <form>politikou</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf930708-160-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2205,7 +2205,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p6s2w11">
@@ -2214,7 +2214,7 @@
 <LM>w#w-mf930708-160-p6s2w11</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-mf930708-160-p6s3">
@@ -2459,7 +2459,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p6s4w24">
@@ -2494,7 +2494,7 @@
 <LM>w#w-mf930708-160-p6s5w3</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930708-160-p6s5w4">
 <src.rf>manual</src.rf>
@@ -2502,7 +2502,7 @@
 <LM>w#w-mf930708-160-p6s5w4</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930708-160-p6s5w5">
 <src.rf>manual</src.rf>
@@ -2744,7 +2744,7 @@
 <LM>w#w-mf930708-160-p6s7w8</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-160-p6s7w9">
 <src.rf>manual</src.rf>
@@ -2861,7 +2861,7 @@
 <LM>w#w-mf930708-160-p6s8w8</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf930708-160-p6s8w9">
 <src.rf>manual</src.rf>
@@ -3437,7 +3437,7 @@
 <tag>
 <AM lemma="GATT_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="GATT_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="GATT-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GATT_^(General_Agreement_on_Tariff_and_Trade)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p7s1w31">

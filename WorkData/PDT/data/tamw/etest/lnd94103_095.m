@@ -275,7 +275,7 @@
 <LM>w#w-lnd94103-095-p1s1w30</LM>
 </w.rf>
 <form>vokálně</form>
-<tag lemma="vokálně_,a_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="vokálně_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w31">
 <src.rf>manual</src.rf>

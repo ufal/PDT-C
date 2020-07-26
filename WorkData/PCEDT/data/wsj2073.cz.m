@@ -1703,7 +1703,7 @@
 <LM>w#w-wsj2073-001-p1s5W5</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2073-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>

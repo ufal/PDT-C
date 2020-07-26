@@ -12,7 +12,7 @@
 <LM>w#w-d1t781-2</LM>
 </w.rf>
 <form>Jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m993-d1t781-3">
 <w.rf>
@@ -29,7 +29,7 @@
 <LM>w#w-d1t781-4</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m993-d1t781-5">
 <w.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-d1t792-7</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m993-d1t792-11">
 <w.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-d1t823-2</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m993-d1e820-x2-4358">
 <w.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-d1t827-9</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m993-d1t827-10">
 <w.rf>
@@ -1846,7 +1846,7 @@
 <LM>w#w-d1t874-4</LM>
 </w.rf>
 <form>nejdřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m993-d1t874-5">
 <w.rf>
@@ -2517,7 +2517,7 @@
 <LM>w#w-d1t892-32</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m993-d1t892-34">
 <w.rf>
@@ -2853,7 +2853,7 @@
 <LM>w#w-d1t907-9</LM>
 </w.rf>
 <form>bránila</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="bránit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m993-5965-6028">
 <w.rf>

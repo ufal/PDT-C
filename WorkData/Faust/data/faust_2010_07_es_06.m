@@ -453,7 +453,7 @@
 <LM>w#w-es_06-SCzechM-p0555-s1-w36</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" recommended="1">Db-------------</tag>
 </m>
 <m id="es_06-SCzechM-p0555-s1-w37">
 <w.rf>
@@ -578,7 +578,7 @@
 <LM>w#w-es_06-SCzechM-p0558-s1-w10</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" recommended="1">Db-------------</tag>
 </m>
 <m id="es_06-SCzechM-p0558-s1-w11">
 <w.rf>
@@ -736,7 +736,7 @@
 <LM>w#w-es_06-SCzechM-p0558-s1-w24</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_06-SCzechM-p0558-s1-w25">
 <w.rf>
@@ -909,7 +909,7 @@
 <LM>w#w-es_06-SCzechM-p0560-s1-w2</LM>
 </w.rf>
 <form>Může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="es_06-SCzechM-p0560-s1-w3">
 <w.rf>
@@ -1742,7 +1742,7 @@
 <LM>w#w-es_06-SCzechM-p0576-s1-w2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_06-SCzechM-p0576-s1-w3">
 <w.rf>
@@ -1848,7 +1848,7 @@
 <LM>w#w-es_06-SCzechM-p0579-s1-w1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" recommended="1">Db-------------</tag>
 </m>
 <m id="es_06-SCzechM-p0579-s1-w2">
 <w.rf>
@@ -2029,7 +2029,7 @@
 <LM>w#w-es_06-SCzechM-p0581-s1-w8</LM>
 </w.rf>
 <form>vázán</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" recommended="1">VsYS----X-API--</tag>
+<tag lemma="vázat" recommended="1">VsYS----X-API--</tag>
 </m>
 <m id="es_06-SCzechM-p0581-s1-w9">
 <w.rf>
@@ -2084,7 +2084,7 @@
 <LM>w#w-es_06-SCzechM-p0585-s1-w1</LM>
 </w.rf>
 <form>Naším</form>
-<tag lemma="můj_^(přivlast.)" recommended="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" recommended="1">PSZS7-P1-------</tag>
 </m>
 <m id="es_06-SCzechM-p0585-s1-w2">
 <w.rf>
@@ -2597,7 +2597,7 @@
 </w.rf>
 <form>zejména</form>
 <tag>
-<AM lemma="zejména-1" recommended="1">Db-------------</AM>
+<AM lemma="zejména-2" recommended="1">TT-------------</AM>
 <AM lemma="zejména-2">TT-------------</AM>
 </tag>
 </m>
@@ -2939,7 +2939,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít">VB-S---3P-AAI--</AM>
 <AM lemma="dnít">VB-S---3P-AA--2</AM>
 </tag>
@@ -3164,7 +3164,7 @@
 <LM>w#w-es_06-SCzechM-p0597-s1-w2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_06-SCzechM-p0597-s1-w3">
 <w.rf>
@@ -3726,7 +3726,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -4174,7 +4174,7 @@
 </w.rf>
 <form>níže</form>
 <tag>
-<AM lemma="nízko-1_^(níže,_než...)" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" recommended="1">Dg-------2A---1</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP1-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP4-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP5-----A----</AM>
@@ -4448,7 +4448,7 @@
 <LM>w#w-es_06-SCzechM-p0618-s1-w13</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="es_06-SCzechM-p0618-s1-w14">
 <w.rf>
@@ -4830,7 +4830,7 @@
 <LM>w#w-es_06-SCzechM-p0618-s1-w47</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="es_06-SCzechM-p0618-s1-w48">
 <w.rf>
@@ -4895,7 +4895,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -6115,7 +6115,7 @@
 <LM>w#w-es_06-SCzechM-p0630-s1-w1</LM>
 </w.rf>
 <form>Nemůžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" recommended="1">VB-P---2P-NAI--</tag>
+<tag lemma="moci" recommended="1">VB-P---2P-NAI--</tag>
 </m>
 <m id="es_06-SCzechM-p0630-s1-w2">
 <w.rf>
@@ -6892,7 +6892,7 @@
 <LM>w#w-es_06-SCzechM-p0639-s1-w39</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="es_06-SCzechM-p0639-s1-w40">
 <w.rf>
@@ -7088,7 +7088,7 @@
 <AM lemma="níže">NNFS2-----A----</AM>
 <AM lemma="níže">NNFS5-----A----</AM>
 <AM lemma="nížit">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" selected="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="es_06-SCzechM-p0639-s1-w54">
@@ -7107,7 +7107,7 @@
 <LM>w#w-es_06-SCzechM-p0639-s1-w55</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="es_06-SCzechM-p0639-s1-w56">
 <w.rf>

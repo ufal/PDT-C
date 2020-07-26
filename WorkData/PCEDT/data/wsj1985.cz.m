@@ -1733,7 +1733,7 @@
 <LM>w#w-wsj1985-001-p1s5W15</LM>
 </w.rf>
 <form>spořitelen</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1985-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>

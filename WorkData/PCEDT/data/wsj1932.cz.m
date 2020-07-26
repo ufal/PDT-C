@@ -1416,7 +1416,7 @@
 <LM>w#w-wsj1932-001-p1s4W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1932-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4157,7 +4157,7 @@
 <LM>w#w-wsj1932-001-p1s12W29</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1932-001-p1s12W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4481,7 +4481,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1932-001-p1s14W12-Ta">
@@ -8697,7 +8697,7 @@
 <LM>w#w-wsj1932-001-p1s32W12</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1932-001-p1s32W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11997,7 +11997,7 @@
 <LM>w#w-wsj1932-001-p1s45W4</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1932-001-p1s45W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12157,7 +12157,7 @@
 <LM>w#w-wsj1932-001-p1s45W18</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1932-001-p1s45W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12432,7 +12432,7 @@
 <LM>w#w-wsj1932-001-p1s46W19</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1932-001-p1s46W20-Ta">
 <src.rf>tagger-a</src.rf>

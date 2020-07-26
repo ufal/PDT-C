@@ -278,7 +278,7 @@
 <LM>w#w-wsj1563-001-p1s1W4</LM>
 </w.rf>
 <form>raději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1563-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1148,7 +1148,7 @@
 <LM>w#w-wsj1563-001-p1s5W19</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1563-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1460,7 +1460,7 @@
 <LM>w#w-wsj1563-001-p1s6W21</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1563-001-p1s6W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1679,7 +1679,7 @@
 <LM>w#w-wsj1563-001-p1s8W1</LM>
 </w.rf>
 <form>Abyste</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m-wsj1563-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2610,7 +2610,7 @@
 <LM>w#w-wsj1563-001-p1s11W17</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m-wsj1563-001-p1s11W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3492,7 +3492,7 @@
 <LM>w#w-wsj1563-001-p1s14W16</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1563-001-p1s14W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3898,7 +3898,7 @@
 <LM>w#w-wsj1563-001-p1s16W9</LM>
 </w.rf>
 <form>nesprávně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1" selected="1">Dg-------1N----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-wsj1563-001-p1s16W10-Ta">
 <src.rf>tagger-a</src.rf>

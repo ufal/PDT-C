@@ -4182,7 +4182,7 @@
 <LM>w#w-d1t1644-18</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m015-d1t1644-19">
 <w.rf>
@@ -4354,7 +4354,7 @@
 <LM>w#w-d1t1646-5</LM>
 </w.rf>
 <form>Přivezli</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m015-d1t1646-3">
 <w.rf>
@@ -4390,7 +4390,7 @@
 <LM>w#w-d1t1646-6</LM>
 </w.rf>
 <form>polívku</form>
-<tag lemma="polívka_,h" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="polívka_,h_^(^GC**polévka)" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m015-d1t1646-8">
 <w.rf>
@@ -4410,7 +4410,7 @@
 <LM>w#w-d1t1646-9</LM>
 </w.rf>
 <form>přivezli</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m015-d1t1646-10">
 <w.rf>
@@ -4534,7 +4534,7 @@
 <LM>w#w-d1t1650-5</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m015-d1t1650-6">
 <w.rf>
@@ -4554,7 +4554,7 @@
 <LM>w#w-d1t1650-7</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m015-d1t1650-8">
 <w.rf>
@@ -4653,14 +4653,14 @@
 <LM>w#w-d1t1650-16</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m015-d1t1650-17">
 <w.rf>
 <LM>w#w-d1t1650-17</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m015-d1t1650-19">
 <w.rf>
@@ -5282,7 +5282,7 @@
 <LM>w#w-d1t1676-2</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m015-d1e1669-x2-271">
 <w.rf>
@@ -5348,7 +5348,7 @@
 <LM>w#w-d1t1676-3</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m015-d1t1676-5">
 <w.rf>
@@ -5549,7 +5549,7 @@
 <LM>w#w-d1t1676-27</LM>
 </w.rf>
 <form>nekoupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-NAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m015-d1e1669-x2-272">
 <w.rf>
@@ -5737,7 +5737,7 @@
 <LM>w#w-d1t1678-1</LM>
 </w.rf>
 <form>Holt</form>
-<tag lemma="holt_,h_,s" src="auto" recommended="1" selected="1">Db-------------</tag>
+<tag lemma="holt_,h" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m015-d1t1678-2">
 <w.rf>
@@ -5755,7 +5755,7 @@
 <AM lemma="jedle" src="auto">NNFS3-----A----</AM>
 <AM lemma="jedle" src="auto">NNFS4-----A----</AM>
 <AM lemma="jedle" src="auto">NNFS6-----A----</AM>
-<AM lemma="jíst_^(konzumovat_jídlo)" src="auto" recommended="1">VpMP----R-AAI--</AM>
+<AM lemma="jíst" src="auto" recommended="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m015-d1t1678-4">

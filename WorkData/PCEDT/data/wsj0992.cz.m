@@ -32,7 +32,7 @@
 <LM>w#w-wsj0992-001-p1s0W2</LM>
 </w.rf>
 <form>vašemu</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</tag>
 </m>
 <m id="m-wsj0992-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-wsj0992-001-p1s2W8</LM>
 </w.rf>
 <form>potřebách</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m-wsj0992-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -843,7 +843,7 @@
 <LM>w#w-wsj0992-001-p1s2W9</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0992-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>

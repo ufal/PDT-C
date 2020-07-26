@@ -290,7 +290,7 @@
 <form>Maď</form>
 <tag>
 <AM lemma="Maďarsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Maďarsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Maďarsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p5s3w4">
@@ -446,7 +446,7 @@
 <AM lemma="bod_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="b-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="bod" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="bod" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p5s5w8">
@@ -517,7 +517,7 @@
 <form>Maď</form>
 <tag>
 <AM lemma="Maďarsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Maďarsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Maďarsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p5s7w4">
@@ -662,7 +662,7 @@
 <form>Maď</form>
 <tag>
 <AM lemma="Maďarsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Maďarsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Maďarsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-083-p5s9w4">
@@ -3300,7 +3300,7 @@
 <LM>w#w-lnd92253-083-p11s2w85</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92253-083-p11s2w86">
 <src.rf>manual</src.rf>

@@ -432,7 +432,7 @@
 <LM>w#w-mf930713-061-p2s3w5</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930713-061-p2s3w6">
 <src.rf>manual</src.rf>

@@ -822,7 +822,7 @@
 <LM>w#w-ln94201-54-p3s2w1</LM>
 </w.rf>
 <form>Stali</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-54-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1437,7 +1437,7 @@
 <LM>w#w-ln94201-54-p5s1w22</LM>
 </w.rf>
 <form>zatčena</form>
-<tag lemma="zatknout" src="orig" selected="1">VsQW----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-ln94201-54-p5s1w23">
 <src.rf>manual</src.rf>
@@ -1814,7 +1814,7 @@
 <LM>w#w-ln94201-54-p6s2w8</LM>
 </w.rf>
 <form>napadeni</form>
-<tag lemma="napadnout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="napadnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-ln94201-54-p6s2w9">
 <src.rf>manual</src.rf>
@@ -1824,7 +1824,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-54-p6s2w10">
@@ -2466,7 +2466,7 @@
 <LM>w#w-ln94201-54-p8s1w4</LM>
 </w.rf>
 <form>slovensko</form>
-<tag lemma="slovenský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="slovensko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94201-54-p8s1w5">
 <src.rf>manual</src.rf>

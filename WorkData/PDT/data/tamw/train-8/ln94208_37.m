@@ -412,7 +412,7 @@
 <LM>w#w-ln94208-37-p2s3w1</LM>
 </w.rf>
 <form>Vorálek</form>
-<tag lemma="Vorálek" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vorálek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-37-p2s3w2">
 <src.rf>manual</src.rf>
@@ -900,7 +900,7 @@
 <LM>w#w-ln94208-37-p2s4w7</LM>
 </w.rf>
 <form>řiditel</form>
-<tag lemma="řiditel_,a" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="řiditel_,a_^(^DD**ředitel)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-37-p2s4w8">
 <src.rf>manual</src.rf>

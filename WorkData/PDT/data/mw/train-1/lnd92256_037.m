@@ -483,7 +483,7 @@
 <LM>w#w-lnd92256-037-p2s3w34</LM>
 </w.rf>
 <form>zaměstnat</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="zaměstnat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92256-037-p2s3w35">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <form>sv</form>
 <tag>
 <AM lemma="svazek_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92256-037-p2s6w18">
@@ -1312,7 +1312,7 @@
 <LM>w#w-lnd92256-037-p3s1w2</LM>
 </w.rf>
 <form>luč</form>
-<tag lemma="luč-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="luč-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92256-037-p3s1w3">
 <src.rf>manual</src.rf>

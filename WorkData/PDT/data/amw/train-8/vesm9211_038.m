@@ -665,7 +665,7 @@
 <LM>w#w-vesm9211-038-p2s5w31</LM>
 </w.rf>
 <form>očí</form>
-<tag lemma="oko" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-vesm9211-038-p2s5w32">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 <LM>w#w-vesm9211-038-p2s9w3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-vesm9211-038-p2s9w4">
 <src.rf>manual</src.rf>
@@ -1687,7 +1687,7 @@
 <form>nalezeny</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsTP----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsTP----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsTP----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-vesm9211-038-p4s1w11">
@@ -2035,7 +2035,7 @@
 <LM>w#w-vesm9211-038-p4s2w9</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-vesm9211-038-p4s2w10">
 <src.rf>manual</src.rf>

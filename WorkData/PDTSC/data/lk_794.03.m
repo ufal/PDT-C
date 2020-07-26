@@ -306,7 +306,7 @@
 <tag>
 <AM lemma="čistý" src="auto" recommended="1">ACNS------A----</AM>
 <AM lemma="čisto" src="manual">Dg-------1A----</AM>
-<AM lemma="čisto-1" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="čisto-1" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m794-d-id94362">
@@ -322,7 +322,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -786,7 +786,7 @@
 <LM>w#w-d1t802-6</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m794-d1t802-7">
 <w.rf>
@@ -853,7 +853,7 @@
 <form>esesákům</form>
 <tag>
 <AM lemma="esesák_,h" src="auto" recommended="1">NNMP3-----A----</AM>
-<AM lemma="esesák" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="esesák_,h" src="manual" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m794-d1t802-16">
@@ -921,7 +921,7 @@
 <AM lemma="vydělávat-1_:T_^(peníze)_(*6at-1)" src="auto" recommended="1">VpMP---XR-AA---</AM>
 <AM lemma="vydělávat-2_:T_^(kůže)_(*6at-2)" src="auto">VpMP---XR-AA---</AM>
 <AM lemma="vydělávat_^(kůže;peníze)_(*4at)" src="manual">VpMP----R-AAI--</AM>
-<AM lemma="vydělávat_^(kůže;peníze)_(*4at)" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="vydělávat_^(*4at)" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m794-d-id95538">
@@ -1608,7 +1608,7 @@
 <AM lemma="houba" src="auto">NNFP4-----A----</AM>
 <AM lemma="houba" src="auto">NNFP5-----A----</AM>
 <AM lemma="houba" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="houby" src="manual" selected="1">TT-------------</AM>
+<AM lemma="houby_,h" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m794-d1t817-4">
@@ -2169,7 +2169,7 @@
 <LM>w#w-d1t842-26</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m794-d-id97956">
 <w.rf>
@@ -2309,7 +2309,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -2410,7 +2410,7 @@
 <form>esesákům</form>
 <tag>
 <AM lemma="esesák_,h" src="auto" recommended="1">NNMP3-----A----</AM>
-<AM lemma="esesák" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="esesák_,h" src="manual" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m794-d-id98382">
@@ -3900,7 +3900,7 @@
 </w.rf>
 <form>nevinně</form>
 <tag>
-<AM lemma="vinně-1_^(kdo_je_vinen/vinna)_(*3ý-1)" src="auto" recommended="1">Dg-------1N----</AM>
+<AM lemma="vinně-1_^(*3ý-1)_(*3ý-2)" src="auto" recommended="1">Dg-------1N----</AM>
 <AM lemma="vinně-2_^(vyrobený_z_vína)_(*3ý-2)" src="auto">Dg-------1N----</AM>
 </tag>
 </m>
@@ -4824,7 +4824,7 @@
 <LM>w#w-d1t909-27</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m794-d1t909-28">
 <w.rf>
@@ -5352,7 +5352,7 @@
 </w.rf>
 <form>řeže</form>
 <tag>
-<AM lemma="řezat" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="řezat" src="auto" recommended="1">VB-S---3P-AAI-1</AM>
 <AM lemma="řež" src="auto">NNFP1-----A----</AM>
 <AM lemma="řež" src="auto">NNFP4-----A----</AM>
 <AM lemma="řež" src="auto">NNFP5-----A----</AM>
@@ -5866,7 +5866,7 @@
 <LM>w#w-d1t941-22</LM>
 </w.rf>
 <form>nemyslel</form>
-<tag lemma="myslet" src="auto" recommended="1">VpYS----R-NA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpYS----R-NAI-1</tag>
 </m>
 <m id="m794-d-id105427">
 <w.rf>
@@ -6197,7 +6197,7 @@
 <LM>w#w-d1t961-1</LM>
 </w.rf>
 <form>vylítl</form>
-<tag lemma="vylítnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
+<tag lemma="vylítnout_,h_^(^GC**vylétnout)" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m794-d1t961-2">
 <w.rf>

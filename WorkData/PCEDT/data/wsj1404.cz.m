@@ -3807,7 +3807,7 @@
 <LM>w#w-wsj1404-001-p1s11W14</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1404-001-p1s11W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4539,7 +4539,7 @@
 <LM>w#w-wsj1404-001-p1s13W12</LM>
 </w.rf>
 <form>nekoupily</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpTP----R-NAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-wsj1404-001-p1s13W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4957,7 +4957,7 @@
 <LM>w#w-wsj1404-001-p1s15W13</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1404-001-p1s15W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5448,7 +5448,7 @@
 <LM>w#w-wsj1404-001-p1s16W16</LM>
 </w.rf>
 <form>spořitelnu</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1404-001-p1s16W17-Ta">
 <src.rf>tagger-a</src.rf>

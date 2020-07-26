@@ -348,7 +348,7 @@
 <LM>w#w-d1t3011-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m019-d1t3011-4">
 <w.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-d1t3019-1</LM>
 </w.rf>
 <form>Kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m019-d1t3019-2">
 <w.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-d1t3019-6</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m019-d1t3021-2">
 <w.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-d1t3021-7</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m019-d1t3021-8">
 <w.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-d1t3059-7</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m019-d1t3059-6">
 <w.rf>
@@ -1466,7 +1466,7 @@
 <LM>w#w-d1t3099-2</LM>
 </w.rf>
 <form>Kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m019-d1t3101-2">
 <w.rf>
@@ -1496,7 +1496,7 @@
 <LM>w#w-d1t3101-3</LM>
 </w.rf>
 <form>uměla</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m019-d1t3101-4">
 <w.rf>
@@ -1796,7 +1796,7 @@
 <LM>w#w-d1t3153-4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m019-d1t3153-5">
 <w.rf>
@@ -1811,7 +1811,7 @@
 </w.rf>
 <form>nejvíce</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A----</AM>
 <AM lemma="nejvíce" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -2018,7 +2018,7 @@
 <LM>w#w-d1t3167-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m019-d1t3167-3">
 <w.rf>
@@ -2537,7 +2537,7 @@
 <LM>w#w-d1t3202-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="zač" src="auto" recommended="1">PY-------------</tag>
+<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m019-d-id144460-punct">
 <w.rf>
@@ -3958,7 +3958,7 @@
 <LM>w#w-d1t3353-6</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m019-d1t3353-5">
 <w.rf>
@@ -3998,7 +3998,7 @@
 </w.rf>
 <form>vydělávat</form>
 <tag>
-<AM lemma="vydělávat-1_^(peníze)_(*6at-1)" src="auto" recommended="1">Vf--------A-I--</AM>
+<AM lemma="vydělávat_^(*4at)" src="auto" recommended="1">Vf--------A-I--</AM>
 <AM lemma="vydělávat-2_:T_^(kůže)_(*6at-2)" src="auto">Vf--------A----</AM>
 </tag>
 </m>

@@ -371,7 +371,7 @@
 <form>zoo</form>
 <tag>
 <AM lemma="ZOO_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZOO" src="auto" selected="1">BNFXX-----A----</AM>
+<AM lemma="zoo" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="ZOO_:B" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -439,7 +439,7 @@
 <LM>w#w-lnd92257-053-p3s3w4</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podruhé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92257-053-p3s3w5">
 <src.rf>manual</src.rf>

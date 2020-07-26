@@ -16,7 +16,7 @@
 <LM>w#w-wsj0751-001-p1s0W1</LM>
 </w.rf>
 <form>Spořitelna</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0751-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -779,7 +779,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>

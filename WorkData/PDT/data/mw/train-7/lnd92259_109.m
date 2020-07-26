@@ -490,7 +490,7 @@
 <LM>w#w-lnd92259-109-p1s3w10</LM>
 </w.rf>
 <form>Slovákem</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92259-109-p1s3w11">
 <src.rf>manual</src.rf>

@@ -756,7 +756,7 @@
 <form>etnicko</form>
 <tag>
 <AM lemma="etnický" src="orig">A2--------A----</AM>
-<AM lemma="etnický" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="etnicko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-062-p1s5w3">
@@ -938,7 +938,7 @@
 <LM>w#w-lnd94104-062-p1s5w23</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94104-062-p1s5w24">
 <src.rf>manual</src.rf>
@@ -1117,7 +1117,7 @@
 <form>UNHCR</form>
 <tag>
 <AM lemma="UNHCR_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="UNHCR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UNHCR_;m_^(United_Nations_High_Commissioner_for_Refugees)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-062-p1s6w21">
@@ -1224,7 +1224,7 @@
 <form>UNHCR</form>
 <tag>
 <AM lemma="UNHCR_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="UNHCR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UNHCR_;m_^(United_Nations_High_Commissioner_for_Refugees)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-062-p1s6w34">
@@ -1517,7 +1517,7 @@
 <LM>w#w-lnd94104-062-p1s8w14</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="OSN_;m_^(Organizace_spojených_národů)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94104-062-p1s8w15">
 <src.rf>manual</src.rf>
@@ -1969,7 +1969,7 @@
 <LM>w#w-lnd94104-062-p1s11w2</LM>
 </w.rf>
 <form>etnicko</form>
-<tag lemma="etnický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="etnicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd94104-062-p1s11w3">
 <src.rf>manual</src.rf>
@@ -2553,7 +2553,7 @@
 <LM>w#w-lnd94104-062-p1s13w8</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd94104-062-p1s13w9">
 <src.rf>manual</src.rf>
@@ -3593,7 +3593,7 @@
 <LM>w#w-lnd94104-062-p1s18w21</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-062-p1s18w22">
 <src.rf>manual</src.rf>
@@ -3885,7 +3885,7 @@
 <LM>w#w-lnd94104-062-p1s20w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="OSN_;m_^(Organizace_spojených_národů)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94104-062-p1s20w4">
 <src.rf>manual</src.rf>

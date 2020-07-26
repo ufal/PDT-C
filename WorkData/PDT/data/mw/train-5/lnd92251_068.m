@@ -328,7 +328,7 @@
 </w.rf>
 <form>Rondeau</form>
 <tag>
-<AM lemma="Rondeau_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rondeau_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="rondó_,t_^(básnický_žánr)" src="auto" recommended="1">NNNXX-----A---1</AM>
 </tag>
 </m>
@@ -508,7 +508,7 @@
 <form>SRN</form>
 <tag>
 <AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SRN_;G_^(^Spolková_republika_Německo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SRN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-068-p3s3w30">
@@ -607,7 +607,7 @@
 <LM>w#w-lnd92251-068-p3s4w11</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-068-p3s4w12">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 </w.rf>
 <form>Rondeau</form>
 <tag>
-<AM lemma="Rondeau_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rondeau_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="rondó_,t_^(básnický_žánr)" src="auto" recommended="1">NNNXX-----A---1</AM>
 </tag>
 </m>

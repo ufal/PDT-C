@@ -1099,7 +1099,7 @@
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
 <AM lemma="o-33" src="auto">Q3-------------</AM>
 <AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
-<AM lemma="omezený_^(*3it)" src="manual" selected="1">AANS7----1A---b</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0182-001-p1s3W28-Ta">
@@ -1795,7 +1795,7 @@
 <AM lemma="dm-10_:B_;m_,t_^(dm_av=dram_avoirdupois=doušek-jed.hmotn.)" src="auto">NNIXX-----A----</AM>
 <AM lemma="dm-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="DM-9_:B_^(Deutsche_Mark)" src="manual">NNFXX-----A----</AM>
-<AM lemma="DM-9_^(Deutsche_Mark)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0182-001-p1s5W12-Ta">
@@ -1982,7 +1982,7 @@
 <AM lemma="dm-2_:B_^(decimetr)" src="auto">NNIXX-----A----</AM>
 <AM lemma="dm-10_:B_;m_,t_^(dm_av=dram_avoirdupois=doušek-jed.hmotn.)" src="auto">NNIXX-----A----</AM>
 <AM lemma="dm-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="DM-9_^(Deutsche_Mark)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0182-001-p1s5W29-Ta">

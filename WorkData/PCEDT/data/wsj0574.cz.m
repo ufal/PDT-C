@@ -599,7 +599,7 @@
 <LM>w#w-wsj0574-001-p1s3W15</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0574-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -927,7 +927,7 @@
 <LM>w#w-wsj0574-001-p1s4W14</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0574-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>

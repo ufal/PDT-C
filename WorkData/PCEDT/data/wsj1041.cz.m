@@ -305,7 +305,7 @@
 <form>AZT</form>
 <tag>
 <AM lemma="azidotymidin_:B_;U" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;U" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="AZT_;U_^(azidotymidin)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1041-001-p1s0W23-Ta">
@@ -1635,7 +1635,7 @@
 <form>AZT</form>
 <tag>
 <AM lemma="azidotymidin_:B_;U" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;U" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="AZT_;U_^(azidotymidin)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1041-001-p1s5W8-Ta">
@@ -1843,7 +1843,7 @@
 <LM>w#w-wsj1041-001-p1s6W3</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1926,7 +1926,7 @@
 <form>AZT</form>
 <tag>
 <AM lemma="azidotymidin_:B_;U" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;U" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="AZT_;U_^(azidotymidin)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1041-001-p1s6W12-Ta">
@@ -3223,7 +3223,7 @@
 <LM>w#w-wsj1041-001-p1s12W6</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1041-001-p1s12W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3288,7 +3288,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1041-001-p1s12W14-Ta">
@@ -3895,7 +3895,7 @@
 <form>AZT</form>
 <tag>
 <AM lemma="azidotymidin_:B_;U" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;U" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="AZT_;U_^(azidotymidin)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1041-001-p1s14W7-Ta">
@@ -4216,7 +4216,7 @@
 <LM>w#w-wsj1041-001-p1s16W4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m-wsj1041-001-p1s16W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4640,7 +4640,7 @@
 <form>AZT</form>
 <tag>
 <AM lemma="azidotymidin_:B_;U" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;U" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="AZT_;U_^(azidotymidin)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1041-001-p1s18W8-Ta">
@@ -5156,7 +5156,7 @@
 <form>AZT</form>
 <tag>
 <AM lemma="azidotymidin_:B_;U" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;U" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="AZT_;U_^(azidotymidin)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1041-001-p1s20W7-Ta">
@@ -7505,7 +7505,7 @@
 <LM>w#w-wsj1041-001-p1s28W4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s28W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7561,7 +7561,7 @@
 <form>AZT</form>
 <tag>
 <AM lemma="azidotymidin_:B_;U" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;U" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="AZT_;U_^(azidotymidin)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1041-001-p1s28W11-Ta">
@@ -8827,7 +8827,7 @@
 <LM>w#w-wsj1041-001-p1s33W5</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj1041-001-p1s33W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8874,7 +8874,7 @@
 <LM>w#w-wsj1041-001-p1s33W9</LM>
 </w.rf>
 <form>nejvíc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m-wsj1041-001-p1s33W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9012,7 +9012,7 @@
 <LM>w#w-wsj1041-001-p1s33W17</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1041-001-p1s33W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9181,7 +9181,7 @@
 <form>AZT</form>
 <tag>
 <AM lemma="azidotymidin_:B_;U" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;U" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="AZT_;U_^(azidotymidin)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1041-001-p1s33W33-Ta">
@@ -9344,7 +9344,7 @@
 <LM>w#w-wsj1041-001-p1s34W14</LM>
 </w.rf>
 <form>myslet</form>
-<tag lemma="myslet" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="myslit" src="auto" recommended="1">Vf--------A-I-1</tag>
 </m>
 <m id="m-wsj1041-001-p1s34W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9522,7 +9522,7 @@
 <form>AZT</form>
 <tag>
 <AM lemma="azidotymidin_:B_;U" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;U" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="AZT_;U_^(azidotymidin)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1041-001-p1s35W8-Ta">
@@ -10110,7 +10110,7 @@
 <form>AZT</form>
 <tag>
 <AM lemma="azidotymidin_:B_;U" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;U" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="AZT_;U_^(azidotymidin)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1041-001-p1s36W33-Ta">

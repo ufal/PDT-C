@@ -5505,7 +5505,7 @@
 <LM>w#w-wsj0655-001-p1s14W29</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0655-001-p1s14W30-Ta">
 <src.rf>tagger-a</src.rf>

@@ -270,7 +270,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-044-p4s2w15">
@@ -1731,7 +1731,7 @@
 <LM>w#w-cmpr9417-044-p10s1w4</LM>
 </w.rf>
 <form>Výhradně</form>
-<tag lemma="výhradně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="výhradně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9417-044-p10s1w5">
 <src.rf>manual</src.rf>

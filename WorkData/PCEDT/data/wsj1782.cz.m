@@ -2436,7 +2436,7 @@
 <LM>w#w-wsj1782-001-p1s8W17</LM>
 </w.rf>
 <form>spořitelen</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1782-001-p1s8W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4233,7 +4233,7 @@
 <LM>w#w-wsj1782-001-p1s16W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1782-001-p1s16W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5020,7 +5020,7 @@
 <LM>w#w-wsj1782-001-p1s19W8</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1782-001-p1s19W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5172,7 +5172,7 @@
 <LM>w#w-wsj1782-001-p1s19W22</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1782-001-p1s19W23-Ta">
 <src.rf>tagger-a</src.rf>

@@ -137,7 +137,7 @@
 <LM>w#w-d1t1642-4</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m123-d1t1642-5">
 <w.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-d1t1642-8</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m123-d1t1642-9">
 <w.rf>
@@ -1005,7 +1005,7 @@
 <LM>w#w-d1t1687-13</LM>
 </w.rf>
 <form>vypravěč</form>
-<tag lemma="vypravěč" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="vypravěč_,s_^(^DD**vyprávěč)" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m123-86-87">
 <w.rf>
@@ -1198,7 +1198,7 @@
 <form>hezky</form>
 <tag>
 <AM lemma="hezky" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="hezky_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hezky" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m123-d1t1700-8">
@@ -1270,7 +1270,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m123-d-id114033-punct">
@@ -1324,7 +1324,7 @@
 <LM>w#w-d1t1712-5</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m123-d1t1714-1">
 <w.rf>
@@ -1594,7 +1594,7 @@
 <form>Dejme</form>
 <tag>
 <AM lemma="Dejm_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="dát" src="auto" recommended="1">Vi-P---1--A-P--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">Vi-P---1--A-P--</AM>
 </tag>
 </m>
 <m id="m123-d1t1729-3">
@@ -2361,7 +2361,7 @@
 <LM>w#w-d1t1764-8</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m123-d1t1764-9">
 <w.rf>
@@ -2410,7 +2410,7 @@
 <LM>w#w-d1t1764-14</LM>
 </w.rf>
 <form>nejraději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m123-d1t1764-15">
 <w.rf>
@@ -3030,7 +3030,7 @@
 <LM>w#w-d1e1777-x2-61</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m123-d1t1791-2">
 <w.rf>
@@ -3068,7 +3068,7 @@
 <LM>w#w-d1t1788-4</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m123-d1t1788-5">
 <w.rf>
@@ -3216,7 +3216,7 @@
 <LM>w#w-d1t1793-1</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m123-d1t1793-3">
 <w.rf>
@@ -3394,7 +3394,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>
@@ -4036,7 +4036,7 @@
 </w.rf>
 <form>Vánoc</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -5046,7 +5046,7 @@
 <LM>w#w-d1t1879-16</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m123-d1t1879-17">
 <w.rf>
@@ -5882,7 +5882,7 @@
 <form>Dřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------2A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m123-d1t1920-2">

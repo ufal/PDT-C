@@ -551,7 +551,7 @@
 <LM>w#w-lnd92256-046-p1s5w7</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92256-046-p1s5w8">
 <src.rf>manual</src.rf>
@@ -1017,7 +1017,7 @@
 <form>em</form>
 <tag>
 <AM lemma="ema" src="orig">NNFP2-----A----</AM>
-<AM lemma="em-99_;Y" src="auto" recommended="1" selected="1">NNXXX-----A---b</AM>
+<AM lemma="em-99_;Y" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 <AM lemma="emo-1_,h_,l_^(styl)" src="auto">NNNP2-----A----</AM>
 </tag>
 </m>

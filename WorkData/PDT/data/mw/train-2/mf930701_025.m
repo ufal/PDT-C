@@ -454,7 +454,7 @@
 <LM>w#w-mf930701-025-p2s3w2</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-1" src="orig" selected="1">ClXS6----------</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf930701-025-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1573,7 +1573,7 @@
 <form>říci</form>
 <tag>
 <AM lemma="říci" src="auto">Vf--------A---1</AM>
-<AM lemma="říci" src="manual" selected="1">Vf--------A-P-1</AM>
+<AM lemma="říci" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-mf930701-025-p5s4w4">
@@ -1622,7 +1622,7 @@
 <LM>w#w-mf930701-025-p5s4w9</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-mf930701-025-p5s4w10">
 <src.rf>manual</src.rf>
@@ -1712,7 +1712,7 @@
 <LM>w#w-mf930701-025-p5s5w5</LM>
 </w.rf>
 <form>vývozně</form>
-<tag lemma="vývozně_,a_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="vývozně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930701-025-p5s5w6">
 <src.rf>manual</src.rf>
@@ -2154,7 +2154,7 @@
 <form>Július</form>
 <tag>
 <AM lemma="Július_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Július_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Július_;Y_,s_^(^DD**Julius)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-025-p8s1w5">
@@ -2867,7 +2867,7 @@
 <form>Kursově</form>
 <tag>
 <AM lemma="kursově_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="kursově_,s_^(^DD**kurzově)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="kursově_^(^DD**kurzově)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-025-p9s3w2">
@@ -3018,7 +3018,7 @@
 <LM>w#w-mf930701-025-p9s4w10</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-025-p9s4w11">
 <src.rf>manual</src.rf>
@@ -3414,7 +3414,7 @@
 <LM>w#w-mf930701-025-p10s2w19</LM>
 </w.rf>
 <form>nemálo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1N----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-mf930701-025-p10s2w20">
 <src.rf>manual</src.rf>

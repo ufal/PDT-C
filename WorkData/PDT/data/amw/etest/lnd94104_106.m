@@ -471,7 +471,7 @@
 <LM>w#w-lnd94104-106-p1s5w5</LM>
 </w.rf>
 <form>pojedou</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-P---3F-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-lnd94104-106-p1s5w6">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-lnd94104-106-p1s6w1</LM>
 </w.rf>
 <form>Pojede</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3F-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd94104-106-p1s6w2">
 <src.rf>manual</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-lnd94104-106-p1s6w7</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="ccm_^(centimetr_krychlový)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94104-106-p1s6w8">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-lnd94104-106-p1s6w10</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="ccm_^(centimetr_krychlový)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94104-106-p1s6w11">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-lnd94104-106-p1s7w13</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="ccm_^(centimetr_krychlový)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94104-106-p1s7w14">
 <src.rf>manual</src.rf>

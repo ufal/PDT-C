@@ -370,7 +370,7 @@
 <LM>w#w-wsj1320-001-p1s0W31</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1320-001-p1s0W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-wsj1320-001-p1s3W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1320-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3645,7 +3645,7 @@
 <LM>w#w-wsj1320-001-p1s14W3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1320-001-p1s14W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5746,7 +5746,7 @@
 <LM>w#w-wsj1320-001-p1s23W23</LM>
 </w.rf>
 <form>vtrhávali</form>
-<tag lemma="vtrhávat_,s_^(*4at)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="vtrhávat_^(*4at)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj1320-001-p1s23W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7806,7 +7806,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1320-001-p1s32W10-Ta">
@@ -9657,7 +9657,7 @@
 <LM>w#w-wsj1320-001-p1s40W25</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1320-001-p1s40W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11674,7 +11674,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1320-001-p1s49W8-Ta">
@@ -15494,7 +15494,7 @@
 <LM>w#w-wsj1320-001-p1s61W21</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1320-001-p1s61W22-Ta">
 <src.rf>tagger-a</src.rf>

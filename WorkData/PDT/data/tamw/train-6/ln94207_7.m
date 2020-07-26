@@ -93,7 +93,7 @@
 <LM>w#w-ln94207-7-p2s1Aw3</LM>
 </w.rf>
 <form>mrk</form>
-<tag lemma="mrk-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="mrk-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94207-7-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-ln94207-7-p2s1Bw4</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94207-7-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-ln94207-7-p2s2w22</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94207-7-p2s2w23">
 <src.rf>manual</src.rf>
@@ -1089,7 +1089,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln94207-7-p2s5w22">

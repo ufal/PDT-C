@@ -147,7 +147,7 @@
 <LM>w#w-mf930701-109-p2s1w13</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930701-109-p2s1w14">
 <src.rf>manual</src.rf>
@@ -246,7 +246,7 @@
 <LM>w#w-mf930701-109-p2s1w25</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930701-109-p2s1w26">
 <src.rf>manual</src.rf>

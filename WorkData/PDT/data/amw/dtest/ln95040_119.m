@@ -1129,7 +1129,7 @@
 <LM>w#w-ln95040-119-p5s2w4</LM>
 </w.rf>
 <form>správně</form>
-<tag lemma="správně_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95040-119-p5s2w5">
 <src.rf>manual</src.rf>

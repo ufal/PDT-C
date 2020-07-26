@@ -396,7 +396,7 @@
 <form>Lancia</form>
 <tag>
 <AM lemma="Lancia-2_;m_^(vozidlo)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lancia_;m" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Lancia_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="lancia_;m" src="auto">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -690,7 +690,7 @@
 <LM>w#w-lnd92256-027-p1s4w5</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92256-027-p1s4w6">
 <src.rf>manual</src.rf>

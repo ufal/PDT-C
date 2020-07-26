@@ -207,7 +207,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s2w18">
@@ -711,7 +711,7 @@
 <LM>w#w-lnd92253-078-p2s5w11</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---2-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ie-</tag>
 </m>
 <m id="m-lnd92253-078-p2s5w12">
 <src.rf>manual</src.rf>
@@ -727,7 +727,7 @@
 <LM>w#w-lnd92253-078-p2s5w13</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-078-p2s5w14">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-lnd92253-078-p2s5w15</LM>
 </w.rf>
 <form>kdybyste</form>
-<tag lemma="kdyby" src="orig" selected="1">J,-P---2-------</tag>
+<tag lemma="kdyby" src="orig" selected="1">J,-----------e-</tag>
 </m>
 <m id="m-lnd92253-078-p2s5w17">
 <src.rf>manual</src.rf>
@@ -1305,7 +1305,7 @@
 <form>VW</form>
 <tag>
 <AM lemma="VW_:B_;m_,t_^(název_firmy/auta_Volkswagen)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VW_;m_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="VW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s5w81">
@@ -1356,7 +1356,7 @@
 <form>VW</form>
 <tag>
 <AM lemma="VW_:B_;m_,t_^(název_firmy/auta_Volkswagen)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VW_;m_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="VW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s5w86">

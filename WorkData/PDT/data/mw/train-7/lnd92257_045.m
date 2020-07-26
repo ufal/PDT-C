@@ -346,7 +346,7 @@
 <LM>w#w-lnd92257-045-p3s4w3</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-lnd92257-045-p3s4w4">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-lnd92257-045-p3s4w21</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-lnd92257-045-p3s4w22">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <form>Majorovou</form>
 <tag>
 <AM lemma="majorův_^(*2)" src="orig">AUFS7M---------</AM>
-<AM lemma="Majorův_:S_^(*2)" src="manual" selected="1">AUFS7M---------</AM>
+<AM lemma="Majorův_;Y_^(*2)" src="manual" selected="1">AUFS7M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-045-p3s5w3">

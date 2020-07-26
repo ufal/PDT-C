@@ -12,14 +12,14 @@
 <LM>w#w-d1t1717-5</LM>
 </w.rf>
 <form>Dám</form>
-<tag lemma="dát" src="auto" recommended="1">VB-S---1P-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m102-d1t1717-2">
 <w.rf>
 <LM>w#w-d1t1717-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m102-d1t1717-3">
 <w.rf>
@@ -926,7 +926,7 @@
 </w.rf>
 <form>jede</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -1249,7 +1249,7 @@
 <LM>w#w-d1t1779-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m102-d1t1779-3">
 <w.rf>
@@ -1522,7 +1522,7 @@
 <LM>w#w-d1t1813-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m102-d1t1813-5">
 <w.rf>
@@ -1549,7 +1549,7 @@
 <LM>w#w-d1t1813-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m102-d1e1808-x2-729">
 <w.rf>
@@ -1904,7 +1904,7 @@
 <LM>w#w-d1t1825-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m102-d1e1822-x2-498">
 <w.rf>
@@ -3041,7 +3041,7 @@
 <tag>
 <AM lemma="kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="kilometrový_:B" src="auto">AAXXX----1A----</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m102-d-m-d1e1892-x2-punct-punct">
@@ -3653,7 +3653,7 @@
 <LM>w#w-d1t1941-2</LM>
 </w.rf>
 <form>kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m102-d1t1941-3">
 <w.rf>

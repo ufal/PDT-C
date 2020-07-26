@@ -232,7 +232,7 @@
 <LM>w#w-ln94204-64-p2s1Bw15</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94204-64-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -700,7 +700,7 @@
 <LM>w#w-ln94204-64-p2s3w13</LM>
 </w.rf>
 <form>ukrást</form>
-<tag lemma="ukrást" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="ukradnout" src="orig" selected="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-ln94204-64-p2s3w14">
 <src.rf>manual</src.rf>
@@ -966,7 +966,7 @@
 <LM>w#w-ln94204-64-p2s4w19</LM>
 </w.rf>
 <form>očí</form>
-<tag lemma="oko" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94204-64-p2s4w20">
 <src.rf>manual</src.rf>
@@ -1244,7 +1244,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-64-p2s6w6">

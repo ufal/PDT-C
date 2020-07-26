@@ -217,7 +217,7 @@
 <LM>w#w-ln95042-064-p3s1Bw14</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95042-064-p3s1Bw15">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-ln95042-064-p3s2w7</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95042-064-p3s2w8">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-ln95042-064-p4s2w7</LM>
 </w.rf>
 <form>stranám</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-ln95042-064-p4s2w8">
 <src.rf>manual</src.rf>
@@ -674,7 +674,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-064-p4s3w9">
@@ -909,7 +909,7 @@
 <LM>w#w-ln95042-064-p4s4w25</LM>
 </w.rf>
 <form>vezmou</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95042-064-p4s4w26">
 <src.rf>manual</src.rf>
@@ -1023,7 +1023,7 @@
 <LM>w#w-ln95042-064-p5s1w10</LM>
 </w.rf>
 <form>kandidátkách</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln95042-064-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1039,7 +1039,7 @@
 <LM>w#w-ln95042-064-p5s1w12</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95042-064-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1079,7 +1079,7 @@
 <LM>w#w-ln95042-064-p5s1w17</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95042-064-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-ln95042-064-p5s2w5</LM>
 </w.rf>
 <form>stranami</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln95042-064-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1311,7 +1311,7 @@
 <LM>w#w-ln95042-064-p5s3w6</LM>
 </w.rf>
 <form>kandidátkách</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln95042-064-p5s3w7">
 <src.rf>manual</src.rf>
@@ -1378,7 +1378,7 @@
 <LM>w#w-ln95042-064-p5s3w14</LM>
 </w.rf>
 <form>stanou</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95042-064-p5s3w15">
 <src.rf>manual</src.rf>
@@ -1394,7 +1394,7 @@
 <LM>w#w-ln95042-064-p5s3w16</LM>
 </w.rf>
 <form>ČSSD</form>
-<tag lemma="ČSSD-1_;m_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČSSD_;m_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95042-064-p5s3w17">
 <src.rf>manual</src.rf>
@@ -1574,7 +1574,7 @@
 <LM>w#w-ln95042-064-p5s5w5</LM>
 </w.rf>
 <form>ČSSD</form>
-<tag lemma="ČSSD-1_;m_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČSSD_;m_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95042-064-p5s5w6">
 <src.rf>manual</src.rf>

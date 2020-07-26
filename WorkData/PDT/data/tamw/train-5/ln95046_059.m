@@ -361,7 +361,7 @@
 <LM>w#w-ln95046-059-p2s3w8</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95046-059-p2s3w9">
 <src.rf>manual</src.rf>
@@ -931,7 +931,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-059-p3s3w17">
@@ -1158,7 +1158,7 @@
 <LM>w#w-ln95046-059-p3s4w10</LM>
 </w.rf>
 <form>muslimsko</form>
-<tag lemma="muslimský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="muslimsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95046-059-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1206,7 +1206,7 @@
 <LM>w#w-ln95046-059-p3s4w16</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95046-059-p3s4w17">
 <src.rf>manual</src.rf>
@@ -1270,7 +1270,7 @@
 <LM>w#w-ln95046-059-p3s4w24</LM>
 </w.rf>
 <form>srbsko</form>
-<tag lemma="srbský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="srbsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95046-059-p3s4w25">
 <src.rf>manual</src.rf>

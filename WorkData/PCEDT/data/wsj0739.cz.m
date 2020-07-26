@@ -1944,7 +1944,7 @@
 <LM>w#w-wsj0739-001-p1s6W10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0739-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3555,7 +3555,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="auto" recommended="1">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------b</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-wsj0739-001-p1s12W24-Ta">
@@ -4663,7 +4663,7 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_;U_^(molekula_DNA)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekulaNA)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFS1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP4-----A----</AM>

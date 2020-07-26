@@ -67,7 +67,7 @@
 <LM>w#w-cmpr9417-042-p2s1w7</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-042-p2s1w8">
 <src.rf>manual</src.rf>
@@ -75,7 +75,7 @@
 <LM>w#w-cmpr9417-042-p2s1w8</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-cmpr9417-042-p2s1w9">
 <src.rf>manual</src.rf>

@@ -53,7 +53,7 @@
 <LM>w#w-mf920901-049-p2s1w2</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_;m_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="KB-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-049-p2s1w3">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-049-p2s5w4">

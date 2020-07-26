@@ -2014,7 +2014,7 @@
 <LM>w#w-wsj0080-001-p1s7W18</LM>
 </w.rf>
 <form>nenechá</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-S---3P-NAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-wsj0080-001-p1s7W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2238,7 +2238,7 @@
 <LM>w#w-wsj0080-001-p1s8W9</LM>
 </w.rf>
 <form>pitbul</form>
-<tag lemma="pitbul_;U_,h" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pitbul_,h" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0080-001-p1s8W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2991,7 +2991,7 @@
 <LM>w#w-wsj0080-001-p1s12W3</LM>
 </w.rf>
 <form>podává</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0080-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3260,7 +3260,7 @@
 <LM>w#w-wsj0080-001-p1s13W22</LM>
 </w.rf>
 <form>nejvíc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m-wsj0080-001-p1s13W23-Ta">
 <src.rf>tagger-a</src.rf>

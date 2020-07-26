@@ -2151,7 +2151,7 @@
 <LM>w#w-wsj0124-001-p1s7W6</LM>
 </w.rf>
 <form>zasaženy</form>
-<tag lemma="zasáhnout" src="auto" recommended="1">VsTP----X-APP--</tag>
+<tag lemma="zasáhnout" src="auto" recommended="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-wsj0124-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>

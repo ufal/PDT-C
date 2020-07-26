@@ -327,7 +327,7 @@
 <LM>w#w-d1t1734-3</LM>
 </w.rf>
 <form>vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m009-d1t1734-4">
 <w.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-d1t1736-2</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m009-d1t1736-3">
 <w.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-d1t1742-1</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m009-d1t1742-4">
 <w.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-d1t1758-2</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m009-d1t1758-4">
 <w.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-d1t1762-12</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m009-d1t1762-13">
 <w.rf>
@@ -814,7 +814,7 @@
 </w.rf>
 <form>vydělat</form>
 <tag>
-<AM lemma="vydělat-1_^(peníze)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="vydělat_^(kůže;peníze)" src="auto" recommended="1">Vf--------A-P--</AM>
 <AM lemma="vydělat-2_:W_^(kůže)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -1922,7 +1922,7 @@
 <LM>w#w-d1t1826-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m009-d1t1826-3">
 <w.rf>
@@ -2034,7 +2034,7 @@
 <LM>w#w-d1t1826-16</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m009-d1e1819-x2-204">
 <w.rf>
@@ -2109,7 +2109,7 @@
 <LM>w#w-d1t1828-9</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m009-d1t1828-10">
 <w.rf>
@@ -2384,7 +2384,7 @@
 <LM>w#w-d1t1848-5</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m009-d-id122093">
 <w.rf>
@@ -2740,7 +2740,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m009-d1e1874-x2-199">
@@ -3216,7 +3216,7 @@
 <LM>w#w-d1t1899-16</LM>
 </w.rf>
 <form>vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m009-541-555">
 <w.rf>
@@ -4135,7 +4135,7 @@
 <LM>w#w-d1t1930-1</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m009-d1t1930-2">
 <w.rf>
@@ -5104,7 +5104,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m009-d1t1984-7">

@@ -532,7 +532,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpQW---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpQW---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">VpQW----R-AAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd94101-037-p1s3w12">
@@ -913,7 +913,7 @@
 <LM>w#w-lnd94101-037-p1s5w31</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94101-037-p1s5w32">
 <src.rf>manual</src.rf>
@@ -1195,7 +1195,7 @@
 <LM>w#w-lnd94101-037-p1s8w8</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-lnd94101-037-p1s8w9">
 <src.rf>manual</src.rf>

@@ -1514,7 +1514,7 @@
 <LM>w#w-lnd92252-064-p2s1w11</LM>
 </w.rf>
 <form>Evropou</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92252-064-p2s1w12">
 <src.rf>manual</src.rf>

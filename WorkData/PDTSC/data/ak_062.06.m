@@ -235,7 +235,7 @@
 <LM>w#w-d1t1329-4</LM>
 </w.rf>
 <form>podávala</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m062-d1t1329-5">
 <w.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-d1t1331-3</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m062-d1t1331-4">
 <w.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-d1t1352-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m062-d1t1352-3">
 <w.rf>
@@ -877,7 +877,7 @@
 <LM>w#w-d1t1358-26</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m062-d1t1358-25">
 <w.rf>
@@ -1020,7 +1020,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m062-d1e1359-x3-801">
@@ -1190,7 +1190,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m062-d1t1385-4">
@@ -2542,7 +2542,7 @@
 <LM>w#w-d1t1448-5</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m062-897-898">
 <w.rf>
@@ -2597,7 +2597,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m062-d1t1454-8">
@@ -2638,7 +2638,7 @@
 <LM>w#w-903-914</LM>
 </w.rf>
 <form>sehnala</form>
-<tag lemma="sehnat" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m062-d1t1459-8">
 <w.rf>
@@ -3681,7 +3681,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m062-d-m-d1e1507-x2-punct-punct">

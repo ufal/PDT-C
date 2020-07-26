@@ -298,7 +298,7 @@
 <LM>w#w-wsj1252-001-p1s1W23</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj1252-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -486,7 +486,7 @@
 <LM>w#w-wsj1252-001-p1s3W10</LM>
 </w.rf>
 <form>správně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1252-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -854,7 +854,7 @@
 <LM>w#w-wsj1252-001-p1s6W7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1252-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>

@@ -55,7 +55,7 @@
 <LM>w#w-mf920902-061-p1s1w5</LM>
 </w.rf>
 <form>PŮL</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf920902-061-p1s1w6">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920902-061-p2s1w8">
@@ -838,7 +838,7 @@
 <LM>w#w-mf920902-061-p2s4Aw23</LM>
 </w.rf>
 <form>nepojedu</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---1F-NAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-S---1F-NAI--</tag>
 </m>
 <m id="m-mf920902-061-p2s4Aw24">
 <src.rf>manual</src.rf>
@@ -1077,7 +1077,7 @@
 <LM>w#w-mf920902-061-p2s5w8</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podruhé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920902-061-p2s5w9">
 <src.rf>manual</src.rf>

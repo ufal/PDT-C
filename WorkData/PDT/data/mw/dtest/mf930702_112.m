@@ -269,7 +269,7 @@
 <form>stol</form>
 <tag>
 <AM lemma="století_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="století" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="století" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-112-p1s1w33">

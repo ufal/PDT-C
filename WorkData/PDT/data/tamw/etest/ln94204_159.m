@@ -197,7 +197,7 @@
 <LM>w#w-ln94204-159-p2s1Bw9</LM>
 </w.rf>
 <form>Evropu</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94204-159-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-ln94204-159-p2s2w21</LM>
 </w.rf>
 <form>Evropu</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94204-159-p2s2w22">
 <src.rf>manual</src.rf>
@@ -863,7 +863,7 @@
 <LM>w#w-ln94204-159-p4s1w20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94204-159-p4s1w21">
 <src.rf>manual</src.rf>
@@ -941,7 +941,7 @@
 <LM>w#w-ln94204-159-p4s2w7</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94204-159-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <LM>w#w-ln94204-159-p6s1w12</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například" src="orig" selected="1">Db------------b</tag>
+<tag lemma="například" src="orig" selected="1">TT------------b</tag>
 </m>
 <m id="m-ln94204-159-p6s1w13">
 <src.rf>manual</src.rf>
@@ -1464,7 +1464,7 @@
 <form>USAID</form>
 <tag>
 <AM lemma="USAID-1_:B_;m_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="USAID-88_;m_^(United_States_Agency_for_Inter._Devel." src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-159-p7s1w6">
@@ -1481,7 +1481,7 @@
 <LM>w#w-ln94204-159-p7s1w7</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-159-p7s1w8">
 <src.rf>manual</src.rf>
@@ -1815,7 +1815,7 @@
 <LM>w#w-ln94204-159-p8s1w14</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---b</tag>
+<tag lemma="USD_^(U.S._dolar)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-159-p8s1w15">
 <src.rf>manual</src.rf>

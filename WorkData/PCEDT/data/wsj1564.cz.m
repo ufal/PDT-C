@@ -366,7 +366,7 @@
 <LM>w#w-wsj1564-001-p1s2W17</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m-wsj1564-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-wsj1564-001-p1s4W6</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1564-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1541,7 +1541,7 @@
 <LM>w#w-wsj1564-001-p1s6W25</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1564-001-p1s6W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2264,7 +2264,7 @@
 <LM>w#w-wsj1564-001-p1s8W23</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1564-001-p1s8W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2358,7 +2358,7 @@
 <LM>w#w-wsj1564-001-p1s9W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1564-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3044,7 +3044,7 @@
 <form>nestabilitu</form>
 <tag>
 <AM lemma="nestabilita" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="stabilita" src="manual" selected="1">NNFS4-----N----</AM>
+<AM lemma="nestabilita" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1564-001-p1s12W13-Ta">
@@ -3127,7 +3127,7 @@
 <LM>w#w-wsj1564-001-p1s13W3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1564-001-p1s13W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4109,7 +4109,7 @@
 <LM>w#w-wsj1564-001-p1s16W4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1564-001-p1s16W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4522,7 +4522,7 @@
 <LM>w#w-wsj1564-001-p1s17W9</LM>
 </w.rf>
 <form>podával</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1564-001-p1s17W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6752,7 +6752,7 @@
 <LM>w#w-wsj1564-001-p1s25W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1564-001-p1s25W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9223,7 +9223,7 @@
 <LM>w#w-wsj1564-001-p1s34W1</LM>
 </w.rf>
 <form>Abyste</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m-wsj1564-001-p1s34W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11497,7 +11497,7 @@
 <LM>w#w-wsj1564-001-p1s43W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1564-001-p1s43W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12209,7 +12209,7 @@
 <LM>w#w-wsj1564-001-p1s45W3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1564-001-p1s45W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12297,7 +12297,7 @@
 <form>nestabilita</form>
 <tag>
 <AM lemma="nestabilita" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="stabilita" src="manual" selected="1">NNFS1-----N----</AM>
+<AM lemma="nestabilita" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1564-001-p1s45W12-Ta">

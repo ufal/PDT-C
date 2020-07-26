@@ -327,7 +327,7 @@
 <LM>w#w-lnd94101-112-p1s4w1</LM>
 </w.rf>
 <form>Mottem</form>
-<tag lemma="motto" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="motto-1_^(heslo)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-lnd94101-112-p1s4w2">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 <LM>w#w-lnd94101-112-p1s5w12</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94101-112-p1s5w13">
 <src.rf>manual</src.rf>

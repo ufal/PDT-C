@@ -757,7 +757,7 @@
 <form>prof</form>
 <tag>
 <AM lemma="profesor_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="prof_^(profesor)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="prof_^(profesor)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-015-p3s5w31">
@@ -776,7 +776,7 @@
 <form>MUDr</form>
 <tag>
 <AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-015-p3s5w33">
@@ -902,7 +902,7 @@
 <LM>w#w-lnd92257-015-p3s6w10</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd92257-015-p3s6w11">
 <src.rf>manual</src.rf>

@@ -730,7 +730,7 @@
 <LM>w#w-mf930708-011-p2s6w6</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf930708-011-p2s6w7">
 <src.rf>manual</src.rf>

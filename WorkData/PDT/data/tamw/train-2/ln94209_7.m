@@ -608,7 +608,7 @@
 <LM>w#w-ln94209-7-p3s2w12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94209-7-p3s2w13">
 <src.rf>manual</src.rf>
@@ -732,7 +732,7 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s" src="manual" selected="1">_^(^DD**milión)</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-ln94209-7-p3s3w11">
@@ -907,7 +907,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-7-p4s2w5">
@@ -972,7 +972,7 @@
 <LM>w#w-ln94209-7-p4s2w12</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94209-7-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1088,7 +1088,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-7-p4s3w7">
@@ -1219,7 +1219,7 @@
 <LM>w#w-ln94209-7-p5s1w12</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-7-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1381,7 +1381,7 @@
 <LM>w#w-ln94209-7-p5s2w9</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94209-7-p5s2w10">
 <src.rf>manual</src.rf>
@@ -1668,7 +1668,7 @@
 <form>chemička</form>
 <tag>
 <AM lemma="chemička_^(továrna)" src="orig">NNFS1-----A----</AM>
-<AM lemma="chemička-1_^(továrna)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="chemička-2" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="chemička-2_^(^FM*5k)" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>

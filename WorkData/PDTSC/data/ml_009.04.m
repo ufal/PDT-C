@@ -19,7 +19,7 @@
 <LM>w#w-d1t1119-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m009-d1t1119-4">
 <w.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-d1t1119-7</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m009-d1t1119-8">
 <w.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-d1t1133-2</LM>
 </w.rf>
 <form>příležitostně</form>
-<tag lemma="příležitostně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="příležitostně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m009-d1t1133-3">
 <w.rf>
@@ -997,7 +997,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -2058,7 +2058,7 @@
 <AM lemma="favorit-2" src="auto" recommended="1">NNMS7-----A----</AM>
 <AM lemma="favorit-3_;Y" src="manual">NNMS7-----A----</AM>
 <AM lemma="Favorit-2_;Y" src="manual">NNMS7-----A----</AM>
-<AM lemma="Favorit_;m_^(vozidlo;kapela)" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Favorit_;m_^(vozidlo)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m009-785-73">
@@ -3027,7 +3027,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m009-d1t1252-3">
@@ -4501,7 +4501,7 @@
 <LM>w#w-d1t1316-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m009-d1t1316-4">
 <w.rf>
@@ -5478,7 +5478,7 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČSD-1_;m_^(Čs._státní_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSD_;m_^(Čs._státní_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m009-d1t1399-1">
@@ -5757,7 +5757,7 @@
 <LM>w#w-d1t1406-20</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m009-d1t1406-21">
 <w.rf>

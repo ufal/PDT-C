@@ -333,7 +333,7 @@
 <form>stali</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpMP----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92255-136-p2s3w22">
@@ -622,7 +622,7 @@
 <form>ME</form>
 <tag>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ME-1_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ME_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-136-p2s4w32">
@@ -681,7 +681,7 @@
 <LM>w#w-lnd92255-136-p2s5w5</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92255-136-p2s5w6">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <LM>w#w-lnd92255-136-p2s5w26</LM>
 </w.rf>
 <form>pojede</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3F-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd92255-136-p2s5w27">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-lnd92255-136-p2s5w29</LM>
 </w.rf>
 <form>bugin</form>
-<tag lemma="bugina_;m" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="bugina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92255-136-p2s5w30">
 <src.rf>manual</src.rf>

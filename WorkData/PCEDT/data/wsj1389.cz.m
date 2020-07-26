@@ -294,7 +294,7 @@
 <LM>w#w-wsj1389-001-p1s1W23</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m-wsj1389-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2493,7 +2493,7 @@
 <LM>w#w-wsj1389-001-p1s8W22</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1389-001-p1s8W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3618,7 +3618,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1389-001-p1s13W2-Ta">
@@ -3862,7 +3862,7 @@
 <LM>w#w-wsj1389-001-p1s14W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj1389-001-p1s14W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5661,7 +5661,7 @@
 <LM>w#w-wsj1389-001-p1s18W38</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1389-001-p1s18W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7672,7 +7672,7 @@
 <LM>w#w-wsj1389-001-p1s24W25</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1389-001-p1s24W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7908,7 +7908,7 @@
 <LM>w#w-wsj1389-001-p1s25W7</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1389-001-p1s25W8-Ta">
 <src.rf>tagger-a</src.rf>

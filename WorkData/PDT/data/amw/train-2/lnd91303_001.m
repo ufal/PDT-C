@@ -331,7 +331,7 @@
 <LM>w#w-lnd91303-001-p1s2w31</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-lnd91303-001-p1s2w33">
 <src.rf>manual</src.rf>

@@ -283,7 +283,7 @@
 <LM>w#w-lnd92256-023-p1s3w3</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92256-023-p1s3w4">
 <src.rf>manual</src.rf>

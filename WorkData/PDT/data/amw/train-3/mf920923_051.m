@@ -133,7 +133,7 @@
 <LM>w#w-mf920923-051-p2s1w12</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf920923-051-p2s1w13">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <form>Bohemians</form>
 <tag>
 <AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Bohemians_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-051-p2s1w20">
@@ -234,7 +234,7 @@
 <LM>w#w-mf920923-051-p2s2w4</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920923-051-p2s2w5">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-mf920923-051-p2s3w1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920923-051-p2s3w2">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <form>Bohemians</form>
 <tag>
 <AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Bohemians_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-051-p2s3w9">

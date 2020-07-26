@@ -1810,7 +1810,7 @@
 <LM>w#w-d1t836-10</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m140-d1t836-11">
 <w.rf>
@@ -2736,7 +2736,7 @@
 <LM>w#w-d1t864-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m140-d1t864-2">
 <w.rf>
@@ -2819,7 +2819,7 @@
 <LM>w#w-d1t864-11</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m140-d1t864-12">
 <w.rf>

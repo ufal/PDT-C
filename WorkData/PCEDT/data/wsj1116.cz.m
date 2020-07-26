@@ -1514,7 +1514,7 @@
 <LM>w#w-wsj1116-001-p1s5W3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1116-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2047,7 +2047,7 @@
 <LM>w#w-wsj1116-001-p1s6W10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1116-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>

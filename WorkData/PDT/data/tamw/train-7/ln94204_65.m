@@ -27,7 +27,7 @@
 <LM>w#w-ln94204-65-p1s1w2</LM>
 </w.rf>
 <form>dopadeni</form>
-<tag lemma="dopadnout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="dopadnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 </s>
 <s id="m-ln94204-65-p2s1A">
@@ -451,7 +451,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-65-p2s2w24">
@@ -481,7 +481,7 @@
 <LM>w#w-ln94204-65-p2s3w2</LM>
 </w.rf>
 <form>zástavu</form>
-<tag lemma="zástava-2_^(věci_jako_záruka)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="zástava_^(prapor_záruka_dechu_zástavba)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94204-65-p2s3w3">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <form>mazdu</form>
 <tag>
 <AM lemma="Mazda-2_;m_^(vozidlo)" src="orig">NNFS4-----A----</AM>
-<AM lemma="mazda_;m" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="mazda" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-65-p2s3w7">
@@ -576,7 +576,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-65-p2s4w7">
@@ -659,7 +659,7 @@
 <LM>w#w-ln94204-65-p2s5w3</LM>
 </w.rf>
 <form>vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-65-p2s5w4">
 <src.rf>manual</src.rf>

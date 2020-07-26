@@ -339,7 +339,7 @@
 <LM>w#w-wsj2411-001-p1s1W9</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj2411-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1095,7 +1095,7 @@
 <LM>w#w-wsj2411-001-p1s4W13</LM>
 </w.rf>
 <form>kdykoliv</form>
-<tag lemma="kdykoli" src="auto" recommended="1">Db------------1</tag>
+<tag lemma="kdykoliv_,s_^(^DD**kdykoli)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj2411-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -538,7 +538,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-075-p1s6w15">
@@ -663,7 +663,7 @@
 <LM>w#w-lnd94105-075-p1s8w1</LM>
 </w.rf>
 <form>Nejhůře</form>
-<tag lemma="špatně" src="orig" selected="1">Dg-------3A---1</tag>
+<tag lemma="hůře" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd94105-075-p1s8w2">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-lnd94105-075-p1s8w2</LM>
 </w.rf>
 <form>postiženo</form>
-<tag lemma="postihnout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="postihnout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-lnd94105-075-p1s8w3">
 <src.rf>manual</src.rf>

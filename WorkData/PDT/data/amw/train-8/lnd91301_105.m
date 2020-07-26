@@ -1240,7 +1240,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VsTP----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VsTP---XX-AP---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VsTP----X-APP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VsTP----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-lnd91301-105-p3s3w12">
@@ -1621,7 +1621,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VsNS----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VsNS---XX-AP---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VsNS----X-APP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VsNS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-lnd91301-105-p4s1w5">
@@ -1872,7 +1872,7 @@
 <LM>w#w-lnd91301-105-p4s2w14</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd91301-105-p4s2w15">
 <src.rf>manual</src.rf>
@@ -2356,7 +2356,7 @@
 <LM>w#w-lnd91301-105-p5s2w19</LM>
 </w.rf>
 <form>nevydá</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-lnd91301-105-p5s2w20">
 <src.rf>manual</src.rf>

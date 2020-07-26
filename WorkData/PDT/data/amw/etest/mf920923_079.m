@@ -54,7 +54,7 @@
 </w.rf>
 <form>vin</form>
 <tag>
-<AM lemma="vin-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="vin-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="vina" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -440,7 +440,7 @@
 <form>MUDr</form>
 <tag>
 <AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-079-p1s1Cw46">

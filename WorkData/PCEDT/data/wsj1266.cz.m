@@ -142,7 +142,7 @@
 <LM>w#w-wsj1266-001-p1s0W12</LM>
 </w.rf>
 <form>událostech</form>
-<tag lemma="událost_^(*3ý)" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="událost" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m-wsj1266-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2574,7 +2574,7 @@
 <LM>w#w-wsj1266-001-p1s7W13</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1266-001-p1s7W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2942,7 +2942,7 @@
 <LM>w#w-wsj1266-001-p1s8W28</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1266-001-p1s8W29-Ta">
 <src.rf>tagger-a</src.rf>

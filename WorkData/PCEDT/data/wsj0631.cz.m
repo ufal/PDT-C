@@ -1665,7 +1665,7 @@
 <LM>w#w-wsj0631-001-p1s5W12</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0631-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>

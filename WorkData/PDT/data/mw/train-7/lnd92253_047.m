@@ -189,7 +189,7 @@
 <form>Greenpeace</form>
 <tag>
 <AM lemma="greenpeace_;m_,t_^(ekologické_hnutí)" src="orig">NNNXX-----A----</AM>
-<AM lemma="greenpeace_;m_^(ekologické_hnutí)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="greenpeace_^(ekologické_hnutí)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p1s1w23">
@@ -402,7 +402,7 @@
 <LM>w#w-lnd92253-047-p2s1w5</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="OSN_;m_^(Organizace_spojených_národů)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92253-047-p2s1w6">
 <src.rf>manual</src.rf>
@@ -1550,7 +1550,7 @@
 <form>Antarktidou</form>
 <tag>
 <AM lemma="antarktida" src="orig">NNFS7-----A----</AM>
-<AM lemma="Antarktida" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
+<AM lemma="Antarktida_;G" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-047-p4s1w5">
@@ -1575,7 +1575,7 @@
 <LM>w#w-lnd92253-047-p4s1w7</LM>
 </w.rf>
 <form>vydat</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92253-047-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1867,7 +1867,7 @@
 <LM>w#w-lnd92253-047-p4s2w13</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-lnd92253-047-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1929,7 +1929,7 @@
 <LM>w#w-lnd92253-047-p4s2w19</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92253-047-p4s2w20">
 <src.rf>manual</src.rf>
@@ -2440,7 +2440,7 @@
 <LM>w#w-lnd92253-047-p6s1w3</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-047-p6s1w4">
 <src.rf>manual</src.rf>
@@ -2661,7 +2661,7 @@
 <LM>w#w-lnd92253-047-p6s2w5</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-047-p6s2w6">
 <src.rf>manual</src.rf>

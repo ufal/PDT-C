@@ -505,7 +505,7 @@
 <LM>w#w-ln95044-089-p2s3w13</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95044-089-p2s3w14">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95044-089-p3s2w8">
@@ -788,7 +788,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln95044-089-p3s2w10">
@@ -1350,7 +1350,7 @@
 <form>Ukradli</form>
 <tag>
 <AM lemma="ukradnout" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="ukrást" src="auto" recommended="1" selected="1">VpMP----R-AAP-1</AM>
+<AM lemma="ukradnout" src="auto" recommended="1" selected="1">VpMP----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-ln95044-089-p4s3w2">

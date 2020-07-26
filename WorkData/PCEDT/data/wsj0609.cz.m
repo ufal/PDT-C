@@ -282,7 +282,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0609-001-p1s0W22-Ta">
@@ -1265,7 +1265,7 @@
 <LM>w#w-wsj0609-001-p1s5W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0609-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2729,7 +2729,7 @@
 <LM>w#w-wsj0609-001-p1s9W21</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0609-001-p1s9W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4521,7 +4521,7 @@
 <AM lemma="Raděj_;Y" src="auto">NNMS3-----A----</AM>
 <AM lemma="Raděj_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Raděj_;Y" src="auto">NNMS6-----A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-wsj0609-001-p1s15W2-Ta">
@@ -9115,7 +9115,7 @@
 <LM>w#w-wsj0609-001-p1s28W10</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0609-001-p1s28W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9908,7 +9908,7 @@
 <LM>w#w-wsj0609-001-p1s29W35</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0609-001-p1s29W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13599,7 +13599,7 @@
 <LM>w#w-wsj0609-001-p1s41W34</LM>
 </w.rf>
 <form>vyňaty</form>
-<tag lemma="vyjmout" src="auto" recommended="1">VsTP----X-APP--</tag>
+<tag lemma="vyjmout" src="auto" recommended="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-wsj0609-001-p1s41W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14850,7 +14850,7 @@
 <LM>w#w-wsj0609-001-p1s45W12</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0609-001-p1s45W13-Ta">
 <src.rf>tagger-a</src.rf>

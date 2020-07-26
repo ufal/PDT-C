@@ -124,7 +124,7 @@
 <LM>w#w-lnd91301-038-p2s1w12</LM>
 </w.rf>
 <form>Gertruda</form>
-<tag lemma="Gertruda" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Gertruda_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-038-p2s1w13">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KSČ_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-038-p3s4w5">
@@ -995,7 +995,7 @@
 <LM>w#w-lnd91301-038-p4s1w17</LM>
 </w.rf>
 <form>podávala</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-038-p4s1w18">
 <src.rf>manual</src.rf>

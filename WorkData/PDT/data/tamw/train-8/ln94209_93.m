@@ -549,7 +549,7 @@
 <LM>w#w-ln94209-93-p2s4w1</LM>
 </w.rf>
 <form>Pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-93-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 <LM>w#w-ln94209-93-p3s2w6</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94209-93-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <LM>w#w-ln94209-93-p3s2w9</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-93-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1313,7 +1313,7 @@
 <form>třičtvrtě</form>
 <tag>
 <AM lemma="třičtvrtě" src="orig">NNFP4-----A----</AM>
-<AM lemma="třičtvrtě" src="auto" recommended="1" selected="1">Cv------------6</AM>
+<AM lemma="třičtvrtě" src="auto" recommended="1" selected="1">Cl-XX----------</AM>
 </tag>
 </m>
 <m id="m-ln94209-93-p3s3w3">
@@ -2028,7 +2028,7 @@
 <form>kdykoliv</form>
 <tag>
 <AM lemma="kdykoliv" src="orig">Db-------------</AM>
-<AM lemma="kdykoli" src="auto" recommended="1" selected="1">Db------------1</AM>
+<AM lemma="kdykoliv_,s_^(^DD**kdykoli)" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-93-p3s6w34">

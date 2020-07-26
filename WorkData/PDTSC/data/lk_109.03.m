@@ -199,7 +199,7 @@
 <LM>w#w-d1t447-26</LM>
 </w.rf>
 <form>nebály</form>
-<tag lemma="bát" src="auto" recommended="1">VpTP----R-NAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m109-d1t449-1">
 <w.rf>
@@ -219,7 +219,7 @@
 <LM>w#w-d1t449-4</LM>
 </w.rf>
 <form>nechaly</form>
-<tag lemma="nechat" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m109-d1t449-3">
 <w.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-d1t455-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m109-d1t455-3">
 <w.rf>
@@ -1583,7 +1583,7 @@
 <form>cm</form>
 <tag>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m109-602-609">
@@ -2461,7 +2461,7 @@
 <LM>w#w-d1t501-10</LM>
 </w.rf>
 <form>skáče</form>
-<tag lemma="skákat" src="auto" recommended="1">VB-S---3P-AA---</tag>
+<tag lemma="skákat" src="auto" recommended="1">VB-S---3P-AAI-1</tag>
 </m>
 <m id="m109-d1t501-11">
 <w.rf>
@@ -4145,7 +4145,7 @@
 <LM>w#w-714-396</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m109-d1t534-8">
 <w.rf>
@@ -5286,7 +5286,7 @@
 <LM>w#w-d1t573-20</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m109-d1t573-21">
 <w.rf>

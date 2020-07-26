@@ -87,7 +87,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-025-p2s1w5">
@@ -256,7 +256,7 @@
 <LM>w#w-mf920924-025-p2s2w9</LM>
 </w.rf>
 <form>politiku</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920924-025-p2s2w10">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-025-p2s2w27">
@@ -714,7 +714,7 @@
 <form>FMZO</form>
 <tag>
 <AM lemma="FMZO_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FMZO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FMZO_;m_^(Federální_ministerstvo_zahraničního_obchodu)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-025-p2s4w14">
@@ -797,7 +797,7 @@
 <LM>w#w-mf920924-025-p2s5w9</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-025-p2s5w10">
 <src.rf>manual</src.rf>
@@ -997,7 +997,7 @@
 <LM>w#w-mf920924-025-p2s6w14</LM>
 </w.rf>
 <form>politicko</form>
-<tag lemma="politický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="politicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf920924-025-p2s6w15">
 <src.rf>manual</src.rf>

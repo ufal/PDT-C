@@ -93,7 +93,7 @@
 <LM>w#w-mf930708-050-p2s1w8</LM>
 </w.rf>
 <form>FAMU</form>
-<tag lemma="FAMU_;m" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="FAMU-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930708-050-p2s1w9">
 <src.rf>manual</src.rf>
@@ -176,7 +176,7 @@
 <LM>w#w-mf930708-050-p2s1w18</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930708-050-p2s1w19">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-mf930708-050-p2s2w20</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930708-050-p2s2w21">
 <src.rf>manual</src.rf>

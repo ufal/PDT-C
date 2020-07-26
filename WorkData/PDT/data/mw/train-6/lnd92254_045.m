@@ -81,7 +81,7 @@
 <form>MKDH</form>
 <tag>
 <AM lemma="MKDH_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MKDH-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MKDH_;m_^(Maďarské_křesťansko_demokratické_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-045-p2s2w5">
@@ -100,7 +100,7 @@
 <form>Együttélés</form>
 <tag>
 <AM lemma="Együttélés_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Együttélés_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Együttélés-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-045-p2s2w7">
@@ -311,7 +311,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-045-p2s2w33">
@@ -338,7 +338,7 @@
 <LM>w#w-lnd92254-045-p2s3w2</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-045-p2s3w3">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-lnd92254-045-p2s3w7</LM>
 </w.rf>
 <form>slovensko</form>
-<tag lemma="slovenský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="slovensko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92254-045-p2s3w8">
 <src.rf>manual</src.rf>

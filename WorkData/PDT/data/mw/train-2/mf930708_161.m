@@ -821,7 +821,7 @@
 <LM>w#w-mf930708-161-p3s3w17</LM>
 </w.rf>
 <form>zatčeni</form>
-<tag lemma="zatknout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-mf930708-161-p3s3w18">
 <src.rf>manual</src.rf>

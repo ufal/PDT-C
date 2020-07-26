@@ -75,7 +75,7 @@
 <LM>w#w-ln95042-017-p1s1w8</LM>
 </w.rf>
 <form>hleděl</form>
-<tag lemma="hledět_^(dívat_se;_hledět_si_něčeho)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="hledět" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95042-017-p1s1w9">
 <src.rf>manual</src.rf>

@@ -468,7 +468,7 @@
 <LM>w#w-vesm9211-046-p2s3w26</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-046-p2s3w27">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-vesm9211-046-p3s2w3</LM>
 </w.rf>
 <form>postiženo</form>
-<tag lemma="postihnout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="postihnout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-vesm9211-046-p3s2w4">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 <LM>w#w-vesm9211-046-p3s2w25</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-vesm9211-046-p3s2w26">
 <src.rf>manual</src.rf>
@@ -1229,7 +1229,7 @@
 <LM>w#w-vesm9211-046-p3s4w13</LM>
 </w.rf>
 <form>antiparkinsonik</form>
-<tag lemma="antiparkinsonikum_;U" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="antiparkinsonikum" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9211-046-p3s4w14">
 <src.rf>manual</src.rf>

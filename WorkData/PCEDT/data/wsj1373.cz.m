@@ -931,7 +931,7 @@
 <tag>
 <AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-wsj1373-001-p1s3W17-Ta">
@@ -1040,7 +1040,7 @@
 <LM>w#w-wsj1373-001-p1s3W25</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1373-001-p1s3W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3204,7 +3204,7 @@
 <LM>w#w-wsj1373-001-p1s11W18</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1373-001-p1s11W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3675,7 +3675,7 @@
 <LM>w#w-wsj1373-001-p1s13W9</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1373-001-p1s13W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4195,7 +4195,7 @@
 <LM>w#w-wsj1373-001-p1s14W8</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m-wsj1373-001-p1s14W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5611,7 +5611,7 @@
 <LM>w#w-wsj1373-001-p1s20W25</LM>
 </w.rf>
 <form>podávat</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj1373-001-p1s20W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6338,7 +6338,7 @@
 <LM>w#w-wsj1373-001-p1s23W3</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1373-001-p1s23W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7149,7 +7149,7 @@
 <LM>w#w-wsj1373-001-p1s26W10</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1373-001-p1s26W11-Ta">
 <src.rf>tagger-a</src.rf>

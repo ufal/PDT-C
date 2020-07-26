@@ -355,7 +355,7 @@
 <LM>w#w-ln94208-128-p3s1w3</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-128-p3s1w4">
 <src.rf>manual</src.rf>
@@ -929,7 +929,7 @@
 <LM>w#w-ln94208-128-p3s4w7</LM>
 </w.rf>
 <form>remizovala</form>
-<tag lemma="remizovat" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="remizovat_,s_^(^DD**remízovat)" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94208-128-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1237,7 +1237,7 @@
 <LM>w#w-ln94208-128-p3s6w7</LM>
 </w.rf>
 <form>déle</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94208-128-p3s6w8">
 <src.rf>manual</src.rf>
@@ -1553,7 +1553,7 @@
 <LM>w#w-ln94208-128-p3s8w4</LM>
 </w.rf>
 <form>remizovala</form>
-<tag lemma="remizovat" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="remizovat_,s_^(^DD**remízovat)" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94208-128-p3s8w5">
 <src.rf>manual</src.rf>
@@ -1661,7 +1661,7 @@
 <LM>w#w-ln94208-128-p4s2w1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-128-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1749,7 +1749,7 @@
 <LM>w#w-ln94208-128-p4s2w12</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-128-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2490,7 +2490,7 @@
 <form>Valletta</form>
 <tag>
 <AM lemma="Valletta_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Valletta-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Valletta_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-128-p4s7w15">

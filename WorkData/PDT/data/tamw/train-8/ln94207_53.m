@@ -146,7 +146,7 @@
 <LM>w#w-ln94207-53-p2s1Bw10</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94207-53-p2s1Bw11">
 <src.rf>manual</src.rf>

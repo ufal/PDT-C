@@ -4617,7 +4617,7 @@
 <LM>w#w-wsj1195-001-p1s12W35</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1195-001-p1s12W36-Ta">
 <src.rf>tagger-a</src.rf>

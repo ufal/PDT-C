@@ -205,7 +205,7 @@
 <form>kope</form>
 <tag>
 <AM lemma="kop" src="auto">NNIS5-----A----</AM>
-<AM lemma="kopat" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="kopat" src="auto" recommended="1">VB-S---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m014-d1e3861-x2-554">
@@ -1421,7 +1421,7 @@
 <LM>w#w-d1t3956-3</LM>
 </w.rf>
 <form>Dával</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m014-d1t3956-1">
 <w.rf>
@@ -2236,7 +2236,7 @@
 <LM>w#w-d1t4023-8</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m014-d1t4025-3">
 <w.rf>
@@ -2849,7 +2849,7 @@
 <LM>w#w-d1t4062-1</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m014-d1t4062-2">
 <w.rf>
@@ -3357,7 +3357,7 @@
 </w.rf>
 <form>jede</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -5269,7 +5269,7 @@
 <LM>w#w-d1t4193-7</LM>
 </w.rf>
 <form>neumím</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m014-d1t4193-8">
 <w.rf>

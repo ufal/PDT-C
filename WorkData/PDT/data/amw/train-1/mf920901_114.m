@@ -433,7 +433,7 @@
 <LM>w#w-mf920901-114-p2s3w12</LM>
 </w.rf>
 <form>lahvemi</form>
-<tag lemma="lahev" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-mf920901-114-p2s3w13">
 <src.rf>manual</src.rf>

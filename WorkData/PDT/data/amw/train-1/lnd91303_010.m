@@ -596,7 +596,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd91303-010-p5s3w19">
@@ -940,7 +940,7 @@
 <LM>w#w-lnd91303-010-p5s5w16</LM>
 </w.rf>
 <form>zatčeno</form>
-<tag lemma="zatknout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-lnd91303-010-p5s5w17">
 <src.rf>manual</src.rf>
@@ -1062,7 +1062,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-010-p5s5w32">
@@ -1295,7 +1295,7 @@
 <LM>w#w-lnd91303-010-p5s7w7</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd91303-010-p5s7w8">
 <src.rf>manual</src.rf>

@@ -135,7 +135,7 @@
 <form>SZ</form>
 <tag>
 <AM lemma="severozápad_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="severozápad" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="severozápad" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92256-094-p1s2w6">

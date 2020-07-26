@@ -4006,7 +4006,7 @@
 <LM>w#w-wsj1495-001-p1s10W38</LM>
 </w.rf>
 <form>podává</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1495-001-p1s10W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6630,7 +6630,7 @@
 <LM>w#w-wsj1495-001-p1s18W26</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1495-001-p1s18W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7133,7 +7133,7 @@
 <LM>w#w-wsj1495-001-p1s19W29</LM>
 </w.rf>
 <form>oč</form>
-<tag lemma="oč" src="auto" recommended="1">PY-------------</tag>
+<tag lemma="co" src="auto" recommended="1">PQ--4--------o-</tag>
 </m>
 <m id="m-wsj1495-001-p1s19W30-Ta">
 <src.rf>tagger-a</src.rf>

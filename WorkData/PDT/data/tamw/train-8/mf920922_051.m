@@ -45,7 +45,7 @@
 <form>ME</form>
 <tag>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ME-1_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ME_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-051-p1s1w5">
@@ -224,7 +224,7 @@
 <LM>w#w-mf920922-051-p2s1w14</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-051-p2s1w15">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <form>ME</form>
 <tag>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ME-1_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ME_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-051-p2s1w18">
@@ -625,7 +625,7 @@
 <LM>w#w-mf920922-051-p2s4w2</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf920922-051-p2s4w3">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-mf920922-051-p2s5w13">
@@ -1082,7 +1082,7 @@
 <form>ME</form>
 <tag>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ME-1_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ME_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-051-p2s6w14">
@@ -1149,7 +1149,7 @@
 <LM>w#w-mf920922-051-p3s1w2</LM>
 </w.rf>
 <form>bugin</form>
-<tag lemma="bugina_;m" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="bugina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920922-051-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1199,7 +1199,7 @@
 <form>Angl</form>
 <tag>
 <AM lemma="Anglie_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Anglie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Anglie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-051-p3s1w9">
@@ -1266,7 +1266,7 @@
 <form>Fr</form>
 <tag>
 <AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-051-p3s1w17">
@@ -1325,7 +1325,7 @@
 <form>Fr</form>
 <tag>
 <AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-051-p3s1w24">
@@ -1429,7 +1429,7 @@
 <form>Něm</form>
 <tag>
 <AM lemma="Německo_:B_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Německo_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Německo_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-051-p3s5w4">
@@ -1516,7 +1516,7 @@
 <form>Niz</form>
 <tag>
 <AM lemma="Nizozemí_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Nizozemí_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Nizozemí_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-051-p3s5w14">
@@ -1543,7 +1543,7 @@
 <form>Lancia</form>
 <tag>
 <AM lemma="Lancia-1_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lancia_;m" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Lancia_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="lancia_;m" src="auto">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -1603,7 +1603,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-051-p3s5w24">
@@ -1678,7 +1678,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-051-p3s5w33">
@@ -1752,7 +1752,7 @@
 <form>ME</form>
 <tag>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ME-1_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ME_^(mistrovství_Evropy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-051-p3s9w4">

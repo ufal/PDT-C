@@ -830,7 +830,7 @@
 <LM>w#w-lnd92255-009-p4s2w22</LM>
 </w.rf>
 <form>vyřčeny</form>
-<tag lemma="vyřknout" src="orig" selected="1">VsTP----X-AP---</tag>
+<tag lemma="vyřknout" src="orig" selected="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-lnd92255-009-p4s2w23">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-009-p4s2w30">
@@ -1189,7 +1189,7 @@
 <LM>w#w-lnd92255-009-p5s2w1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92255-009-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1697,7 +1697,7 @@
 <LM>w#w-lnd92255-009-p5s4w15</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92255-009-p5s4w16">
 <src.rf>manual</src.rf>

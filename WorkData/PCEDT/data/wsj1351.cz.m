@@ -801,7 +801,7 @@
 <LM>w#w-wsj1351-001-p1s1W32</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1351-001-p1s1W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -916,7 +916,7 @@
 <LM>w#w-wsj1351-001-p1s2W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1351-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1255,7 +1255,7 @@
 <LM>w#w-wsj1351-001-p1s3W14</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1351-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>

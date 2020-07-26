@@ -446,7 +446,7 @@
 <LM>w#w-wsj1595-001-p1s1W2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1595-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1146,7 +1146,7 @@
 <LM>w#w-wsj1595-001-p1s2W12</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1595-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1946,7 +1946,7 @@
 <AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNS3-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNS6-----A----</AM>
-<AM lemma="Karolína-2_;G" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Karolína_;G_;Y" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1595-001-p1s4W31-Ta">
@@ -2015,7 +2015,7 @@
 <AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNS3-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNS6-----A----</AM>
-<AM lemma="Karolína-2_;G" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Karolína_;G_;Y" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1595-001-p1s4W34-Ta">

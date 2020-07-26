@@ -324,7 +324,7 @@
 <LM>w#w-ln95045-113-p2s2w12</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95045-113-p2s2w13">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <LM>w#w-ln95045-113-p4s1w9</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95045-113-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1164,7 +1164,7 @@
 <LM>w#w-ln95045-113-p5s1w14</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95045-113-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1207,7 +1207,7 @@
 <form>trabantů</form>
 <tag>
 <AM lemma="Trabant-2_;m_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="trabant_;m" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
+<AM lemma="trabant" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-113-p5s1w20">
@@ -1235,7 +1235,7 @@
 <form>wartburgů</form>
 <tag>
 <AM lemma="wartburg_;m_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="wartburg_;m" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="wartburg" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-113-p5s1w23">

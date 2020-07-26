@@ -2942,7 +2942,7 @@
 <LM>w#w-wsj0606-001-p1s11W6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0606-001-p1s11W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3044,7 +3044,7 @@
 <LM>w#w-wsj0606-001-p1s12W6</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0606-001-p1s12W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3504,7 +3504,7 @@
 <LM>w#w-wsj0606-001-p1s13W4</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0606-001-p1s13W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3716,7 +3716,7 @@
 <form>Enrique</form>
 <tag>
 <AM lemma="Enrique_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Enrique_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Enrique_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0606-001-p1s14W5-Ta">
@@ -4049,7 +4049,7 @@
 <LM>w#w-wsj0606-001-p1s15W10</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0606-001-p1s15W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5107,7 +5107,7 @@
 <LM>w#w-wsj0606-001-p1s18W6</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0606-001-p1s18W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5339,7 +5339,7 @@
 <LM>w#w-wsj0606-001-p1s18W29</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj0606-001-p1s18W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6126,7 +6126,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0606-001-p1s21W2-Ta">

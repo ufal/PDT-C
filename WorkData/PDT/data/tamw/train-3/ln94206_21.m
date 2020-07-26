@@ -51,7 +51,7 @@
 <LM>w#w-ln94206-21-p1s1w5</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94206-21-p1s1w6">
 <src.rf>manual</src.rf>

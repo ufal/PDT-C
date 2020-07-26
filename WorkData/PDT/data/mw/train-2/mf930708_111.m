@@ -385,7 +385,7 @@
 <form>sehnal</form>
 <tag>
 <AM lemma="sehnat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="sehnat" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="sehnat_^(shánět)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930708-111-p2s2w22">

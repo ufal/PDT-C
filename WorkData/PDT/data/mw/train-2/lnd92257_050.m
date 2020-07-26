@@ -77,7 +77,7 @@
 <LM>w#w-lnd92257-050-p2s1w3</LM>
 </w.rf>
 <form>Kurdů</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92257-050-p3s1">
@@ -1124,7 +1124,7 @@
 <LM>w#w-lnd92257-050-p3s6w7</LM>
 </w.rf>
 <form>Kurdů</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92257-050-p3s6w8">
 <src.rf>manual</src.rf>

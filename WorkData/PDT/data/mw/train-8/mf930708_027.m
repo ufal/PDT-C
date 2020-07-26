@@ -598,7 +598,7 @@
 <LM>w#w-mf930708-027-p2s4w26</LM>
 </w.rf>
 <form>tzn</form>
-<tag lemma="tzn-1_^(to_znamená)" src="orig" selected="1">VB-S---3P-AAI-b</tag>
+<tag lemma="tzn-1_^(to_znamená)" src="orig" selected="1">B^-------------</tag>
 </m>
 <m id="m-mf930708-027-p2s4w27">
 <src.rf>manual</src.rf>

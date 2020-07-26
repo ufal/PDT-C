@@ -320,7 +320,7 @@
 <LM>w#w-lnd92256-078-p2s3w6</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd92256-078-p2s3w7">
 <src.rf>manual</src.rf>

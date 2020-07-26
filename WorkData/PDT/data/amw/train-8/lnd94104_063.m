@@ -3348,7 +3348,7 @@
 <LM>w#w-lnd94104-063-p1s24w6</LM>
 </w.rf>
 <form>očima</form>
-<tag lemma="oko" src="orig" selected="1">NNFD7-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFD7-----A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s24w7">
 <src.rf>manual</src.rf>
@@ -3740,7 +3740,7 @@
 <LM>w#w-lnd94104-063-p1s27w11</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s27w12">
 <src.rf>manual</src.rf>
@@ -4559,7 +4559,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-063-p1s32w16">
@@ -4696,7 +4696,7 @@
 <LM>w#w-lnd94104-063-p1s33w12</LM>
 </w.rf>
 <form>vydělají</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd94104-063-p1s33w13">
 <src.rf>manual</src.rf>
@@ -4738,7 +4738,7 @@
 <LM>w#w-lnd94104-063-p1s34w3</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-lnd94104-063-p1s34w4">
 <src.rf>manual</src.rf>
@@ -4849,7 +4849,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-063-p1s35w5">
@@ -5899,7 +5899,7 @@
 <LM>w#w-lnd94104-063-p1s42w11</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-063-p1s42w12">
 <src.rf>manual</src.rf>
@@ -6268,7 +6268,7 @@
 <AM lemma="Claudius_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Claudia_;Y_,t" src="manual">NNFXX-----A----</AM>
 <AM lemma="Claudia_;Y" src="manual">NNFXX-----A----</AM>
-<AM lemma="Claudie_;Y" src="manual" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Claudie_;Y_,s_^(^DD**Klaudie)" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94104-063-p1s44w9">

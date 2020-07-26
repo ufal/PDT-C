@@ -121,7 +121,7 @@
 <LM>w#w-lnd92251-076-p2s1w10</LM>
 </w.rf>
 <form>Multisonikem</form>
-<tag lemma="Multisonic_;m" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Multisonik_;m_,s_^(^DD**Multisonic)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92251-076-p2s1w11">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-lnd92251-076-p2s2w9</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92251-076-p2s2w10">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <LM>w#w-lnd92251-076-p3s1w3</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-076-p3s1w4">
 <src.rf>manual</src.rf>

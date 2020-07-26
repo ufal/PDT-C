@@ -136,7 +136,7 @@
 <form>ČKD</form>
 <tag>
 <AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m134-76-137">
@@ -1041,7 +1041,7 @@
 <LM>w#w-d1t762-23</LM>
 </w.rf>
 <form>Dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m134-193-976">
 <w.rf>
@@ -1142,7 +1142,7 @@
 <LM>w#w-d1t762-34</LM>
 </w.rf>
 <form>Jaroušek</form>
-<tag lemma="Jaroušek_;Y_,h" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Jaroušek_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m134-d1t762-36">
 <w.rf>
@@ -1413,7 +1413,7 @@
 <LM>w#w-d1t772-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m134-d1t772-3">
 <w.rf>
@@ -1695,7 +1695,7 @@
 <LM>w#w-d1t774-6</LM>
 </w.rf>
 <form>kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m134-d1t774-8">
 <w.rf>
@@ -1890,7 +1890,7 @@
 <LM>w#w-d1t774-25</LM>
 </w.rf>
 <form>nenechala</form>
-<tag lemma="nechat" src="auto" recommended="1">VpQW----R-NAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m134-d1t774-26">
 <w.rf>
@@ -2305,7 +2305,7 @@
 <LM>w#w-d1t776-47</LM>
 </w.rf>
 <form>Řikala</form>
-<tag lemma="říkat" src="auto" recommended="1">VpQW----R-AA--6</tag>
+<tag lemma="řikat_,h_^(^GC**říkat)" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m134-d1t776-48">
 <w.rf>
@@ -2484,7 +2484,7 @@
 <LM>w#w-d1t778-2</LM>
 </w.rf>
 <form>ses</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4--2-------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7--4--------s-</tag>
 </m>
 <m id="m134-d1t778-3">
 <w.rf>
@@ -2636,7 +2636,7 @@
 <LM>w#w-d1t781-13</LM>
 </w.rf>
 <form>tvém</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS6-S2-------</tag>
+<tag lemma="tvůj" src="auto" recommended="1">PSZS6-S2-------</tag>
 </m>
 <m id="m134-d1t781-14">
 <w.rf>
@@ -2650,7 +2650,7 @@
 <LM>w#w-d1t781-15</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m134-d1t781-16">
 <w.rf>
@@ -2680,7 +2680,7 @@
 <LM>w#w-d1t783-1</LM>
 </w.rf>
 <form>Kdybys</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---2-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------s-</tag>
 </m>
 <m id="m134-d1t783-3">
 <w.rf>
@@ -2736,7 +2736,7 @@
 <LM>w#w-d1t783-9</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m134-d1t783-10">
 <w.rf>
@@ -2796,7 +2796,7 @@
 <LM>w#w-d1t783-16</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m134-d1t783-17">
 <w.rf>
@@ -3137,7 +3137,7 @@
 <LM>w#w-d1t787-1</LM>
 </w.rf>
 <form>Můžou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m134-d1t787-2">
 <w.rf>
@@ -4137,7 +4137,7 @@
 <LM>w#w-d1t812-4</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m134-d1t812-5">
 <w.rf>
@@ -4297,7 +4297,7 @@
 <LM>w#w-d1t818-9</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m134-d1e813-x2-406">
 <w.rf>
@@ -5074,7 +5074,7 @@
 <LM>w#w-d1t847-10</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m134-d1t847-11">
 <w.rf>
@@ -5342,7 +5342,7 @@
 <LM>w#w-d1t851-11</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m134-d1t851-13">
 <w.rf>

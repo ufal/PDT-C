@@ -1199,7 +1199,7 @@
 <form>mechanismů</form>
 <tag>
 <AM lemma="mechanismus" src="orig">NNIP2-----A----</AM>
-<AM lemma="mechanismus_,s__^(^DD**mechanizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-045-p3s1w68">

@@ -1200,7 +1200,7 @@
 <LM>w#w-wsj1845-001-p1s2W24</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1845-001-p1s2W25-Ta">
 <src.rf>tagger-a</src.rf>

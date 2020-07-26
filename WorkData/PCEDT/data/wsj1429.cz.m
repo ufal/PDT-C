@@ -50,7 +50,7 @@
 <LM>w#w-wsj1429-001-p1s0W3</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1429-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-wsj1429-001-p1s0W22</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1429-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1040,7 +1040,7 @@
 <LM>w#w-wsj1429-001-p1s2W28</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1429-001-p1s2W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1305,7 +1305,7 @@
 <LM>w#w-wsj1429-001-p1s3W5</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1429-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>

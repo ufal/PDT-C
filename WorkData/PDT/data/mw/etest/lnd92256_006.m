@@ -91,7 +91,7 @@
 <LM>w#w-lnd92256-006-p1s1w10</LM>
 </w.rf>
 <form>Tamara</form>
-<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-3_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-006-p1s1w11">
 <src.rf>manual</src.rf>

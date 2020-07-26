@@ -807,7 +807,7 @@
 </w.rf>
 <form>jedu</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---1P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS2-----A----</AM>
 <AM lemma="jed" src="auto">NNIS3-----A----</AM>
 <AM lemma="jed" src="auto">NNIS6-----A----</AM>
@@ -2324,7 +2324,7 @@
 <LM>w#w-d1t672-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m145-d1t672-3">
 <w.rf>
@@ -2395,7 +2395,7 @@
 <LM>w#w-d1t678-7</LM>
 </w.rf>
 <form>myšleno</form>
-<tag lemma="myslet" src="auto" recommended="1">VsNS----X-API--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VsNS----X-API--</tag>
 </m>
 <m id="m145-d-id83265-punct">
 <w.rf>
@@ -2850,7 +2850,7 @@
 <LM>w#w-d1t712-15</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m145-d1e709-x2-428">
 <w.rf>
@@ -3182,7 +3182,7 @@
 <LM>w#w-d1t724-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m145-d1t724-3">
 <w.rf>
@@ -3248,7 +3248,7 @@
 <LM>w#w-d1t730-5</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m145-d1t730-7">
 <w.rf>
@@ -3323,7 +3323,7 @@
 <LM>w#w-d1t740-1</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m145-d-id85522-punct">
 <w.rf>
@@ -3656,7 +3656,7 @@
 <LM>w#w-d1t758-21</LM>
 </w.rf>
 <form>Pražák</form>
-<tag lemma="Pražák_;E" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Pražák_;E_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m145-d1t758-22">
 <w.rf>

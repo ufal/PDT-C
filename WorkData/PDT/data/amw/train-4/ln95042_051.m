@@ -293,7 +293,7 @@
 <AM lemma="TASS_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Tass_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Tass_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TASS_;m_^(ruská_tisková_agentura)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-051-p2s2w11">
@@ -716,7 +716,7 @@
 <LM>w#w-ln95042-051-p3s2w16</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-051-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-ln95042-051-p5s2w12</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95042-051-p5s2w13">
 <src.rf>manual</src.rf>
@@ -1902,7 +1902,7 @@
 <LM>w#w-ln95042-051-p6s2w16</LM>
 </w.rf>
 <form>rusko</form>
-<tag lemma="ruský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="rusko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95042-051-p6s2w17">
 <src.rf>manual</src.rf>

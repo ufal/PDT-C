@@ -886,7 +886,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m714-d1t48-10">
@@ -2220,7 +2220,7 @@
 <LM>w#w-d1t72-9</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m714-d1t72-10">
 <w.rf>
@@ -2301,7 +2301,7 @@
 <LM>w#w-d1t72-16</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m714-d1t72-17">
 <w.rf>
@@ -2804,7 +2804,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m714-d1t92-8">
@@ -3236,7 +3236,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m714-d1t100-3">
@@ -3274,7 +3274,7 @@
 <form>Pane</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="pán_^(oslovení)" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -4220,7 +4220,7 @@
 <LM>w#w-d1t129-4</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m714-d1t129-5">
 <w.rf>
@@ -5023,7 +5023,7 @@
 <LM>w#w-d1t155-5</LM>
 </w.rf>
 <form>Usmyslely</form>
-<tag lemma="usmyslet" src="auto" recommended="1">VpTP----R-AA---</tag>
+<tag lemma="usmyslit" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m714-d1t155-3">
 <w.rf>
@@ -5794,7 +5794,7 @@
 <LM>w#w-d1t174-3</LM>
 </w.rf>
 <form>kdybychom</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m714-d1t174-5">
 <w.rf>
@@ -6387,7 +6387,7 @@
 <LM>w#w-d1t196-4</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m714-d1t196-5">
 <w.rf>

@@ -445,7 +445,7 @@
 <LM>w#w-ln95040-053-p3s1w14</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95040-053-p3s1w15">
 <src.rf>manual</src.rf>

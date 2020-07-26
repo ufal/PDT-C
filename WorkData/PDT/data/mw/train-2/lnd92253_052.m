@@ -133,7 +133,7 @@
 <LM>w#w-lnd92253-052-p1s2w3</LM>
 </w.rf>
 <form>koutů</form>
-<tag lemma="kout_^(př._dát_něco_do_kouta)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kout-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92253-052-p1s2w4">
 <src.rf>manual</src.rf>
@@ -227,7 +227,7 @@
 <LM>w#w-lnd92253-052-p1s3w5</LM>
 </w.rf>
 <form>novofundlanďan</form>
-<tag lemma="novofundlanďan_;U_,l_^(novofundlandský_pes)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="novofundlanďan_,l_^(novofundlandský_pes)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-052-p1s3w6">
 <src.rf>manual</src.rf>

@@ -154,7 +154,7 @@
 <LM>w#w-mu_10-SCzechM-p0985-s1-w12</LM>
 </w.rf>
 <form>sis</form>
-<tag lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--3--2-------</tag>
+<tag lemma="se_^(zvr._zájmeno/částice)" recommended="1">P7--3--------s-</tag>
 </m>
 <m id="mu_10-SCzechM-p0985-s1-w13">
 <w.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-mu_10-SCzechM-p0985-s1-w14</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="mu_10-SCzechM-p0985-s1-w15">
 <w.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-mu_10-SCzechM-p0991-s1-w1</LM>
 </w.rf>
 <form>Zřídka</form>
-<tag lemma="zřídka" recommended="1">Db--------A----</tag>
+<tag lemma="zřídka" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="mu_10-SCzechM-p0991-s1-w2">
 <w.rf>
@@ -2387,7 +2387,7 @@
 <LM>w#w-mu_10-SCzechM-p1010-s1-w10</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" recommended="1">ACYS------A----</tag>
 </m>
 <m id="mu_10-SCzechM-p1010-s1-w11">
 <w.rf>
@@ -2396,7 +2396,7 @@
 <form>bych</form>
 <tag>
 <AM lemma="být" recommended="1">Vc-S---1-------</AM>
-<AM lemma="být" src="manual" selected="1">Vc-S---1----I--</AM>
+<AM lemma="být" src="manual" selected="1">Vc----------Ic-</AM>
 </tag>
 </m>
 <m id="mu_10-SCzechM-p1010-s1-w12">
@@ -2910,7 +2910,7 @@
 <form>mysleli</form>
 <tag>
 <AM lemma="myslet" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="myslet" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="myslit" src="manual" selected="1">VpMP----R-AAI-1</AM>
 </tag>
 </m>
 <m id="mu_10-SCzechM-p1017-s1-w15">
@@ -2961,7 +2961,7 @@
 <LM>w#w-mu_10-SCzechM-p1017-s1-w20</LM>
 </w.rf>
 <form>Vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="mu_10-SCzechM-p1017-s1-w21">
 <w.rf>
@@ -4038,7 +4038,7 @@
 <AM lemma="dík-1">NNIP4-----A----</AM>
 <AM lemma="dík-1">NNIP5-----A----</AM>
 <AM lemma="díky">RR--3----------</AM>
-<AM lemma="díky" src="manual" selected="1">TT-------------</AM>
+<AM lemma="díky" src="manual" selected="1">RR--3----------</AM>
 </tag>
 </m>
 <m id="mu_10-SCzechM-p1044-s1-w4">
@@ -4381,7 +4381,7 @@
 <LM>w#w-mu_10-SCzechM-p1045-s1-w13</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" recommended="1">Db-------------</tag>
 </m>
 <m id="mu_10-SCzechM-p1045-s1-w14">
 <w.rf>
@@ -4556,7 +4556,7 @@
 </w.rf>
 <form>pane</form>
 <tag>
-<AM lemma="pan_^(oslovení)" recommended="1">NNMS5-----A----</AM>
+<AM lemma="pan" recommended="1">NNMS5-----A----</AM>
 <AM lemma="pán_^(oslovení)">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -4760,7 +4760,7 @@
 <LM>w#w-mu_10-SCzechM-p1046-s1-w22</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" recommended="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" recommended="1">PSZS7-P1-------</tag>
 </m>
 <m id="mu_10-SCzechM-p1046-s1-w23">
 <w.rf>
@@ -4915,7 +4915,7 @@
 <LM>w#w-mu_10-SCzechM-p1046-s1-w35</LM>
 </w.rf>
 <form>exkluzivně</form>
-<tag lemma="exkluzivně_^(*1í)" recommended="1">Dg-------1A----</tag>
+<tag lemma="exkluzivně_^(^DD**exkluzívně)_(*1í)" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="mu_10-SCzechM-p1046-s1-w36">
 <w.rf>
@@ -5971,7 +5971,7 @@
 <LM>w#w-mu_10-SCzechM-p1060-s1-w32</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="mu_10-SCzechM-p1060-s1-w33">
 <w.rf>

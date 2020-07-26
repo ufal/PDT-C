@@ -2418,7 +2418,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1257-001-p1s5W15-Ta">
@@ -4214,7 +4214,7 @@
 <LM>w#w-wsj1257-001-p1s12W11</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1257-001-p1s12W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4284,7 +4284,7 @@
 <LM>w#w-wsj1257-001-p1s12W18</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1257-001-p1s12W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4821,7 +4821,7 @@
 <LM>w#w-wsj1257-001-p1s14W7</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1257-001-p1s14W8-Ta">
 <src.rf>tagger-a</src.rf>

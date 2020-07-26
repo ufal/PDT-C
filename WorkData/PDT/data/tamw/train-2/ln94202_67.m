@@ -159,7 +159,7 @@
 <LM>w#w-ln94202-67-p2s1Bw10</LM>
 </w.rf>
 <form>extremistů</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94202-67-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -630,7 +630,7 @@
 <LM>w#w-ln94202-67-p3s1w12</LM>
 </w.rf>
 <form>přivézt</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="přivézt" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94202-67-p3s1w13">
 <src.rf>manual</src.rf>

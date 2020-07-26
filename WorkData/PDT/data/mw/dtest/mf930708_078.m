@@ -162,7 +162,7 @@
 <form>TJ</form>
 <tag>
 <AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-1_;m_^(tělovýchovná_jednota)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TJ_;m_^(tělovýchovná_jednota)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-078-p2s1w10">
@@ -1039,7 +1039,7 @@
 <LM>w#w-mf930708-078-p3s3w8</LM>
 </w.rf>
 <form>předal</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-078-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1602,7 +1602,7 @@
 <form>TJ</form>
 <tag>
 <AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-1_;m_^(tělovýchovná_jednota)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TJ_;m_^(tělovýchovná_jednota)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-078-p3s7w13">
@@ -1869,7 +1869,7 @@
 <form>ČSTV</form>
 <tag>
 <AM lemma="ČSTV_:B_^(Československý_svaz_tělesné_výchovy)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSTV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSTV_^(Československý_svazělesné_výchovy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-078-p3s9w5">
@@ -2090,7 +2090,7 @@
 <form>TJ</form>
 <tag>
 <AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-1_;m_^(tělovýchovná_jednota)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TJ_;m_^(tělovýchovná_jednota)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-078-p3s9w32">
@@ -2213,7 +2213,7 @@
 <LM>w#w-mf930708-078-p3s10w10</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930708-078-p3s10w11">
 <src.rf>manual</src.rf>
@@ -2601,7 +2601,7 @@
 <LM>w#w-mf930708-078-p3s13w11</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-078-p3s13w12">
 <src.rf>manual</src.rf>

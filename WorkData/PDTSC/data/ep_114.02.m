@@ -242,7 +242,7 @@
 <LM>w#w-d1t574-8</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m114-d1t574-10">
 <w.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-d1t581-2</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m114-d1t581-3">
 <w.rf>
@@ -2134,7 +2134,7 @@
 <LM>w#w-d1t624-10</LM>
 </w.rf>
 <form>vyrube</form>
-<tag lemma="vyrubat" src="auto" recommended="1">VB-S---3P-AA---</tag>
+<tag lemma="vyrubat" src="auto" recommended="1">VB-S---3P-AAP-1</tag>
 </m>
 <m id="m114-d1t624-11">
 <w.rf>
@@ -3616,7 +3616,7 @@
 <LM>w#w-d1t669-3</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m114-d1t669-4">
 <w.rf>
@@ -3653,7 +3653,7 @@
 </w.rf>
 <form>dnem</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNS7-----A----</AM>
 </tag>
 </m>
@@ -3923,7 +3923,7 @@
 <LM>w#w-d1t683-4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m114-d-id84967-punct">
 <w.rf>
@@ -5281,7 +5281,7 @@
 <LM>w#w-d1t729-3</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m114-d1t729-4">
 <w.rf>
@@ -6856,7 +6856,7 @@
 <LM>w#w-d1t775-5</LM>
 </w.rf>
 <form>vezmete</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VB-P---2P-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m114-d-id89990-punct">
 <w.rf>
@@ -6928,7 +6928,7 @@
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM>
 <AM lemma="metrový" src="manual">AAXXX----1A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m114-d-id90150-punct">

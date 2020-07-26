@@ -2250,7 +2250,7 @@
 <LM>w#w-wsj0780-001-p1s7W9</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0780-001-p1s7W10-Ta">
 <src.rf>tagger-a</src.rf>

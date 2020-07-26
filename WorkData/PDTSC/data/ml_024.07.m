@@ -221,7 +221,7 @@
 <LM>w#w-d1t1941-8</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m024-d1t1951-1">
 <w.rf>
@@ -439,7 +439,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m024-d-m-d1e1952-x2-punct-punct">
@@ -925,7 +925,7 @@
 <LM>w#w-d1t2006-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m024-d1t2006-3">
 <w.rf>
@@ -1340,7 +1340,7 @@
 <LM>w#w-d1t2053-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m024-d1t2053-3">
 <w.rf>
@@ -2042,7 +2042,7 @@
 <LM>w#w-d1t2114-28</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m024-d1t2114-29">
 <w.rf>
@@ -2491,7 +2491,7 @@
 <form>Evropa</form>
 <tag>
 <AM lemma="Evropa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Evropa_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Evropa_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m024-d-m-d1e2109-x3-punct-punct">
@@ -2858,7 +2858,7 @@
 <LM>w#w-d1t2145-6</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m024-d1t2145-7">
 <w.rf>
@@ -3694,7 +3694,7 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČSD-1_;m_^(Čs._státní_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSD_;m_^(Čs._státní_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m024-d-m-d1e2186-x2-punct-punct">
@@ -3835,7 +3835,7 @@
 <LM>w#w-d1t2204-10</LM>
 </w.rf>
 <form>Nejdřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m024-d1t2204-11">
 <w.rf>

@@ -137,7 +137,7 @@
 <LM>w#w-mf920923-049-p1s1w15</LM>
 </w.rf>
 <form>Evropu</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf920923-049-p3s1">
@@ -983,7 +983,7 @@
 <LM>w#w-mf920923-049-p4s6w6</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-mf920923-049-p4s6w7">
 <src.rf>manual</src.rf>

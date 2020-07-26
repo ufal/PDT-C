@@ -281,7 +281,7 @@
 <AM lemma="Albert-1_;Y_,t" src="auto">NNMS4-----A----</AM>
 <AM lemma="Alberta-1_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Alberta-1_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alberta_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0479-001-p1s0W24-Ta">
@@ -1077,7 +1077,7 @@
 <tag>
 <AM lemma="Albert-1_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Albert-1_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Alberta-1_;G" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alberta_;G_;Y_;m" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>

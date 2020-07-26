@@ -614,7 +614,7 @@
 <LM>w#w-wsj0985-001-p1s1W2</LM>
 </w.rf>
 <form>nesprávně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1N----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1N----</tag>
 </m>
 <m id="m-wsj0985-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1075,7 +1075,7 @@
 <LM>w#w-wsj0985-001-p1s2W20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0985-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>

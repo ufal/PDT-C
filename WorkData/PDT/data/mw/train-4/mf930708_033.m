@@ -67,7 +67,7 @@
 <LM>w#w-mf930708-033-p1s1w7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-033-p2s1">
@@ -110,7 +110,7 @@
 </w.rf>
 <form>han</form>
 <tag>
-<AM lemma="han-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="han-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="hana_^(pohana)" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -569,7 +569,7 @@
 <LM>w#w-mf930708-033-p2s3w22</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf930708-033-p2s3w23">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-033-p3s1w2">

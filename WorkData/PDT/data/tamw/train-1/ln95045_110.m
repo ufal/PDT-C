@@ -864,7 +864,7 @@
 <form>VŠE</form>
 <tag>
 <AM lemma="VŠE_:B_;m_^(Vysoká_škola_ekonomická)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VŠE_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VŠE_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p3s2w5">
@@ -915,7 +915,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p3s2w11">

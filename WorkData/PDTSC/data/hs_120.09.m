@@ -517,7 +517,7 @@
 <AM lemma="půl-1" src="auto">ClXS6----------</AM>
 <AM lemma="půl-1" src="auto">ClXS7----------</AM>
 <AM lemma="půl-2" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="půl-2" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="půl-1" src="auto" selected="1">Cl-XX----------</AM>
 <AM lemma="půl-3" src="auto">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -620,7 +620,7 @@
 <LM>w#w-d1t1377-26</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m120-d-id145728-punct">
 <w.rf>
@@ -812,7 +812,7 @@
 <LM>w#w-d1t1377-50</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m120-d1t1377-51">
 <w.rf>
@@ -915,7 +915,7 @@
 </w.rf>
 <form>nejméně</form>
 <tag>
-<AM lemma="málo-3" src="auto" recommended="1">Dg-------3A----</AM>
+<AM lemma="méně" src="auto" recommended="1">Dg-------3A----</AM>
 <AM lemma="nejméně" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -2104,7 +2104,7 @@
 <LM>w#w-d1t1437-2</LM>
 </w.rf>
 <form>nenechaly</form>
-<tag lemma="nechat" src="auto" recommended="1">VpTP----R-NAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m120-d1t1437-3">
 <w.rf>
@@ -2114,7 +2114,7 @@
 <tag>
 <AM lemma="ujít-1_^(vzdálenost,_kus_cesty)" src="auto">Vf--------A----</AM>
 <AM lemma="ujít-2_^(výdělek;_pozornost)" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="ujít-2_^(výdělek;_pozornost)" src="manual" selected="1">Vf--------A-I--</AM>
+<AM lemma="ujít-1_^(kus_cesty,výdělek)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m120-504-509">
@@ -3625,7 +3625,7 @@
 <LM>w#w-d1t1479-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m120-d1t1479-7">
 <w.rf>

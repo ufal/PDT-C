@@ -748,7 +748,7 @@
 <LM>w#w-d1t1426-6</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m006-d-id98518">
 <w.rf>
@@ -2800,7 +2800,7 @@
 <LM>w#w-d1t1590-2</LM>
 </w.rf>
 <form>přivezla</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m006-d1t1590-3">
 <w.rf>
@@ -3667,7 +3667,7 @@
 <LM>w#w-d1t1655-7</LM>
 </w.rf>
 <form>radši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m006-d1t1655-8">
 <w.rf>

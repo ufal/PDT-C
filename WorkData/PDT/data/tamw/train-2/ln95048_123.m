@@ -388,7 +388,7 @@
 <LM>w#w-ln95048-123-p2s2w21</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95048-123-p2s2w22">
 <src.rf>manual</src.rf>

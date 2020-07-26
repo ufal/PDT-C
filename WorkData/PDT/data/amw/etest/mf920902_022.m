@@ -827,7 +827,7 @@
 <LM>w#w-mf920902-022-p2s6w10</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920902-022-p2s6w11">
 <src.rf>manual</src.rf>

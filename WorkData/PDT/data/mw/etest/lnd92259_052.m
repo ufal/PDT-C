@@ -713,7 +713,7 @@
 <LM>w#w-lnd92259-052-p3s4w37</LM>
 </w.rf>
 <form>Demosthenes</form>
-<tag lemma="Démosthénes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Demosthenes_;Y_,s_^(^DD**Démosthénes)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-052-p3s4w38">
 <src.rf>manual</src.rf>

@@ -589,7 +589,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m795-d1t246-11">
@@ -598,7 +598,7 @@
 </w.rf>
 <form>řeže</form>
 <tag>
-<AM lemma="řezat" src="auto" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="řezat" src="auto" selected="1">VB-S---3P-AAI-1</AM>
 <AM lemma="řež" src="auto">NNFP1-----A----</AM>
 <AM lemma="řež" src="auto">NNFP4-----A----</AM>
 <AM lemma="řež" src="auto">NNFP5-----A----</AM>
@@ -1618,7 +1618,7 @@
 <LM>w#w-d1t285-11</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m795-d1t285-13">
 <w.rf>
@@ -4853,7 +4853,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m795-d1t402-1">
@@ -4929,7 +4929,7 @@
 <LM>w#w-d1t402-8</LM>
 </w.rf>
 <form>dávaly</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m795-d1t402-6">
 <w.rf>
@@ -5062,7 +5062,7 @@
 <LM>w#w-d1t407-5</LM>
 </w.rf>
 <form>radši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m795-d-id76336">
 <w.rf>
@@ -5098,7 +5098,7 @@
 <form>dávali</form>
 <tag>
 <AM lemma="dávat_^(*3t)" src="auto" recommended="1">VpMP----R-AAI--</AM>
-<AM lemma="dávat_^(*3t)" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="dávat-1_^(*5t-1)" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m795-d1t407-10">
@@ -5217,7 +5217,7 @@
 <LM>w#w-d1t411-11</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m795-d1e29-x54-161">
 <w.rf>
@@ -5455,7 +5455,7 @@
 <LM>w#w-d1t420-1</LM>
 </w.rf>
 <form>dávali</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m795-d1t420-2">
 <w.rf>
@@ -5576,7 +5576,7 @@
 <LM>w#w-d1t420-8</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m795-d1t420-9">
 <w.rf>
@@ -6583,7 +6583,7 @@
 <LM>w#w-d1t448-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m795-d1t448-3">
 <w.rf>

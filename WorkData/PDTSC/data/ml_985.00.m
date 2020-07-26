@@ -1574,7 +1574,7 @@
 <LM>w#w-d1t112-1</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m985-d1t112-2">
 <w.rf>
@@ -2582,7 +2582,7 @@
 <LM>w#w-d1t175-3</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m985-d1t175-4">
 <w.rf>
@@ -2655,7 +2655,7 @@
 <LM>w#w-d1t175-11</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m985-d1t175-12">
 <w.rf>
@@ -3361,7 +3361,7 @@
 <form>Švýcar</form>
 <tag>
 <AM lemma="Švýcar_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Švýcary_;G" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Švýcary-2_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="švýcar_,s_^(vrátný;;člen_švýcarské_gardy)" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -3716,7 +3716,7 @@
 <LM>w#w-d1t251-6</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m985-d1t251-7">
 <w.rf>
@@ -4346,7 +4346,7 @@
 <LM>w#w-d1t285-2</LM>
 </w.rf>
 <form>francouština</form>
-<tag lemma="francouština" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="francouština_,i_^(^DS**francouzština)" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m985-d-id62917">
 <w.rf>
@@ -4617,7 +4617,7 @@
 <LM>w#w-d1t304-3</LM>
 </w.rf>
 <form>francouštinu</form>
-<tag lemma="francouština" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="francouština_,i_^(^DS**francouzština)" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m985-d1t304-4">
 <w.rf>
@@ -4963,7 +4963,7 @@
 <tag>
 <AM lemma="překládat-1_^(přemístit)" src="auto" recommended="1">VpQW----R-AAI--</AM>
 <AM lemma="překládat-2_^(přehnout)" src="auto">VpQW----R-AAI--</AM>
-<AM lemma="překládat-3_^(z_jazyka)" src="auto" selected="1">VpQW----R-AAI--</AM>
+<AM lemma="překládat" src="auto" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m985-d1t326-18">
@@ -5756,7 +5756,7 @@
 </w.rf>
 <form>vydělal</form>
 <tag>
-<AM lemma="vydělat-1_^(peníze)" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="vydělat_^(kůže;peníze)" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="vydělat-2_:W_^(kůže)" src="auto">VpYS---XR-AA---</AM>
 </tag>
 </m>
@@ -6050,7 +6050,7 @@
 <LM>w#w-d1t386-6</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m985-d1t386-7">
 <w.rf>
@@ -6221,7 +6221,7 @@
 <LM>w#w-d1t390-8</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m985-d1t392-1">
 <w.rf>
@@ -6563,7 +6563,7 @@
 </w.rf>
 <form>nejvíc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A---1</AM>
 <AM lemma="nejvíce" src="auto">Ca--X---------1</AM>
 </tag>
 </m>

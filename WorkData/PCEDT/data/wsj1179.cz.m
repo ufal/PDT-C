@@ -218,7 +218,7 @@
 <LM>w#w-wsj1179-001-p1s0W20</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1179-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1550,7 +1550,7 @@
 <LM>w#w-wsj1179-001-p1s6W12</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1179-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>

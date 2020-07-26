@@ -741,7 +741,7 @@
 <LM>w#w-wsj0792-001-p1s2W17</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0792-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-wsj0792-001-p1s2W31</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0792-001-p1s2W32-Ta">
 <src.rf>tagger-a</src.rf>

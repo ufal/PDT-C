@@ -12,7 +12,7 @@
 <LM>w#w-d1t3045-1</LM>
 </w.rf>
 <form>Vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m062-d1t3045-2">
 <w.rf>
@@ -540,7 +540,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m062-d1e2995-x5-1007">
@@ -777,7 +777,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m062-d1e3078-x2-1014">
@@ -1300,7 +1300,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m062-78-79">
@@ -1698,7 +1698,7 @@
 <LM>w#w-d1t3150-17</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m062-d1t3150-18">
 <w.rf>
@@ -2014,7 +2014,7 @@
 <LM>w#w-d1t3160-1</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m062-d1t3160-3">
 <w.rf>
@@ -2056,7 +2056,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m062-d1t3165-5">
@@ -2387,7 +2387,7 @@
 <AM lemma="Nerad-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Nerad-2_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Nerad_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="rád" src="auto" recommended="1">ACYS------N----</AM>
+<AM lemma="rád-1" src="auto" recommended="1">ACYS------N----</AM>
 </tag>
 </m>
 <m id="m062-d1t3178-4">
@@ -2561,7 +2561,7 @@
 <LM>w#w-d1t3189-8</LM>
 </w.rf>
 <form>Uměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m062-d1t3189-3">
 <w.rf>
@@ -3058,7 +3058,7 @@
 <LM>w#w-d1t3217-6</LM>
 </w.rf>
 <form>Můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m062-d1t3217-7">
 <w.rf>
@@ -3209,7 +3209,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m062-290-291">
@@ -3559,7 +3559,7 @@
 <LM>w#w-d1t3239-9</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m062-347-348">
 <w.rf>
@@ -3600,7 +3600,7 @@
 </w.rf>
 <form>nadával</form>
 <tag>
-<AM lemma="nadávat-1_^(spílat)_(*6at-1)" src="auto" recommended="1">VpYS----R-AAI--</AM>
+<AM lemma="nadávat_^(*4at)" src="auto" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="nadávat-2_:T_^(obdařit,_dotovat)_(*6at-2)" src="auto">VpYS---XR-AA---</AM>
 <AM lemma="nadávat_:T" src="auto">VpYS---XR-AA---</AM>
 </tag>
@@ -3833,7 +3833,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>

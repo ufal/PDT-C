@@ -609,7 +609,7 @@
 <LM>w#w-d1t592-7</LM>
 </w.rf>
 <form>nebránila</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" recommended="1">VpQW----R-NAI--</tag>
+<tag lemma="bránit" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m126-560-561">
 <w.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-d1t594-4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m126-d1t594-5">
 <w.rf>
@@ -1569,7 +1569,7 @@
 </w.rf>
 <form>nejvíc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A---1</AM>
 <AM lemma="nejvíce" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -1800,7 +1800,7 @@
 <LM>w#w-d1t628-4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m126-d-id85297-punct">
 <w.rf>
@@ -1893,7 +1893,7 @@
 <LM>w#w-d1t628-17</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m126-1054-1058">
 <w.rf>
@@ -2408,7 +2408,7 @@
 <LM>w#w-d1t667-8</LM>
 </w.rf>
 <form>Abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m126-d1t667-9">
 <w.rf>
@@ -2873,7 +2873,7 @@
 <LM>w#w-d1t680-6</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m126-d1t680-8">
 <w.rf>
@@ -3560,7 +3560,7 @@
 <LM>w#w-d1t712-6</LM>
 </w.rf>
 <form>nejdřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m126-d1t712-7">
 <w.rf>
@@ -4256,7 +4256,7 @@
 <LM>w#w-d1t741-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m126-d-id90051-punct">
 <w.rf>

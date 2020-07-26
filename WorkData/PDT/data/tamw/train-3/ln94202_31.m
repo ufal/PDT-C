@@ -712,7 +712,7 @@
 <LM>w#w-ln94202-31-p3s2w1</LM>
 </w.rf>
 <form>Nejvíc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A---1</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------3A---1</tag>
 </m>
 <m id="m-ln94202-31-p3s2w2">
 <src.rf>manual</src.rf>

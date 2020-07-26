@@ -276,7 +276,7 @@
 <LM>w#w-d1t782-4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m052-d1t782-5">
 <w.rf>
@@ -1131,7 +1131,7 @@
 <form>ZUŠ</form>
 <tag>
 <AM lemma="ZUŠ_:B_^(základní_umělecká_škola)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ZUŠ_^(základní_umělecká_škola)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ZUŠ_^(základní_umělecká_škola)" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m052-d1t839-3">
@@ -2266,7 +2266,7 @@
 </w.rf>
 <form>Vánocích</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP6-----A----</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -2848,7 +2848,7 @@
 </w.rf>
 <form>Vánocích</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP6-----A----</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -3676,7 +3676,7 @@
 <LM>w#w-d1t1060-2</LM>
 </w.rf>
 <form>nenecháme</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-P---1P-NAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-P---1P-NAP--</tag>
 </m>
 <m id="m052-d1t1062-1">
 <w.rf>
@@ -3703,7 +3703,7 @@
 <form>ujít</form>
 <tag>
 <AM lemma="ujít-1_^(vzdálenost,_kus_cesty)" src="auto">Vf--------A----</AM>
-<AM lemma="ujít-2_^(výdělek;_pozornost)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="ujít-1_^(kus_cesty,výdělek)" src="auto" recommended="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m052-d-id81701-punct">
@@ -4312,7 +4312,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m052-d1t1106-1">
@@ -4569,7 +4569,7 @@
 <form>škoda</form>
 <tag>
 <AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="škoda" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m052-d-id83612-punct">
@@ -4634,7 +4634,7 @@
 <LM>w#w-d1t1129-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m052-d1t1129-4">
 <w.rf>

@@ -1158,7 +1158,7 @@
 <LM>w#w-ln94200-82-p3s4w23</LM>
 </w.rf>
 <form>hledět</form>
-<tag lemma="hledět_^(dívat_se;_hledět_si_něčeho)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="hledět" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94200-82-p3s4w24">
 <src.rf>manual</src.rf>

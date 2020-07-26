@@ -529,7 +529,7 @@
 <LM>w#w-mf930713-159-p3s1w37</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-159-p3s1w38">
 <src.rf>manual</src.rf>

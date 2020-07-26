@@ -155,7 +155,7 @@
 <LM>w#w-mf920923-020-p2s1w16</LM>
 </w.rf>
 <form>Evropa</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-020-p2s1w17">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <form>sv</form>
 <tag>
 <AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920923-020-p2s1w26">
@@ -452,7 +452,7 @@
 <form>mjr</form>
 <tag>
 <AM lemma="major_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="major" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="major" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920923-020-p4s1w5">
@@ -533,7 +533,7 @@
 <LM>w#w-mf920923-020-p4s1w14</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920923-020-p4s1w15">
 <src.rf>manual</src.rf>

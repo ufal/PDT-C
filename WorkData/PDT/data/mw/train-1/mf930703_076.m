@@ -408,7 +408,7 @@
 <LM>w#w-mf930703-076-p2s3w9</LM>
 </w.rf>
 <form>bezcelně</form>
-<tag lemma="bezcelně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="bezcelně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930703-076-p2s3w10">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-076-p2s4w5">
@@ -536,7 +536,7 @@
 <LM>w#w-mf930703-076-p2s4w10</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-076-p2s4w11">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-mf930703-076-p2s4w13</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930703-076-p2s4w14">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-mf930703-076-p2s5w2</LM>
 </w.rf>
 <form>Měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930703-076-p2s5w3">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <LM>w#w-mf930703-076-p2s7w10</LM>
 </w.rf>
 <form>bezcelně</form>
-<tag lemma="bezcelně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="bezcelně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930703-076-p2s7w11">
 <src.rf>manual</src.rf>

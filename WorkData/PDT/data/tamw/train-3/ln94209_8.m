@@ -291,7 +291,7 @@
 <LM>w#w-ln94209-8-p1s1Aw35</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 </s>
 <s id="m-ln94209-8-p1s1B">
@@ -341,7 +341,7 @@
 <LM>w#w-ln94209-8-p1s1Cw2</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-8-p1s1Cw3">
 <src.rf>manual</src.rf>

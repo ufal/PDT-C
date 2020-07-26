@@ -1224,7 +1224,7 @@
 <LM>w#w-wsj0353-001-p1s3W22</LM>
 </w.rf>
 <form>navrženo</form>
-<tag lemma="navrhnout" src="auto" recommended="1">VsNS----X-APP--</tag>
+<tag lemma="navrhnout" src="auto" recommended="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-wsj0353-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1872,7 +1872,7 @@
 <LM>w#w-wsj0353-001-p1s5W8</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj0353-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2698,7 +2698,7 @@
 <LM>w#w-wsj0353-001-p1s7W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0353-001-p1s7W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2895,7 +2895,7 @@
 <LM>w#w-wsj0353-001-p1s7W22</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0353-001-p1s7W23-Ta">
 <src.rf>tagger-a</src.rf>

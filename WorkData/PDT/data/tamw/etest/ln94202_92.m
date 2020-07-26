@@ -77,7 +77,7 @@
 <LM>w#w-ln94202-92-p2s1w3</LM>
 </w.rf>
 <form>sezona</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-92-p2s1w4">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-ln94202-92-p3s1w7</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94202-92-p3s1w8">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-ln94202-92-p3s3w14</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-92-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1743,7 +1743,7 @@
 <LM>w#w-ln94202-92-p4s2w11</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94202-92-p4s2w12">
 <src.rf>manual</src.rf>
@@ -3361,7 +3361,7 @@
 <LM>w#w-ln94202-92-p6s4w19</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-92-p6s4w20">
 <src.rf>manual</src.rf>
@@ -3463,7 +3463,7 @@
 <LM>w#w-ln94202-92-p6s5w6</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-92-p6s5w7">
 <src.rf>manual</src.rf>
@@ -3593,7 +3593,7 @@
 <form>Spa</form>
 <tag>
 <AM lemma="Spa_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Spa_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Spa-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-92-p6s5w23">

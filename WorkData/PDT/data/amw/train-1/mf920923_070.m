@@ -131,7 +131,7 @@
 <LM>w#w-mf920923-070-p1s1w15</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920923-070-p1s1w16">
 <src.rf>manual</src.rf>
@@ -205,7 +205,7 @@
 <form>ČSKOS</form>
 <tag>
 <AM lemma="ČSKOS_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ČSKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSKOS_;m_^(České_a_Slovenská_konfederace_odborových_svazů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-070-p1s1w25">
@@ -298,7 +298,7 @@
 <form>ČSKOS</form>
 <tag>
 <AM lemma="ČSKOS_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ČSKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSKOS_;m_^(České_a_Slovenská_konfederace_odborových_svazů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-070-p1s2w4">

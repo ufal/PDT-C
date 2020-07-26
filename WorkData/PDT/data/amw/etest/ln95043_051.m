@@ -610,7 +610,7 @@
 <form>nalezeno</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsNS----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsNS----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsNS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln95043-051-p2s3w19">

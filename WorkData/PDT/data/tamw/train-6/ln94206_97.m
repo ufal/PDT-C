@@ -418,7 +418,7 @@
 <LM>w#w-ln94206-97-p2s2w8</LM>
 </w.rf>
 <form>pozorně</form>
-<tag lemma="pozorně-1_^(všímavý,_milý,_soustředěný)_(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="pozorně-1_^(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94206-97-p2s2w9">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-ln94206-97-p3s1w10</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94206-97-p3s1w11">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-ln94206-97-p3s1w16</LM>
 </w.rf>
 <form>morytátů</form>
-<tag lemma="morytát_,a" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="morytát_,s_^(^DD**moritát)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94206-97-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 <form>Dobrem</form>
 <tag>
 <AM lemma="dobro" src="orig">NNNS7-----A----</AM>
-<AM lemma="dobro-1_^(prospěch)" src="auto" recommended="1" selected="1">NNNS7-----A----</AM>
+<AM lemma="dobro_^(prospěch;;hudební_nástroj)" src="auto" recommended="1" selected="1">NNNS7-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNS7-----A----</AM>
 </tag>
 </m>
@@ -2277,7 +2277,7 @@
 <LM>w#w-ln94206-97-p4s5w11</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94206-97-p4s5w12">
 <src.rf>manual</src.rf>
@@ -2964,7 +2964,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-97-p5s3Bw5">
@@ -3017,7 +3017,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-97-p5s4w4">

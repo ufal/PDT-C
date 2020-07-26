@@ -64,7 +64,7 @@
 <LM>w#w-d1t2039-14</LM>
 </w.rf>
 <form>přivezla</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m032-d-id126631-punct">
 <w.rf>
@@ -674,7 +674,7 @@
 <LM>w#w-d1t2126-5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m032-d-id128563-punct">
 <w.rf>
@@ -1189,7 +1189,7 @@
 <LM>w#w-d1t2157-3</LM>
 </w.rf>
 <form>potřebách</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m032-d1t2157-4">
 <w.rf>
@@ -1228,7 +1228,7 @@
 <form>Dřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------2A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m032-d1t2159-3">
@@ -1543,7 +1543,7 @@
 <LM>w#w-d1t2161-2</LM>
 </w.rf>
 <form>Neumím</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m032-d1t2161-3">
 <w.rf>
@@ -1642,7 +1642,7 @@
 <form>škoda</form>
 <tag>
 <AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="škoda" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m032-d1t2175-16">
@@ -2279,7 +2279,7 @@
 <LM>w#w-d1t2203-2</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m032-d1t2203-1">
 <w.rf>
@@ -2510,7 +2510,7 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="WC" src="manual" selected="1">BNNXX-----A----</AM>
+<AM lemma="WC_^(water_closet)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m032-94-96_2">
@@ -5102,7 +5102,7 @@
 <LM>w#w-d1t2381-3</LM>
 </w.rf>
 <form>Vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m032-d1t2381-2">
 <w.rf>
@@ -5154,7 +5154,7 @@
 <LM>w#w-d1t2381-8</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m032-d1t2381-9">
 <w.rf>

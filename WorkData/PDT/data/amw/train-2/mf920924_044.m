@@ -1288,7 +1288,7 @@
 <LM>w#w-mf920924-044-p2s5w27</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920924-044-p2s5w28">
 <src.rf>manual</src.rf>

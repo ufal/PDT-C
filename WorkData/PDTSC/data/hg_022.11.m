@@ -184,7 +184,7 @@
 </w.rf>
 <form>nejvíc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A---1</AM>
 <AM lemma="nejvíce" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -326,7 +326,7 @@
 <LM>w#w-d1t3334-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m022-d1t3334-3">
 <w.rf>
@@ -440,7 +440,7 @@
 <LM>w#w-d1t3339-6</LM>
 </w.rf>
 <form>Může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m022-d1t3339-7">
 <w.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-d1t3341-7</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m022-248_2-512">
 <w.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-d1t3373-6</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m022-d1t3375-1">
 <w.rf>
@@ -814,7 +814,7 @@
 <LM>w#w-d1t3375-5</LM>
 </w.rf>
 <form>Koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m022-d1t3375-6">
 <w.rf>
@@ -911,7 +911,7 @@
 <LM>w#w-d1t3375-14</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m022-d1t3375-15">
 <w.rf>
@@ -1064,7 +1064,7 @@
 <LM>w#w-d1t3384-1</LM>
 </w.rf>
 <form>Nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m022-d1t3384-2">
 <w.rf>
@@ -1478,7 +1478,7 @@
 <LM>w#w-d1t3413-10</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m022-d1t3413-11">
 <w.rf>
@@ -1817,7 +1817,7 @@
 <LM>w#w-d1t3444-11</LM>
 </w.rf>
 <form>raději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m022-d1t3444-12">
 <w.rf>
@@ -2138,7 +2138,7 @@
 <LM>w#w-d1t3471-7</LM>
 </w.rf>
 <form>raději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m022-d1t3471-4">
 <w.rf>
@@ -2215,7 +2215,7 @@
 <LM>w#w-d1t3471-15</LM>
 </w.rf>
 <form>přelítlo</form>
-<tag lemma="přelítnout" src="auto" recommended="1">VpNS----R-AAP-1</tag>
+<tag lemma="přelítnout_,h_^(^GC**přelétnout)" src="auto" recommended="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m022-d1t3471-16">
 <w.rf>
@@ -2324,7 +2324,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m022-d1e3474-x2-368">
@@ -2439,7 +2439,7 @@
 <LM>w#w-d1t3501-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m022-d1t3501-3">
 <w.rf>
@@ -2564,7 +2564,7 @@
 <LM>w#w-d1t3510-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m022-d1t3510-7">
 <w.rf>
@@ -2607,7 +2607,7 @@
 <LM>w#w-d1t3514-3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m022-d-m-d1e3511-x2-punct-punct">
 <w.rf>

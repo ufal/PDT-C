@@ -863,7 +863,7 @@
 <LM>w#w-wsj0728-001-p1s1W8</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0728-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1366,7 +1366,7 @@
 <LM>w#w-wsj0728-001-p1s2W20</LM>
 </w.rf>
 <form>vašimi</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSXP7-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSXP7-P2-------</tag>
 </m>
 <m id="m-wsj0728-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1469,7 +1469,7 @@
 <LM>w#w-wsj0728-001-p1s2W30</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0728-001-p1s2W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2331,7 +2331,7 @@
 <LM>w#w-wsj0728-001-p1s6W2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0728-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2735,7 +2735,7 @@
 <LM>w#w-wsj0728-001-p1s7W9</LM>
 </w.rf>
 <form>vašimi</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSXP7-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSXP7-P2-------</tag>
 </m>
 <m id="m-wsj0728-001-p1s7W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2815,7 +2815,7 @@
 <LM>w#w-wsj0728-001-p1s8W1</LM>
 </w.rf>
 <form>Kdybyste</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m-wsj0728-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2839,7 +2839,7 @@
 <LM>w#w-wsj0728-001-p1s8W4</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m-wsj0728-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2962,7 +2962,7 @@
 <LM>w#w-wsj0728-001-p1s8W13</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0728-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4066,7 +4066,7 @@
 <LM>w#w-wsj0728-001-p1s13W25</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0728-001-p1s13W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4832,7 +4832,7 @@
 <LM>w#w-wsj0728-001-p1s16W8</LM>
 </w.rf>
 <form>vašimi</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSXP7-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSXP7-P2-------</tag>
 </m>
 <m id="m-wsj0728-001-p1s16W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4961,7 +4961,7 @@
 <LM>w#w-wsj0728-001-p1s17W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0728-001-p1s17W2-Ta">
 <src.rf>tagger-a</src.rf>

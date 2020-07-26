@@ -98,7 +98,7 @@
 <form>Švýcarech</form>
 <tag>
 <AM lemma="Švýcar_;E" src="auto" recommended="1">NNMP6-----A----</AM>
-<AM lemma="Švýcary_;G" src="auto" selected="1">NNIP6-----A----</AM>
+<AM lemma="Švýcary-1_;G" src="auto" selected="1">NNIP6-----A----</AM>
 <AM lemma="švýcar_,s_^(vrátný;;člen_švýcarské_gardy)" src="auto">NNMP6-----A----</AM>
 </tag>
 </m>
@@ -192,7 +192,7 @@
 <LM>w#w-d1t446-2</LM>
 </w.rf>
 <form>Krom</form>
-<tag lemma="kromě" src="auto" recommended="1">RR--2---------1</tag>
+<tag lemma="krom_,s_^(^DD**kromě)" src="auto" recommended="1">RR--2----------</tag>
 </m>
 <m id="m985-d1t446-3">
 <w.rf>
@@ -227,7 +227,7 @@
 <LM>w#w-d1t449-5</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m985-d1t449-6">
 <w.rf>
@@ -3070,7 +3070,7 @@
 </w.rf>
 <form>sedmdesátinám</form>
 <tag>
-<AM lemma="sedmdesátina`70_^(*3)" src="auto" recommended="1">CyFP3----------</AM>
+<AM lemma="sedmdesátina`70_^(*3)" src="auto" recommended="1">NNFP3-----A----</AM>
 <AM lemma="sedmdesátiny" src="auto">NNFP3-----A----</AM>
 </tag>
 </m>
@@ -4244,7 +4244,7 @@
 <LM>w#w-d1t713-3</LM>
 </w.rf>
 <form>Nejradši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------3A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m985-d1t713-4">
 <w.rf>
@@ -4601,7 +4601,7 @@
 </w.rf>
 <form>nejvíc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A---1</AM>
 <AM lemma="nejvíce" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -4676,7 +4676,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_;U_^(lidský_virus_způsobující_AIDS)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HIV_;U_^(lidský_virus_způsobujícíIDS)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Hiva_;G" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -4882,7 +4882,7 @@
 <LM>w#w-d1t757-2</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m985-d-id77146">
 <w.rf>
@@ -4964,7 +4964,7 @@
 <LM>w#w-d1t757-10</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m985-d-id77250">
 <w.rf>
@@ -5237,7 +5237,7 @@
 <LM>w#w-d1t787-2</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m985-d-id77804">
 <w.rf>

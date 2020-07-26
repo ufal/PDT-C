@@ -353,7 +353,7 @@
 <LM>w#w-mf930713-135-p2s2w13</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930713-135-p2s2w14">
 <src.rf>manual</src.rf>

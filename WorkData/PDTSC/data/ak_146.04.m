@@ -328,7 +328,7 @@
 <form>panenkami</form>
 <tag>
 <AM lemma="panenka-1_^(např_v_oku)" src="auto">NNFP7-----A----</AM>
-<AM lemma="panenka-2_^(na_hraní)" src="auto" recommended="1">NNFP7-----A----</AM>
+<AM lemma="panenka" src="auto" recommended="1">NNFP7-----A----</AM>
 </tag>
 </m>
 <m id="m146-d1t825-13">
@@ -1656,7 +1656,7 @@
 <LM>w#w-d1t863-16</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m146-d1t863-17">
 <w.rf>
@@ -2201,7 +2201,7 @@
 <LM>w#w-d1t887-8</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m146-d1t887-10">
 <w.rf>
@@ -2691,7 +2691,7 @@
 <LM>w#w-d1t912-21</LM>
 </w.rf>
 <form>Může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m146-107-108">
 <w.rf>
@@ -2825,7 +2825,7 @@
 <LM>w#w-d1t914-4</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m146-d1t914-5">
 <w.rf>
@@ -3303,7 +3303,7 @@
 <LM>w#w-d1t932-6</LM>
 </w.rf>
 <form>Nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m146-d1t932-5">
 <w.rf>
@@ -3355,7 +3355,7 @@
 <LM>w#w-d1t934-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m146-d1t934-4">
 <w.rf>
@@ -3374,7 +3374,7 @@
 <LM>w#w-d1t934-5</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m146-d1t934-6">
 <w.rf>

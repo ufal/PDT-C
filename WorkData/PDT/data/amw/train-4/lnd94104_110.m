@@ -92,7 +92,7 @@
 <form>Šp</form>
 <tag>
 <AM lemma="Španělsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Španělsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Španělsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94104-110-p1s6w4">

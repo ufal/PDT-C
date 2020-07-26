@@ -358,7 +358,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpQW---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpQW---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">VpQW----R-AAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd92254-017-p3s3w9">
@@ -851,7 +851,7 @@
 <LM>w#w-lnd92254-017-p4s2w26</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92254-017-p4s2w27">
 <src.rf>manual</src.rf>
@@ -1504,7 +1504,7 @@
 <LM>w#w-lnd92254-017-p4s5w20</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-017-p4s5w21">
 <src.rf>manual</src.rf>

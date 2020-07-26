@@ -57,7 +57,7 @@
 <LM>w#w-id57955-2</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m796-id57955-3">
 <w.rf>
@@ -602,7 +602,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m796-id58459-2">
@@ -2229,7 +2229,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m796-id58658-7">
@@ -2331,7 +2331,7 @@
 <LM>w#w-id58658-39</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m796-id58658-42">
 <w.rf>
@@ -2569,7 +2569,7 @@
 <LM>w#w-id58675-3</LM>
 </w.rf>
 <form>sehnal</form>
-<tag lemma="sehnat" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m796-id58684-1">
 <w.rf>
@@ -2731,7 +2731,7 @@
 <LM>w#w-id58695-3</LM>
 </w.rf>
 <form>Slovák</form>
-<tag lemma="Slovák_;E" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m796-d-id60056">
 <w.rf>
@@ -3036,7 +3036,7 @@
 <LM>w#w-id58748-11</LM>
 </w.rf>
 <form>vymysleli</form>
-<tag lemma="vymyslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="vymyslit" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m796-id58748-12">
 <w.rf>
@@ -5240,7 +5240,7 @@
 <form>esesák</form>
 <tag>
 <AM lemma="esesák_,h" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="esesák" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="esesák_,h" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m796-d-id64758">
@@ -6276,7 +6276,7 @@
 <form>esesák</form>
 <tag>
 <AM lemma="esesák_,h" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="esesák" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="esesák_,h" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m796-d-id66348">

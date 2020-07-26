@@ -2561,7 +2561,7 @@
 <LM>w#w-wsj1471-001-p1s6W11</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1471-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2946,7 +2946,7 @@
 <LM>w#w-wsj1471-001-p1s7W6</LM>
 </w.rf>
 <form>dány</form>
-<tag lemma="dát" src="auto" recommended="1">VsTP----X-APP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1471-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>

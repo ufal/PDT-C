@@ -2557,7 +2557,7 @@
 <LM>w#w-wsj0962-001-p1s6W10</LM>
 </w.rf>
 <form>marketů</form>
-<tag lemma="market" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="market-1" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0962-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3028,7 +3028,7 @@
 <LM>w#w-wsj0962-001-p1s7W6</LM>
 </w.rf>
 <form>nadšen</form>
-<tag lemma="nadchnout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="nadchnout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj0962-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3146,7 +3146,7 @@
 <LM>w#w-wsj0962-001-p1s7W16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0962-001-p1s7W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5481,7 +5481,7 @@
 <LM>w#w-wsj0962-001-p1s17W18</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj0962-001-p1s17W19-Ta">
 <src.rf>tagger-a</src.rf>

@@ -428,7 +428,7 @@
 <LM>w#w-d1t2386-3</LM>
 </w.rf>
 <form>teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m004-d1t2386-4">
 <w.rf>
@@ -1243,7 +1243,7 @@
 <LM>w#w-d1t2427-2</LM>
 </w.rf>
 <form>teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m004-d1t2427-3">
 <w.rf>
@@ -2553,7 +2553,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m004-d1t2542-6">
@@ -2708,7 +2708,7 @@
 <LM>w#w-d1t2555-7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m004-d1e2535-x2-2294">
 <w.rf>
@@ -3969,7 +3969,7 @@
 </w.rf>
 <form>kolikrát</form>
 <tag>
-<AM lemma="kolikrát-1_^(mnohokrát)" src="auto" recommended="1">Co-------------</AM>
+<AM lemma="kolikrát" src="auto" recommended="1">Co-------------</AM>
 <AM lemma="kolikrát-2_^(táz.)" src="auto">Cu-------------</AM>
 </tag>
 </m>
@@ -4007,7 +4007,7 @@
 <LM>w#w-d1t2661-1</LM>
 </w.rf>
 <form>Teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m004-d1t2661-2">
 <w.rf>
@@ -4340,7 +4340,7 @@
 <LM>w#w-d1t2681-5</LM>
 </w.rf>
 <form>přivezou</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m004-d1t2681-7">
 <w.rf>
@@ -4866,7 +4866,7 @@
 <LM>w#w-d1t2718-6</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m004-d-id140553-punct">
 <w.rf>
@@ -5252,7 +5252,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m004-d1t2750-3">
@@ -5615,7 +5615,7 @@
 <LM>w#w-d1t2780-5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m004-d1e2769-x2-1680">
 <w.rf>
@@ -5732,7 +5732,7 @@
 <LM>w#w-d1t2789-1</LM>
 </w.rf>
 <form>Teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m004-d1t2789-2">
 <w.rf>

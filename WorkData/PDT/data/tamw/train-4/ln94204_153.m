@@ -330,7 +330,7 @@
 <LM>w#w-ln94204-153-p3s1w2</LM>
 </w.rf>
 <form>spořitelna</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-153-p3s1w3">
 <src.rf>manual</src.rf>

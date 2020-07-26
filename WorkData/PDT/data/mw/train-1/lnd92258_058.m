@@ -30,7 +30,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p1s1w3">
@@ -91,7 +91,7 @@
 <form>DEJME</form>
 <tag>
 <AM lemma="dát" src="orig">Vi-P---1--A-P--</AM>
-<AM lemma="dát" src="manual" selected="1">Vi-P---1--A-P--</AM>
+<AM lemma="dát-1" src="manual" selected="1">Vi-P---1--A-P--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p2s1w5">
@@ -243,7 +243,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p3s1w12">
@@ -367,7 +367,7 @@
 <LM>w#w-lnd92258-058-p3s1w26</LM>
 </w.rf>
 <form>zbrojnicích</form>
-<tag lemma="zbrojnice_,a_^(*3ík)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="zbrojnice_^(*3ík)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-lnd92258-058-p3s1w27">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-lnd92258-058-p4s1w5</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92258-058-p4s1w6">
 <src.rf>manual</src.rf>
@@ -3620,7 +3620,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p7s1w3">
@@ -3807,7 +3807,7 @@
 <LM>w#w-lnd92258-058-p7s2w6</LM>
 </w.rf>
 <form>maratonů</form>
-<tag lemma="maraton" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="maraton_,s_^(^DD**maratón)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92258-058-p7s2w7">
 <src.rf>manual</src.rf>
@@ -4722,7 +4722,7 @@
 <LM>w#w-lnd92258-058-p8s1w3</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-lnd92258-058-p8s1w4">
 <src.rf>manual</src.rf>
@@ -4786,7 +4786,7 @@
 <LM>w#w-lnd92258-058-p8s1w11</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92258-058-p8s1w12">
 <src.rf>manual</src.rf>
@@ -5162,7 +5162,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p8s2w14">
@@ -6405,7 +6405,7 @@
 <LM>w#w-lnd92258-058-p10s1w15</LM>
 </w.rf>
 <form>nedával</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-lnd92258-058-p10s1w16">
 <src.rf>manual</src.rf>
@@ -6606,7 +6606,7 @@
 <LM>w#w-lnd92258-058-p10s2w16</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-lnd92258-058-p10s2w17">
 <src.rf>manual</src.rf>
@@ -6706,7 +6706,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p10s3w8">
@@ -8025,7 +8025,7 @@
 <LM>w#w-lnd92258-058-p12s1w10</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd92258-058-p12s1w11">
 <src.rf>manual</src.rf>
@@ -8076,7 +8076,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p12s1w17">
@@ -8320,7 +8320,7 @@
 <LM>w#w-lnd92258-058-p12s2w21</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd92258-058-p12s2w22">
 <src.rf>manual</src.rf>
@@ -8362,7 +8362,7 @@
 <LM>w#w-lnd92258-058-p13s1w3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92258-058-p13s1w4">
 <src.rf>manual</src.rf>
@@ -8577,7 +8577,7 @@
 <form>Dejme</form>
 <tag>
 <AM lemma="dát" src="orig">Vi-P---1--A-P--</AM>
-<AM lemma="dát" src="manual" selected="1">Vi-P---1--A-P--</AM>
+<AM lemma="dát-1" src="manual" selected="1">Vi-P---1--A-P--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p13s3w2">

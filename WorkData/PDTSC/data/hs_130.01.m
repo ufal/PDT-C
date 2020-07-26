@@ -822,7 +822,7 @@
 </w.rf>
 <form>více</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="více" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -1444,7 +1444,7 @@
 <form>svém</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</AM>
-<AM lemma="svůj-1_^(přivlast.)_(*2)" src="manual" selected="1">P8ZS6----------</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="manual" selected="1">P8ZS6----------</AM>
 </tag>
 </m>
 <m id="m130-d1t230-29">
@@ -2379,7 +2379,7 @@
 <LM>w#w-d1t244-9</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m130-d1t244-10">
 <w.rf>
@@ -2794,7 +2794,7 @@
 <form>pouze</form>
 <tag>
 <AM lemma="pouze" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="pouze_^(*2hý)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="pouze" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m130-d1t263-14">
@@ -3134,7 +3134,7 @@
 <form>pouze</form>
 <tag>
 <AM lemma="pouze" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="pouze_^(*2hý)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="pouze" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m130-d1t281-3">
@@ -3444,7 +3444,7 @@
 <LM>w#w-d1t288-6</LM>
 </w.rf>
 <form>Uměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m130-d1t288-7">
 <w.rf>
@@ -3674,7 +3674,7 @@
 </w.rf>
 <form>Beatles</form>
 <tag>
-<AM lemma="Beatles_;m" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Beatles_;m" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="Beatles_;m" src="auto">NNMP2-----A----</AM>
 <AM lemma="Beatles_;m" src="auto">NNMP3-----A----</AM>
 <AM lemma="Beatles_;m" src="auto">NNMP4-----A----</AM>
@@ -3959,7 +3959,7 @@
 <LM>w#w-d1t304-2</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m130-d1t304-3">
 <w.rf>
@@ -4004,7 +4004,7 @@
 <LM>w#w-d1t304-8</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m130-d1t304-9">
 <w.rf>

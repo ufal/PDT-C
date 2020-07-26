@@ -187,7 +187,7 @@
 <LM>w#w-wsj1826-001-p1s0W13</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1826-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2627,7 +2627,7 @@
 <LM>w#w-wsj1826-001-p1s10W9</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1826-001-p1s10W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2760,7 +2760,7 @@
 <LM>w#w-wsj1826-001-p1s11W5</LM>
 </w.rf>
 <form>myslelo</form>
-<tag lemma="myslet" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpNS----R-AAI-1</tag>
 </m>
 <m id="m-wsj1826-001-p1s11W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3290,7 +3290,7 @@
 <form>Massachussets</form>
 <tag>
 <AM lemma="Massachussets" src="auto">X@-------------</AM>
-<AM lemma="Massachussets_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Massachussets_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1826-001-p1s15W14-Ta">
@@ -3791,7 +3791,7 @@
 <LM>w#w-wsj1826-001-p1s17W13</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1826-001-p1s17W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5312,7 +5312,7 @@
 <LM>w#w-wsj1826-001-p1s21W6</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1826-001-p1s21W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5390,7 +5390,7 @@
 <LM>w#w-wsj1826-001-p1s22W4</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1826-001-p1s22W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5410,7 +5410,7 @@
 <LM>w#w-wsj1826-001-p1s22W6</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1826-001-p1s22W7-Ta">
 <src.rf>tagger-a</src.rf>

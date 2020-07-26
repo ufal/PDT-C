@@ -710,7 +710,7 @@
 <LM>w#w-mf930709-078-p2s5w9</LM>
 </w.rf>
 <form>Pavlem</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930709-078-p2s5w10">
 <src.rf>manual</src.rf>
@@ -931,7 +931,7 @@
 <LM>w#w-mf930709-078-p2s6w12</LM>
 </w.rf>
 <form>mottem</form>
-<tag lemma="motto" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="motto-1_^(heslo)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930709-078-p2s6w13">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-mf930709-078-p2s6w21</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-mf930709-078-p2s6w22">
 <src.rf>manual</src.rf>

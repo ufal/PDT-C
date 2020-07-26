@@ -19,7 +19,7 @@
 <LM>w#w-lnd92255-023-p1s1w1</LM>
 </w.rf>
 <form>ČVUT</form>
-<tag lemma="ČVUT-1_;m_^(České_vysoké_učení_technické)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČVUT_;m_^(České_vysoké_učení_technické)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-023-p1s1w2">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-lnd92255-023-p3s2w19</LM>
 </w.rf>
 <form>ČVUT</form>
-<tag lemma="ČVUT-1_;m_^(České_vysoké_učení_technické)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČVUT_;m_^(České_vysoké_učení_technické)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-023-p3s2w20">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-lnd92255-023-p3s4w5</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-023-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1223,7 +1223,7 @@
 <LM>w#w-lnd92255-023-p5s2w25</LM>
 </w.rf>
 <form>ČVUT</form>
-<tag lemma="ČVUT-1_;m_^(České_vysoké_učení_technické)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČVUT_;m_^(České_vysoké_učení_technické)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-023-p5s2w26">
 <src.rf>manual</src.rf>
@@ -1382,7 +1382,7 @@
 <LM>w#w-lnd92255-023-p6s1w6</LM>
 </w.rf>
 <form>kdybyste</form>
-<tag lemma="kdyby" src="orig" selected="1">J,-P---2-------</tag>
+<tag lemma="kdyby" src="orig" selected="1">J,-----------e-</tag>
 </m>
 <m id="m-lnd92255-023-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1483,7 +1483,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-023-p6s1w20">
@@ -2109,7 +2109,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--7----------</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--7----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-023-p6s4w7">
@@ -2192,7 +2192,7 @@
 <LM>w#w-lnd92255-023-p7s1w8</LM>
 </w.rf>
 <form>ČVUT</form>
-<tag lemma="ČVUT-1_;m_^(České_vysoké_učení_technické)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ČVUT_;m_^(České_vysoké_učení_technické)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-023-p7s1w9">
 <src.rf>manual</src.rf>
@@ -2340,7 +2340,7 @@
 <LM>w#w-lnd92255-023-p8s1w2</LM>
 </w.rf>
 <form>kva</form>
-<tag lemma="kva-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="kva-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-023-p8s1w3">
 <src.rf>manual</src.rf>

@@ -343,7 +343,7 @@
 <LM>w#w-vesm9301-010-p1s3w4</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9301-010-p1s3w5">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-vesm9301-010-p1s3w21</LM>
 </w.rf>
 <form>Matematicko</form>
-<tag lemma="matematický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="matematicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-vesm9301-010-p1s3w22">
 <src.rf>manual</src.rf>
@@ -1002,7 +1002,7 @@
 <tag>
 <AM lemma="red-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="redakce_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9301-010-p1s7w3">

@@ -302,7 +302,7 @@
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="takzvaný_:B" src="manual">AAXXX----1A----</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-91-p2s2w4">
@@ -601,7 +601,7 @@
 <LM>w#w-ln94202-91-p3s1w3</LM>
 </w.rf>
 <form>nevydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-NAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94202-91-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1031,7 +1031,7 @@
 <LM>w#w-ln94202-91-p3s3w8</LM>
 </w.rf>
 <form>výhradně</form>
-<tag lemma="výhradně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="výhradně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94202-91-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1643,7 +1643,7 @@
 <LM>w#w-ln94202-91-p4s2w8</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-91-p4s2w9">
 <src.rf>manual</src.rf>

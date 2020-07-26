@@ -43,7 +43,7 @@
 <LM>w#w-lnd94103-006-p1s1w4</LM>
 </w.rf>
 <form>předán</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94103-006-p1s1w5">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-lnd94103-006-p1s3w8</LM>
 </w.rf>
 <form>předaly</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-006-p1s3w9">
 <src.rf>manual</src.rf>
@@ -1501,7 +1501,7 @@
 <LM>w#w-lnd94103-006-p1s12w8</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd94103-006-p1s12w9">
 <src.rf>manual</src.rf>

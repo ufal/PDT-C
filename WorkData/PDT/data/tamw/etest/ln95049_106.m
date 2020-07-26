@@ -239,7 +239,7 @@
 <LM>w#w-ln95049-106-p2s1Bw14</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95049-106-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -1715,7 +1715,7 @@
 <LM>w#w-ln95049-106-p4s4w17</LM>
 </w.rf>
 <form>událostech</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln95049-106-p4s4w18">
 <src.rf>manual</src.rf>
@@ -2000,7 +2000,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95049-106-p5s2w17">

@@ -250,7 +250,7 @@
 <LM>w#w-ln95047-134-p2s2w3</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95047-134-p2s2w4">
 <src.rf>manual</src.rf>
@@ -850,7 +850,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95047-134-p2s5w17">
@@ -1368,7 +1368,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95047-134-p2s9w12">
@@ -1709,7 +1709,7 @@
 <form>DPH</form>
 <tag>
 <AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DPH-1" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DPH-1_^(daň_z_přidané_hodnoty)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-134-p2s10w20">

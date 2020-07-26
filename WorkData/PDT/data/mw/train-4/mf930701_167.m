@@ -495,7 +495,7 @@
 <LM>w#w-mf930701-167-p2s3w16</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-167-p2s3w17">
 <src.rf>manual</src.rf>

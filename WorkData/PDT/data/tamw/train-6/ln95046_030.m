@@ -384,7 +384,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-1_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p2s2w13">
@@ -495,7 +495,7 @@
 <AM lemma="FIFA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="FIFA_:B_;m_^(Mezinárodní_federace_fotbalových_asociací)" src="manual">NNXXX-----A----</AM>
-<AM lemma="FIFA_;m_^(Mezinárodní_federace_fotbalových_asociací)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p3s1w3">
@@ -859,7 +859,7 @@
 <LM>w#w-ln95046-030-p3s1w45</LM>
 </w.rf>
 <form>Naším</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-ln95046-030-p3s1w46">
 <src.rf>manual</src.rf>
@@ -1221,7 +1221,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-1_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p3s3w17">
@@ -1243,7 +1243,7 @@
 <AM lemma="FIFA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="FIFA_:B_;m_^(Mezinárodní_federace_fotbalových_asociací" src="manual">)</AM>
 <AM lemma="FIFA_:B_;m_^(Mezinárodní_federace_fotbalových_asociací" src="manual">)</AM>
-<AM lemma="FIFA_;m_^(Mezinárodní_federace_fotbalových_asociací)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p3s3w19">
@@ -1642,7 +1642,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p3s6w6">
@@ -2047,7 +2047,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-1_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p3s8w12">
@@ -3283,7 +3283,7 @@
 <LM>w#w-ln95046-030-p5s1w25</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95046-030-p5s1w26">
 <src.rf>manual</src.rf>
@@ -3527,7 +3527,7 @@
 <LM>w#w-ln95046-030-p5s3w3</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95046-030-p5s3w4">
 <src.rf>manual</src.rf>
@@ -3576,7 +3576,7 @@
 <AM lemma="FIFA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="FIFA_:B_;m_^(Mezinárodní_federace_fotbalových_asociací" src="manual">)</AM>
 <AM lemma="FIFA_:B_;m_^(Mezinárodní_federace_fotbalových_asociací" src="manual">)</AM>
-<AM lemma="FIFA_;m_^(Mezinárodní_federace_fotbalových_asociací)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p5s3w9">
@@ -4025,7 +4025,7 @@
 <LM>w#w-ln95046-030-p6s4w7</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95046-030-p6s4w8">
 <src.rf>manual</src.rf>

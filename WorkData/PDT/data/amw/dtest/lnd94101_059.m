@@ -705,7 +705,7 @@
 <LM>w#w-lnd94101-059-p1s6w11</LM>
 </w.rf>
 <form>stranou</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94101-059-p1s6w12">
 <src.rf>manual</src.rf>

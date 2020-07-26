@@ -1132,7 +1132,7 @@
 <LM>w#w-wsj2021-001-p1s3W16</LM>
 </w.rf>
 <form>splašků</form>
-<tag lemma="splašky" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="splašky-2" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj2021-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2183,7 +2183,7 @@
 <form>Rachel</form>
 <tag>
 <AM lemma="Ráchel_;Y_,x" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Rachel_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Rachel_;Y_,s_^(^DD**Ráchel)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2021-001-p1s8W20-Ta">
@@ -3317,7 +3317,7 @@
 <LM>w#w-wsj2021-001-p1s13W4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2021-001-p1s13W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6151,7 +6151,7 @@
 <LM>w#w-wsj2021-001-p1s25W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2021-001-p1s25W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6482,7 +6482,7 @@
 <LM>w#w-wsj2021-001-p1s25W25</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2021-001-p1s25W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7553,7 +7553,7 @@
 <LM>w#w-wsj2021-001-p1s31W5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2021-001-p1s31W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8751,7 +8751,7 @@
 <LM>w#w-wsj2021-001-p1s35W12</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-wsj2021-001-p1s35W13-Ta">
 <src.rf>tagger-a</src.rf>

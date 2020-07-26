@@ -423,7 +423,7 @@
 <LM>w#w-ln94206-149-p2s2w15</LM>
 </w.rf>
 <form>nesprávně</form>
-<tag lemma="správně_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*1í)" src="auto" selected="1">Dg-------1N----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-ln94206-149-p2s2w16">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <form>spíše</form>
 <tag>
 <AM lemma="spíše" src="orig">Dg-------2A---1</AM>
-<AM lemma="spíše" src="manual" selected="1">TT------------1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-ln94206-149-p2s2w25">
@@ -950,7 +950,7 @@
 <LM>w#w-ln94206-149-p4s1w1</LM>
 </w.rf>
 <form>Mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94206-149-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1746,7 +1746,7 @@
 <form>KB</form>
 <tag>
 <AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_;m_^(Komerční_banka)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-149-p5s3w21">
@@ -1942,7 +1942,7 @@
 <LM>w#w-ln94206-149-p5s5w6</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="orig" selected="1">J,-P---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------m-</tag>
 </m>
 <m id="m-ln94206-149-p5s5w8">
 <src.rf>manual</src.rf>
@@ -2393,7 +2393,7 @@
 <LM>w#w-ln94206-149-p5s8w6</LM>
 </w.rf>
 <form>zastavila</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94206-149-p5s8w7">
 <src.rf>manual</src.rf>

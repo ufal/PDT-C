@@ -143,7 +143,7 @@
 <form>NHL</form>
 <tag>
 <AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NHL_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-130-p2s2w10">
@@ -1119,7 +1119,7 @@
 <form>prodl</form>
 <tag>
 <AM lemma="prodloužení_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="prodloužení" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="prodloužení" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92255-130-p2s6w20">

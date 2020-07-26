@@ -145,7 +145,7 @@
 <LM>w#w-mf930708-169-p2s1w8</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="čtk_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930708-169-p2s1w9">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-169-p3s1w40">
@@ -792,7 +792,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-169-p3s1w45">
@@ -833,7 +833,7 @@
 <LM>w#w-mf930708-169-p3s1w49</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930708-169-p3s1w50">
 <src.rf>manual</src.rf>

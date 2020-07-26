@@ -1128,7 +1128,7 @@
 <AM lemma="půl-1" src="auto">ClXS1----------</AM>
 <AM lemma="půl-1" src="auto">ClXS2----------</AM>
 <AM lemma="půl-1" src="auto">ClXS3----------</AM>
-<AM lemma="půl-1" src="auto" selected="1">ClXS4----------</AM>
+<AM lemma="půl-1" src="auto" selected="1">Cl-XX----------</AM>
 <AM lemma="půl-1" src="auto">ClXS6----------</AM>
 <AM lemma="půl-1" src="auto">ClXS7----------</AM>
 <AM lemma="půl-2" src="auto">NNFS1-----A----</AM>
@@ -2388,7 +2388,7 @@
 <LM>w#w-d1t2981-9</LM>
 </w.rf>
 <form>mohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI-1</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m054-d1t2981-10">
 <w.rf>
@@ -2485,7 +2485,7 @@
 <LM>w#w-d1t2983-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m054-d1t2983-3">
 <w.rf>
@@ -2509,7 +2509,7 @@
 <LM>w#w-d1t2983-5</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m054-578-579">
 <w.rf>
@@ -3109,7 +3109,7 @@
 <LM>w#w-d1t3044-4</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m054-d1t3044-5">
 <w.rf>
@@ -3375,7 +3375,7 @@
 </w.rf>
 <form>půl</form>
 <tag>
-<AM lemma="půl-1" src="auto" selected="1">ClXS1----------</AM>
+<AM lemma="půl-1" src="auto" selected="1">Cl-XX----------</AM>
 <AM lemma="půl-1" src="auto">ClXS2----------</AM>
 <AM lemma="půl-1" src="auto">ClXS3----------</AM>
 <AM lemma="půl-1" src="auto">ClXS4----------</AM>
@@ -3606,7 +3606,7 @@
 <LM>w#w-d1e3085-x2-1086</LM>
 </w.rf>
 <form>bránili</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="bránit" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m054-d1e3085-x2-1088">
 <w.rf>

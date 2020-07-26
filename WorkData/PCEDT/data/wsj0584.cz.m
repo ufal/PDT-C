@@ -1075,7 +1075,7 @@
 <LM>w#w-wsj0584-001-p1s2W23</LM>
 </w.rf>
 <form>dával</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0584-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3467,7 +3467,7 @@
 <LM>w#w-wsj0584-001-p1s10W9</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj0584-001-p1s10W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3978,7 +3978,7 @@
 <LM>w#w-wsj0584-001-p1s11W25</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0584-001-p1s11W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6919,7 +6919,7 @@
 <LM>w#w-wsj0584-001-p1s23W34</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0584-001-p1s23W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9357,7 +9357,7 @@
 <LM>w#w-wsj0584-001-p1s33W1</LM>
 </w.rf>
 <form>Nemysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-NAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-NAI-1</tag>
 </m>
 <m id="m-wsj0584-001-p1s33W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11065,7 +11065,7 @@
 <LM>w#w-wsj0584-001-p1s38W39</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0584-001-p1s38W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11446,7 +11446,7 @@
 <LM>w#w-wsj0584-001-p1s40W11</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
+<tag lemma="tj_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
 </m>
 <m id="m-wsj0584-001-p1s40W12-Ta">
 <src.rf>tagger-a</src.rf>

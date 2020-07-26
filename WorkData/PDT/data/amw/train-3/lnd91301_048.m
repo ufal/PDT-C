@@ -402,7 +402,7 @@
 <LM>w#w-lnd91301-048-p3s2w22</LM>
 </w.rf>
 <form>předali</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-048-p3s2w23">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-lnd91301-048-p3s2w30</LM>
 </w.rf>
 <form>potřebami</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-lnd91301-048-p3s2w31">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-lnd91301-048-p3s3w5</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-048-p3s3w6">
 <src.rf>manual</src.rf>

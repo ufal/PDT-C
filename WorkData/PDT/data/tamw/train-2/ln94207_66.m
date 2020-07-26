@@ -19,7 +19,7 @@
 <LM>w#w-ln94207-66-p1s1w1</LM>
 </w.rf>
 <form>Nechat</form>
-<tag lemma="nechat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-66-p1s1w2">
 <src.rf>manual</src.rf>
@@ -75,7 +75,7 @@
 <LM>w#w-ln94207-66-p1s1w8</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94207-66-p1s1w9">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-ln94207-66-p2s1Bw10</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94207-66-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -440,7 +440,7 @@
 <LM>w#w-ln94207-66-p3s1w4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94207-66-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1741,7 +1741,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-66-p7s1w16">
@@ -2018,7 +2018,7 @@
 <LM>w#w-ln94207-66-p7s3w11</LM>
 </w.rf>
 <form>bránily</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94207-66-p7s3w12">
 <src.rf>manual</src.rf>

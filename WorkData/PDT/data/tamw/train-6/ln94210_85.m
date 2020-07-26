@@ -253,7 +253,7 @@
 <LM>w#w-ln94210-85-p1s2w14</LM>
 </w.rf>
 <form>předal</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-85-p1s2w15">
 <src.rf>manual</src.rf>

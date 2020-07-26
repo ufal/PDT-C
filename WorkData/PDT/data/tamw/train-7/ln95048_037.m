@@ -1203,7 +1203,7 @@
 <LM>w#w-ln95048-037-p4s1w6</LM>
 </w.rf>
 <form>přeložil</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-037-p4s1w7">
 <src.rf>manual</src.rf>

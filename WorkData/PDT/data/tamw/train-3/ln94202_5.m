@@ -138,7 +138,7 @@
 <form>GmbH</form>
 <tag>
 <AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="GmbH-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Gmbh-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-5-p2s1Bw10">
@@ -570,7 +570,7 @@
 <LM>w#w-ln94202-5-p3s2w16</LM>
 </w.rf>
 <form>zintenzivnila</form>
-<tag lemma="zintenzívnit" src="auto" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="zintenzivnit_,s_^(^DD**zintenzívnit)" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-5-p3s2w17">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <form>mil</form>
 <tag>
 <AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln94202-5-p3s2w31">
@@ -943,7 +943,7 @@
 <LM>w#w-ln94202-5-p3s5w8</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94202-5-p3s5w9">
 <src.rf>manual</src.rf>

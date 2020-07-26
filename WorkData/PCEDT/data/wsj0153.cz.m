@@ -1410,7 +1410,7 @@
 <LM>w#w-wsj0153-001-p1s3W33</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
+<tag lemma="tj_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
 </m>
 <m id="m-wsj0153-001-p1s3W33-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2586,7 +2586,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0153-001-p1s8W2-Ta">
@@ -3415,7 +3415,7 @@
 <LM>w#w-wsj0153-001-p1s11W17</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0153-001-p1s11W18-Ta">
 <src.rf>tagger-a</src.rf>

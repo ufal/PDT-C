@@ -1714,7 +1714,7 @@
 <LM>w#w-wsj1492-001-p1s5W23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1492-001-p1s5W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3605,7 +3605,7 @@
 <LM>w#w-wsj1492-001-p1s10W15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1492-001-p1s10W16-Ta">
 <src.rf>tagger-a</src.rf>

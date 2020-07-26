@@ -153,7 +153,7 @@
 </w.rf>
 <form>Barbara</form>
 <tag>
-<AM lemma="Barbara_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Barbara_;G_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Barbaro_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Barbaro_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="barbar" src="auto">NNMS2-----A----</AM>

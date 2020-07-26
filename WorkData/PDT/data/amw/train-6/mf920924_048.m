@@ -216,7 +216,7 @@
 <LM>w#w-mf920924-048-p2s1w23</LM>
 </w.rf>
 <form>ČTV</form>
-<tag lemma="ČTV-1_;m_^(Česká_televize)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČTV-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920924-048-p2s1w24">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-mf920924-048-p2s1w27</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920924-048-p2s1w28">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-mf920924-048-p3s2w3</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-048-p3s2w4">
 <src.rf>manual</src.rf>
@@ -775,7 +775,7 @@
 <LM>w#w-mf920924-048-p4s2w11</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-048-p4s2w12">
 <src.rf>manual</src.rf>

@@ -606,7 +606,7 @@
 <form>AZT</form>
 <tag>
 <AM lemma="azidotymidin_:B_;U" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;U" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="AZT_;U_^(azidotymidin)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1246-001-p1s2W3-Ta">
@@ -1415,7 +1415,7 @@
 <LM>w#w-wsj1246-001-p1s4W17</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1246-001-p1s4W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2284,7 +2284,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -2558,7 +2558,7 @@
 <LM>w#w-wsj1246-001-p1s9W6</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1246-001-p1s9W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6601,7 +6601,7 @@
 <form>AZT</form>
 <tag>
 <AM lemma="azidotymidin_:B_;U" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;U" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="AZT_;U_^(azidotymidin)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1246-001-p1s24W2-Ta">

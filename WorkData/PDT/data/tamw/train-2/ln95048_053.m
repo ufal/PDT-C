@@ -609,7 +609,7 @@
 <LM>w#w-ln95048-053-p2s4w19</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95048-053-p2s4w20">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <AM lemma="Kg" src="orig">NNNXX-----A---8</AM>
 <AM lemma="kg-1`kilogram_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Kg_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Kg-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95048-053-p3s1w16">
@@ -1938,7 +1938,7 @@
 <LM>w#w-ln95048-053-p5s1w8</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95048-053-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2760,7 +2760,7 @@
 <LM>w#w-ln95048-053-p10s1w5</LM>
 </w.rf>
 <form>stali</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95048-053-p10s1w6">
 <src.rf>manual</src.rf>

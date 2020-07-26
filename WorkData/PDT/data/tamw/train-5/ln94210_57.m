@@ -276,7 +276,7 @@
 <LM>w#w-ln94210-57-p2s2w7</LM>
 </w.rf>
 <form>Romů</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94210-57-p2s2w8">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-ln94210-57-p2s4w7</LM>
 </w.rf>
 <form>nevzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------N-P--</tag>
+<tag lemma="vzít" src="orig" selected="1">Vf--------N-P--</tag>
 </m>
 <m id="m-ln94210-57-p2s4w8">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-ln94210-57-p2s4w22</LM>
 </w.rf>
 <form>lahvemi</form>
-<tag lemma="lahev" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln94210-57-p2s4w23">
 <src.rf>manual</src.rf>

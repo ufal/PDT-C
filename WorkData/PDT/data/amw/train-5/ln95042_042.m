@@ -328,7 +328,7 @@
 <LM>w#w-ln95042-042-p2s1Cw25</LM>
 </w.rf>
 <form>Martinu</form>
-<tag lemma="Martina_;Y" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Martina_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95042-042-p2s1Cw26">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <tag>
 <AM lemma="WTA-1_:B_;m_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="WTA-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="WTA-1_;m_^(Women's_Tennis_Association)" src="manual" selected="1">NNFXX-----A---b</AM>
+<AM lemma="WTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-042-p3s1w23">
@@ -1046,7 +1046,7 @@
 <LM>w#w-ln95042-042-p3s5w9</LM>
 </w.rf>
 <form>beztak</form>
-<tag lemma="beztak" src="orig" selected="1">Db-------------</tag>
+<tag lemma="beztak" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95042-042-p3s5w10">
 <src.rf>manual</src.rf>
@@ -1610,7 +1610,7 @@
 <LM>w#w-ln95042-042-p4s1w37</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95042-042-p4s1w38">
 <src.rf>manual</src.rf>
@@ -1758,7 +1758,7 @@
 <LM>w#w-ln95042-042-p4s3w5</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="orig" selected="1">PP-P7--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P7--1-------</tag>
 </m>
 <m id="m-ln95042-042-p4s3w6">
 <src.rf>manual</src.rf>

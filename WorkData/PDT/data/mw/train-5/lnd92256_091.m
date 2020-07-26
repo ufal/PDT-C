@@ -162,7 +162,7 @@
 <LM>w#w-lnd92256-091-p3s1w7</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="ccm_^(centimetr_krychlový)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92256-091-p3s1w8">
 <src.rf>manual</src.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-lnd92256-091-p3s1w14</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-lnd92256-091-p3s1w15">
 <src.rf>manual</src.rf>
@@ -334,7 +334,7 @@
 <LM>w#w-lnd92256-091-p3s1w28</LM>
 </w.rf>
 <form>můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-lnd92256-091-p3s1w29">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <LM>w#w-lnd92256-091-p3s1w32</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd92256-091-p3s1w33">
 <src.rf>manual</src.rf>
@@ -1244,7 +1244,7 @@
 <LM>w#w-lnd92256-091-p4s4w42</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kčs_^(Koruna_čs.)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92256-091-p4s4w43">
 <src.rf>manual</src.rf>
@@ -1318,7 +1318,7 @@
 <LM>w#w-lnd92256-091-p4s5w8</LM>
 </w.rf>
 <form>můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-lnd92256-091-p4s5w9">
 <src.rf>manual</src.rf>
@@ -1959,7 +1959,7 @@
 <LM>w#w-lnd92256-091-p4s11w11</LM>
 </w.rf>
 <form>Yamaha</form>
-<tag lemma="Yamaha-2_;m" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Yamaha_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-091-p4s11w12">
 <src.rf>manual</src.rf>
@@ -2332,7 +2332,7 @@
 <LM>w#w-lnd92256-091-p4s14w9</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92256-091-p4s14w10">
 <src.rf>manual</src.rf>
@@ -2666,7 +2666,7 @@
 <LM>w#w-lnd92256-091-p4s17w4</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92256-091-p4s17w5">
 <src.rf>manual</src.rf>

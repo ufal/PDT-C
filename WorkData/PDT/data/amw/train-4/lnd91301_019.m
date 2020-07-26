@@ -557,7 +557,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s2w15">
@@ -576,7 +576,7 @@
 <form>Wanzl</form>
 <tag>
 <AM lemma="Wanzl_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Wanzl_;Y_;m" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Wanzl_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s2w17">
@@ -938,7 +938,7 @@
 <form>Merkuria</form>
 <tag>
 <AM lemma="Merkurie_;m" src="orig">NNFS1-----A---1</AM>
-<AM lemma="Merkuria_;m_,s_^(^DD**Merkurie)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Merkurie_;m" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s2w60">
@@ -949,7 +949,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s2w61">

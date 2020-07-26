@@ -135,7 +135,7 @@
 <LM>w#w-wsj1934-001-p1s0W11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1934-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3243,7 +3243,7 @@
 <LM>w#w-wsj1934-001-p1s11W15</LM>
 </w.rf>
 <form>cyklosporinem</form>
-<tag lemma="cyklosporin_;U" src="auto" recommended="1" selected="1">NNIS7-----A----</tag>
+<tag lemma="cyklosporin" src="auto" recommended="1" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-wsj1934-001-p1s11W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3785,7 +3785,7 @@
 <LM>w#w-wsj1934-001-p1s13W15</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1934-001-p1s13W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4111,7 +4111,7 @@
 <LM>w#w-wsj1934-001-p1s14W13</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1934-001-p1s14W14-Ta">
 <src.rf>tagger-a</src.rf>

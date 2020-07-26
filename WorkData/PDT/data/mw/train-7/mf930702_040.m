@@ -346,7 +346,7 @@
 <LM>w#w-mf930702-040-p2s2w9</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930702-040-p2s2w10">
 <src.rf>manual</src.rf>
@@ -1065,7 +1065,7 @@
 <LM>w#w-mf930702-040-p3s4w1</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930702-040-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1687,7 +1687,7 @@
 <LM>w#w-mf930702-040-p4s3w7</LM>
 </w.rf>
 <form>Kysely</form>
-<tag lemma="kyselo-1_^(polévka)" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="kyselo" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-mf930702-040-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1729,7 +1729,7 @@
 <form>VŠUP</form>
 <tag>
 <AM lemma="VŠUP_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="VŠUP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VŠUP_;m_^(Vysoká_škola_uměleckoprůmyslová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-040-p4s3w13">
@@ -2161,7 +2161,7 @@
 <form>funkcionalismem</form>
 <tag>
 <AM lemma="funkcionalismus" src="orig">NNIS7-----A----</AM>
-<AM lemma="funkcionalisus_,s_^(^DD**funkcionalizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="funkcionalismus_,s_^(^DD**funkcionalizmus)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-040-p5s1w15">
@@ -2178,7 +2178,7 @@
 <LM>w#w-mf930702-040-p5s1w16</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930702-040-p5s1w17">
 <src.rf>manual</src.rf>

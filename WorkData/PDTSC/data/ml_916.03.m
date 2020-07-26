@@ -1077,7 +1077,7 @@
 </w.rf>
 <form>Clam</form>
 <tag>
-<AM lemma="Clam_;Y" src="auto" recommended="1" selected="1">S2--------A----</AM>
+<AM lemma="Clam_;Y" src="auto" recommended="1" selected="1">NNMXX-----A----</AM>
 <AM lemma="clam" src="auto">NNIS1-----A----</AM>
 <AM lemma="clam" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1919,7 +1919,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m916-d1t1207-18">
@@ -1979,7 +1979,7 @@
 <LM>w#w-d1t1207-24</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m916-d1t1207-25">
 <w.rf>

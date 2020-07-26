@@ -724,7 +724,7 @@
 <LM>w#w-mf920901-065-p2s5w14</LM>
 </w.rf>
 <form>snů</form>
-<tag lemma="sen" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920901-065-p2s5w15">
 <src.rf>manual</src.rf>

@@ -665,7 +665,7 @@
 </w.rf>
 <form>Bon</form>
 <tag>
-<AM lemma="Bon_;Y" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="Bon_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="bon" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bon" src="auto">NNIS4-----A----</AM>
 <AM lemma="bona" src="auto">NNFP2-----A----</AM>

@@ -1260,7 +1260,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1156-001-p1s3W16-Ta">
@@ -3410,7 +3410,7 @@
 <form>programům</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP3-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP3-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1156-001-p1s9W9-Ta">

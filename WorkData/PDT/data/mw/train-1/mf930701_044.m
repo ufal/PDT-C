@@ -191,7 +191,7 @@
 <form>Gargantua</form>
 <tag>
 <AM lemma="Gargantua_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Gargantua-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gargantua_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-044-p1s2w4">
@@ -458,7 +458,7 @@
 <LM>w#w-mf930701-044-p1s3w12</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-044-p1s3w13">
 <src.rf>manual</src.rf>

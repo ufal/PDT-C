@@ -134,7 +134,7 @@
 <LM>w#w-mf920922-034-p1s1w15</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf920922-034-p1s1w16">
 <src.rf>manual</src.rf>
@@ -450,7 +450,7 @@
 <LM>w#w-mf920922-034-p1s3w2</LM>
 </w.rf>
 <form>nak</form>
-<tag lemma="nak-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="nak-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920922-034-p1s3w3">
 <src.rf>manual</src.rf>

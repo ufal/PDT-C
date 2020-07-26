@@ -4288,7 +4288,7 @@
 <LM>w#w-wsj1512-001-p1s11W5</LM>
 </w.rf>
 <form>hýbe</form>
-<tag lemma="hýbat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="hýbat" src="auto" recommended="1">VB-S---3P-AAI-1</tag>
 </m>
 <m id="m-wsj1512-001-p1s11W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6313,7 +6313,7 @@
 <LM>w#w-wsj1512-001-p1s17W39</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1512-001-p1s17W40-Ta">
 <src.rf>tagger-a</src.rf>

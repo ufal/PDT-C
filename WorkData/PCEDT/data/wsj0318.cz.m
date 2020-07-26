@@ -914,7 +914,7 @@
 <form>tepe</form>
 <tag>
 <AM lemma="tep" src="auto">NNIS5-----A----</AM>
-<AM lemma="tepat" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="tepat" src="auto" recommended="1">VB-S---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m-wsj0318-001-p1s2W5-Ta">

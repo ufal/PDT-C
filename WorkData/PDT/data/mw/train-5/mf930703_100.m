@@ -496,7 +496,7 @@
 <LM>w#w-mf930703-100-p3s1w17</LM>
 </w.rf>
 <form>ukrajinsko</form>
-<tag lemma="ukrajinský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="ukrajinsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930703-100-p3s1w18">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 <LM>w#w-mf930703-100-p4s1w2</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-100-p4s1w3">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <LM>w#w-mf930703-100-p4s1w15</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-100-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1185,7 +1185,7 @@
 <LM>w#w-mf930703-100-p4s2w20</LM>
 </w.rf>
 <form>ukrajinsko</form>
-<tag lemma="ukrajinský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="ukrajinsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930703-100-p4s2w21">
 <src.rf>manual</src.rf>

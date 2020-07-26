@@ -777,7 +777,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p3s2w19">
@@ -1006,7 +1006,7 @@
 <form>podal</form>
 <tag>
 <AM lemma="podat_^(něco_[někomu]_[někam])" src="orig">VpYS----R-AAP--</AM>
-<AM lemma="podat" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="podat_^(něco_[někomu]_[někam])" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p4s1w8">
@@ -1255,7 +1255,7 @@
 <LM>w#w-ln95045-012-p4s2w17</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95045-012-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1524,7 +1524,7 @@
 <LM>w#w-ln95045-012-p4s3w19</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95045-012-p4s3w20">
 <src.rf>manual</src.rf>

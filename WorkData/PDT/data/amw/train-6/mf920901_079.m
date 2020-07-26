@@ -77,7 +77,7 @@
 <LM>w#w-mf920901-079-p2s1Aw5</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ouš-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-079-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <LM>w#w-mf920901-079-p2s3w17</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920901-079-p2s3w18">
 <src.rf>manual</src.rf>

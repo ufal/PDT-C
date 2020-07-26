@@ -164,7 +164,7 @@
 <form>mohlo</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VpNS----R-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94210-50-p2s1Bw10">

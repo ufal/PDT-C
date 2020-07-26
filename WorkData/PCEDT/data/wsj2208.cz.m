@@ -1532,7 +1532,7 @@
 <LM>w#w-wsj2208-001-p1s4W11</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj2208-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2859,7 +2859,7 @@
 <LM>w#w-wsj2208-001-p1s11W4</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2208-001-p1s11W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -89,7 +89,7 @@
 <form>FF</form>
 <tag>
 <AM lemma="FF_:B_;m_^(Fil._fakulta)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FF_;m_^(Fil._fakulta)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-047-p3s1w5">
@@ -142,7 +142,7 @@
 <form>UNESCO</form>
 <tag>
 <AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UNESCO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UNESCO_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-047-p4s1w3">
@@ -228,7 +228,7 @@
 <form>UNESCO</form>
 <tag>
 <AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UNESCO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UNESCO_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-047-p4s1w13">
@@ -287,7 +287,7 @@
 <LM>w#w-lnd92255-047-p4s2w1</LM>
 </w.rf>
 <form>Můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-lnd92255-047-p4s2w2">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-lnd92255-047-p5s1w4</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-047-p5s1w5">
 <src.rf>manual</src.rf>
@@ -419,7 +419,7 @@
 <form>UNESCO</form>
 <tag>
 <AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UNESCO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UNESCO_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-047-p5s1w13">
@@ -468,7 +468,7 @@
 <LM>w#w-lnd92255-047-p5s1w18</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92255-047-p5s1w19">
 <src.rf>manual</src.rf>
@@ -903,7 +903,7 @@
 <LM>w#w-lnd92255-047-p5s5w8</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92255-047-p5s5w9">
 <src.rf>manual</src.rf>

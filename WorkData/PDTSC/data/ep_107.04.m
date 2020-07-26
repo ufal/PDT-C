@@ -816,7 +816,7 @@
 <LM>w#w-d1t880-6</LM>
 </w.rf>
 <form>Můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m107-d1t880-7">
 <w.rf>
@@ -943,7 +943,7 @@
 <LM>w#w-d1t888-11</LM>
 </w.rf>
 <form>holt</form>
-<tag lemma="holt_,h_,s" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="holt_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m107-d1t888-13">
 <w.rf>
@@ -1520,7 +1520,7 @@
 <LM>w#w-d1t897-20</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m107-d1t897-21">
 <w.rf>
@@ -2268,7 +2268,7 @@
 <LM>w#w-d1t927-16</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m107-d1t927-21">
 <w.rf>
@@ -4040,7 +4040,7 @@
 <LM>w#w-d1t973-5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m107-d-id108289-punct">
 <w.rf>
@@ -4070,14 +4070,14 @@
 <LM>w#w-d1t979-3</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m107-d1t979-4">
 <w.rf>
 <LM>w#w-d1t979-4</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m107-d1e974-x2-173">
 <w.rf>
@@ -4324,7 +4324,7 @@
 <LM>w#w-d1t983-6</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m107-d1t983-7">
 <w.rf>
@@ -4450,7 +4450,7 @@
 <LM>w#w-d1t983-19</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m107-d-m-d1e974-x2-punct-punct">
 <w.rf>
@@ -5068,7 +5068,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m107-d1e1005-x2-224">
@@ -5303,7 +5303,7 @@
 <LM>w#w-d1t1022-11</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m107-d1t1022-12">
 <w.rf>
@@ -5574,7 +5574,7 @@
 <LM>w#w-d1t1026-20</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m107-d1t1026-21">
 <w.rf>

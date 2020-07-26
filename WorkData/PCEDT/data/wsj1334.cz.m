@@ -4022,7 +4022,7 @@
 <LM>w#w-wsj1334-001-p1s12W9</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1334-001-p1s12W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4489,7 +4489,7 @@
 <LM>w#w-wsj1334-001-p1s14W14</LM>
 </w.rf>
 <form>nikoliv</form>
-<tag lemma="nikoli" src="auto" recommended="1">TT------------1</tag>
+<tag lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1334-001-p1s14W15-Ta">
 <src.rf>tagger-a</src.rf>

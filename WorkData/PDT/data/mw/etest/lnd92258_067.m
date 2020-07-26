@@ -562,7 +562,7 @@
 <LM>w#w-lnd92258-067-p2s6w6</LM>
 </w.rf>
 <form>francouzsko</form>
-<tag lemma="francouzský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="francouzsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92258-067-p2s6w7">
 <src.rf>manual</src.rf>

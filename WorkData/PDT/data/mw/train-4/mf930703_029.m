@@ -434,7 +434,7 @@
 <LM>w#w-mf930703-029-p2s2w29</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-mf930703-029-p2s2w30">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-mf930703-029-p2s3w33</LM>
 </w.rf>
 <form>Úval</form>
-<tag lemma="Úvaly_;G" src="auto" selected="1">NNFP2-----A----</tag>
+<tag lemma="Úvaly_;G" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930703-029-p2s3w34">
 <src.rf>manual</src.rf>
@@ -883,7 +883,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-029-p2s5w4">
@@ -940,7 +940,7 @@
 <LM>w#w-mf930703-029-p2s5w10</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-1" src="orig" selected="1">ClXS2----------</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf930703-029-p2s5w11">
 <src.rf>manual</src.rf>
@@ -1046,7 +1046,7 @@
 <LM>w#w-mf930703-029-p2s6w10</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-mf930703-029-p2s6w11">
 <src.rf>manual</src.rf>

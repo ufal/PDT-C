@@ -865,7 +865,7 @@
 <LM>w#w-vesm9212-035-p2s5w25</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-vesm9212-035-p2s5w26">
 <src.rf>manual</src.rf>
@@ -1780,7 +1780,7 @@
 <LM>w#w-vesm9212-035-p3s5w23</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například" src="orig" selected="1">Db------------b</tag>
+<tag lemma="například" src="orig" selected="1">TT------------b</tag>
 </m>
 <m id="m-vesm9212-035-p3s5w24">
 <src.rf>manual</src.rf>
@@ -2273,7 +2273,7 @@
 <LM>w#w-vesm9212-035-p4s3w8</LM>
 </w.rf>
 <form>sintrem</form>
-<tag lemma="sintr_;U_^(hornina)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="sintr_^(hornina)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9212-035-p4s3w9">
 <src.rf>manual</src.rf>
@@ -2966,7 +2966,7 @@
 <LM>w#w-vesm9212-035-p4s7w27</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-vesm9212-035-p4s7w28">
 <src.rf>manual</src.rf>
@@ -3304,7 +3304,7 @@
 <LM>w#w-vesm9212-035-p4s8w26</LM>
 </w.rf>
 <form>nemohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-vesm9212-035-p4s8w27">
 <src.rf>manual</src.rf>

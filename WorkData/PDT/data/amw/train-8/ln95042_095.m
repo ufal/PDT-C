@@ -130,7 +130,7 @@
 <LM>w#w-ln95042-095-p2s1Bw4</LM>
 </w.rf>
 <form>zastaveny</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VsTP----X-APP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 </s>
 <s id="m-ln95042-095-p2s1C">
@@ -1463,7 +1463,7 @@
 <LM>w#w-ln95042-095-p4s1w15</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95042-095-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1471,7 +1471,7 @@
 <LM>w#w-ln95042-095-p4s1w16</LM>
 </w.rf>
 <form>vázány</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" selected="1">VsTP----X-API--</tag>
+<tag lemma="vázat" src="auto" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95042-095-p4s1w17">
 <src.rf>manual</src.rf>
@@ -2509,7 +2509,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-095-p6s2w16">

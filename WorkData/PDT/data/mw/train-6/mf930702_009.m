@@ -224,7 +224,7 @@
 <LM>w#w-mf930702-009-p2s1w17</LM>
 </w.rf>
 <form>předat</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="předat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930702-009-p2s1w18">
 <src.rf>manual</src.rf>

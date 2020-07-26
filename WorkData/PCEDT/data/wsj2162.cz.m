@@ -2384,7 +2384,7 @@
 <LM>w#w-wsj2162-001-p1s7W19</LM>
 </w.rf>
 <form>zasažen</form>
-<tag lemma="zasáhnout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="zasáhnout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj2162-001-p1s7W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5152,7 +5152,7 @@
 <form>nejistotám</form>
 <tag>
 <AM lemma="nejistota" src="auto" recommended="1">NNFP3-----A----</AM>
-<AM lemma="jistota" src="manual" selected="1">NNFP3-----N----</AM>
+<AM lemma="nejistota" src="manual" selected="1">NNFP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2162-001-p1s18W11-Ta">

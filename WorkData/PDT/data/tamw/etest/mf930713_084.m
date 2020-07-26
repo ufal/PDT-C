@@ -37,7 +37,7 @@
 <form>Baťu</form>
 <tag>
 <AM lemma="Baťa_;Y_;m" src="auto">NNMS4-----A----</AM>
-<AM lemma="Baťa-1_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Baťa_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 </s>
@@ -85,7 +85,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAFXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-084-p1s2Bw4">
@@ -104,7 +104,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930713-084-p1s2Bw6">
@@ -435,7 +435,7 @@
 <form>Baťa</form>
 <tag>
 <AM lemma="Baťa_;Y_;m" src="auto">NNMS1-----A----</AM>
-<AM lemma="Baťa-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Baťa_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-084-p1s3w19">
@@ -614,7 +614,7 @@
 <LM>w#w-mf930713-084-p2s1Cw6</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-084-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -1066,7 +1066,7 @@
 <LM>w#w-mf930713-084-p4s3w3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930713-084-p4s3w4">
 <src.rf>manual</src.rf>

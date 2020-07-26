@@ -488,7 +488,7 @@
 <LM>w#w-ln95046-103-p2s2w23</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95046-103-p2s2w24">
 <src.rf>manual</src.rf>
@@ -700,7 +700,7 @@
 <form>stali</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpMP----R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95046-103-p2s3w26">
@@ -709,7 +709,7 @@
 <LM>w#w-ln95046-103-p2s3w26</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podruhé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95046-103-p2s3w27">
 <src.rf>manual</src.rf>

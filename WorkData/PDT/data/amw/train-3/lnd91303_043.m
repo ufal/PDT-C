@@ -1214,7 +1214,7 @@
 <LM>w#w-lnd91303-043-p4s6w11</LM>
 </w.rf>
 <form>událostech</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-lnd91303-043-p4s6w12">
 <src.rf>manual</src.rf>

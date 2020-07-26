@@ -1265,7 +1265,7 @@
 <LM>w#w-ln94209-101-p3s1w60</LM>
 </w.rf>
 <form>hleděla</form>
-<tag lemma="hledět_^(dívat_se;_hledět_si_něčeho)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="hledět" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94209-101-p3s1w61">
 <src.rf>manual</src.rf>
@@ -2135,7 +2135,7 @@
 <LM>w#w-ln94209-101-p3s5w21</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94209-101-p3s5w22">
 <src.rf>manual</src.rf>
@@ -3133,7 +3133,7 @@
 <LM>w#w-ln94209-101-p3s11w17</LM>
 </w.rf>
 <form>dvojnásob</form>
-<tag lemma="dvojnásob" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dvojnásob`2" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94209-101-p3s11w18">
 <src.rf>manual</src.rf>
@@ -3792,7 +3792,7 @@
 <LM>w#w-ln94209-101-p3s15w11</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94209-101-p3s15w12">
 <src.rf>manual</src.rf>
@@ -4486,7 +4486,7 @@
 <LM>w#w-ln94209-101-p3s20w7</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94209-101-p3s20w8">
 <src.rf>manual</src.rf>
@@ -4710,7 +4710,7 @@
 <LM>w#w-ln94209-101-p3s20w37</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94209-101-p3s20w38">
 <src.rf>manual</src.rf>
@@ -5010,7 +5010,7 @@
 <LM>w#w-ln94209-101-p3s22w14</LM>
 </w.rf>
 <form>stadionech</form>
-<tag lemma="stadión" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94209-101-p3s22w15">
 <src.rf>manual</src.rf>
@@ -6190,7 +6190,7 @@
 <LM>w#w-ln94209-101-p4s5w36</LM>
 </w.rf>
 <form>Izvestijemi</form>
-<tag lemma="Izvestije" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="Izvestija_;m" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln94209-101-p4s5w37">
 <src.rf>manual</src.rf>

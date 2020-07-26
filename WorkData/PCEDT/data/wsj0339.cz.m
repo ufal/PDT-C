@@ -836,7 +836,7 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_;U_^(molekula_DNA)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekulaNA)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFS1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP4-----A----</AM>
@@ -1211,7 +1211,7 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_;U_^(molekula_DNA)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekulaNA)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFS1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP4-----A----</AM>
@@ -3588,7 +3588,7 @@
 <LM>w#w-wsj0339-001-p1s13W1</LM>
 </w.rf>
 <form>Cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0339-001-p1s13W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3678,7 +3678,7 @@
 <LM>w#w-wsj0339-001-p1s14W2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0339-001-p1s14W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4374,7 +4374,7 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekulaNA)" src="auto" selected="1">BNXXX-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFS1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto" recommended="1">NNNP4-----A----</AM>

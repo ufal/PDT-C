@@ -1598,7 +1598,7 @@
 <LM>w#w-mf930713-148-p5s3w4</LM>
 </w.rf>
 <form>zastavit</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-148-p5s3w5">
 <src.rf>manual</src.rf>
@@ -1789,7 +1789,7 @@
 <form>expertizu</form>
 <tag>
 <AM lemma="expertíza" src="orig">NNFS4-----A----</AM>
-<AM lemma="expertiza" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="expertiza_,s_^(^DD**expertýza)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-148-p6s1w16">
@@ -1918,7 +1918,7 @@
 <LM>w#w-mf930713-148-p6s1w31</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930713-148-p6s1w32">
 <src.rf>manual</src.rf>
@@ -1934,7 +1934,7 @@
 <LM>w#w-mf930713-148-p6s1w33</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-148-p6s1w34">
 <src.rf>manual</src.rf>

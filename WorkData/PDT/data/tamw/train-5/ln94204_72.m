@@ -95,7 +95,7 @@
 <LM>w#w-ln94204-72-p2s1Bw3</LM>
 </w.rf>
 <form>vet</form>
-<tag lemma="vet-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="vet-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-72-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-ln94204-72-p3s2w4</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-72-p3s2w5">
 <src.rf>manual</src.rf>
@@ -899,7 +899,7 @@
 <LM>w#w-ln94204-72-p3s5w3</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-72-p3s5w4">
 <src.rf>manual</src.rf>

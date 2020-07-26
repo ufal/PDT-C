@@ -103,7 +103,7 @@
 <LM>w#w-ln94203-14-p2s1Bw3</LM>
 </w.rf>
 <form>biologicko</form>
-<tag lemma="biologický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="biologicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94203-14-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-ln94203-14-p3s3w14</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94203-14-p3s3w15">
 <src.rf>manual</src.rf>

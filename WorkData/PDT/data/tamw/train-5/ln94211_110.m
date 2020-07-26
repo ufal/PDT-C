@@ -81,7 +81,7 @@
 <LM>w#w-ln94211-110-p1s1Aw8</LM>
 </w.rf>
 <form>rolích</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln94211-110-p1s1Aw9">
 <src.rf>manual</src.rf>

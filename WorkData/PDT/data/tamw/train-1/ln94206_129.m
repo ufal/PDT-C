@@ -77,7 +77,7 @@
 <LM>w#w-ln94206-129-p2s1Aw3</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ber-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94206-129-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -1069,7 +1069,7 @@
 <LM>w#w-ln94206-129-p3s1w32</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln94206-129-p3s1w33">
 <src.rf>manual</src.rf>
@@ -1523,7 +1523,7 @@
 <LM>w#w-ln94206-129-p3s5w13</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94206-129-p3s5w14">
 <src.rf>manual</src.rf>

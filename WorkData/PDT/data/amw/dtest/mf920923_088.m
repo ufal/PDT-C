@@ -388,7 +388,7 @@
 <LM>w#w-mf920923-088-p2s2Bw10</LM>
 </w.rf>
 <form>vydala</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-088-p2s2Bw11">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-088-p2s2Bw28">
@@ -588,7 +588,7 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="WC-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="WC_^(water_closet)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-088-p2s3w7">

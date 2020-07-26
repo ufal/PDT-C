@@ -413,7 +413,7 @@
 <LM>w#w-ln95049-040-p2s2w17</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-040-p2s2w18">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <LM>w#w-ln95049-040-p2s5w24</LM>
 </w.rf>
 <form>kanadsko</form>
-<tag lemma="kanadský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="kanadsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95049-040-p2s5w25">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-d1t1070-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m120-d-id123985-punct">
 <w.rf>
@@ -54,7 +54,7 @@
 <LM>w#w-d1t1077-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m120-d1e1072-x2-355">
 <w.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-d1t1091-6</LM>
 </w.rf>
 <form>Evropu</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m120-d-id125682-punct">
 <w.rf>
@@ -1064,7 +1064,7 @@
 <LM>w#w-d1t1097-18</LM>
 </w.rf>
 <form>Evropa</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m120-505-506">
 <w.rf>
@@ -1131,7 +1131,7 @@
 <LM>w#w-d1t1105-2</LM>
 </w.rf>
 <form>Umíte</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-P---2P-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m120-d1t1105-3">
 <w.rf>
@@ -1407,7 +1407,7 @@
 <LM>w#w-d1t1113-17</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m120-d1t1113-18">
 <w.rf>
@@ -1577,7 +1577,7 @@
 <LM>w#w-d1t1117-8</LM>
 </w.rf>
 <form>uměla</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m120-d1t1117-9">
 <w.rf>
@@ -1602,7 +1602,7 @@
 <LM>w#w-d1t1117-11</LM>
 </w.rf>
 <form>mlada</form>
-<tag lemma="mlado" src="auto" recommended="1">NNNS2-----A----</tag>
+<tag lemma="mlada" src="auto" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="m120-d-id127339-punct">
 <w.rf>
@@ -1997,7 +1997,7 @@
 <LM>w#w-d1t1126-3</LM>
 </w.rf>
 <form>uměla</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m120-d1t1126-4">
 <w.rf>
@@ -2251,7 +2251,7 @@
 <LM>w#w-d1t1126-34</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m120-d-m-d1e1106-x3-punct-punct">
 <w.rf>
@@ -2630,7 +2630,7 @@
 <LM>w#w-d1t1153-4</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m120-d1t1153-5">
 <w.rf>
@@ -2639,7 +2639,7 @@
 <form>jela</form>
 <tag>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">VpQW----R-AAI--</AM>
+<AM lemma="jet-1" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m120-d-id129048-punct">
@@ -2661,7 +2661,7 @@
 <LM>w#w-d1t1153-10</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m120-d1t1153-8">
 <w.rf>
@@ -2771,7 +2771,7 @@
 <form>jedeš</form>
 <tag>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---2P-AAI--</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">VB-S---2P-AAI--</AM>
+<AM lemma="jet-1" src="manual" selected="1">VB-S---2P-AAI--</AM>
 </tag>
 </m>
 <m id="m120-d1t1153-21">
@@ -3168,7 +3168,7 @@
 <form>jedou</form>
 <tag>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---3P-AAI--</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">VB-P---3P-AAI--</AM>
+<AM lemma="jet-1" src="manual" selected="1">VB-P---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m120-d1t1160-9">
@@ -3552,7 +3552,7 @@
 </w.rf>
 <form>nejvíce</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A----</AM>
 <AM lemma="nejvíce" src="auto">Ca--X----------</AM>
 </tag>
 </m>

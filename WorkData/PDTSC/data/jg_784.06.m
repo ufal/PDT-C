@@ -27,7 +27,7 @@
 <LM>w#w-d1t2090-3</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m784-d1t2090-5">
 <w.rf>
@@ -506,7 +506,7 @@
 <LM>w#w-d1t2107-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m784-d1t2109-1">
 <w.rf>
@@ -580,7 +580,7 @@
 </w.rf>
 <form>zastavíme</form>
 <tag>
-<AM lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="auto" recommended="1">VB-P---1P-AAP--</AM>
+<AM lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="auto" recommended="1">VB-P---1P-AAP--</AM>
 <AM lemma="zastavit-2_:W_^(zástavní_právo)" src="auto">VB-P---1P-AA---</AM>
 <AM lemma="zastavět" src="auto">VB-P---1P-AAP--</AM>
 </tag>

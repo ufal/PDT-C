@@ -109,7 +109,7 @@
 <LM>w#w-lnd92254-082-p2s2w3</LM>
 </w.rf>
 <form>Francouzka</form>
-<tag lemma="Francouzka_;E" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Francouzka_;E_^(*2)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-082-p2s2w4">
 <src.rf>manual</src.rf>

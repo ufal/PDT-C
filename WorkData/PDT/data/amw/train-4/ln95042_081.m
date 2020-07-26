@@ -279,7 +279,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95042-081-p2s2w7">
@@ -923,7 +923,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-081-p2s6w15">
@@ -932,7 +932,7 @@
 <LM>w#w-ln95042-081-p2s6w15</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-ln95042-081-p2s6w16">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-ln95042-081-p2s9w18</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95042-081-p2s9w19">
 <src.rf>manual</src.rf>

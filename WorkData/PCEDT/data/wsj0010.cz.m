@@ -1553,7 +1553,7 @@
 <LM>w#w-wsj0010-001-p1s5W18</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0010-001-p1s5W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4670,7 +4670,7 @@
 </w.rf>
 <form>vestoje</form>
 <tag>
-<AM lemma="vestoje" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="vestoje_,s_^(^DD**vstoje)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="vstoje_,x" src="auto">Db-------------</AM>
 </tag>
 </m>
@@ -4690,7 +4690,7 @@
 <LM>w#w-wsj0010-001-p1s18W1</LM>
 </w.rf>
 <form>Víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj0010-001-p1s18W2-Ta">
 <src.rf>tagger-a</src.rf>

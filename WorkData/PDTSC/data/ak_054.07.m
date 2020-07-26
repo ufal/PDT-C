@@ -196,7 +196,7 @@
 <AM lemma="táhlo" src="auto">NNNS1-----A----</AM>
 <AM lemma="táhlo" src="auto">NNNS4-----A----</AM>
 <AM lemma="táhlo" src="auto">NNNS5-----A----</AM>
-<AM lemma="táhnout" src="auto" recommended="1">VpNS----R-AAP-1</AM>
+<AM lemma="táhnout" src="auto" recommended="1">VpNS----R-AAI-1</AM>
 </tag>
 </m>
 <m id="m054-d1t1640-17">
@@ -358,7 +358,7 @@
 <LM>w#w-d1t1651-3</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m054-d1t1653-2">
 <w.rf>
@@ -602,7 +602,7 @@
 <LM>w#w-d1t1665-4</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m054-d1e1658-x2-49">
 <w.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-d1t1698-10</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m054-d1t1698-13">
 <w.rf>
@@ -1026,7 +1026,7 @@
 <LM>w#w-d1t1698-20</LM>
 </w.rf>
 <form>Neumím</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m054-d1t1698-18">
 <w.rf>
@@ -1631,7 +1631,7 @@
 <form>španělku</form>
 <tag>
 <AM lemma="španělka_^(kytara)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="španělka_^(kytara;chřipka)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="španělka_^(kytara)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m054-161-225">
@@ -3170,7 +3170,7 @@
 <LM>w#w-d1t1765-14</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m054-d1e1745-x3-161">
 <w.rf>
@@ -3447,7 +3447,7 @@
 <LM>w#w-d1t1776-2</LM>
 </w.rf>
 <form>Myslela</form>
-<tag lemma="myslet" src="auto" recommended="1">VpQW----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpQW----R-AAI-1</tag>
 </m>
 <m id="m054-26-747">
 <w.rf>
@@ -3798,7 +3798,7 @@
 <LM>w#w-d1t1785-11</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m054-d1t1785-12">
 <w.rf>

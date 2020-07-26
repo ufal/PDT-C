@@ -160,7 +160,7 @@
 <LM>w#w-lnd91303-077-p2s1w17</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd91303-077-p2s1w18">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-lnd91303-077-p2s2w17">
@@ -622,7 +622,7 @@
 <LM>w#w-lnd91303-077-p3s3w7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91303-077-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1089,7 +1089,7 @@
 <LM>w#w-lnd91303-077-p3s8w9</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd91303-077-p3s8w10">
 <src.rf>manual</src.rf>
@@ -1248,7 +1248,7 @@
 <LM>w#w-lnd91303-077-p3s11w1</LM>
 </w.rf>
 <form>Mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd91303-077-p3s11w2">
 <src.rf>manual</src.rf>
@@ -1290,7 +1290,7 @@
 <LM>w#w-lnd91303-077-p3s12w1</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-077-p3s12w2">
 <src.rf>manual</src.rf>
@@ -1407,7 +1407,7 @@
 <LM>w#w-lnd91303-077-p3s13w1</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-077-p3s13w2">
 <src.rf>manual</src.rf>
@@ -1463,7 +1463,7 @@
 <LM>w#w-lnd91303-077-p3s13w8</LM>
 </w.rf>
 <form>táhnout</form>
-<tag lemma="táhnout" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="táhnout" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd91303-077-p3s13w9">
 <src.rf>manual</src.rf>
@@ -1583,7 +1583,7 @@
 <form>versa</form>
 <tag>
 <AM lemma="versa_,t_^(ve_spojení_vice_versa)" src="orig">NNFXX-----A----</AM>
-<AM lemma="versa_^(ve_spojení_&quot;vice_versa&quot;)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="versa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-077-p3s13w24">
@@ -1602,7 +1602,7 @@
 <LM>w#w-lnd91303-077-p3s14w1</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-077-p3s14w2">
 <src.rf>manual</src.rf>
@@ -1971,7 +1971,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
+<AM lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-077-p3s16w11">
@@ -2196,7 +2196,7 @@
 <LM>w#w-lnd91303-077-p3s17w15</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-077-p3s17w16">
 <src.rf>manual</src.rf>
@@ -2212,7 +2212,7 @@
 <LM>w#w-lnd91303-077-p3s17w17</LM>
 </w.rf>
 <form>třídně</form>
-<tag lemma="třídně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="třídně-1_^(*3í-1)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd91303-077-p3s17w18">
 <src.rf>manual</src.rf>
@@ -2313,7 +2313,7 @@
 <LM>w#w-lnd91303-077-p3s18w12</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-077-p3s18w13">
 <src.rf>manual</src.rf>
@@ -2747,7 +2747,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-077-p3s21w19">

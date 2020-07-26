@@ -149,7 +149,7 @@
 <LM>w#w-mf930713-163-p1s1Cw7</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf930713-163-p1s1Cw8">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-163-p2s2w13">
@@ -1716,7 +1716,7 @@
 <LM>w#w-mf930713-163-p3s5w11</LM>
 </w.rf>
 <form>ukradli</form>
-<tag lemma="ukrást" src="auto" selected="1">VpMP----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-163-p3s5w12">
 <src.rf>manual</src.rf>

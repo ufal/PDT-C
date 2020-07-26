@@ -229,7 +229,7 @@
 <LM>w#w-mf930703-097-p2s1w24</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930703-097-p2s1w25">
 <src.rf>manual</src.rf>
@@ -761,7 +761,7 @@
 <LM>w#w-mf930703-097-p3s2w6</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930703-097-p3s2w7">
 <src.rf>manual</src.rf>
@@ -977,7 +977,7 @@
 <LM>w#w-mf930703-097-p4s3w3</LM>
 </w.rf>
 <form>Něm</form>
-<tag lemma="Německo_;G" src="auto" selected="1">BNNXX-----A----</tag>
+<tag lemma="Německo_;G" src="auto" selected="1">NNNXX-----A---b</tag>
 </m>
 <m id="m-mf930703-097-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1045,7 +1045,7 @@
 <form>Fr</form>
 <tag>
 <AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Francie_;G" src="manual" selected="1">BNFXX-----A----</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930703-097-p4s4w4">
@@ -1130,7 +1130,7 @@
 <LM>w#w-mf930703-097-p4s6w3</LM>
 </w.rf>
 <form>It</form>
-<tag lemma="Itálie_;G" src="auto" selected="1">BNFXX-----A----</tag>
+<tag lemma="Itálie_;G" src="auto" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf930703-097-p4s6w4">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 </w.rf>
 <form>Christin</form>
 <tag>
-<AM lemma="Christin_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Christin-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Christina_;Y_,t" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -1267,7 +1267,7 @@
 <form>Fr</form>
 <tag>
 <AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Francie_;G" src="manual" selected="1">BNFXX-----A----</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930703-097-p4s8w4">
@@ -1378,7 +1378,7 @@
 <form>Fr</form>
 <tag>
 <AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Francie_;G" src="manual" selected="1">BNFXX-----A----</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930703-097-p4s10w6">
@@ -1535,7 +1535,7 @@
 <LM>w#w-mf930703-097-p4s12w5</LM>
 </w.rf>
 <form>Něm</form>
-<tag lemma="Německo_;G" src="auto" selected="1">BNNXX-----A----</tag>
+<tag lemma="Německo_;G" src="auto" selected="1">NNNXX-----A---b</tag>
 </m>
 <m id="m-mf930703-097-p4s12w6">
 <src.rf>manual</src.rf>

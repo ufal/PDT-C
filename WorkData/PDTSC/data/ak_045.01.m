@@ -1068,7 +1068,7 @@
 <form>Prádle</form>
 <tag>
 <AM lemma="prádlo" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="Prádlo_;G" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="prádlo" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m045-d1t359-7">
@@ -1429,7 +1429,7 @@
 <LM>w#w-d1t395-3</LM>
 </w.rf>
 <form>Koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m045-d1t395-2">
 <w.rf>
@@ -1587,7 +1587,7 @@
 <LM>w#w-d1t411-1</LM>
 </w.rf>
 <form>přivezli</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m045-d1t413-1">
 <w.rf>
@@ -2092,7 +2092,7 @@
 <LM>w#w-d1t444-1</LM>
 </w.rf>
 <form>dávat</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m045-d1t444-3">
 <w.rf>
@@ -2389,7 +2389,7 @@
 <LM>w#w-d1t467-4</LM>
 </w.rf>
 <form>vázala</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="vázat" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m045-d1t467-6">
 <w.rf>
@@ -2558,7 +2558,7 @@
 <LM>w#w-d1t470-22</LM>
 </w.rf>
 <form>vázat</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="vázat" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m045-d1t472-1">
 <w.rf>

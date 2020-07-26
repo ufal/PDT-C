@@ -187,7 +187,7 @@
 <LM>w#w-lnd92255-019-p1s1w22</LM>
 </w.rf>
 <form>hodinou</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92255-019-p1s1w23">
 <src.rf>manual</src.rf>

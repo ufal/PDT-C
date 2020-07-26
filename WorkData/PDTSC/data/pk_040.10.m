@@ -551,7 +551,7 @@
 <LM>w#w-d1t2629-19</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m040-d1e2624-x2-51">
 <w.rf>
@@ -1544,7 +1544,7 @@
 <LM>w#w-d1t2684-3</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m040-d1t2684-5">
 <w.rf>
@@ -1621,7 +1621,7 @@
 <LM>w#w-d1t2688-3</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m040-d1t2688-9">
 <w.rf>
@@ -2101,7 +2101,7 @@
 <LM>w#w-d1t2711-10</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m040-d1t2711-8">
 <w.rf>
@@ -2318,7 +2318,7 @@
 <LM>w#w-d1t2715-7</LM>
 </w.rf>
 <form>našemu</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS3-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS3-P1-------</tag>
 </m>
 <m id="m040-d1t2715-8">
 <w.rf>
@@ -2520,7 +2520,7 @@
 <LM>w#w-d1t2733-4</LM>
 </w.rf>
 <form>stojím</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m040-d1t2733-5">
 <w.rf>
@@ -2861,7 +2861,7 @@
 <LM>w#w-d1t2751-5</LM>
 </w.rf>
 <form>špajzka</form>
-<tag lemma="špajzka_,h_,l_,s_^(špížka;;středoškolská_cenzura)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="špajzka_,h_^(špížka;;středoškolská_cenzura)" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m040-137-139">
 <w.rf>
@@ -3351,7 +3351,7 @@
 <form>hezky</form>
 <tag>
 <AM lemma="hezky" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="hezky_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hezky" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m040-174-177">
@@ -3898,7 +3898,7 @@
 <form>nejdřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------3A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------3A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m040-d1t2786-2">
@@ -4066,7 +4066,7 @@
 <LM>w#w-d1t2788-12</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m040-d-id149796-punct">
 <w.rf>
@@ -4285,7 +4285,7 @@
 <LM>w#w-d1t2807-10</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m040-d1t2807-11">
 <w.rf>
@@ -4627,7 +4627,7 @@
 <LM>w#w-d1t2833-7</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m040-d1t2835-2">
 <w.rf>

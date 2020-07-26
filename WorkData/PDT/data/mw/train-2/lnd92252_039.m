@@ -27,7 +27,7 @@
 <LM>w#w-lnd92252-039-p1s1w2</LM>
 </w.rf>
 <form>STRANU</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92252-039-p1s1w3">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-lnd92252-039-p2s1w3</LM>
 </w.rf>
 <form>Kurdům</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92252-039-p3s1">
@@ -966,7 +966,7 @@
 <LM>w#w-lnd92252-039-p4s2w21</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92252-039-p4s2w22">
 <src.rf>manual</src.rf>
@@ -1360,7 +1360,7 @@
 <LM>w#w-lnd92252-039-p4s4w6</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92252-039-p4s4w7">
 <src.rf>manual</src.rf>
@@ -1901,7 +1901,7 @@
 <LM>w#w-lnd92252-039-p5s1w25</LM>
 </w.rf>
 <form>Kurdů</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92252-039-p5s1w26">
 <src.rf>manual</src.rf>
@@ -2124,7 +2124,7 @@
 <LM>w#w-lnd92252-039-p6s1w9</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-039-p6s1w10">
 <src.rf>manual</src.rf>
@@ -3173,7 +3173,7 @@
 <LM>w#w-lnd92252-039-p7s2w4</LM>
 </w.rf>
 <form>stranou</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92252-039-p7s2w5">
 <src.rf>manual</src.rf>
@@ -3237,7 +3237,7 @@
 <LM>w#w-lnd92252-039-p7s2w12</LM>
 </w.rf>
 <form>Kurdů</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92252-039-p7s2w13">
 <src.rf>manual</src.rf>
@@ -3261,7 +3261,7 @@
 <LM>w#w-lnd92252-039-p7s2w15</LM>
 </w.rf>
 <form>stranou</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92252-039-p7s2w16">
 <src.rf>manual</src.rf>
@@ -3417,7 +3417,7 @@
 <LM>w#w-lnd92252-039-p7s2w34</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92252-039-p7s2w35">
 <src.rf>manual</src.rf>
@@ -3634,7 +3634,7 @@
 <LM>w#w-lnd92252-039-p7s3w19</LM>
 </w.rf>
 <form>turecko</form>
-<tag lemma="turecko-3" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="turecko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92252-039-p7s3w20">
 <src.rf>manual</src.rf>
@@ -4214,7 +4214,7 @@
 <LM>w#w-lnd92252-039-p8s2w9</LM>
 </w.rf>
 <form>turecko</form>
-<tag lemma="turecko-3" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="turecko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92252-039-p8s2w10">
 <src.rf>manual</src.rf>
@@ -4230,7 +4230,7 @@
 <LM>w#w-lnd92252-039-p8s2w11</LM>
 </w.rf>
 <form>irácko</form>
-<tag lemma="irácký" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="irácko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92252-039-p8s2w12">
 <src.rf>manual</src.rf>
@@ -4885,7 +4885,7 @@
 <LM>w#w-lnd92252-039-p9s2w17</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-039-p9s2w18">
 <src.rf>manual</src.rf>
@@ -5039,7 +5039,7 @@
 <LM>w#w-lnd92252-039-p9s3w15</LM>
 </w.rf>
 <form>Kurdů</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92252-039-p9s3w16">
 <src.rf>manual</src.rf>
@@ -5287,7 +5287,7 @@
 <LM>w#w-lnd92252-039-p10s1w23</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-039-p10s1w24">
 <src.rf>manual</src.rf>
@@ -5561,7 +5561,7 @@
 <LM>w#w-lnd92252-039-p11s1w19</LM>
 </w.rf>
 <form>Kurdům</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-lnd92252-039-p11s1w20">
 <src.rf>manual</src.rf>
@@ -5739,7 +5739,7 @@
 <LM>w#w-lnd92252-039-p11s2w1</LM>
 </w.rf>
 <form>Dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92252-039-p11s2w2">
 <src.rf>manual</src.rf>
@@ -5909,7 +5909,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-039-p11s2w23">
@@ -6398,7 +6398,7 @@
 <LM>w#w-lnd92252-039-p12s4w6</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd92252-039-p12s4w7">
 <src.rf>manual</src.rf>

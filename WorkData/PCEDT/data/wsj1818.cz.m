@@ -343,7 +343,7 @@
 <LM>w#w-wsj1818-001-p1s0W27</LM>
 </w.rf>
 <form>zamysleli</form>
-<tag lemma="zamyslet" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="zamyslit" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1818-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -453,7 +453,7 @@
 <LM>w#w-wsj1818-001-p1s1W6</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1818-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -513,7 +513,7 @@
 <LM>w#w-ln94201-107-p2s3w16</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94201-107-p2s3w17">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <LM>w#w-ln94201-107-p2s6w5</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag lemma="říci" src="auto" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94201-107-p2s6w6">
 <src.rf>manual</src.rf>
@@ -1409,7 +1409,7 @@
 <LM>w#w-ln94201-107-p3s1w4</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-107-p3s1w5">
 <src.rf>manual</src.rf>
@@ -2197,7 +2197,7 @@
 <LM>w#w-ln94201-107-p5s2w1</LM>
 </w.rf>
 <form>Zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94201-107-p5s2w2">
 <src.rf>manual</src.rf>
@@ -3304,7 +3304,7 @@
 <LM>w#w-ln94201-107-p7s1w16</LM>
 </w.rf>
 <form>vrbek</form>
-<tag lemma="vrbka-1_^(malá_vrba)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="vrbka" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94201-107-p7s1w17">
 <src.rf>manual</src.rf>
@@ -3418,7 +3418,7 @@
 <LM>w#w-ln94201-107-p7s2w7</LM>
 </w.rf>
 <form>Johannů</form>
-<tag lemma="Johannes_;Y" src="auto" selected="1">NNMP2-----A---1</tag>
+<tag lemma="Johannes_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94201-107-p7s2w8">
 <src.rf>manual</src.rf>
@@ -3453,7 +3453,7 @@
 <LM>w#w-ln94201-107-p7s2w11</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94201-107-p7s2w12">
 <src.rf>manual</src.rf>
@@ -5047,7 +5047,7 @@
 <LM>w#w-ln94201-107-p8s4w1</LM>
 </w.rf>
 <form>Nekope</form>
-<tag lemma="kopat" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="kopat" src="orig" selected="1">VB-S---3P-NAI-1</tag>
 </m>
 <m id="m-ln94201-107-p8s4w2">
 <src.rf>manual</src.rf>
@@ -5139,7 +5139,7 @@
 <LM>w#w-ln94201-107-p8s4w12</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-ln94201-107-p8s4w13">
 <src.rf>manual</src.rf>
@@ -6092,7 +6092,7 @@
 <LM>w#w-ln94201-107-p9s4w2</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94201-107-p9s4w3">
 <src.rf>manual</src.rf>
@@ -6456,7 +6456,7 @@
 <LM>w#w-ln94201-107-p9s6w31</LM>
 </w.rf>
 <form>datem</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94201-107-p9s6w32">
 <src.rf>manual</src.rf>
@@ -7198,7 +7198,7 @@
 <LM>w#w-ln94201-107-p10s3w5</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94201-107-p10s3w6">
 <src.rf>manual</src.rf>
@@ -8214,7 +8214,7 @@
 <LM>w#w-ln94201-107-p11s1w3</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94201-107-p11s1w4">
 <src.rf>manual</src.rf>
@@ -8632,7 +8632,7 @@
 <LM>w#w-ln94201-107-p11s2w24</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94201-107-p11s2w25">
 <src.rf>manual</src.rf>
@@ -8811,7 +8811,7 @@
 <LM>w#w-ln94201-107-p12s1w15</LM>
 </w.rf>
 <form>Giuseppeho</form>
-<tag lemma="Giuseppe_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Giuseppe_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln94201-107-p12s1w16">
 <src.rf>manual</src.rf>

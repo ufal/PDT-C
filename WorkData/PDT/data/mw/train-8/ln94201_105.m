@@ -783,7 +783,7 @@
 <LM>w#w-ln94201-105-p3s2w2</LM>
 </w.rf>
 <form>táhlo</form>
-<tag lemma="táhnout" src="auto" selected="1">VpNS----R-AAP-1</tag>
+<tag lemma="táhnout" src="auto" selected="1">VpNS----R-AAI-1</tag>
 </m>
 <m id="m-ln94201-105-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1834,7 +1834,7 @@
 <LM>w#w-ln94201-105-p4s5w8</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94201-105-p4s5w9">
 <src.rf>manual</src.rf>
@@ -1930,7 +1930,7 @@
 <LM>w#w-ln94201-105-p4s5w20</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94201-105-p4s5w21">
 <src.rf>manual</src.rf>
@@ -2258,7 +2258,7 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KSČ_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-105-p5s3w19">
@@ -2869,7 +2869,7 @@
 <LM>w#w-ln94201-105-p6s1w5</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94201-105-p6s1w6">
 <src.rf>manual</src.rf>
@@ -3015,7 +3015,7 @@
 <LM>w#w-ln94201-105-p6s2w8</LM>
 </w.rf>
 <form>nemohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-ln94201-105-p6s2w9">
 <src.rf>manual</src.rf>
@@ -3792,7 +3792,7 @@
 <LM>w#w-ln94201-105-p7s2w7</LM>
 </w.rf>
 <form>nemyslely</form>
-<tag lemma="myslet" src="orig" selected="1">VpTP----R-NA---</tag>
+<tag lemma="myslit" src="orig" selected="1">VpTP----R-NAI-1</tag>
 </m>
 <m id="m-ln94201-105-p7s2w8">
 <src.rf>manual</src.rf>
@@ -4520,7 +4520,7 @@
 <LM>w#w-ln94201-105-p7s7w8</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94201-105-p7s7w9">
 <src.rf>manual</src.rf>
@@ -4754,7 +4754,7 @@
 <LM>w#w-ln94201-105-p7s8w10</LM>
 </w.rf>
 <form>Evropu</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94201-105-p7s8w11">
 <src.rf>manual</src.rf>
@@ -4789,7 +4789,7 @@
 <LM>w#w-ln94201-105-p7s8w14</LM>
 </w.rf>
 <form>nemohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-ln94201-105-p7s8w15">
 <src.rf>manual</src.rf>
@@ -4922,7 +4922,7 @@
 <LM>w#w-ln94201-105-p7s9w15</LM>
 </w.rf>
 <form>vrátky</form>
-<tag lemma="vrátka_^(dvířka)" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="vrátka" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln94201-105-p7s9w16">
 <src.rf>manual</src.rf>

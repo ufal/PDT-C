@@ -2609,7 +2609,7 @@
 <LM>w#w-wsj0624-001-p1s8W26</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0624-001-p1s8W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2644,7 +2644,7 @@
 <LM>w#w-wsj0624-001-p1s8W29</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0624-001-p1s8W30-Ta">
 <src.rf>tagger-a</src.rf>

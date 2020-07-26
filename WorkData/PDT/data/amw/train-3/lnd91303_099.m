@@ -604,7 +604,7 @@
 <LM>w#w-lnd91303-099-p2s3w27</LM>
 </w.rf>
 <form>nejdřív</form>
-<tag lemma="brzy" src="auto" selected="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" selected="1">Dg-------3A---1</tag>
 </m>
 <m id="m-lnd91303-099-p2s3w28">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <form>Benfika</form>
 <tag>
 <AM lemma="Benfika_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Benfica_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Benfika_;m_,s_^(^DD**Benfica)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-099-p2s5Aw5">
@@ -850,7 +850,7 @@
 <form>Benfika</form>
 <tag>
 <AM lemma="Benfika_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Benfica_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Benfika_;m_,s_^(^DD**Benfica)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-099-p2s5Bw3">
@@ -859,7 +859,7 @@
 <LM>w#w-lnd91303-099-p2s5Bw3</LM>
 </w.rf>
 <form>remizovala</form>
-<tag lemma="remizovat" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="remizovat_,s_^(^DD**remízovat)" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-lnd91303-099-p2s5Bw4">
 <src.rf>manual</src.rf>

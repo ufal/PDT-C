@@ -117,7 +117,7 @@
 <form>nám</form>
 <tag>
 <AM lemma="já" src="orig">PP-P3--1-------</AM>
-<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920901-017-p1s1w14">
@@ -200,7 +200,7 @@
 <form>Zn</form>
 <tag>
 <AM lemma="značka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="značka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="značka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920901-017-p1s1w24">
@@ -241,7 +241,7 @@
 <LM>w#w-mf920901-017-p1s1w28</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 </s>
 <s id="m-mf920901-017-p2s1">

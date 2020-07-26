@@ -192,7 +192,7 @@
 <LM>w#w-wsj0931-001-p1s0W17</LM>
 </w.rf>
 <form>americko</form>
-<tag lemma="americký" src="auto" recommended="1">S2--------A----</tag>
+<tag lemma="americko" src="auto" recommended="1">S2--------A----</tag>
 </m>
 <m id="m-wsj0931-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6491,7 +6491,7 @@
 <LM>w#w-wsj0931-001-p1s26W10</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0931-001-p1s26W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6757,7 +6757,7 @@
 <LM>w#w-wsj0931-001-p1s27W3</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj0931-001-p1s27W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9066,7 +9066,7 @@
 <LM>w#w-wsj0931-001-p1s34W39</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0931-001-p1s34W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9432,7 +9432,7 @@
 <LM>w#w-wsj0931-001-p1s36W11</LM>
 </w.rf>
 <form>americko</form>
-<tag lemma="americký" src="auto" recommended="1">S2--------A----</tag>
+<tag lemma="americko" src="auto" recommended="1">S2--------A----</tag>
 </m>
 <m id="m-wsj0931-001-p1s36W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -183,7 +183,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-027-p4s1w2">
@@ -192,7 +192,7 @@
 <LM>w#w-mf930701-027-p4s1w2</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---b</tag>
+<tag lemma="USD_^(U.S._dolar)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-027-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <LM>w#w-mf930701-027-p17s1w2</LM>
 </w.rf>
 <form>DKK</form>
-<tag lemma="DKK_^(dánská_koruna)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="DKK-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-027-p17s1w3">
 <src.rf>manual</src.rf>
@@ -1518,7 +1518,7 @@
 <LM>w#w-mf930701-027-p20s1w1</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-027-p20s1w2">
 <src.rf>manual</src.rf>

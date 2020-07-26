@@ -315,7 +315,7 @@
 <LM>w#w-d1t224-17</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="zač" src="auto" recommended="1">PY-------------</tag>
+<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m149-d-id65419-punct">
 <w.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-d1t236-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m149-d-id65837-punct">
 <w.rf>
@@ -835,7 +835,7 @@
 <form>velice</form>
 <tag>
 <AM lemma="velice" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="velice_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="velice" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m149-d1t249-5">
@@ -2120,7 +2120,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -3700,7 +3700,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m149-d1t350-6">
@@ -4265,7 +4265,7 @@
 </w.rf>
 <form>Beskydech</form>
 <tag>
-<AM lemma="Beskydy_;G" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="Beskydy-1_;G" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="beskyd_,n_^(holý_horský_hřbet)" src="auto">NNIP6-----A----</AM>
 </tag>
 </m>
@@ -4408,7 +4408,7 @@
 <LM>w#w-d1t378-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m149-d1t378-3">
 <w.rf>
@@ -4730,7 +4730,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m149-d1t397-3">

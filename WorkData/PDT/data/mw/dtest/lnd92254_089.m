@@ -156,7 +156,7 @@
 <LM>w#w-lnd92254-089-p2s3w1</LM>
 </w.rf>
 <form>Stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-089-p2s3w2">
 <src.rf>manual</src.rf>

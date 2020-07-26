@@ -2314,7 +2314,7 @@
 <LM>w#w-wsj1903-001-p1s9W17</LM>
 </w.rf>
 <form>lobbistů</form>
-<tag lemma="lobbista_,s_^(^DD**lobista)" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lobbista" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1903-001-p1s9W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2729,7 +2729,7 @@
 <LM>w#w-wsj1903-001-p1s11W7</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1903-001-p1s11W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2942,7 +2942,7 @@
 <LM>w#w-wsj1903-001-p1s12W16</LM>
 </w.rf>
 <form>pozorně</form>
-<tag lemma="pozorně-1_^(všímavý,_milý,_soustředěný)_(*3ý-1)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="pozorně-1_^(*3ý-1)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1903-001-p1s12W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3234,7 +3234,7 @@
 <LM>w#w-wsj1903-001-p1s13W19</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1903-001-p1s13W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3298,7 +3298,7 @@
 <LM>w#w-wsj1903-001-p1s14W3</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1903-001-p1s14W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3780,7 +3780,7 @@
 <LM>w#w-wsj1903-001-p1s17W4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1903-001-p1s17W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3936,7 +3936,7 @@
 <form>matek</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP2-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s17W19-Ta">
@@ -6765,7 +6765,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s29W13-Ta">
@@ -11098,7 +11098,7 @@
 <LM>w#w-wsj1903-001-p1s46W3</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj1903-001-p1s46W4-Ta">
 <src.rf>tagger-a</src.rf>

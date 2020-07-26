@@ -471,7 +471,7 @@
 <LM>w#w-wsj0793-001-p1s0W38</LM>
 </w.rf>
 <form>cestami</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj0793-001-p1s0W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1111,7 +1111,7 @@
 <LM>w#w-wsj0793-001-p1s5W4</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0793-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3138,7 +3138,7 @@
 <form>Narozdíl</form>
 <tag>
 <AM lemma="narozdíl_,x" src="auto" recommended="1">RF-------------</AM>
-<AM lemma="narozdíl" src="manual" selected="1">RF-------------</AM>
+<AM lemma="narozdíl_,h" src="manual" selected="1">RF-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0793-001-p1s9W2-Ta">
@@ -6287,7 +6287,7 @@
 <LM>w#w-wsj0793-001-p1s17W4</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0793-001-p1s17W5-Ta">
 <src.rf>tagger-a</src.rf>

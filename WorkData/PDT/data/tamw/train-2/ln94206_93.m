@@ -476,7 +476,7 @@
 <form>ul</form>
 <tag>
 <AM lemma="ulice_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ulice" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="ulice" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94206-93-p3s1w36">
@@ -708,7 +708,7 @@
 <LM>w#w-ln94206-93-p5s1w2</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94206-93-p5s1w3">
 <src.rf>manual</src.rf>

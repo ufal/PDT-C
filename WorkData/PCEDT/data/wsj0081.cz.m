@@ -265,7 +265,7 @@
 <LM>w#w-wsj0081-001-p1s0W19</LM>
 </w.rf>
 <form>právům</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP3-----A----</tag>
+<tag lemma="právo" src="auto" recommended="1">NNNP3-----A----</tag>
 </m>
 <m id="m-wsj0081-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1426,7 +1426,7 @@
 <LM>w#w-wsj0081-001-p1s2W39</LM>
 </w.rf>
 <form>vynalezl</form>
-<tag lemma="vynaleznout" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="vynaleznout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj0081-001-p1s2W40-Ta">
 <src.rf>tagger-a</src.rf>

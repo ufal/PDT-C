@@ -342,7 +342,7 @@
 <LM>w#w-d1t680-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m106-d-id84374-punct">
 <w.rf>
@@ -394,7 +394,7 @@
 <LM>w#w-d1t687-4</LM>
 </w.rf>
 <form>Nejraději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m106-d1t687-6">
 <w.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-d1t691-3</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m106-d1t691-4">
 <w.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-d1t691-6</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m106-d1e682-x2-145">
 <w.rf>
@@ -632,7 +632,7 @@
 </w.rf>
 <form>nejvíce</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A----</AM>
 <AM lemma="nejvíce" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -1051,7 +1051,7 @@
 <LM>w#w-d1t726-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m106-d1t726-3">
 <w.rf>
@@ -1766,7 +1766,7 @@
 <LM>w#w-d1t746-12</LM>
 </w.rf>
 <form>turisticko</form>
-<tag lemma="turistický" src="auto" recommended="1">S2--------A----</tag>
+<tag lemma="turisticko" src="auto" recommended="1">S2--------A----</tag>
 </m>
 <m id="m106-185-189">
 <w.rf>
@@ -2641,7 +2641,7 @@
 <LM>w#w-d1t773-2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m106-d1t773-3">
 <w.rf>
@@ -3259,7 +3259,7 @@
 <LM>w#w-d1t810-3</LM>
 </w.rf>
 <form>Rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m106-d1t810-4">
 <w.rf>
@@ -3781,7 +3781,7 @@
 <LM>w#w-d1t848-5</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m106-d1t848-6">
 <w.rf>
@@ -4190,7 +4190,7 @@
 <LM>w#w-d1t872-3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m106-d-id91408-punct">
 <w.rf>

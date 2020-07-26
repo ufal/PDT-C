@@ -857,7 +857,7 @@
 <LM>w#w-d1t4114-15</LM>
 </w.rf>
 <form>průmyslovku</form>
-<tag lemma="průmyslovka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="průmyslovka_,h" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m035-265-268">
 <w.rf>
@@ -945,7 +945,7 @@
 <LM>w#w-d1t4118-1</LM>
 </w.rf>
 <form>průmyslovku</form>
-<tag lemma="průmyslovka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="průmyslovka_,h" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m035-d-id205698-punct">
 <w.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-d1t4118-16</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m035-d1t4118-17">
 <w.rf>
@@ -1092,7 +1092,7 @@
 <LM>w#w-d1t4118-19</LM>
 </w.rf>
 <form>průmyslovku</form>
-<tag lemma="průmyslovka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="průmyslovka_,h" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m035-269-275">
 <w.rf>
@@ -1422,7 +1422,7 @@
 <form>ATK</form>
 <tag>
 <AM lemma="ATK-1_:B_;m_^(Armádní_tělovýchovný_klub)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="ATK-1_;m_^(Armádní_tělovýchovný_klub)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ATK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m035-d-id206533-punct">
@@ -1510,7 +1510,7 @@
 <form>ATK</form>
 <tag>
 <AM lemma="ATK-1_:B_;m_^(Armádní_tělovýchovný_klub)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="ATK-1_;m_^(Armádní_tělovýchovný_klub)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ATK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m035-d1t4140-2">
@@ -1836,7 +1836,7 @@
 <LM>w#w-d1t4165-1</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m035-d1t4165-2">
 <w.rf>
@@ -2065,7 +2065,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -2197,7 +2197,7 @@
 <tag>
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="auto" recommended="1">VpYS---XR-AA---</AM>
 <AM lemma="stávat-3_:T_^(někdo/něco_stojí,_např._na_nohou)_(*5t-3)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="vstávat_^(*3t)" src="manual" selected="1">VpYS----R-AAI-6</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m035-d1t4165-46">
@@ -2521,7 +2521,7 @@
 <LM>w#w-d1t4165-80</LM>
 </w.rf>
 <form>průmyslovku</form>
-<tag lemma="průmyslovka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="průmyslovka_,h" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m035-d-m-d1e4156-x3-punct-punct">
 <w.rf>
@@ -3572,7 +3572,7 @@
 <LM>w#w-d1t4196-7</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m035-d1t4196-11">
 <w.rf>
@@ -3914,7 +3914,7 @@
 <LM>w#w-d1t4212-30</LM>
 </w.rf>
 <form>neuměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m035-d1t4212-31">
 <w.rf>
@@ -4563,7 +4563,7 @@
 <LM>w#w-d1t4218-38</LM>
 </w.rf>
 <form>milionář</form>
-<tag lemma="milionář_,s_^(^DD**miliónář)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="milionář" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m035-d1t4220-1">
 <w.rf>
@@ -5439,7 +5439,7 @@
 <LM>w#w-d1t4269-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m035-d1t4269-3">
 <w.rf>

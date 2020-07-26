@@ -1932,7 +1932,7 @@
 <LM>w#w-wsj1172-001-p1s4W30</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1172-001-p1s4W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2120,7 +2120,7 @@
 <LM>w#w-wsj1172-001-p1s6W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1172-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2856,7 +2856,7 @@
 <LM>w#w-wsj1172-001-p1s8W26</LM>
 </w.rf>
 <form>politikou</form>
-<tag lemma="politika_^(věda)" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="politika" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1172-001-p1s8W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4031,7 +4031,7 @@
 <LM>w#w-wsj1172-001-p1s11W17</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1172-001-p1s11W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5817,7 +5817,7 @@
 <LM>w#w-wsj1172-001-p1s17W20</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1172-001-p1s17W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6086,7 +6086,7 @@
 <LM>w#w-wsj1172-001-p1s18W13</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1172-001-p1s18W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6238,7 +6238,7 @@
 <LM>w#w-wsj1172-001-p1s18W25</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1172-001-p1s18W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7216,7 +7216,7 @@
 <LM>w#w-wsj1172-001-p1s22W3</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1172-001-p1s22W4-Ta">
 <src.rf>tagger-a</src.rf>

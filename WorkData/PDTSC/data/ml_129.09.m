@@ -804,7 +804,7 @@
 <LM>w#w-d1t2204-4</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m129-d1t2204-5">
 <w.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-d1t2204-12</LM>
 </w.rf>
 <form>bojím</form>
-<tag lemma="bát" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m129-378-379">
 <w.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-d1t2210-6</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m129-d-id146487-punct">
 <w.rf>
@@ -1230,7 +1230,7 @@
 <form>ČKD</form>
 <tag>
 <AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m129-d1t2221-1">
@@ -1334,7 +1334,7 @@
 <form>ČKD</form>
 <tag>
 <AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ČKD-1_;m_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m129-d-id147174-punct">
@@ -1681,7 +1681,7 @@
 <LM>w#w-d1t2234-16</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m129-d1t2234-15">
 <w.rf>
@@ -1741,7 +1741,7 @@
 <LM>w#w-d1t2244-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m129-d1t2244-3">
 <w.rf>
@@ -1782,7 +1782,7 @@
 <LM>w#w-d1t2248-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m129-d1t2248-3">
 <w.rf>
@@ -1862,7 +1862,7 @@
 <LM>w#w-d1t2248-11</LM>
 </w.rf>
 <form>bojím</form>
-<tag lemma="bát" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m129-d1t2248-10">
 <w.rf>
@@ -1984,7 +1984,7 @@
 <LM>w#w-d1t2248-19</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m129-d1t2248-20">
 <w.rf>
@@ -1998,7 +1998,7 @@
 <LM>w#w-d1t2248-21</LM>
 </w.rf>
 <form>nemohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m129-d1t2248-22">
 <w.rf>
@@ -2083,7 +2083,7 @@
 <LM>w#w-d1t2259-15</LM>
 </w.rf>
 <form>bojím</form>
-<tag lemma="bát" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m129-d1t2259-16">
 <w.rf>
@@ -3087,7 +3087,7 @@
 <LM>w#w-d1t2298-4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m129-d1t2298-5">
 <w.rf>
@@ -3621,7 +3621,7 @@
 </w.rf>
 <form>méně</form>
 <tag>
-<AM lemma="málo-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="méně" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="méně" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -3790,7 +3790,7 @@
 <form>MDŽ</form>
 <tag>
 <AM lemma="MDŽ-1_:B_^(Mezinárodní_den_žen)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="MDŽ-1_^(Mezinárodní_den_žen)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MDŽ_^(Mezinárodní_den_žen)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m129-d1e2305-x3-513">
@@ -4251,7 +4251,7 @@
 <form>MDŽ</form>
 <tag>
 <AM lemma="MDŽ-1_:B_^(Mezinárodní_den_žen)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="MDŽ-1_^(Mezinárodní_den_žen)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MDŽ_^(Mezinárodní_den_žen)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m129-d1t2362-1">

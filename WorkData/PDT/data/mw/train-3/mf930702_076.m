@@ -128,7 +128,7 @@
 <LM>w#w-mf930702-076-p1s2w11</LM>
 </w.rf>
 <form>ekonomicko</form>
-<tag lemma="ekonomický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="ekonomicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930702-076-p1s2w12">
 <src.rf>manual</src.rf>

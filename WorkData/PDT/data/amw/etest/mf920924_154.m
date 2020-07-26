@@ -35,7 +35,7 @@
 <LM>w#w-mf920924-154-p1s1w3</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920924-154-p1s1w4">
 <src.rf>manual</src.rf>
@@ -116,7 +116,7 @@
 <LM>w#w-mf920924-154-p3s1Aw3</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920924-154-p3s1Aw4">
 <src.rf>manual</src.rf>

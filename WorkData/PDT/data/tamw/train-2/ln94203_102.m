@@ -95,7 +95,7 @@
 <LM>w#w-ln94203-102-p2s1Bw5</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-102-p2s1Bw6">
 <src.rf>manual</src.rf>

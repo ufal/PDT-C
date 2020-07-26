@@ -1798,7 +1798,7 @@
 <LM>w#w-d1e1217-x2-200</LM>
 </w.rf>
 <form>vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m041-d1t1232-1">
 <w.rf>
@@ -1828,7 +1828,7 @@
 <LM>w#w-d1t1234-1</LM>
 </w.rf>
 <form>píšťalku</form>
-<tag lemma="píšťalka_,e" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="píšťalka" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m041-d1t1234-2">
 <w.rf>
@@ -1883,7 +1883,7 @@
 <LM>w#w-d1e1217-x2-170</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m041-d1t1248-4">
 <w.rf>
@@ -2524,7 +2524,7 @@
 <LM>w#w-d1t1298-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="zač" src="auto" recommended="1">PY-------------</tag>
+<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m041-d-id91893-punct">
 <w.rf>
@@ -2705,7 +2705,7 @@
 <LM>w#w-d1t1313-3</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m041-d1t1313-4">
 <w.rf>
@@ -3144,7 +3144,7 @@
 <LM>w#w-d1e1334-x2-259</LM>
 </w.rf>
 <form>Vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m041-261-262">
 <w.rf>
@@ -3205,7 +3205,7 @@
 <LM>w#w-d1t1345-5</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m041-d-m-d1e1334-x2-punct-punct">
 <w.rf>
@@ -3236,7 +3236,7 @@
 </w.rf>
 <form>kolikrát</form>
 <tag>
-<AM lemma="kolikrát-1_^(mnohokrát)" src="auto" recommended="1">Co-------------</AM>
+<AM lemma="kolikrát" src="auto" recommended="1">Co-------------</AM>
 <AM lemma="kolikrát-2_^(táz.)" src="auto">Cu-------------</AM>
 </tag>
 </m>
@@ -3311,7 +3311,7 @@
 <LM>w#w-d1t1359-5</LM>
 </w.rf>
 <form>jelo</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m041-d1t1359-6">
 <w.rf>
@@ -3464,7 +3464,7 @@
 <LM>w#w-d1t1370-5</LM>
 </w.rf>
 <form>Nebál</form>
-<tag lemma="bát" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m041-d1t1370-6">
 <w.rf>
@@ -3695,7 +3695,7 @@
 <form>matkou</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS7-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m041-d1t1383-6">
@@ -4479,7 +4479,7 @@
 <LM>w#w-d1t1420-7</LM>
 </w.rf>
 <form>zapřáhl</form>
-<tag lemma="zapřáhnout" src="auto" recommended="1">VpYS----R-AA---</tag>
+<tag lemma="zapřáhnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m041-d1t1420-8">
 <w.rf>
@@ -4752,7 +4752,7 @@
 <LM>w#w-d1t1434-7</LM>
 </w.rf>
 <form>Zapřáhl</form>
-<tag lemma="zapřáhnout" src="auto" recommended="1">VpYS----R-AA---</tag>
+<tag lemma="zapřáhnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m041-d1t1434-3">
 <w.rf>

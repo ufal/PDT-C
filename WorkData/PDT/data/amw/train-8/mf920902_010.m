@@ -119,7 +119,7 @@
 <form>nalezen</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsYS----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsYS----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-mf920902-010-p1s2w9">

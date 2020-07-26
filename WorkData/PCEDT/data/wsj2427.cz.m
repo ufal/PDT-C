@@ -937,7 +937,7 @@
 <LM>w#w-wsj2427-001-p1s2W11</LM>
 </w.rf>
 <form>Mulhouse</form>
-<tag lemma="Mylhúzy_;G" src="auto" recommended="1">NNNXX-----A---1</tag>
+<tag lemma="Mulhouse_;G_,s_^(^DD**Mylhúzy-1)" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj2427-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -162,7 +162,7 @@
 <form>Lužničanka</form>
 <tag>
 <AM lemma="Lužničanka_;m_^(hudební_skupina)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Lužničanka_;m_^(hudební_skupina;chata)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lužničanka_;m_^(hudební_skupina)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m129-d1t1186-1">
@@ -1531,7 +1531,7 @@
 <LM>w#w-d1t1238-1</LM>
 </w.rf>
 <form>Kdykoliv</form>
-<tag lemma="kdykoli" src="auto" recommended="1">Db------------1</tag>
+<tag lemma="kdykoliv_,s_^(^DD**kdykoli)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m129-305-8">
 <w.rf>
@@ -1921,7 +1921,7 @@
 <LM>w#w-d1t1253-1</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
 </m>
 <m id="m129-24-27">
 <w.rf>
@@ -2301,7 +2301,7 @@
 <LM>w#w-d1t1268-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m129-d1t1268-3">
 <w.rf>
@@ -4160,7 +4160,7 @@
 <LM>w#w-d1t1385-5</LM>
 </w.rf>
 <form>uměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m129-d1t1385-6">
 <w.rf>

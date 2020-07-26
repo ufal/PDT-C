@@ -99,7 +99,7 @@
 <LM>w#w-ln94211-94-p1s1w11</LM>
 </w.rf>
 <form>jižně</form>
-<tag lemma="jižně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="jižně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94211-94-p1s1w12">
 <src.rf>manual</src.rf>

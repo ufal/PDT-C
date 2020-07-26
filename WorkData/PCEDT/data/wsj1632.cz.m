@@ -2155,7 +2155,7 @@
 <LM>w#w-wsj1632-001-p1s6W9</LM>
 </w.rf>
 <form>dávat</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj1632-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>

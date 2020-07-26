@@ -498,7 +498,7 @@
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
 <AM lemma="doktor_^(doktor,_akad._titul)" src="manual">NNXXX-----A---8</AM>
 <AM lemma="Dr_:B_^(doktor,_akad._titul)" src="manual">NNXXX-----A----</AM>
-<AM lemma="Dr_^(doktor)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-144-p1s3w6">

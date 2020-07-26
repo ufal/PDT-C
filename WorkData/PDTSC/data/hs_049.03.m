@@ -1185,7 +1185,7 @@
 <LM>w#w-d1t922-4</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m049-d1t922-5">
 <w.rf>
@@ -1418,7 +1418,7 @@
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9FS3----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9FS6----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9FS7----------</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])" src="auto">NNFS1-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])" src="auto">NNFS4-----A----</AM>
 </tag>
@@ -2607,7 +2607,7 @@
 <LM>w#w-d1t996-1</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m049-d1t996-2">
 <w.rf>
@@ -4356,7 +4356,7 @@
 <LM>w#w-d1t1065-10</LM>
 </w.rf>
 <form>nejlíp</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A---1</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m049-495-496">
 <w.rf>
@@ -4382,7 +4382,7 @@
 <LM>w#w-d1t1069-12</LM>
 </w.rf>
 <form>teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m049-500-503">
 <w.rf>
@@ -4457,7 +4457,7 @@
 <LM>w#w-d1t1069-19</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m049-500-501">
 <w.rf>

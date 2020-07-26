@@ -1398,7 +1398,7 @@
 <LM>w#w-ln94210-84-p3s3w19</LM>
 </w.rf>
 <form>stanou</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94210-84-p3s3w20">
 <src.rf>manual</src.rf>

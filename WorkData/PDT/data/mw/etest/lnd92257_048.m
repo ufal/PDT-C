@@ -62,7 +62,7 @@
 <tag>
 <AM lemma="peepshow_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="peepshow" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="peepshow" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="peepshow" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-048-p1s1w7">
@@ -600,7 +600,7 @@
 <LM>w#w-lnd92257-048-p1s4w16</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd92257-048-p1s4w17">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-lnd92257-048-p1s6w6</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-048-p1s6w7">
 <src.rf>manual</src.rf>

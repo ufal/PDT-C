@@ -165,7 +165,7 @@
 </w.rf>
 <form>nejméně</form>
 <tag>
-<AM lemma="málo-3" src="auto" recommended="1">Dg-------3A----</AM>
+<AM lemma="méně" src="auto" recommended="1">Dg-------3A----</AM>
 <AM lemma="nejméně" src="auto">Ca--X----------</AM>
 </tag>
 </m>
@@ -415,7 +415,7 @@
 <LM>w#w-d1t4029-5</LM>
 </w.rf>
 <form>empétrojku</form>
-<tag lemma="empétrojka_,h_,l_^(přehrávač_mp3_souborů)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="empétrojka_,h_^(přehrávač_mp3_souborů)" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m148-d1e3948-x4-410">
 <w.rf>
@@ -586,7 +586,7 @@
 <LM>w#w-d1t4035-5</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m148-d1t4035-6">
 <w.rf>
@@ -638,7 +638,7 @@
 <LM>w#w-459-460</LM>
 </w.rf>
 <form>teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m148-459-461">
 <w.rf>
@@ -913,7 +913,7 @@
 <LM>w#w-d1t4050-3</LM>
 </w.rf>
 <form>bys</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Is-</tag>
 </m>
 <m id="m148-d1t4050-4">
 <w.rf>
@@ -1653,7 +1653,7 @@
 <LM>w#w-d1t4108-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m148-d1t4108-3">
 <w.rf>
@@ -1774,7 +1774,7 @@
 <LM>w#w-d1t4118-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m148-d1t4118-7">
 <w.rf>

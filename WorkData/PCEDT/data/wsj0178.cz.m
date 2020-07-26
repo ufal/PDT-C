@@ -1128,7 +1128,7 @@
 <LM>w#w-wsj0178-001-p1s5W9</LM>
 </w.rf>
 <form>CEO</form>
-<tag lemma="CEO_^(generální_ředitel)" src="auto" recommended="1">BNMXX-----A----</tag>
+<tag lemma="CEO-88" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0178-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1357,7 +1357,7 @@
 <LM>w#w-wsj0178-001-p1s5W28</LM>
 </w.rf>
 <form>starostmi</form>
-<tag lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="starost-2_^(*5ý-2)" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj0178-001-p1s5W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3238,7 +3238,7 @@
 <LM>w#w-wsj0178-001-p1s12W12</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0178-001-p1s12W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3377,7 +3377,7 @@
 <LM>w#w-wsj0178-001-p1s13W6</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0178-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3385,7 +3385,7 @@
 <LM>w#w-wsj0178-001-p1s13W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0178-001-p1s13W8-Ta">
 <src.rf>tagger-a</src.rf>

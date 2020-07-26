@@ -1248,7 +1248,7 @@
 <LM>w#w-lnd92258-097-p4s3w21</LM>
 </w.rf>
 <form>vymyšlen</form>
-<tag lemma="vymyslet" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="vymyslit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92258-097-p4s3w22">
 <src.rf>manual</src.rf>

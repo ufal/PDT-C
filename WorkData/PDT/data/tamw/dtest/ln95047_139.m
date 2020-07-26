@@ -151,7 +151,7 @@
 <LM>w#w-ln95047-139-p2s1Bw11</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95047-139-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <form>zahr</form>
 <tag>
 <AM lemma="zahraniční_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="zahraniční" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="zahraniční" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95047-139-p2s1Bw21">
@@ -316,7 +316,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-139-p2s1Bw32">
@@ -841,7 +841,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-139-p4s1w9">

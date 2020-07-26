@@ -45,7 +45,7 @@
 <form>Greenpeace</form>
 <tag>
 <AM lemma="greenpeace_;m_,t_^(ekologické_hnutí)" src="orig">NNNXX-----A----</AM>
-<AM lemma="greenpeace_;m_^(ekologické_hnutí)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="greenpeace_^(ekologické_hnutí)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p1s1w5">
@@ -283,7 +283,7 @@
 <form>Greenpeace</form>
 <tag>
 <AM lemma="greenpeace_;m_,t_^(ekologické_hnutí)" src="orig">NNNXX-----A----</AM>
-<AM lemma="greenpeace_;m_^(ekologické_hnutí)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="greenpeace_^(ekologické_hnutí)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p1s1w34">
@@ -393,7 +393,7 @@
 <LM>w#w-lnd92254-054-p1s2w10</LM>
 </w.rf>
 <form>právem</form>
-<tag lemma="právem" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="právem" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92254-054-p1s2w11">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-lnd92254-054-p2s1w4</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-054-p2s1w5">
 <src.rf>manual</src.rf>
@@ -1354,7 +1354,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p3s2w7">

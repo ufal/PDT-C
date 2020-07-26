@@ -37,7 +37,7 @@
 <form>sympoziem</form>
 <tag>
 <AM lemma="sympózium" src="orig">NNNS7-----A----</AM>
-<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS7-----A----</AM>
+<AM lemma="sympozium" src="manual" selected="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-101-p1s1w4">
@@ -912,7 +912,7 @@
 <LM>w#w-ln94204-101-p2s7w4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94204-101-p2s7w5">
 <src.rf>manual</src.rf>
@@ -1078,7 +1078,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>filosof</form>
-<tag lemma="filozof" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="filosof_,s_^(^DD**filozof)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-101-p2s8w5">
 <src.rf>manual</src.rf>

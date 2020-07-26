@@ -1332,7 +1332,7 @@
 <LM>w#w-wsj1909-001-p1s3W18</LM>
 </w.rf>
 <form>zasažena</form>
-<tag lemma="zasáhnout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="zasáhnout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj1909-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>

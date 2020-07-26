@@ -574,7 +574,7 @@
 </w.rf>
 <form>zamlžen</form>
 <tag>
-<AM lemma="zamlžet_,a" src="auto" recommended="1">VsYS----X-APP--</AM>
+<AM lemma="zamlžit" src="auto" recommended="1">VsYS----X-APP--</AM>
 <AM lemma="zamlžit" src="auto">VsYS----X-APP--</AM>
 </tag>
 </m>
@@ -1316,7 +1316,7 @@
 <LM>w#w-wsj0627-001-p1s4W28</LM>
 </w.rf>
 <form>událostmi</form>
-<tag lemma="událost_^(*3ý)" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="událost" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj0627-001-p1s4W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6666,7 +6666,7 @@
 <LM>w#w-wsj0627-001-p1s19W10</LM>
 </w.rf>
 <form>pozorněji</form>
-<tag lemma="pozorně-1_^(všímavý,_milý,_soustředěný)_(*3ý-1)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="pozorně-1_^(*3ý-1)" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0627-001-p1s19W11-Ta">
 <src.rf>tagger-a</src.rf>

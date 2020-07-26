@@ -271,7 +271,7 @@
 <LM>w#w-ln94211-103-p2s2w11</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94211-103-p2s2w12">
 <src.rf>manual</src.rf>
@@ -767,7 +767,7 @@
 <LM>w#w-ln94211-103-p2s4w10</LM>
 </w.rf>
 <form>Muzikus</form>
-<tag lemma="muzikus_,s" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="muzikus_,a" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-103-p2s4w11">
 <src.rf>manual</src.rf>
@@ -847,7 +847,7 @@
 <LM>w#w-ln94211-103-p2s4w20</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94211-103-p2s4w21">
 <src.rf>manual</src.rf>
@@ -913,7 +913,7 @@
 <LM>w#w-ln94211-103-p2s5w1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94211-103-p2s5w2">
 <src.rf>manual</src.rf>

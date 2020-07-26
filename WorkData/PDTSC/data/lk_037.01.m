@@ -14,7 +14,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m037-d1t287-3">
@@ -565,7 +565,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m037-d1t318-4">
@@ -649,7 +649,7 @@
 </w.rf>
 <form>starostech</form>
 <tag>
-<AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto" selected="1">NNFP6-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" selected="1">NNFP6-----A----</AM>
 <AM lemma="starosta" src="auto" recommended="1">NNMP6-----A----</AM>
 </tag>
 </m>
@@ -1832,7 +1832,7 @@
 <LM>w#w-d1t436-3</LM>
 </w.rf>
 <form>Myslíva</form>
-<tag lemma="Myslív_;G" src="auto" recommended="1">NNIS2-----A----</tag>
+<tag lemma="Myslív-1_;G" src="auto" recommended="1">NNIS2-----A----</tag>
 </m>
 <m id="m037-d-m-d1e429-x2-punct-punct">
 <w.rf>
@@ -2265,7 +2265,7 @@
 <LM>w#w-d1t486-17</LM>
 </w.rf>
 <form>Myslíva</form>
-<tag lemma="Myslív_;G" src="auto" recommended="1">NNIS2-----A----</tag>
+<tag lemma="Myslív-1_;G" src="auto" recommended="1">NNIS2-----A----</tag>
 </m>
 <m id="m037-d1t481-5">
 <w.rf>
@@ -2501,7 +2501,7 @@
 <LM>w#w-d1t498-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m037-d1t498-3">
 <w.rf>
@@ -2715,7 +2715,7 @@
 <form>správně</form>
 <tag>
 <AM lemma="správně_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="správně_^(*1í)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m037-d1t542-4">
@@ -3207,7 +3207,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m037-d1t572-6">

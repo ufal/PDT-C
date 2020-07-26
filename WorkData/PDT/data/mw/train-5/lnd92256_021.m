@@ -504,7 +504,7 @@
 <LM>w#w-lnd92256-021-p3s3w6</LM>
 </w.rf>
 <form>moravsko</form>
-<tag lemma="moravský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="moravsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92256-021-p3s3w7">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <LM>w#w-lnd92256-021-p3s4w14</LM>
 </w.rf>
 <form>sehnat</form>
-<tag lemma="sehnat" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="sehnat_^(shánět)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92256-021-p3s4w15">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-021-p3s5w6">

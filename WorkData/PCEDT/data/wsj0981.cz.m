@@ -2232,7 +2232,7 @@
 <LM>w#w-wsj0981-001-p1s4W23</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0981-001-p1s4W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3737,7 +3737,7 @@
 <LM>w#w-wsj0981-001-p1s8W14</LM>
 </w.rf>
 <form>cca</form>
-<tag lemma="cca" src="auto" recommended="1">Bb-------------</tag>
+<tag lemma="cirka" src="auto" recommended="1">TT------------a</tag>
 </m>
 <m id="m-wsj0981-001-p1s8W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4124,7 +4124,7 @@
 <LM>w#w-wsj0981-001-p1s9W14</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0981-001-p1s9W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5438,7 +5438,7 @@
 <LM>w#w-wsj0981-001-p1s13W13</LM>
 </w.rf>
 <form>ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0981-001-p1s13W14-Ta">
 <src.rf>tagger-a</src.rf>

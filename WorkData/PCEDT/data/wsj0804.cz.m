@@ -1732,7 +1732,7 @@
 <tag>
 <AM lemma="talk_^(talk_show)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="talk-77" src="manual">F%-------------</AM>
-<AM lemma="talk" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="talk-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0804-001-p1s6W30-Ta">
@@ -2051,7 +2051,7 @@
 <LM>w#w-wsj0804-001-p1s7W22</LM>
 </w.rf>
 <form>Lydia</form>
-<tag lemma="Lydia_;Y" src="auto" recommended="1">NNFS1-----A---1</tag>
+<tag lemma="Lydia_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0804-001-p1s7W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4251,7 +4251,7 @@
 <LM>w#w-wsj0804-001-p1s16W23</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0804-001-p1s16W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4421,7 +4421,7 @@
 <LM>w#w-wsj0804-001-p1s17W10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0804-001-p1s17W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4681,7 +4681,7 @@
 <LM>w#w-wsj0804-001-p1s19W3</LM>
 </w.rf>
 <form>dáno</form>
-<tag lemma="dát" src="auto" recommended="1">VsNS----X-APP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj0804-001-p1s19W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5713,7 +5713,7 @@
 </w.rf>
 <form>vzplála</form>
 <tag>
-<AM lemma="vzplanout" src="auto" recommended="1">VpQW----R-AAP--</AM>
+<AM lemma="vzplát" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="vzplát" src="auto">VpQW----R-AAP--</AM>
 </tag>
 </m>
@@ -5871,7 +5871,7 @@
 <LM>w#w-wsj0804-001-p1s25W12</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0804-001-p1s25W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6674,7 +6674,7 @@
 <LM>w#w-wsj0804-001-p1s29W6</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj0804-001-p1s29W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7311,7 +7311,7 @@
 <LM>w#w-wsj0804-001-p1s32W4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0804-001-p1s32W5-Ta">
 <src.rf>tagger-a</src.rf>

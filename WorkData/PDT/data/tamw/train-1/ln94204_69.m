@@ -61,7 +61,7 @@
 <LM>w#w-ln94204-69-p2s1Aw3</LM>
 </w.rf>
 <form>vet</form>
-<tag lemma="vet-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="vet-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-69-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -113,7 +113,7 @@
 <form>MUDr</form>
 <tag>
 <AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="MUDr-1_^(doktor_medicíny)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-69-p2s1Bw5">
@@ -146,7 +146,7 @@
 <LM>w#w-ln94204-69-p2s1Bw8</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94204-69-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-ln94204-69-p2s3w4</LM>
 </w.rf>
 <form>vydat</form>
-<tag lemma="vydat-4_^(platit,_př._vydat_peníze,_v._se_ze_všeho)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-69-p2s3w5">
 <src.rf>manual</src.rf>

@@ -29,7 +29,7 @@
 <LM>w#w-ln95044-031-p2s1w1</LM>
 </w.rf>
 <form>Nor</form>
-<tag lemma="Nor_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nor_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-031-p2s1w2">
 <src.rf>manual</src.rf>
@@ -166,7 +166,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-031-p2s1w17">

@@ -279,7 +279,7 @@
 <LM>w#w-lnd94105-038-p1s2w1</LM>
 </w.rf>
 <form>Můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-lnd94105-038-p1s2w2">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-lnd94105-038-p1s3w10</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94105-038-p1s3w11">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-lnd94105-038-p1s6w2</LM>
 </w.rf>
 <form>js</form>
-<tag lemma="js-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="js-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94105-038-p1s6w3">
 <src.rf>manual</src.rf>

@@ -117,7 +117,7 @@
 <LM>w#w-mf920902-147-p1s2w9</LM>
 </w.rf>
 <form>mířilo</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-147-p1s2w10">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-mf920902-147-p3s2w1</LM>
 </w.rf>
 <form>Nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf920902-147-p3s2w2">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-mf920902-147-p3s2w18</LM>
 </w.rf>
 <form>Srí</form>
-<tag lemma="Srí_;G" src="orig" selected="1">AAFXX----1A----</tag>
+<tag lemma="Srí-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-mf920902-147-p3s2w19">
 <src.rf>manual</src.rf>

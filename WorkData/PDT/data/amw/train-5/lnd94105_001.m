@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-001-p1s1Aw1</LM>
 </w.rf>
 <form>Nedat</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------N-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------N-P--</tag>
 </m>
 <m id="m-lnd94105-001-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -27,7 +27,7 @@
 <LM>w#w-lnd94105-001-p1s1Aw2</LM>
 </w.rf>
 <form>extremistům</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-lnd94105-001-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -1259,7 +1259,7 @@
 <LM>w#w-lnd94105-001-p1s9Aw4</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94105-001-p1s9Aw5">
 <src.rf>manual</src.rf>

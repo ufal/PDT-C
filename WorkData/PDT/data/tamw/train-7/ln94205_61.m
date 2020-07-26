@@ -1385,7 +1385,7 @@
 <LM>w#w-ln94205-61-p4s3w3</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94205-61-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1433,7 +1433,7 @@
 <LM>w#w-ln94205-61-p4s3w9</LM>
 </w.rf>
 <form>občansko</form>
-<tag lemma="občanský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="občansko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94205-61-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1531,7 +1531,7 @@
 <LM>w#w-ln94205-61-p4s4w9</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94205-61-p4s4w10">
 <src.rf>manual</src.rf>
@@ -1563,7 +1563,7 @@
 <LM>w#w-ln94205-61-p4s4w13</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-61-p4s4w14">
 <src.rf>manual</src.rf>

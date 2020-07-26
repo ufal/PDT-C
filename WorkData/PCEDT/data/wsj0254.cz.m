@@ -2422,7 +2422,7 @@
 <LM>w#w-wsj0254-001-p1s7W23</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0254-001-p1s7W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2898,7 +2898,7 @@
 <LM>w#w-wsj0254-001-p1s8W20</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0254-001-p1s8W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3620,7 +3620,7 @@
 <LM>w#w-wsj0254-001-p1s11W13</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0254-001-p1s11W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3822,7 +3822,7 @@
 <LM>w#w-wsj0254-001-p1s12W10</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0254-001-p1s12W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5900,7 +5900,7 @@
 <LM>w#w-wsj0254-001-p1s20W20</LM>
 </w.rf>
 <form>raději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0254-001-p1s20W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6397,7 +6397,7 @@
 <LM>w#w-wsj0254-001-p1s21W13</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0254-001-p1s21W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6454,7 +6454,7 @@
 <LM>w#w-wsj0254-001-p1s21W18</LM>
 </w.rf>
 <form>raději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0254-001-p1s21W19-Ta">
 <src.rf>tagger-a</src.rf>

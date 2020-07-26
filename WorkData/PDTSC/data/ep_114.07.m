@@ -282,7 +282,7 @@
 <LM>w#w-d1t2006-17</LM>
 </w.rf>
 <form>oškrábat</form>
-<tag lemma="oškrábat" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="oškrábat_,s_^(^DD**oškrabat)" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m114-d1t2006-18">
 <w.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-d1t2006-20</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m114-d1t2006-21">
 <w.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-d1t2016-9</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m114-d-id147161-punct">
 <w.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-d1t2027-8</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m114-d1t2027-9">
 <w.rf>
@@ -2097,7 +2097,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m114-383-385">
@@ -2145,7 +2145,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -3308,7 +3308,7 @@
 <LM>w#w-d1t2126-6</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m114-d1t2126-8">
 <w.rf>
@@ -3426,7 +3426,7 @@
 <LM>w#w-d1t2140-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m114-d-id152469-punct">
 <w.rf>
@@ -3898,7 +3898,7 @@
 <LM>w#w-d1t2166-2</LM>
 </w.rf>
 <form>Můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m114-d1t2166-1">
 <w.rf>
@@ -3996,7 +3996,7 @@
 <LM>w#w-d1t2168-9</LM>
 </w.rf>
 <form>hůř</form>
-<tag lemma="špatně" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="hůře" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m114-d-id153501-punct">
 <w.rf>
@@ -4243,7 +4243,7 @@
 <LM>w#w-d1t2187-5</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m114-d1t2187-6">
 <w.rf>
@@ -4307,7 +4307,7 @@
 <form>svém</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</AM>
-<AM lemma="svůj-1_^(přivlast.)_(*2)" src="manual" selected="1">P8ZS6----------</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="manual" selected="1">P8ZS6----------</AM>
 </tag>
 </m>
 <m id="m114-d1t2191-6">
@@ -4554,7 +4554,7 @@
 <AM lemma="Concord_;m" src="auto">NNIS6-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS5-----A----</AM>
 <AM lemma="concorde_;m_,t_^(letadlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="concorde_;m_^(letadlo)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="concorde_^(letadlo)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m114-d1e2182-x2-1276">
@@ -4891,7 +4891,7 @@
 <AM lemma="Concord_;m" src="auto">NNIS6-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS5-----A----</AM>
 <AM lemma="concorde_;m_,t_^(letadlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="concorde_;m_^(letadlo)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="concorde_^(letadlo)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m114-d-id155061-punct">
@@ -5511,7 +5511,7 @@
 <AM lemma="Concord_;m" src="auto">NNIS6-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS5-----A----</AM>
 <AM lemma="concorde_;m_,t_^(letadlo)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="concorde_;m_^(letadlo)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="concorde_^(letadlo)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m114-d1t2238-2">
@@ -5762,7 +5762,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m114-d1t2248-6">
@@ -5792,7 +5792,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m114-d1t2248-9">
@@ -6140,7 +6140,7 @@
 </w.rf>
 <form>zastaven</form>
 <tag>
-<AM lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="auto" recommended="1">VsYS----X-APP--</AM>
+<AM lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="auto" recommended="1">VsYS----X-APP--</AM>
 <AM lemma="zastavit-2_:W_^(zástavní_právo)" src="auto">VsYS---XX-AP---</AM>
 </tag>
 </m>
@@ -6519,7 +6519,7 @@
 <LM>w#w-d1t2277-6</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m114-d1t2277-7">
 <w.rf>
@@ -6633,7 +6633,7 @@
 <LM>w#w-d1t2285-4</LM>
 </w.rf>
 <form>můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m114-d1t2285-5">
 <w.rf>

@@ -301,7 +301,7 @@
 <LM>w#w-ln94202-42-p1s2w16</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94202-42-p1s2w17">
 <src.rf>manual</src.rf>

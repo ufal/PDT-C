@@ -455,7 +455,7 @@
 <LM>w#w-d1t842-5</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m125-134-143">
 <w.rf>
@@ -473,7 +473,7 @@
 <form>Dřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A---5</AM>
-<AM lemma="brzy" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m125-d1t844-2">
@@ -1828,7 +1828,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m125-d1t868-8">
@@ -2546,7 +2546,7 @@
 <LM>w#w-d1t895-8</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m125-d-id109706-punct">
 <w.rf>
@@ -2619,7 +2619,7 @@
 <LM>w#w-d1t895-17</LM>
 </w.rf>
 <form>nevážu</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" recommended="1" selected="1">VB-S---1P-NA---</tag>
+<tag lemma="vázat" src="auto" recommended="1" selected="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m125-d1t895-18">
 <w.rf>
@@ -2891,7 +2891,7 @@
 <LM>w#w-d1t895-39</LM>
 </w.rf>
 <form>dejme</form>
-<tag lemma="dát" src="auto" recommended="1">Vi-P---1--A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m125-d1t895-40">
 <w.rf>
@@ -4144,7 +4144,7 @@
 <LM>w#w-d1t940-13</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m125-d1t940-15">
 <w.rf>
@@ -5000,7 +5000,7 @@
 <LM>w#w-d1t960-14</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="auto" recommended="1">Db------------1</tag>
+<tag lemma="loni" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m125-343-434">
 <w.rf>

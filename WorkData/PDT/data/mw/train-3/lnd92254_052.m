@@ -29,7 +29,7 @@
 <form>VS</form>
 <tag>
 <AM lemma="versus_:B_,t" src="auto">RR--1---------8</AM>
-<AM lemma="versus" src="manual" selected="1">RR--1---------8</AM>
+<AM lemma="versus" src="manual" selected="1">RR--1---------b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-052-p1s1w3">

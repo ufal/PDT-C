@@ -2418,7 +2418,7 @@
 <LM>w#w-wsj1593-001-p1s6W14</LM>
 </w.rf>
 <form>vydělávat</form>
-<tag lemma="vydělávat_^(kůže;peníze)_(*4at)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="vydělávat_^(*4at)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj1593-001-p1s6W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2426,7 +2426,7 @@
 <LM>w#w-wsj1593-001-p1s6W15</LM>
 </w.rf>
 <form>narozdíl</form>
-<tag lemma="narozdíl" src="auto" recommended="1">RF-------------</tag>
+<tag lemma="narozdíl_,h" src="auto" recommended="1">RF-------------</tag>
 </m>
 <m id="m-wsj1593-001-p1s6W16-Ta">
 <src.rf>tagger-a</src.rf>

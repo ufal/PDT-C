@@ -105,7 +105,7 @@
 <LM>w#w-mf920902-153-p4s1w1</LM>
 </w.rf>
 <form>Brasília</form>
-<tag lemma="Brasília_;G" src="auto" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Brasílie_;G_,h_^(^GC**Brazílie)" src="auto" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf920902-153-p4s1w2">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-mf920902-153-p4s3w4</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920902-153-p4s3w5">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-mf920902-153-p4s3w11</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-153-p4s3w12">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-153-p4s4w7">

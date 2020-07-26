@@ -1059,7 +1059,7 @@
 <LM>w#w-d1t2059-7</LM>
 </w.rf>
 <form>teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m050-d1t2059-10">
 <w.rf>
@@ -1660,7 +1660,7 @@
 <LM>w#w-d1t2070-34</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m050-d1t2070-32">
 <w.rf>
@@ -1714,7 +1714,7 @@
 <LM>w#w-d1t2074-4</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m050-d-id125621-punct">
 <w.rf>
@@ -1805,7 +1805,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
-<AM lemma="více" src="auto" selected="1">Ca--X---------1</AM>
+<AM lemma="více" src="auto" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m050-d-id125794-punct">
@@ -2091,7 +2091,7 @@
 <LM>w#w-d1t2081-4</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m050-d1t2081-5">
 <w.rf>
@@ -2461,7 +2461,7 @@
 <LM>w#w-d1t2093-7</LM>
 </w.rf>
 <form>rádo</form>
-<tag lemma="rád" src="auto" recommended="1">ACNS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACNS------A----</tag>
 </m>
 <m id="m050-d1t2093-8">
 <w.rf>
@@ -2598,7 +2598,7 @@
 <LM>w#w-d1t2106-2</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m050-d1e2103-x2-158">
 <w.rf>
@@ -2710,7 +2710,7 @@
 <LM>w#w-d1t2112-5</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m050-d1t2112-2">
 <w.rf>
@@ -3201,7 +3201,7 @@
 <LM>w#w-d1t2146-5</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m050-d1t2146-2">
 <w.rf>
@@ -4263,7 +4263,7 @@
 </w.rf>
 <form>jedu</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---1P-AAI--</AM>
+<AM lemma="jet-1" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS2-----A----</AM>
 <AM lemma="jed" src="auto">NNIS3-----A----</AM>
 <AM lemma="jed" src="auto">NNIS6-----A----</AM>
@@ -4884,7 +4884,7 @@
 <LM>w#w-d1t2210-2</LM>
 </w.rf>
 <form>teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m050-d1t2210-6">
 <w.rf>
@@ -5341,7 +5341,7 @@
 <LM>w#w-d1t2236-15</LM>
 </w.rf>
 <form>nemohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m050-275-276">
 <w.rf>
@@ -5486,7 +5486,7 @@
 <LM>w#w-d1t2243-10</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m050-d1t2243-11">
 <w.rf>
@@ -5713,7 +5713,7 @@
 <AM lemma="Štěpánek_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Štěpánek_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Štěpánek_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Štěpánka_;Y_^(*2)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Štěpánka_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m050-310-311">
@@ -5812,7 +5812,7 @@
 <LM>w#w-d1t2249-9</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m050-310-313">
 <w.rf>

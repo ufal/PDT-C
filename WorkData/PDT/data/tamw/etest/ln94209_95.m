@@ -316,7 +316,7 @@
 <form>nalezeny</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsTP----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsTP----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsTP----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln94209-95-p2s1Cw24">
@@ -512,7 +512,7 @@
 <LM>w#w-ln94209-95-p2s2w19</LM>
 </w.rf>
 <form>zastavena</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VsQW----X-APP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94209-95-p2s2w20">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-ln94209-95-p2s3w4</LM>
 </w.rf>
 <form>nedávala</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpQW----R-NAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln94209-95-p2s3w5">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 <LM>w#w-ln94209-95-p2s3w6</LM>
 </w.rf>
 <form>vrhačka</form>
-<tag lemma="vrhačka_^(*2)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="vrhačka-2_^(*4-2)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-95-p2s3w7">
 <src.rf>manual</src.rf>
@@ -955,7 +955,7 @@
 <LM>w#w-ln94209-95-p3s1w22</LM>
 </w.rf>
 <form>vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-95-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1265,7 +1265,7 @@
 <form>MUDr</form>
 <tag>
 <AM lemma="MUDr-2_:B_^(doktorka_medicíny)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-95-p3s3w7">
@@ -1680,7 +1680,7 @@
 <LM>w#w-ln94209-95-p3s5w30</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94209-95-p3s5w31">
 <src.rf>manual</src.rf>
@@ -2184,7 +2184,7 @@
 <LM>w#w-ln94209-95-p4s2w9</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m-ln94209-95-p4s2w10">
 <src.rf>manual</src.rf>

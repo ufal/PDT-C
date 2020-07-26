@@ -72,7 +72,7 @@
 <LM>w#w-ln95046-063-p2s1Aw1</LM>
 </w.rf>
 <form>Sofia</form>
-<tag lemma="Sofie-1_;G" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Sofie_;G_;Y" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95046-063-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-063-p2s2w12">
@@ -1085,7 +1085,7 @@
 <tag>
 <AM lemma="muslim" src="orig">NNMP3-----A----</AM>
 <AM lemma="_,i_^(^DS**muslim)" src="manual">NNMP3-----A----</AM>
-<AM lemma="Muslim_,i_^(^DS**muslim)" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="Muslim_;E" src="manual" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-063-p2s4w13">

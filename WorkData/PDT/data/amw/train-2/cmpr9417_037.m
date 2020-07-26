@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9417-037-p3s1w5</LM>
 </w.rf>
 <form>Synthesia</form>
-<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-037-p3s1w6">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-cmpr9417-037-p3s1w6</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-cmpr9417-037-p3s1w7">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <LM>w#w-cmpr9417-037-p8s1w1</LM>
 </w.rf>
 <form>Synthesia</form>
-<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-037-p8s1w2">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-cmpr9417-037-p8s2w15</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-cmpr9417-037-p8s2w16">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-cmpr9417-037-p10s1w9</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9417-037-p10s1w10">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-cmpr9417-037-p10s3w1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9417-037-p10s3w2">
 <src.rf>manual</src.rf>
@@ -1759,7 +1759,7 @@
 <LM>w#w-cmpr9417-037-p12s2w1</LM>
 </w.rf>
 <form>Vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9417-037-p12s2w2">
 <src.rf>manual</src.rf>
@@ -1854,7 +1854,7 @@
 <form>chemička</form>
 <tag>
 <AM lemma="chemička_^(továrna)" src="orig">NNFS1-----A----</AM>
-<AM lemma="chemička-1_^(továrna)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="chemička-2" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="chemička-2_^(^FM*5k)" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1952,7 +1952,7 @@
 <LM>w#w-cmpr9417-037-p12s3w14</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-cmpr9417-037-p12s3w15">
 <src.rf>manual</src.rf>
@@ -2407,7 +2407,7 @@
 <LM>w#w-cmpr9417-037-p14s1w6</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-037-p14s1w7">
 <src.rf>manual</src.rf>
@@ -2667,7 +2667,7 @@
 <LM>w#w-cmpr9417-037-p15s1w4</LM>
 </w.rf>
 <form>Synthesia</form>
-<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-037-p15s1w5">
 <src.rf>manual</src.rf>
@@ -2741,7 +2741,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-037-p15s1w14">
@@ -2774,7 +2774,7 @@
 <LM>w#w-cmpr9417-037-p15s1w17</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-cmpr9417-037-p15s1w18">
 <src.rf>manual</src.rf>
@@ -3454,7 +3454,7 @@
 <LM>w#w-cmpr9417-037-p16s3w8</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-cmpr9417-037-p16s3w9">
 <src.rf>manual</src.rf>
@@ -3496,7 +3496,7 @@
 <LM>w#w-cmpr9417-037-p17s1w2</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-cmpr9417-037-p17s1w3">
 <src.rf>manual</src.rf>
@@ -3658,7 +3658,7 @@
 <LM>w#w-cmpr9417-037-p17s2w7</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9417-037-p17s2w8">
 <src.rf>manual</src.rf>
@@ -3946,7 +3946,7 @@
 <LM>w#w-cmpr9417-037-p18s1w7</LM>
 </w.rf>
 <form>Synthesia</form>
-<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-037-p18s1w8">
 <src.rf>manual</src.rf>
@@ -4060,7 +4060,7 @@
 <form>chemičkou</form>
 <tag>
 <AM lemma="chemička_^(továrna)" src="orig">NNFS7-----A----</AM>
-<AM lemma="chemička-1_^(továrna)" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
+<AM lemma="chemička-2" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 <AM lemma="chemička-2_^(^FM*5k)" src="auto">NNFS7-----A----</AM>
 </tag>
 </m>
@@ -4096,7 +4096,7 @@
 <LM>w#w-cmpr9417-037-p19s1w3</LM>
 </w.rf>
 <form>Synthesia</form>
-<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-037-p19s1w4">
 <src.rf>manual</src.rf>
@@ -4114,7 +4114,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-037-p19s1w6">
@@ -4133,7 +4133,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-037-p19s1w8">
@@ -4208,7 +4208,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-037-p19s1w17">
@@ -4357,7 +4357,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-037-p20s1w3">
@@ -4376,7 +4376,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-037-p20s1w5">
@@ -4393,7 +4393,7 @@
 <LM>w#w-cmpr9417-037-p20s1w6</LM>
 </w.rf>
 <form>Synthesia</form>
-<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9417-037-p22s1">

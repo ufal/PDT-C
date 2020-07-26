@@ -409,7 +409,7 @@
 <LM>w#w-mf920924-004-p2s3w7</LM>
 </w.rf>
 <form>fyzičku</form>
-<tag lemma="fyzička_,h" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="fyzička" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920924-004-p2s3w8">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 <LM>w#w-mf920924-004-p2s4Aw3</LM>
 </w.rf>
 <form>mohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-mf920924-004-p2s4Aw4">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <LM>w#w-mf920924-004-p2s7w16</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920924-004-p2s7w17">
 <src.rf>manual</src.rf>
@@ -1621,7 +1621,7 @@
 <LM>w#w-mf920924-004-p2s11Aw10</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-mf920924-004-p2s11Aw11">
 <src.rf>manual</src.rf>
@@ -1629,7 +1629,7 @@
 <LM>w#w-mf920924-004-p2s11Aw11</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-mf920924-004-p2s11Aw12">
 <src.rf>manual</src.rf>
@@ -2079,7 +2079,7 @@
 <form>neujalo</form>
 <tag>
 <AM lemma="ujmout_,x" src="orig">VpNS---XR-NA---</AM>
-<AM lemma="ujmout" src="manual" selected="1">VpNS----R-NA--1</AM>
+<AM lemma="ujmout" src="manual" selected="1">VpNS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-mf920924-004-p2s14Aw5">
@@ -2178,7 +2178,7 @@
 <LM>w#w-mf920924-004-p2s14Bw9</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-004-p2s14Bw10">
 <src.rf>manual</src.rf>
@@ -2188,7 +2188,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-004-p2s14Bw11">
@@ -2263,7 +2263,7 @@
 <LM>w#w-mf920924-004-p2s15w1</LM>
 </w.rf>
 <form>Vláďa</form>
-<tag lemma="Vláďa_;Y_,h" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vláďa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-004-p2s15w2">
 <src.rf>manual</src.rf>
@@ -2428,7 +2428,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-004-p2s15w22">
@@ -2740,7 +2740,7 @@
 <LM>w#w-mf920924-004-p2s17w22</LM>
 </w.rf>
 <form>netáhly</form>
-<tag lemma="táhnout" src="auto" selected="1">VpTP----R-NAP-1</tag>
+<tag lemma="táhnout" src="auto" selected="1">VpTP----R-NAI-1</tag>
 </m>
 <m id="m-mf920924-004-p2s17w23">
 <src.rf>manual</src.rf>
@@ -3570,7 +3570,7 @@
 <LM>w#w-mf920924-004-p2s24w11</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf920924-004-p2s24w12">
 <src.rf>manual</src.rf>
@@ -3734,7 +3734,7 @@
 <LM>w#w-mf920924-004-p2s26Aw4</LM>
 </w.rf>
 <form>nemůžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-mf920924-004-p2s26Aw5">
 <src.rf>manual</src.rf>
@@ -3882,7 +3882,7 @@
 <form>NHL</form>
 <tag>
 <AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NHL_;m_^(Nár._hokejová_liga)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-004-p2s26Bw6">
@@ -3891,7 +3891,7 @@
 <LM>w#w-mf920924-004-p2s26Bw6</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---2-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ie-</tag>
 </m>
 <m id="m-mf920924-004-p2s26Bw7">
 <src.rf>manual</src.rf>

@@ -37,7 +37,7 @@
 <form>jedli</form>
 <tag>
 <AM lemma="jíst_^(konzumovat_jídlo)" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="jíst_^(konzumovat_jídlo)" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="jíst" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94210-83-p1s1w4">
@@ -535,7 +535,7 @@
 <LM>w#w-ln94210-83-p2s3w11</LM>
 </w.rf>
 <form>kuchyních</form>
-<tag lemma="kuchyně" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="kuchyň" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln94210-83-p2s3w12">
 <src.rf>manual</src.rf>

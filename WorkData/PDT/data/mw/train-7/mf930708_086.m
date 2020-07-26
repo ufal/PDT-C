@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-086-p1s1w2</LM>
 </w.rf>
 <form>Bártl</form>
-<tag lemma="Bártl_;G_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bártl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-086-p1s1w3">
 <src.rf>manual</src.rf>
@@ -120,7 +120,7 @@
 <LM>w#w-mf930708-086-p2s1w8</LM>
 </w.rf>
 <form>Bártl</form>
-<tag lemma="Bártl_;G_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bártl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-086-p2s1w9">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-mf930708-086-p2s6w14</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-mf930708-086-p2s6w15">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-mf930708-086-p2s6w36</LM>
 </w.rf>
 <form>Bártl</form>
-<tag lemma="Bártl_;G_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bártl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-086-p2s6w37">
 <src.rf>manual</src.rf>

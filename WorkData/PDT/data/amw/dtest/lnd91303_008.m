@@ -1368,7 +1368,7 @@
 <LM>w#w-lnd91303-008-p3s4w4</LM>
 </w.rf>
 <form>vzata</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VsQW----X-APP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd91303-008-p3s4w5">
 <src.rf>manual</src.rf>

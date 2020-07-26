@@ -812,7 +812,7 @@
 <LM>w#w-mf930709-036-p2s5w16</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930709-036-p2s5w17">
 <src.rf>manual</src.rf>
@@ -1553,7 +1553,7 @@
 <LM>w#w-mf930709-036-p2s9w25</LM>
 </w.rf>
 <form>vydají</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930709-036-p2s9w26">
 <src.rf>manual</src.rf>

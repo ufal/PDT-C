@@ -44,7 +44,7 @@
 <AM lemma="Beatles_;m" src="auto">NNMP5-----A----</AM>
 <AM lemma="Beatles_;m" src="auto" recommended="1">NNMP6-----A----</AM>
 <AM lemma="Beatles_;m" src="auto">NNMP7-----A----</AM>
-<AM lemma="Beatles-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Beatles_;m" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -138,7 +138,7 @@
 <AM lemma="Beatles_;m" src="auto">NNMP5-----A----</AM>
 <AM lemma="Beatles_;m" src="auto">NNMP6-----A----</AM>
 <AM lemma="Beatles_;m" src="auto">NNMP7-----A----</AM>
-<AM lemma="Beatles-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Beatles_;m" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-008-p2s2w9">
@@ -632,7 +632,7 @@
 <AM lemma="Beatles_;m" src="auto">NNMP5-----A----</AM>
 <AM lemma="Beatles_;m" src="auto">NNMP6-----A----</AM>
 <AM lemma="Beatles_;m" src="auto">NNMP7-----A----</AM>
-<AM lemma="Beatles-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Beatles_;m" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-008-p2s4w9">

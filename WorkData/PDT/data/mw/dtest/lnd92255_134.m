@@ -109,7 +109,7 @@
 <LM>w#w-lnd92255-134-p2s1w10</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd92255-134-p2s1w11">
 <src.rf>manual</src.rf>

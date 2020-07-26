@@ -669,7 +669,7 @@
 <LM>w#w-ln95044-013-p3s1w35</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95044-013-p3s1w36">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95044-013-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1290,7 +1290,7 @@
 <form>JUDr</form>
 <tag>
 <AM lemma="JUDr-2_:B_^(doktorka_práv)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JUDr_^(doktor_práv)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="JUDr_^(doktor_práv)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-013-p4s4w14">
@@ -1381,7 +1381,7 @@
 <LM>w#w-ln95044-013-p5s1w6</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95044-013-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1645,7 +1645,7 @@
 <LM>w#w-ln95044-013-p5s2w16</LM>
 </w.rf>
 <form>nevydat</form>
-<tag lemma="vydat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">Vf--------N-P--</tag>
+<tag lemma="vydat" src="orig" selected="1">Vf--------N-P--</tag>
 </m>
 <m id="m-ln95044-013-p5s2w17">
 <src.rf>manual</src.rf>

@@ -407,7 +407,7 @@
 <LM>w#w-lnd92255-046-p3s3w11</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-046-p3s3w12">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-lnd92255-046-p3s6w21</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-lnd92255-046-p3s6w22">
 <src.rf>manual</src.rf>
@@ -1063,7 +1063,7 @@
 <LM>w#w-lnd92255-046-p3s8w10</LM>
 </w.rf>
 <form>myšlena</form>
-<tag lemma="myslet" src="orig" selected="1">VsQW----X-API--</tag>
+<tag lemma="myslit" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92255-046-p3s8w11">
 <src.rf>manual</src.rf>

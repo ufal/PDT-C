@@ -998,7 +998,7 @@
 <LM>w#w-wsj0768-001-p1s2W27</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0768-001-p1s2W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1187,7 +1187,7 @@
 <LM>w#w-wsj0768-001-p1s3W10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0768-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4504,7 +4504,7 @@
 <LM>w#w-wsj0768-001-p1s15W5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0768-001-p1s15W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9196,7 +9196,7 @@
 <LM>w#w-wsj0768-001-p1s32W5</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0768-001-p1s32W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10066,7 +10066,7 @@
 <LM>w#w-wsj0768-001-p1s35W4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0768-001-p1s35W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10535,7 +10535,7 @@
 <LM>w#w-wsj0768-001-p1s36W15</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0768-001-p1s36W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10664,7 +10664,7 @@
 <LM>w#w-wsj0768-001-p1s37W10</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj0768-001-p1s37W11-Ta">
 <src.rf>tagger-a</src.rf>

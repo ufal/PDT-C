@@ -2893,7 +2893,7 @@
 <LM>w#w-wsj0450-001-p1s6W36</LM>
 </w.rf>
 <form>datem</form>
-<tag lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS7-----A----</tag>
 </m>
 <m id="m-wsj0450-001-p1s6W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3198,7 +3198,7 @@
 <LM>w#w-wsj0450-001-p1s6W62</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0450-001-p1s6W63-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5284,7 +5284,7 @@
 </w.rf>
 <form>hodinám</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP3-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP3-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP3-----A----</AM>
 </tag>
 </m>
@@ -6036,7 +6036,7 @@
 <LM>w#w-wsj0450-001-p1s18W8</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj0450-001-p1s18W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7716,7 +7716,7 @@
 <LM>w#w-wsj0450-001-p1s24W18</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0450-001-p1s24W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7913,7 +7913,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="ovšem-2" src="manual" selected="1">J^-------------</AM>
+<AM lemma="ovšem" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0450-001-p1s25W13-Ta">
@@ -8105,7 +8105,7 @@
 <LM>w#w-wsj0450-001-p1s25W24</LM>
 </w.rf>
 <form>zatčeni</form>
-<tag lemma="zatknout" src="auto" recommended="1">VsMP----X-APP--</tag>
+<tag lemma="zatknout" src="auto" recommended="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-wsj0450-001-p1s25W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8255,7 +8255,7 @@
 <LM>w#w-wsj0450-001-p1s26W1</LM>
 </w.rf>
 <form>Ukradeno</form>
-<tag lemma="ukrást" src="auto" recommended="1">VsNS----X-APP--</tag>
+<tag lemma="ukradnout" src="auto" recommended="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-wsj0450-001-p1s26W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10560,7 +10560,7 @@
 <LM>w#w-wsj0450-001-p1s34W13</LM>
 </w.rf>
 <form>nalezeno</form>
-<tag lemma="naleznout" src="auto" recommended="1">VsNS----X-API--</tag>
+<tag lemma="naleznout" src="auto" recommended="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-wsj0450-001-p1s34W14-Ta">
 <src.rf>tagger-a</src.rf>

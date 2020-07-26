@@ -291,7 +291,7 @@
 <LM>w#w-ln95044-010-p2s2w6</LM>
 </w.rf>
 <form>IPB</form>
-<tag lemma="IPB_;m_^(Investiční_a_poštovní_banka)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="IPB-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95044-010-p2s2w7">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <LM>w#w-ln95044-010-p3s1w14</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln95044-010-p3s1w15">
 <src.rf>manual</src.rf>

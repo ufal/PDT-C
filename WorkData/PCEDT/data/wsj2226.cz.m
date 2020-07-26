@@ -1339,7 +1339,7 @@
 <LM>w#w-wsj2226-001-p1s4W19</LM>
 </w.rf>
 <form>podávat</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj2226-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1460,7 +1460,7 @@
 <LM>w#w-wsj2226-001-p1s5W7</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj2226-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>

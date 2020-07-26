@@ -594,7 +594,7 @@
 <LM>w#w-cmpr9407-029-p5s3Bw3</LM>
 </w.rf>
 <form>dávám</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---1P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-029-p5s3Bw4">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-cmpr9407-029-p5s4w10</LM>
 </w.rf>
 <form>příležitostně</form>
-<tag lemma="příležitostně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="příležitostně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9407-029-p5s4w11">
 <src.rf>manual</src.rf>
@@ -1223,7 +1223,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
 <AM lemma="hodně-2´3" src="manual">Dg-------3A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-029-p5s8w2">
@@ -1395,7 +1395,7 @@
 <LM>w#w-cmpr9407-029-p5s9w14</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9407-029-p5s9w15">
 <src.rf>manual</src.rf>

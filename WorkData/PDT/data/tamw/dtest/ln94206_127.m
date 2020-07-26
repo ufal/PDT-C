@@ -1373,7 +1373,7 @@
 <form>pozn</form>
 <tag>
 <AM lemma="poznámka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94206-127-p3s3Bw25">
@@ -1396,7 +1396,7 @@
 <AM lemma="aut" src="auto">NNIS4-----A----</AM>
 <AM lemma="auto" src="auto">NNNP2-----A----</AM>
 <AM lemma="autor_:B" src="auto" recommended="1">NNMXX-----A---8</AM>
-<AM lemma="autor" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="autor" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94206-127-p3s3Bw27">
@@ -1676,7 +1676,7 @@
 <LM>w#w-ln94206-127-p3s5w6</LM>
 </w.rf>
 <form>radikálku</form>
-<tag lemma="radikálka-1_^(člověk)_(*4-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="radikálka-1_^(*4-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94206-127-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1692,7 +1692,7 @@
 <LM>w#w-ln94206-127-p3s5w8</LM>
 </w.rf>
 <form>Těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94206-127-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1700,7 +1700,7 @@
 <LM>w#w-ln94206-127-p3s5w9</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln94206-127-p3s5w10">
 <src.rf>manual</src.rf>
@@ -1936,7 +1936,7 @@
 <LM>w#w-ln94206-127-p3s8w2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln94206-127-p3s8w3">
 <src.rf>manual</src.rf>
@@ -1968,7 +1968,7 @@
 <LM>w#w-ln94206-127-p3s8w6</LM>
 </w.rf>
 <form>gamů</form>
-<tag lemma="game_^(hra)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="game-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94206-127-p3s8w7">
 <src.rf>manual</src.rf>
@@ -2025,7 +2025,7 @@
 <LM>w#w-ln94206-127-p3s9w3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln94206-127-p3s9w4">
 <src.rf>manual</src.rf>
@@ -2123,7 +2123,7 @@
 <LM>w#w-ln94206-127-p3s10w6</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94206-127-p3s10w7">
 <src.rf>manual</src.rf>
@@ -3013,7 +3013,7 @@
 <LM>w#w-ln94206-127-p4s4Bw1</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94206-127-p4s4Bw2">
 <src.rf>manual</src.rf>
@@ -3360,7 +3360,7 @@
 <LM>w#w-ln94206-127-p4s6w5</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94206-127-p4s6w6">
 <src.rf>manual</src.rf>
@@ -3873,7 +3873,7 @@
 <form>v</form>
 <tag>
 <AM lemma="versus_:B_,t_,x" src="orig">RR--1---------8</AM>
-<AM lemma="versus" src="manual" selected="1">RR--1---------8</AM>
+<AM lemma="versus" src="manual" selected="1">RR--1---------c</AM>
 </tag>
 </m>
 <m id="m-ln94206-127-p4s10w9">

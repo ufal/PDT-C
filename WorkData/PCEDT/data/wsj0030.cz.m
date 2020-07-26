@@ -55,7 +55,7 @@
 <AM lemma="Pate_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="pat" src="auto">NNIS5-----A----</AM>
 <AM lemma="Pat_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Pate_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pate_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0030-001-p1s0W5-Ta">

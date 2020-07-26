@@ -344,7 +344,7 @@
 <LM>w#w-mf920902-051-p2s3w22</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf920902-051-p2s3w23">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-mf920902-051-p2s4w11</LM>
 </w.rf>
 <form>ZOO</form>
-<tag lemma="ZOO" src="orig" selected="1">BNNXX-----A----</tag>
+<tag lemma="ZOO" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf920902-051-p2s4w12">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-mf920902-051-p2s4w20</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920902-051-p2s4w21">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-mf920902-051-p2s5w4</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920902-051-p2s5w5">
 <src.rf>manual</src.rf>

@@ -1128,7 +1128,7 @@
 <tag>
 <AM lemma="Julián_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Juliana_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="Julian_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Julian_;Y_,s_^(^DD**Julián)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0281-001-p1s4W8-Ta">

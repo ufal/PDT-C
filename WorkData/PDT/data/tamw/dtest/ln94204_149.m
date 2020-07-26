@@ -43,7 +43,7 @@
 <LM>w#w-ln94204-149-p1s1w4</LM>
 </w.rf>
 <form>Evropu</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-149-p2s1A">
@@ -469,7 +469,7 @@
 <LM>w#w-ln94204-149-p2s3w1</LM>
 </w.rf>
 <form>Vydává</form>
-<tag lemma="vydávat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vydávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-149-p2s3w2">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <form>Tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-149-p2s4w2">
@@ -851,7 +851,7 @@
 <form>Zdá</form>
 <tag>
 <AM lemma="zdát" src="orig">VB-S---3P-AAI--</AM>
-<AM lemma="zdát-:T" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="zdát" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94204-149-p3s1w2">
@@ -1230,7 +1230,7 @@
 <LM>w#w-ln94204-149-p4s1w8</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94204-149-p4s1w9">
 <src.rf>manual</src.rf>

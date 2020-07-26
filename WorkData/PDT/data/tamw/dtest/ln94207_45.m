@@ -45,7 +45,7 @@
 <LM>w#w-ln94207-45-p2s1Aw1</LM>
 </w.rf>
 <form>Bordeaux</form>
-<tag lemma="Bordeaux_;G" src="auto" selected="1">NNXXX-----A----</tag>
+<tag lemma="Bordeaux_;G_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94207-45-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <LM>w#w-ln94207-45-p2s2w8</LM>
 </w.rf>
 <form>Bordeaux</form>
-<tag lemma="Bordeaux_;G" src="auto" selected="1">NNXXX-----A----</tag>
+<tag lemma="Bordeaux_;G_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94207-45-p2s2w9">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="metr" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94207-45-p2s2w14">

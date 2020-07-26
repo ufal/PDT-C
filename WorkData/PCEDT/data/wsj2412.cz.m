@@ -186,7 +186,7 @@
 <LM>w#w-wsj2412-001-p1s1W5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2412-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2203,7 +2203,7 @@
 <LM>w#w-wsj2412-001-p1s7W7</LM>
 </w.rf>
 <form>myslet</form>
-<tag lemma="myslet" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="myslit" src="auto" recommended="1">Vf--------A-I-1</tag>
 </m>
 <m id="m-wsj2412-001-p1s7W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3996,7 +3996,7 @@
 <LM>w#w-wsj2412-001-p1s16W7</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj2412-001-p1s16W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4103,7 +4103,7 @@
 <LM>w#w-wsj2412-001-p1s17W4</LM>
 </w.rf>
 <form>myslet</form>
-<tag lemma="myslet" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="myslit" src="auto" recommended="1">Vf--------A-I-1</tag>
 </m>
 <m id="m-wsj2412-001-p1s17W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5961,7 +5961,7 @@
 <LM>w#w-wsj2412-001-p1s33W3</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj2412-001-p1s33W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6898,7 +6898,7 @@
 <LM>w#w-wsj2412-001-p1s40W8</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2412-001-p1s40W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6950,7 +6950,7 @@
 <LM>w#w-wsj2412-001-p1s40W13</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj2412-001-p1s40W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7907,7 +7907,7 @@
 <LM>w#w-wsj2412-001-p1s44W8</LM>
 </w.rf>
 <form>nikoliv</form>
-<tag lemma="nikoli" src="auto" recommended="1">TT------------1</tag>
+<tag lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2412-001-p1s44W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8828,7 +8828,7 @@
 <form>programech</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP6-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP6-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2412-001-p1s50W23-Ta">
@@ -10643,7 +10643,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj2412-001-p1s56W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12188,7 +12188,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2412-001-p1s65W13-Ta">
@@ -13791,7 +13791,7 @@
 <LM>w#w-wsj2412-001-p1s74W11</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2412-001-p1s74W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14436,7 +14436,7 @@
 <LM>w#w-wsj2412-001-p1s77W26</LM>
 </w.rf>
 <form>myslet</form>
-<tag lemma="myslet" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="myslit" src="auto" recommended="1">Vf--------A-I-1</tag>
 </m>
 <m id="m-wsj2412-001-p1s77W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14676,7 +14676,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2412-001-p1s80W2-Ta">

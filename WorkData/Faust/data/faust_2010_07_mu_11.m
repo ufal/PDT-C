@@ -493,7 +493,7 @@
 <LM>w#w-mu_11-SCzechM-p1082-s1-w7</LM>
 </w.rf>
 <form>Vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="mu_11-SCzechM-p1082-s1-w8">
 <w.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-mu_11-SCzechM-p1085-s1-w3</LM>
 </w.rf>
 <form>abys</form>
-<tag lemma="aby" recommended="1">J,-S---2-------</tag>
+<tag lemma="aby" recommended="1">J,-----------s-</tag>
 </m>
 <m id="mu_11-SCzechM-p1085-s1-w4">
 <w.rf>
@@ -1207,7 +1207,7 @@
 <LM>w#w-mu_11-SCzechM-p1100-s1-w1</LM>
 </w.rf>
 <form>Rád</form>
-<tag lemma="rád" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" recommended="1">ACYS------A----</tag>
 </m>
 <m id="mu_11-SCzechM-p1100-s1-w2">
 <w.rf>
@@ -2225,7 +2225,7 @@
 <LM>w#w-mu_11-SCzechM-p1114-s1-w6</LM>
 </w.rf>
 <form>abys</form>
-<tag lemma="aby" recommended="1">J,-S---2-------</tag>
+<tag lemma="aby" recommended="1">J,-----------s-</tag>
 </m>
 <m id="mu_11-SCzechM-p1114-s1-w7">
 <w.rf>
@@ -3139,7 +3139,7 @@
 <form>vždy</form>
 <tag>
 <AM lemma="vždy" recommended="1">Db--------A----</AM>
-<AM lemma="vždy" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždy" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="mu_11-SCzechM-p1134-s1-w9">
@@ -3974,7 +3974,7 @@
 <LM>w#w-mu_11-SCzechM-p1151-s1-w19</LM>
 </w.rf>
 <form>&amp;</form>
-<tag lemma="&amp;amp;" recommended="1">Z:-------------</tag>
+<tag lemma="&amp;" recommended="1">Z:-------------</tag>
 </m>
 <m id="mu_11-SCzechM-p1151-s1-w20">
 <w.rf>
@@ -4343,7 +4343,7 @@
 <LM>w#w-mu_11-SCzechM-p1166-s1-w11</LM>
 </w.rf>
 <form>nejrovněji</form>
-<tag lemma="rovně_^(přímý,_stejný,_spravedlivý)_(*1ý)" recommended="1">Dg-------3A----</tag>
+<tag lemma="rovně_^(*1ý)" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="mu_11-SCzechM-p1166-s1-w12">
 <w.rf>
@@ -4728,7 +4728,7 @@
 </w.rf>
 <form>níže</form>
 <tag>
-<AM lemma="nízko-1_^(níže,_než...)" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" recommended="1">Dg-------2A---1</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP1-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP4-----A----</AM>
 <AM lemma="níž_^(co_je_nízko;[tlaková,...])">NNFP5-----A----</AM>

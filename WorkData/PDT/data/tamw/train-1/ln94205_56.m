@@ -125,7 +125,7 @@
 <LM>w#w-ln94205-56-p2s1Aw3</LM>
 </w.rf>
 <form>mrk</form>
-<tag lemma="mrk-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="mrk-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-56-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -980,7 +980,7 @@
 <LM>w#w-ln94205-56-p3s2w14</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94205-56-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1383,7 +1383,7 @@
 <LM>w#w-ln94205-56-p4s2w5</LM>
 </w.rf>
 <form>předají</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94205-56-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1454,7 +1454,7 @@
 <LM>w#w-ln94205-56-p5s1w3</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94205-56-p5s1w4">
 <src.rf>manual</src.rf>

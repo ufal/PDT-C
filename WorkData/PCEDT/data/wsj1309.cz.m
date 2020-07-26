@@ -231,7 +231,7 @@
 <LM>w#w-wsj1309-001-p1s0W17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1309-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-wsj1309-001-p1s0W20</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1309-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3583,7 +3583,7 @@
 <LM>w#w-wsj1309-001-p1s12W17</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1309-001-p1s12W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4051,7 +4051,7 @@
 <form>směnách</form>
 <tag>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFP6-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="směna_^(výměna_za_něco;pracovní)" src="auto" recommended="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1309-001-p1s14W6-Ta">
@@ -4088,7 +4088,7 @@
 <LM>w#w-wsj1309-001-p1s14W9</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1309-001-p1s14W10-Ta">
 <src.rf>tagger-a</src.rf>

@@ -879,7 +879,7 @@
 <LM>w#w-lnd92258-149-p4s2w28</LM>
 </w.rf>
 <form>nevezme</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-lnd92258-149-p4s2w29">
 <src.rf>manual</src.rf>
@@ -1397,7 +1397,7 @@
 <LM>w#w-lnd92258-149-p5s2w6</LM>
 </w.rf>
 <form>zpravodajka</form>
-<tag lemma="zpravodajka-2_^(člověk)_(*4-2)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="zpravodajka-2_^(*4-2)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-149-p5s2w7">
 <src.rf>manual</src.rf>
@@ -1511,7 +1511,7 @@
 <LM>w#w-lnd92258-149-p5s3w11</LM>
 </w.rf>
 <form>hodinách</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-lnd92258-149-p5s3w12">
 <src.rf>manual</src.rf>

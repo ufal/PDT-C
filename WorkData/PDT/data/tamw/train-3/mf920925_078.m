@@ -119,7 +119,7 @@
 <LM>w#w-mf920925-078-p2s2w8</LM>
 </w.rf>
 <form>Rom</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-078-p2s2w9">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-mf920925-078-p2s3w1</LM>
 </w.rf>
 <form>Rom</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-078-p2s3w2">
 <src.rf>manual</src.rf>

@@ -574,7 +574,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -774,7 +774,7 @@
 <LM>w#w-d1t795-10</LM>
 </w.rf>
 <form>nebál</form>
-<tag lemma="bát" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m147-d-id123738-punct">
 <w.rf>
@@ -1295,7 +1295,7 @@
 <LM>w#w-d1t802-23</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m147-d-id124711-punct">
 <w.rf>
@@ -1328,7 +1328,7 @@
 <LM>w#w-d1t802-27</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m147-d1t802-28">
 <w.rf>
@@ -2672,7 +2672,7 @@
 <form>JZD</form>
 <tag>
 <AM lemma="JZD_:B_^(Jednotné_zemědělské_družstvo)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="JZD_^(Jednotné_zemědělské_družstvo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JZD_^(Jednotné_zemědělské_družstvo)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m147-1244-1271">
@@ -3253,7 +3253,7 @@
 <LM>w#w-d1t837-3</LM>
 </w.rf>
 <form>sekretářkou</form>
-<tag lemma="sekretářka_^(*2)" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="sekretářka-2_^(*4-2)" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m147-d1e667-x17-1325">
 <w.rf>
@@ -3575,7 +3575,7 @@
 </w.rf>
 <form>nejvíc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A---1</AM>
 <AM lemma="nejvíce" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -4294,7 +4294,7 @@
 <LM>w#w-d1t860-31</LM>
 </w.rf>
 <form>dávali</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m147-d1t860-32">
 <w.rf>

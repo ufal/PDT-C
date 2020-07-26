@@ -415,7 +415,7 @@
 <LM>w#w-mf930709-074-p2s3w9</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930709-074-p2s3w10">
 <src.rf>manual</src.rf>

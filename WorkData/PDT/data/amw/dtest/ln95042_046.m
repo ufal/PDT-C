@@ -119,7 +119,7 @@
 <LM>w#w-ln95042-046-p2s1Bw6</LM>
 </w.rf>
 <form>extremistů</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95042-046-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-046-p2s3w2">
@@ -510,7 +510,7 @@
 <LM>w#w-ln95042-046-p2s3w11</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95042-046-p2s3w12">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-ln95042-046-p2s4w10</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95042-046-p2s4w11">
 <src.rf>manual</src.rf>

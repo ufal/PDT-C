@@ -914,7 +914,7 @@
 <LM>w#w-ln95044-035-p3s2w17</LM>
 </w.rf>
 <form>Pescarou</form>
-<tag lemma="Pescara_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Pescara_;Y_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95044-035-p3s2w18">
 <src.rf>manual</src.rf>
@@ -1151,7 +1151,7 @@
 <LM>w#w-ln95044-035-p4s1w10</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-035-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1457,7 +1457,7 @@
 <LM>w#w-ln95044-035-p4s3w14</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95044-035-p4s3w15">
 <src.rf>manual</src.rf>

@@ -285,7 +285,7 @@
 <LM>w#w-mf930701-070-p3s2w24</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf930701-070-p3s2w25">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-mf930701-070-p3s3w19</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-mf930701-070-p3s3w20">
 <src.rf>manual</src.rf>
@@ -1038,7 +1038,7 @@
 <LM>w#w-mf930701-070-p3s6w5</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930701-070-p3s6w6">
 <src.rf>manual</src.rf>
@@ -2635,7 +2635,7 @@
 <tag>
 <AM lemma="netřeba-1" src="orig">ACNS------N----</AM>
 <AM lemma="netřeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-2" src="manual" selected="1">Db--------N----</AM>
+<AM lemma="netřeba" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s19w8">
@@ -2933,7 +2933,7 @@
 <LM>w#w-mf930701-070-p3s22w3</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930701-070-p3s22w4">
 <src.rf>manual</src.rf>
@@ -3185,7 +3185,7 @@
 <LM>w#w-mf930701-070-p3s24w10</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930701-070-p3s24w11">
 <src.rf>manual</src.rf>

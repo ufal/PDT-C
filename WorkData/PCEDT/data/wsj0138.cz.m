@@ -1438,7 +1438,7 @@
 <LM>w#w-wsj0138-001-p1s6W13</LM>
 </w.rf>
 <form>kuponem</form>
-<tag lemma="kupón" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag lemma="kupon_,s_^(^DD**kupón)" src="auto" recommended="1">NNIS7-----A----</tag>
 </m>
 <m id="m-wsj0138-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>

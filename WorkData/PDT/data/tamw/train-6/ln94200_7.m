@@ -80,7 +80,7 @@
 <LM>w#w-ln94200-7-p2s1w5</LM>
 </w.rf>
 <form>tematicky</form>
-<tag lemma="tematicky_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="tematicky_^(^DD**tématicky)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94200-7-p2s1w6">
 <src.rf>manual</src.rf>

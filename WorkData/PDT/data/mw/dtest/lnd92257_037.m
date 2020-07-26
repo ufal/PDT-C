@@ -173,7 +173,7 @@
 <form>FMZV</form>
 <tag>
 <AM lemma="FMZV_:B_;m_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FMZV_;m_^(Federální_ministerstvo_zahr._věcí)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-037-p1s2w4">
@@ -622,7 +622,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNFXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-037-p1s3w24">
@@ -651,7 +651,7 @@
 <form>FMZV</form>
 <tag>
 <AM lemma="FMZV_:B_;m_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FMZV_;m_^(Federální_ministerstvo_zahr._věcí)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-037-p1s4w3">
@@ -1049,7 +1049,7 @@
 <LM>w#w-lnd92257-037-p1s6w9</LM>
 </w.rf>
 <form>zasaženo</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-lnd92257-037-p1s6w10">
 <src.rf>manual</src.rf>

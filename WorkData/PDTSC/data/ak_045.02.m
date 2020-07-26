@@ -430,7 +430,7 @@
 <form>Prádle</form>
 <tag>
 <AM lemma="prádlo" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="Prádlo_;G" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="prádlo" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m045-d1t609-5">
@@ -969,7 +969,7 @@
 <LM>w#w-d1t655-4</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m045-d1t655-3">
 <w.rf>
@@ -1226,7 +1226,7 @@
 <LM>w#w-d1t689-7</LM>
 </w.rf>
 <form>Koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m045-d1t689-6">
 <w.rf>
@@ -1462,7 +1462,7 @@
 <LM>w#w-d1t693-7</LM>
 </w.rf>
 <form>vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m045-d-id74861-punct">
 <w.rf>
@@ -1630,7 +1630,7 @@
 <form>JZD</form>
 <tag>
 <AM lemma="JZD_:B_^(Jednotné_zemědělské_družstvo)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="JZD_^(Jednotné_zemědělské_družstvo)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JZD_^(Jednotné_zemědělské_družstvo)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m045-218-220">
@@ -1871,7 +1871,7 @@
 <form>Prádle</form>
 <tag>
 <AM lemma="prádlo" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="Prádlo_;G" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="prádlo" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m045-d-m-d1e714-x2-punct-punct">
@@ -1944,7 +1944,7 @@
 <LM>w#w-d1t727-9</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m045-d1t727-10">
 <w.rf>
@@ -2032,7 +2032,7 @@
 <form>Prádle</form>
 <tag>
 <AM lemma="prádlo" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="Prádlo_;G" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="prádlo" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m045-d1e728-x2-245">
@@ -2106,7 +2106,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m045-d-id76465-punct">
@@ -3503,7 +3503,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m045-d1t861-4">

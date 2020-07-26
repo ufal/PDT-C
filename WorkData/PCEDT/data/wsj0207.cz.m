@@ -2926,7 +2926,7 @@
 <form>odysea</form>
 <tag>
 <AM lemma="odyssea" src="auto">NNFS1-----A----</AM>
-<AM lemma="odysea" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="odysea_,s_^(^DD**odyssea)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0207-001-p1s8W12-Ta">
@@ -3679,7 +3679,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0207-001-p1s10W39-Ta">
@@ -7187,7 +7187,7 @@
 <LM>w#w-wsj0207-001-p1s20W2</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0207-001-p1s20W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8030,7 +8030,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="auto" recommended="1">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0207-001-p1s21W24-Ta">
@@ -8324,7 +8324,7 @@
 <LM>w#w-wsj0207-001-p1s22W25</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0207-001-p1s22W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8897,7 +8897,7 @@
 <form>škoda</form>
 <tag>
 <AM lemma="škoda" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="škoda-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="škoda" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0207-001-p1s26W5-Ta">
@@ -10367,7 +10367,7 @@
 <LM>w#w-wsj0207-001-p1s30W4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0207-001-p1s30W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10801,7 +10801,7 @@
 <LM>w#w-wsj0207-001-p1s31W8</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m-wsj0207-001-p1s31W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11324,7 +11324,7 @@
 <LM>w#w-wsj0207-001-p1s33W13</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-1_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0207-001-p1s33W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11522,7 +11522,7 @@
 <LM>w#w-wsj0207-001-p1s33W33</LM>
 </w.rf>
 <form>podávána</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VsQW----X-API--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj0207-001-p1s33W34-Ta">
 <src.rf>tagger-a</src.rf>

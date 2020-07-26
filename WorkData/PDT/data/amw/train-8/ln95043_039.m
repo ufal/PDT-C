@@ -528,7 +528,7 @@
 <LM>w#w-ln95043-039-p4s1w3</LM>
 </w.rf>
 <form>nemocně</form>
-<tag lemma="nemocně-2_^(vlastnost)_(*3ý-2)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="nemocně-2_^(*3ý-2)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-039-p4s1w4">
 <src.rf>manual</src.rf>

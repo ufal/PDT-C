@@ -555,7 +555,7 @@
 <LM>w#w-wsj1457-001-p1s2W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1457-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-wsj1457-001-p1s3W4</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1457-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3152,7 +3152,7 @@
 <LM>w#w-wsj1457-001-p1s11W21</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1457-001-p1s11W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5622,7 +5622,7 @@
 <LM>w#w-wsj1457-001-p1s21W5</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1457-001-p1s21W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5860,7 +5860,7 @@
 <LM>w#w-wsj1457-001-p1s22W16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1457-001-p1s22W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7564,7 +7564,7 @@
 <LM>w#w-wsj1457-001-p1s28W6</LM>
 </w.rf>
 <form>abyste</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m-wsj1457-001-p1s28W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9393,7 +9393,7 @@
 <tag>
 <AM lemma="politik" src="auto">NNMS2-----A----</AM>
 <AM lemma="politik" src="auto">NNMS4-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP5-----A----</AM>
@@ -10357,7 +10357,7 @@
 <LM>w#w-wsj1457-001-p1s41W9</LM>
 </w.rf>
 <form>právech</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP6-----A----</tag>
+<tag lemma="právo" src="auto" recommended="1">NNNP6-----A----</tag>
 </m>
 <m id="m-wsj1457-001-p1s41W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12762,7 +12762,7 @@
 <LM>w#w-wsj1457-001-p1s53W2</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1457-001-p1s53W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13292,7 +13292,7 @@
 <LM>w#w-wsj1457-001-p1s54W32</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1457-001-p1s54W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13426,7 +13426,7 @@
 <LM>w#w-wsj1457-001-p1s55W8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1457-001-p1s55W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13749,7 +13749,7 @@
 </w.rf>
 <form>právem</form>
 <tag>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS7-----A----</AM>
 <AM lemma="právem" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -14251,7 +14251,7 @@
 <LM>w#w-wsj1457-001-p1s60W4</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1457-001-p1s60W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14290,7 +14290,7 @@
 <LM>w#w-wsj1457-001-p1s60W8</LM>
 </w.rf>
 <form>přistižen</form>
-<tag lemma="přistihnout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="přistihnout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj1457-001-p1s60W9-Ta">
 <src.rf>tagger-a</src.rf>

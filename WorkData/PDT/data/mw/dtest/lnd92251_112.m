@@ -767,7 +767,7 @@
 </w.rf>
 <form>Esculap</form>
 <tag>
-<AM lemma="Esculap_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Esculap_;Y_,s_^(^DD**Aesculap)" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Aesculap_;Y_,x" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1062,7 +1062,7 @@
 <AM lemma="Bounty-2_;Y" src="manual">NNFXX-----A----</AM>
 <AM lemma="Bounty-1_;Y_;m_^(čokol._tyčinka_loď_kůň)" src="manual">NNXXX-----A----</AM>
 <AM lemma="Bounty-1_;Y_;m_^(čokol._tyčinka_loď_kůň)" src="manual">NNFXX-----A----</AM>
-<AM lemma="Bounty_;Y_;m_^(čokol._tyčinka_loď_kůň)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Bounty_;Y_;m_^(čokol._tyčinka;;loď;;klisna)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-112-p2s5w50">

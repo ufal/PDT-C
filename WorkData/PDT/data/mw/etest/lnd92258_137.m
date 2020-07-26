@@ -279,7 +279,7 @@
 <LM>w#w-lnd92258-137-p3s1w19</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-lnd92258-137-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1244,7 +1244,7 @@
 <LM>w#w-lnd92258-137-p4s4w43</LM>
 </w.rf>
 <form>převážila</form>
-<tag lemma="převážit-2_^(dostat_[se]_navrch)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="převážit_^(znovu_zvážit;dostat_[se]_navrch)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-137-p4s4w44">
 <src.rf>manual</src.rf>
@@ -1877,7 +1877,7 @@
 <LM>w#w-lnd92258-137-p4s7w37</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92258-137-p4s7w38">
 <src.rf>manual</src.rf>
@@ -1893,7 +1893,7 @@
 <LM>w#w-lnd92258-137-p4s7w39</LM>
 </w.rf>
 <form>kandidátkám</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-lnd92258-137-p4s7w40">
 <src.rf>manual</src.rf>
@@ -1925,7 +1925,7 @@
 <LM>w#w-lnd92258-137-p4s7w43</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-lnd92258-137-p4s7w44">
 <src.rf>manual</src.rf>
@@ -2113,7 +2113,7 @@
 <LM>w#w-lnd92258-137-p4s9w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-137-p4s9w4">
 <src.rf>manual</src.rf>
@@ -2849,7 +2849,7 @@
 <form>ZOH</form>
 <tag>
 <AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZOH-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ZOH_^(Zimní_olympijské_hry)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-137-p5s3w21">
@@ -3258,7 +3258,7 @@
 <LM>w#w-lnd92258-137-p5s5w28</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-lnd92258-137-p5s5w29">
 <src.rf>manual</src.rf>
@@ -3607,7 +3607,7 @@
 <form>SSSR</form>
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SSSR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SSSR_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-137-p5s7w7">
@@ -3712,7 +3712,7 @@
 <LM>w#w-lnd92258-137-p5s7w19</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_^(a_tak_dále)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="atd_^(a_tak_dále)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-lnd92258-137-p5s7w20">
 <src.rf>manual</src.rf>
@@ -3962,7 +3962,7 @@
 <LM>w#w-lnd92258-137-p6s1w8</LM>
 </w.rf>
 <form>generálku</form>
-<tag lemma="generálka_^(zkouška)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="generálka_^(*2)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92258-137-p6s1w9">
 <src.rf>manual</src.rf>
@@ -4001,7 +4001,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
+<AM lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-137-p6s2w2">
@@ -4242,7 +4242,7 @@
 <LM>w#w-lnd92258-137-p6s2w31</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92258-137-p6s2w32">
 <src.rf>manual</src.rf>
@@ -4433,7 +4433,7 @@
 <LM>w#w-lnd92258-137-p6s4w10</LM>
 </w.rf>
 <form>generálka</form>
-<tag lemma="generálka_^(zkouška)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="generálka_^(*2)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-137-p6s4w11">
 <src.rf>manual</src.rf>

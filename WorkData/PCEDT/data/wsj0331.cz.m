@@ -1373,7 +1373,7 @@
 <LM>w#w-wsj0331-001-p1s5W12</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m-wsj0331-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7227,7 +7227,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0331-001-p1s28W2-Ta">
@@ -7922,7 +7922,7 @@
 <LM>w#w-wsj0331-001-p1s30W17</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0331-001-p1s30W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9753,7 +9753,7 @@
 <LM>w#w-wsj0331-001-p1s37W5</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0331-001-p1s37W6-Ta">
 <src.rf>tagger-a</src.rf>

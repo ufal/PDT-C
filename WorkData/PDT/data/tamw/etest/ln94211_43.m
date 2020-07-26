@@ -43,7 +43,7 @@
 <LM>w#w-ln94211-43-p1s1w4</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94211-43-p1s1w5">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-ln94211-43-p2s2w30</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94211-43-p2s2w31">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <form>Konstruktiva</form>
 <tag>
 <AM lemma="Konstruktiva_;Y_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Konstruktiva-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-43-p2s4w7">

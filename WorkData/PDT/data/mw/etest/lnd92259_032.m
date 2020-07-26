@@ -220,7 +220,7 @@
 <LM>w#w-lnd92259-032-p3s2w9</LM>
 </w.rf>
 <form>nápravně</form>
-<tag lemma="nápravně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="nápravně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92259-032-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1405,7 +1405,7 @@
 <AM lemma="expertíza" src="orig">NNFS1-----A----</AM>
 <AM lemma="expertiza_,x" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="expertíza_,s_^(^DD**expertiza)" src="manual">NNFS1-----A----</AM>
-<AM lemma="expertíza_,s_^(^DD**expertiza)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="expertíza_,s_^(^DD**expertýza)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-032-p4s5w13">
@@ -1718,7 +1718,7 @@
 <LM>w#w-lnd92259-032-p4s7w12</LM>
 </w.rf>
 <form>předala</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-032-p4s7w13">
 <src.rf>manual</src.rf>

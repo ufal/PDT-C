@@ -660,7 +660,7 @@
 <LM>w#w-mf930701-099-p2s6w17</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-mf930701-099-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1065,7 +1065,7 @@
 <LM>w#w-mf930701-099-p2s8w18</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930701-099-p2s8w19">
 <src.rf>manual</src.rf>
@@ -1420,7 +1420,7 @@
 <form>vázán</form>
 <tag>
 <AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="manual" selected="1">VsYS----X-API--</AM>
+<AM lemma="vázat" src="manual" selected="1">VsYS----X-API--</AM>
 </tag>
 </m>
 <m id="m-mf930701-099-p2s10w17">
@@ -1461,7 +1461,7 @@
 <LM>w#w-mf930701-099-p2s10w21</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-099-p2s10w22">
 <src.rf>manual</src.rf>
@@ -2097,7 +2097,7 @@
 <LM>w#w-mf930701-099-p2s12w30</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930701-099-p2s12w31">
 <src.rf>manual</src.rf>
@@ -2108,7 +2108,7 @@
 <tag>
 <AM lemma="předejít_^(díky_rychlejší_chůzi)" src="orig">Vf--------A-P--</AM>
 <AM lemma="předejít_:_^(díky_rychlejší_chůzi)" src="manual">Vf--------A----</AM>
-<AM lemma="předejít_^(díky_rychlejší_chůzi)" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="předejít_^(díky_rychlejší_chůzi;;předejít_zřícení)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-mf930701-099-p2s12w32">

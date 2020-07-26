@@ -405,7 +405,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94201-20-p2s1w43">
@@ -650,7 +650,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-20-p3s1w23">
@@ -823,7 +823,7 @@
 <LM>w#w-ln94201-20-p3s3w1</LM>
 </w.rf>
 <form>Zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94201-20-p3s3w2">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <form>ČOI</form>
 <tag>
 <AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČOI_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-20-p3s3w8">
@@ -964,7 +964,7 @@
 <LM>w#w-ln94201-20-p4s1w7</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94201-20-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1479,7 +1479,7 @@
 <LM>w#w-ln94201-20-p4s3w26</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln94201-20-p4s3w27">
 <src.rf>manual</src.rf>
@@ -1635,7 +1635,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-20-p4s4w14">
@@ -1803,7 +1803,7 @@
 <form>ČOI</form>
 <tag>
 <AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČOI_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-20-p5s1w5">

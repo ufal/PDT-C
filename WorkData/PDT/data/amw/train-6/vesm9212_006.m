@@ -21,7 +21,7 @@
 <form>RNDr</form>
 <tag>
 <AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="RNDr_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="RNDr_^(doktor_přír._věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p1s1w2">
@@ -58,7 +58,7 @@
 <form>RNDr</form>
 <tag>
 <AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="RNDr_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="RNDr_^(doktor_přír._věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p2s1w2">
@@ -101,7 +101,7 @@
 <form>DrSc</form>
 <tag>
 <AM lemma="DrSc-1_:B_,t_^(doctor_scientiarum)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="DrSc_^(doctor_scientiarum)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="DrSc_^(doktor_věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p2s1w7">
@@ -158,7 +158,7 @@
 <LM>w#w-vesm9212-006-p2s1w13</LM>
 </w.rf>
 <form>matematicko</form>
-<tag lemma="matematický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="matematicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-vesm9212-006-p2s1w14">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <form>RNDr</form>
 <tag>
 <AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="RNDr_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="RNDr_^(doktor_přír._věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p3s1w2">
@@ -411,7 +411,7 @@
 <form>CSc</form>
 <tag>
 <AM lemma="CSc-1_:B_^(kandidát_věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="CSc_^(kandidát_věd)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="CSc_^(kandidát/ka_věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p3s1w7">
@@ -762,7 +762,7 @@
 <form>PhDr</form>
 <tag>
 <AM lemma="PhDr-1_:B_,t_^(philosophiae_doctor)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="PhDr_^(philosophiae_doctor)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="PhDr_^(doktor_filozofie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p4s1w2">
@@ -853,7 +853,7 @@
 <form>FF</form>
 <tag>
 <AM lemma="FF_:B_;m_^(Fil._fakulta)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FF_;m_^(Fil._fakulta)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="FF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p4s1w13">
@@ -1209,7 +1209,7 @@
 <form>MFF</form>
 <tag>
 <AM lemma="MFF-1_:B_;m_^(Matematicko-fyzikální_fakulta)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MFF-1_;m_^(Matematicko-fyzikální_fakulta)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="MFF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p5s1w11">
@@ -1464,7 +1464,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p5s3w13">
@@ -1485,7 +1485,7 @@
 <form>RNDr</form>
 <tag>
 <AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="RNDr_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="RNDr_^(doktor_přír._věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p6s1w2">
@@ -1528,7 +1528,7 @@
 <form>CSc</form>
 <tag>
 <AM lemma="CSc-1_:B_^(kandidát_věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="CSc_^(kandidát_věd)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="CSc_^(kandidát/ka_věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p6s1w7">
@@ -1664,7 +1664,7 @@
 <form>RNDr</form>
 <tag>
 <AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="RNDr_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="RNDr_^(doktor_přír._věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p7s1w4">
@@ -1707,7 +1707,7 @@
 <form>DrSc</form>
 <tag>
 <AM lemma="DrSc-1_:B_,t_^(doctor_scientiarum)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="DrSc_^(doctor_scientiarum)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="DrSc_^(doktor_věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p7s1w9">
@@ -2026,7 +2026,7 @@
 <form>RNDr</form>
 <tag>
 <AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="RNDr_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="RNDr_^(doktor_přír._věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p8s1w2">
@@ -2117,7 +2117,7 @@
 <form>PřF</form>
 <tag>
 <AM lemma="PřF_:B_^(přírodovědecká_fakulta)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PřF_^(přírodovědecká_fakulta)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="PřF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p8s1w13">

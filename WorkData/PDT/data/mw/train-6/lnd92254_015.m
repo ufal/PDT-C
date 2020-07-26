@@ -270,7 +270,7 @@
 <LM>w#w-lnd92254-015-p1s3w14</LM>
 </w.rf>
 <form>sekretářku</form>
-<tag lemma="sekretářka_^(*2)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="sekretářka-2_^(*4-2)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92254-015-p1s3w15">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <form>MUDr</form>
 <tag>
 <AM lemma="MUDr-2_:B_^(doktorka_medicíny)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-015-p1s4w9">

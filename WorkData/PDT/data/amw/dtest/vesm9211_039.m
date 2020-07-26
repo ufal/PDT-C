@@ -218,7 +218,7 @@
 <LM>w#w-vesm9211-039-p2s2w6</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-039-p2s2w7">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-vesm9211-039-p2s4w6</LM>
 </w.rf>
 <form>nejíst</form>
-<tag lemma="jíst_^(konzumovat_jídlo)" src="orig" selected="1">Vf--------N-I--</tag>
+<tag lemma="jíst" src="orig" selected="1">Vf--------N-I--</tag>
 </m>
 <m id="m-vesm9211-039-p2s4w7">
 <src.rf>manual</src.rf>

@@ -709,7 +709,7 @@
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Kč-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-41-p3s2w12">
@@ -736,7 +736,7 @@
 <LM>w#w-ln94209-41-p3s3Aw2</LM>
 </w.rf>
 <form>jop</form>
-<tag lemma="jop-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="jop-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94209-41-p3s3Aw3">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 <LM>w#w-ln94209-41-p3s5Bw2</LM>
 </w.rf>
 <form>vet</form>
-<tag lemma="vet-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="vet-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94209-41-p3s5Bw3">
 <src.rf>manual</src.rf>

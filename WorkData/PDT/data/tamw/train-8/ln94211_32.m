@@ -231,7 +231,7 @@
 <LM>w#w-ln94211-32-p2s1Bw21</LM>
 </w.rf>
 <form>nenechají</form>
-<tag lemma="nechat" src="orig" selected="1">VB-P---3P-NAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VB-P---3P-NAP--</tag>
 </m>
 <m id="m-ln94211-32-p2s1Bw22">
 <src.rf>manual</src.rf>

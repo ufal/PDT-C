@@ -29,7 +29,7 @@
 <LM>w#w-lnd92258-145-p2s1w1</LM>
 </w.rf>
 <form>Kanada</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-145-p2s1w2">
 <src.rf>manual</src.rf>
@@ -187,7 +187,7 @@
 <AM lemma="CONCACAF_:B_;m_,t_^(Severoamer._fotbalová_konfederace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Concacaf-2_:B_;m_,t_^(Conf.of_North,Cen.....Football.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Concacaf-1_:B_;m_,t_^(Conf.of_North,Cen......Football.)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="CONCACAF-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Concacaf-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-145-p2s2w19">
@@ -315,7 +315,7 @@
 <LM>w#w-lnd92258-145-p2s4w5</LM>
 </w.rf>
 <form>Kanada</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-145-p2s4w6">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-lnd92258-145-p5s1w11</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-145-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1305,7 +1305,7 @@
 <tag>
 <AM lemma="Micubiši-2_;m_^(vozidlo)" src="orig">NNNXX-----A----</AM>
 <AM lemma="mitsubishi_;m_^(vozidlo)" src="auto" recommended="1">NNXXX-----A---6</AM>
-<AM lemma="micubiši_;m_,s_^(^DD**mitsubishi)" src="manual" selected="1">NNXXX-----A---6</AM>
+<AM lemma="micubiši_,h_^(vozidlo)_(^GC**mitsubishi)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-145-p7s1w33">
@@ -1426,7 +1426,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-145-p9s1w12">
@@ -1795,7 +1795,7 @@
 <LM>w#w-lnd92258-145-p11s1w22</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92258-145-p11s1w23">
 <src.rf>manual</src.rf>
@@ -1885,7 +1885,7 @@
 <form>ČKD</form>
 <tag>
 <AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČKD_;m_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-145-p11s1w34">
@@ -1982,7 +1982,7 @@
 <LM>w#w-lnd92258-145-p11s1w45</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-lnd92258-145-p11s1w46">
 <src.rf>manual</src.rf>
@@ -2064,7 +2064,7 @@
 <LM>w#w-lnd92258-145-p11s2w9</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92258-145-p11s2w10">
 <src.rf>manual</src.rf>
@@ -2715,7 +2715,7 @@
 <LM>w#w-lnd92258-145-p13s3w21</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92258-145-p13s3w22">
 <src.rf>manual</src.rf>
@@ -2823,7 +2823,7 @@
 <LM>w#w-lnd92258-145-p15s1w1</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-145-p15s1w2">
 <src.rf>manual</src.rf>

@@ -691,7 +691,7 @@
 <LM>w#w-ln94206-23-p4s1w11</LM>
 </w.rf>
 <form>zaměstnává</form>
-<tag lemma="zaměstnávat-1_^(všeob._význam:_činnost,_zaměstnání)_(*6at-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="zaměstnávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94206-23-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 <tag>
 <AM lemma="nenávratně_^(*1ý)" src="orig">Dg-------1A----</AM>
 <AM lemma="nenávratno-1" src="auto">NNNS6-----A----</AM>
-<AM lemma="návratně_^(*1í)" src="auto" recommended="1" selected="1">Dg-------1N----</AM>
+<AM lemma="návratně_^(*1í)_(*1ý)" src="auto" recommended="1" selected="1">Dg-------1N----</AM>
 </tag>
 </m>
 <m id="m-ln94206-23-p4s3w12">
@@ -1108,7 +1108,7 @@
 <form>mil</form>
 <tag>
 <AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln94206-23-p4s3w15">
@@ -1518,7 +1518,7 @@
 <LM>w#w-ln94206-23-p5s2w9</LM>
 </w.rf>
 <form>dány</form>
-<tag lemma="dát" src="orig" selected="1">VsTP----X-APP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94206-23-p5s2w10">
 <src.rf>manual</src.rf>

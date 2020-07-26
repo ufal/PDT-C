@@ -29,7 +29,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-016-p1s1w3">
@@ -317,7 +317,7 @@
 <LM>w#w-mf920922-016-p2s2w13</LM>
 </w.rf>
 <form>Miroslavem</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-016-p2s2w14">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-mf920922-016-p2s3w16</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920922-016-p2s3w17">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-mf920922-016-p2s3w22</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920922-016-p2s3w23">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-mf920922-016-p2s6Aw2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920922-016-p2s6Aw3">
 <src.rf>manual</src.rf>
@@ -1203,7 +1203,7 @@
 <form>GATT</form>
 <tag>
 <AM lemma="Gatt" src="orig">NNIS4-----A----</AM>
-<AM lemma="GATT-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GATT_^(General_Agreement_on_Tariff_and_Trade)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-016-p2s6Bw22">
@@ -1553,7 +1553,7 @@
 </w.rf>
 <form>západo</form>
 <tag>
-<AM lemma="západní" src="orig" selected="1">S2--------A----</AM>
+<AM lemma="západo" src="orig" selected="1">S2--------A----</AM>
 <AM lemma="západo" src="auto" recommended="1">A2--------A----</AM>
 </tag>
 </m>
@@ -2632,7 +2632,7 @@
 <LM>w#w-mf920922-016-p2s15w5</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920922-016-p2s15w6">
 <src.rf>manual</src.rf>

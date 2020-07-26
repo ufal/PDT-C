@@ -70,7 +70,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-137-p1s1w8">
@@ -154,7 +154,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-137-p2s1w6">
@@ -1009,7 +1009,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-137-p5s1w3">
@@ -1711,7 +1711,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-137-p7s1w2">
@@ -2029,7 +2029,7 @@
 <LM>w#w-mf930703-137-p7s3w6</LM>
 </w.rf>
 <form>nechalo</form>
-<tag lemma="nechat" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-137-p7s3w7">
 <src.rf>manual</src.rf>
@@ -2121,7 +2121,7 @@
 <form>postiženi</form>
 <tag>
 <AM lemma="postihnout" src="orig">VsMP---XX-AP---</AM>
-<AM lemma="postihnout" src="manual" selected="1">VsMP----X-APP--</AM>
+<AM lemma="postihnout" src="manual" selected="1">VsMP----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-mf930703-137-p7s4w10">

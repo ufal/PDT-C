@@ -186,7 +186,7 @@
 <LM>w#w-d1t711-3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m101-d-id95978-punct">
 <w.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-d1t715-1</LM>
 </w.rf>
 <form>Můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m101-d1t715-2">
 <w.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-d1t719-10</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m101-d1t719-11">
 <w.rf>
@@ -496,7 +496,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -947,7 +947,7 @@
 <form>Nejdříve</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------3A----</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m101-d1t735-2">
@@ -1780,7 +1780,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m101-d1e766-x2-527">
@@ -2357,7 +2357,7 @@
 <LM>w#w-d1t785-1</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m101-d1t785-2">
 <w.rf>
@@ -2414,7 +2414,7 @@
 <LM>w#w-d1t785-12</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m101-d1t785-13">
 <w.rf>
@@ -2942,7 +2942,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m101-d1t796-2">
@@ -3041,7 +3041,7 @@
 <LM>w#w-d1t796-12</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m101-d1t798-2">
 <w.rf>
@@ -3527,7 +3527,7 @@
 <LM>w#w-d1t802-17</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m101-d1t802-18">
 <w.rf>
@@ -4258,7 +4258,7 @@
 <LM>w#w-d1t833-7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m101-d1t833-8">
 <w.rf>

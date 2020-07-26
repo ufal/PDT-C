@@ -258,7 +258,7 @@
 <LM>w#w-wsj1979-001-p1s0W20</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="loni" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1979-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-wsj1979-001-p1s1W28</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1979-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-wsj1979-001-p1s1W30</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1" selected="1">Db-------------</tag>
+<tag lemma="loni" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m-wsj1979-001-p1s1W31-Ta">
 <src.rf>tagger-a</src.rf>

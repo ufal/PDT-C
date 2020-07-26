@@ -117,7 +117,7 @@
 <LM>w#w-mf920925-037-p1s1Bw5</LM>
 </w.rf>
 <form>RAD</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-037-p2s1">
@@ -144,7 +144,7 @@
 </w.rf>
 <form>mru</form>
 <tag>
-<AM lemma="mru-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="mru-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="mřít_,a_,x" src="auto" recommended="1">VB-S---1P-AA---</AM>
 </tag>
 </m>
@@ -1231,7 +1231,7 @@
 <LM>w#w-mf920925-037-p4s1w12</LM>
 </w.rf>
 <form>rad</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920925-037-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1369,7 +1369,7 @@
 <LM>w#w-mf920925-037-p4s2w7</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920925-037-p4s2w8">
 <src.rf>manual</src.rf>

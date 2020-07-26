@@ -299,7 +299,7 @@
 <tag>
 <AM lemma="Músá_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Músá_;Y_,t" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Músá_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Músá_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-085-p2s1Bw27">
@@ -768,7 +768,7 @@
 <LM>w#w-ln95040-085-p3s1w17</LM>
 </w.rf>
 <form>vezme</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95040-085-p3s1w18">
 <src.rf>manual</src.rf>

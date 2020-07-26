@@ -823,7 +823,7 @@
 <LM>w#w-cmpr9410-006-p3s5w2</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-006-p3s5w3">
 <src.rf>manual</src.rf>

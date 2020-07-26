@@ -184,7 +184,7 @@
 <LM>w#w-mf930701-032-p2s1w16</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-1" src="orig" selected="1">ClXS2----------</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-mf930701-032-p2s1w17">
 <src.rf>manual</src.rf>

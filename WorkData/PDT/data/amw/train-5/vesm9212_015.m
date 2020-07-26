@@ -1181,7 +1181,7 @@
 <LM>w#w-vesm9212-015-p3s5w5</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-vesm9212-015-p3s5w6">
 <src.rf>manual</src.rf>
@@ -2206,7 +2206,7 @@
 <LM>w#w-vesm9212-015-p4s1w3</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-vesm9212-015-p4s1w4">
 <src.rf>manual</src.rf>
@@ -3068,7 +3068,7 @@
 <LM>w#w-vesm9212-015-p5s3w6</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9212-015-p5s3w7">
 <src.rf>manual</src.rf>
@@ -4208,7 +4208,7 @@
 <form>Bůh</form>
 <tag>
 <AM lemma="bůh" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bůh_,s_^(^DD**bůh)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bůh_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-015-p9s1w7">
@@ -4419,7 +4419,7 @@
 <LM>w#w-vesm9212-015-p14s1w2</LM>
 </w.rf>
 <form>pane</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS5-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-vesm9212-015-p14s1w3">
 <src.rf>manual</src.rf>
@@ -4737,7 +4737,7 @@
 <form>Bůh</form>
 <tag>
 <AM lemma="bůh" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bůh_,s_^(^DD**bůh)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bůh_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -6397,7 +6397,7 @@
 <LM>w#w-vesm9212-015-p24s2w20</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-015-p24s2w21">
 <src.rf>manual</src.rf>
@@ -6423,7 +6423,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-015-p24s2w24">
@@ -6541,7 +6541,7 @@
 <LM>w#w-vesm9212-015-p24s3w8</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-vesm9212-015-p24s3w9">
 <src.rf>manual</src.rf>
@@ -6549,7 +6549,7 @@
 <LM>w#w-vesm9212-015-p24s3w9</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag lemma="říci" src="auto" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9212-015-p24s3w10">
 <src.rf>manual</src.rf>
@@ -7567,7 +7567,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-015-p28s2w9">
@@ -7685,7 +7685,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-015-p28s2w23">
@@ -7915,7 +7915,7 @@
 <LM>w#w-vesm9212-015-p28s3w15</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9212-015-p28s3w16">
 <src.rf>manual</src.rf>
@@ -8165,7 +8165,7 @@
 <form>říct</form>
 <tag>
 <AM lemma="říci" src="auto">Vf--------A-P-1</AM>
-<AM lemma="říci" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="říci" src="manual" selected="1">Vf--------A-P-1</AM>
 </tag>
 </m>
 <m id="m-vesm9212-015-p31s1w6">

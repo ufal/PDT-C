@@ -139,7 +139,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SNR_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-118-p3s1Bw7">
@@ -385,7 +385,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SNR_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-118-p3s2w23">
@@ -502,7 +502,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SNR_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-118-p3s3w13">
@@ -596,7 +596,7 @@
 <LM>w#w-mf920924-118-p3s4w11</LM>
 </w.rf>
 <form>STV</form>
-<tag lemma="STV_;m" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="STV-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920924-118-p3s4w12">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-mf920924-118-p3s4w15</LM>
 </w.rf>
 <form>SNR</form>
-<tag lemma="SNR-1_;m_^(Slovenská_národní_rada)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="SNR_;m_^(Slovenská_národní_rada)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920924-118-p3s4w16">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-mf920924-118-p3s5Bw6</LM>
 </w.rf>
 <form>STV</form>
-<tag lemma="STV_;m" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="STV-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920924-118-p3s5Bw7">
 <src.rf>manual</src.rf>
@@ -1092,7 +1092,7 @@
 <form>SNR</form>
 <tag>
 <AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SNR_;m_^(Slovenská_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-118-p3s6w26">

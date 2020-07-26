@@ -1200,7 +1200,7 @@
 <LM>w#w-d1t2277-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m132-d1t2277-3">
 <w.rf>
@@ -1541,7 +1541,7 @@
 <AM lemma="Matek_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Matek_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m132-d1t2289-1">
@@ -2677,7 +2677,7 @@
 <AM lemma="Sehnal_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Sehnal_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="sehnat" src="auto" recommended="1">VpQW---XR-AA---</AM>
-<AM lemma="sehnat" src="manual" selected="1">VpQW----R-AAP--</AM>
+<AM lemma="sehnat_^(shánět)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m132-d1t2354-1">
@@ -3055,7 +3055,7 @@
 <LM>w#w-d1t2358-9</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m132-d1t2358-10">
 <w.rf>
@@ -3627,7 +3627,7 @@
 <LM>w#w-d1t2379-5</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m132-149-150">
 <w.rf>
@@ -3883,7 +3883,7 @@
 <LM>w#w-d1t2398-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m132-d1e2389-x2-159">
 <w.rf>
@@ -3977,7 +3977,7 @@
 <LM>w#w-d1t2402-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m132-d1t2402-4">
 <w.rf>
@@ -4047,7 +4047,7 @@
 <LM>w#w-d1t2402-13</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m132-d1t2402-14">
 <w.rf>
@@ -4081,7 +4081,7 @@
 <LM>w#w-d1t2409-3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m132-d1t2409-4">
 <w.rf>
@@ -4368,7 +4368,7 @@
 <tag>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="jed" src="auto">NNIS5-----A----</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="jet-1" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m132-237-915">
@@ -4790,7 +4790,7 @@
 <LM>w#w-d1t2435-4</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m132-d1t2435-5">
 <w.rf>

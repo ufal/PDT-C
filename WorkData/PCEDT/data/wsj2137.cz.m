@@ -517,7 +517,7 @@
 </w.rf>
 <form>Jr</form>
 <tag>
-<AM lemma="jr-88_^(Junior)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="jr-88_^(junior)" src="auto">BNXXX-----A----</AM>
 </tag>
 </m>

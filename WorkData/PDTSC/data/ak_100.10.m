@@ -683,7 +683,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -1606,7 +1606,7 @@
 <LM>w#w-d1t2315-13</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m100-d1t2315-14">
 <w.rf>
@@ -2325,7 +2325,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m100-1767-1769">
@@ -3946,7 +3946,7 @@
 <LM>w#w-d1t2423-6</LM>
 </w.rf>
 <form>odpřísáhnout</form>
-<tag lemma="odpřisáhnout" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="odpřísáhnout_,i_^(^DS**odpřisáhnout)" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m100-d1e2416-x3-416">
 <w.rf>
@@ -4838,7 +4838,7 @@
 <LM>w#w-d1t2448-9</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m100-470-471">
 <w.rf>

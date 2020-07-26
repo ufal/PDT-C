@@ -204,7 +204,7 @@
 <form>Sehnal</form>
 <tag>
 <AM lemma="Sehnal_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="sehnat" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="sehnat_^(shánět)" src="auto" recommended="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m017-d1t292-6">
@@ -635,7 +635,7 @@
 <LM>w#w-d1t316-5</LM>
 </w.rf>
 <form>Nechá</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m017-d1t316-4">
 <w.rf>
@@ -872,7 +872,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m017-d1e329-x2-155">
@@ -944,7 +944,7 @@
 <LM>w#w-d1t336-2</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m017-d1t336-3">
 <w.rf>
@@ -1151,7 +1151,7 @@
 <LM>w#w-d1t349-8</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m017-d1t349-14">
 <w.rf>
@@ -2588,7 +2588,7 @@
 <LM>w#w-d1t436-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m017-d-id69882-punct">
 <w.rf>
@@ -2651,14 +2651,14 @@
 <LM>w#w-d1t447-4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m017-d1t447-5">
 <w.rf>
 <LM>w#w-d1t447-5</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m017-668-674">
 <w.rf>
@@ -3792,7 +3792,7 @@
 <AM lemma="Rohy_;G" src="auto">NNIP2-----A----</AM>
 <AM lemma="roh" src="auto">NNIS1-----A----</AM>
 <AM lemma="roh" src="auto">NNIS4-----A----</AM>
-<AM lemma="ROH-1_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ROH_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m017-d-id72586-punct">

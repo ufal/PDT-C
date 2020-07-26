@@ -75,7 +75,7 @@
 <LM>w#w-lnd92257-081-p1s1w8</LM>
 </w.rf>
 <form>Evropou</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92257-081-p1s1w9">
 <src.rf>manual</src.rf>

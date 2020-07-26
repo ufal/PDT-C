@@ -361,7 +361,7 @@
 <LM>w#w-mf930701-013-p2s3w6</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930701-013-p2s3w7">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <tag>
 <AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpYS---XR-AA---</AM>
 <AM lemma="vydat-3_:W_^(se,_př._na_cestu)" src="manual">VpYS---XR-AA---</AM>
-<AM lemma="vydat-3_^(se,_př._na_cestu)" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="vydat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930701-013-p2s4w8">
@@ -748,7 +748,7 @@
 <LM>w#w-mf930701-013-p2s5w11</LM>
 </w.rf>
 <form>očima</form>
-<tag lemma="oko" src="orig" selected="1">NNFD7-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFD7-----A----</tag>
 </m>
 <m id="m-mf930701-013-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1021,7 +1021,7 @@
 <LM>w#w-mf930701-013-p2s8w4</LM>
 </w.rf>
 <form>bránil</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-013-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1517,7 +1517,7 @@
 <LM>w#w-mf930701-013-p2s13w8</LM>
 </w.rf>
 <form>uší</form>
-<tag lemma="ucho" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="ucho-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-013-p2s13w9">
 <src.rf>manual</src.rf>
@@ -1769,7 +1769,7 @@
 <LM>w#w-mf930701-013-p3s1w15</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930701-013-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1787,7 +1787,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-013-p3s1w18">
@@ -1971,7 +1971,7 @@
 <form>Vymyslel</form>
 <tag>
 <AM lemma="vymyslet" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vymyslet" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="vymyslit" src="manual" selected="1">VpYS----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-mf930701-013-p3s3w2">
@@ -2618,7 +2618,7 @@
 <LM>w#w-mf930701-013-p3s8w3</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf930701-013-p3s8w4">
 <src.rf>manual</src.rf>
@@ -3038,7 +3038,7 @@
 <form>kpt</form>
 <tag>
 <AM lemma="kapitán_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="kpt_^(kapitán)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="kapitán" src="manual" selected="1">NNMXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930701-013-p3s11w9">
@@ -3693,7 +3693,7 @@
 <form>kpt</form>
 <tag>
 <AM lemma="kapitán_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="kpt_^(kapitán)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="kapitán" src="manual" selected="1">NNMXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930701-013-p3s17w16">
@@ -3770,7 +3770,7 @@
 <LM>w#w-mf930701-013-p3s19w6</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930701-013-p3s19w7">
 <src.rf>manual</src.rf>
@@ -3881,7 +3881,7 @@
 <LM>w#w-mf930701-013-p3s21w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-013-p3s21w4">
 <src.rf>manual</src.rf>
@@ -4172,7 +4172,7 @@
 <form>kdykoliv</form>
 <tag>
 <AM lemma="kdykoliv" src="orig">Db-------------</AM>
-<AM lemma="kdykoli" src="auto" recommended="1" selected="1">Db------------1</AM>
+<AM lemma="kdykoliv_,s_^(^DD**kdykoli)" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-013-p3s24w5">

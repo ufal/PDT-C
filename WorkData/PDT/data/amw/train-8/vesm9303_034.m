@@ -299,7 +299,7 @@
 <form>Např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-034-p2s3w2">
@@ -1813,7 +1813,7 @@
 <LM>w#w-vesm9303-034-p4s3w18</LM>
 </w.rf>
 <form>plazmatem</form>
-<tag lemma="plazma" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="plazma-2" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-vesm9303-034-p4s3w19">
 <src.rf>manual</src.rf>
@@ -2775,7 +2775,7 @@
 <LM>w#w-vesm9303-034-p5s4w28</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-vesm9303-034-p5s4w29">
 <src.rf>manual</src.rf>
@@ -2799,7 +2799,7 @@
 <LM>w#w-vesm9303-034-p5s4w31</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-vesm9303-034-p5s4w32">
 <src.rf>manual</src.rf>
@@ -2823,7 +2823,7 @@
 <LM>w#w-vesm9303-034-p5s4w34</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-vesm9303-034-p5s4w35">
 <src.rf>manual</src.rf>

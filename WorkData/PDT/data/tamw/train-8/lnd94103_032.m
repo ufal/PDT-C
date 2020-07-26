@@ -184,7 +184,7 @@
 <LM>w#w-lnd94103-032-p1s3w9</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-032-p1s3w10">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-lnd92259-063-p1s1w2</LM>
 </w.rf>
 <form>POLITIKA</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-063-p1s1w3">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-lnd92259-063-p3s3w14</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92259-063-p3s3w15">
 <src.rf>manual</src.rf>

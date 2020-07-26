@@ -644,7 +644,7 @@
 <LM>w#w-wsj2064-001-p1s2W12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2064-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1814,7 +1814,7 @@
 <LM>w#w-wsj2064-001-p1s7W1</LM>
 </w.rf>
 <form>Nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj2064-001-p1s7W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2547,7 +2547,7 @@
 <LM>w#w-wsj2064-001-p1s9W18</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_;G_^(United_States_ofmerica)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2064-001-p1s9W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2765,7 +2765,7 @@
 <LM>w#w-wsj2064-001-p1s10W5</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m-wsj2064-001-p1s10W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3438,7 +3438,7 @@
 <tag>
 <AM lemma="politik" src="auto">NNMS2-----A----</AM>
 <AM lemma="politik" src="auto">NNMS4-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP5-----A----</AM>
@@ -4316,7 +4316,7 @@
 <LM>w#w-wsj2064-001-p1s15W9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2064-001-p1s15W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6292,7 +6292,7 @@
 <tag>
 <AM lemma="politik" src="auto">NNMS2-----A----</AM>
 <AM lemma="politik" src="auto">NNMS4-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP5-----A----</AM>
@@ -7562,7 +7562,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -8927,7 +8927,7 @@
 <LM>w#w-wsj2064-001-p1s29W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2064-001-p1s29W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9111,7 +9111,7 @@
 <LM>w#w-wsj2064-001-p1s29W21</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj2064-001-p1s29W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9332,7 +9332,7 @@
 <LM>w#w-wsj2064-001-p1s30W5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2064-001-p1s30W6-Ta">
 <src.rf>tagger-a</src.rf>

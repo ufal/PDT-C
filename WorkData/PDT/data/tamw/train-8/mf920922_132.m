@@ -179,7 +179,7 @@
 <LM>w#w-mf920922-132-p3s1Cw8</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920922-132-p3s1Cw9">
 <src.rf>manual</src.rf>

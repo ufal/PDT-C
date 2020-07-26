@@ -107,7 +107,7 @@
 <form>Katharine</form>
 <tag>
 <AM lemma="Katharine_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Katharine_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Katharine_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-100-p1s1Aw10">

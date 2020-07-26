@@ -283,7 +283,7 @@
 <form>Samarou</form>
 <tag>
 <AM lemma="samara_;m" src="orig">NNFS7-----A----</AM>
-<AM lemma="Samara-2_;G_;m_^(vozidlo_město)" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Samara_;G_;Y_;m_^(vozidlo;;město;jméno)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-67-p3s1w7">
@@ -643,7 +643,7 @@
 <LM>w#w-ln94203-67-p3s2Bw17</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94203-67-p3s2Bw18">
 <src.rf>manual</src.rf>
@@ -1263,7 +1263,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-67-p5s1w8">
@@ -1727,7 +1727,7 @@
 <LM>w#w-ln94203-67-p7s1w1</LM>
 </w.rf>
 <form>Nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln94203-67-p7s1w2">
 <src.rf>manual</src.rf>

@@ -2028,7 +2028,7 @@
 <form>Catharine</form>
 <tag>
 <AM lemma="Catharine_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Catharine_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Catharine_;Y_,s_^(^DD**Catharina)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-124-p6s1w6">
@@ -2181,7 +2181,7 @@
 <LM>w#w-mf920922-124-p6s1w24</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-124-p6s1w25">
 <src.rf>manual</src.rf>
@@ -2827,7 +2827,7 @@
 <LM>w#w-mf920922-124-p7s2w1</LM>
 </w.rf>
 <form>Zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920922-124-p7s2w2">
 <src.rf>manual</src.rf>
@@ -3100,7 +3100,7 @@
 <LM>w#w-mf920922-124-p7s2w36</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf920922-124-p7s2w37">
 <src.rf>manual</src.rf>
@@ -3249,7 +3249,7 @@
 <LM>w#w-mf920922-124-p7s3w10</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf920922-124-p7s3w11">
 <src.rf>manual</src.rf>
@@ -3826,7 +3826,7 @@
 <LM>w#w-mf920922-124-p9s1w7</LM>
 </w.rf>
 <form>profesně</form>
-<tag lemma="profesně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="profesně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920922-124-p9s1w8">
 <src.rf>manual</src.rf>

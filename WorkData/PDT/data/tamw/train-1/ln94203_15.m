@@ -69,7 +69,7 @@
 <LM>w#w-ln94203-15-p2s1Aw3</LM>
 </w.rf>
 <form>ma</form>
-<tag lemma="ma-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ma-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-15-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-ln94203-15-p3s2w5</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94203-15-p3s2w6">
 <src.rf>manual</src.rf>

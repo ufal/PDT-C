@@ -815,7 +815,7 @@
 <LM>w#w-mf930701-122-p3s2w9</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-122-p3s2w10">
 <src.rf>manual</src.rf>
@@ -923,7 +923,7 @@
 <LM>w#w-mf930701-122-p3s4w1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930701-122-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1961,7 +1961,7 @@
 <LM>w#w-mf930701-122-p4s7w18</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podruhé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930701-122-p4s7w19">
 <src.rf>manual</src.rf>
@@ -2182,7 +2182,7 @@
 <LM>w#w-mf930701-122-p4s8w17</LM>
 </w.rf>
 <form>Wimbledonem</form>
-<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Wimbledon" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930701-122-p4s8w18">
 <src.rf>manual</src.rf>
@@ -3192,7 +3192,7 @@
 <LM>w#w-mf930701-122-p6s1w20</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-122-p6s1w21">
 <src.rf>manual</src.rf>
@@ -4501,7 +4501,7 @@
 <LM>w#w-mf930701-122-p8s2w6</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-122-p8s2w7">
 <src.rf>manual</src.rf>
@@ -4739,7 +4739,7 @@
 <LM>w#w-mf930701-122-p9s1w15</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf930701-122-p9s1w16">
 <src.rf>manual</src.rf>
@@ -4766,7 +4766,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-122-p9s1w19">
@@ -4823,7 +4823,7 @@
 <LM>w#w-mf930701-122-p9s1w25</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-122-p9s1w26">
 <src.rf>manual</src.rf>
@@ -5405,7 +5405,7 @@
 <LM>w#w-mf930701-122-p10s2w5</LM>
 </w.rf>
 <form>Švýc</form>
-<tag lemma="Švýcarsko_;G" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="Švýcarsko_;G" src="orig" selected="1">NNNXX-----A---a</tag>
 </m>
 <m id="m-mf930701-122-p10s2w6">
 <src.rf>manual</src.rf>

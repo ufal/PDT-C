@@ -4339,7 +4339,7 @@
 <LM>w#w-wsj1830-001-p1s15W28</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1830-001-p1s15W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5304,7 +5304,7 @@
 <LM>w#w-wsj1830-001-p1s20W7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1830-001-p1s20W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7556,7 +7556,7 @@
 <LM>w#w-wsj1830-001-p1s29W11</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1830-001-p1s29W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8786,7 +8786,7 @@
 <LM>w#w-wsj1830-001-p1s32W24</LM>
 </w.rf>
 <form>starostmi</form>
-<tag lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="starost-2_^(*5ý-2)" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj1830-001-p1s32W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10083,7 +10083,7 @@
 <LM>w#w-wsj1830-001-p1s37W4</LM>
 </w.rf>
 <form>lobovali</form>
-<tag lemma="lobovat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="lobovat_,s_^(^DD**lobbovat)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj1830-001-p1s37W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11124,7 +11124,7 @@
 <LM>w#w-wsj1830-001-p1s41W8</LM>
 </w.rf>
 <form>ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj1830-001-p1s41W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12366,7 +12366,7 @@
 <LM>w#w-wsj1830-001-p1s46W11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1830-001-p1s46W12-Ta">
 <src.rf>tagger-a</src.rf>

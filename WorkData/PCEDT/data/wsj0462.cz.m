@@ -53,7 +53,7 @@
 <LM>w#w-wsj0462-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77" src="auto" recommended="1">B%-------------</tag>
+<tag lemma="corp-77" src="auto" recommended="1">F%-------------</tag>
 </m>
 <m id="m-wsj0462-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-wsj0462-001-p1s1W33</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj0462-001-p1s1W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2640,7 +2640,7 @@
 <LM>w#w-wsj0462-001-p1s6W20</LM>
 </w.rf>
 <form>Bennett</form>
-<tag lemma="Bennett" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Bennett_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0462-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3530,7 +3530,7 @@
 <LM>w#w-wsj0462-001-p1s8W8</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0462-001-p1s8W9-Ta">
 <src.rf>tagger-a</src.rf>

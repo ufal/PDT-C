@@ -361,7 +361,7 @@
 <form>ing</form>
 <tag>
 <AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="ing_^(inženýr)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="ing_^(inženýr)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-111-p2s2w5">
@@ -1293,7 +1293,7 @@
 <LM>w#w-ln95045-111-p3s4w14</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95045-111-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1477,7 +1477,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč" src="auto" recommended="1" selected="1">NNFXX-----A---b</AM>
+<AM lemma="Kč_^(koruna_česká)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-111-p4s1w17">
@@ -1528,7 +1528,7 @@
 <LM>w#w-ln95045-111-p4s2w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95045-111-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1562,7 +1562,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč" src="auto" recommended="1" selected="1">NNFXX-----A---b</AM>
+<AM lemma="Kč_^(koruna_česká)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-111-p4s2w10">
@@ -2087,7 +2087,7 @@
 <LM>w#w-ln95045-111-p4s7w4</LM>
 </w.rf>
 <form>Deza</form>
-<tag lemma="Deza_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Deza_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-111-p4s7w5">
 <src.rf>manual</src.rf>
@@ -2143,7 +2143,7 @@
 <LM>w#w-ln95045-111-p4s7w11</LM>
 </w.rf>
 <form>Synthesia</form>
-<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-111-p4s7w12">
 <src.rf>manual</src.rf>
@@ -2524,7 +2524,7 @@
 <LM>w#w-ln95045-111-p4s10w6</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95045-111-p4s10w7">
 <src.rf>manual</src.rf>

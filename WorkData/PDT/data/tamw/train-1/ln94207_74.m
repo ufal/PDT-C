@@ -145,7 +145,7 @@
 <LM>w#w-ln94207-74-p2s1Cw4</LM>
 </w.rf>
 <form>dáno</form>
-<tag lemma="dát" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94207-74-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 <LM>w#w-ln94207-74-p2s2w9</LM>
 </w.rf>
 <form>předala</form>
-<tag lemma="předat-2_^(se;_dát_něčeho_příliš)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94207-74-p2s2w10">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <LM>w#w-ln94207-74-p3s1w18</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94207-74-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1264,7 +1264,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="IQ_^(inteligent_quotient)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p3s4w21">
@@ -1373,7 +1373,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="IQ_^(inteligent_quotient)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s1w10">
@@ -1400,7 +1400,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="IQ_^(inteligent_quotient)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s1w13">
@@ -1469,7 +1469,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="IQ_^(inteligent_quotient)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s2w7">
@@ -1618,7 +1618,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="IQ_^(inteligent_quotient)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s3w2">
@@ -1823,7 +1823,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="IQ_^(inteligent_quotient)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s4w17">
@@ -1906,7 +1906,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="IQ_^(inteligent_quotient)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s4w27">
@@ -1957,7 +1957,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="IQ_^(inteligent_quotient)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s4w33">
@@ -2024,7 +2024,7 @@
 <LM>w#w-ln94207-74-p4s5w1</LM>
 </w.rf>
 <form>Lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94207-74-p4s5w2">
 <src.rf>manual</src.rf>
@@ -2130,7 +2130,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="IQ_^(inteligent_quotient)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s5w15">
@@ -2173,7 +2173,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s5w20">
@@ -2360,7 +2360,7 @@
 <LM>w#w-ln94207-74-p4s6w1</LM>
 </w.rf>
 <form>Lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94207-74-p4s6w2">
 <src.rf>manual</src.rf>
@@ -2378,7 +2378,7 @@
 <form>IQ</form>
 <tag>
 <AM lemma="IQ_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="IQ_^(inteligent_quotient)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-74-p4s6w4">
@@ -3072,7 +3072,7 @@
 <LM>w#w-ln94207-74-p5s4w24</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94207-74-p5s4w25">
 <src.rf>manual</src.rf>
@@ -5862,7 +5862,7 @@
 <LM>w#w-ln94207-74-p8s7w18</LM>
 </w.rf>
 <form>zato</form>
-<tag lemma="zato" src="orig" selected="1">J,-------------</tag>
+<tag lemma="zato" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94207-74-p8s7w19">
 <src.rf>manual</src.rf>
@@ -6120,7 +6120,7 @@
 <LM>w#w-ln94207-74-p8s8w20</LM>
 </w.rf>
 <form>odpovědně</form>
-<tag lemma="odpovědně_^(kdo_za_něco_odpovídá)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="odpovědně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94207-74-p8s8w21">
 <src.rf>manual</src.rf>
@@ -6170,7 +6170,7 @@
 <LM>w#w-ln94207-74-p9s1Aw1</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-74-p9s1Aw2">
 <src.rf>manual</src.rf>
@@ -6723,7 +6723,7 @@
 <LM>w#w-ln94207-74-p10s1w22</LM>
 </w.rf>
 <form>nesehnala</form>
-<tag lemma="sehnat" src="orig" selected="1">VpQW----R-NAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-ln94207-74-p10s1w23">
 <src.rf>manual</src.rf>
@@ -7109,7 +7109,7 @@
 <LM>w#w-ln94207-74-p10s4w1</LM>
 </w.rf>
 <form>Sehnat</form>
-<tag lemma="sehnat" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="sehnat_^(shánět)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-74-p10s4w2">
 <src.rf>manual</src.rf>
@@ -7133,7 +7133,7 @@
 <LM>w#w-ln94207-74-p10s4w4</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94207-74-p10s4w5">
 <src.rf>manual</src.rf>
@@ -7455,7 +7455,7 @@
 <LM>w#w-ln94207-74-p11s1w3</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94207-74-p11s1w4">
 <src.rf>manual</src.rf>
@@ -7757,7 +7757,7 @@
 <LM>w#w-ln94207-74-p11s4w1</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-74-p11s4w2">
 <src.rf>manual</src.rf>

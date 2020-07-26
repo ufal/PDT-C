@@ -2506,7 +2506,7 @@
 <LM>w#w-d1t1274-7</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m113-d-id122787-punct">
 <w.rf>
@@ -3545,7 +3545,7 @@
 <LM>w#w-d1t1296-51</LM>
 </w.rf>
 <form>Terezia</form>
-<tag lemma="Terezia_;Y" src="auto" recommended="1">NNFS1-----A---1</tag>
+<tag lemma="Terezia_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m113-d-m-d1e1291-x2-punct-punct">
 <w.rf>
@@ -4496,7 +4496,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m113-d1e1327-x2-106">
@@ -5864,7 +5864,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m113-d1t1363-4">

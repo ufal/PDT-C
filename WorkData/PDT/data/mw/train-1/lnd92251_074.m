@@ -940,7 +940,7 @@
 <LM>w#w-lnd92251-074-p4s3w7</LM>
 </w.rf>
 <form>vydělal</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-074-p4s3w8">
 <src.rf>manual</src.rf>

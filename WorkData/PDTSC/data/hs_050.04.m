@@ -237,7 +237,7 @@
 <form>řiká</form>
 <tag>
 <AM lemma="říkat_,h_,x" src="auto" recommended="1">VB-S---3P-AA--6</AM>
-<AM lemma="říkat_,h" src="manual" selected="1">VB-S---3P-AA--6</AM>
+<AM lemma="řikat_,h_^(^GC**říkat)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m050-d-id91752-punct">
@@ -773,7 +773,7 @@
 <LM>w#w-d1t1139-2</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m050-d1t1139-14">
 <w.rf>
@@ -1162,7 +1162,7 @@
 <LM>w#w-d1t1149-17</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m050-d1t1149-15">
 <w.rf>
@@ -1316,7 +1316,7 @@
 <LM>w#w-d1t1159-2</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m050-d1t1159-7">
 <w.rf>
@@ -3174,7 +3174,7 @@
 <LM>w#w-d1t1265-1</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m050-d1t1265-2">
 <w.rf>
@@ -3804,7 +3804,7 @@
 <LM>w#w-d1t1302-3</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m050-d1t1302-5">
 <w.rf>
@@ -5220,7 +5220,7 @@
 <LM>w#w-d1t1370-6</LM>
 </w.rf>
 <form>Teďka</form>
-<tag lemma="teďka" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="teďka_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m050-d1t1370-7">
 <w.rf>

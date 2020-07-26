@@ -367,7 +367,7 @@
 <LM>w#w-ln94204-53-p2s1Cw24</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-53-p2s1Cw25">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <form>podalo</form>
 <tag>
 <AM lemma="podat_^(něco_[někomu]_[někam])" src="orig">VpNS----R-AAP--</AM>
-<AM lemma="podat" src="manual" selected="1">VpNS----R-AAP--</AM>
+<AM lemma="podat_^(něco_[někomu]_[někam])" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94204-53-p3s1w8">
@@ -2357,7 +2357,7 @@
 <LM>w#w-ln94204-53-p4s7w15</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln94204-53-p4s7w16">
 <src.rf>manual</src.rf>
@@ -2438,7 +2438,7 @@
 <LM>w#w-ln94204-53-p4s8w4</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-53-p4s8w5">
 <src.rf>manual</src.rf>

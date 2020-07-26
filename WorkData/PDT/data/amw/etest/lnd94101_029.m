@@ -51,7 +51,7 @@
 <LM>w#w-lnd94101-029-p1s1w5</LM>
 </w.rf>
 <form>kamionů</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kamion_,s_^(^DD**kamión)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94101-029-p1s1w6">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-lnd94101-029-p1s3w4</LM>
 </w.rf>
 <form>kamionů</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kamion_,s_^(^DD**kamión)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94101-029-p1s3w5">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-lnd94101-029-p1s3w22</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-lnd94101-029-p1s3w23">
 <src.rf>manual</src.rf>
@@ -767,7 +767,7 @@
 <LM>w#w-lnd94101-029-p1s5w12</LM>
 </w.rf>
 <form>kamionů</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kamion_,s_^(^DD**kamión)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94101-029-p1s5w13">
 <src.rf>manual</src.rf>
@@ -1306,7 +1306,7 @@
 <LM>w#w-lnd94101-029-p1s9w11</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-029-p1s9w12">
 <src.rf>manual</src.rf>

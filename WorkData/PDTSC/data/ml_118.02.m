@@ -485,7 +485,7 @@
 <LM>w#w-d1t406-11</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m118-18-47">
 <w.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-d1t408-8</LM>
 </w.rf>
 <form>jedlo</form>
-<tag lemma="jíst_^(konzumovat_jídlo)" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="jíst" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m118-d-id73116-punct">
 <w.rf>
@@ -1381,7 +1381,7 @@
 <LM>w#w-d1t423-13</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m118-d1t423-14">
 <w.rf>
@@ -1420,7 +1420,7 @@
 <form>zatopen</form>
 <tag>
 <AM lemma="zatopit-1_:W_^(udělat_teplo)" src="auto" recommended="1">VsYS---XX-AP---</AM>
-<AM lemma="zatopit-2_^(zaplavit)" src="auto" selected="1">VsYS----X-APP--</AM>
+<AM lemma="zatopit_^(zaplavit_i_udělat_teplo)" src="auto" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m118-d1t426-5">
@@ -2500,7 +2500,7 @@
 <LM>w#w-d1t482-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m118-d-id76679-punct">
 <w.rf>
@@ -2523,7 +2523,7 @@
 <LM>w#w-d1t488-1</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m118-d1e483-x2-142">
 <w.rf>
@@ -2819,7 +2819,7 @@
 <form>zatopila</form>
 <tag>
 <AM lemma="zatopit-1_:W_^(udělat_teplo)" src="auto" recommended="1">VpQW---XR-AA---</AM>
-<AM lemma="zatopit-2_^(zaplavit)" src="auto" selected="1">VpQW----R-AAP--</AM>
+<AM lemma="zatopit_^(zaplavit_i_udělat_teplo)" src="auto" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m118-d1t500-21">
@@ -3473,7 +3473,7 @@
 <LM>w#w-d1t527-17</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m118-d1t529-2">
 <w.rf>
@@ -4357,7 +4357,7 @@
 <LM>w#w-d1t570-13</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m118-d1t570-14">
 <w.rf>

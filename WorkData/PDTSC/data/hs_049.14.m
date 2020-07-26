@@ -103,7 +103,7 @@
 <LM>w#w-d1t3424-15</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m049-d1t3424-17">
 <w.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-d1t3452-2</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m049-d1t3452-3">
 <w.rf>
@@ -1662,7 +1662,7 @@
 <LM>w#w-d1t3551-2</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m049-289-290">
 <w.rf>
@@ -2795,7 +2795,7 @@
 <LM>w#w-d1t3606-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m049-d1t3606-3">
 <w.rf>
@@ -3136,7 +3136,7 @@
 <LM>w#w-d1t3619-1</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m049-d1t3621-2">
 <w.rf>
@@ -3973,7 +3973,7 @@
 <LM>w#w-d1t3666-5</LM>
 </w.rf>
 <form>vylítnou</form>
-<tag lemma="vylítnout" src="auto" recommended="1">VB-P---3P-AAP--</tag>
+<tag lemma="vylítnout_,h_^(^GC**vylétnout)" src="auto" recommended="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m049-d1t3668-2">
 <w.rf>
@@ -4194,7 +4194,7 @@
 <tag>
 <AM lemma="smět" src="auto">VsFS4---X-API--</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS4-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="směna_^(výměna_za_něco;pracovní)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m049-d-id196184-punct">
@@ -4400,7 +4400,7 @@
 <LM>w#w-d1t3701-7</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m049-d1t3701-6">
 <w.rf>

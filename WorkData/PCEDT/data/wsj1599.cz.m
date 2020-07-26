@@ -4324,7 +4324,7 @@
 <LM>w#w-wsj1599-001-p1s12W28</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1599-001-p1s12W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5764,7 +5764,7 @@
 <LM>w#w-wsj1599-001-p1s17W10</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1599-001-p1s17W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6844,7 +6844,7 @@
 <LM>w#w-wsj1599-001-p1s20W10</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1599-001-p1s20W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7215,7 +7215,7 @@
 <LM>w#w-wsj1599-001-p1s21W19</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1599-001-p1s21W20-Ta">
 <src.rf>tagger-a</src.rf>

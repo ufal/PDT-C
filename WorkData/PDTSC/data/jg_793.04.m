@@ -357,7 +357,7 @@
 <LM>w#w-d1t830-11</LM>
 </w.rf>
 <form>radši</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m793-d1t830-12">
 <w.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-d1t837-2</LM>
 </w.rf>
 <form>Abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m793-d1t837-3">
 <w.rf>
@@ -2093,7 +2093,7 @@
 <LM>w#w-d1t887-12</LM>
 </w.rf>
 <form>sehnal</form>
-<tag lemma="sehnat" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m793-d1e26-x125-4197">
 <w.rf>
@@ -2858,7 +2858,7 @@
 <form>Dřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------2A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m793-d1t923-2">
@@ -2975,7 +2975,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m793-d1t925-3">
@@ -3357,7 +3357,7 @@
 <LM>w#w-d1t932-9</LM>
 </w.rf>
 <form>kalhotách</form>
-<tag lemma="kalhoty_^(pomn.)" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="kalhoty" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m793-d1t932-2">
 <w.rf>

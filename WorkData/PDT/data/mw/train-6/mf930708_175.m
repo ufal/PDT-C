@@ -472,7 +472,7 @@
 <form>TASS</form>
 <tag>
 <AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TASS_;m_^(ruská_tisková_agentura)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-175-p3s2w5">
@@ -889,7 +889,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-175-p4s2w6">

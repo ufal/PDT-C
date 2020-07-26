@@ -37,7 +37,7 @@
 <form>KHMERŮM</form>
 <tag>
 <AM lemma="Khmer" src="orig">NNMP3-----A----</AM>
-<AM lemma="Khmer_;E" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="Khmer_;E_,s_^(^DD**Khmér)" src="manual" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
 </s>
@@ -58,7 +58,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-069-p2s1w3">
@@ -169,7 +169,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-069-p3s2w11">
@@ -301,7 +301,7 @@
 <LM>w#w-lnd92259-069-p3s2w27</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-069-p3s2w28">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <form>Khmerům</form>
 <tag>
 <AM lemma="Khmer" src="orig">NNMP3-----A----</AM>
-<AM lemma="Khmer_;E" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="Khmer_;E_,s_^(^DD**Khmér)" src="manual" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-069-p3s2w36">
@@ -404,7 +404,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-069-p3s3w4">
@@ -892,7 +892,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-069-p3s5w33">
@@ -1017,7 +1017,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-069-p3s6w14">
@@ -1026,7 +1026,7 @@
 <LM>w#w-lnd92259-069-p3s6w14</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-069-p3s6w15">
 <src.rf>manual</src.rf>

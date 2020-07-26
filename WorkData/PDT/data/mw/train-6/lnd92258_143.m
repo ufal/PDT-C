@@ -108,7 +108,7 @@
 <LM>w#w-lnd92258-143-p2s2w3</LM>
 </w.rf>
 <form>Turků</form>
-<tag lemma="Turek_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Turek_;E_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92258-143-p2s2w4">
 <src.rf>manual</src.rf>
@@ -206,7 +206,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-143-p2s2w16">
@@ -705,7 +705,7 @@
 <LM>w#w-lnd92258-143-p2s6w6</LM>
 </w.rf>
 <form>Turků</form>
-<tag lemma="Turek_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Turek_;E_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92258-143-p2s6w7">
 <src.rf>manual</src.rf>

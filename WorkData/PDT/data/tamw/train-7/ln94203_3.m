@@ -1915,7 +1915,7 @@
 <LM>w#w-ln94203-3-p5s6w16</LM>
 </w.rf>
 <form>nemocem</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP3-----A---1</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP3-----A---1</tag>
 </m>
 <m id="m-ln94203-3-p5s6w17">
 <src.rf>manual</src.rf>

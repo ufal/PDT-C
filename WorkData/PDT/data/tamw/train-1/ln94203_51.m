@@ -286,7 +286,7 @@
 <form>mjr</form>
 <tag>
 <AM lemma="major_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="major" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="major" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94203-51-p2s1Bw26">
@@ -886,7 +886,7 @@
 <LM>w#w-ln94203-51-p2s9w2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94203-51-p2s9w3">
 <src.rf>manual</src.rf>
@@ -926,7 +926,7 @@
 <LM>w#w-ln94203-51-p2s9w7</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94203-51-p2s9w8">
 <src.rf>manual</src.rf>
@@ -1193,7 +1193,7 @@
 <form>Mjr</form>
 <tag>
 <AM lemma="major_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="major" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="major" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94203-51-p2s12w2">
@@ -1258,7 +1258,7 @@
 <LM>w#w-ln94203-51-p2s12w9</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln94203-51-p2s12w10">
 <src.rf>manual</src.rf>
@@ -1410,7 +1410,7 @@
 <LM>w#w-ln94203-51-p2s12w28</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94203-51-p2s12w29">
 <src.rf>manual</src.rf>

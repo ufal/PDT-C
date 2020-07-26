@@ -614,7 +614,7 @@
 <LM>w#w-wsj0789-001-p1s1W12</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0789-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1231,7 +1231,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0789-001-p1s2W8-Ta">
@@ -1268,7 +1268,7 @@
 <LM>w#w-wsj0789-001-p1s2W11</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0789-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>

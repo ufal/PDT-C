@@ -224,7 +224,7 @@
 <LM>w#w-wsj1628-001-p1s0W19</LM>
 </w.rf>
 <form>nepodávat</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">Vf--------N-I--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">Vf--------N-I--</tag>
 </m>
 <m id="m-wsj1628-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -334,7 +334,7 @@
 <LM>w#w-wsj1628-001-p1s0W27</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1628-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5981,7 +5981,7 @@
 <LM>w#w-wsj1628-001-p1s21W22</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1628-001-p1s21W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6833,7 +6833,7 @@
 <LM>w#w-wsj1628-001-p1s25W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1628-001-p1s25W14-Ta">
 <src.rf>tagger-a</src.rf>

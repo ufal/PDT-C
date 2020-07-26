@@ -275,7 +275,7 @@
 <LM>w#w-mf930713-109-p2s1w29</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="orig" selected="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACMP------A----</tag>
 </m>
 <m id="m-mf930713-109-p2s1w30">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-mf930713-109-p2s2w23</LM>
 </w.rf>
 <form>nemohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-mf930713-109-p2s2w24">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <form>okem</form>
 <tag>
 <AM lemma="oko" src="orig">NNNS7-----A----</AM>
-<AM lemma="oko-2" src="manual" selected="1">NNNS7-----A----</AM>
+<AM lemma="oko-1" src="manual" selected="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-109-p2s4w4">
@@ -1005,7 +1005,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-109-p2s5w21">

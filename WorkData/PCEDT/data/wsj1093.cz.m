@@ -1168,7 +1168,7 @@
 <LM>w#w-wsj1093-001-p1s3W12</LM>
 </w.rf>
 <form>dán</form>
-<tag lemma="dát" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1093-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>

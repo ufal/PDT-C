@@ -185,7 +185,7 @@
 <form>Walló</form>
 <tag>
 <AM lemma="Walló_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Walló_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Walló_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-94-p1s1w21">
@@ -463,7 +463,7 @@
 <LM>w#w-ln94203-94-p1s2w18</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-94-p1s2w19">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 <LM>w#w-ln94203-94-p1s3w7</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94203-94-p1s3w8">
 <src.rf>manual</src.rf>
@@ -1091,7 +1091,7 @@
 <LM>w#w-ln94203-94-p1s5w24</LM>
 </w.rf>
 <form>hleděli</form>
-<tag lemma="hledět_^(dívat_se;_hledět_si_něčeho)" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="hledět" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94203-94-p1s5w25">
 <src.rf>manual</src.rf>

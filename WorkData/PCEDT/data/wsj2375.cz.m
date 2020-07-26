@@ -1430,7 +1430,7 @@
 </w.rf>
 <form>Kan</form>
 <tag>
-<AM lemma="Kanada_;G" src="auto" recommended="1">NNFXX-----A---b</AM>
+<AM lemma="Kanada_;G_;m" src="auto" recommended="1">NNFXX-----A---b</AM>
 <AM lemma="Kano_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="kana" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -1776,7 +1776,7 @@
 <LM>w#w-wsj2375-001-p1s6W27</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2375-001-p1s6W28-Ta">
 <src.rf>tagger-a</src.rf>

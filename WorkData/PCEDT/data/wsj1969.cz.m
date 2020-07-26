@@ -514,7 +514,7 @@
 <LM>w#w-wsj1969-001-p1s1W24</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1969-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>

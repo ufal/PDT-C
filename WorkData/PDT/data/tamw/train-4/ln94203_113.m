@@ -144,7 +144,7 @@
 <LM>w#w-ln94203-113-p1s3w2</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-113-p1s3w3">
 <src.rf>manual</src.rf>

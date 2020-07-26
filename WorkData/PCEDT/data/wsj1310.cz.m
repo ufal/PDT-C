@@ -660,7 +660,7 @@
 <LM>w#w-wsj1310-001-p1s1W13</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1310-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>

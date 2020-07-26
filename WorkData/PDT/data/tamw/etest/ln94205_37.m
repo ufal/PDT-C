@@ -952,7 +952,7 @@
 <LM>w#w-ln94205-37-p2s6w4</LM>
 </w.rf>
 <form>odňat</form>
-<tag lemma="odejmout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="odejmout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln94205-37-p2s6w5">
 <src.rf>manual</src.rf>

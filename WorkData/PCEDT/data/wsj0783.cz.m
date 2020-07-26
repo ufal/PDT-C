@@ -2726,7 +2726,7 @@
 <LM>w#w-wsj0783-001-p1s8W11</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj0783-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>

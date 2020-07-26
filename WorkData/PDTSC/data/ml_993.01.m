@@ -577,7 +577,7 @@
 <form>matku</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS4-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m993-d1t322-3">
@@ -683,7 +683,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m993-d1t322-14">
@@ -1160,7 +1160,7 @@
 <tag>
 <AM lemma="Ilsa_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Ilsa_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Ilse_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Ilse_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m993-d1t370-15">
@@ -1393,7 +1393,7 @@
 <LM>w#w-d1t390-3</LM>
 </w.rf>
 <form>ukradl</form>
-<tag lemma="ukrást" src="auto" recommended="1">VpYS----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m993-d-id69659">
 <w.rf>
@@ -1486,7 +1486,7 @@
 <LM>w#w-d1t392-11</LM>
 </w.rf>
 <form>Abyste</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m993-d1t392-12">
 <w.rf>
@@ -1541,7 +1541,7 @@
 <LM>w#w-d1t392-17</LM>
 </w.rf>
 <form>ukrást</form>
-<tag lemma="ukrást" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="ukradnout" src="auto" recommended="1">Vf--------A-P-1</tag>
 </m>
 <m id="m993-323-345">
 <w.rf>

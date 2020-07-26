@@ -918,7 +918,7 @@
 <LM>w#w-wsj2254-001-p1s4W8</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj2254-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -939,7 +939,7 @@
 <LM>w#w-wsj2254-001-p1s4W10</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2254-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>

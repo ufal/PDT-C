@@ -272,7 +272,7 @@
 <LM>w#w-wsj0648-001-p1s0W23</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0648-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6568,7 +6568,7 @@
 <LM>w#w-wsj0648-001-p1s15W49</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0648-001-p1s15W50-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8576,7 +8576,7 @@
 <LM>w#w-wsj0648-001-p1s21W27</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0648-001-p1s21W28-Ta">
 <src.rf>tagger-a</src.rf>

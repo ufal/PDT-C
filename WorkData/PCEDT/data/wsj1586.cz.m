@@ -692,7 +692,7 @@
 <LM>w#w-wsj1586-001-p1s3W2</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1586-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2397,7 +2397,7 @@
 <LM>w#w-wsj1586-001-p1s11W4</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m-wsj1586-001-p1s11W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3341,7 +3341,7 @@
 <LM>w#w-wsj1586-001-p1s13W31</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1586-001-p1s13W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5645,7 +5645,7 @@
 <LM>w#w-wsj1586-001-p1s20W25</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1586-001-p1s20W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9914,7 +9914,7 @@
 <LM>w#w-wsj1586-001-p1s40W2</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1586-001-p1s40W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10813,7 +10813,7 @@
 <LM>w#w-wsj1586-001-p1s43W19</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1586-001-p1s43W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14578,7 +14578,7 @@
 <LM>w#w-wsj1586-001-p1s59W13</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1586-001-p1s59W14-Ta">
 <src.rf>tagger-a</src.rf>

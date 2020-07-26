@@ -694,7 +694,7 @@
 <LM>w#w-mf930708-142-p3s2w6</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="mj_^(mimo_jiné)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-mf930708-142-p3s2w7">
 <src.rf>manual</src.rf>

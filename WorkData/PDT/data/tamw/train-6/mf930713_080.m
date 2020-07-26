@@ -551,7 +551,7 @@
 <LM>w#w-mf930713-080-p3s2w2</LM>
 </w.rf>
 <form>neumím</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-S---1P-NAI--</tag>
+<tag lemma="umět" src="auto" selected="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m-mf930713-080-p3s2w3">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-mf930713-080-p3s3w16</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-080-p3s3w17">
 <src.rf>manual</src.rf>

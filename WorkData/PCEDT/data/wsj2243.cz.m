@@ -396,7 +396,7 @@
 <LM>w#w-wsj2243-001-p1s1W6</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj2243-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-wsj2243-001-p1s1W14</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj2243-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>

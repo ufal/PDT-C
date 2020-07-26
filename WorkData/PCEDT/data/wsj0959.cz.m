@@ -592,7 +592,7 @@
 <tag>
 <AM lemma="Padovan_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="padovana_,t" src="auto">NNFP2-----A----</AM>
-<AM lemma="Padovan_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Padovan_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0959-001-p1s1W4-Ta">
@@ -638,7 +638,7 @@
 <tag>
 <AM lemma="Padovan_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="padovana_,t" src="auto">NNFP2-----A----</AM>
-<AM lemma="Padovan_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Padovan_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0959-001-p1s2W2-Ta">

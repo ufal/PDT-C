@@ -688,7 +688,7 @@
 <form>expertiza</form>
 <tag>
 <AM lemma="expertíza" src="orig">NNFS1-----A----</AM>
-<AM lemma="expertiza" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="expertiza_,s_^(^DD**expertýza)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-036-p2s4w12">
@@ -1008,7 +1008,7 @@
 <form>FMZV</form>
 <tag>
 <AM lemma="FMZV_:B_;m_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FMZV_;m_^(Federální_ministerstvo_zahr._věcí)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-036-p3s1w21">
@@ -1197,7 +1197,7 @@
 <form>FMZO</form>
 <tag>
 <AM lemma="FMZO_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FMZO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FMZO_;m_^(Federální_ministerstvo_zahraničního_obchodu)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-036-p4s1w22">

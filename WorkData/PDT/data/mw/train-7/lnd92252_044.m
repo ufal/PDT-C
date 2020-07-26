@@ -353,7 +353,7 @@
 <LM>w#w-lnd92252-044-p3s2w18</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-044-p3s2w19">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-lnd92252-044-p4s2w1</LM>
 </w.rf>
 <form>Stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-044-p4s2w2">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <tag>
 <AM lemma="ZOO_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ZOO_:B" src="auto">NNFXX-----A----</AM>
-<AM lemma="ZOO" src="auto" recommended="1" selected="1">BNNXX-----A----</AM>
+<AM lemma="zoo" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-044-p4s2w5">
@@ -697,7 +697,7 @@
 <form>lavičkou</form>
 <tag>
 <AM lemma="lavička-2" src="auto">NNFS7-----A----</AM>
-<AM lemma="lavička" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="lavička-2" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-044-p4s2w11">
@@ -2039,7 +2039,7 @@
 <LM>w#w-lnd92252-044-p5s2w21</LM>
 </w.rf>
 <form>ABC</form>
-<tag lemma="ABC-2_;m_^(divadlo)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ABC-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92252-044-p5s2w22">
 <src.rf>manual</src.rf>
@@ -2121,7 +2121,7 @@
 <LM>w#w-lnd92252-044-p5s3w9</LM>
 </w.rf>
 <form>stává</form>
-<tag lemma="stávat-2_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stávat-2_^(*5t-2)_(*5t-3)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-044-p5s3w10">
 <src.rf>manual</src.rf>

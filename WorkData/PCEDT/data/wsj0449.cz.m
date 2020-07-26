@@ -1044,7 +1044,7 @@
 <LM>w#w-wsj0449-001-p1s2W27</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0449-001-p1s2W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2833,7 +2833,7 @@
 <LM>w#w-wsj0449-001-p1s7W23</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj0449-001-p1s7W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3185,7 +3185,7 @@
 <LM>w#w-wsj0449-001-p1s8W20</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0449-001-p1s8W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4152,7 +4152,7 @@
 <LM>w#w-wsj0449-001-p1s10W24</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0449-001-p1s10W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4363,7 +4363,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>
@@ -5608,7 +5608,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0449-001-p1s14W34-Ta">
@@ -9262,7 +9262,7 @@
 <LM>w#w-wsj0449-001-p1s25W7</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0449-001-p1s25W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12770,7 +12770,7 @@
 <LM>w#w-wsj0449-001-p1s36W14</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0449-001-p1s36W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13139,7 +13139,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0449-001-p1s37W15-Ta">
@@ -14465,7 +14465,7 @@
 <form>nestabilitou</form>
 <tag>
 <AM lemma="nestabilita" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="stabilita" src="manual" selected="1">NNFS7-----N----</AM>
+<AM lemma="nestabilita" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0449-001-p1s42W14-Ta">
@@ -16986,7 +16986,7 @@
 <LM>w#w-wsj0449-001-p1s48W12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0449-001-p1s48W13-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1477,7 +1477,7 @@
 <LM>w#w-ln95040-021-p3s4w14</LM>
 </w.rf>
 <form>bránila</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-021-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1485,7 +1485,7 @@
 <LM>w#w-ln95040-021-p3s4w15</LM>
 </w.rf>
 <form>píšťalka</form>
-<tag lemma="píšťalka_,e" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="píšťalka" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-021-p3s4w16">
 <src.rf>manual</src.rf>
@@ -3076,7 +3076,7 @@
 <LM>w#w-ln95040-021-p4s7w20</LM>
 </w.rf>
 <form>výš</form>
-<tag lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="vysoko-1" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95040-021-p4s7w21">
 <src.rf>manual</src.rf>

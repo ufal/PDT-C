@@ -233,7 +233,7 @@
 <LM>w#w-mf920922-126-p2s2w18</LM>
 </w.rf>
 <form>zastavily</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920922-126-p2s2w19">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 <LM>w#w-mf920922-126-p3s2w26</LM>
 </w.rf>
 <form>zástavou</form>
-<tag lemma="zástava-1_^(prapor)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="zástava_^(prapor_záruka_dechu_zástavba)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920922-126-p3s2w27">
 <src.rf>manual</src.rf>

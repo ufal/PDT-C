@@ -2264,7 +2264,7 @@
 <LM>w#w-wsj1686-001-p1s6W24</LM>
 </w.rf>
 <form>nejdříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1686-001-p1s6W25-Ta">
 <src.rf>tagger-a</src.rf>

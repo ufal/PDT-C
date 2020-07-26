@@ -308,7 +308,7 @@
 <LM>w#w-wsj0049-001-p1s0W23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0049-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-wsj0049-001-p1s1W6</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0049-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1104,7 +1104,7 @@
 <LM>w#w-wsj0049-001-p1s2W21</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0049-001-p1s2W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1217,7 +1217,7 @@
 <LM>w#w-wsj0049-001-p1s2W31</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0049-001-p1s2W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2177,7 +2177,7 @@
 <LM>w#w-wsj0049-001-p1s4W31</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0049-001-p1s4W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3572,7 +3572,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>
@@ -6033,7 +6033,7 @@
 <LM>w#w-wsj0049-001-p1s17W6</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="loni" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s17W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7021,7 +7021,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>
@@ -7803,7 +7803,7 @@
 <LM>w#w-wsj0049-001-p1s22W19</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0049-001-p1s22W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7949,7 +7949,7 @@
 <LM>w#w-wsj0049-001-p1s23W4</LM>
 </w.rf>
 <form>politikou</form>
-<tag lemma="politika_^(věda)" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="politika" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj0049-001-p1s23W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10488,7 +10488,7 @@
 <LM>w#w-wsj0049-001-p1s33W21</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0049-001-p1s33W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10673,7 +10673,7 @@
 <LM>w#w-wsj0049-001-p1s34W3</LM>
 </w.rf>
 <form>vydělávají</form>
-<tag lemma="vydělávat_^(kůže;peníze)_(*4at)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="vydělávat_^(*4at)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj0049-001-p1s34W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12075,7 +12075,7 @@
 <LM>w#w-wsj0049-001-p1s39W27</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0049-001-p1s39W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12807,7 +12807,7 @@
 <LM>w#w-wsj0049-001-p1s42W36</LM>
 </w.rf>
 <form>scénáristů</form>
-<tag lemma="scénárista" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="scénárista_,s_^(^DD**scenárista)" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0049-001-p1s42W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13198,7 +13198,7 @@
 <LM>w#w-wsj0049-001-p1s44W14</LM>
 </w.rf>
 <form>scénárista</form>
-<tag lemma="scénárista" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="scénárista_,s_^(^DD**scenárista)" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0049-001-p1s44W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -17653,7 +17653,7 @@
 <LM>w#w-wsj0049-001-p1s60W21</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="loni" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s60W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18920,7 +18920,7 @@
 <LM>w#w-wsj0049-001-p1s63W12</LM>
 </w.rf>
 <form>nedával</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-wsj0049-001-p1s63W13-Ta">
 <src.rf>tagger-a</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-ln95047-097-p1s1w3</LM>
 </w.rf>
 <form>Tomášek</form>
-<tag lemma="Tomášek-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tomášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-097-p1s1w4">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-097-p3s1w20">
@@ -737,7 +737,7 @@
 <LM>w#w-ln95047-097-p3s2w15</LM>
 </w.rf>
 <form>prezidiem</form>
-<tag lemma="prezídium" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="prezidium_,s_^(^DD**prezídium)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95047-097-p3s2w16">
 <src.rf>manual</src.rf>
@@ -942,7 +942,7 @@
 <LM>w#w-ln95047-097-p4s1w13</LM>
 </w.rf>
 <form>Tomášek</form>
-<tag lemma="Tomášek-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tomášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-097-p4s1w14">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <LM>w#w-ln95047-097-p4s2w1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95047-097-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1517,7 +1517,7 @@
 <LM>w#w-ln95047-097-p5s1w16</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95047-097-p5s1w17">
 <src.rf>manual</src.rf>
@@ -1647,7 +1647,7 @@
 <LM>w#w-ln95047-097-p5s2w16</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95047-097-p5s2w17">
 <src.rf>manual</src.rf>
@@ -1687,7 +1687,7 @@
 <LM>w#w-ln95047-097-p5s2w21</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95047-097-p5s2w22">
 <src.rf>manual</src.rf>

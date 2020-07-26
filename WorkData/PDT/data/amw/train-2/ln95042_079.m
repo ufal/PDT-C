@@ -1346,7 +1346,7 @@
 <LM>w#w-ln95042-079-p2s10w13</LM>
 </w.rf>
 <form>nejdřív</form>
-<tag lemma="brzy" src="auto" selected="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" selected="1">Dg-------3A---1</tag>
 </m>
 <m id="m-ln95042-079-p2s10w14">
 <src.rf>manual</src.rf>

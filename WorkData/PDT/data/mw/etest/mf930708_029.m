@@ -35,7 +35,7 @@
 <LM>w#w-mf930708-029-p1s1w3</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf930708-029-p1s1w4">
 <src.rf>manual</src.rf>
@@ -774,7 +774,7 @@
 <form>expertiza</form>
 <tag>
 <AM lemma="expertíza" src="orig">NNFS1-----A----</AM>
-<AM lemma="expertiza" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="expertiza_,s_^(^DD**expertýza)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-029-p2s5w12">
@@ -1324,7 +1324,7 @@
 <LM>w#w-mf930708-029-p3s2w12</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930708-029-p3s2w13">
 <src.rf>manual</src.rf>

@@ -402,7 +402,7 @@
 <LM>w#w-mf930709-014-p3s3w23</LM>
 </w.rf>
 <form>uchem</form>
-<tag lemma="ucho" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="ucho-1" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930709-014-p3s3w24">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-mf930709-014-p4s2w2</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930709-014-p4s2w3">
 <src.rf>manual</src.rf>

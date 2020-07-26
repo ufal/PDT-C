@@ -93,7 +93,7 @@
 <LM>w#w-lnd92259-089-p2s2w4</LM>
 </w.rf>
 <form>Rangers</form>
-<tag lemma="Rangers_;m" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Rangers-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-lnd92259-089-p2s2w5">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-lnd92259-089-p2s7w2</LM>
 </w.rf>
 <form>Rangers</form>
-<tag lemma="Rangers_;m" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Rangers-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-lnd92259-089-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1450,7 +1450,7 @@
 <LM>w#w-lnd92259-089-p2s12w7</LM>
 </w.rf>
 <form>Rangers</form>
-<tag lemma="Rangers_;m" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Rangers-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-lnd92259-089-p2s12w8">
 <src.rf>manual</src.rf>
@@ -1508,7 +1508,7 @@
 <form>prodl</form>
 <tag>
 <AM lemma="prodloužení_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="prodloužení" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="prodloužení" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92259-089-p2s12w15">

@@ -145,7 +145,7 @@
 <LM>w#w-lnd92256-115-p3s2w8</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-lnd92256-115-p3s2w9">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-lnd92256-115-p3s3w7</LM>
 </w.rf>
 <form>železnic</form>
-<tag lemma="železnice" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="železnice_^(*3ík-1)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92256-115-p3s3w8">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-lnd92256-115-p3s6w15</LM>
 </w.rf>
 <form>péci</form>
-<tag lemma="péci" src="orig" selected="1">Vf--------A-I-1</tag>
+<tag lemma="péci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92256-115-p3s6w16">
 <src.rf>manual</src.rf>

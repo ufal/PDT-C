@@ -1406,7 +1406,7 @@
 <LM>w#w-mf930703-016-p4s3w20</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930703-016-p4s3w21">
 <src.rf>manual</src.rf>

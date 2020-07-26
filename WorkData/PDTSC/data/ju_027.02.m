@@ -707,7 +707,7 @@
 <LM>w#w-d1t614-3</LM>
 </w.rf>
 <form>začla</form>
-<tag lemma="začít" src="auto" recommended="1">VpQW----R-AAP-6</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpQW----R-AAP-6</tag>
 </m>
 <m id="m027-d1t614-4">
 <w.rf>
@@ -799,7 +799,7 @@
 <LM>w#w-d1t630-7</LM>
 </w.rf>
 <form>začla</form>
-<tag lemma="začít" src="auto" recommended="1">VpQW----R-AAP-6</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpQW----R-AAP-6</tag>
 </m>
 <m id="m027-d1t630-8">
 <w.rf>
@@ -1799,7 +1799,7 @@
 <LM>w#w-d1t666-7</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m027-d-m-d1e659-x2-punct-punct">
 <w.rf>
@@ -1832,7 +1832,7 @@
 <LM>w#w-d1t672-3</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m027-d-m-d1e667-x2-punct-punct">
 <w.rf>
@@ -2366,7 +2366,7 @@
 <LM>w#w-d1t703-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m027-d1e700-x2-1488">
 <w.rf>
@@ -2389,7 +2389,7 @@
 <LM>w#w-d1t703-6</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m027-d-id80163-punct">
 <w.rf>
@@ -2471,7 +2471,7 @@
 <LM>w#w-d1t703-14</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m027-d-m-d1e700-x2-punct-punct">
 <w.rf>
@@ -3134,7 +3134,7 @@
 <tag>
 <AM lemma="máma" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="máma" src="auto">NNFS5-----A---1</AM>
-<AM lemma="máma" src="manual" selected="1">NNFS4-----A---1</AM>
+<AM lemma="mami_,h" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m027-d1e728-x2-1522">
@@ -3746,7 +3746,7 @@
 <LM>w#w-d1t770-7</LM>
 </w.rf>
 <form>tatímu</form>
-<tag lemma="tatí" src="auto" recommended="1">NNMS3-----A----</tag>
+<tag lemma="tatí_,h_^(tatínek)" src="auto" recommended="1">NNMS3-----A----</tag>
 </m>
 <m id="m027-d1t772-4">
 <w.rf>
@@ -3949,7 +3949,7 @@
 <LM>w#w-d1t778-18</LM>
 </w.rf>
 <form>tatímu</form>
-<tag lemma="tatí" src="auto" recommended="1">NNMS3-----A----</tag>
+<tag lemma="tatí_,h_^(tatínek)" src="auto" recommended="1">NNMS3-----A----</tag>
 </m>
 <m id="m027-d1t778-19">
 <w.rf>

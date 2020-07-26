@@ -432,7 +432,7 @@
 <LM>w#w-cmpr9406-051-p4s1w2</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9406-051-p4s1w3">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-cmpr9406-051-p4s2w7</LM>
 </w.rf>
 <form>necháte</form>
-<tag lemma="nechat" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m-cmpr9406-051-p4s2w8">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-cmpr9406-051-p4s2w10</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSZS6-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="orig" selected="1">PSZS6-P2-------</tag>
 </m>
 <m id="m-cmpr9406-051-p4s2w11">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 <LM>w#w-cmpr9406-051-p4s2w12</LM>
 </w.rf>
 <form>vydělávat</form>
-<tag lemma="vydělávat-1_^(peníze)_(*6at-1)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="vydělávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-cmpr9406-051-p4s2w13">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-cmpr9406-051-p4s3w5</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-cmpr9406-051-p4s3w6">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 <LM>w#w-cmpr9406-051-p4s3w6</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9406-051-p4s3w7">
 <src.rf>manual</src.rf>

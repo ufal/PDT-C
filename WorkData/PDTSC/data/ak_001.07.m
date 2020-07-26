@@ -300,7 +300,7 @@
 <AM lemma="půl-1" src="auto">ClXS6----------</AM>
 <AM lemma="půl-1" src="auto">ClXS7----------</AM>
 <AM lemma="půl-2" src="auto">NNFS1-----A----</AM>
-<AM lemma="půl-2" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="půl-1" src="auto" recommended="1" selected="1">Cl-XX----------</AM>
 <AM lemma="půl-3" src="auto">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -1908,7 +1908,7 @@
 <LM>w#w-d1t2103-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m001-d1t2103-3">
 <w.rf>
@@ -1966,7 +1966,7 @@
 <LM>w#w-d1t2107-3</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="zač" src="auto" recommended="1">PY-------------</tag>
+<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m001-d1e2104-x2-199">
 <w.rf>
@@ -1980,7 +1980,7 @@
 <LM>w#w-d1t2107-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m001-d1t2107-5">
 <w.rf>

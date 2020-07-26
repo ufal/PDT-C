@@ -768,7 +768,7 @@
 <LM>w#w-d1t2873-9</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m040-d1t2875-1">
 <w.rf>
@@ -919,7 +919,7 @@
 <LM>w#w-d1t2877-17</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m040-d-id152853-punct">
 <w.rf>
@@ -1359,7 +1359,7 @@
 <form>měsíčně</form>
 <tag>
 <AM lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="měsíčně_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m040-d-m-d1e2885-x2-punct-punct">
@@ -1427,7 +1427,7 @@
 <form>měsíčně</form>
 <tag>
 <AM lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="měsíčně_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m040-d1e2893-x2-647">
@@ -2543,7 +2543,7 @@
 <LM>w#w-d1t2971-16</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m040-d1t2971-17">
 <w.rf>
@@ -3099,7 +3099,7 @@
 <form>paci</form>
 <tag>
 <AM lemma="paci" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="paci-2" src="manual" selected="1">II-------------</AM>
+<AM lemma="paci" src="manual" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="m040-d-id157003-punct">
@@ -3116,7 +3116,7 @@
 <form>paci</form>
 <tag>
 <AM lemma="paci" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="paci-2" src="manual" selected="1">II-------------</AM>
+<AM lemma="paci" src="manual" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="m040-d-id157028-punct">
@@ -3331,7 +3331,7 @@
 <LM>w#w-d1t3004-2</LM>
 </w.rf>
 <form>teďko</form>
-<tag lemma="teďka_,h" src="auto" recommended="1">Db------------6</tag>
+<tag lemma="teďko_,h_^(^GC**teďka)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m040-d1t3004-3">
 <w.rf>
@@ -3434,7 +3434,7 @@
 <LM>w#w-d1t3006-3</LM>
 </w.rf>
 <form>vezmeme</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VB-P---1P-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m040-d1t3006-4">
 <w.rf>
@@ -3815,7 +3815,7 @@
 <LM>w#w-d1t3043-2</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m040-d1t3043-3">
 <w.rf>
@@ -3906,7 +3906,7 @@
 <LM>w#w-d1t3043-9</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m040-d1t3043-10">
 <w.rf>
@@ -3949,7 +3949,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1" selected="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -4060,7 +4060,7 @@
 <LM>w#w-d1t3045-9</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m040-d1t3045-10">
 <w.rf>
@@ -4380,7 +4380,7 @@
 <form>kg</form>
 <tag>
 <AM lemma="kilogram_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m040-d1t3061-7">
@@ -4488,7 +4488,7 @@
 <LM>w#w-d1t3071-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m040-d1t3071-2">
 <w.rf>
@@ -4536,7 +4536,7 @@
 <form>kg</form>
 <tag>
 <AM lemma="kilogram_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m040-d1e3068-x2-44">

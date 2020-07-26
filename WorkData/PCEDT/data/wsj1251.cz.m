@@ -1177,7 +1177,7 @@
 <LM>w#w-wsj1251-001-p1s2W25</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1251-001-p1s2W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1304,7 +1304,7 @@
 <LM>w#w-wsj1251-001-p1s2W37</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1251-001-p1s2W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2940,7 +2940,7 @@
 <LM>w#w-wsj1251-001-p1s7W13</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1251-001-p1s7W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -509,7 +509,7 @@
 <LM>w#w-lnd92251-028-p3s2w50</LM>
 </w.rf>
 <form>nápravně</form>
-<tag lemma="nápravně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="nápravně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92251-028-p3s2w51">
 <src.rf>manual</src.rf>

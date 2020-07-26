@@ -239,7 +239,7 @@
 <LM>w#w-lnd92259-098-p2s2w6</LM>
 </w.rf>
 <form>mocně</form>
-<tag lemma="mocně_^(mající_moc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="mocně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92259-098-p2s2w7">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-098-p2s5w9">

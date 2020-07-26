@@ -1014,7 +1014,7 @@
 <LM>w#w-d1t2864-1</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m132-d1t2864-2">
 <w.rf>
@@ -2498,7 +2498,7 @@
 <LM>w#w-d1t2937-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m132-d1t2937-4">
 <w.rf>
@@ -2602,7 +2602,7 @@
 <LM>w#w-d1t2945-1</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m132-d1e2938-x2-641">
 <w.rf>
@@ -2957,7 +2957,7 @@
 <form>jeli</form>
 <tag>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="jet-1" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m132-d-id152752-punct">
@@ -2976,7 +2976,7 @@
 <form>Jeli</form>
 <tag>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="jet-1" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m132-d1t2983-2">
@@ -3131,7 +3131,7 @@
 <LM>w#w-d1t3002-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m132-d1t3002-3">
 <w.rf>
@@ -3236,7 +3236,7 @@
 <LM>w#w-d1t3010-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m132-d1t3010-7">
 <w.rf>

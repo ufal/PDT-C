@@ -218,7 +218,7 @@
 <LM>w#w-wsj0587-001-p1s1W3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0587-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4944,7 +4944,7 @@
 <LM>w#w-wsj0587-001-p1s18W5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0587-001-p1s18W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5252,7 +5252,7 @@
 <LM>w#w-wsj0587-001-p1s19W24</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0587-001-p1s19W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8171,7 +8171,7 @@
 <LM>w#w-wsj0587-001-p1s28W18</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m-wsj0587-001-p1s28W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8218,7 +8218,7 @@
 <LM>w#w-wsj0587-001-p1s28W23</LM>
 </w.rf>
 <form>nalezeny</form>
-<tag lemma="naleznout" src="auto" recommended="1">VsTP----X-API--</tag>
+<tag lemma="naleznout" src="auto" recommended="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-wsj0587-001-p1s28W24-Ta">
 <src.rf>tagger-a</src.rf>

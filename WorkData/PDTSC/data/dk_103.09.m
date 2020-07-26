@@ -1096,7 +1096,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1382,7 +1382,7 @@
 <LM>w#w-d1t1387-12</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m103-d1t1387-10">
 <w.rf>
@@ -1663,7 +1663,7 @@
 <LM>w#w-d1t1391-9</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m103-d-m-d1e1384-x2-punct-punct">
 <w.rf>
@@ -2340,7 +2340,7 @@
 <LM>w#w-d1t1415-9</LM>
 </w.rf>
 <form>dáme</form>
-<tag lemma="dát" src="auto" recommended="1">VB-P---1P-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m103-d1t1415-10">
 <w.rf>
@@ -2564,7 +2564,7 @@
 <LM>w#w-d1t1417-15</LM>
 </w.rf>
 <form>Dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m103-d1t1417-16">
 <w.rf>
@@ -2883,7 +2883,7 @@
 <LM>w#w-d1t1433-5</LM>
 </w.rf>
 <form>dám</form>
-<tag lemma="dát" src="auto" recommended="1">VB-S---1P-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m103-d1t1435-5">
 <w.rf>
@@ -2995,7 +2995,7 @@
 <LM>w#w-d1t1435-11</LM>
 </w.rf>
 <form>vyškrábu</form>
-<tag lemma="vyškrábat" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="vyškrábat" src="auto" recommended="1">VB-S---1P-AAP-1</tag>
 </m>
 <m id="m103-d1e1430-x2-399">
 <w.rf>

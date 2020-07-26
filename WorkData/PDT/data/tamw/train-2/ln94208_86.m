@@ -59,7 +59,7 @@
 <LM>w#w-ln94208-86-p1s1w6</LM>
 </w.rf>
 <form>editorkou</form>
-<tag lemma="editorka_^(*2)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="editorka-1_^(*4-1)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94208-86-p1s1w7">
 <src.rf>manual</src.rf>

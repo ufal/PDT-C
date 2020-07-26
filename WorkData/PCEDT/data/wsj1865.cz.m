@@ -4467,7 +4467,7 @@
 <LM>w#w-wsj1865-001-p1s14W14</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1865-001-p1s14W15-Ta">
 <src.rf>tagger-a</src.rf>

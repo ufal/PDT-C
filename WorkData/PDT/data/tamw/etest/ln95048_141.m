@@ -125,7 +125,7 @@
 <LM>w#w-ln95048-141-p1s1Bw12</LM>
 </w.rf>
 <form>dnem</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95048-141-p1s1Bw13">
 <src.rf>manual</src.rf>

@@ -1641,7 +1641,7 @@
 <LM>w#w-wsj1749-001-p1s3W19</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1749-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1856,7 +1856,7 @@
 <LM>w#w-wsj1749-001-p1s4W4</LM>
 </w.rf>
 <form>dán</form>
-<tag lemma="dát" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1749-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2023,7 +2023,7 @@
 <LM>w#w-wsj1749-001-p1s4W19</LM>
 </w.rf>
 <form>stíhaček</form>
-<tag lemma="stíhačka_^(letadlo)_(*2)" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="stíhačka_^(*2)" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1749-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2541,7 +2541,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1749-001-p1s7W2-Ta">

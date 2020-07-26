@@ -586,7 +586,7 @@
 <form>USAID</form>
 <tag>
 <AM lemma="USAID-1_:B_;m_,t_^(United_States_Agency_for_Inter._Devel.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="USAID-8" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-137-p3s1w21">

@@ -142,7 +142,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-039-p2s1w9">
@@ -251,7 +251,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930708-039-p2s1w21">
@@ -302,7 +302,7 @@
 <form>okr</form>
 <tag>
 <AM lemma="okr" src="orig">NNIS1-----A----</AM>
-<AM lemma="okres" src="manual" selected="1">NNIS1-----A---8</AM>
+<AM lemma="okres" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-039-p2s1w27">

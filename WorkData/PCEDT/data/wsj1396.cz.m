@@ -1708,7 +1708,7 @@
 <LM>w#w-wsj1396-001-p1s4W30</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1396-001-p1s4W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2766,7 +2766,7 @@
 <LM>w#w-wsj1396-001-p1s9W16</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m-wsj1396-001-p1s9W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4244,7 +4244,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1396-001-p1s15W23-Ta">

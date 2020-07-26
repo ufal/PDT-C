@@ -236,7 +236,7 @@
 <LM>w#w-lnd92251-111-p1s2w8</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-111-p1s2w9">
 <src.rf>manual</src.rf>

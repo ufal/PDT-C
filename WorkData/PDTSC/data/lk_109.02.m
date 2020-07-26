@@ -1878,7 +1878,7 @@
 <LM>w#w-d1t354-14</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m109-d1t354-15">
 <w.rf>
@@ -2875,7 +2875,7 @@
 <form>hezky</form>
 <tag>
 <AM lemma="hezky" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="hezky_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hezky" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m109-d1t364-23">
@@ -3167,7 +3167,7 @@
 <LM>w#w-d1t380-13</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m109-d1t382-4">
 <w.rf>
@@ -4097,7 +4097,7 @@
 <LM>w#w-d1t415-10</LM>
 </w.rf>
 <form>vyhříval</form>
-<tag lemma="vyhřívat_^(*4át)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="vyhřívat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m109-d1t415-11">
 <w.rf>
@@ -5192,7 +5192,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m109-496-498">

@@ -5194,7 +5194,7 @@
 <LM>w#w-wsj0787-001-p1s15W14</LM>
 </w.rf>
 <form>vymyslel</form>
-<tag lemma="vymyslet" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="vymyslit" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj0787-001-p1s15W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6102,7 +6102,7 @@
 <form>programem</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0787-001-p1s18W17-Ta">
@@ -6585,7 +6585,7 @@
 <LM>w#w-wsj0787-001-p1s19W9</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj0787-001-p1s19W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7048,7 +7048,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0787-001-p1s21W8-Ta">
@@ -7367,7 +7367,7 @@
 <form>programem</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0787-001-p1s21W32-Ta">

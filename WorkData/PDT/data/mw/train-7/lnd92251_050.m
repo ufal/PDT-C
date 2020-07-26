@@ -105,7 +105,7 @@
 <form>em</form>
 <tag>
 <AM lemma="ema" src="orig">NNFP2-----A----</AM>
-<AM lemma="em-99_;Y" src="auto" recommended="1" selected="1">NNXXX-----A---b</AM>
+<AM lemma="em-99_;Y" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 <AM lemma="emo-1_,h_,l_^(styl)" src="auto">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -331,7 +331,7 @@
 <form>filozoficko</form>
 <tag>
 <AM lemma="filozoficko" src="orig">A2--------A----</AM>
-<AM lemma="filozofický" src="auto" recommended="1" selected="1">S2--------A----</AM>
+<AM lemma="filozoficko" src="auto" recommended="1" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-050-p3s4w8">
@@ -623,7 +623,7 @@
 <LM>w#w-lnd92251-050-p3s5w1</LM>
 </w.rf>
 <form>Může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-050-p3s5w2">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-lnd92251-050-p3s6w1</LM>
 </w.rf>
 <form>Může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-050-p3s6w2">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 <LM>w#w-lnd92251-050-p3s9w26</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-lnd92251-050-p3s9w27">
 <src.rf>manual</src.rf>

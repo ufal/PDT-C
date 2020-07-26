@@ -246,14 +246,14 @@
 <LM>w#w-188_1-141</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m025-188_1-142">
 <w.rf>
 <LM>w#w-188_1-142</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m025-188_1-143">
 <w.rf>
@@ -556,7 +556,7 @@
 </w.rf>
 <form>Velikonocích</form>
 <tag>
-<AM lemma="Velikonoce" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="Velikonoce_;m" src="auto" recommended="1">NNFP6-----A----</AM>
 <AM lemma="velikonoce_^(^DS**Velikonoce)" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -1434,7 +1434,7 @@
 <LM>w#w-d1t496-4</LM>
 </w.rf>
 <form>Proškovic</form>
-<tag lemma="Proškův_;Y_^(*3ek)" src="auto" recommended="1">AUXXXM--------5</tag>
+<tag lemma="Proškův_;Y_^(*2a)_(*3ek)" src="auto" recommended="1">AUXXXM--------5</tag>
 </m>
 <m id="m025-d1e491-x2-278">
 <w.rf>
@@ -1631,7 +1631,7 @@
 <form>ČD</form>
 <tag>
 <AM lemma="ČD_:B_;m_^(České_dráhy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČD_;m_^(České_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m025-d-m-d1e503-x2-punct-punct">
@@ -2021,7 +2021,7 @@
 <form>ČD</form>
 <tag>
 <AM lemma="ČD_:B_;m_^(České_dráhy)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ČD_;m_^(České_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m025-d1t558-1">
@@ -2286,7 +2286,7 @@
 <LM>w#w-d1t568-5</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m025-d1t568-7">
 <w.rf>
@@ -2592,7 +2592,7 @@
 <LM>w#w-d1t593-1</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m025-d1t593-3">
 <w.rf>
@@ -3453,7 +3453,7 @@
 <LM>w#w-d1t676-2</LM>
 </w.rf>
 <form>Dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m025-d1t676-3">
 <w.rf>
@@ -3772,7 +3772,7 @@
 <LM>w#w-d1t722-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m025-d1t722-3">
 <w.rf>
@@ -4154,7 +4154,7 @@
 <LM>w#w-d1t781-7</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m025-d1t781-8">
 <w.rf>

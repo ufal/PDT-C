@@ -412,7 +412,7 @@
 <LM>w#w-wsj2270-001-p1s1W31</LM>
 </w.rf>
 <form>nalezeno</form>
-<tag lemma="naleznout" src="auto" recommended="1">VsNS----X-API--</tag>
+<tag lemma="naleznout" src="auto" recommended="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-wsj2270-001-p1s1W32-Ta">
 <src.rf>tagger-a</src.rf>

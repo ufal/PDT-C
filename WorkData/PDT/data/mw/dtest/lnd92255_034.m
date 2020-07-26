@@ -47,7 +47,7 @@
 <form>Konsens</form>
 <tag>
 <AM lemma="konsensus" src="orig">NNIS1-----A----</AM>
-<AM lemma="konsens" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="auto" recommended="1" selected="1">NNIS1-----A---1</AM>
 <AM lemma="konsens" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -57,7 +57,7 @@
 <LM>w#w-lnd92255-034-p2s1w2</LM>
 </w.rf>
 <form>zastupitelů</form>
-<tag lemma="zastupitel_,a" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="zastupitel" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-034-p3s1">
@@ -695,7 +695,7 @@
 <LM>w#w-lnd92255-034-p3s5w6</LM>
 </w.rf>
 <form>předána</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsQW----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92255-034-p3s5w7">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-lnd92255-034-p3s5w8">
@@ -1286,7 +1286,7 @@
 <LM>w#w-lnd92255-034-p3s8w5</LM>
 </w.rf>
 <form>předávat</form>
-<tag lemma="předávat-3_^(někomu_něco)_(*6at-3)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="předávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92255-034-p3s8w6">
 <src.rf>manual</src.rf>

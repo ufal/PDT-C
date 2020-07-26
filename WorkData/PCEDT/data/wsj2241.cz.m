@@ -1143,7 +1143,7 @@
 <LM>w#w-wsj2241-001-p1s2W33</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2241-001-p1s2W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1302,7 +1302,7 @@
 <LM>w#w-wsj2241-001-p1s2W48</LM>
 </w.rf>
 <form>nepromyslela</form>
-<tag lemma="promyslet" src="auto" recommended="1">VpQW----R-NAP--</tag>
+<tag lemma="promyslit" src="auto" recommended="1">VpQW----R-NAP-1</tag>
 </m>
 <m id="m-wsj2241-001-p1s2W49-Ta">
 <src.rf>tagger-a</src.rf>

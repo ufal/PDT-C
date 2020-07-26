@@ -1178,7 +1178,7 @@
 <LM>w#w-d1t1244-29</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m120-d1t1244-30">
 <w.rf>
@@ -3903,7 +3903,7 @@
 <LM>w#w-d1t1317-15</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m120-d1t1317-17">
 <w.rf>
@@ -5177,7 +5177,7 @@
 <LM>w#w-d1t1334-12</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m120-d1t1334-13">
 <w.rf>
@@ -5325,7 +5325,7 @@
 <tag>
 <AM lemma="předávat-1_:T_,a_^(příst)_(*6at-1)" src="auto">VB-S---1P-AA---</AM>
 <AM lemma="předávat-2_:T_^(se;_dát_něčeho_příliš)_(*6at-2)" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="předávat-3_^(někomu_něco)_(*6at-3)" src="auto" recommended="1">VB-S---1P-AAI--</AM>
+<AM lemma="předávat_^(*4at)" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 </tag>
 </m>
 <m id="m120-d1t1334-26">
@@ -5732,7 +5732,7 @@
 <form>pastorkyňa</form>
 <tag>
 <AM lemma="pastorkyně_,t" src="auto" recommended="1">NNFS1-----A---1</AM>
-<AM lemma="pastorkyně" src="manual" selected="1">NNFS1-----A---1</AM>
+<AM lemma="pastorkyně" src="manual" selected="1">NNFS1-----A---6</AM>
 </tag>
 </m>
 <m id="m120-d1t1362-14">

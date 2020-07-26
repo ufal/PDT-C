@@ -53,7 +53,7 @@
 <LM>w#w-ln95045-029-p2s1Aw2</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-029-p2s1Aw3">
 <src.rf>manual</src.rf>

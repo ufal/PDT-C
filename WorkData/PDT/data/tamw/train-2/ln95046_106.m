@@ -268,7 +268,7 @@
 <LM>w#w-ln95046-106-p3s1w5</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95046-106-p3s1w6">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95046-106-p3s1w19">
@@ -624,7 +624,7 @@
 <form>ČRo</form>
 <tag>
 <AM lemma="ČRo-1_:B_;m_^(Český_rozhlas)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČRo-1_;m_^(Český_rozhlas)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČRo-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-106-p3s3w19">
@@ -920,7 +920,7 @@
 <LM>w#w-ln95046-106-p4s2w12</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-ln95046-106-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 <LM>w#w-ln95046-106-p4s2w22</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95046-106-p4s2w23">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-106-p4s3w2">

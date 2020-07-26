@@ -3071,7 +3071,7 @@
 </w.rf>
 <form>méně</form>
 <tag>
-<AM lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
+<AM lemma="méně" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 <AM lemma="méně_^(méně_+_2._p.,_méně_peněz)" src="manual">Ca--4----------</AM>
 </tag>
 </m>

@@ -530,7 +530,7 @@
 <LM>w#w-vesm9211-049-p1s3w5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-vesm9211-049-p1s3w6">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-vesm9211-049-p1s3w21</LM>
 </w.rf>
 <form>výhradně</form>
-<tag lemma="výhradně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="výhradně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9211-049-p1s3w22">
 <src.rf>manual</src.rf>

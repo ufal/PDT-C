@@ -310,7 +310,7 @@
 <LM>w#w-wsj0238-001-p1s1W10</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0238-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3906,7 +3906,7 @@
 <LM>w#w-wsj0238-001-p1s16W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0238-001-p1s16W2-Ta">
 <src.rf>tagger-a</src.rf>

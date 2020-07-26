@@ -303,7 +303,7 @@
 <LM>w#w-ln95045-100-p2s2w15</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln95045-100-p2s2w16">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="tzv_:B_^(tak_zvaný)" src="manual">AAXXX----1A----</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln95045-100-p3s3w8">
@@ -1129,7 +1129,7 @@
 <LM>w#w-ln95045-100-p4s1w15</LM>
 </w.rf>
 <form>vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-100-p4s1w16">
 <src.rf>manual</src.rf>
@@ -2250,7 +2250,7 @@
 <LM>w#w-ln95045-100-p5s2w1</LM>
 </w.rf>
 <form>Nejlépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln95045-100-p5s2w2">
 <src.rf>manual</src.rf>

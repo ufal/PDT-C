@@ -241,7 +241,7 @@
 <LM>w#w-lnd92255-067-p2s3w9</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-067-p2s3w10">
 <src.rf>manual</src.rf>

@@ -129,7 +129,7 @@
 <LM>w#w-mf920923-098-p1s1w13</LM>
 </w.rf>
 <form>sekretářka</form>
-<tag lemma="sekretářka_^(*2)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="sekretářka-2_^(*4-2)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-098-p1s1w14">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-mf920923-098-p1s2w35</LM>
 </w.rf>
 <form>Jinců</form>
-<tag lemma="Jince_;G" src="auto" selected="1">NNIP2-----A---1</tag>
+<tag lemma="Jince_;G" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920923-098-p1s2w36">
 <src.rf>manual</src.rf>

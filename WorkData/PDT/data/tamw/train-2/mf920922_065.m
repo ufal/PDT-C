@@ -58,7 +58,7 @@
 <form>AGATHA</form>
 <tag>
 <AM lemma="Agatha_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Agatha_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Agatha_;Y_,s_^(^DD**Agáta)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-065-p2s1w4">
@@ -80,7 +80,7 @@
 <AM lemma="Rak_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="rak" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Rakousko_:B_;G" src="manual">NNNXX-----A---8</AM>
-<AM lemma="Rakousko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Rakousko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-065-p2s1w6">
@@ -115,7 +115,7 @@
 <LM>w#w-mf920922-065-p2s3w1</LM>
 </w.rf>
 <form>Alpsko</form>
-<tag lemma="alpský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="alpsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf920922-065-p2s3w2">
 <src.rf>manual</src.rf>
@@ -381,7 +381,7 @@
 <AM lemma="Rakousko_;G" src="orig">NNNS1-----A----</AM>
 <AM lemma="Rak_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="rak" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rakousko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Rakousko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-065-p2s3w34">

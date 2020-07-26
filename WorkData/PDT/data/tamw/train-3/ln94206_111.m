@@ -35,7 +35,7 @@
 <LM>w#w-ln94206-111-p1s1w3</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94206-111-p1s1w4">
 <src.rf>manual</src.rf>

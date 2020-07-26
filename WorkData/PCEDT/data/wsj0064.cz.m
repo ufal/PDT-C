@@ -3377,7 +3377,7 @@
 <LM>w#w-wsj0064-001-p1s8W16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0064-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4204,7 +4204,7 @@
 </w.rf>
 <form>Montanu</form>
 <tag>
-<AM lemma="Montana_;G" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Montana-2_;G" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Montanus_;Y" src="auto">NNMS3-----A----</AM>
 <AM lemma="Montanus_;Y" src="auto">NNMS6-----A----</AM>
 </tag>
@@ -4588,7 +4588,7 @@
 <LM>w#w-wsj0064-001-p1s13W6</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj0064-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5682,7 +5682,7 @@
 <LM>w#w-wsj0064-001-p1s17W8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0064-001-p1s17W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7569,7 +7569,7 @@
 <LM>w#w-wsj0064-001-p1s22W17</LM>
 </w.rf>
 <form>pickupů</form>
-<tag lemma="pickup_;m_^(auto)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="pickup_^(auto)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0064-001-p1s22W18-Ta">
 <src.rf>tagger-a</src.rf>

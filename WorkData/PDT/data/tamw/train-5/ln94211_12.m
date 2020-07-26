@@ -1177,7 +1177,7 @@
 <LM>w#w-ln94211-12-p3s6w15</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94211-12-p3s6w16">
 <src.rf>manual</src.rf>

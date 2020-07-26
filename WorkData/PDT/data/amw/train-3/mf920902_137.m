@@ -524,7 +524,7 @@
 <LM>w#w-mf920902-137-p2s3w18</LM>
 </w.rf>
 <form>Evropa</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-137-p2s3w19">
 <src.rf>manual</src.rf>

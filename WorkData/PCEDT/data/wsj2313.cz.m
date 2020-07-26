@@ -1459,7 +1459,7 @@
 <LM>w#w-wsj2313-001-p1s3W11</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2313-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1979,7 +1979,7 @@
 <LM>w#w-wsj2313-001-p1s4W18</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2313-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2054,7 +2054,7 @@
 <LM>w#w-wsj2313-001-p1s4W23</LM>
 </w.rf>
 <form>nikoliv</form>
-<tag lemma="nikoli" src="auto" recommended="1">TT------------1</tag>
+<tag lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2313-001-p1s4W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2533,7 +2533,7 @@
 <LM>w#w-wsj2313-001-p1s5W14</LM>
 </w.rf>
 <form>koupily</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpTP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj2313-001-p1s5W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2872,7 +2872,7 @@
 <LM>w#w-wsj2313-001-p1s6W20</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2313-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3936,7 +3936,7 @@
 <LM>w#w-wsj2313-001-p1s10W7</LM>
 </w.rf>
 <form>cest</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj2313-001-p1s10W8-Ta">
 <src.rf>tagger-a</src.rf>

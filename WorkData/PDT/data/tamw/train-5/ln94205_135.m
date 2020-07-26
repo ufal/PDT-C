@@ -93,7 +93,7 @@
 <LM>w#w-ln94205-135-p2s1Aw3</LM>
 </w.rf>
 <form>js</form>
-<tag lemma="js-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="js-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-135-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-135-p2s1Bw21">
@@ -316,7 +316,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln94205-135-p2s1Bw26">
@@ -357,7 +357,7 @@
 <LM>w#w-ln94205-135-p2s1Bw30</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-ln94205-135-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <form>MPSV</form>
 <tag>
 <AM lemma="MPSV_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MPSV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MPSV_;m_^(Ministerstvo_práce_a_sociálních_věcí)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-135-p2s3w16">
@@ -814,7 +814,7 @@
 <LM>w#w-ln94205-135-p2s4w4</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln94205-135-p2s4w5">
 <src.rf>manual</src.rf>
@@ -822,7 +822,7 @@
 <LM>w#w-ln94205-135-p2s4w5</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94205-135-p2s4w6">
 <src.rf>manual</src.rf>
@@ -1190,7 +1190,7 @@
 <LM>w#w-ln94205-135-p3s2w5</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-135-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1264,7 +1264,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-135-p3s2w15">
@@ -1337,7 +1337,7 @@
 <LM>w#w-ln94205-135-p3s2w23</LM>
 </w.rf>
 <form>zato</form>
-<tag lemma="zato" src="orig" selected="1">J,-------------</tag>
+<tag lemma="zato" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94205-135-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1637,7 +1637,7 @@
 <LM>w#w-ln94205-135-p4s2w17</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94205-135-p4s2w18">
 <src.rf>manual</src.rf>
@@ -2382,7 +2382,7 @@
 <form>MPSV</form>
 <tag>
 <AM lemma="MPSV_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MPSV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MPSV_;m_^(Ministerstvo_práce_a_sociálních_věcí)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-135-p5s1w10">
@@ -2423,7 +2423,7 @@
 <LM>w#w-ln94205-135-p5s1w14</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94205-135-p5s1w15">
 <src.rf>manual</src.rf>
@@ -2799,7 +2799,7 @@
 <LM>w#w-ln94205-135-p5s2w14</LM>
 </w.rf>
 <form>nemocem</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP3-----A---1</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP3-----A---1</tag>
 </m>
 <m id="m-ln94205-135-p5s2w15">
 <src.rf>manual</src.rf>

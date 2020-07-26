@@ -37,7 +37,7 @@
 <LM>w#w-mf920925-021-p2s1w1</LM>
 </w.rf>
 <form>Mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-021-p2s1w2">
 <src.rf>manual</src.rf>

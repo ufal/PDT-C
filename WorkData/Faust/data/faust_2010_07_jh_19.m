@@ -24,7 +24,7 @@
 <form>bychom</form>
 <tag>
 <AM lemma="být" recommended="1">Vc-P---1-------</AM>
-<AM lemma="být" src="manual" selected="1">Vc-P---1----I--</AM>
+<AM lemma="být" src="manual" selected="1">Vc----------Im-</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p1985-s1-w3">
@@ -578,7 +578,7 @@
 <LM>w#w-jh_19-SCzechM-p1994-s1-w5</LM>
 </w.rf>
 <form>potřebou</form>
-<tag lemma="potřeba" recommended="1">NNFS7-----A----</tag>
+<tag lemma="potřeba-1" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="jh_19-SCzechM-p1994-s1-w6">
 <w.rf>
@@ -3178,7 +3178,7 @@
 <AM lemma="Lana_;G">NNFP2-----A----</AM>
 <AM lemma="lano">NNNP2-----A----</AM>
 <AM lemma="LAN-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="LAN_^(počítačová_síť)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="LAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2026-s1-w15">
@@ -3247,7 +3247,7 @@
 <AM lemma="Lana_;G">NNFP2-----A----</AM>
 <AM lemma="lano">NNNP2-----A----</AM>
 <AM lemma="LAN-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="LAN_^(počítačová_síť)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="LAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2026-s1-w21">
@@ -3713,7 +3713,7 @@
 <tag>
 <AM lemma="Ahoj_;m_^(časopis)" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
-<AM lemma="ahoj" selected="1">TT-------------</AM>
+<AM lemma="ahoj" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2034-s1-w2">
@@ -4078,7 +4078,7 @@
 <LM>w#w-jh_19-SCzechM-p2034-s1-w34</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" recommended="1">J,-----------m-</tag>
 </m>
 <m id="jh_19-SCzechM-p2034-s1-w35">
 <w.rf>
@@ -4141,7 +4141,7 @@
 <tag>
 <AM lemma="Ahoj_;m_^(časopis)" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
-<AM lemma="ahoj" selected="1">TT-------------</AM>
+<AM lemma="ahoj" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2034-s1-w41">
@@ -4298,7 +4298,7 @@
 <AM lemma="dík-1">NNIP4-----A----</AM>
 <AM lemma="dík-1">NNIP5-----A----</AM>
 <AM lemma="dík-1">NNIP7-----A----</AM>
-<AM lemma="díky" src="manual" selected="1">TT-------------</AM>
+<AM lemma="díky" src="manual" selected="1">RR--3----------</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2034-s1-w53">
@@ -4440,7 +4440,7 @@
 </w.rf>
 <form>prostředků</form>
 <tag>
-<AM lemma="prostředek-2_^(způsob,_nástroj)" recommended="1">NNIP2-----A----</AM>
+<AM lemma="prostředek_^(střed,způsob,_nástroj)" recommended="1">NNIP2-----A----</AM>
 <AM lemma="prostředek-1_^(střed)">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -4884,7 +4884,7 @@
 </w.rf>
 <form>pane</form>
 <tag>
-<AM lemma="pan_^(oslovení)" recommended="1">NNMS5-----A----</AM>
+<AM lemma="pan" recommended="1">NNMS5-----A----</AM>
 <AM lemma="pán_^(oslovení)">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -6263,7 +6263,7 @@
 <LM>w#w-jh_19-SCzechM-p2063-s1-w5</LM>
 </w.rf>
 <form>abyste</form>
-<tag lemma="aby" recommended="1">J,-P---2-------</tag>
+<tag lemma="aby" recommended="1">J,-----------e-</tag>
 </m>
 <m id="jh_19-SCzechM-p2063-s1-w6">
 <w.rf>

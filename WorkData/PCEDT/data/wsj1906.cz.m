@@ -667,7 +667,7 @@
 <LM>w#w-wsj1906-001-p1s2W1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1906-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2025,7 +2025,7 @@
 <LM>w#w-wsj1906-001-p1s7W10</LM>
 </w.rf>
 <form>podával</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1906-001-p1s7W11-Ta">
 <src.rf>tagger-a</src.rf>

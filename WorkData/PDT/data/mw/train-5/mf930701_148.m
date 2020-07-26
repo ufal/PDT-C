@@ -1176,7 +1176,7 @@
 <LM>w#w-mf930701-148-p3s3w5</LM>
 </w.rf>
 <form>dávali</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930701-148-p3s3w6">
 <src.rf>manual</src.rf>

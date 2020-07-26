@@ -183,7 +183,7 @@
 <LM>w#w-mf930701-069-p4s1w13</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf930701-069-p4s1w14">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-mf930701-069-p4s2w1</LM>
 </w.rf>
 <form>Tyrkysově</form>
-<tag lemma="tyrkysově_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="tyrkysově_;o_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930701-069-p4s2w2">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-mf930701-069-p4s6w9</LM>
 </w.rf>
 <form>ukradli</form>
-<tag lemma="ukrást" src="auto" selected="1">VpMP----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-069-p4s6w10">
 <src.rf>manual</src.rf>

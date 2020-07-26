@@ -201,7 +201,7 @@
 <LM>w#w-lnd92257-044-p3s2w17</LM>
 </w.rf>
 <form>uťal</form>
-<tag lemma="utnout" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag lemma="utnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92257-044-p3s2w18">
 <src.rf>manual</src.rf>
@@ -669,7 +669,7 @@
 <LM>w#w-lnd92257-044-p3s5w4</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92257-044-p3s5w5">
 <src.rf>manual</src.rf>

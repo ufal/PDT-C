@@ -830,7 +830,7 @@
 <LM>w#w-ln94207-51-p3s3w8</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-ln94207-51-p3s3w9">
 <src.rf>manual</src.rf>

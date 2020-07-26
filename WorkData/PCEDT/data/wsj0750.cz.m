@@ -186,7 +186,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -258,7 +258,7 @@
 <LM>w#w-wsj0750-001-p1s2W5</LM>
 </w.rf>
 <form>kdekoliv</form>
-<tag lemma="kdekoli" src="auto" recommended="1">Db------------1</tag>
+<tag lemma="kdekoliv_,s_^(^DD**kdekoli)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0750-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1124,7 +1124,7 @@
 <LM>w#w-wsj0750-001-p1s5W3</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj0750-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3101,7 +3101,7 @@
 <LM>w#w-wsj0750-001-p1s11W12</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0750-001-p1s11W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4775,7 +4775,7 @@
 <LM>w#w-wsj0750-001-p1s17W12</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj0750-001-p1s17W13-Ta">
 <src.rf>tagger-a</src.rf>

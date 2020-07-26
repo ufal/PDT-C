@@ -191,7 +191,7 @@
 <LM>w#w-ln94200-67-p1s1Bw2</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-67-p1s1Bw3">
 <src.rf>manual</src.rf>

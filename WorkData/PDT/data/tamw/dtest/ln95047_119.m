@@ -154,7 +154,7 @@
 <LM>w#w-ln95047-119-p2s1Bw11</LM>
 </w.rf>
 <form>anglicko</form>
-<tag lemma="anglický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="anglicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95047-119-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-ln95047-119-p2s2w6</LM>
 </w.rf>
 <form>anglicko</form>
-<tag lemma="anglický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="anglicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95047-119-p2s2w7">
 <src.rf>manual</src.rf>

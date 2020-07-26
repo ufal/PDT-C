@@ -757,7 +757,7 @@
 <form>kpt</form>
 <tag>
 <AM lemma="kapitán_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="kapitán" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="kapitán" src="manual" selected="1">NNMXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92255-015-p3s4w9">
@@ -1034,7 +1034,7 @@
 <form>kpt</form>
 <tag>
 <AM lemma="kapitán_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="kapitán" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="kapitán" src="manual" selected="1">NNMXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92255-015-p3s6w4">
@@ -1145,7 +1145,7 @@
 <LM>w#w-lnd92255-015-p3s7w12</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92255-015-p3s7w13">
 <src.rf>manual</src.rf>

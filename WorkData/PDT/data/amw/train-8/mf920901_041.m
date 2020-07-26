@@ -518,7 +518,7 @@
 <LM>w#w-mf920901-041-p2s3w2</LM>
 </w.rf>
 <form>vydalo</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-041-p2s3w3">
 <src.rf>manual</src.rf>

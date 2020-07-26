@@ -217,7 +217,7 @@
 <LM>w#w-wsj1422-001-p1s0W17</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1422-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2042,7 +2042,7 @@
 <LM>w#w-wsj1422-001-p1s5W2</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1422-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4038,7 +4038,7 @@
 <LM>w#w-wsj1422-001-p1s11W21</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1422-001-p1s11W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4492,7 +4492,7 @@
 <LM>w#w-wsj1422-001-p1s13W13</LM>
 </w.rf>
 <form>právech</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP6-----A----</tag>
+<tag lemma="právo" src="auto" recommended="1">NNNP6-----A----</tag>
 </m>
 <m id="m-wsj1422-001-p1s13W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4676,7 +4676,7 @@
 <LM>w#w-wsj1422-001-p1s15W2</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1422-001-p1s15W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -130,7 +130,7 @@
 <LM>w#w-mf920922-011-p1s1w14</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920922-011-p1s1w15">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <form>nestabilita</form>
 <tag>
 <AM lemma="nestabilita" src="orig">NNFS1-----A----</AM>
-<AM lemma="stabilita" src="manual" selected="1">NNFS1-----N----</AM>
+<AM lemma="nestabilita" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-011-p1s3w15">
@@ -2106,7 +2106,7 @@
 <LM>w#w-mf920922-011-p1s15w9</LM>
 </w.rf>
 <form>Kanada</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-011-p1s15w10">
 <src.rf>manual</src.rf>

@@ -4159,7 +4159,7 @@
 <LM>w#w-wsj0965-001-p1s15W11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0965-001-p1s15W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4520,7 +4520,7 @@
 <LM>w#w-wsj0965-001-p1s17W7</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0965-001-p1s17W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4555,7 +4555,7 @@
 </w.rf>
 <form>osminu</form>
 <tag>
-<AM lemma="osmina" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="osmina`8_^(*3)" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="osmina`8_^(*3)" src="auto">CyFS4----------</AM>
 </tag>
 </m>
@@ -4609,7 +4609,7 @@
 <LM>w#w-wsj0965-001-p1s17W15</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0965-001-p1s17W16-Ta">
 <src.rf>tagger-a</src.rf>

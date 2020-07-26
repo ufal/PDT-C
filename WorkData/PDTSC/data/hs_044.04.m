@@ -112,7 +112,7 @@
 <LM>w#w-d1t1131-8</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m044-d1t1131-9">
 <w.rf>
@@ -1182,7 +1182,7 @@
 <LM>w#w-d1t1268-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m044-d1t1268-3">
 <w.rf>
@@ -3142,7 +3142,7 @@
 <tag>
 <AM lemma="svobodný" src="auto" recommended="1">ACQW------A----</AM>
 <AM lemma="svobodno" src="manual">NNNS2-----A----</AM>
-<AM lemma="svobodna" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="svobodna_^(za_svobodna)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m044-d-m-d1e1421-x2-punct-punct">

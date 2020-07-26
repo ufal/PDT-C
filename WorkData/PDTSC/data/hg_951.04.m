@@ -170,7 +170,7 @@
 <LM>w#w-d1t1778-1</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m951-d1t1778-2">
 <w.rf>
@@ -188,7 +188,7 @@
 <LM>w#w-d1t1778-3</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m951-d1t1778-4">
 <w.rf>
@@ -246,7 +246,7 @@
 <LM>w#w-d1t1784-4</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m951-d1t1784-5">
 <w.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-d1t1794-1</LM>
 </w.rf>
 <form>nesehnal</form>
-<tag lemma="sehnat" src="auto" recommended="1">VpYS----R-NAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m951-d1t1794-2">
 <w.rf>

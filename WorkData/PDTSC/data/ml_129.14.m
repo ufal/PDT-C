@@ -379,7 +379,7 @@
 <LM>w#w-d1t3267-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m129-d1t3267-3">
 <w.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-d1t3271-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m129-d1t3271-3">
 <w.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-d1t3279-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m129-d1t3279-7">
 <w.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-d1t3283-3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m129-d1e3280-x2-65">
 <w.rf>

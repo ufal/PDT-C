@@ -157,7 +157,7 @@
 <tag>
 <AM lemma="OPBH_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OPBH_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="OPBH-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OPBH_^(Obvodní_podnik_bytového_hospodářství)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-138-p2s1w11">
@@ -581,7 +581,7 @@
 <LM>w#w-ln95048-138-p2s3w18</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln95048-138-p2s3w19">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 <tag>
 <AM lemma="OPBH_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OPBH_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="OPBH-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OPBH_^(Obvodní_podnik_bytového_hospodářství)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-138-p2s7w4">

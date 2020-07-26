@@ -163,7 +163,7 @@
 <form>Jeli</form>
 <tag>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="jet-1" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m132-d1t1991-8">
@@ -675,7 +675,7 @@
 <form>mohli</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m132-d1t2024-3">
@@ -782,7 +782,7 @@
 <LM>w#w-d1t2030-5</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m132-d1t2030-6">
 <w.rf>
@@ -2266,7 +2266,7 @@
 <LM>w#w-d1t2088-6</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m132-d1t2088-3">
 <w.rf>
@@ -2443,7 +2443,7 @@
 <LM>w#w-d1t2096-1</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m132-d1t2096-2">
 <w.rf>
@@ -2800,7 +2800,7 @@
 <form>Jedla</form>
 <tag>
 <AM lemma="jíst_^(konzumovat_jídlo)" src="auto" recommended="1">VpQW---XR-AA---</AM>
-<AM lemma="jíst_^(konzumovat_jídlo)" src="manual" selected="1">VpQW----R-AAI--</AM>
+<AM lemma="jíst" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m132-d1t2107-2">
@@ -2901,7 +2901,7 @@
 <form>nejedla</form>
 <tag>
 <AM lemma="jíst_^(konzumovat_jídlo)" src="auto" recommended="1">VpQW---XR-NA---</AM>
-<AM lemma="jíst_^(konzumovat_jídlo)" src="manual" selected="1">VpQW----R-NAI--</AM>
+<AM lemma="jíst" src="manual" selected="1">VpQW----R-NAI--</AM>
 </tag>
 </m>
 <m id="m132-d1e2108-x2-30">
@@ -4059,7 +4059,7 @@
 <LM>w#w-d1t2166-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m132-d1t2166-3">
 <w.rf>
@@ -4421,7 +4421,7 @@
 <LM>w#w-d1t2178-5</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m132-d1t2178-7">
 <w.rf>
@@ -4881,7 +4881,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m132-d1t2204-3">
@@ -5189,7 +5189,7 @@
 <AM lemma="půl-1" src="auto">ClXS6----------</AM>
 <AM lemma="půl-1" src="auto">ClXS7----------</AM>
 <AM lemma="půl-2" src="auto">NNFS1-----A----</AM>
-<AM lemma="půl-2" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="půl-1" src="auto" recommended="1">Cl-XX----------</AM>
 <AM lemma="půl-3" src="auto">NNNXX-----A----</AM>
 </tag>
 </m>

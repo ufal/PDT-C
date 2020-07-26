@@ -1650,7 +1650,7 @@
 <LM>w#w-wsj0358-001-p1s3W31</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
+<tag lemma="tj_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
 </m>
 <m id="m-wsj0358-001-p1s3W32-Ta">
 <src.rf>tagger-a</src.rf>

@@ -74,7 +74,7 @@
 <LM>w#w-ln94209-106-p1s1w7</LM>
 </w.rf>
 <form>předala</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94209-106-p1s1w8">
 <src.rf>manual</src.rf>

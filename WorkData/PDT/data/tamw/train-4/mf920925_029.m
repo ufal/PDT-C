@@ -443,7 +443,7 @@
 <LM>w#w-mf920925-029-p1s3w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf920925-029-p1s3w7">
 <src.rf>manual</src.rf>

@@ -435,7 +435,7 @@
 <form>Plk</form>
 <tag>
 <AM lemma="plukovník_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="plukovník" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="plukovník" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930703-078-p3s1w2">
@@ -526,7 +526,7 @@
 <LM>w#w-mf930703-078-p3s2w10</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf930703-078-p3s2w11">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-mf930703-078-p4s1w7</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-078-p4s1w8">
 <src.rf>manual</src.rf>
@@ -920,7 +920,7 @@
 <LM>w#w-mf930703-078-p4s1w14</LM>
 </w.rf>
 <form>zasaženi</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-mf930703-078-p4s1w15">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-mf930703-078-p4s1w18</LM>
 </w.rf>
 <form>sarinem</form>
-<tag lemma="sarin_;U" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="sarin" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930703-078-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1435,7 +1435,7 @@
 <form>pplk</form>
 <tag>
 <AM lemma="podplukovník_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="podplukovník" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="podplukovník" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930703-078-p5s2w4">
@@ -1919,7 +1919,7 @@
 <LM>w#w-mf930703-078-p6s3w10</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-078-p6s3w11">
 <src.rf>manual</src.rf>

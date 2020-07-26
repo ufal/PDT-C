@@ -1360,7 +1360,7 @@
 </w.rf>
 <form>nejvíc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------3A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------3A---1</AM>
 <AM lemma="nejvíce" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -1378,7 +1378,7 @@
 <LM>w#w-d1t652-3</LM>
 </w.rf>
 <form>Nemohu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI-1</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m132-d1t652-2">
 <w.rf>
@@ -2126,7 +2126,7 @@
 <LM>w#w-d1t699-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m132-d1t699-3">
 <w.rf>
@@ -2978,7 +2978,7 @@
 <LM>w#w-d1t746-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m132-d1t746-4">
 <w.rf>
@@ -3833,7 +3833,7 @@
 </w.rf>
 <form>Karpat</form>
 <tag>
-<AM lemma="Karpaty_;G" src="auto" selected="1">NNFP2-----A----</AM>
+<AM lemma="Karpaty_;G" src="auto" selected="1">NNIP2-----A----</AM>
 <AM lemma="Karpaty_;G" src="auto">NNIP2-----A----</AM>
 <AM lemma="karpat_;U_^(geologické_období)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="karpat_;U_^(geologické_období)" src="auto">NNIS4-----A----</AM>

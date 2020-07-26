@@ -542,7 +542,7 @@
 <LM>w#w-ln95041-013-p2s4w23</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95041-013-p2s4w24">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--1----------</AM>
-<AM lemma="více" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-013-p2s4w25">
@@ -1427,7 +1427,7 @@
 <LM>w#w-ln95041-013-p2s11w2</LM>
 </w.rf>
 <form>správně</form>
-<tag lemma="správně_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95041-013-p2s11w3">
 <src.rf>manual</src.rf>
@@ -1623,7 +1623,7 @@
 <LM>w#w-ln95041-013-p2s11w26</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln95041-013-p2s11w27">
 <src.rf>manual</src.rf>
@@ -1795,7 +1795,7 @@
 <LM>w#w-ln95041-013-p3s2w1</LM>
 </w.rf>
 <form>Ukradli</form>
-<tag lemma="ukrást" src="auto" selected="1">VpMP----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln95041-013-p3s2w2">
 <src.rf>manual</src.rf>
@@ -2023,7 +2023,7 @@
 <LM>w#w-ln95041-013-p3s4w6</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-013-p3s4w7">
 <src.rf>manual</src.rf>
@@ -2111,7 +2111,7 @@
 <LM>w#w-ln95041-013-p3s4w17</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95041-013-p3s4w18">
 <src.rf>manual</src.rf>
@@ -2285,7 +2285,7 @@
 <LM>w#w-ln95041-013-p3s7w4</LM>
 </w.rf>
 <form>dopaden</form>
-<tag lemma="dopadnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="dopadnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln95041-013-p3s7w5">
 <src.rf>manual</src.rf>
@@ -2648,7 +2648,7 @@
 <LM>w#w-ln95041-013-p3s11w20</LM>
 </w.rf>
 <form>zkope</form>
-<tag lemma="zkopat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zkopat" src="orig" selected="1">VB-S---3P-AAP-1</tag>
 </m>
 <m id="m-ln95041-013-p3s11w21">
 <src.rf>manual</src.rf>
@@ -2962,7 +2962,7 @@
 <LM>w#w-ln95041-013-p3s12w25</LM>
 </w.rf>
 <form>napaden</form>
-<tag lemma="napadnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="napadnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln95041-013-p3s12w26">
 <src.rf>manual</src.rf>
@@ -2986,7 +2986,7 @@
 <LM>w#w-ln95041-013-p3s12w28</LM>
 </w.rf>
 <form>dopaden</form>
-<tag lemma="dopadnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="dopadnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln95041-013-p3s12w29">
 <src.rf>manual</src.rf>
@@ -3039,7 +3039,7 @@
 <LM>w#w-ln95041-013-p3s13w5</LM>
 </w.rf>
 <form>dopaden</form>
-<tag lemma="dopadnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="dopadnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln95041-013-p3s13w6">
 <src.rf>manual</src.rf>
@@ -3172,7 +3172,7 @@
 <LM>w#w-ln95041-013-p3s14w10</LM>
 </w.rf>
 <form>nevezme</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln95041-013-p3s14w11">
 <src.rf>manual</src.rf>
@@ -3878,7 +3878,7 @@
 <LM>w#w-ln95041-013-p4s2w3</LM>
 </w.rf>
 <form>hodno</form>
-<tag lemma="hodný-1_^(být_hoden)" src="auto" selected="1">ACNS------A----</tag>
+<tag lemma="hodný_^(být_hoden;nezlobivý)" src="auto" selected="1">ACNS------A----</tag>
 </m>
 <m id="m-ln95041-013-p4s2w4">
 <src.rf>manual</src.rf>
@@ -4089,7 +4089,7 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--4----------</AM>
-<AM lemma="více" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-013-p4s3w17">

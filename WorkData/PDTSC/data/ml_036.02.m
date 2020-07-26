@@ -14,7 +14,7 @@
 <form>Dřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------2A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------2A---5</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m036-d1t489-8">
@@ -94,7 +94,7 @@
 <tag>
 <AM lemma="snadno" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="snadně_^(*1ý)" src="auto">Dg-------2A----</AM>
-<AM lemma="snadno_^(*1ý)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="snadno" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m036-d1t491-6">
@@ -299,7 +299,7 @@
 <form>pochopitelně</form>
 <tag>
 <AM lemma="pochopitelně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="pochopitelně-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="pochopitelně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m036-d1e502-x2-245">
@@ -459,7 +459,7 @@
 </w.rf>
 <form>Fabia</form>
 <tag>
-<AM lemma="Fabia_;m_^(vozidlo)" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Fabia_;m_^(vozidlo)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Fabio_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Fabio_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Fabius_;Y" src="auto">NNMS2-----A----</AM>
@@ -475,7 +475,7 @@
 <tag>
 <AM lemma="Combi_;m_,t_^(v_názvech_např._Škoda_Octavia_Combi)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="combi_,h_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Combi_;m_^(v_názvech_např._Škoda_Octavia_Combi)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Combi_;m_^(v_názvech_např._Škoda_Octavia_Combi)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m036-d1e516-x2-254">
@@ -2920,7 +2920,7 @@
 <LM>w#w-d1t675-6</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m036-d-id75064-punct">
 <w.rf>
@@ -2962,7 +2962,7 @@
 <LM>w#w-d1t681-4</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m036-d-id75197-punct">
 <w.rf>
@@ -3261,7 +3261,7 @@
 <LM>w#w-d1t685-22</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m036-d1t685-23">
 <w.rf>
@@ -3691,7 +3691,7 @@
 <form>Pouze</form>
 <tag>
 <AM lemma="pouze" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="pouze_^(*2hý)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="pouze" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m036-d1t722-2">

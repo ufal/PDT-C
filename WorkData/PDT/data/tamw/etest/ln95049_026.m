@@ -51,7 +51,7 @@
 <LM>w#w-ln95049-026-p1s1w5</LM>
 </w.rf>
 <form>popatnácté</form>
-<tag lemma="popatnácté" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="popatnácté" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95049-026-p1s1w6">
 <src.rf>manual</src.rf>
@@ -654,7 +654,7 @@
 <LM>w#w-ln95049-026-p3s2w22</LM>
 </w.rf>
 <form>Juventusem</form>
-<tag lemma="Juventus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Juventus_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95049-026-p3s2w23">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-ln95049-026-p3s3w2</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-026-p3s3w3">
 <src.rf>manual</src.rf>
@@ -2243,7 +2243,7 @@
 <LM>w#w-ln95049-026-p4s8w13</LM>
 </w.rf>
 <form>přivezl</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="přivézt" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-026-p4s8w14">
 <src.rf>manual</src.rf>
@@ -3143,7 +3143,7 @@
 <LM>w#w-ln95049-026-p5s3w16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95049-026-p5s3w17">
 <src.rf>manual</src.rf>
@@ -4285,7 +4285,7 @@
 <LM>w#w-ln95049-026-p6s5w12</LM>
 </w.rf>
 <form>remizoval</form>
-<tag lemma="remizovat" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="remizovat_,s_^(^DD**remízovat)" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95049-026-p6s5w13">
 <src.rf>manual</src.rf>

@@ -61,7 +61,7 @@
 <form>Mezitim</form>
 <tag>
 <AM lemma="mezitím_,h" src="auto" recommended="1">Db------------6</AM>
-<AM lemma="mezitím" src="manual" selected="1">Db------------6</AM>
+<AM lemma="mezitim_,h_^(^GC**mezitím)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m714-d1t835-3">
@@ -340,7 +340,7 @@
 <LM>w#w-d1t841-2</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m714-d1t841-3">
 <w.rf>
@@ -494,7 +494,7 @@
 <form>Řikám</form>
 <tag>
 <AM lemma="říkat_,h_,x" src="auto" recommended="1">VB-S---1P-AA--6</AM>
-<AM lemma="říkat" src="manual" selected="1">VB-S---1P-AA--6</AM>
+<AM lemma="řikat_,h_^(^GC**říkat)" src="manual" selected="1">VB-S---1P-AAI--</AM>
 </tag>
 </m>
 <m id="m714-d1e24-x84-6097">
@@ -1666,7 +1666,7 @@
 <LM>w#w-d1t880-27</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m714-d-id105323">
 <w.rf>
@@ -3580,7 +3580,7 @@
 <LM>w#w-d1t926-16</LM>
 </w.rf>
 <form>dávalo</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m714-d1t926-17">
 <w.rf>
@@ -4319,7 +4319,7 @@
 <LM>w#w-d1t941-2</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m714-d1t941-5">
 <w.rf>
@@ -5317,7 +5317,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m714-d1t958-33">

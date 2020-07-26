@@ -225,7 +225,7 @@
 <LM>w#w-ln95048-077-p2s2w4</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln95048-077-p2s2w5">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-ln95048-077-p2s3w8</LM>
 </w.rf>
 <form>vydával</form>
-<tag lemma="vydávat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="vydávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-077-p2s3w9">
 <src.rf>manual</src.rf>
@@ -850,7 +850,7 @@
 <LM>w#w-ln95048-077-p2s5w17</LM>
 </w.rf>
 <form>neb</form>
-<tag lemma="nebo_,a" src="orig" selected="1">J^------------2</tag>
+<tag lemma="neb" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95048-077-p2s5w18">
 <src.rf>manual</src.rf>

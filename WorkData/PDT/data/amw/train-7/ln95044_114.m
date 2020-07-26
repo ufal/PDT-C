@@ -461,7 +461,7 @@
 <LM>w#w-ln95044-114-p2s1Bw47</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95044-114-p2s1Bw48">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-ln95044-114-p2s3w2</LM>
 </w.rf>
 <form>Tomášek</form>
-<tag lemma="Tomášek-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tomášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-114-p2s3w3">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-ln95044-114-p2s3w13</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-114-p2s3w14">
 <src.rf>manual</src.rf>

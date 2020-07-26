@@ -259,7 +259,7 @@
 <LM>w#w-vesm9212-052-p2s1w26</LM>
 </w.rf>
 <form>rozepjato</form>
-<tag lemma="rozepnout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="rozepnout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-vesm9212-052-p2s1w27">
 <src.rf>manual</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-vesm9212-052-p2s5w1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9212-052-p2s5w2">
 <src.rf>manual</src.rf>
@@ -1126,7 +1126,7 @@
 <LM>w#w-vesm9212-052-p2s5w8</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-vesm9212-052-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1134,7 +1134,7 @@
 <LM>w#w-vesm9212-052-p2s5w9</LM>
 </w.rf>
 <form>vázány</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" selected="1">VsTP----X-API--</tag>
+<tag lemma="vázat" src="auto" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-vesm9212-052-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1144,7 +1144,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-052-p2s5w11">
@@ -1705,7 +1705,7 @@
 <LM>w#w-vesm9212-052-p3s4w5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-vesm9212-052-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1774,7 +1774,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpQW---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpQW---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">VpQW----R-AAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-vesm9212-052-p4s1w3">
@@ -2008,7 +2008,7 @@
 <LM>w#w-vesm9212-052-p4s4w12</LM>
 </w.rf>
 <form>dosti</form>
-<tag lemma="dost" src="auto" selected="1">Db------------1</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A---1</tag>
 </m>
 <m id="m-vesm9212-052-p4s4w13">
 <src.rf>manual</src.rf>
@@ -2628,7 +2628,7 @@
 <LM>w#w-vesm9212-052-p5s1w16</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-vesm9212-052-p5s1w17">
 <src.rf>manual</src.rf>

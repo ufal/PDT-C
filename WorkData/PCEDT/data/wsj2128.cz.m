@@ -945,7 +945,7 @@
 <LM>w#w-wsj2128-001-p1s2W3</LM>
 </w.rf>
 <form>dávalo</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj2128-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1977,7 +1977,7 @@
 <LM>w#w-wsj2128-001-p1s5W4</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj2128-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2273,7 +2273,7 @@
 <LM>w#w-wsj2128-001-p1s6W2</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2128-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3523,7 +3523,7 @@
 <LM>w#w-wsj2128-001-p1s9W8</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj2128-001-p1s9W9-Ta">
 <src.rf>tagger-a</src.rf>

@@ -4022,7 +4022,7 @@
 <LM>w#w-wsj0681-001-p1s14W2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0681-001-p1s14W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4727,7 +4727,7 @@
 <LM>w#w-wsj0681-001-p1s16W5</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0681-001-p1s16W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5663,7 +5663,7 @@
 <LM>w#w-wsj0681-001-p1s20W2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0681-001-p1s20W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6973,7 +6973,7 @@
 <LM>w#w-wsj0681-001-p1s24W6</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0681-001-p1s24W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8920,7 +8920,7 @@
 <form>příjemně</form>
 <tag>
 <AM lemma="příjemno-1" src="auto">NNNS6-----A----</AM>
-<AM lemma="příjemně-1_^(všeob.,_poz._emoce)_(*3ý-1)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="příjemně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0681-001-p1s31W14-Ta">
@@ -12731,7 +12731,7 @@
 <LM>w#w-wsj0681-001-p1s46W4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0681-001-p1s46W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16475,7 +16475,7 @@
 <LM>w#w-wsj0681-001-p1s61W3</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0681-001-p1s61W4-Ta">
 <src.rf>tagger-a</src.rf>

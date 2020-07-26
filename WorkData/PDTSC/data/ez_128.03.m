@@ -716,7 +716,7 @@
 <LM>w#w-d1t855-7</LM>
 </w.rf>
 <form>Nesehnali</form>
-<tag lemma="sehnat" src="auto" recommended="1">VpMP----R-NAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="auto" recommended="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m128-d1t855-8">
 <w.rf>
@@ -799,7 +799,7 @@
 <LM>w#w-d1t855-16</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m128-d1t855-17">
 <w.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-d1t859-7</LM>
 </w.rf>
 <form>nesehnali</form>
-<tag lemma="sehnat" src="auto" recommended="1">VpMP----R-NAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="auto" recommended="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m128-d-id84544-punct">
 <w.rf>
@@ -1711,7 +1711,7 @@
 <LM>w#w-d1t887-2</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m128-d1t887-1">
 <w.rf>
@@ -2037,7 +2037,7 @@
 </w.rf>
 <form>zastavili</form>
 <tag>
-<AM lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="auto" recommended="1">VpMP----R-AAP--</AM>
+<AM lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="auto" recommended="1">VpMP----R-AAP--</AM>
 <AM lemma="zastavit-2_:W_^(zástavní_právo)" src="auto">VpMP---XR-AA---</AM>
 </tag>
 </m>
@@ -2078,7 +2078,7 @@
 <LM>w#w-521-544</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m128-521-540">
 <w.rf>
@@ -2583,7 +2583,7 @@
 <LM>w#w-d1t936-19</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m128-d1t936-20">
 <w.rf>
@@ -3337,7 +3337,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m128-d1t957-3">
@@ -3345,7 +3345,7 @@
 <LM>w#w-d1t957-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m128-d1t957-4">
 <w.rf>
@@ -4170,7 +4170,7 @@
 <LM>w#w-d1t1011-1</LM>
 </w.rf>
 <form>podávala</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m128-d1t1011-2">
 <w.rf>

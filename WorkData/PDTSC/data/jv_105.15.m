@@ -1223,7 +1223,7 @@
 <LM>w#w-d1t3353-6</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m105-d1t3353-3">
 <w.rf>
@@ -2212,7 +2212,7 @@
 <LM>w#w-d1t3412-7</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m105-d1t3412-4">
 <w.rf>
@@ -2339,7 +2339,7 @@
 <LM>w#w-d1t3414-5</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m105-d1t3414-6">
 <w.rf>
@@ -2636,7 +2636,7 @@
 <LM>w#w-d1t3434-9</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m105-d1t3434-11">
 <w.rf>
@@ -2799,7 +2799,7 @@
 <LM>w#w-d1t3434-20</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m105-d1t3434-22">
 <w.rf>
@@ -2883,7 +2883,7 @@
 <LM>w#w-d1t3465-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m105-d1t3465-3">
 <w.rf>
@@ -2988,7 +2988,7 @@
 <LM>w#w-d1t3476-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m105-d1t3476-7">
 <w.rf>

@@ -1043,7 +1043,7 @@
 <LM>w#w-lnd92256-117-p3s5w9</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-117-p3s5w10">
 <src.rf>manual</src.rf>

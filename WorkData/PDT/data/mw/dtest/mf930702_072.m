@@ -97,7 +97,7 @@
 <AM lemma="BMW-2_:B_;m_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="BMW-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p1s2w7">
@@ -106,7 +106,7 @@
 <LM>w#w-mf930702-072-p1s2w7</LM>
 </w.rf>
 <form>ČELNĚ</form>
-<tag lemma="čelně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="čelně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930702-072-p1s2w8">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p3s1w17">
@@ -839,7 +839,7 @@
 <AM lemma="BMW-2_:B_;m_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="BMW-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p3s1w44">
@@ -986,7 +986,7 @@
 <LM>w#w-mf930702-072-p3s1w60</LM>
 </w.rf>
 <form>čelně</form>
-<tag lemma="čelně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="čelně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930702-072-p3s1w61">
 <src.rf>manual</src.rf>
@@ -1526,7 +1526,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p4s1w27">
@@ -1545,7 +1545,7 @@
 <form>h</form>
 <tag>
 <AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p4s1w29">
@@ -1782,7 +1782,7 @@
 <LM>w#w-mf930702-072-p5s1w9</LM>
 </w.rf>
 <form>Ježíšmarjá</form>
-<tag lemma="ježíšmarjá" src="orig" selected="1">II-------------</tag>
+<tag lemma="ježíšmarjá_,e_^(^GC**ježišmarjá)" src="orig" selected="1">II-------------</tag>
 </m>
 <m id="m-mf930702-072-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2160,7 +2160,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p7s1w14">
@@ -2179,7 +2179,7 @@
 <form>h</form>
 <tag>
 <AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p7s1w16">
@@ -3335,7 +3335,7 @@
 <LM>w#w-mf930702-072-p8s6w1</LM>
 </w.rf>
 <form>Dával</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-072-p8s6w2">
 <src.rf>manual</src.rf>
@@ -3933,7 +3933,7 @@
 <LM>w#w-mf930702-072-p10s1w23</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-072-p10s1w24">
 <src.rf>manual</src.rf>
@@ -4252,7 +4252,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS7-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS7-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p11s1w22">
@@ -4359,7 +4359,7 @@
 <LM>w#w-mf930702-072-p11s2w2</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-mf930702-072-p11s2w3">
 <src.rf>manual</src.rf>
@@ -4501,7 +4501,7 @@
 <AM lemma="BMW-2_:B_;m_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="BMW-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p12s1w15">
@@ -4872,7 +4872,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p13s2w19">
@@ -4891,7 +4891,7 @@
 <form>h</form>
 <tag>
 <AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p13s2w21">
@@ -4958,7 +4958,7 @@
 <LM>w#w-mf930702-072-p14s1w6</LM>
 </w.rf>
 <form>nejdřív</form>
-<tag lemma="brzy" src="auto" selected="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" selected="1">Dg-------3A---1</tag>
 </m>
 <m id="m-mf930702-072-p14s1w7">
 <src.rf>manual</src.rf>
@@ -5038,7 +5038,7 @@
 <LM>w#w-mf930702-072-p14s1w16</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930702-072-p14s1w17">
 <src.rf>manual</src.rf>
@@ -5098,7 +5098,7 @@
 <AM lemma="BMW-2_:B_;m_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="BMW-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p14s1w24">
@@ -5145,7 +5145,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p14s2w3">
@@ -5164,7 +5164,7 @@
 <form>h</form>
 <tag>
 <AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p14s2w5">
@@ -5211,7 +5211,7 @@
 <AM lemma="BMW-2_:B_;m_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="BMW-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p14s3w5">
@@ -5490,7 +5490,7 @@
 <LM>w#w-mf930702-072-p15s1w16</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930702-072-p15s1w17">
 <src.rf>manual</src.rf>
@@ -5822,7 +5822,7 @@
 <LM>w#w-mf930702-072-p16s1w30</LM>
 </w.rf>
 <form>nemohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930702-072-p16s1w31">
 <src.rf>manual</src.rf>
@@ -5994,7 +5994,7 @@
 <LM>w#w-mf930702-072-p17s1w13</LM>
 </w.rf>
 <form>nemohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-mf930702-072-p17s1w14">
 <src.rf>manual</src.rf>
@@ -6334,7 +6334,7 @@
 <LM>w#w-mf930702-072-p18s1w4</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-072-p18s1w5">
 <src.rf>manual</src.rf>
@@ -6528,7 +6528,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p18s1w29">
@@ -6547,7 +6547,7 @@
 <form>h</form>
 <tag>
 <AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p18s1w31">
@@ -6710,7 +6710,7 @@
 <LM>w#w-mf930702-072-p19s1w17</LM>
 </w.rf>
 <form>jelo</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-072-p19s1w18">
 <src.rf>manual</src.rf>
@@ -6784,7 +6784,7 @@
 <LM>w#w-mf930702-072-p19s2w8</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-072-p19s2w9">
 <src.rf>manual</src.rf>

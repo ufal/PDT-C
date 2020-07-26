@@ -461,7 +461,7 @@
 <LM>w#w-lnd92255-032-p1s3w18</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92255-032-p1s3w19">
 <src.rf>manual</src.rf>
@@ -1118,7 +1118,7 @@
 <LM>w#w-lnd92255-032-p3s1w5</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92255-032-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1246,7 +1246,7 @@
 <LM>w#w-lnd92255-032-p3s1w21</LM>
 </w.rf>
 <form>sovětsko</form>
-<tag lemma="sovětský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="sovětsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92255-032-p3s1w22">
 <src.rf>manual</src.rf>
@@ -1555,7 +1555,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VsTP----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VsTP---XX-AP---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VsTP----X-APP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VsTP----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-lnd92255-032-p3s2w19">

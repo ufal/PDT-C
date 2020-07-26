@@ -1537,7 +1537,7 @@
 <LM>w#w-wsj0302-001-p1s4W6</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0302-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1735,7 +1735,7 @@
 <LM>w#w-wsj0302-001-p1s4W26</LM>
 </w.rf>
 <form>starostem</form>
-<tag lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="starost-2_^(*5ý-2)" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m-wsj0302-001-p1s4W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1783,7 +1783,7 @@
 <LM>w#w-wsj0302-001-p1s5W3</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0302-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>

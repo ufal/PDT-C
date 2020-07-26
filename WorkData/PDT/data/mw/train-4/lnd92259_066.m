@@ -19,7 +19,7 @@
 <LM>w#w-lnd92259-066-p1s1w1</LM>
 </w.rf>
 <form>HLEDÍTE</form>
-<tag lemma="hledět_^(dívat_se;_hledět_si_něčeho)" src="orig" selected="1">VB-P---2P-AAI--</tag>
+<tag lemma="hledět" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-lnd92259-066-p1s1w2">
 <src.rf>manual</src.rf>
@@ -228,7 +228,7 @@
 <LM>w#w-lnd92259-066-p1s2w3</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-066-p1s2w4">
 <src.rf>manual</src.rf>

@@ -2078,7 +2078,7 @@
 <LM>w#w-wsj2012-001-p1s5W5</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj2012-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2118,7 +2118,7 @@
 <LM>w#w-wsj2012-001-p1s5W10</LM>
 </w.rf>
 <form>správně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj2012-001-p1s5W11-Ta">
 <src.rf>tagger-a</src.rf>

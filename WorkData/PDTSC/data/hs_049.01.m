@@ -977,7 +977,7 @@
 <LM>w#w-d1t368-6</LM>
 </w.rf>
 <form>zakuplovat</form>
-<tag lemma="zakuplovat_,h_,l_^(zapojit_spojkou;;zaprodat_[kuplířka])" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="zakuplovat_,a_^(zapojit_spojkou;;zaprodat_[kuplířka])" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m049-d1t368-8">
 <w.rf>
@@ -2427,7 +2427,7 @@
 <LM>w#w-d1t439-8</LM>
 </w.rf>
 <form>zakuploval</form>
-<tag lemma="zakuplovat_,h_,l_^(zapojit_spojkou;;zaprodat_[kuplířka])" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="zakuplovat_,a_^(zapojit_spojkou;;zaprodat_[kuplířka])" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m049-d1t439-9">
 <w.rf>
@@ -3336,7 +3336,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>
@@ -3366,7 +3366,7 @@
 <LM>w#w-d1t481-5</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m049-d1t481-7">
 <w.rf>
@@ -4201,7 +4201,7 @@
 <LM>w#w-d1t531-11</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m049-d1t531-7">
 <w.rf>

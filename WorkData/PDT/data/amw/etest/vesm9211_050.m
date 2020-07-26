@@ -111,7 +111,7 @@
 <LM>w#w-vesm9211-050-p1s1w12</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-vesm9211-050-p1s1w13">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-vesm9211-050-p1s2w25</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-050-p1s2w26">
 <src.rf>manual</src.rf>

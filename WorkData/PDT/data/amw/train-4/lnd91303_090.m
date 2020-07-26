@@ -1472,7 +1472,7 @@
 <LM>w#w-lnd91303-090-p7s1w10</LM>
 </w.rf>
 <form>nepojedou</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-P---3F-NAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-P---3F-NAI--</tag>
 </m>
 <m id="m-lnd91303-090-p7s1w11">
 <src.rf>manual</src.rf>

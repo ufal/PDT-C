@@ -266,7 +266,7 @@
 <LM>w#w-wsj2078-001-p1s0W14</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj2078-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1468,7 +1468,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_;U_^(lidský_virus_způsobující_AIDS)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HIV_;U_^(lidský_virus_způsobujícíIDS)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Hiva_;G" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -2461,7 +2461,7 @@
 <LM>w#w-wsj2078-001-p1s8W7</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj2078-001-p1s8W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2845,7 +2845,7 @@
 <LM>w#w-wsj2078-001-p1s9W13</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj2078-001-p1s9W14-Ta">
 <src.rf>tagger-a</src.rf>

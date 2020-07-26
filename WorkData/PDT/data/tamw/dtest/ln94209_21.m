@@ -226,7 +226,7 @@
 <LM>w#w-ln94209-21-p2s1Cw10</LM>
 </w.rf>
 <form>kandidátkách</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln94209-21-p2s1Cw11">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 <LM>w#w-ln94209-21-p2s2w10</LM>
 </w.rf>
 <form>kandidátek</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94209-21-p2s2w11">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-21-p2s2w16">
@@ -624,7 +624,7 @@
 <LM>w#w-ln94209-21-p2s2w27</LM>
 </w.rf>
 <form>Štěpánovou</form>
-<tag lemma="Štěpánův_;Y_^(*2)" src="auto" selected="1">AUFS7M---------</tag>
+<tag lemma="Štěpánův-1_;Y_^(*4-1)" src="auto" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-ln94209-21-p2s2w28">
 <src.rf>manual</src.rf>
@@ -632,7 +632,7 @@
 <LM>w#w-ln94209-21-p2s2w28</LM>
 </w.rf>
 <form>stranou</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94209-21-p2s2w29">
 <src.rf>manual</src.rf>

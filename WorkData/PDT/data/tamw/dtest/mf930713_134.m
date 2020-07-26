@@ -683,7 +683,7 @@
 <LM>w#w-mf930713-134-p3s2w4</LM>
 </w.rf>
 <form>nechají</form>
-<tag lemma="nechat" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930713-134-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1597,7 +1597,7 @@
 <LM>w#w-mf930713-134-p4s4w20</LM>
 </w.rf>
 <form>vydělala</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-134-p4s4w21">
 <src.rf>manual</src.rf>
@@ -1875,7 +1875,7 @@
 <LM>w#w-mf930713-134-p5s1w3</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930713-134-p5s1w4">
 <src.rf>manual</src.rf>
@@ -2289,7 +2289,7 @@
 <form>ha</form>
 <tag>
 <AM lemma="ha-1`hektar_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-134-p5s4w16">
@@ -2370,7 +2370,7 @@
 <LM>w#w-mf930713-134-p5s4w25</LM>
 </w.rf>
 <form>nedával</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930713-134-p5s4w26">
 <src.rf>manual</src.rf>
@@ -2467,7 +2467,7 @@
 <form>zatřepe</form>
 <tag>
 <AM lemma="zatřepat" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="zatřepat" src="manual" selected="1">VB-S---3P-AAP--</AM>
+<AM lemma="zatřepat" src="manual" selected="1">VB-S---3P-AAP-1</AM>
 </tag>
 </m>
 <m id="m-mf930713-134-p5s6w4">
@@ -2661,7 +2661,7 @@
 <LM>w#w-mf930713-134-p6s1w1</LM>
 </w.rf>
 <form>Cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-134-p6s1w2">
 <src.rf>manual</src.rf>
@@ -2716,7 +2716,7 @@
 <form>Např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-mf930713-134-p6s2w2">
@@ -3100,7 +3100,7 @@
 <form>ha</form>
 <tag>
 <AM lemma="ha-1`hektar_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-134-p6s7w9">
@@ -3454,7 +3454,7 @@
 <form>říci</form>
 <tag>
 <AM lemma="říci" src="auto">Vf--------A---1</AM>
-<AM lemma="říci" src="manual" selected="1">Vf--------A-P-1</AM>
+<AM lemma="říci" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-mf930713-134-p7s1w4">
@@ -3738,7 +3738,7 @@
 <form>ha</form>
 <tag>
 <AM lemma="ha-1`hektar_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-134-p7s4w6">
@@ -4142,7 +4142,7 @@
 <form>Např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-mf930713-134-p7s8w2">
@@ -4236,7 +4236,7 @@
 <form>ha</form>
 <tag>
 <AM lemma="ha-1`hektar_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-134-p7s8w13">
@@ -4293,7 +4293,7 @@
 <LM>w#w-mf930713-134-p7s8w19</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930713-134-p7s8w20">
 <src.rf>manual</src.rf>

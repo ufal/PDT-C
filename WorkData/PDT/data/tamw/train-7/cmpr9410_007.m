@@ -239,7 +239,7 @@
 <LM>w#w-cmpr9410-007-p4s1w21</LM>
 </w.rf>
 <form>vydáváni</form>
-<tag lemma="vydávat-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*6at-2)" src="orig" selected="1">VsMP----X-API--</tag>
+<tag lemma="vydávat_^(*4at)" src="orig" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-cmpr9410-007-p4s1w22">
 <src.rf>manual</src.rf>

@@ -317,7 +317,7 @@
 <LM>w#w-wsj1268-001-p1s0W24</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1268-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-wsj1268-001-p1s1W25</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1268-001-p1s1W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2444,7 +2444,7 @@
 <LM>w#w-wsj1268-001-p1s7W47</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1268-001-p1s7W48-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3147,7 +3147,7 @@
 <LM>w#w-wsj1268-001-p1s10W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj1268-001-p1s10W2-Ta">
 <src.rf>tagger-a</src.rf>

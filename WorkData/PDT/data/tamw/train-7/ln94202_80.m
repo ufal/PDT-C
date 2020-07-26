@@ -1071,7 +1071,7 @@
 <LM>w#w-ln94202-80-p3s3w8</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94202-80-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1382,7 +1382,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-80-p3s4w25">
@@ -1548,7 +1548,7 @@
 <LM>w#w-ln94202-80-p3s5w16</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94202-80-p3s5w17">
 <src.rf>manual</src.rf>
@@ -1564,7 +1564,7 @@
 <LM>w#w-ln94202-80-p3s5w18</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94202-80-p3s5w19">
 <src.rf>manual</src.rf>
@@ -1832,7 +1832,7 @@
 <LM>w#w-ln94202-80-p4s1w7</LM>
 </w.rf>
 <form>pojaty</form>
-<tag lemma="pojmout" src="orig" selected="1">VsTP----X-AP---</tag>
+<tag lemma="pojmout" src="orig" selected="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-ln94202-80-p4s1w8">
 <src.rf>manual</src.rf>
@@ -2795,7 +2795,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94202-80-p5s4w3">

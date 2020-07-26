@@ -1403,7 +1403,7 @@
 <LM>w#w-wsj1766-001-p1s3W6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1766-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2488,7 +2488,7 @@
 <LM>w#w-wsj1766-001-p1s5W31</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1766-001-p1s5W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8754,7 +8754,7 @@
 <LM>w#w-wsj1766-001-p1s24W25</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1766-001-p1s24W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9270,7 +9270,7 @@
 <LM>w#w-wsj1766-001-p1s26W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1766-001-p1s26W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10244,7 +10244,7 @@
 <LM>w#w-wsj1766-001-p1s30W3</LM>
 </w.rf>
 <form>nechaly</form>
-<tag lemma="nechat" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1766-001-p1s30W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10755,7 +10755,7 @@
 <LM>w#w-wsj1766-001-p1s32W11</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1766-001-p1s32W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11361,7 +11361,7 @@
 <LM>w#w-wsj1766-001-p1s33W35</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1766-001-p1s33W36-Ta">
 <src.rf>tagger-a</src.rf>

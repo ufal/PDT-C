@@ -438,7 +438,7 @@
 <LM>w#w-ln95046-105-p2s2w18</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95046-105-p2s2w19">
 <src.rf>manual</src.rf>

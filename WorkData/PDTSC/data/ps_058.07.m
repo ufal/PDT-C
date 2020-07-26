@@ -2221,7 +2221,7 @@
 <LM>w#w-d1t3348-4</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m058-d1t3348-6">
 <w.rf>
@@ -3295,7 +3295,7 @@
 <LM>w#w-d1t3431-7</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m058-d1t3431-8">
 <w.rf>
@@ -3403,7 +3403,7 @@
 <LM>w#w-d1t3431-20</LM>
 </w.rf>
 <form>můžou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m058-d1t3431-21">
 <w.rf>
@@ -3670,7 +3670,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -5564,7 +5564,7 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="WC_^(záchod)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="WC_^(water_closet)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m058-246-248">
@@ -5883,7 +5883,7 @@
 <LM>w#w-d1t3620-5</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m058-d1t3620-6">
 <w.rf>

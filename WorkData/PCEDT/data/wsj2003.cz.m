@@ -431,7 +431,7 @@
 <LM>w#w-wsj2003-001-p1s1W5</LM>
 </w.rf>
 <form>spořitelna</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj2003-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -951,7 +951,7 @@
 <LM>w#w-wsj2003-001-p1s3W1</LM>
 </w.rf>
 <form>Spořitelna</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj2003-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1967,7 +1967,7 @@
 <LM>w#w-wsj2003-001-p1s6W5</LM>
 </w.rf>
 <form>spořitelna</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj2003-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2496,7 +2496,7 @@
 <LM>w#w-wsj2003-001-p1s6W46</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2003-001-p1s6W47-Ta">
 <src.rf>tagger-a</src.rf>

@@ -372,7 +372,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930713-031-p2s2w10">
@@ -452,7 +452,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-031-p2s3w9">
@@ -567,7 +567,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930713-031-p2s3w23">
@@ -702,7 +702,7 @@
 <form>Niz</form>
 <tag>
 <AM lemma="Nizozemí_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Nizozemí_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Nizozemí_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-031-p2s7w4">
@@ -755,7 +755,7 @@
 <form>Belg</form>
 <tag>
 <AM lemma="Belg_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-031-p2s14w4">

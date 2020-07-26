@@ -2108,7 +2108,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="ovšem-2" src="manual" selected="1">J^-------------</AM>
+<AM lemma="ovšem" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0119-001-p1s4W35-Ta">
@@ -4045,7 +4045,7 @@
 <LM>w#w-wsj0119-001-p1s11W15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0119-001-p1s11W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4159,7 +4159,7 @@
 <LM>w#w-wsj0119-001-p1s11W24</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0119-001-p1s11W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4881,7 +4881,7 @@
 <LM>w#w-wsj0119-001-p1s13W37</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0119-001-p1s13W38-Ta">
 <src.rf>tagger-a</src.rf>

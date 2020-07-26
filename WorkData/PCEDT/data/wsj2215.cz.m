@@ -207,7 +207,7 @@
 <LM>w#w-wsj2215-001-p1s1W14</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2215-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>

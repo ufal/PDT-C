@@ -1685,7 +1685,7 @@
 <LM>w#w-wsj2242-001-p1s5W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj2242-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>

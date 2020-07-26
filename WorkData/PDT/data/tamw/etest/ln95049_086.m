@@ -142,7 +142,7 @@
 <LM>w#w-ln95049-086-p2s1w12</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95049-086-p2s1w13">
 <src.rf>manual</src.rf>
@@ -1218,7 +1218,7 @@
 <LM>w#w-ln95049-086-p3s1w11</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln95049-086-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1485,7 +1485,7 @@
 <LM>w#w-ln95049-086-p3s3w1</LM>
 </w.rf>
 <form>Neméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2N----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2N----</tag>
 </m>
 <m id="m-ln95049-086-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1705,7 +1705,7 @@
 <LM>w#w-ln95049-086-p3s5w1</LM>
 </w.rf>
 <form>Nechme</form>
-<tag lemma="nechat" src="orig" selected="1">Vi-P---1--A----</tag>
+<tag lemma="nechat" src="orig" selected="1">Vi-P---1--A-P-1</tag>
 </m>
 <m id="m-ln95049-086-p3s5w2">
 <src.rf>manual</src.rf>

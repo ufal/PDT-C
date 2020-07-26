@@ -27,7 +27,7 @@
 <LM>w#w-lnd92253-014-p1s1w2</LM>
 </w.rf>
 <form>SPOŘITELNA</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92253-014-p2s1">
@@ -73,7 +73,7 @@
 </w.rf>
 <form>tk</form>
 <tag>
-<AM lemma="tk-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="tk-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="tknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 </tag>
 </m>
@@ -710,7 +710,7 @@
 <LM>w#w-lnd92253-014-p3s5w2</LM>
 </w.rf>
 <form>spořitelna</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-014-p3s5w3">
 <src.rf>manual</src.rf>

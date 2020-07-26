@@ -35,7 +35,7 @@
 <LM>w#w-mf930709-100-p1s1w3</LM>
 </w.rf>
 <form>pojedou</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-P---3F-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-mf930709-100-p1s1w4">
 <src.rf>manual</src.rf>
@@ -78,7 +78,7 @@
 </w.rf>
 <form>vit</form>
 <tag>
-<AM lemma="vit-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="vit-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="vít" src="auto" recommended="1">VsYS----X-API--</AM>
 </tag>
 </m>
@@ -189,7 +189,7 @@
 <LM>w#w-mf930709-100-p2s1Bw11</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf930709-100-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <form>TJ</form>
 <tag>
 <AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-2_;m_^(tělovýchovná_jednota)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TJ_;m_^(tělovýchovná_jednota)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-100-p2s2w6">
@@ -388,7 +388,7 @@
 <LM>w#w-mf930709-100-p2s2w8</LM>
 </w.rf>
 <form>Aleš</form>
-<tag lemma="Aleš-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Aleš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-100-p2s2w9">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-mf930709-100-p2s5w9</LM>
 </w.rf>
 <form>Chaber</form>
-<tag lemma="Chabry_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Chabry_;G" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-mf930709-100-p2s5w10">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-100-p2s6w7">
@@ -967,7 +967,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-100-p2s6w20">
@@ -1034,7 +1034,7 @@
 <LM>w#w-mf930709-100-p2s7w3</LM>
 </w.rf>
 <form>pojede</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3F-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf930709-100-p2s7w4">
 <src.rf>manual</src.rf>

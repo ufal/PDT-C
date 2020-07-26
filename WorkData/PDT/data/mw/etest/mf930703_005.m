@@ -654,7 +654,7 @@
 <LM>w#w-mf930703-005-p2s4w25</LM>
 </w.rf>
 <form>intenzivně</form>
-<tag lemma="intenzivně_^(*4ívní)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="intenzivně_^(^DD**intenzívně)_(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930703-005-p2s4w26">
 <src.rf>manual</src.rf>

@@ -1004,7 +1004,7 @@
 <LM>w#w-wsj1882-001-p1s2W21</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1882-001-p1s2W22-Ta">
 <src.rf>tagger-a</src.rf>

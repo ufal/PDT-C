@@ -309,7 +309,7 @@
 <LM>w#w-lnd92252-011-p2s1w29</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="orig" selected="1">PP-P7--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P7--1-------</tag>
 </m>
 <m id="m-lnd92252-011-p2s1w30">
 <src.rf>manual</src.rf>
@@ -1048,7 +1048,7 @@
 <tag>
 <AM lemma="spíše" src="orig">Dg-------3A----</AM>
 <AM lemma="nejspíš" src="auto">TT-------------</AM>
-<AM lemma="spíš" src="auto" recommended="1" selected="1">Dg-------3A----</AM>
+<AM lemma="nejspíš" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-011-p4s1w14">
@@ -1383,7 +1383,7 @@
 <LM>w#w-lnd92252-011-p4s2w22</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd92252-011-p4s2w23">
 <src.rf>manual</src.rf>
@@ -1839,7 +1839,7 @@
 <LM>w#w-lnd92252-011-p4s4w23</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-011-p4s4w24">
 <src.rf>manual</src.rf>

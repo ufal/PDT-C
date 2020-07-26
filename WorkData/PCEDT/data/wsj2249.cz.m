@@ -1286,7 +1286,7 @@
 <LM>w#w-wsj2249-001-p1s4W7</LM>
 </w.rf>
 <form>datem</form>
-<tag lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS7-----A----</tag>
 </m>
 <m id="m-wsj2249-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>

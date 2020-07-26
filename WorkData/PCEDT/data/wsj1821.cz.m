@@ -261,7 +261,7 @@
 <LM>w#w-wsj1821-001-p1s0W21</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj1821-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-wsj1821-001-p1s2W8</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1821-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>

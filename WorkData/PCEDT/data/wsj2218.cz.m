@@ -976,7 +976,7 @@
 <LM>w#w-wsj2218-001-p1s2W5</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2218-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2818,7 +2818,7 @@
 <LM>w#w-wsj2218-001-p1s9W7</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj2218-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>

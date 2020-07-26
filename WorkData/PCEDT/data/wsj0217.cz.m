@@ -262,7 +262,7 @@
 <LM>w#w-wsj0217-001-p1s0W20</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0217-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>

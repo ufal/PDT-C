@@ -241,7 +241,7 @@
 <LM>w#w-ln94210-89-p2s3w1</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="EU-1_;m_^(Evropská_Unie)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94210-89-p2s3w2">
 <src.rf>manual</src.rf>

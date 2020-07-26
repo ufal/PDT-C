@@ -180,7 +180,7 @@
 <LM>w#w-mf920922-121-p2s2Aw1</LM>
 </w.rf>
 <form>Vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920922-121-p2s2Aw2">
 <src.rf>manual</src.rf>
@@ -982,7 +982,7 @@
 <LM>w#w-mf920922-121-p2s6w12</LM>
 </w.rf>
 <form>odejel</form>
-<tag lemma="odejet" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="odejet_,s_^(^DD**odjet)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-121-p2s6w13">
 <src.rf>manual</src.rf>
@@ -1926,7 +1926,7 @@
 <LM>w#w-mf920922-121-p2s12w1</LM>
 </w.rf>
 <form>Může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-121-p2s12w2">
 <src.rf>manual</src.rf>
@@ -2064,7 +2064,7 @@
 <LM>w#w-mf920922-121-p2s13w3</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-121-p2s13w4">
 <src.rf>manual</src.rf>
@@ -2385,7 +2385,7 @@
 <LM>w#w-mf920922-121-p2s16w11</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-121-p2s16w12">
 <src.rf>manual</src.rf>
@@ -2393,7 +2393,7 @@
 <LM>w#w-mf920922-121-p2s16w12</LM>
 </w.rf>
 <form>převážit</form>
-<tag lemma="převážit-2_^(dostat_[se]_navrch)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="převážit_^(znovu_zvážit;dostat_[se]_navrch)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920922-121-p2s16w13">
 <src.rf>manual</src.rf>

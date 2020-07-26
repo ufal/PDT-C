@@ -790,7 +790,7 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0775-001-p1s3W8-Ta">
@@ -1152,7 +1152,7 @@
 <LM>w#w-wsj0775-001-p1s4W12</LM>
 </w.rf>
 <form>zasaženo</form>
-<tag lemma="zasáhnout" src="auto" recommended="1">VsNS----X-APP--</tag>
+<tag lemma="zasáhnout" src="auto" recommended="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-wsj0775-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2885,7 +2885,7 @@
 <AM lemma="čas_:B_^(př._t._č.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="český_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="číslo_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0775-001-p1s9W14-Ta">

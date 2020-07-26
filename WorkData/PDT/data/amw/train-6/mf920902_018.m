@@ -105,7 +105,7 @@
 <form>ČOI</form>
 <tag>
 <AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČOI_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-018-p2s1Bw7">
@@ -304,7 +304,7 @@
 <form>ČOI</form>
 <tag>
 <AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČOI_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-018-p2s2w7">
@@ -464,7 +464,7 @@
 <LM>w#w-mf920902-018-p2s3w16</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920902-018-p2s3w17">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-mf920902-018-p2s4w4</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920902-018-p2s4w5">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <form>ČOI</form>
 <tag>
 <AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČOI_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-018-p2s5w3">

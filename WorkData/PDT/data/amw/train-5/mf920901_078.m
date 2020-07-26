@@ -64,7 +64,7 @@
 <LM>w#w-mf920901-078-p2s1w3</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ouš-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-078-p2s1w4">
 <src.rf>manual</src.rf>

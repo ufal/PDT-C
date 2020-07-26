@@ -1332,7 +1332,7 @@
 <form>mercedesů</form>
 <tag>
 <AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
+<AM lemma="mercedes_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-063-p2s8w7">
@@ -1653,7 +1653,7 @@
 <form>BMW</form>
 <tag>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="auto">NNNXX-----A----</AM>
-<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-063-p2s9w23">

@@ -2312,7 +2312,7 @@
 <LM>w#w-d1t620-1</LM>
 </w.rf>
 <form>Můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m016-d1t620-2">
 <w.rf>
@@ -3630,7 +3630,7 @@
 <LM>w#w-d1t702-9</LM>
 </w.rf>
 <form>vánocům</form>
-<tag lemma="vánoce_^(^DS**Vánoce)" src="auto" recommended="1">NNIP3-----A----</tag>
+<tag lemma="vánoce_,i_^(^DS**Vánoce)" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m016-d1t704-1">
 <w.rf>
@@ -4024,7 +4024,7 @@
 <AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
-<AM lemma="volt" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="volt" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m016-d-m-d1e743-x2-punct-punct">
@@ -4567,7 +4567,7 @@
 <LM>w#w-d1t797-10</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m016-d1t799-1">
 <w.rf>
@@ -4585,7 +4585,7 @@
 <LM>w#w-d1t799-2</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m016-d1t799-3">
 <w.rf>
@@ -5474,7 +5474,7 @@
 <LM>w#w-d1t881-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="zač" src="auto" recommended="1">PY-------------</tag>
+<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m016-d-id78505-punct">
 <w.rf>

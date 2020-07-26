@@ -734,7 +734,7 @@
 <LM>w#w-mf930702-120-p2s6w3</LM>
 </w.rf>
 <form>izraelsko</form>
-<tag lemma="izraelský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="izraelsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930702-120-p2s6w4">
 <src.rf>manual</src.rf>

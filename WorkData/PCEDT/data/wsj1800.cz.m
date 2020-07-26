@@ -1624,7 +1624,7 @@
 <form>americko</form>
 <tag>
 <AM lemma="americký" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="americko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="americko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1800-001-p1s3W14-Ta">
@@ -1708,7 +1708,7 @@
 <LM>w#w-wsj1800-001-p1s3W20</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1800-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1783,7 +1783,7 @@
 <LM>w#w-wsj1800-001-p1s4W1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1800-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2016,7 +2016,7 @@
 <LM>w#w-wsj1800-001-p1s4W21</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1800-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3707,7 +3707,7 @@
 <LM>w#w-wsj1800-001-p1s8W26</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1800-001-p1s8W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4702,7 +4702,7 @@
 <form>lobbovali</form>
 <tag>
 <AM lemma="lobbovat" src="auto" recommended="1">VpMP----R-AAI--</AM>
-<AM lemma="lobbovat_,s_^(^DD**lobovat)" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="lobbovat" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-wsj1800-001-p1s12W5-Ta">
@@ -5203,7 +5203,7 @@
 <LM>w#w-wsj1800-001-p1s14W1</LM>
 </w.rf>
 <form>Méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1800-001-p1s14W2-Ta">
 <src.rf>tagger-a</src.rf>

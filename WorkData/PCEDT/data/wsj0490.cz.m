@@ -378,7 +378,7 @@
 <LM>w#w-wsj0490-001-p1s1W12</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0490-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1742,7 +1742,7 @@
 <LM>w#w-wsj0490-001-p1s5W4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0490-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2971,7 +2971,7 @@
 <LM>w#w-wsj0490-001-p1s10W26</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0490-001-p1s10W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4306,7 +4306,7 @@
 <LM>w#w-wsj0490-001-p1s15W11</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0490-001-p1s15W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4854,7 +4854,7 @@
 <LM>w#w-wsj0490-001-p1s16W25</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0490-001-p1s16W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6741,7 +6741,7 @@
 <LM>w#w-wsj0490-001-p1s23W5</LM>
 </w.rf>
 <form>zatčeni</form>
-<tag lemma="zatknout" src="auto" recommended="1">VsMP----X-APP--</tag>
+<tag lemma="zatknout" src="auto" recommended="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-wsj0490-001-p1s23W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7333,7 +7333,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -9036,7 +9036,7 @@
 <LM>w#w-wsj0490-001-p1s32W12</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0490-001-p1s32W13-Ta">
 <src.rf>tagger-a</src.rf>

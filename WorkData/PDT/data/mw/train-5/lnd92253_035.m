@@ -75,7 +75,7 @@
 <LM>w#w-lnd92253-035-p1s1w8</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-035-p1s1w9">
 <src.rf>manual</src.rf>

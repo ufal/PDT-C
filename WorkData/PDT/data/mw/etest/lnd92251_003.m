@@ -224,7 +224,7 @@
 <LM>w#w-lnd92251-003-p1s1w25</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-003-p1s1w26">
 <src.rf>manual</src.rf>

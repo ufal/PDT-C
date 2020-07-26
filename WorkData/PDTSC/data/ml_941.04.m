@@ -344,7 +344,7 @@
 <form>NSDAP</form>
 <tag>
 <AM lemma="NSDAP-1_:B_;m_,t_^(Nationalsoz._Deutsche_Arbeiterpartei)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="NSDAP-1_;m_^(Nationalsoz._Deutsche_Arbeiterpartei)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NSDAP_;m_^(Nationalsoz.eutscherbeiterpartei)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m941-d1e1735-x4-700">
@@ -513,7 +513,7 @@
 <LM>w#w-d1t1768-5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m941-d1t1768-6">
 <w.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-d1t1802-5</LM>
 </w.rf>
 <form>bála</form>
-<tag lemma="bát" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m941-d1t1802-6">
 <w.rf>
@@ -1412,7 +1412,7 @@
 <LM>w#w-d1t1833-2</LM>
 </w.rf>
 <form>bála</form>
-<tag lemma="bát" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m941-d1t1833-3">
 <w.rf>
@@ -1972,7 +1972,7 @@
 <LM>w#w-d1t1863-1</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m941-d1t1863-6">
 <w.rf>
@@ -2174,7 +2174,7 @@
 <LM>w#w-d1t1878-4</LM>
 </w.rf>
 <form>bála</form>
-<tag lemma="bát" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m941-d1t1878-5">
 <w.rf>

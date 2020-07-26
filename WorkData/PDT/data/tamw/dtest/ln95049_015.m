@@ -266,7 +266,7 @@
 <LM>w#w-ln95049-015-p2s2w5</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-015-p2s2w6">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-ln95049-015-p2s5w8</LM>
 </w.rf>
 <form>rajonech</form>
-<tag lemma="rajón" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="rajon_,s_^(^DD**rajón)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95049-015-p2s5w9">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 <form>šůroval</form>
 <tag>
 <AM lemma="šůrovat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="šúrovat" src="auto" recommended="1" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="šůrovat_,s_^(^DD**šúrovat)" src="auto" recommended="1" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95049-015-p2s5w11">
@@ -1275,7 +1275,7 @@
 <form>kap</form>
 <tag>
 <AM lemma="kapitola_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kapitola" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="kapitola" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95049-015-p3s2w5">
@@ -1364,7 +1364,7 @@
 <form>odst</form>
 <tag>
 <AM lemma="odstavec_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="odstavec" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="odstavec" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95049-015-p3s2w15">

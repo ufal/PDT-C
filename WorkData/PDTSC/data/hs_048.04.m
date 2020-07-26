@@ -425,7 +425,7 @@
 <LM>w#w-d1t1170-11</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-d1t1170-12">
 <w.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-d1t1190-3</LM>
 </w.rf>
 <form>kouše</form>
-<tag lemma="kousat" src="auto" recommended="1">VB-S---3P-AA---</tag>
+<tag lemma="kousat" src="auto" recommended="1">VB-S---3P-AAI-1</tag>
 </m>
 <m id="m048-423-445">
 <w.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-d1t1192-4</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-d1t1192-2">
 <w.rf>
@@ -869,7 +869,7 @@
 <LM>w#w-d1t1192-8</LM>
 </w.rf>
 <form>Dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m048-d1t1192-10">
 <w.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-d1t1203-10</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-d1t1203-11">
 <w.rf>
@@ -1932,7 +1932,7 @@
 <LM>w#w-d1t1264-22</LM>
 </w.rf>
 <form>Vzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m048-d1t1264-20">
 <w.rf>
@@ -3746,7 +3746,7 @@
 <LM>w#w-d1t1344-6</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m048-d1t1344-7">
 <w.rf>
@@ -3918,7 +3918,7 @@
 <LM>w#w-d1t1352-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m048-d-id98067-punct">
 <w.rf>
@@ -4304,14 +4304,14 @@
 <LM>w#w-d1t1373-1</LM>
 </w.rf>
 <form>Jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m048-d1t1373-2">
 <w.rf>
 <LM>w#w-d1t1373-2</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m048-d1t1373-4">
 <w.rf>
@@ -4346,7 +4346,7 @@
 <LM>w#w-d1t1375-2</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-d1t1375-4">
 <w.rf>
@@ -4405,7 +4405,7 @@
 <LM>w#w-d1t1377-2</LM>
 </w.rf>
 <form>nemocech</form>
-<tag lemma="nemoc_^(choroba)" src="auto" recommended="1">NNFP6-----A---1</tag>
+<tag lemma="nemoc" src="auto" recommended="1">NNFP6-----A---1</tag>
 </m>
 <m id="m048-62-63">
 <w.rf>
@@ -4501,7 +4501,7 @@
 <LM>w#w-d1t1379-1</LM>
 </w.rf>
 <form>necháme</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m048-d1t1379-2">
 <w.rf>
@@ -4691,7 +4691,7 @@
 </w.rf>
 <form>myslíte</form>
 <tag>
-<AM lemma="myslet" src="auto" selected="1">VB-P---2P-AAI--</AM>
+<AM lemma="myslit" src="auto" selected="1">VB-P---2P-AAI--</AM>
 <AM lemma="myslit" src="auto" recommended="1">VB-P---2P-AAI--</AM>
 </tag>
 </m>
@@ -5042,14 +5042,14 @@
 <LM>w#w-d1t1407-6</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-d1t1407-8">
 <w.rf>
 <LM>w#w-d1t1407-8</LM>
 </w.rf>
 <form>jedou</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m048-d1t1407-9">
 <w.rf>

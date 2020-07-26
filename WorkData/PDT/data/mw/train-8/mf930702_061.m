@@ -205,7 +205,7 @@
 <LM>w#w-mf930702-061-p2s1w18</LM>
 </w.rf>
 <form>zasaženi</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-mf930702-061-p2s1w19">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-mf930702-061-p2s2w1</LM>
 </w.rf>
 <form>sarinem</form>
-<tag lemma="sarin_;U" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="sarin" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930702-061-p2s2w2">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-061-p4s1w17">
@@ -1496,7 +1496,7 @@
 <LM>w#w-mf930702-061-p6s1w4</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf930702-061-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1691,7 +1691,7 @@
 <LM>w#w-mf930702-061-p6s1w28</LM>
 </w.rf>
 <form>uraniem</form>
-<tag lemma="uranium_;U" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="uranium" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930702-061-p6s1w29">
 <src.rf>manual</src.rf>

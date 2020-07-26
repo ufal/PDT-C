@@ -253,7 +253,7 @@
 <LM>w#w-mf930701-166-p2s1w21</LM>
 </w.rf>
 <form>východně</form>
-<tag lemma="východně_,s_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="východně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930701-166-p2s1w22">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-166-p2s4w2">

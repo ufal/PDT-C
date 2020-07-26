@@ -932,7 +932,7 @@
 <LM>w#w-wsj0527-001-p1s2W5</LM>
 </w.rf>
 <form>spořitelna</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0527-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1638,7 +1638,7 @@
 <LM>w#w-wsj0527-001-p1s4W1</LM>
 </w.rf>
 <form>Spořitelna</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1" selected="1">NNFS1-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0527-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>

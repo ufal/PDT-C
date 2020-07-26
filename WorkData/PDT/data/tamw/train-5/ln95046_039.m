@@ -227,7 +227,7 @@
 <form>WTA</form>
 <tag>
 <AM lemma="WTA-1_:B_;m_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="WTA-1_;m_^(Women's_Tennis_Association)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="WTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-039-p2s1Bw19">
@@ -348,7 +348,7 @@
 <LM>w#w-ln95046-039-p2s1Bw33</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95046-039-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-ln95046-039-p2s5w16</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95046-039-p2s5w17">
 <src.rf>manual</src.rf>

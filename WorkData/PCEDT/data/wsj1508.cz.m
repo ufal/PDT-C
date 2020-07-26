@@ -1738,7 +1738,7 @@
 <LM>w#w-wsj1508-001-p1s4W14</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1508-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>

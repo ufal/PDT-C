@@ -43,7 +43,7 @@
 <LM>w#w-mf930703-124-p1s1w4</LM>
 </w.rf>
 <form>skáčou</form>
-<tag lemma="skákat" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="skákat" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf930703-124-p1s1w5">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-mf930703-124-p1s1w19</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-124-p1s1w20">
 <src.rf>manual</src.rf>

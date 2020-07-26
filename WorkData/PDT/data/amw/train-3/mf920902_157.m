@@ -456,7 +456,7 @@
 <LM>w#w-mf920902-157-p4s3w20</LM>
 </w.rf>
 <form>neodvážilo</form>
-<tag lemma="odvážit-2_^([se];_mít_odvahu)" src="orig" selected="1">VpNS----R-NAP--</tag>
+<tag lemma="odvážit_^(na_váze;[se]_mít_odvahu)" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf920902-157-p4s3w21">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-mf920902-157-p4s5w4</LM>
 </w.rf>
 <form>vyňaty</form>
-<tag lemma="vyjmout" src="orig" selected="1">VsTP----X-AP---</tag>
+<tag lemma="vyjmout" src="orig" selected="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-mf920902-157-p4s5w5">
 <src.rf>manual</src.rf>
@@ -790,7 +790,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920902-157-p4s5w19">
@@ -807,7 +807,7 @@
 <LM>w#w-mf920902-157-p4s5w20</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920902-157-p4s5w21">
 <src.rf>manual</src.rf>

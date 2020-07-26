@@ -87,7 +87,7 @@
 <form>pasívně</form>
 <tag>
 <AM lemma="pasívně_^(*1í)" src="orig">Dg-------1A----</AM>
-<AM lemma="pasívně_,s_^(^DD**pasivně)_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="pasívně_^(^DD**pasivně)_(*1í)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-042-p2s1w8">
@@ -418,7 +418,7 @@
 <LM>w#w-mf920924-042-p2s6w5</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-mf920924-042-p2s6w6">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-mf920924-042-p2s8w7</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920924-042-p2s8w8">
 <src.rf>manual</src.rf>

@@ -186,7 +186,7 @@
 <form>lavičkách</form>
 <tag>
 <AM lemma="lavička-2" src="auto">NNFP6-----A----</AM>
-<AM lemma="lavička" src="manual" selected="1">NNFP6-----A----</AM>
+<AM lemma="lavička-2" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-80-p1s2w3">

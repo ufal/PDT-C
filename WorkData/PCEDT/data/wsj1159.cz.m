@@ -328,7 +328,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1159-001-p1s1W7-Ta">
@@ -375,7 +375,7 @@
 <LM>w#w-wsj1159-001-p1s1W11</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1159-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4113,7 +4113,7 @@
 <form>Jr</form>
 <tag>
 <AM lemma="jr-88_^(Junior)" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="jr-88_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1159-001-p1s11W12-Ta">

@@ -329,7 +329,7 @@
 <LM>w#w-ln95044-029-p2s2w6</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-029-p2s2w7">
 <src.rf>manual</src.rf>

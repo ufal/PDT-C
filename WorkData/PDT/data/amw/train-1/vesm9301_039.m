@@ -55,7 +55,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
+<AM lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-039-p2s1w2">
@@ -573,7 +573,7 @@
 <LM>w#w-vesm9301-039-p2s3w11</LM>
 </w.rf>
 <form>uší</form>
-<tag lemma="ucho" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="ucho-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-vesm9301-039-p2s3w12">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-039-p2s4w4">

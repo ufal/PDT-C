@@ -93,7 +93,7 @@
 <LM>w#w-cmpr9406-041-p3s1w9</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-041-p3s1w10">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-cmpr9406-041-p3s2w2</LM>
 </w.rf>
 <form>Roth</form>
-<tag lemma="Roth" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Roth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-041-p3s2w3">
 <src.rf>manual</src.rf>
@@ -799,7 +799,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-041-p5s1w18">

@@ -5619,7 +5619,7 @@
 </w.rf>
 <form>spořitelnou</form>
 <tag>
-<AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="spořitelna" src="auto" recommended="1">NNFS7-----A----</AM>
 <AM lemma="spořitelný_^(*4)" src="auto">AAFS4----1A----</AM>
 <AM lemma="spořitelný_^(*4)" src="auto">AAFS7----1A----</AM>
 </tag>
@@ -6373,7 +6373,7 @@
 </w.rf>
 <form>právem</form>
 <tag>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS7-----A----</AM>
 <AM lemma="právem" src="auto">Dg-------1A----</AM>
 </tag>
 </m>

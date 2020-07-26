@@ -220,7 +220,7 @@
 <LM>w#w-d1t2650-13</LM>
 </w.rf>
 <form>Mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m012-d1t2650-12">
 <w.rf>
@@ -567,7 +567,7 @@
 <AM lemma="Bor-1_;Y" src="auto">NNMP6-----A----</AM>
 <AM lemma="Bor-2_;G" src="auto">NNIP6-----A----</AM>
 <AM lemma="Boro_;G" src="auto">NNNP6-----A----</AM>
-<AM lemma="Bory_;G" src="auto" selected="1">NNIP6-----A----</AM>
+<AM lemma="Bory-2_;G" src="auto" selected="1">NNIP6-----A----</AM>
 <AM lemma="bor" src="auto" recommended="1">NNIP6-----A----</AM>
 </tag>
 </m>
@@ -2087,7 +2087,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -3003,7 +3003,7 @@
 <LM>w#w-d1t2929-6</LM>
 </w.rf>
 <form>Zuzanka</form>
-<tag lemma="Zuzanka_;Y_,e" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Zuzanka_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m012-d1t2922-3">
 <w.rf>
@@ -3443,7 +3443,7 @@
 <LM>w#w-d1t2955-21</LM>
 </w.rf>
 <form>dejme</form>
-<tag lemma="dát" src="auto" recommended="1">Vi-P---1--A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m012-d1t2955-22">
 <w.rf>
@@ -3738,7 +3738,7 @@
 <LM>w#w-d1t2997-1</LM>
 </w.rf>
 <form>Vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m012-d1t2997-2">
 <w.rf>
@@ -3845,7 +3845,7 @@
 <LM>w#w-d1t2999-5</LM>
 </w.rf>
 <form>Zuzanka</form>
-<tag lemma="Zuzanka_;Y_,e" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Zuzanka_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m012-d1t2999-9">
 <w.rf>
@@ -4107,7 +4107,7 @@
 <LM>w#w-d1t3015-3</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m012-d-id144918">
 <w.rf>
@@ -4320,7 +4320,7 @@
 <LM>w#w-d1t3049-1</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m012-d1t3049-2">
 <w.rf>
@@ -4759,7 +4759,7 @@
 <LM>w#w-d1t3064-11</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m012-d1t3064-12">
 <w.rf>

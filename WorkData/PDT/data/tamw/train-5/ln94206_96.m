@@ -725,7 +725,7 @@
 <form>rakousko</form>
 <tag>
 <AM lemma="rakouský" src="orig">A2--------A----</AM>
-<AM lemma="rakouský" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="rakousko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-96-p2s3w13">

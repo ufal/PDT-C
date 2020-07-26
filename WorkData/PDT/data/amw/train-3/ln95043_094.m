@@ -800,7 +800,7 @@
 <LM>w#w-ln95043-094-p4s1w6</LM>
 </w.rf>
 <form>čínsko</form>
-<tag lemma="čínský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="čínsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95043-094-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-ln95043-094-p4s2w15</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95043-094-p4s2w16">
 <src.rf>manual</src.rf>
@@ -2188,7 +2188,7 @@
 <form>mercedesů</form>
 <tag>
 <AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
+<AM lemma="mercedes_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-094-p5s6w16">

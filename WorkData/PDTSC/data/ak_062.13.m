@@ -81,7 +81,7 @@
 <LM>w#w-d1t2844-12</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m062-613-614">
 <w.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-d1t2855-15</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m062-d1t2855-16">
 <w.rf>
@@ -1051,7 +1051,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m062-d1t2887-1">
@@ -1376,7 +1376,7 @@
 <LM>w#w-d1t2901-2</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m062-d1t2901-3">
 <w.rf>
@@ -1390,7 +1390,7 @@
 <LM>w#w-d1t2901-4</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m062-d1t2901-5">
 <w.rf>
@@ -1487,7 +1487,7 @@
 <LM>w#w-d1t2906-5</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m062-d1t2906-6">
 <w.rf>
@@ -2856,7 +2856,7 @@
 <LM>w#w-d1t2956-19</LM>
 </w.rf>
 <form>vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m062-d1t2956-21">
 <w.rf>
@@ -3028,7 +3028,7 @@
 <LM>w#w-d1t2964-8</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m062-d1t2964-12">
 <w.rf>
@@ -4156,7 +4156,7 @@
 <LM>w#w-d1t3017-6</LM>
 </w.rf>
 <form>intenzivně</form>
-<tag lemma="intenzivně_,s_^(^DD**intenzívní)_(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="intenzivně_^(^DD**intenzívně)_(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m062-930-931">
 <w.rf>
@@ -4719,7 +4719,7 @@
 <LM>w#w-d1t3037-5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m062-d1t3039-1">
 <w.rf>
@@ -4837,7 +4837,7 @@
 <LM>w#w-d1t3041-7</LM>
 </w.rf>
 <form>necháte</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-P---2P-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m062-d1t3041-8">
 <w.rf>

@@ -174,7 +174,7 @@
 <LM>w#w-ln95046-032-p1s1w20</LM>
 </w.rf>
 <form>Švédem</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-032-p1s1w21">
 <src.rf>manual</src.rf>

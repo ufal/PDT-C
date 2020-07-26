@@ -460,7 +460,7 @@
 <form>TASS</form>
 <tag>
 <AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TASS_;m_^(ruská_tisková_agentura)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-039-p1s3w9">
@@ -541,7 +541,7 @@
 <LM>w#w-lnd91303-039-p1s3w18</LM>
 </w.rf>
 <form>zaměstnáni</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="orig" selected="1">VsMP----X-APP--</tag>
+<tag lemma="zaměstnat" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-lnd91303-039-p1s3w19">
 <src.rf>manual</src.rf>

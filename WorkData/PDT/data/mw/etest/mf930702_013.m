@@ -535,7 +535,7 @@
 <LM>w#w-mf930702-013-p2s2w19</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930702-013-p2s2w20">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-mf930702-013-p2s5w10</LM>
 </w.rf>
 <form>neprávem</form>
-<tag lemma="právem" src="auto" selected="1">Db--------N----</tag>
+<tag lemma="právem" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-mf930702-013-p2s5w11">
 <src.rf>manual</src.rf>

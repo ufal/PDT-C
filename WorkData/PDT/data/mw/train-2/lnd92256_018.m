@@ -108,7 +108,7 @@
 <LM>w#w-lnd92256-018-p1s1w12</LM>
 </w.rf>
 <form>předána</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsQW----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92256-018-p1s1w13">
 <src.rf>manual</src.rf>

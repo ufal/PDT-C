@@ -248,7 +248,7 @@
 <LM>w#w-mf930701-146-p3s1w24</LM>
 </w.rf>
 <form>snů</form>
-<tag lemma="sen" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930701-146-p3s1w25">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <AM lemma="on-1" src="auto" recommended="1">P5ZS6--3-------</AM>
 <AM lemma="německy_:B" src="auto">Dg-------1A---8</AM>
 <AM lemma="německý_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="německý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="německý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p3s1w37">
@@ -986,7 +986,7 @@
 <form>Dolna</form>
 <tag>
 <AM lemma="Dolna_;G_,t_^(v_názvech_např._Dolna_Banja)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Dolna_;G_^(v_názvech_např._Dolna_Banja)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Dolna-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p7s1w14">
@@ -1448,7 +1448,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televizní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="televizní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="televizní" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p7s1w70">
@@ -2025,7 +2025,7 @@
 <AM lemma="ZOO_:B" src="auto">NNFXX-----A----</AM>
 <AM lemma="ZOO_:B" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="ZOO-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ZOO" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ZOO" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p9s1w13">
@@ -2170,7 +2170,7 @@
 <LM>w#w-mf930701-146-p9s1w30</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930701-146-p9s1w31">
 <src.rf>manual</src.rf>
@@ -2779,7 +2779,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televizní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="televizní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="televizní" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p11s1w3">

@@ -1526,7 +1526,7 @@
 <LM>w#w-ln94209-66-p3s5w5</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-66-p3s5w6">
 <src.rf>manual</src.rf>
@@ -1574,7 +1574,7 @@
 <LM>w#w-ln94209-66-p3s5w11</LM>
 </w.rf>
 <form>FAMU</form>
-<tag lemma="FAMU_;m" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="FAMU-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94209-66-p3s5w12">
 <src.rf>manual</src.rf>
@@ -1630,7 +1630,7 @@
 <LM>w#w-ln94209-66-p3s5w18</LM>
 </w.rf>
 <form>Pavlem</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94209-66-p3s5w19">
 <src.rf>manual</src.rf>

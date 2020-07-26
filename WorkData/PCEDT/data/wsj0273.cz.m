@@ -4550,7 +4550,7 @@
 <LM>w#w-wsj0273-001-p1s14W9</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0273-001-p1s14W10-Ta">
 <src.rf>tagger-a</src.rf>

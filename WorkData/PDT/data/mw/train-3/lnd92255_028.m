@@ -379,7 +379,7 @@
 <LM>w#w-lnd92255-028-p2s2w16</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92255-028-p2s2w17">
 <src.rf>manual</src.rf>

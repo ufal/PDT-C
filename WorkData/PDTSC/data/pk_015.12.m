@@ -328,7 +328,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m015-d1e2852-x2-375">
@@ -936,7 +936,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m015-d1t2890-12">
@@ -1124,7 +1124,7 @@
 <LM>w#w-d1t2898-7</LM>
 </w.rf>
 <form>řecko</form>
-<tag lemma="řecký" src="auto" recommended="1" selected="1">S2--------A----</tag>
+<tag lemma="řecko" src="auto" recommended="1" selected="1">S2--------A----</tag>
 </m>
 <m id="m015-d1t2898-8">
 <w.rf>
@@ -3163,7 +3163,7 @@
 <LM>w#w-d1t2934-10</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
 </m>
 <m id="m015-d1t2934-11">
 <w.rf>
@@ -3315,7 +3315,7 @@
 <LM>w#w-d1t2944-2</LM>
 </w.rf>
 <form>můžou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m015-d1t2944-3">
 <w.rf>
@@ -4021,7 +4021,7 @@
 <LM>w#w-d1t2985-7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m015-759-1741">
 <w.rf>
@@ -4392,7 +4392,7 @@
 <LM>w#w-d1t3004-10</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m015-764-783">
 <w.rf>
@@ -5139,7 +5139,7 @@
 <LM>w#w-d1t3020-2</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m015-d1t3020-4">
 <w.rf>
@@ -5203,7 +5203,7 @@
 <LM>w#w-d1e3025-x2-843</LM>
 </w.rf>
 <form>Kdybych</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m015-d1t3030-1">
 <w.rf>

@@ -533,7 +533,7 @@
 <LM>w#w-ln95041-055-p2s2w33</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-055-p2s2w34">
 <src.rf>manual</src.rf>

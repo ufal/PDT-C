@@ -32,7 +32,7 @@
 <LM>w#w-d1t2143-3</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m041-d1t2143-4">
 <w.rf>
@@ -298,7 +298,7 @@
 <form>nejenom</form>
 <tag>
 <AM lemma="nejenom" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="nejenom_^(**jen-4)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="nejenom" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m041-d1t2151-9">
@@ -605,7 +605,7 @@
 <LM>w#w-d1t2195-9</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m041-d1t2195-10">
 <w.rf>
@@ -850,7 +850,7 @@
 <form>párů</form>
 <tag>
 <AM lemma="pár-2" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="pár-2_^(*2)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="pár-2" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m041-163-164">
@@ -1101,7 +1101,7 @@
 <LM>w#w-d1t2218-10</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m041-d1t2218-11">
 <w.rf>
@@ -2093,7 +2093,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m041-d1t2308-8">
@@ -2211,7 +2211,7 @@
 <LM>w#w-d1t2308-19</LM>
 </w.rf>
 <form>nemohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m041-d1t2308-20">
 <w.rf>
@@ -2927,7 +2927,7 @@
 <LM>w#w-d1t2349-13</LM>
 </w.rf>
 <form>vezmu</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VB-S---1P-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m041-d1t2349-14">
 <w.rf>
@@ -4099,7 +4099,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>

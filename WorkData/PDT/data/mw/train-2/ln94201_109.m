@@ -493,7 +493,7 @@
 <LM>w#w-ln94201-109-p3s1w2</LM>
 </w.rf>
 <form>esejům</form>
-<tag lemma="esej" src="orig" selected="1">NNIP3-----A---1</tag>
+<tag lemma="esej-1" src="orig" selected="1">NNIP3-----A----</tag>
 </m>
 <m id="m-ln94201-109-p3s1w3">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-ln94201-109-p3s1w8</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94201-109-p3s1w9">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-ln94201-109-p3s2w1</LM>
 </w.rf>
 <form>Vydávala</form>
-<tag lemma="vydávat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="vydávat_^(*4at)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94201-109-p3s2w2">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-ln94201-109-p3s3w8</LM>
 </w.rf>
 <form>přeloženy</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VsTP----X-APP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94201-109-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1491,7 +1491,7 @@
 <LM>w#w-ln94201-109-p5s1w9</LM>
 </w.rf>
 <form>napadeno</form>
-<tag lemma="napadnout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="napadnout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-ln94201-109-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2035,7 +2035,7 @@
 <LM>w#w-ln94201-109-p6s1w10</LM>
 </w.rf>
 <form>vydáních</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94201-109-p6s1w11">
 <src.rf>manual</src.rf>
@@ -2284,7 +2284,7 @@
 <LM>w#w-ln94201-109-p6s4w4</LM>
 </w.rf>
 <form>esejů</form>
-<tag lemma="esej" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="esej-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94201-109-p6s4w5">
 <src.rf>manual</src.rf>
@@ -2452,7 +2452,7 @@
 <LM>w#w-ln94201-109-p6s4w25</LM>
 </w.rf>
 <form>přeložen</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94201-109-p6s4w26">
 <src.rf>manual</src.rf>
@@ -3094,7 +3094,7 @@
 <LM>w#w-ln94201-109-p6s9w3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln94201-109-p6s9w4">
 <src.rf>manual</src.rf>
@@ -3457,7 +3457,7 @@
 <LM>w#w-ln94201-109-p6s14w5</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m-ln94201-109-p6s14w6">
 <src.rf>manual</src.rf>
@@ -3835,7 +3835,7 @@
 <LM>w#w-ln94201-109-p6s16w19</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94201-109-p6s16w20">
 <src.rf>manual</src.rf>

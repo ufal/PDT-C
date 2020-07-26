@@ -49,7 +49,7 @@
 <LM>w#w-wsj2029-001-p1s0W4</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m-wsj2029-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-wsj2029-001-p1s0W9</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m-wsj2029-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1045,7 +1045,7 @@
 <form>fluorouracilem</form>
 <tag>
 <AM lemma="fluorouracil" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="fluorouracil_;U" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="fluorouracil" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2029-001-p1s3W26-Ta">

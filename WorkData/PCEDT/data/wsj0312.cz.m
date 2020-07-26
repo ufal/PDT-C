@@ -121,7 +121,7 @@
 <LM>w#w-wsj0312-001-p1s1W8</LM>
 </w.rf>
 <form>myslet</form>
-<tag lemma="myslet" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="myslit" src="auto" recommended="1">Vf--------A-I-1</tag>
 </m>
 <m id="m-wsj0312-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>

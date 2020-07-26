@@ -2149,7 +2149,7 @@
 <LM>w#w-wsj2054-001-p1s8W18</LM>
 </w.rf>
 <form>právům</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP3-----A----</tag>
+<tag lemma="právo" src="auto" recommended="1">NNNP3-----A----</tag>
 </m>
 <m id="m-wsj2054-001-p1s8W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5576,7 +5576,7 @@
 <form>právy</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACTP------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2054-001-p1s19W33-Ta">
@@ -5666,7 +5666,7 @@
 <form>odvážil</form>
 <tag>
 <AM lemma="odvážit-1_^(na_váze)" src="auto">VpYS----R-AAP--</AM>
-<AM lemma="odvážit-2_^([se];_mít_odvahu)" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="odvážit_^(na_váze;[se]_mít_odvahu)" src="auto" recommended="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-wsj2054-001-p1s20W8-Ta">
@@ -5998,7 +5998,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2054-001-p1s21W17-Ta">
@@ -7005,7 +7005,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2054-001-p1s26W16-Ta">

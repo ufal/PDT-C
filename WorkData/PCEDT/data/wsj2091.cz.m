@@ -4530,7 +4530,7 @@
 <LM>w#w-wsj2091-001-p1s12W26</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2091-001-p1s12W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4896,7 +4896,7 @@
 </w.rf>
 <form>např</form>
 <tag>
-<AM lemma="například" src="auto" recommended="1">Db------------b</AM></tag>
+<AM lemma="například" src="auto" recommended="1">TT------------b</AM></tag>
 </m>
 <m id="m-wsj2091-001-p1s13W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>

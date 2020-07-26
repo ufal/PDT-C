@@ -313,7 +313,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-110-p2s2w6">
@@ -974,7 +974,7 @@
 <LM>w#w-mf930702-110-p2s5w21</LM>
 </w.rf>
 <form>Strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-110-p2s5w22">
 <src.rf>manual</src.rf>
@@ -1025,7 +1025,7 @@
 <LM>w#w-mf930702-110-p2s5w27</LM>
 </w.rf>
 <form>Senem</form>
-<tag lemma="Sen_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Sen-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930702-110-p2s5w28">
 <src.rf>manual</src.rf>

@@ -378,7 +378,7 @@
 <LM>w#w-wsj1608-001-p1s0W32</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1608-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>

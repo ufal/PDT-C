@@ -406,7 +406,7 @@
 <LM>w#w-lnd92252-084-p3s3w23</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-084-p3s3w24">
 <src.rf>manual</src.rf>
@@ -692,7 +692,7 @@
 <form>ČSOV</form>
 <tag>
 <AM lemma="ČSOV_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČSOV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSOV_;m_^(Československý_olympijský_výbor)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-084-p4s1w15">
@@ -939,7 +939,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-084-p4s3w4">
@@ -948,7 +948,7 @@
 <LM>w#w-lnd92252-084-p4s3w4</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd92252-084-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1113,7 +1113,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-084-p4s4w8">
@@ -1427,7 +1427,7 @@
 <LM>w#w-lnd92252-084-p4s7w11</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-084-p4s7w12">
 <src.rf>manual</src.rf>
@@ -1777,7 +1777,7 @@
 <LM>w#w-lnd92252-084-p4s9w8</LM>
 </w.rf>
 <form>sna</form>
-<tag lemma="sen" src="orig" selected="1">NNIS2-----A---1</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-lnd92252-084-p4s9w9">
 <src.rf>manual</src.rf>

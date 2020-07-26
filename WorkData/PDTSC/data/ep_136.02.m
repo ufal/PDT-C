@@ -324,7 +324,7 @@
 <LM>w#w-d1t1013-6</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m136-d1t1013-7">
 <w.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-d1t1033-6</LM>
 </w.rf>
 <form>nestalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="auto" recommended="1">VpNS----R-NAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="auto" recommended="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m136-d1t1035-1">
 <w.rf>
@@ -928,7 +928,7 @@
 </w.rf>
 <form>zastavilo</form>
 <tag>
-<AM lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="auto" recommended="1">VpNS----R-AAP--</AM>
+<AM lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="auto" recommended="1">VpNS----R-AAP--</AM>
 <AM lemma="zastavit-2_:W_^(zástavní_právo)" src="auto">VpNS---XR-AA---</AM>
 </tag>
 </m>
@@ -2282,7 +2282,7 @@
 <LM>w#w-d1t1127-5</LM>
 </w.rf>
 <form>mlada</form>
-<tag lemma="mlado" src="auto" recommended="1">NNNS2-----A----</tag>
+<tag lemma="mlada" src="auto" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="m136-d1t1127-6">
 <w.rf>
@@ -3419,7 +3419,7 @@
 <LM>w#w-d1t1222-26</LM>
 </w.rf>
 <form>vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m136-d-m-d1e1215-x2-punct-punct">
 <w.rf>
@@ -3731,7 +3731,7 @@
 <LM>w#w-d1t1249-2</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m136-d-id90545-punct">
 <w.rf>
@@ -3790,14 +3790,14 @@
 <LM>w#w-d1t1249-9</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m136-d1t1249-10">
 <w.rf>
 <LM>w#w-d1t1249-10</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m136-d-id90656-punct">
 <w.rf>
@@ -5075,7 +5075,7 @@
 <LM>w#w-d1t1329-6</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m136-d-id93201-punct">
 <w.rf>
@@ -5122,7 +5122,7 @@
 <LM>w#w-d1t1335-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m136-274-56">
 <w.rf>
@@ -5186,7 +5186,7 @@
 <LM>w#w-d1t1335-6</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m136-d1t1339-1">
 <w.rf>
@@ -5569,7 +5569,7 @@
 <LM>w#w-d1t1359-10</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m136-d1t1361-4">
 <w.rf>
@@ -5625,7 +5625,7 @@
 <LM>w#w-d1t1365-2</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m136-d1t1365-3">
 <w.rf>

@@ -720,7 +720,7 @@
 <LM>w#w-d1t1776-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m983-d1t1776-3">
 <w.rf>
@@ -1128,7 +1128,7 @@
 <LM>w#w-d1t1791-7</LM>
 </w.rf>
 <form>nemysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-NA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-NAI-1</tag>
 </m>
 <m id="m983-d-id111633">
 <w.rf>
@@ -1214,7 +1214,7 @@
 <LM>w#w-d1t1793-2</LM>
 </w.rf>
 <form>nechaly</form>
-<tag lemma="nechat" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m983-d1t1793-3">
 <w.rf>
@@ -1622,7 +1622,7 @@
 </w.rf>
 <form>Zastavily</form>
 <tag>
-<AM lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="auto" recommended="1">VpTP----R-AAP--</AM>
+<AM lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="zastavit-2_:W_^(zástavní_právo)" src="auto">VpTP---XR-AA---</AM>
 </tag>
 </m>
@@ -2737,7 +2737,7 @@
 <LM>w#w-d1t1910-6</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m983-d1t1910-8">
 <w.rf>
@@ -4620,7 +4620,7 @@
 <LM>w#w-d1t2025-4</LM>
 </w.rf>
 <form>nemohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m983-d1t2025-5">
 <w.rf>
@@ -4696,7 +4696,7 @@
 <LM>w#w-d1t2029-8</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m983-d1t2029-9">
 <w.rf>
@@ -4944,7 +4944,7 @@
 <LM>w#w-d1t2033-8</LM>
 </w.rf>
 <form>jely</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m983-d1t2033-9">
 <w.rf>

@@ -593,7 +593,7 @@
 <LM>w#w-cmpr9415-027-p4s4w23</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9415-027-p4s4w24">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 <form>Koh</form>
 <tag>
 <AM lemma="Koh_;m_^(Koh-i-noor)" src="orig">NNXXX-----A----</AM>
-<AM lemma="Koh_;m_^(Koh-i-noor)" src="auto" recommended="1" selected="1">S2--------A----</AM>
+<AM lemma="Koh_^(Koh-i-noor)" src="auto" recommended="1" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p6s1w8">
@@ -1117,7 +1117,7 @@
 <LM>w#w-cmpr9415-027-p6s2w1</LM>
 </w.rf>
 <form>Vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9415-027-p6s2w2">
 <src.rf>manual</src.rf>
@@ -1183,7 +1183,7 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s" src="manual" selected="1">_^(^DD**milión)</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p6s2w10">
@@ -1195,7 +1195,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p6s2w11">
@@ -1305,7 +1305,7 @@
 <LM>w#w-cmpr9415-027-p6s3w6</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-027-p6s3w7">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4---------1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p6s4w6">
@@ -2137,7 +2137,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p8s3w15">

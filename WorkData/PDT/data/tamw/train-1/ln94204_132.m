@@ -804,7 +804,7 @@
 <LM>w#w-ln94204-132-p2s5Aw12</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-132-p2s5Aw13">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-ln94204-132-p2s6w1</LM>
 </w.rf>
 <form>Nedotčeny</form>
-<tag lemma="dotknout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="orig" selected="1">VsTP----X-NP---</tag>
+<tag lemma="dotknout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="orig" selected="1">VsTP----X-NPP-1</tag>
 </m>
 <m id="m-ln94204-132-p2s6w2">
 <src.rf>manual</src.rf>

@@ -29,7 +29,7 @@
 <form>Mata</form>
 <tag>
 <AM lemma="Mata_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mata-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Mata_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-104-p1s1Aw3">
@@ -584,7 +584,7 @@
 <form>Mata</form>
 <tag>
 <AM lemma="Mata_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mata-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Mata_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-104-p3s1w16">
@@ -1387,7 +1387,7 @@
 <LM>w#w-mf920925-104-p3s5w1</LM>
 </w.rf>
 <form>Zatčena</form>
-<tag lemma="zatknout" src="orig" selected="1">VsQW----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-mf920925-104-p3s5w2">
 <src.rf>manual</src.rf>

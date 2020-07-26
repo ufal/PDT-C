@@ -542,7 +542,7 @@
 <LM>w#w-mf930701-038-p1s3w10</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-038-p1s3w11">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 </w.rf>
 <form>raf</form>
 <tag>
-<AM lemma="raf-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="raf-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="rafnout" src="auto" recommended="1">VpYS----R-AAP-6</AM>
 </tag>
 </m>
@@ -774,7 +774,7 @@
 <LM>w#w-mf930701-038-p2s2w9</LM>
 </w.rf>
 <form>vydává</form>
-<tag lemma="vydávat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vydávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-038-p2s2w10">
 <src.rf>manual</src.rf>

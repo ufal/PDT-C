@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-081-p1s1w2</LM>
 </w.rf>
 <form>pojedenácté</form>
-<tag lemma="pojedenácté" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="pojedenácté" src="orig" selected="1">Db-------------</tag>
 </m>
 </s>
 <s id="m-mf930708-081-p2s1">
@@ -62,7 +62,7 @@
 </w.rf>
 <form>mas</form>
 <tag>
-<AM lemma="mas-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="mas-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="masa_^(velké_množství)" src="auto">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
@@ -483,7 +483,7 @@
 <LM>w#w-mf930708-081-p2s2w26</LM>
 </w.rf>
 <form>stávala</form>
-<tag lemma="stávat-2_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="stávat-2_^(*5t-2)_(*5t-3)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930708-081-p2s2w27">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-mf930708-081-p2s3w1</LM>
 </w.rf>
 <form>Těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930708-081-p2s3w2">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-mf930708-081-p2s3w8</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930708-081-p2s3w9">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-081-p2s3w16">
@@ -949,7 +949,7 @@
 <LM>w#w-mf930708-081-p3s2w14</LM>
 </w.rf>
 <form>Mňágu</form>
-<tag lemma="Mňága_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Mňága_;m" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930708-081-p3s2w15">
 <src.rf>manual</src.rf>
@@ -968,7 +968,7 @@
 <tag>
 <AM lemma="Žďorp_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Žďorp" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Žďorp" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Žďorp_;m" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-081-p3s2w17">
@@ -1424,7 +1424,7 @@
 <LM>w#w-mf930708-081-p4s1w29</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-mf930708-081-p4s1w30">
 <src.rf>manual</src.rf>

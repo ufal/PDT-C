@@ -287,7 +287,7 @@
 <LM>w#w-vesm9212-037-p2s2w11</LM>
 </w.rf>
 <form>cytoarchitektonika</form>
-<tag lemma="cytoarchitektonika_;U" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="cytoarchitektonika" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9212-037-p2s2w12">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-037-p2s3w8">
@@ -425,7 +425,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-037-p2s3w16">
@@ -751,7 +751,7 @@
 <LM>w#w-vesm9212-037-p3s1w22</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-vesm9212-037-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-vesm9212-037-p3s3w51</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-vesm9212-037-p3s3w52">
 <src.rf>manual</src.rf>
@@ -1642,7 +1642,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-037-p4s1w14">
@@ -1816,7 +1816,7 @@
 <LM>w#w-vesm9212-037-p4s2w7</LM>
 </w.rf>
 <form>dosti</form>
-<tag lemma="dost" src="auto" selected="1">Db------------1</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A---1</tag>
 </m>
 <m id="m-vesm9212-037-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1858,7 +1858,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-037-p4s2w13">
@@ -2424,7 +2424,7 @@
 <LM>w#w-vesm9212-037-p5s2w6</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-vesm9212-037-p5s2w7">
 <src.rf>manual</src.rf>

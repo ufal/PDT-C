@@ -61,7 +61,7 @@
 <LM>w#w-lnd91301-004-p3s1w1</LM>
 </w.rf>
 <form>Stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-004-p3s1w2">
 <src.rf>manual</src.rf>
@@ -2563,7 +2563,7 @@
 <LM>w#w-lnd91301-004-p4s6w8</LM>
 </w.rf>
 <form>hodni</form>
-<tag lemma="hodný-1_^(být_hoden)" src="auto" selected="1">ACMP------A----</tag>
+<tag lemma="hodný_^(být_hoden;nezlobivý)" src="auto" selected="1">ACMP------A----</tag>
 </m>
 <m id="m-lnd91301-004-p4s6w9">
 <src.rf>manual</src.rf>
@@ -3494,7 +3494,7 @@
 <LM>w#w-lnd91301-004-p6s2w11</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd91301-004-p6s2w12">
 <src.rf>manual</src.rf>
@@ -4024,7 +4024,7 @@
 <LM>w#w-lnd91301-004-p7s2w4</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-lnd91301-004-p7s2w5">
 <src.rf>manual</src.rf>
@@ -4499,7 +4499,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-004-p7s4w31">
@@ -4876,7 +4876,7 @@
 <LM>w#w-lnd91301-004-p8s4w1</LM>
 </w.rf>
 <form>Stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-004-p8s4w2">
 <src.rf>manual</src.rf>
@@ -4944,7 +4944,7 @@
 <form>Filosoficky</form>
 <tag>
 <AM lemma="filosoficky_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="filosoficky_,s_^(^DD**filozoficky)_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="filosoficky_^(^DD**filozoficky)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-004-p8s5w2">
@@ -5205,7 +5205,7 @@
 <LM>w#w-lnd91301-004-p9s2w14</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd91301-004-p9s2w15">
 <src.rf>manual</src.rf>

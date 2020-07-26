@@ -467,7 +467,7 @@
 <LM>w#w-d1t981-22</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m994-d1e653-x27-503">
 <w.rf>
@@ -1285,7 +1285,7 @@
 <LM>w#w-d1t1058-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m994-d1t1058-3">
 <w.rf>
@@ -1343,7 +1343,7 @@
 <LM>w#w-d1t1068-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m994-d1t1068-3">
 <w.rf>
@@ -2094,7 +2094,7 @@
 <LM>w#w-d1t1125-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m994-d1t1125-4">
 <w.rf>
@@ -2210,7 +2210,7 @@
 <LM>w#w-d1t1141-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m994-d1t1141-3">
 <w.rf>
@@ -2292,7 +2292,7 @@
 <LM>w#w-d1t1150-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m994-d1t1150-3">
 <w.rf>
@@ -2524,7 +2524,7 @@
 <LM>w#w-d1t1188-1</LM>
 </w.rf>
 <form>Můžete</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---2P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m994-d1t1188-2">
 <w.rf>
@@ -3576,7 +3576,7 @@
 <LM>w#w-d1t1233-7</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m994-d1t1233-8">
 <w.rf>
@@ -3611,7 +3611,7 @@
 <LM>w#w-d1t1235-4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m994-d1t1235-7">
 <w.rf>
@@ -3667,7 +3667,7 @@
 <LM>w#w-d1t1241-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m994-d1t1241-4">
 <w.rf>

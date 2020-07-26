@@ -16,7 +16,7 @@
 <LM>w#w-wsj0098-001-p1s0W1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0098-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2079,7 +2079,7 @@
 <LM>w#w-wsj0098-001-p1s4W39</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0098-001-p1s4W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2553,7 +2553,7 @@
 <LM>w#w-wsj0098-001-p1s7W8</LM>
 </w.rf>
 <form>nadšen</form>
-<tag lemma="nadchnout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="nadchnout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj0098-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2758,7 +2758,7 @@
 </w.rf>
 <form>Montanu</form>
 <tag>
-<AM lemma="Montana_;G" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Montana-2_;G" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Montanus_;Y" src="auto">NNMS3-----A----</AM>
 <AM lemma="Montanus_;Y" src="auto">NNMS6-----A----</AM>
 </tag>
@@ -2958,7 +2958,7 @@
 <LM>w#w-wsj0098-001-p1s9W2</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0098-001-p1s9W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3140,7 +3140,7 @@
 <LM>w#w-wsj0098-001-p1s9W18</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0098-001-p1s9W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3186,7 +3186,7 @@
 <LM>w#w-wsj0098-001-p1s9W23</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0098-001-p1s9W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5142,7 +5142,7 @@
 <LM>w#w-wsj0098-001-p1s14W15</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0098-001-p1s14W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5197,7 +5197,7 @@
 <LM>w#w-wsj0098-001-p1s14W20</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0098-001-p1s14W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5480,7 +5480,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -5734,7 +5734,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -6374,7 +6374,7 @@
 <LM>w#w-wsj0098-001-p1s17W18</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0098-001-p1s17W19-Ta">
 <src.rf>tagger-a</src.rf>

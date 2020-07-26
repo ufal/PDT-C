@@ -82,7 +82,7 @@
 <LM>w#w-wsj2224-001-p1s0W7</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj2224-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-wsj2224-001-p1s2W18</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2224-001-p1s2W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1149,7 +1149,7 @@
 <LM>w#w-wsj2224-001-p1s4W9</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj2224-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>

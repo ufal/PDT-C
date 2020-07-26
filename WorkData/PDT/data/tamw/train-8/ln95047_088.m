@@ -313,7 +313,7 @@
 <LM>w#w-ln95047-088-p2s2w15</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95047-088-p2s2w16">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-ln95047-088-p3s1w17</LM>
 </w.rf>
 <form>předala</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95047-088-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1316,7 +1316,7 @@
 <LM>w#w-ln95047-088-p5s1w26</LM>
 </w.rf>
 <form>podvržen</form>
-<tag lemma="podvrhnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="podvrhnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln95047-088-p5s1w27">
 <src.rf>manual</src.rf>

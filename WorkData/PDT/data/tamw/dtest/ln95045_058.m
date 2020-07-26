@@ -223,7 +223,7 @@
 <LM>w#w-ln95045-058-p2s1Bw20</LM>
 </w.rf>
 <form>rusko</form>
-<tag lemma="ruský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="rusko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95045-058-p2s1Bw21">
 <src.rf>manual</src.rf>

@@ -784,7 +784,7 @@
 <LM>w#w-ln94206-78-p2s5w16</LM>
 </w.rf>
 <form>americko</form>
-<tag lemma="americký" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="americko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94206-78-p2s5w17">
 <src.rf>manual</src.rf>

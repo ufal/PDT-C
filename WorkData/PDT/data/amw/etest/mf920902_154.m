@@ -2265,7 +2265,7 @@
 <LM>w#w-mf920902-154-p7s1w23</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-mf920902-154-p7s1w24">
 <src.rf>manual</src.rf>

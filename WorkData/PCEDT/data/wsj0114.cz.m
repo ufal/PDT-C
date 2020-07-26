@@ -1326,7 +1326,7 @@
 <LM>w#w-wsj0114-001-p1s3W16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0114-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3351,7 +3351,7 @@
 <LM>w#w-wsj0114-001-p1s10W15</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m-wsj0114-001-p1s10W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3405,7 +3405,7 @@
 <LM>w#w-wsj0114-001-p1s10W21</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0114-001-p1s10W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4712,7 +4712,7 @@
 <LM>w#w-wsj0114-001-p1s15W2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0114-001-p1s15W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4731,7 +4731,7 @@
 <LM>w#w-wsj0114-001-p1s15W4</LM>
 </w.rf>
 <form>myslelo</form>
-<tag lemma="myslet" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpNS----R-AAI-1</tag>
 </m>
 <m id="m-wsj0114-001-p1s15W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7152,7 +7152,7 @@
 <LM>w#w-wsj0114-001-p1s25W2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0114-001-p1s25W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8415,7 +8415,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -8571,7 +8571,7 @@
 <LM>w#w-wsj0114-001-p1s30W13</LM>
 </w.rf>
 <form>lobovali</form>
-<tag lemma="lobovat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="lobovat_,s_^(^DD**lobbovat)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj0114-001-p1s30W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8747,7 +8747,7 @@
 <LM>w#w-wsj0114-001-p1s32W7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0114-001-p1s32W8-Ta">
 <src.rf>tagger-a</src.rf>

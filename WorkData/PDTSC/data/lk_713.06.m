@@ -747,7 +747,7 @@
 <LM>w#w-id63500-13</LM>
 </w.rf>
 <form>sehnaly</form>
-<tag lemma="sehnat" src="auto" recommended="1">VpTP----R-AAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m713-id63500-14">
 <w.rf>

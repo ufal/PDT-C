@@ -62,7 +62,7 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="OSN-1_:B_^(Organizace_spojených_národů)" src="auto">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -163,7 +163,7 @@
 <LM>w#w-wsj1452-001-p1s0W12</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="CNN_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1452-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>

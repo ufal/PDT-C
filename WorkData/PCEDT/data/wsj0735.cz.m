@@ -936,7 +936,7 @@
 <LM>w#w-wsj0735-001-p1s2W11</LM>
 </w.rf>
 <form>spořitelen</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj0735-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1151,7 +1151,7 @@
 <LM>w#w-wsj0735-001-p1s3W5</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0735-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>

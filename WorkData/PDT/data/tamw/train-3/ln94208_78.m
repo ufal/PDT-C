@@ -144,7 +144,7 @@
 <LM>w#w-ln94208-78-p2s1w15</LM>
 </w.rf>
 <form>tajně</form>
-<tag lemma="tajně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="tajně-1_^(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94208-78-p2s1w16">
 <src.rf>manual</src.rf>

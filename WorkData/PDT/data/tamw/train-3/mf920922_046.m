@@ -143,7 +143,7 @@
 <LM>w#w-mf920922-046-p2s1w3</LM>
 </w.rf>
 <form>ina</form>
-<tag lemma="ina-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ina-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920922-046-p2s1w4">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-mf920922-046-p2s1w5</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ouš-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920922-046-p2s1w6">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-046-p2s6w7">
@@ -1022,7 +1022,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920922-046-p2s6w9">
@@ -1071,7 +1071,7 @@
 <LM>w#w-mf920922-046-p2s6w14</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920922-046-p2s6w15">
 <src.rf>manual</src.rf>

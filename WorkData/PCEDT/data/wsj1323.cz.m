@@ -2504,7 +2504,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -3688,7 +3688,7 @@
 <LM>w#w-wsj1323-001-p1s23W2</LM>
 </w.rf>
 <form>zobounů</form>
-<tag lemma="zoboun_;U" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="zoboun" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1323-001-p1s23W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5893,7 +5893,7 @@
 <AM lemma="Lon_;Y" src="auto">NNMP1-----A---1</AM>
 <AM lemma="Lon_;Y" src="auto">NNMP5-----A---1</AM>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1323-001-p1s33W2-Ta">
@@ -6964,7 +6964,7 @@
 <LM>w#w-wsj1323-001-p1s37W23</LM>
 </w.rf>
 <form>kolpíků</form>
-<tag lemma="kolpík_;U" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="kolpík" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1323-001-p1s37W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7029,7 +7029,7 @@
 <form>Lantana</form>
 <tag>
 <AM lemma="lantana_;U_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="lantana_;U" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="lantana-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1323-001-p1s38W6-Ta">
@@ -8038,7 +8038,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1323-001-p1s42W2-Ta">

@@ -299,7 +299,7 @@
 <LM>w#w-d1t1698-21</LM>
 </w.rf>
 <form>necháme</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m111-d1t1698-22">
 <w.rf>
@@ -464,7 +464,7 @@
 <AM lemma="jedle" src="auto">NNFS3-----A----</AM>
 <AM lemma="jedle" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="jedle" src="auto">NNFS6-----A----</AM>
-<AM lemma="jíst_^(konzumovat_jídlo)" src="auto" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="jíst" src="auto" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m111-d1t1708-2">
@@ -1933,7 +1933,7 @@
 <LM>w#w-d1t1764-6</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m111-d1t1764-7">
 <w.rf>
@@ -2208,7 +2208,7 @@
 <LM>w#w-d1t1783-4</LM>
 </w.rf>
 <form>ČSTV</form>
-<tag lemma="ČSTV_^(Československý_svaz_tělesné_výchovy)" src="auto" recommended="1">NNXXX-----A---b</tag>
+<tag lemma="ČSTV_^(Československý_svazělesné_výchovy)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m111-d1e1776-x2-516">
 <w.rf>
@@ -3093,7 +3093,7 @@
 <LM>w#w-d1t1832-12</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m111-d1t1832-11">
 <w.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-mf930708-087-p1s1w3</LM>
 </w.rf>
 <form>Beskydech</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="Beskydy-1_;G" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-087-p2s1">
@@ -79,7 +79,7 @@
 <LM>w#w-mf930708-087-p3s1w3</LM>
 </w.rf>
 <form>Beskydech</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="Beskydy-1_;G" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-087-p4s1">
@@ -105,7 +105,7 @@
 <LM>w#w-mf930708-087-p4s1w3</LM>
 </w.rf>
 <form>Beskyd</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930708-087-p4s1w4">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-mf930708-087-p5s1w2</LM>
 </w.rf>
 <form>Beskyd</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930708-087-p5s1w3">
 <src.rf>manual</src.rf>
@@ -788,7 +788,7 @@
 <LM>w#w-mf930708-087-p5s3w9</LM>
 </w.rf>
 <form>Beskyd</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930708-087-p5s3w10">
 <src.rf>manual</src.rf>
@@ -846,7 +846,7 @@
 <LM>w#w-mf930708-087-p5s4w6</LM>
 </w.rf>
 <form>staly</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-087-p5s4w7">
 <src.rf>manual</src.rf>
@@ -1215,7 +1215,7 @@
 <LM>w#w-mf930708-087-p6s1w6</LM>
 </w.rf>
 <form>Beskyd</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930708-087-p6s1w7">
 <src.rf>manual</src.rf>
@@ -2222,7 +2222,7 @@
 <LM>w#w-mf930708-087-p7s3w2</LM>
 </w.rf>
 <form>výš</form>
-<tag lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="vysoko-1" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf930708-087-p7s3w3">
 <src.rf>manual</src.rf>
@@ -2371,7 +2371,7 @@
 <LM>w#w-mf930708-087-p7s4w14</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930708-087-p7s4w15">
 <src.rf>manual</src.rf>
@@ -2670,7 +2670,7 @@
 <LM>w#w-mf930708-087-p8s1w10</LM>
 </w.rf>
 <form>vydala</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-087-p8s1w11">
 <src.rf>manual</src.rf>

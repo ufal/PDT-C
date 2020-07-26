@@ -251,7 +251,7 @@
 <LM>w#w-mf920901-026-p2s2w7</LM>
 </w.rf>
 <form>právem</form>
-<tag lemma="právem" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="právem" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920901-026-p2s2w8">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <LM>w#w-mf920901-026-p2s3w2</LM>
 </w.rf>
 <form>krom</form>
-<tag lemma="kromě" src="orig" selected="1">RR--2---------1</tag>
+<tag lemma="krom_,s_^(^DD**kromě)" src="orig" selected="1">RR--2----------</tag>
 </m>
 <m id="m-mf920901-026-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1226,7 +1226,7 @@
 <LM>w#w-mf920901-026-p2s10w4</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920901-026-p2s10w5">
 <src.rf>manual</src.rf>
@@ -1400,7 +1400,7 @@
 <LM>w#w-mf920901-026-p2s10w25</LM>
 </w.rf>
 <form>krom</form>
-<tag lemma="kromě" src="orig" selected="1">RR--2---------1</tag>
+<tag lemma="krom_,s_^(^DD**kromě)" src="orig" selected="1">RR--2----------</tag>
 </m>
 <m id="m-mf920901-026-p2s10w26">
 <src.rf>manual</src.rf>

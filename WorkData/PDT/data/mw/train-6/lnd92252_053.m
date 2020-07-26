@@ -51,7 +51,7 @@
 <LM>w#w-lnd92252-053-p1s1Aw5</LM>
 </w.rf>
 <form>DNÍ</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 </s>
 <s id="m-lnd92252-053-p2s1A">
@@ -370,7 +370,7 @@
 <LM>w#w-lnd92252-053-p3s2w19</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92252-053-p3s2w20">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -463,7 +463,7 @@
 <LM>w#w-lnd92252-053-p1s1Bw2</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92252-053-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <form>vzala</form>
 <tag>
 <AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="manual" selected="1">VpQW----R-AAP--</AM>
+<AM lemma="vzít" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92252-053-p1s1Cw12">
@@ -1407,7 +1407,7 @@
 <LM>w#w-lnd92252-053-p1s1Dw23</LM>
 </w.rf>
 <form>bál</form>
-<tag lemma="bát" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-053-p1s1Dw24">
 <src.rf>manual</src.rf>
@@ -1948,7 +1948,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-053-p1s2Cw22">

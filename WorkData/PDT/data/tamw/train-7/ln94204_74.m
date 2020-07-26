@@ -49,7 +49,7 @@
 <LM>w#w-ln94204-74-p2s1w3</LM>
 </w.rf>
 <form>ukradl</form>
-<tag lemma="ukrást" src="auto" selected="1">VpYS----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94204-74-p2s1w4">
 <src.rf>manual</src.rf>

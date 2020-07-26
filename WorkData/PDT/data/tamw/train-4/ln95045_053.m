@@ -240,7 +240,7 @@
 <LM>w#w-ln95045-053-p2s1w23</LM>
 </w.rf>
 <form>zastaven</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95045-053-p2s1w24">
 <src.rf>manual</src.rf>
@@ -1064,7 +1064,7 @@
 <AM lemma="Stasi_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Stasi_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Stasi-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Stasi_;m_^(Staatssicherheitsdienst)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-053-p3s4w17">
@@ -1695,7 +1695,7 @@
 <LM>w#w-ln95045-053-p5s1w33</LM>
 </w.rf>
 <form>předával</form>
-<tag lemma="předávat-3_^(někomu_něco)_(*6at-3)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="předávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-053-p5s1w34">
 <src.rf>manual</src.rf>

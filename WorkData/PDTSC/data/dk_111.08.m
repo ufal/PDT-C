@@ -274,7 +274,7 @@
 <LM>w#w-d1t1222-16</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m111-d-m-d1e1211-x2-punct-punct">
 <w.rf>
@@ -1308,7 +1308,7 @@
 <LM>w#w-d1t1250-19</LM>
 </w.rf>
 <form>vzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m111-388-393">
 <w.rf>
@@ -1429,7 +1429,7 @@
 <LM>w#w-d1t1250-30</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m111-394-398">
 <w.rf>
@@ -1772,7 +1772,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,h" src="auto" recommended="1">Db------------1</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m111-d1t1274-15">
@@ -2591,7 +2591,7 @@
 <LM>w#w-d1t1295-3</LM>
 </w.rf>
 <form>Uměla</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m111-d1t1295-1">
 <w.rf>
@@ -3557,7 +3557,7 @@
 <LM>w#w-d1t1342-17</LM>
 </w.rf>
 <form>Skáče</form>
-<tag lemma="skákat" src="auto" recommended="1">VB-S---3P-AA---</tag>
+<tag lemma="skákat" src="auto" recommended="1">VB-S---3P-AAI-1</tag>
 </m>
 <m id="m111-d1t1342-18">
 <w.rf>

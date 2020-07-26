@@ -169,7 +169,7 @@
 <LM>w#w-wsj1054-001-p1s1W12</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m-wsj1054-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-wsj1054-001-p1s1W21</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m-wsj1054-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-wsj1054-001-p1s4W16</LM>
 </w.rf>
 <form>Nenechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-NAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-wsj1054-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-wsj1054-001-p1s6W8</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m-wsj1054-001-p1s6W9-Ta">
 <src.rf>tagger-a</src.rf>

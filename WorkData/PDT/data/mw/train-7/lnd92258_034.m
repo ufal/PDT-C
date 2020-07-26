@@ -274,7 +274,7 @@
 <form>TASS</form>
 <tag>
 <AM lemma="TASS_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TASS_;m_^(ruská_tisková_agentura)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-034-p1s2w7">

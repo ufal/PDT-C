@@ -2416,7 +2416,7 @@
 <LM>w#w-wsj1438-001-p1s12W2</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj1438-001-p1s12W3-Ta">
 <src.rf>tagger-a</src.rf>

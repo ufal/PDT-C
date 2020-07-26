@@ -170,7 +170,7 @@
 <LM>w#w-ln94202-63-p2s1Cw3</LM>
 </w.rf>
 <form>chorvatsko</form>
-<tag lemma="chorvatský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="chorvatsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94202-63-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -890,7 +890,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-63-p4s2w16">
@@ -939,7 +939,7 @@
 <LM>w#w-ln94202-63-p4s2w21</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-ln94202-63-p4s2w22">
 <src.rf>manual</src.rf>
@@ -1932,7 +1932,7 @@
 <LM>w#w-ln94202-63-p6s2w10</LM>
 </w.rf>
 <form>jižně</form>
-<tag lemma="jižně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="jižně_^(*1í)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94202-63-p6s2w11">
 <src.rf>manual</src.rf>

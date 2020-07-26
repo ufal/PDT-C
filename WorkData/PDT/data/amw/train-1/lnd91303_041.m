@@ -181,7 +181,7 @@
 <AM lemma="Stasi_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Stasi_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Stasi_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Stasi_;m_^(Staatssicherheitsdienst)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-041-p1s1Aw21">
@@ -274,7 +274,7 @@
 <AM lemma="Stasi_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Stasi_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Stasi_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Stasi_;m_^(Staatssicherheitsdienst)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-041-p1s1Aw32">
@@ -447,7 +447,7 @@
 <LM>w#w-lnd91303-041-p2s1Aw1</LM>
 </w.rf>
 <form>Nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd91303-041-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-lnd91303-041-p2s1Aw3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91303-041-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <form>Nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--1----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-041-p2s2w2">
@@ -724,7 +724,7 @@
 <LM>w#w-lnd91303-041-p2s2w19</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91303-041-p2s2w20">
 <src.rf>manual</src.rf>

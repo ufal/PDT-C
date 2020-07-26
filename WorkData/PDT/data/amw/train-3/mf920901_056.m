@@ -168,7 +168,7 @@
 <LM>w#w-mf920901-056-p1s2w12</LM>
 </w.rf>
 <form>sype</form>
-<tag lemma="sypat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="sypat" src="orig" selected="1">VB-S---3P-AAI-1</tag>
 </m>
 <m id="m-mf920901-056-p1s2w13">
 <src.rf>manual</src.rf>

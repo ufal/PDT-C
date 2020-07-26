@@ -223,7 +223,7 @@
 <LM>w#w-mf920902-100-p2s2w11</LM>
 </w.rf>
 <form>Elektra</form>
-<tag lemma="Elektra_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Elektra_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-100-p2s2w12">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-mf920902-100-p2s3w6</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920902-100-p2s3w7">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-mf920902-100-p2s3w25</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920902-100-p2s3w26">
 <src.rf>manual</src.rf>

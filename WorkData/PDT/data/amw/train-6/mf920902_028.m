@@ -974,7 +974,7 @@
 <LM>w#w-mf920902-028-p2s7w13</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920902-028-p2s7w14">
 <src.rf>manual</src.rf>
@@ -1358,7 +1358,7 @@
 <LM>w#w-mf920902-028-p2s11w4</LM>
 </w.rf>
 <form>ušel</form>
-<tag lemma="ujít-1_^(vzdálenost,_kus_cesty)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="ujít-1_^(kus_cesty,výdělek)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-028-p2s11w5">
 <src.rf>manual</src.rf>

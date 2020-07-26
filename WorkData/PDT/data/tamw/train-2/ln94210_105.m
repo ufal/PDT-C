@@ -489,7 +489,7 @@
 <LM>w#w-ln94210-105-p2s2w22</LM>
 </w.rf>
 <form>událostech</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln94210-105-p2s2w23">
 <src.rf>manual</src.rf>
@@ -1830,7 +1830,7 @@
 <LM>w#w-ln94210-105-p4s6w3</LM>
 </w.rf>
 <form>tezemi</form>
-<tag lemma="teze" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="teze_,s_^(^DD**téze)" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln94210-105-p4s6w4">
 <src.rf>manual</src.rf>

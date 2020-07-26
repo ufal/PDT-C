@@ -287,7 +287,7 @@
 <LM>w#w-ln95044-123-p2s1Bw28</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95044-123-p2s1Bw29">
 <src.rf>manual</src.rf>

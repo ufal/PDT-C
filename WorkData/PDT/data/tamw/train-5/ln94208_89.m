@@ -483,7 +483,7 @@
 <form>jako</form>
 <tag>
 <AM lemma="jako-1" src="auto">J,-------------</AM>
-<AM lemma="jako-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jako-1" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-89-p2s2w40">
@@ -1086,7 +1086,7 @@
 <LM>w#w-ln94208-89-p2s4w25</LM>
 </w.rf>
 <form>Vlajku</form>
-<tag lemma="Vlajka" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="Vlajka_;m" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94208-89-p2s4w26">
 <src.rf>manual</src.rf>
@@ -1158,7 +1158,7 @@
 <LM>w#w-ln94208-89-p2s4w34</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94208-89-p2s4w35">
 <src.rf>manual</src.rf>
@@ -2525,7 +2525,7 @@
 <LM>w#w-ln94208-89-p3s7w16</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln94208-89-p3s7w17">
 <src.rf>manual</src.rf>
@@ -2599,7 +2599,7 @@
 <LM>w#w-ln94208-89-p3s8w1</LM>
 </w.rf>
 <form>Přeloženo</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94208-89-p3s8w2">
 <src.rf>manual</src.rf>
@@ -2836,7 +2836,7 @@
 <LM>w#w-ln94208-89-p3s9w10</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94208-89-p3s9w11">
 <src.rf>manual</src.rf>
@@ -3474,7 +3474,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-89-p4s3w14">
@@ -3547,7 +3547,7 @@
 <LM>w#w-ln94208-89-p4s3w22</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-89-p4s3w23">
 <src.rf>manual</src.rf>

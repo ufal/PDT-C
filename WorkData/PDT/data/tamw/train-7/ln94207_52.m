@@ -571,7 +571,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-52-p2s3w27">
@@ -1169,7 +1169,7 @@
 <form>USD</form>
 <tag>
 <AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD_;^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-52-p3s4w16">
@@ -1547,7 +1547,7 @@
 <LM>w#w-ln94207-52-p3s6w5</LM>
 </w.rf>
 <form>zatčen</form>
-<tag lemma="zatknout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="zatknout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln94207-52-p3s6w6">
 <src.rf>manual</src.rf>

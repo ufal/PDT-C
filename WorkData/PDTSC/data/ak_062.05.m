@@ -326,7 +326,7 @@
 <LM>w#w-d1t1078-13</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m062-d-m-d1e1038-x4-punct-punct">
 <w.rf>
@@ -460,7 +460,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -710,7 +710,7 @@
 <LM>w#w-d1t1105-12</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m062-d1t1105-13">
 <w.rf>
@@ -907,7 +907,7 @@
 <LM>w#w-d1t1112-5</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m062-d1t1112-7">
 <w.rf>
@@ -1192,7 +1192,7 @@
 <LM>w#w-d1t1137-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m062-d1t1137-5">
 <w.rf>
@@ -1361,7 +1361,7 @@
 <LM>w#w-d1t1152-1</LM>
 </w.rf>
 <form>myslelo</form>
-<tag lemma="myslet" src="auto" recommended="1">VpNS----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpNS----R-AAI-1</tag>
 </m>
 <m id="m062-599-600">
 <w.rf>
@@ -1564,7 +1564,7 @@
 <LM>w#w-d1t1160-4</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m062-d1t1160-5">
 <w.rf>
@@ -2304,7 +2304,7 @@
 <LM>w#w-d1t1213-2</LM>
 </w.rf>
 <form>můžem</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---1P-AAI-6</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---1P-AAI-6</tag>
 </m>
 <m id="m062-d1e1206-x3-638">
 <w.rf>
@@ -2968,7 +2968,7 @@
 <LM>w#w-d1t1245-4</LM>
 </w.rf>
 <form>Vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m062-d1t1245-2">
 <w.rf>
@@ -3048,7 +3048,7 @@
 <LM>w#w-d1t1245-12</LM>
 </w.rf>
 <form>myslel</form>
-<tag lemma="myslet" src="auto" recommended="1">VpYS----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m062-d-id103304-punct">
 <w.rf>
@@ -3478,7 +3478,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -4172,7 +4172,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m062-d1t1307-4">

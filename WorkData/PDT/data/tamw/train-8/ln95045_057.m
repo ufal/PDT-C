@@ -21,7 +21,7 @@
 <form>Agusta</form>
 <tag>
 <AM lemma="Agusta_;m_^(značka_motocyklu)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Agusta_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Agusta_;m_^(značka_motocyklu)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-057-p1s1w2">
@@ -632,7 +632,7 @@
 <LM>w#w-ln95045-057-p2s3w27</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95045-057-p2s3w28">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <form>Agusta</form>
 <tag>
 <AM lemma="Agusta_;m_^(značka_motocyklu)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Agusta_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Agusta_;m_^(značka_motocyklu)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-057-p2s4w7">
@@ -1246,7 +1246,7 @@
 <form>Agusta</form>
 <tag>
 <AM lemma="Agusta_;m_^(značka_motocyklu)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Agusta_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Agusta_;m_^(značka_motocyklu)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-057-p3s2w19">
@@ -2360,7 +2360,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln95045-057-p5s1w6">
@@ -2491,7 +2491,7 @@
 <form>Agusta</form>
 <tag>
 <AM lemma="Agusta_;m_^(značka_motocyklu)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Agusta_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Agusta_;m_^(značka_motocyklu)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-057-p5s1w22">
@@ -2669,7 +2669,7 @@
 <LM>w#w-ln95045-057-p5s2w1</LM>
 </w.rf>
 <form>Mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-057-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2905,7 +2905,7 @@
 <LM>w#w-ln95045-057-p5s4w8</LM>
 </w.rf>
 <form>nesmyslně</form>
-<tag lemma="nesmyslně_^(nedávající_smysl)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="nesmyslně_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95045-057-p5s4w9">
 <src.rf>manual</src.rf>
@@ -2979,7 +2979,7 @@
 <form>Agusta</form>
 <tag>
 <AM lemma="Agusta_;m_^(značka_motocyklu)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Agusta_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Agusta_;m_^(značka_motocyklu)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-057-p5s4w18">
@@ -3292,7 +3292,7 @@
 <LM>w#w-ln95045-057-p6s3w5</LM>
 </w.rf>
 <form>vzati</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VsMP----X-APP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95045-057-p6s3w6">
 <src.rf>manual</src.rf>
@@ -3916,7 +3916,7 @@
 <form>Agustou</form>
 <tag>
 <AM lemma="Agusta_;m_^(značka_motocyklu)" src="auto">NNFS7-----A----</AM>
-<AM lemma="Agusta_;m" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Agusta_;m_^(značka_motocyklu)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-057-p7s2w11">
@@ -4029,7 +4029,7 @@
 <LM>w#w-ln95045-057-p7s2w24</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-057-p7s2w25">
 <src.rf>manual</src.rf>

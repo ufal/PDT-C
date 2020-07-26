@@ -43,7 +43,7 @@
 <LM>w#w-lnd92251-100-p1s1w4</LM>
 </w.rf>
 <form>NEZASTAVILY</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpTP----R-NAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-lnd92251-100-p1s1w5">
 <src.rf>manual</src.rf>

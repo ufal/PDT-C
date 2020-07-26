@@ -168,7 +168,7 @@
 <LM>w#w-mf930701-028-p5s1w2</LM>
 </w.rf>
 <form>spořitelna</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-028-p5s1w3">
 <src.rf>manual</src.rf>

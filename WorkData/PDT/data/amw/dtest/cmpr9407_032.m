@@ -37,7 +37,7 @@
 <form>ilustr</form>
 <tag>
 <AM lemma="ilustrace_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ilustrace" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="ilustrace" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-032-p2s1w4">

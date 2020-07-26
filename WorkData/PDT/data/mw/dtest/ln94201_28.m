@@ -67,7 +67,7 @@
 <LM>w#w-ln94201-28-p1s1w7</LM>
 </w.rf>
 <form>nechaly</form>
-<tag lemma="nechat" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-28-p1s1w8">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-ln94201-28-p2s1w17</LM>
 </w.rf>
 <form>vzalo</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="vzít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-28-p2s1w18">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-ln94201-28-p2s1w30</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94201-28-p2s1w31">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <LM>w#w-ln94201-28-p2s2w4</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94201-28-p2s2w5">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-ln94201-28-p2s2w7</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94201-28-p2s2w8">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-28-p2s4w8">
@@ -767,7 +767,7 @@
 <LM>w#w-ln94201-28-p2s5w6</LM>
 </w.rf>
 <form>nenechalo</form>
-<tag lemma="nechat" src="orig" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-ln94201-28-p2s5w7">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-ln94201-28-p2s5w19</LM>
 </w.rf>
 <form>nenechalo</form>
-<tag lemma="nechat" src="orig" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-ln94201-28-p2s5w20">
 <src.rf>manual</src.rf>
@@ -1052,7 +1052,7 @@
 <LM>w#w-ln94201-28-p2s7w4</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94201-28-p2s7w5">
 <src.rf>manual</src.rf>
@@ -1140,7 +1140,7 @@
 <LM>w#w-ln94201-28-p2s7w15</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94201-28-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1176,7 +1176,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-28-p2s8w4">
@@ -1209,7 +1209,7 @@
 <LM>w#w-ln94201-28-p2s8w7</LM>
 </w.rf>
 <form>nechalo</form>
-<tag lemma="nechat" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-28-p2s8w8">
 <src.rf>manual</src.rf>
@@ -1278,7 +1278,7 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-28-p2s8w16">
@@ -1469,7 +1469,7 @@
 <LM>w#w-ln94201-28-p2s9w10</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln94201-28-p2s9w11">
 <src.rf>manual</src.rf>
@@ -1527,7 +1527,7 @@
 <form>ČSSD</form>
 <tag>
 <AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSSD_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-28-p2s9w18">

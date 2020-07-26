@@ -157,7 +157,7 @@
 <LM>w#w-ln95048-052-p2s1w16</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-052-p2s1w17">
 <src.rf>manual</src.rf>
@@ -1299,7 +1299,7 @@
 <LM>w#w-ln95048-052-p4s2w7</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="orig" selected="1">J,-S---1-------</tag>
+<tag lemma="aby" src="orig" selected="1">J,-----------c-</tag>
 </m>
 <m id="m-ln95048-052-p4s2w9">
 <src.rf>manual</src.rf>
@@ -2578,7 +2578,7 @@
 <form>srov</form>
 <tag>
 <AM lemma="srovnat_:B_:W_^(odkaz_na_jiné_místo)" src="auto">Vi-S---2--A---8</AM>
-<AM lemma="srovnat_^(odkaz_na_jiné_místo)" src="manual" selected="1">Vi-S---2--A---8</AM>
+<AM lemma="srovnat" src="manual" selected="1">Vi-S---2--A-P-b</AM>
 </tag>
 </m>
 <m id="m-ln95048-052-p6s3w35">
@@ -2982,7 +2982,7 @@
 <LM>w#w-ln95048-052-p7s1w12</LM>
 </w.rf>
 <form>přejato</form>
-<tag lemma="přejmout" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="přejmout_^(převzít)" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95048-052-p7s1w13">
 <src.rf>manual</src.rf>
@@ -3098,7 +3098,7 @@
 <form>stol</form>
 <tag>
 <AM lemma="století_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="století" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="století" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95048-052-p7s2w5">
@@ -3173,7 +3173,7 @@
 <LM>w#w-ln95048-052-p7s3w1</LM>
 </w.rf>
 <form>Mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95048-052-p7s3w2">
 <src.rf>manual</src.rf>
@@ -3229,7 +3229,7 @@
 <LM>w#w-ln95048-052-p7s3w8</LM>
 </w.rf>
 <form>vydávala</form>
-<tag lemma="vydávat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="vydávat_^(*4at)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95048-052-p7s3w9">
 <src.rf>manual</src.rf>
@@ -3287,7 +3287,7 @@
 <form>srov</form>
 <tag>
 <AM lemma="srovnat_:B_:W_^(odkaz_na_jiné_místo)" src="auto">Vi-S---2--A---8</AM>
-<AM lemma="srovnat_^(odkaz_na_jiné_místo)" src="manual" selected="1">Vi-S---2--A---8</AM>
+<AM lemma="srovnat" src="manual" selected="1">Vi-S---2--A-P-b</AM>
 </tag>
 </m>
 <m id="m-ln95048-052-p7s3w16">
@@ -3545,7 +3545,7 @@
 <LM>w#w-ln95048-052-p8s1w9</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95048-052-p8s1w10">
 <src.rf>manual</src.rf>
@@ -3577,7 +3577,7 @@
 <LM>w#w-ln95048-052-p8s1w13</LM>
 </w.rf>
 <form>přejato</form>
-<tag lemma="přejmout" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="přejmout_^(převzít)" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95048-052-p8s1w14">
 <src.rf>manual</src.rf>
@@ -4326,7 +4326,7 @@
 <LM>w#w-ln95048-052-p9s2w3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95048-052-p9s2w4">
 <src.rf>manual</src.rf>
@@ -4604,7 +4604,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln95048-052-p10s2w15">
@@ -4831,7 +4831,7 @@
 <LM>w#w-ln95048-052-p10s4w1</LM>
 </w.rf>
 <form>Stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-052-p10s4w2">
 <src.rf>manual</src.rf>

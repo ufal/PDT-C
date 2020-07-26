@@ -276,7 +276,7 @@
 <LM>w#w-lnd94104-097-p1s2w10</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-097-p1s2w11">
 <src.rf>manual</src.rf>

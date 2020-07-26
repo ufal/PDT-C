@@ -518,7 +518,7 @@
 <LM>w#w-ln95048-093-p2s2w39</LM>
 </w.rf>
 <form>Martinu</form>
-<tag lemma="Martina_;Y" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Martina_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-093-p2s2w40">
 <src.rf>manual</src.rf>

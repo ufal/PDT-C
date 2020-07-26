@@ -316,7 +316,7 @@
 <form>mil</form>
 <tag>
 <AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln95048-082-p2s1Cw25">
@@ -899,7 +899,7 @@
 <LM>w#w-ln95048-082-p3s4w1</LM>
 </w.rf>
 <form>Generálka</form>
-<tag lemma="generálka_^(zkouška)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="generálka_^(*2)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-082-p3s4w2">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 <form>pozn</form>
 <tag>
 <AM lemma="poznámka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95048-082-p3s4w10">
@@ -985,7 +985,7 @@
 <tag>
 <AM lemma="red_^(redakce)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="redakce_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95048-082-p3s4w12">

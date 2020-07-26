@@ -832,7 +832,7 @@
 <LM>w#w-wsj1030-001-p1s3W12</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1030-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>

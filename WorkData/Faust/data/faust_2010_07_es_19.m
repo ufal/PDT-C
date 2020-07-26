@@ -25,7 +25,7 @@
 <form>bychom</form>
 <tag>
 <AM lemma="být" recommended="1">Vc-P---1-------</AM>
-<AM lemma="být" src="manual" selected="1">Vc-P---1----I--</AM>
+<AM lemma="být" src="manual" selected="1">Vc----------Im-</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p1985-s1-w3">
@@ -595,7 +595,7 @@
 <LM>w#w-es_19-SCzechM-p1994-s1-w6</LM>
 </w.rf>
 <form>potřebami</form>
-<tag lemma="potřeba" recommended="1">NNFP7-----A----</tag>
+<tag lemma="potřeba-1" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="es_19-SCzechM-p1994-s1-w7">
 <w.rf>
@@ -2679,7 +2679,7 @@
 <LM>w#w-es_19-SCzechM-p2025-s1-w3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_19-SCzechM-p2025-s1-w4">
 <w.rf>
@@ -2940,7 +2940,7 @@
 <AM lemma="Lana_;G">NNFP2-----A----</AM>
 <AM lemma="lano">NNNP2-----A----</AM>
 <AM lemma="LAN_:B_^(počítačová_síť)" src="manual">NNXXX-----A----</AM>
-<AM lemma="LAN_^(počítačová_síť)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="LAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2026-s1-w15">
@@ -3024,7 +3024,7 @@
 <AM lemma="LAN_:B_^(počítačová_síť)">NNXXX-----A---8</AM>
 <AM lemma="Lana_;G">NNFP2-----A----</AM>
 <AM lemma="LAN_:B_^(počítačová_síť)" src="manual">NNXXX-----A----</AM>
-<AM lemma="LAN_^(počítačová_síť)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="LAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2026-s1-w22">
@@ -4040,7 +4040,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -4719,7 +4719,7 @@
 </w.rf>
 <form>pane</form>
 <tag>
-<AM lemma="pan_^(oslovení)" recommended="1">NNMS5-----A----</AM>
+<AM lemma="pan" recommended="1">NNMS5-----A----</AM>
 <AM lemma="pán_^(oslovení)">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -5393,7 +5393,7 @@
 <LM>w#w-es_19-SCzechM-p2049-s1-w33</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" recommended="1">Db-------------</tag>
+<tag lemma="například" recommended="1">TT-------------</tag>
 </m>
 <m id="es_19-SCzechM-p2049-s1-w34">
 <w.rf>
@@ -6391,7 +6391,7 @@
 <tag>
 <AM lemma="WWW-1_:B_,t_,x_^(World_Wide_Web)" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="www_:B_^(World_Wide_Web)" src="manual">NNXXX-----A----</AM>
-<AM lemma="www_^(World_Wide_Web)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="www_^(world_wide_web)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2065-s1-w5">
@@ -7289,7 +7289,7 @@
 <LM>w#w-es_19-SCzechM-p2080-s1-w6</LM>
 </w.rf>
 <form>></form>
-<tag lemma="&amp;gt;" recommended="1">Z:-------------</tag>
+<tag lemma="&gt;" recommended="1">Z:-------------</tag>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w7">
 <w.rf>
@@ -7634,7 +7634,7 @@
 <form>http</form>
 <tag>
 <AM lemma="HTTP-1_:B_,t_,x_^(Hypertext_transfer_protocol)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="http-1_^(Hypertext_transfer_protocol)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="http_^(Hypertext_transfer_protocol)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w40">

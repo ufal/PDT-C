@@ -63,7 +63,7 @@
 <LM>w#w-ln95044-048-p2s1Bw3</LM>
 </w.rf>
 <form>Dvojnásob</form>
-<tag lemma="dvojnásob" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dvojnásob`2" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-048-p2s1Bw4">
 <src.rf>manual</src.rf>

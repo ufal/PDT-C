@@ -1581,7 +1581,7 @@
 <LM>w#w-ln95047-140-p5s2w20</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln95047-140-p5s2w21">
 <src.rf>manual</src.rf>
@@ -1655,7 +1655,7 @@
 <LM>w#w-ln95047-140-p6s1w8</LM>
 </w.rf>
 <form>Matematicko</form>
-<tag lemma="matematický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="matematicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95047-140-p6s1w9">
 <src.rf>manual</src.rf>
@@ -1862,7 +1862,7 @@
 <form>VŠE</form>
 <tag>
 <AM lemma="VŠE_:B_;m_^(Vysoká_škola_ekonomická)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VŠE_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VŠE_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-140-p7s1w6">
@@ -2453,7 +2453,7 @@
 <LM>w#w-ln95047-140-p7s6w10</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95047-140-p7s6w11">
 <src.rf>manual</src.rf>
@@ -2544,7 +2544,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-140-p7s6w22">
@@ -3281,7 +3281,7 @@
 <LM>w#w-ln95047-140-p9s2w20</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95047-140-p9s2w21">
 <src.rf>manual</src.rf>

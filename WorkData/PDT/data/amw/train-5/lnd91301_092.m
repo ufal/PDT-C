@@ -695,7 +695,7 @@
 <AM lemma="Micubiši-2_;m_^(vozidlo)" src="orig">NNNXX-----A----</AM>
 <AM lemma="Mitsubishi_;m" src="auto" recommended="1">NNXXX-----A---6</AM>
 <AM lemma="mitsubishi_;m_^(vozidlo)" src="auto">NNXXX-----A---6</AM>
-<AM lemma="Micubiši_;m_,s_^(^DD**Mitsubishi)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Micubiši_;m_,s_^(^DD**Mitsubishi)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-092-p4s3w30">
@@ -818,7 +818,7 @@
 <AM lemma="Micubiši-2_;m_^(vozidlo)" src="orig">NNNXX-----A----</AM>
 <AM lemma="Mitsubishi_;m" src="auto" recommended="1">NNXXX-----A---6</AM>
 <AM lemma="mitsubishi_;m_^(vozidlo)" src="auto">NNXXX-----A---6</AM>
-<AM lemma="Micubiši_;m_,s_^(^DD**Mitsubishi)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Micubiši_;m_,s_^(^DD**Mitsubishi)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-092-p4s3w44">
@@ -861,7 +861,7 @@
 <LM>w#w-lnd91301-092-p4s4w3</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-092-p4s4w4">
 <src.rf>manual</src.rf>
@@ -972,7 +972,7 @@
 <form>Yamaha</form>
 <tag>
 <AM lemma="Yamaha-2_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Yamaha-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Yamaha_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-092-p4s5w9">

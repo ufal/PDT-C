@@ -438,7 +438,7 @@
 <LM>w#w-mf920902-079-p1s4w11</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920902-079-p1s4w12">
 <src.rf>manual</src.rf>

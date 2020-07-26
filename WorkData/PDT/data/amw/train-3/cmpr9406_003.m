@@ -154,7 +154,7 @@
 <LM>w#w-cmpr9406-003-p4s1w13</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-cmpr9406-003-p4s1w14">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <form>ČNB</form>
 <tag>
 <AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_;m_^(Česká_národní_banka)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČNB_;m_^(Česká_národní_banka)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-003-p9s1w7">
@@ -1909,7 +1909,7 @@
 <LM>w#w-cmpr9406-003-p11s1w12</LM>
 </w.rf>
 <form>navržena</form>
-<tag lemma="navrhnout" src="orig" selected="1">VsQW----X-AP---</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-cmpr9406-003-p11s1w13">
 <src.rf>manual</src.rf>
@@ -2511,7 +2511,7 @@
 <LM>w#w-cmpr9406-003-p12s1w14</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-003-p12s1w15">
 <src.rf>manual</src.rf>
@@ -3052,7 +3052,7 @@
 <LM>w#w-cmpr9406-003-p13s3w13</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-cmpr9406-003-p13s3w14">
 <src.rf>manual</src.rf>

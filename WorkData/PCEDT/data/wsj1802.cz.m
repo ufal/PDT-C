@@ -2330,7 +2330,7 @@
 <LM>w#w-wsj1802-001-p1s5W16</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1802-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2735,7 +2735,7 @@
 <LM>w#w-wsj1802-001-p1s6W12</LM>
 </w.rf>
 <form>zasažena</form>
-<tag lemma="zasáhnout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="zasáhnout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj1802-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6172,7 +6172,7 @@
 <LM>w#w-wsj1802-001-p1s15W24</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj1802-001-p1s15W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7202,7 +7202,7 @@
 <LM>w#w-wsj1802-001-p1s17W35</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1802-001-p1s17W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7394,7 +7394,7 @@
 <LM>w#w-wsj1802-001-p1s17W49</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1802-001-p1s17W50-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7920,7 +7920,7 @@
 <LM>w#w-wsj1802-001-p1s19W4</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1802-001-p1s19W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8098,7 +8098,7 @@
 <LM>w#w-wsj1802-001-p1s20W4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj1802-001-p1s20W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11201,7 +11201,7 @@
 <form>Nejistota</form>
 <tag>
 <AM lemma="nejistota" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="jistota" src="manual" selected="1">NNFS1-----N----</AM>
+<AM lemma="nejistota" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1802-001-p1s30W2-Ta">

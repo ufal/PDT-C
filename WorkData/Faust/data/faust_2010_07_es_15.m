@@ -1368,7 +1368,7 @@
 <form>dát</form>
 <tag>
 <AM lemma="dát" recommended="1">Vf--------A-P--</AM>
-<AM lemma="dát" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="dát-1" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="es_15-SCzechM-p1546-s1-w6">
@@ -1759,7 +1759,7 @@
 <form>dřív</form>
 <tag>
 <AM lemma="brzy" recommended="1">Dg-------2A---5</AM>
-<AM lemma="brzy" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="dříve" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="es_15-SCzechM-p1556-s1-w17">
@@ -1960,7 +1960,7 @@
 <LM>w#w-es_15-SCzechM-p1559-s1-w1</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" recommended="1">ACYS------A----</tag>
 </m>
 <m id="es_15-SCzechM-p1559-s1-w2">
 <w.rf>
@@ -1979,7 +1979,7 @@
 <form>lížu</form>
 <tag>
 <AM lemma="lízat" recommended="1">VB-S---1P-AA---</AM>
-<AM lemma="lízat" src="manual" selected="1">VB-S---1P-AAI--</AM>
+<AM lemma="lízat" src="manual" selected="1">VB-S---1P-AAI-1</AM>
 </tag>
 </m>
 <m id="es_15-SCzechM-p1559-s1-w4">
@@ -3229,7 +3229,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -3365,7 +3365,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -4386,7 +4386,7 @@
 <LM>w#w-es_15-SCzechM-p1616-s1-w4</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="es_15-SCzechM-p1616-s1-w5">
 <w.rf>

@@ -180,7 +180,7 @@
 <LM>w#w-mf920924-001-p4s1w2</LM>
 </w.rf>
 <form>sekretářku</form>
-<tag lemma="sekretářka_^(*2)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="sekretářka-2_^(*4-2)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf920924-001-p5s1">
@@ -198,7 +198,7 @@
 <LM>w#w-mf920924-001-p5s1w2</LM>
 </w.rf>
 <form>sekretářku</form>
-<tag lemma="sekretářka_^(*2)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="sekretářka-2_^(*4-2)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920924-001-p5s1w3">
 <src.rf>manual</src.rf>

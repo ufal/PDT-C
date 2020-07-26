@@ -1785,7 +1785,7 @@
 <LM>w#w-ln94205-4-p4s2w3</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94205-4-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1899,7 +1899,7 @@
 <LM>w#w-ln94205-4-p4s3w7</LM>
 </w.rf>
 <form>cest</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94205-4-p4s3w8">
 <src.rf>manual</src.rf>
@@ -2479,7 +2479,7 @@
 <AM lemma="MB_:B_^(Mega_Byte)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MB_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="megabit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="megabit" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="megabit" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-4-p4s5w35">
@@ -2793,7 +2793,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln94205-4-p4s7w10">
@@ -2863,7 +2863,7 @@
 <LM>w#w-ln94205-4-p4s8w3</LM>
 </w.rf>
 <form>předává</form>
-<tag lemma="předávat-3_^(někomu_něco)_(*6at-3)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="předávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-4-p4s8w4">
 <src.rf>manual</src.rf>

@@ -144,7 +144,7 @@
 <form>Stoličnaja</form>
 <tag>
 <AM lemma="Stoličnaja-1_,t_^(vodka)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Stoličnaja-1_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Stoličnaja_;m_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-031-p1s1w17">

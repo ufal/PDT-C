@@ -109,7 +109,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1807,7 +1807,7 @@
 <LM>w#w-wsj1962-001-p1s6W4</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1962-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1857,7 +1857,7 @@
 <LM>w#w-wsj1962-001-p1s6W9</LM>
 </w.rf>
 <form>nikoliv</form>
-<tag lemma="nikoli" src="auto" recommended="1">TT------------1</tag>
+<tag lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1962-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2044,7 +2044,7 @@
 <LM>w#w-wsj1962-001-p1s6W23</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1962-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2861,7 +2861,7 @@
 <LM>w#w-wsj1962-001-p1s10W6</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1962-001-p1s10W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2900,7 +2900,7 @@
 <LM>w#w-wsj1962-001-p1s10W10</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vždy" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1962-001-p1s10W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2916,7 +2916,7 @@
 <LM>w#w-wsj1962-001-p1s10W12</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1962-001-p1s10W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3456,7 +3456,7 @@
 <LM>w#w-wsj1962-001-p1s13W7</LM>
 </w.rf>
 <form>datem</form>
-<tag lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS7-----A----</tag>
 </m>
 <m id="m-wsj1962-001-p1s13W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3993,7 +3993,7 @@
 <LM>w#w-wsj1962-001-p1s15W9</LM>
 </w.rf>
 <form>datem</form>
-<tag lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS7-----A----</tag>
 </m>
 <m id="m-wsj1962-001-p1s15W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6726,7 +6726,7 @@
 <LM>w#w-wsj1962-001-p1s25W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1962-001-p1s25W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6927,7 +6927,7 @@
 <LM>w#w-wsj1962-001-p1s25W18</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1962-001-p1s25W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7519,7 +7519,7 @@
 <LM>w#w-wsj1962-001-p1s28W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1962-001-p1s28W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8108,7 +8108,7 @@
 <LM>w#w-wsj1962-001-p1s31W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1962-001-p1s31W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11742,7 +11742,7 @@
 <LM>w#w-wsj1962-001-p1s45W14</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1962-001-p1s45W15-Ta">
 <src.rf>tagger-a</src.rf>

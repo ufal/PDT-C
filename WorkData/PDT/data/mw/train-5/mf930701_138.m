@@ -863,7 +863,7 @@
 <form>zdvojnásobit</form>
 <tag>
 <AM lemma="zdvojnásobit" src="orig">Vf--------A-P--</AM>
-<AM lemma="zdvojnásobit_,s_^(^DD**zdvounásobit)" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="zdvojnásobit" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-mf930701-138-p2s4w10">

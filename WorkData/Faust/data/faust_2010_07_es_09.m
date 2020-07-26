@@ -592,7 +592,7 @@
 <LM>w#w-es_09-SCzechM-p0876-s1-w28</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="es_09-SCzechM-p0876-s1-w29">
 <w.rf>
@@ -1736,7 +1736,7 @@
 <LM>w#w-es_09-SCzechM-p0896-s1-w18</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" recommended="1">Vc-P---2-------</tag>
+<tag lemma="být" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="es_09-SCzechM-p0896-s1-w19">
 <w.rf>
@@ -2013,7 +2013,7 @@
 </w.rf>
 <form>výše</form>
 <tag>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" recommended="1">Dg-------2A---1</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)">NNFP1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)">NNFP4-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)">NNFP5-----A----</AM>
@@ -2309,7 +2309,7 @@
 <form>uzamčeny</form>
 <tag>
 <AM lemma="uzamknout" recommended="1">VsTP---XX-AP---</AM>
-<AM lemma="uzamknout" src="manual" selected="1">VsTP----X-APP--</AM>
+<AM lemma="uzamknout" src="manual" selected="1">VsTP----X-APP-1</AM>
 </tag>
 </m>
 </s>
@@ -2829,7 +2829,7 @@
 <LM>w#w-es_09-SCzechM-p0911-s1-w5</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" recommended="1">Dg-------1A----</tag>
 </m>
 </s>
 <s id="s-es_09-SCzechM-p0913-s1-w5">
@@ -3008,7 +3008,7 @@
 <LM>w#w-es_09-SCzechM-p0914-s1-w2</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="es_09-SCzechM-p0914-s1-w3">
 <w.rf>
@@ -3185,7 +3185,7 @@
 <LM>w#w-es_09-SCzechM-p0921-s1-w13</LM>
 </w.rf>
 <form>hůř</form>
-<tag lemma="špatně" recommended="1">Dg-------2A----</tag>
+<tag lemma="hůře" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="es_09-SCzechM-p0921-s1-w14">
 <w.rf>
@@ -3272,7 +3272,7 @@
 <LM>w#w-es_09-SCzechM-p0921-s1-w23</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" recommended="1">Dg-------3A----</tag>
+<tag lemma="lépe" recommended="1">Dg-------3A----</tag>
 </m>
 </s>
 <s id="s-es_09-SCzechM-p0924-s1-w2">
@@ -3678,7 +3678,7 @@
 <LM>w#w-es_09-SCzechM-p0930-s1-w25</LM>
 </w.rf>
 <form>héliem</form>
-<tag lemma="hélium" recommended="1">NNNS7-----A----</tag>
+<tag lemma="hélium_,s_^(^DD**helium)" recommended="1">NNNS7-----A----</tag>
 </m>
 <m id="es_09-SCzechM-p0930-s1-w26">
 <w.rf>
@@ -4857,7 +4857,7 @@
 </w.rf>
 <form>politika</form>
 <tag>
-<AM lemma="politika_^(věda)" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politik">NNMS2-----A----</AM>
 <AM lemma="politik">NNMS4-----A----</AM>
 <AM lemma="politikum">NNNP1-----A----</AM>
@@ -5082,7 +5082,7 @@
 <LM>w#w-es_09-SCzechM-p0949-s1-w2</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" recommended="1">Db-------------</tag>
+<tag lemma="dost" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="es_09-SCzechM-p0949-s1-w3">
 <w.rf>
@@ -5389,7 +5389,7 @@
 <form>byste</form>
 <tag>
 <AM lemma="být" recommended="1">Vc-P---2-------</AM>
-<AM lemma="být" src="manual" selected="1">Vc-P---2----I--</AM>
+<AM lemma="být" src="manual" selected="1">Vc----------Ie-</AM>
 </tag>
 </m>
 <m id="es_09-SCzechM-p0952-s1-w21">
@@ -6041,7 +6041,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>

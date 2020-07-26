@@ -394,7 +394,7 @@
 <LM>w#w-id58457-2</LM>
 </w.rf>
 <form>maji</form>
-<tag lemma="mít_,h" src="auto" recommended="1">VB-P---3P-AAI-7</tag>
+<tag lemma="mít" src="auto" recommended="1">VB-P---3P-AAI-7</tag>
 </m>
 <m id="m973-id58457-4">
 <w.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-id58524-5</LM>
 </w.rf>
 <form>řikali</form>
-<tag lemma="říkat" src="auto" recommended="1">VpMP----R-AA--6</tag>
+<tag lemma="řikat_,h_^(^GC**říkat)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m973-1279-1296">
 <w.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-id58562-7</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m973-id58562-8">
 <w.rf>
@@ -1219,7 +1219,7 @@
 <tag>
 <AM lemma="GPU-1_:B_,t_^(ground_power_unit)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="GPU-2_:B_;m_,t_^(Gosudarstvennoje_političeskoje_upravlen.)" src="auto">NNFXX-----A----</AM>
-<AM lemma="GPU-2_;m_^(Gosudarstvennoje_političeskoje_upravlen.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GPU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m973-1878-1885">
@@ -1239,7 +1239,7 @@
 <tag>
 <AM lemma="GPU-1_:B_,t_^(ground_power_unit)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="GPU-2_:B_;m_,t_^(Gosudarstvennoje_političeskoje_upravlen.)" src="auto">NNFXX-----A----</AM>
-<AM lemma="GPU-2_;m_^(Gosudarstvennoje_političeskoje_upravlen.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GPU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m973-id58641-4">
@@ -1487,7 +1487,7 @@
 </w.rf>
 <form>Poláků</form>
 <tag>
-<AM lemma="Polák_;E" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="Poláky_;G" src="auto">NNIP2-----A----</AM>
 <AM lemma="polák-1_;U" src="auto">NNMP2-----A----</AM>
 </tag>
@@ -1563,7 +1563,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m973-id58742-4">
@@ -1689,7 +1689,7 @@
 <form>pouze</form>
 <tag>
 <AM lemma="pouze" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="pouze_^(*2hý)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="pouze" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m973-id58762-5">
@@ -1793,7 +1793,7 @@
 <LM>w#w-id58777-3</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m973-id58727-x2-390">
 <w.rf>
@@ -1827,7 +1827,7 @@
 <LM>w#w-id58777-5</LM>
 </w.rf>
 <form>přivezl</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="přivézt" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m973-id58727-x2-392">
 <w.rf>
@@ -1969,7 +1969,7 @@
 <LM>w#w-id58787-3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m973-397-6854">
 <w.rf>
@@ -2173,7 +2173,7 @@
 <LM>w#w-id58830-2</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m973-id58830-3">
 <w.rf>
@@ -2468,7 +2468,7 @@
 <LM>w#w-id58883-8</LM>
 </w.rf>
 <form>neuměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m973-id58883-9">
 <w.rf>
@@ -3049,7 +3049,7 @@
 <LM>w#w-id58991-1</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m973-id58991-2">
 <w.rf>
@@ -3253,7 +3253,7 @@
 <LM>w#w-id59075-1</LM>
 </w.rf>
 <form>Neuměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m973-id59066-3">
 <w.rf>

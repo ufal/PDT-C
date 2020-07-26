@@ -340,7 +340,7 @@
 <LM>w#w-mf930713-012-p2s2w6</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-mf930713-012-p2s2w7">
 <src.rf>manual</src.rf>
@@ -920,7 +920,7 @@
 <LM>w#w-mf930713-012-p2s4w4</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930713-012-p2s4w5">
 <src.rf>manual</src.rf>
@@ -930,7 +930,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-mf930713-012-p2s4w6">
@@ -1043,7 +1043,7 @@
 <LM>w#w-mf930713-012-p2s4w19</LM>
 </w.rf>
 <form>zničehonic</form>
-<tag lemma="zničehonic_,h" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zničehonic" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930713-012-p2s4w20">
 <src.rf>manual</src.rf>

@@ -161,7 +161,7 @@
 <LM>w#w-ln95049-135-p2s1Cw7</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95049-135-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-ln95049-135-p3s1w32</LM>
 </w.rf>
 <form>oplů</form>
-<tag lemma="opel_;m_^(vozidlo)" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="opel_^(auto)" src="auto" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-ln95049-135-p3s1w33">
 <src.rf>manual</src.rf>
@@ -1159,7 +1159,7 @@
 <LM>w#w-ln95049-135-p4s3w5</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-135-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1378,7 +1378,7 @@
 <LM>w#w-ln95049-135-p4s5w13</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-135-p4s5w14">
 <src.rf>manual</src.rf>

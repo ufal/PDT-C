@@ -683,7 +683,7 @@
 <LM>w#w-ln95044-040-p2s5w3</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln95044-040-p2s5w4">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-ln95044-040-p2s5w15</LM>
 </w.rf>
 <form>zasaženi</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-ln95044-040-p2s5w16">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-ln95044-040-p2s8w3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95044-040-p2s8w4">
 <src.rf>manual</src.rf>

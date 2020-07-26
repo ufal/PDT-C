@@ -2926,7 +2926,7 @@
 <LM>w#w-wsj0990-001-p1s8W9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0990-001-p1s8W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9391,7 +9391,7 @@
 <LM>w#w-wsj0990-001-p1s29W23</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0990-001-p1s29W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11825,7 +11825,7 @@
 <LM>w#w-wsj0990-001-p1s37W11</LM>
 </w.rf>
 <form>lidmi</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP7-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m-wsj0990-001-p1s37W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15220,7 +15220,7 @@
 <LM>w#w-wsj0990-001-p1s47W25</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0990-001-p1s47W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -17578,7 +17578,7 @@
 </w.rf>
 <form>hub</form>
 <tag>
-<AM lemma="houba_^(houbovitá_věc/rostlina)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="houba" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hub_,t_^(rozbočovač)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hub_,t_^(rozbočovač)" src="auto">NNIS4-----A----</AM>
 <AM lemma="huba_^(vulg._ústa)" src="auto">NNFP2-----A----</AM>
@@ -17656,7 +17656,7 @@
 <LM>w#w-wsj0990-001-p1s55W12</LM>
 </w.rf>
 <form>nalezena</form>
-<tag lemma="naleznout" src="auto" recommended="1">VsQW----X-API--</tag>
+<tag lemma="naleznout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj0990-001-p1s55W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20908,7 +20908,7 @@
 <LM>w#w-wsj0990-001-p1s67W10</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0990-001-p1s67W11-Ta">
 <src.rf>tagger-a</src.rf>

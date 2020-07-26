@@ -510,7 +510,7 @@
 <LM>w#w-lnd92252-079-p3s4w7</LM>
 </w.rf>
 <form>Spartu</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92252-079-p3s4w8">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-lnd92252-079-p3s4w17</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-079-p3s4w18">
 <src.rf>manual</src.rf>
@@ -2374,7 +2374,7 @@
 <LM>w#w-lnd92252-079-p12s7w16</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-lnd92252-079-p12s7w17">
 <src.rf>manual</src.rf>
@@ -2796,7 +2796,7 @@
 <LM>w#w-lnd92252-079-p17s2w1</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-079-p17s2w2">
 <src.rf>manual</src.rf>

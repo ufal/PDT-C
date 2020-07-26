@@ -581,7 +581,7 @@
 <LM>w#w-ln94210-104-p2s5w11</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-ln94210-104-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1220,7 +1220,7 @@
 <LM>w#w-ln94210-104-p2s10w8</LM>
 </w.rf>
 <form>vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94210-104-p2s10w9">
 <src.rf>manual</src.rf>
@@ -1302,7 +1302,7 @@
 <LM>w#w-ln94210-104-p2s11w7</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94210-104-p2s11w8">
 <src.rf>manual</src.rf>
@@ -1368,7 +1368,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-104-p2s11w16">
@@ -1403,7 +1403,7 @@
 <LM>w#w-ln94210-104-p2s12w1</LM>
 </w.rf>
 <form>Vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94210-104-p2s12w2">
 <src.rf>manual</src.rf>
@@ -1451,7 +1451,7 @@
 <LM>w#w-ln94210-104-p2s12w7</LM>
 </w.rf>
 <form>stanou</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94210-104-p2s12w8">
 <src.rf>manual</src.rf>
@@ -1916,7 +1916,7 @@
 <LM>w#w-ln94210-104-p2s15w7</LM>
 </w.rf>
 <form>anglicko</form>
-<tag lemma="anglický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="anglicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94210-104-p2s15w8">
 <src.rf>manual</src.rf>
@@ -1932,7 +1932,7 @@
 <LM>w#w-ln94210-104-p2s15w9</LM>
 </w.rf>
 <form>francouzsko</form>
-<tag lemma="francouzský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="francouzsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94210-104-p2s15w10">
 <src.rf>manual</src.rf>

@@ -739,7 +739,7 @@
 <LM>w#w-vesm9301-030-p2s4w5</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-030-p2s4w6">
 <src.rf>manual</src.rf>
@@ -1190,7 +1190,7 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9301-030-p3s3w6">
@@ -1529,7 +1529,7 @@
 <LM>w#w-vesm9301-030-p5s1w20</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9301-030-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1846,7 +1846,7 @@
 <LM>w#w-vesm9301-030-p5s3w23</LM>
 </w.rf>
 <form>adenozintrifosfátem</form>
-<tag lemma="adenozintrifosfát_;U" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="adenozintrifosfát" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9301-030-p5s3w24">
 <src.rf>manual</src.rf>
@@ -3239,7 +3239,7 @@
 <form>intenzívně</form>
 <tag>
 <AM lemma="intenzívně_^(*1í)" src="orig">Dg-------1A----</AM>
-<AM lemma="intenzívně_,s_^(^DD**intenzivně)_^(*4ívní)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="intenzívně_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-030-p6s6w12">
@@ -3256,7 +3256,7 @@
 <LM>w#w-vesm9301-030-p6s6w13</LM>
 </w.rf>
 <form>histonů</form>
-<tag lemma="histon_;U" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="histon" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-030-p6s6w14">
 <src.rf>manual</src.rf>
@@ -4055,7 +4055,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9301-030-p7s1w17">
@@ -4072,7 +4072,7 @@
 <LM>w#w-vesm9301-030-p7s1w18</LM>
 </w.rf>
 <form>kinázu</form>
-<tag lemma="kináza_;U" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="kináza" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-vesm9301-030-p7s1w19">
 <src.rf>manual</src.rf>
@@ -4160,7 +4160,7 @@
 <LM>w#w-vesm9301-030-p7s1w29</LM>
 </w.rf>
 <form>adenozintrifosfátem</form>
-<tag lemma="adenozintrifosfát_;U" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="adenozintrifosfát" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9301-030-p7s1w30">
 <src.rf>manual</src.rf>
@@ -5256,7 +5256,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-vesm9301-030-p7s6w21">
@@ -6422,7 +6422,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-030-p8s7w12">
@@ -6519,7 +6519,7 @@
 <LM>w#w-vesm9301-030-p8s7w23</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-vesm9301-030-p8s7w24">
 <src.rf>manual</src.rf>
@@ -6545,7 +6545,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9301-030-p8s7w27">

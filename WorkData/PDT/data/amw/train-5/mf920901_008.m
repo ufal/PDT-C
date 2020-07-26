@@ -866,7 +866,7 @@
 <LM>w#w-mf920901-008-p5s2w1</LM>
 </w.rf>
 <form>Nenávratně</form>
-<tag lemma="návratně_^(*1í)" src="auto" selected="1">Dg-------1N----</tag>
+<tag lemma="návratně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-mf920901-008-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1076,7 +1076,7 @@
 <LM>w#w-mf920901-008-p5s3w13</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920901-008-p5s3w14">
 <src.rf>manual</src.rf>
@@ -1877,7 +1877,7 @@
 <LM>w#w-mf920901-008-p6s3w3</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920901-008-p6s3w4">
 <src.rf>manual</src.rf>
@@ -2129,7 +2129,7 @@
 <LM>w#w-mf920901-008-p7s1w14</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920901-008-p7s1w15">
 <src.rf>manual</src.rf>
@@ -2592,7 +2592,7 @@
 <LM>w#w-mf920901-008-p7s3w30</LM>
 </w.rf>
 <form>vymysleli</form>
-<tag lemma="vymyslet" src="orig" selected="1">VpMP----R-AA---</tag>
+<tag lemma="vymyslit" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf920901-008-p7s3w31">
 <src.rf>manual</src.rf>
@@ -3297,7 +3297,7 @@
 <LM>w#w-mf920901-008-p8s1w15</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920901-008-p8s1w16">
 <src.rf>manual</src.rf>
@@ -3461,7 +3461,7 @@
 <form>VLAĎKA</form>
 <tag>
 <AM lemma="Vladěk_;Y_,e" src="orig">NNFS1-----A----</AM>
-<AM lemma="Vlaďka_;Y_,e" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Vlaďka_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Vladěk_;Y_,h" src="auto">NNMS2-----A----</AM>
 <AM lemma="Vladěk_;Y_,h" src="auto">NNMS4-----A----</AM>
 </tag>

@@ -219,7 +219,7 @@
 <LM>w#w-mf920902-089-p2s1w24</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920902-089-p2s1w25">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-089-p2s1w38">
@@ -419,7 +419,7 @@
 <LM>w#w-mf920902-089-p2s2w10</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920902-089-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1411,7 +1411,7 @@
 <LM>w#w-mf920902-089-p4s2w17</LM>
 </w.rf>
 <form>Aleš</form>
-<tag lemma="Aleš-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Aleš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-089-p4s2w18">
 <src.rf>manual</src.rf>
@@ -2175,7 +2175,7 @@
 </w.rf>
 <form>vin</form>
 <tag>
-<AM lemma="vin-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="vin-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="vina" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>

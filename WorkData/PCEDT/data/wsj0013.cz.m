@@ -1413,7 +1413,7 @@
 <LM>w#w-wsj0013-001-p1s2W26</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0013-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2455,7 +2455,7 @@
 <LM>w#w-wsj0013-001-p1s5W27</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0013-001-p1s5W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2628,7 +2628,7 @@
 <LM>w#w-wsj0013-001-p1s5W39</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0013-001-p1s5W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4177,7 +4177,7 @@
 </w.rf>
 <form>Jr</form>
 <tag>
-<AM lemma="jr-88_^(Junior)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 <AM lemma="jr-88_^(junior)" src="auto">BNXXX-----A----</AM>
 </tag>
 </m>

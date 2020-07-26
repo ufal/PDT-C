@@ -754,7 +754,7 @@
 <LM>w#w-wsj1045-001-p1s2W17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1045-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1676,7 +1676,7 @@
 <LM>w#w-wsj1045-001-p1s5W7</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1045-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1966,7 +1966,7 @@
 <LM>w#w-wsj1045-001-p1s7W6</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1045-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2119,7 +2119,7 @@
 <LM>w#w-wsj1045-001-p1s9W6</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1045-001-p1s9W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2176,7 +2176,7 @@
 <tag>
 <AM lemma="steradián_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="sr_:B_^(senior)" src="manual">NNXXX-----A----</AM>
-<AM lemma="sr-88_^(senior)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="sr_^(senior)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s9W13-Ta">

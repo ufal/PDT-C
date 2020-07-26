@@ -746,7 +746,7 @@
 <LM>w#w-mf930713-162-p2s5w10</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-mf930713-162-p2s5w11">
 <src.rf>manual</src.rf>
@@ -1625,7 +1625,7 @@
 <LM>w#w-mf930713-162-p2s13w7</LM>
 </w.rf>
 <form>Rom</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-162-p2s13w8">
 <src.rf>manual</src.rf>
@@ -1733,7 +1733,7 @@
 <LM>w#w-mf930713-162-p2s15w2</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930713-162-p2s15w3">
 <src.rf>manual</src.rf>
@@ -1839,7 +1839,7 @@
 <form>nalezeno</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsNS----X-API--</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsNS----X-AP---</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VsNS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-mf930713-162-p2s15w16">

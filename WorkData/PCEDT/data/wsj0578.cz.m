@@ -9988,7 +9988,7 @@
 <LM>w#w-wsj0578-001-p1s28W30</LM>
 </w.rf>
 <form>dávat</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj0578-001-p1s28W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11032,7 +11032,7 @@
 <LM>w#w-wsj0578-001-p1s32W2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m-wsj0578-001-p1s32W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11562,7 +11562,7 @@
 <LM>w#w-wsj0578-001-p1s34W3</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0578-001-p1s34W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16938,7 +16938,7 @@
 <LM>w#w-wsj0578-001-p1s49W36</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0578-001-p1s49W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -17972,7 +17972,7 @@
 <LM>w#w-wsj0578-001-p1s53W19</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0578-001-p1s53W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -19366,7 +19366,7 @@
 <LM>w#w-wsj0578-001-p1s59W2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0578-001-p1s59W3-Ta">
 <src.rf>tagger-a</src.rf>

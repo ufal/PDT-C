@@ -384,7 +384,7 @@
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="hodina" src="manual">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920922-031-p1s3w15">
@@ -440,7 +440,7 @@
 <form>Luba</form>
 <tag>
 <AM lemma="Luba_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Luba-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Luba_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-031-p1s4w3">
@@ -537,7 +537,7 @@
 <LM>w#w-mf920922-031-p1s4w14</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920922-031-p1s4w15">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-mf920922-031-p1s5w6</LM>
 </w.rf>
 <form>Evropa</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-031-p1s5w7">
 <src.rf>manual</src.rf>

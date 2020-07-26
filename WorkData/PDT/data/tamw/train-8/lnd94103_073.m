@@ -19,7 +19,7 @@
 <LM>w#w-lnd94103-073-p1s1w1</LM>
 </w.rf>
 <form>Bundesbanka</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bundesbanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-073-p1s1w2">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-lnd94103-073-p1s3w6</LM>
 </w.rf>
 <form>Bundesbanka</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bundesbanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-073-p1s3w7">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-lnd94103-073-p1s5w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-073-p1s5w4">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 <LM>w#w-lnd94103-073-p1s8w1</LM>
 </w.rf>
 <form>Bundesbanka</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bundesbanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-073-p1s8w2">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-lnd94103-073-p1s8w2</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94103-073-p1s8w3">
 <src.rf>manual</src.rf>

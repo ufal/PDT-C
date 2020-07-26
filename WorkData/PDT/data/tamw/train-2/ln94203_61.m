@@ -129,7 +129,7 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-61-p2s1Bw5">
@@ -359,7 +359,7 @@
 <LM>w#w-ln94203-61-p2s2w13</LM>
 </w.rf>
 <form>postiženy</form>
-<tag lemma="postihnout" src="orig" selected="1">VsTP----X-AP---</tag>
+<tag lemma="postihnout" src="orig" selected="1">VsTP----X-APP-1</tag>
 </m>
 <m id="m-ln94203-61-p2s2w14">
 <src.rf>manual</src.rf>
@@ -866,7 +866,7 @@
 <LM>w#w-ln94203-61-p4s2w4</LM>
 </w.rf>
 <form>dní</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-ln94203-61-p4s2w5">
 <src.rf>manual</src.rf>
@@ -914,7 +914,7 @@
 <LM>w#w-ln94203-61-p4s2w10</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94203-61-p4s2w11">
 <src.rf>manual</src.rf>

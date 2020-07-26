@@ -474,7 +474,7 @@
 <LM>w#w-lnd92259-073-p4s1w4</LM>
 </w.rf>
 <form>rusko</form>
-<tag lemma="ruský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="rusko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92259-073-p4s1w5">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-lnd92259-073-p4s4w5</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd92259-073-p4s4w6">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-lnd92259-073-p4s4w7</LM>
 </w.rf>
 <form>Rusů</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92259-073-p4s4w8">
 <src.rf>manual</src.rf>
@@ -1719,7 +1719,7 @@
 <LM>w#w-lnd92259-073-p6s2w15</LM>
 </w.rf>
 <form>osetsko</form>
-<tag lemma="osetský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="osetsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92259-073-p6s2w16">
 <src.rf>manual</src.rf>

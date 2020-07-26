@@ -69,7 +69,7 @@
 <LM>w#w-mf920901-085-p2s1w5</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="orig" selected="1">PP-P7--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P7--1-------</tag>
 </m>
 <m id="m-mf920901-085-p2s1w6">
 <src.rf>manual</src.rf>
@@ -211,7 +211,7 @@
 <form>st</form>
 <tag>
 <AM lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig">NNIXX-----A----</AM>
-<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920901-085-p2s2w7">
@@ -617,7 +617,7 @@
 <form>st</form>
 <tag>
 <AM lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig">NNIXX-----A----</AM>
-<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920901-085-p2s4w32">
@@ -751,7 +751,7 @@
 <LM>w#w-mf920901-085-p3s1w13</LM>
 </w.rf>
 <form>dosti</form>
-<tag lemma="dost" src="auto" selected="1">Db------------1</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A---1</tag>
 </m>
 <m id="m-mf920901-085-p3s1w14">
 <src.rf>manual</src.rf>
@@ -799,7 +799,7 @@
 <LM>w#w-mf920901-085-p3s1w19</LM>
 </w.rf>
 <form>Evropou</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920901-085-p3s1w20">
 <src.rf>manual</src.rf>

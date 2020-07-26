@@ -61,7 +61,7 @@
 <LM>w#w-ln95041-051-p2s1w1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95041-051-p2s1w2">
 <src.rf>manual</src.rf>

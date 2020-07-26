@@ -603,7 +603,7 @@
 <LM>w#w-ln95048-047-p2s3w6</LM>
 </w.rf>
 <form>Vilda</form>
-<tag lemma="Vilda_;Y_,h" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vilda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1222,7 +1222,7 @@
 <LM>w#w-ln95048-047-p2s6w7</LM>
 </w.rf>
 <form>dotčeně</form>
-<tag lemma="dotčeně_^(fyz._i_abstr.,_př._drátů,_práv,_citů)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="dotčeně_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95048-047-p2s6w8">
 <src.rf>manual</src.rf>

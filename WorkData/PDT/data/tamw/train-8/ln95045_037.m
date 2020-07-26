@@ -590,7 +590,7 @@
 <LM>w#w-ln95045-037-p2s3w8</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95045-037-p2s3w9">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-ln95045-037-p2s3w10</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95045-037-p2s3w11">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 <form>jako</form>
 <tag>
 <AM lemma="jako-1" src="auto">J,-------------</AM>
-<AM lemma="jako-4" src="manual" selected="1">J^-------------</AM>
+<AM lemma="jako-1" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-037-p2s4w3">
@@ -1040,7 +1040,7 @@
 <LM>w#w-ln95045-037-p2s5w12</LM>
 </w.rf>
 <form>tajů</form>
-<tag lemma="taj" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="taj-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95045-037-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-ln95045-037-p2s5w16</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95045-037-p2s5w17">
 <src.rf>manual</src.rf>
@@ -1561,7 +1561,7 @@
 <form>Více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-037-p3s2w24">
@@ -2010,7 +2010,7 @@
 <LM>w#w-ln95045-037-p3s4w38</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95045-037-p3s4w39">
 <src.rf>manual</src.rf>
@@ -2020,7 +2020,7 @@
 <form>Beatles</form>
 <tag>
 <AM lemma="Beatles_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Beatles_;m" src="auto" selected="1">NNMP1-----A----</AM>
+<AM lemma="Beatles_;m" src="auto" selected="1">NNMXX-----A----</AM>
 <AM lemma="Beatles_;m" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="Beatles_;m" src="auto">NNMP3-----A----</AM>
 <AM lemma="Beatles_;m" src="auto">NNMP4-----A----</AM>
@@ -2165,7 +2165,7 @@
 <LM>w#w-ln95045-037-p3s5w15</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-037-p3s5w16">
 <src.rf>manual</src.rf>
@@ -2399,7 +2399,7 @@
 <LM>w#w-ln95045-037-p3s6w25</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_^(a_tak_dále)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="atd_^(a_tak_dále)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-ln95045-037-p3s6w26">
 <src.rf>manual</src.rf>
@@ -2715,7 +2715,7 @@
 <LM>w#w-ln95045-037-p3s9w6</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95045-037-p3s9w7">
 <src.rf>manual</src.rf>

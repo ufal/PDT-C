@@ -101,7 +101,7 @@
 <LM>w#w-ln95042-019-p2s1w8</LM>
 </w.rf>
 <form>táhnou</form>
-<tag lemma="táhnout" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="táhnout" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-019-p2s1w9">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-ln95042-019-p2s2w18</LM>
 </w.rf>
 <form>poosmé</form>
-<tag lemma="poosmé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poosmé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95042-019-p2s2w19">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-ln95042-019-p2s3w34</LM>
 </w.rf>
 <form>předat</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="předat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95042-019-p2s3w35">
 <src.rf>manual</src.rf>
@@ -1015,7 +1015,7 @@
 <LM>w#w-ln95042-019-p4s1w1</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-019-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1844,7 +1844,7 @@
 <LM>w#w-ln95042-019-p6s3w1</LM>
 </w.rf>
 <form>Přeložila</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95042-019-p6s3w2">
 <src.rf>manual</src.rf>

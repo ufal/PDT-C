@@ -37,7 +37,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-140-p1s1Aw4">
@@ -62,7 +62,7 @@
 <LM>w#w-mf920902-140-p1s1Aw6</LM>
 </w.rf>
 <form>vydělají</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 </s>
 <s id="m-mf920902-140-p1s1B">
@@ -124,7 +124,7 @@
 <form>Sofia</form>
 <tag>
 <AM lemma="Sofie-1_;G" src="orig">NNFS1-----A---1</AM>
-<AM lemma="Sofia_;G_,s_^(^DD**Sofie)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sofie_;G_;Y" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920902-140-p2s1w2">
@@ -177,7 +177,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-140-p2s2w6">
@@ -210,7 +210,7 @@
 <LM>w#w-mf920902-140-p2s2w9</LM>
 </w.rf>
 <form>vydělá</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920902-140-p2s2w10">
 <src.rf>manual</src.rf>

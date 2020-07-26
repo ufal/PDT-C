@@ -4641,7 +4641,7 @@
 <LM>w#w-wsj1474-001-p1s13W14</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m-wsj1474-001-p1s13W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6600,7 +6600,7 @@
 <LM>w#w-wsj1474-001-p1s21W4</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1474-001-p1s21W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8130,7 +8130,7 @@
 <LM>w#w-wsj1474-001-p1s25W11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1474-001-p1s25W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9210,7 +9210,7 @@
 <LM>w#w-wsj1474-001-p1s31W4</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1474-001-p1s31W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9367,7 +9367,7 @@
 <LM>w#w-wsj1474-001-p1s31W15</LM>
 </w.rf>
 <form>potřebami</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj1474-001-p1s31W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10196,7 +10196,7 @@
 <LM>w#w-wsj1474-001-p1s34W9</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1474-001-p1s34W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11416,7 +11416,7 @@
 <LM>w#w-wsj1474-001-p1s38W16</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1474-001-p1s38W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11851,7 +11851,7 @@
 <LM>w#w-wsj1474-001-p1s39W27</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1474-001-p1s39W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12106,7 +12106,7 @@
 <LM>w#w-wsj1474-001-p1s40W14</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1474-001-p1s40W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12279,7 +12279,7 @@
 <tag>
 <AM lemma="politik" src="auto">NNMS2-----A----</AM>
 <AM lemma="politik" src="auto">NNMS4-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP5-----A----</AM>

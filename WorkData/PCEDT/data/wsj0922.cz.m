@@ -2703,7 +2703,7 @@
 <LM>w#w-wsj0922-001-p1s6W8</LM>
 </w.rf>
 <form>Evropu</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0922-001-p1s6W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3087,7 +3087,7 @@
 <LM>w#w-wsj0922-001-p1s7W23</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_;G_^(United_States_ofmerica)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0922-001-p1s7W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3404,7 +3404,7 @@
 <LM>w#w-wsj0922-001-p1s8W6</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_;G_^(United_States_ofmerica)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0922-001-p1s8W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3477,7 +3477,7 @@
 <LM>w#w-wsj0922-001-p1s8W11</LM>
 </w.rf>
 <form>Evropu</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0922-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3561,7 +3561,7 @@
 <form>jako</form>
 <tag>
 <AM lemma="jako-1" src="auto" recommended="1">J,-------------</AM>
-<AM lemma="jako-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jako-1" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0922-001-p1s8W20-Ta">
@@ -3570,7 +3570,7 @@
 <LM>w#w-wsj0922-001-p1s8W20</LM>
 </w.rf>
 <form>Evropa</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0922-001-p1s8W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3880,7 +3880,7 @@
 <LM>w#w-wsj0922-001-p1s10W3</LM>
 </w.rf>
 <form>Evropa</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0922-001-p1s10W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4290,7 +4290,7 @@
 <LM>w#w-wsj0922-001-p1s11W21</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_;G_^(United_States_ofmerica)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0922-001-p1s11W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4318,7 +4318,7 @@
 <LM>w#w-wsj0922-001-p1s11W24</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0922-001-p1s11W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4449,7 +4449,7 @@
 <LM>w#w-wsj0922-001-p1s11W33</LM>
 </w.rf>
 <form>Evropa</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0922-001-p1s11W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4469,7 +4469,7 @@
 <LM>w#w-wsj0922-001-p1s11W35</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0922-001-p1s11W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5094,7 +5094,7 @@
 <LM>w#w-wsj0922-001-p1s13W16</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_;G_^(United_States_ofmerica)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0922-001-p1s13W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5884,7 +5884,7 @@
 <LM>w#w-wsj0922-001-p1s15W32</LM>
 </w.rf>
 <form>nenechají</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-P---3P-NAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-P---3P-NAP--</tag>
 </m>
 <m id="m-wsj0922-001-p1s15W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6374,7 +6374,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -7434,7 +7434,7 @@
 <tag>
 <AM lemma="politik" src="auto">NNMS2-----A----</AM>
 <AM lemma="politik" src="auto">NNMS4-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP1-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP5-----A----</AM>
@@ -8038,7 +8038,7 @@
 <LM>w#w-wsj0922-001-p1s23W18</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-wsj0922-001-p1s23W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8176,7 +8176,7 @@
 <LM>w#w-wsj0922-001-p1s23W28</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj0922-001-p1s23W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8369,7 +8369,7 @@
 <LM>w#w-wsj0922-001-p1s24W9</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj0922-001-p1s24W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9261,7 +9261,7 @@
 <LM>w#w-wsj0922-001-p1s26W23</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_;G_^(United_States_ofmerica)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj0922-001-p1s26W24-Ta">
 <src.rf>tagger-a</src.rf>

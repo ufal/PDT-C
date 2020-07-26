@@ -10205,7 +10205,7 @@
 <LM>w#w-wsj1676-001-p1s34W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1676-001-p1s34W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10274,7 +10274,7 @@
 <LM>w#w-wsj1676-001-p1s34W20</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1676-001-p1s34W21-Ta">
 <src.rf>tagger-a</src.rf>

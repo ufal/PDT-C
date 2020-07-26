@@ -122,7 +122,7 @@
 <LM>w#w-lnd91301-031-p4s1w3</LM>
 </w.rf>
 <form>fsch</form>
-<tag lemma="fsch-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="fsch-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91301-031-p4s1w4">
 <src.rf>manual</src.rf>
@@ -292,7 +292,7 @@
 <LM>w#w-lnd91301-031-p5s1w19</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd91301-031-p5s1w20">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-031-p5s1w33">
@@ -762,7 +762,7 @@
 <LM>w#w-lnd91301-031-p5s3w7</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91301-031-p5s3w8">
 <src.rf>manual</src.rf>
@@ -1178,7 +1178,7 @@
 <LM>w#w-lnd91301-031-p5s3w60</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91301-031-p5s3w61">
 <src.rf>manual</src.rf>
@@ -1234,7 +1234,7 @@
 <LM>w#w-lnd91301-031-p5s3w67</LM>
 </w.rf>
 <form>sp</form>
-<tag lemma="speciální" src="auto" selected="1">AAXXX----1A---b</tag>
+<tag lemma="speciální" src="auto" selected="1">AAXXX----1A---a</tag>
 </m>
 <m id="m-lnd91301-031-p5s3w68">
 <src.rf>manual</src.rf>

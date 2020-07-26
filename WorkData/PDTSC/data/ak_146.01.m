@@ -402,7 +402,7 @@
 <LM>w#w-d1t234-21</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m146-196-197">
 <w.rf>
@@ -566,7 +566,7 @@
 <AM lemma="garrigue-2_,t_^(rostlinná_formace)" src="auto">NNIS1-----A----</AM>
 <AM lemma="garrigue-2_,t_^(rostlinná_formace)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Garrigue_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Garrigue_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Garrigue_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m146-d1t240-1">
@@ -1064,7 +1064,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m146-d-m-d1e281-x2-punct-punct">
@@ -2639,7 +2639,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m146-d-m-d1e376-x2-punct-punct">

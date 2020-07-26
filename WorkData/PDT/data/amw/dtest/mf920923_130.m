@@ -43,7 +43,7 @@
 <LM>w#w-mf920923-130-p1s1w4</LM>
 </w.rf>
 <form>zastaveny</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VsTP----X-APP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 </s>
 <s id="m-mf920923-130-p2s1">
@@ -640,7 +640,7 @@
 <LM>w#w-mf920923-130-p4s4w20</LM>
 </w.rf>
 <form>vrženo</form>
-<tag lemma="vrhnout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="vrhnout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-mf920923-130-p4s4w21">
 <src.rf>manual</src.rf>

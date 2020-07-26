@@ -100,7 +100,7 @@
 <LM>w#w-lnd94104-109-p1s2Aw5</LM>
 </w.rf>
 <form>hodinách</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s2Aw6">
 <src.rf>manual</src.rf>
@@ -1104,7 +1104,7 @@
 <LM>w#w-lnd94104-109-p1s5w4</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-1" src="orig" selected="1">ClXS2----------</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-lnd94104-109-p1s5w5">
 <src.rf>manual</src.rf>
@@ -1586,7 +1586,7 @@
 <LM>w#w-lnd94104-109-p1s8w5</LM>
 </w.rf>
 <form>překládali</form>
-<tag lemma="překládat-1_^(přemístit)" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="překládat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-109-p1s8w6">
 <src.rf>manual</src.rf>
@@ -1642,7 +1642,7 @@
 <LM>w#w-lnd94104-109-p1s8w12</LM>
 </w.rf>
 <form>Polák</form>
-<tag lemma="Polák_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polák_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s8w13">
 <src.rf>manual</src.rf>
@@ -1972,7 +1972,7 @@
 <LM>w#w-lnd94104-109-p1s9w8</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s9w9">
 <src.rf>manual</src.rf>
@@ -2127,7 +2127,7 @@
 <LM>w#w-lnd94104-109-p1s10w13</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94104-109-p1s10w14">
 <src.rf>manual</src.rf>
@@ -2310,7 +2310,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-109-p1s11Aw4">

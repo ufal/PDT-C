@@ -2428,7 +2428,7 @@
 <LM>w#w-wsj0291-001-p1s5W8</LM>
 </w.rf>
 <form>dána</form>
-<tag lemma="dát" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0291-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>

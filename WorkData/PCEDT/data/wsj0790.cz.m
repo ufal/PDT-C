@@ -3088,7 +3088,7 @@
 <LM>w#w-wsj0790-001-p1s9W2</LM>
 </w.rf>
 <form>dávají</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj0790-001-p1s9W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6428,7 +6428,7 @@
 <LM>w#w-wsj0790-001-p1s22W24</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0790-001-p1s22W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6918,7 +6918,7 @@
 <LM>w#w-wsj0790-001-p1s24W7</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0790-001-p1s24W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6945,7 +6945,7 @@
 <LM>w#w-wsj0790-001-p1s24W10</LM>
 </w.rf>
 <form>vydělávat</form>
-<tag lemma="vydělávat_^(kůže;peníze)_(*4at)" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="vydělávat_^(*4at)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj0790-001-p1s24W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7862,7 +7862,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="auto" recommended="1">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------b</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-wsj0790-001-p1s28W17-Ta">
@@ -9653,7 +9653,7 @@
 <LM>w#w-wsj0790-001-p1s34W20</LM>
 </w.rf>
 <form>svržena</form>
-<tag lemma="svrhnout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="svrhnout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj0790-001-p1s34W21-Ta">
 <src.rf>tagger-a</src.rf>

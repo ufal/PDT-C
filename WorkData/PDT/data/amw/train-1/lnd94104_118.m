@@ -298,7 +298,7 @@
 <form>Kaiserslauternem</form>
 <tag>
 <AM lemma="Kaiserslautern" src="orig">NNIS7-----A----</AM>
-<AM lemma="Kaiserslautern_;m" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Kaiserslautern_;G_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-118-p1s3w27">

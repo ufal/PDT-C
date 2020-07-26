@@ -740,7 +740,7 @@
 <LM>w#w-wsj1216-001-p1s3W12</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1216-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2388,7 +2388,7 @@
 <LM>w#w-wsj1216-001-p1s8W17</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1216-001-p1s8W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3999,7 +3999,7 @@
 <LM>w#w-wsj1216-001-p1s14W18</LM>
 </w.rf>
 <form>Charlotte</form>
-<tag lemma="Charlotte_;Y" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Charlotte_;G_;Y" src="auto" recommended="1">NNFXX-----A----</tag>
 </m>
 <m id="m-wsj1216-001-p1s14W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4180,7 +4180,7 @@
 <LM>w#w-wsj1216-001-p1s14W29</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1216-001-p1s14W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4323,7 +4323,7 @@
 <LM>w#w-wsj1216-001-p1s14W40</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1216-001-p1s14W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5206,7 +5206,7 @@
 <LM>w#w-wsj1216-001-p1s18W17</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1216-001-p1s18W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6505,7 +6505,7 @@
 <LM>w#w-wsj1216-001-p1s23W5</LM>
 </w.rf>
 <form>spořitelnami</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj1216-001-p1s23W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7254,7 +7254,7 @@
 <LM>w#w-wsj1216-001-p1s24W26</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj1216-001-p1s24W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7834,7 +7834,7 @@
 <LM>w#w-wsj1216-001-p1s27W13</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1216-001-p1s27W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8884,7 +8884,7 @@
 <LM>w#w-wsj1216-001-p1s30W21</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1216-001-p1s30W22-Ta">
 <src.rf>tagger-a</src.rf>

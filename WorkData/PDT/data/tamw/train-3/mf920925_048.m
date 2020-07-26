@@ -80,7 +80,7 @@
 <LM>w#w-mf920925-048-p1s1Bw3</LM>
 </w.rf>
 <form>VÍC</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-mf920925-048-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -256,7 +256,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s1w16">
@@ -630,7 +630,7 @@
 <LM>w#w-mf920925-048-p2s4Aw7</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf920925-048-p2s4Aw8">
 <src.rf>manual</src.rf>
@@ -1015,7 +1015,7 @@
 <form>nedávnem</form>
 <tag>
 <AM lemma="nedávno-2" src="auto">NNNS7-----A----</AM>
-<AM lemma="dávno-2" src="manual" selected="1">NNNS7-----N----</AM>
+<AM lemma="nedávno-2" src="manual" selected="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s4Bw15">
@@ -1152,7 +1152,7 @@
 <LM>w#w-mf920925-048-p2s4Bw31</LM>
 </w.rf>
 <form>nadšeni</form>
-<tag lemma="nadchnout" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag lemma="nadchnout" src="orig" selected="1">VsMP----X-APP-1</tag>
 </m>
 <m id="m-mf920925-048-p2s4Bw32">
 <src.rf>manual</src.rf>
@@ -1176,7 +1176,7 @@
 <LM>w#w-mf920925-048-p2s4Bw34</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920925-048-p2s4Bw35">
 <src.rf>manual</src.rf>
@@ -1277,7 +1277,7 @@
 <LM>w#w-mf920925-048-p2s4Cw7</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920925-048-p2s4Cw8">
 <src.rf>manual</src.rf>
@@ -1632,7 +1632,7 @@
 <form>expertizu</form>
 <tag>
 <AM lemma="expertíza" src="orig">NNFS4-----A----</AM>
-<AM lemma="expertiza" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="expertiza_,s_^(^DD**expertýza)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s5w22">
@@ -1641,7 +1641,7 @@
 <LM>w#w-mf920925-048-p2s5w22</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920925-048-p2s5w23">
 <src.rf>manual</src.rf>
@@ -1863,7 +1863,7 @@
 <form>Kčs</form>
 <tag>
 <AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kčs-1_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s7w11">
@@ -1948,7 +1948,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s7w21">
@@ -2157,7 +2157,7 @@
 <LM>w#w-mf920925-048-p2s9w6</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920925-048-p2s9w7">
 <src.rf>manual</src.rf>
@@ -2647,7 +2647,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s12w15">
@@ -3072,7 +3072,7 @@
 <LM>w#w-mf920925-048-p2s13w10</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920925-048-p2s13w11">
 <src.rf>manual</src.rf>

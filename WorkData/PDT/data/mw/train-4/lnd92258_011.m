@@ -814,7 +814,7 @@
 <LM>w#w-lnd92258-011-p4s1w40</LM>
 </w.rf>
 <form>bránila</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-011-p4s1w41">
 <src.rf>manual</src.rf>
@@ -1221,7 +1221,7 @@
 <LM>w#w-lnd92258-011-p4s5w4</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92258-011-p4s5w5">
 <src.rf>manual</src.rf>
@@ -1548,7 +1548,7 @@
 <LM>w#w-lnd92258-011-p4s7w27</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_^(a_podobně)" src="auto" selected="1">Db------------b</tag>
+<tag lemma="apod_^(a_podobně)" src="auto" selected="1">Bb-------------</tag>
 </m>
 <m id="m-lnd92258-011-p4s7w28">
 <src.rf>manual</src.rf>
@@ -2076,7 +2076,7 @@
 <LM>w#w-lnd92258-011-p5s3w10</LM>
 </w.rf>
 <form>navrženo</form>
-<tag lemma="navrhnout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-lnd92258-011-p5s3w11">
 <src.rf>manual</src.rf>
@@ -2178,7 +2178,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-011-p5s3w23">
@@ -2311,7 +2311,7 @@
 <LM>w#w-lnd92258-011-p5s5w4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92258-011-p5s5w5">
 <src.rf>manual</src.rf>

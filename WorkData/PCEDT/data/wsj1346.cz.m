@@ -1311,7 +1311,7 @@
 <LM>w#w-wsj1346-001-p1s3W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj1346-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>

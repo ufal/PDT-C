@@ -378,7 +378,7 @@
 <LM>w#w-mf930703-104-p2s2w7</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930703-104-p2s2w8">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <tag>
 <AM lemma="BMW-2_:B_;m_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;m_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BMW_;m_^(vozidlo)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-104-p2s2w14">
@@ -566,7 +566,7 @@
 <LM>w#w-mf930703-104-p2s2w30</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930703-104-p2s2w31">
 <src.rf>manual</src.rf>

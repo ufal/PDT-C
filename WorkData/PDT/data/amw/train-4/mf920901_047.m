@@ -2257,7 +2257,7 @@
 <LM>w#w-mf920901-047-p5s1w22</LM>
 </w.rf>
 <form>jede</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-047-p5s1w23">
 <src.rf>manual</src.rf>
@@ -3383,7 +3383,7 @@
 <LM>w#w-mf920901-047-p7s2w16</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-mf920901-047-p7s2w17">
 <src.rf>manual</src.rf>
@@ -3505,7 +3505,7 @@
 <LM>w#w-mf920901-047-p7s3w4</LM>
 </w.rf>
 <form>můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920901-047-p7s3w5">
 <src.rf>manual</src.rf>
@@ -3545,7 +3545,7 @@
 <LM>w#w-mf920901-047-p7s3w9</LM>
 </w.rf>
 <form>vyvádět</form>
-<tag lemma="vyvádět-3_^(kvas_rozmnožovat_kvas)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="vyvádět" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920901-047-p7s3w10">
 <src.rf>manual</src.rf>
@@ -3577,7 +3577,7 @@
 <LM>w#w-mf920901-047-p7s3w13</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf920901-047-p7s3w14">
 <src.rf>manual</src.rf>
@@ -3593,7 +3593,7 @@
 <LM>w#w-mf920901-047-p7s3w15</LM>
 </w.rf>
 <form>necestách</form>
-<tag lemma="necesta" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP6-----N----</tag>
 </m>
 <m id="m-mf920901-047-p7s3w16">
 <src.rf>manual</src.rf>

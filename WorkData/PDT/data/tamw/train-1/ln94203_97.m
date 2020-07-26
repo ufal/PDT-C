@@ -802,7 +802,7 @@
 <LM>w#w-ln94203-97-p2s4w12</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94203-97-p2s4w13">
 <src.rf>manual</src.rf>
@@ -984,7 +984,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln94203-97-p2s4w35">
@@ -1990,7 +1990,7 @@
 <LM>w#w-ln94203-97-p4s1w16</LM>
 </w.rf>
 <form>vymyslelo</form>
-<tag lemma="vymyslet" src="orig" selected="1">VpNS----R-AA---</tag>
+<tag lemma="vymyslit" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-ln94203-97-p4s1w17">
 <src.rf>manual</src.rf>
@@ -3601,7 +3601,7 @@
 <LM>w#w-ln94203-97-p5s5w19</LM>
 </w.rf>
 <form>stranám</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-ln94203-97-p5s5w20">
 <src.rf>manual</src.rf>

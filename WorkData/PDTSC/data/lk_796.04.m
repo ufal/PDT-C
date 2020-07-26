@@ -12,7 +12,7 @@
 <LM>w#w-id61406-5</LM>
 </w.rf>
 <form>Dával</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m796-id61406-3">
 <w.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-id61417-20</LM>
 </w.rf>
 <form>vylítl</form>
-<tag lemma="vylítnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
+<tag lemma="vylítnout_,h_^(^GC**vylétnout)" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m796-id61417-21">
 <w.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-id61434-7</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m796-id61434-8">
 <w.rf>
@@ -1691,7 +1691,7 @@
 <LM>w#w-id61546-4</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m796-id60048-x67-282">
 <w.rf>
@@ -1942,7 +1942,7 @@
 <form>směnou</form>
 <tag>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS7-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="směna_^(výměna_za_něco;pracovní)" src="auto" recommended="1">NNFS7-----A----</AM>
 <AM lemma="směný_^(*2t)" src="auto">AAFS4----1A----</AM>
 <AM lemma="směný_^(*2t)" src="auto">AAFS7----1A----</AM>
 </tag>
@@ -2959,7 +2959,7 @@
 <tag>
 <AM lemma="SS_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ss" src="auto">II-------------</AM>
-<AM lemma="SS_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m796-id61705-1">
@@ -3473,7 +3473,7 @@
 <LM>w#w-id61711-27</LM>
 </w.rf>
 <form>jedou</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m796-id61711-28">
 <w.rf>
@@ -4876,7 +4876,7 @@
 <LM>w#w-id61858-9</LM>
 </w.rf>
 <form>nedáme</form>
-<tag lemma="dát" src="auto" recommended="1">VB-P---1P-NAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-P---1P-NAP--</tag>
 </m>
 <m id="m796-id60048-x84-2253">
 <w.rf>
@@ -5283,7 +5283,7 @@
 <LM>w#w-id61898-9</LM>
 </w.rf>
 <form>nechají</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m796-id61898-10">
 <w.rf>

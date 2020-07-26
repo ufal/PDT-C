@@ -2910,7 +2910,7 @@
 <LM>w#w-wsj0057-001-p1s8W3</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0057-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4041,7 +4041,7 @@
 <LM>w#w-wsj0057-001-p1s13W12</LM>
 </w.rf>
 <form>intenzivněji</form>
-<tag lemma="intenzivně_,s_^(^DD**intenzívní)_(*1í)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="intenzivně_^(^DD**intenzívně)_(*1í)" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0057-001-p1s13W13-Ta">
 <src.rf>tagger-a</src.rf>

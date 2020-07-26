@@ -676,7 +676,7 @@
 <LM>w#w-mf930703-053-p1s4w20</LM>
 </w.rf>
 <form>nezelo</form>
-<tag lemma="zet" src="orig" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="zet-2" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf930703-053-p1s4w21">
 <src.rf>manual</src.rf>

@@ -256,7 +256,7 @@
 <LM>w#w-wsj1230-001-p1s0W22</LM>
 </w.rf>
 <form>Kalamazoo</form>
-<tag lemma="Kalamazoo_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag lemma="Kalamazoo_;G_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj1230-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>

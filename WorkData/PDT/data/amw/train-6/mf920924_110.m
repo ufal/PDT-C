@@ -1546,7 +1546,7 @@
 <LM>w#w-mf920924-110-p4s5w1</LM>
 </w.rf>
 <form>Těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-110-p4s5w2">
 <src.rf>manual</src.rf>

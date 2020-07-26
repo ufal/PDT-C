@@ -299,7 +299,7 @@
 <LM>w#w-wsj0502-001-p1s0W21</LM>
 </w.rf>
 <form>Evropou</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj0502-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>

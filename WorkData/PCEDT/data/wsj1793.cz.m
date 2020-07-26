@@ -1284,7 +1284,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1793-001-p1s3W3-Ta">
@@ -3201,7 +3201,7 @@
 <LM>w#w-wsj1793-001-p1s8W15</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1793-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3685,7 +3685,7 @@
 <LM>w#w-wsj1793-001-p1s10W10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1793-001-p1s10W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5911,7 +5911,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1793-001-p1s16W13-Ta">
@@ -6542,7 +6542,7 @@
 <LM>w#w-wsj1793-001-p1s18W30</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1793-001-p1s18W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7063,7 +7063,7 @@
 <LM>w#w-wsj1793-001-p1s20W5</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1793-001-p1s20W6-Ta">
 <src.rf>tagger-a</src.rf>

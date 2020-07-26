@@ -335,7 +335,7 @@
 <LM>w#w-ln95044-024-p2s1Bw33</LM>
 </w.rf>
 <form>Norimberka</form>
-<tag lemma="Norimberk_;G" src="auto" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Norimberk_;G" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95044-024-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-ln95044-024-p2s2w7</LM>
 </w.rf>
 <form>vázáni</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" selected="1">VsMP----X-API--</tag>
+<tag lemma="vázat" src="auto" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-ln95044-024-p2s2w8">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-ln95044-024-p2s3w21</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95044-024-p2s3w22">
 <src.rf>manual</src.rf>
@@ -893,7 +893,7 @@
 <LM>w#w-ln95044-024-p2s4w15</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-024-p2s4w16">
 <src.rf>manual</src.rf>

@@ -317,7 +317,7 @@
 <LM>w#w-mf920902-096-p2s3w5</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="orig" selected="1">PP-P7--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P7--1-------</tag>
 </m>
 <m id="m-mf920902-096-p2s3w6">
 <src.rf>manual</src.rf>
@@ -1402,7 +1402,7 @@
 <LM>w#w-mf920902-096-p2s9w6</LM>
 </w.rf>
 <form>profesně</form>
-<tag lemma="profesně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="profesně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920902-096-p2s9w7">
 <src.rf>manual</src.rf>

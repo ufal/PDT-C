@@ -1806,7 +1806,7 @@
 <LM>w#w-wsj1151-001-p1s6W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1151-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1886,7 +1886,7 @@
 <LM>w#w-wsj1151-001-p1s6W20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1151-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3678,7 +3678,7 @@
 <LM>w#w-wsj1151-001-p1s12W23</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1151-001-p1s12W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3804,7 +3804,7 @@
 <LM>w#w-wsj1151-001-p1s13W3</LM>
 </w.rf>
 <form>podtrženo</form>
-<tag lemma="podtrhnout" src="auto" recommended="1">VsNS----X-APP--</tag>
+<tag lemma="podtrhnout" src="auto" recommended="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-wsj1151-001-p1s13W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4263,7 +4263,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -5538,7 +5538,7 @@
 </w.rf>
 <form>stávají</form>
 <tag>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="auto" recommended="1">VB-P---3P-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="auto" recommended="1">VB-P---3P-AAI--</AM>
 <AM lemma="stávat-3_^(stojím_stojíš)_(*5t-3)" src="auto">VB-P---3P-AAI--</AM>
 </tag>
 </m>
@@ -5568,7 +5568,7 @@
 <LM>w#w-wsj1151-001-p1s18W21</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1151-001-p1s18W22-Ta">
 <src.rf>tagger-a</src.rf>

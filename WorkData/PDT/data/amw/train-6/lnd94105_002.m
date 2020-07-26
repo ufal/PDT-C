@@ -127,7 +127,7 @@
 <LM>w#w-lnd94105-002-p1s1Cw1</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94105-002-p1s1Cw2">
 <src.rf>manual</src.rf>

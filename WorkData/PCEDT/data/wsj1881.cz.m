@@ -1480,7 +1480,7 @@
 <LM>w#w-wsj1881-001-p1s4W18</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1881-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5477,7 +5477,7 @@
 <LM>w#w-wsj1881-001-p1s16W7</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1881-001-p1s16W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5696,7 +5696,7 @@
 <LM>w#w-wsj1881-001-p1s17W7</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1881-001-p1s17W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7107,7 +7107,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>
@@ -7633,7 +7633,7 @@
 <LM>w#w-wsj1881-001-p1s23W15</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1881-001-p1s23W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8572,7 +8572,7 @@
 <LM>w#w-wsj1881-001-p1s27W2</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1881-001-p1s27W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11995,7 +11995,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>
@@ -12065,7 +12065,7 @@
 <LM>w#w-wsj1881-001-p1s43W9</LM>
 </w.rf>
 <form>koupil</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1881-001-p1s43W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12433,7 +12433,7 @@
 <LM>w#w-wsj1881-001-p1s44W20</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1881-001-p1s44W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13136,7 +13136,7 @@
 <LM>w#w-wsj1881-001-p1s49W8</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj1881-001-p1s49W9-Ta">
 <src.rf>tagger-a</src.rf>

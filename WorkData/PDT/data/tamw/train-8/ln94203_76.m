@@ -141,7 +141,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-76-p2s1Bw6">
@@ -179,7 +179,7 @@
 <LM>w#w-ln94203-76-p2s1Cw2</LM>
 </w.rf>
 <form>bíle</form>
-<tag lemma="bíle_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="bíle_;o_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94203-76-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-ln94203-76-p2s1Cw25</LM>
 </w.rf>
 <form>stíhačka</form>
-<tag lemma="stíhačka_^(letadlo)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="stíhačka_^(*2)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-76-p2s1Cw26">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-ln94203-76-p2s4w3</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-76-p2s4w4">
 <src.rf>manual</src.rf>
@@ -754,7 +754,7 @@
 <LM>w#w-ln94203-76-p3s1w15</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94203-76-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1980,7 +1980,7 @@
 <LM>w#w-ln94203-76-p6s1w5</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94203-76-p6s1w6">
 <src.rf>manual</src.rf>
@@ -2095,7 +2095,7 @@
 <LM>w#w-ln94203-76-p6s1w19</LM>
 </w.rf>
 <form>vydělávala</form>
-<tag lemma="vydělávat-1_^(peníze)_(*6at-1)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="vydělávat_^(*4at)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94203-76-p6s1w20">
 <src.rf>manual</src.rf>
@@ -2507,7 +2507,7 @@
 <LM>w#w-ln94203-76-p6s5w3</LM>
 </w.rf>
 <form>neušla</form>
-<tag lemma="ujít-2_^(výdělek;_pozornost)" src="orig" selected="1">VpQW----R-NAP--</tag>
+<tag lemma="ujít-1_^(kus_cesty,výdělek)" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-ln94203-76-p6s5w4">
 <src.rf>manual</src.rf>
@@ -2728,7 +2728,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-76-p7s1w11">
@@ -3238,7 +3238,7 @@
 <LM>w#w-ln94203-76-p7s5w11</LM>
 </w.rf>
 <form>podávala</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94203-76-p7s5w12">
 <src.rf>manual</src.rf>
@@ -4422,7 +4422,7 @@
 <LM>w#w-ln94203-76-p9s4w4</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94203-76-p9s4w5">
 <src.rf>manual</src.rf>
@@ -5082,7 +5082,7 @@
 <LM>w#w-ln94203-76-p10s5w6</LM>
 </w.rf>
 <form>pilotek</form>
-<tag lemma="pilotka_^(*2)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="pilotka-1_^(*4-1)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94203-76-p10s5w7">
 <src.rf>manual</src.rf>
@@ -5297,7 +5297,7 @@
 <LM>w#w-ln94203-76-p10s7w8</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94203-76-p10s7w9">
 <src.rf>manual</src.rf>
@@ -6346,7 +6346,7 @@
 <LM>w#w-ln94203-76-p12s3w3</LM>
 </w.rf>
 <form>stíhaček</form>
-<tag lemma="stíhačka_^(letadlo)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="stíhačka_^(*2)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94203-76-p12s3w4">
 <src.rf>manual</src.rf>

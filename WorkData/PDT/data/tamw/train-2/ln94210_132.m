@@ -391,7 +391,7 @@
 <LM>w#w-ln94210-132-p1s4w12</LM>
 </w.rf>
 <form>Čertovka</form>
-<tag lemma="Čertovka_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Čertovka_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-132-p1s4w13">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <form>hod</form>
 <tag>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-ln94210-132-p1s6w13">

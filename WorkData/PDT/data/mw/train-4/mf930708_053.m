@@ -175,7 +175,7 @@
 <LM>w#w-mf930708-053-p2s2w3</LM>
 </w.rf>
 <form>dáno</form>
-<tag lemma="dát" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930708-053-p2s2w4">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-mf930708-053-p2s2w11</LM>
 </w.rf>
 <form>těžko</form>
-<tag lemma="těžko-2_^(sotva)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="těžko_^(souvisící_s_váhou;_i_zdr._stav)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930708-053-p2s2w12">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-mf930708-053-p2s3w5</LM>
 </w.rf>
 <form>masově</form>
-<tag lemma="masově-2_^(velký)_(*3ý-2)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="masově_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930708-053-p2s3w6">
 <src.rf>manual</src.rf>
@@ -1159,7 +1159,7 @@
 <LM>w#w-mf930708-053-p4s1w12</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-053-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1442,7 +1442,7 @@
 <LM>w#w-mf930708-053-p4s3w7</LM>
 </w.rf>
 <form>nevyváženě</form>
-<tag lemma="vyváženě_^(zboží_přes_hranice)_(*1ý)" src="auto" selected="1">Dg-------1N----</tag>
+<tag lemma="vyváženě_^(*1ý)" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-mf930708-053-p4s3w8">
 <src.rf>manual</src.rf>
@@ -2291,7 +2291,7 @@
 <LM>w#w-mf930708-053-p5s5w2</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-mf930708-053-p5s5w3">
 <src.rf>manual</src.rf>

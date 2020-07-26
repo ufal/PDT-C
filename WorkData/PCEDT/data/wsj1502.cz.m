@@ -1525,7 +1525,7 @@
 <LM>w#w-wsj1502-001-p1s3W29</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1502-001-p1s3W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2741,7 +2741,7 @@
 <LM>w#w-wsj1502-001-p1s7W3</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1502-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3225,7 +3225,7 @@
 </w.rf>
 <form>železnic</form>
 <tag>
-<AM lemma="železnice" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="železnice_^(*3ík-1)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="železnice-1_,s_^(výrobce_železa)_(*5ík-1)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -6873,7 +6873,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1502-001-p1s20W27-Ta">
@@ -10149,7 +10149,7 @@
 <LM>w#w-wsj1502-001-p1s30W7</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1502-001-p1s30W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10898,7 +10898,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1502-001-p1s33W6-Ta">
@@ -11041,7 +11041,7 @@
 <LM>w#w-wsj1502-001-p1s33W16</LM>
 </w.rf>
 <form>Evropou</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1502-001-p1s33W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11064,7 +11064,7 @@
 <LM>w#w-wsj1502-001-p1s33W18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1502-001-p1s33W19-Ta">
 <src.rf>tagger-a</src.rf>

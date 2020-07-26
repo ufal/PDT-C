@@ -35,7 +35,7 @@
 <LM>w#w-lnd92256-103-p1s1w3</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="orig" selected="1">PP-P7--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P7--1-------</tag>
 </m>
 </s>
 <s id="m-lnd92256-103-p2s1">

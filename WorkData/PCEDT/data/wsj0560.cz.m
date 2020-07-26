@@ -1275,7 +1275,7 @@
 <LM>w#w-wsj0560-001-p1s3W6</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0560-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2250,7 +2250,7 @@
 <LM>w#w-wsj0560-001-p1s6W15</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0560-001-p1s6W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4466,7 +4466,7 @@
 <LM>w#w-wsj0560-001-p1s13W21</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj0560-001-p1s13W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6785,7 +6785,7 @@
 <LM>w#w-wsj0560-001-p1s19W10</LM>
 </w.rf>
 <form>navržen</form>
-<tag lemma="navrhnout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="navrhnout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj0560-001-p1s19W11-Ta">
 <src.rf>tagger-a</src.rf>

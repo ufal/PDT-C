@@ -216,7 +216,7 @@
 <form>Stoličnaja</form>
 <tag>
 <AM lemma="Stoličnaja-1_,t_^(vodka)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Stoličnaja-1_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Stoličnaja_;m_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p2s2w17">
@@ -281,7 +281,7 @@
 <LM>w#w-mf920925-030-p2s2w24</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-030-p2s2w25">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <form>diterc</form>
 <tag>
 <AM lemma="diterciální_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="diterciální" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="diterciální" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p2s3w13">
@@ -901,7 +901,7 @@
 <LM>w#w-mf920925-030-p3s2w8</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-030-p3s2w9">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-mf920925-030-p3s2w11</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920925-030-p3s2w12">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 <LM>w#w-mf920925-030-p3s3w2</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-030-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1015,7 +1015,7 @@
 <LM>w#w-mf920925-030-p3s3w8</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920925-030-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1198,7 +1198,7 @@
 <LM>w#w-mf920925-030-p4s1w7</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920925-030-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1598,7 +1598,7 @@
 <form>Stoličnaja</form>
 <tag>
 <AM lemma="Stoličnaja-1_,t_^(vodka)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Stoličnaja-1_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Stoličnaja_;m_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p4s5w14">
@@ -1681,7 +1681,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p4s5w24">
@@ -1708,7 +1708,7 @@
 <form>Stoličnaja</form>
 <tag>
 <AM lemma="Stoličnaja-1_,t_^(vodka)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Stoličnaja-1_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Stoličnaja_;m_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p4s5w27">
@@ -1717,7 +1717,7 @@
 <LM>w#w-mf920925-030-p4s5w27</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf920925-030-p4s5w28">
 <src.rf>manual</src.rf>
@@ -1801,7 +1801,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p4s6w4">

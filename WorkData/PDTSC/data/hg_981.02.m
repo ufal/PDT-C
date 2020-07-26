@@ -199,7 +199,7 @@
 <LM>w#w-d1t945-5</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m981-d1t945-6">
 <w.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-d1t980-4</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m981-10718-10738">
 <w.rf>
@@ -2356,7 +2356,7 @@
 <LM>w#w-d1t1082-6</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m981-d1t1084-1">
 <w.rf>
@@ -4314,7 +4314,7 @@
 <LM>w#w-d1t1178-5</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m981-d1t1178-6">
 <w.rf>
@@ -5183,7 +5183,7 @@
 <LM>w#w-d1t1247-5</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m981-d1t1247-6">
 <w.rf>
@@ -5267,7 +5267,7 @@
 <LM>w#w-d1t1255-3</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m981-d1t1255-2">
 <w.rf>
@@ -5511,7 +5511,7 @@
 <LM>w#w-d1t1274-3</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m981-d1t1274-4">
 <w.rf>
@@ -5902,7 +5902,7 @@
 <LM>w#w-d1e1256-x3-394</LM>
 </w.rf>
 <form>myslely</form>
-<tag lemma="myslet" src="auto" recommended="1">VpTP----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpTP----R-AAI-1</tag>
 </m>
 <m id="m981-d1e1256-x3-399">
 <w.rf>

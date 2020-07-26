@@ -899,7 +899,7 @@
 <LM>w#w-wsj0702-001-p1s2W27</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0702-001-p1s2W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2853,7 +2853,7 @@
 <form>GmbH</form>
 <tag>
 <AM lemma="Gmbh-77_:B" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="GmbH-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Gmbh-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0702-001-p1s7W21-Ta">
@@ -3393,7 +3393,7 @@
 <LM>w#w-wsj0702-001-p1s9W11</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0702-001-p1s9W12-Ta">
 <src.rf>tagger-a</src.rf>

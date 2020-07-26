@@ -463,7 +463,7 @@
 <LM>w#w-mf920925-080-p2s4w11</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf920925-080-p2s4w12">
 <src.rf>manual</src.rf>

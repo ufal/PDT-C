@@ -93,7 +93,7 @@
 <LM>w#w-ln94201-127-p2s1w7</LM>
 </w.rf>
 <form>vydává</form>
-<tag lemma="vydávat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vydávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-127-p2s1w8">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-ln94201-127-p3s2w3</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94201-127-p3s2w4">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <form>sympoziem</form>
 <tag>
 <AM lemma="sympózium" src="orig">NNNS7-----A----</AM>
-<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS7-----A----</AM>
+<AM lemma="sympozium" src="manual" selected="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-127-p3s2w8">
@@ -1289,7 +1289,7 @@
 <LM>w#w-ln94201-127-p3s4w22</LM>
 </w.rf>
 <form>Votobia</form>
-<tag lemma="Votobia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Votobia_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-127-p3s4w23">
 <src.rf>manual</src.rf>

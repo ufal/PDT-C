@@ -35,7 +35,7 @@
 <LM>w#w-lnd92256-104-p1s1w3</LM>
 </w.rf>
 <form>Evropa</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92256-104-p2s1">
@@ -395,7 +395,7 @@
 <LM>w#w-lnd92256-104-p2s3w2</LM>
 </w.rf>
 <form>Evropu</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92256-104-p2s3w3">
 <src.rf>manual</src.rf>

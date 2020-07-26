@@ -319,7 +319,7 @@
 <LM>w#w-lnd92254-011-p3s3w14</LM>
 </w.rf>
 <form>dávána</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VsQW----X-API--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92254-011-p3s3w15">
 <src.rf>manual</src.rf>

@@ -300,7 +300,7 @@
 <LM>w#w-ln95042-093-p3s1w4</LM>
 </w.rf>
 <form>obsažen</form>
-<tag lemma="obsáhnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="obsáhnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-ln95042-093-p3s1w5">
 <src.rf>manual</src.rf>

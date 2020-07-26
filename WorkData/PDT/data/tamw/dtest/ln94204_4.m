@@ -151,7 +151,7 @@
 <LM>w#w-ln94204-4-p2s1Bw9</LM>
 </w.rf>
 <form>vydaly</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-4-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-4-p2s2w13">
@@ -377,7 +377,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94204-4-p2s2w14">
@@ -452,7 +452,7 @@
 <LM>w#w-ln94204-4-p3s1w4</LM>
 </w.rf>
 <form>vydaly</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-4-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <LM>w#w-ln94204-4-p4s1w8</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94204-4-p4s1w9">
 <src.rf>manual</src.rf>

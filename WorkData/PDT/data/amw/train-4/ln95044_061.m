@@ -199,7 +199,7 @@
 <LM>w#w-ln95044-061-p2s1w17</LM>
 </w.rf>
 <form>nestraním</form>
-<tag lemma="stranit-1_^(nadržovat,_přilepšovat_někomu)" src="orig" selected="1">VB-S---1P-NAI--</tag>
+<tag lemma="stranit_^([se]_čeho;nadržovat)" src="orig" selected="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m-ln95044-061-p2s1w18">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <tag>
 <AM lemma="ČLK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČLK-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČLK_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČLK_;m_^(Česká_lékařská_komora)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-061-p2s2w5">
@@ -535,7 +535,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-061-p2s3w13">
@@ -544,7 +544,7 @@
 <LM>w#w-ln95044-061-p2s3w13</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln95044-061-p2s3w14">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <tag>
 <AM lemma="ČLK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČLK-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČLK_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČLK_;m_^(Česká_lékařská_komora)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-061-p2s4w7">
@@ -810,7 +810,7 @@
 <LM>w#w-ln95044-061-p2s6w1</LM>
 </w.rf>
 <form>Vždy</form>
-<tag lemma="vždy" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždy" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-061-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1014,7 +1014,7 @@
 <LM>w#w-ln95044-061-p2s8w6</LM>
 </w.rf>
 <form>politiku</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95044-061-p2s8w7">
 <src.rf>manual</src.rf>
@@ -1516,7 +1516,7 @@
 <LM>w#w-ln95044-061-p4s1w7</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95044-061-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1577,7 +1577,7 @@
 <tag>
 <AM lemma="ČLK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČLK-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČLK_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČLK_;m_^(Česká_lékařská_komora)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-061-p4s2w5">
@@ -1639,7 +1639,7 @@
 <tag>
 <AM lemma="ČLK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČLK-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČLK_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČLK_;m_^(Česká_lékařská_komora)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-061-p4s3w2">
@@ -1756,7 +1756,7 @@
 <form>ČLK</form>
 <tag>
 <AM lemma="ČLK_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČLK_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČLK_;m_^(Česká_lékařská_komora)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-061-p4s4w8">
@@ -2067,7 +2067,7 @@
 <form>ČLK</form>
 <tag>
 <AM lemma="ČLK_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČLK_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČLK_;m_^(Česká_lékařská_komora)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-061-p4s6w3">
@@ -2092,7 +2092,7 @@
 <LM>w#w-ln95044-061-p4s6w5</LM>
 </w.rf>
 <form>politiku</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95044-061-p4s6w6">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-cmpr9415-057-p3s1w3</LM>
 </w.rf>
 <form>kurzů</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="kurz" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-057-p3s1w4">
 <src.rf>manual</src.rf>

@@ -133,7 +133,7 @@
 <LM>w#w-lnd92251-014-p1s2w1</LM>
 </w.rf>
 <form>Vloni</form>
-<tag lemma="vloni" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92251-014-p1s2w2">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <form>Čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-014-p2s1w17">
@@ -827,7 +827,7 @@
 <form>kV</form>
 <tag>
 <AM lemma="kV-1`kilovolt_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilovolt" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilovolt" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-014-p3s1w31">
@@ -1060,7 +1060,7 @@
 <form>h</form>
 <tag>
 <AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-014-p4s1w16">

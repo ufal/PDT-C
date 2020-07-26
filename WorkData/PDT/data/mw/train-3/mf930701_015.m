@@ -375,7 +375,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpYS---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930701-015-p1s4w4">
@@ -655,7 +655,7 @@
 <form>trabantem</form>
 <tag>
 <AM lemma="Trabant-2_;m_^(vozidlo)" src="orig">NNIS7-----A----</AM>
-<AM lemma="trabant_;m" src="auto" recommended="1" selected="1">NNIS7-----A----</AM>
+<AM lemma="trabant" src="auto" recommended="1" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-015-p2s1w22">

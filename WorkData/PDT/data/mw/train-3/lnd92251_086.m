@@ -83,7 +83,7 @@
 <form>Čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-086-p2s2w2">
@@ -554,7 +554,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-086-p2s7w5">
@@ -624,7 +624,7 @@
 <form>Ukr</form>
 <tag>
 <AM lemma="Ukrajina_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Ukrajina_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Ukrajina_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-086-p2s8w4">
@@ -768,7 +768,7 @@
 <form>Rus</form>
 <tag>
 <AM lemma="Rusko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Rusko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Rusko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-086-p2s10w6">
@@ -844,7 +844,7 @@
 <LM>w#w-lnd92251-086-p2s11w3</LM>
 </w.rf>
 <form>Lavanchy</form>
-<tag lemma="Lavanchy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lavanchy_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-lnd92251-086-p2s11w4">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 <form>Fr</form>
 <tag>
 <AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-086-p2s11w6">
@@ -957,7 +957,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-086-p2s12w6">

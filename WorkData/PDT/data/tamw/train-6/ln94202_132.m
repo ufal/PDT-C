@@ -353,7 +353,7 @@
 <LM>w#w-ln94202-132-p2s1Cw15</LM>
 </w.rf>
 <form>přejala</form>
-<tag lemma="přejmout" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="přejmout_^(převzít)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-132-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-ln94202-132-p2s3w33</LM>
 </w.rf>
 <form>nemohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpTP----R-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln94202-132-p2s3w34">
 <src.rf>manual</src.rf>

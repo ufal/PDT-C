@@ -37,7 +37,7 @@
 <LM>w#w-lnd91301-059-p2s1w1</LM>
 </w.rf>
 <form>BARMA</form>
-<tag lemma="Barma_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Barma_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd91301-059-p3s1">
@@ -203,7 +203,7 @@
 <LM>w#w-lnd91301-059-p5s1w16</LM>
 </w.rf>
 <form>Barmou</form>
-<tag lemma="Barma_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Barma_;G_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91301-059-p5s1w17">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-lnd91301-059-p5s1w21</LM>
 </w.rf>
 <form>Barma</form>
-<tag lemma="Barma_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Barma_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-059-p5s1w22">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-lnd91301-059-p5s6w6</LM>
 </w.rf>
 <form>Barma</form>
-<tag lemma="Barma_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Barma_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-059-p5s6w7">
 <src.rf>manual</src.rf>

@@ -77,7 +77,7 @@
 <LM>w#w-lnd94101-089-p1s1Bw4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-lnd94101-089-p1s3Bw15</LM>
 </w.rf>
 <form>rakousko</form>
-<tag lemma="rakouský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="rakousko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s3Bw16">
 <src.rf>manual</src.rf>
@@ -1123,7 +1123,7 @@
 <LM>w#w-lnd94101-089-p1s4Aw36</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-089-p1s4Aw37">
 <src.rf>manual</src.rf>
@@ -1245,7 +1245,7 @@
 <LM>w#w-lnd94101-089-p1s5Aw10</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s5Aw11">
 <src.rf>manual</src.rf>
@@ -1376,7 +1376,7 @@
 <form>ukradeno</form>
 <tag>
 <AM lemma="ukradnout" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="ukrást" src="auto" recommended="1" selected="1">VsNS----X-APP--</AM>
+<AM lemma="ukradnout" src="auto" recommended="1" selected="1">VsNS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-lnd94101-089-p1s5Bw9">
@@ -1465,7 +1465,7 @@
 <LM>w#w-lnd94101-089-p1s5Bw19</LM>
 </w.rf>
 <form>polsko</form>
-<tag lemma="polský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="polsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s5Bw20">
 <src.rf>manual</src.rf>
@@ -1581,7 +1581,7 @@
 <LM>w#w-lnd94101-089-p1s7Aw3</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČR_;G_^(Česká_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s7Aw4">
 <src.rf>manual</src.rf>
@@ -2084,7 +2084,7 @@
 <LM>w#w-lnd94101-089-p1s9Aw13</LM>
 </w.rf>
 <form>hodinu</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s9Aw14">
 <src.rf>manual</src.rf>
@@ -2497,7 +2497,7 @@
 <LM>w#w-lnd94101-089-p1s12Bw10</LM>
 </w.rf>
 <form>zasažena</form>
-<tag lemma="zasáhnout" src="orig" selected="1">VsQW----X-AP---</tag>
+<tag lemma="zasáhnout" src="orig" selected="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-lnd94101-089-p1s12Bw11">
 <src.rf>manual</src.rf>
@@ -2585,7 +2585,7 @@
 <LM>w#w-lnd94101-089-p1s12Bw21</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="NHL_;m_^(Nár._hokejová_liga)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s12Bw22">
 <src.rf>manual</src.rf>
@@ -2712,7 +2712,7 @@
 <form>Smetákem</form>
 <tag>
 <AM lemma="smeták" src="orig">NNIS7-----A----</AM>
-<AM lemma="Smeták_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Smeták-1_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-089-p1s13Bw10">
@@ -2721,7 +2721,7 @@
 <LM>w#w-lnd94101-089-p1s13Bw10</LM>
 </w.rf>
 <form>vydat</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vydat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94101-089-p1s13Bw11">
 <src.rf>manual</src.rf>
@@ -2737,7 +2737,7 @@
 <LM>w#w-lnd94101-089-p1s13Bw12</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s13Bw13">
 <src.rf>manual</src.rf>

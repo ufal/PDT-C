@@ -1748,7 +1748,7 @@
 <LM>w#w-wsj1062-001-p1s3W10</LM>
 </w.rf>
 <form>cestu</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1062-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2288,7 +2288,7 @@
 <tag>
 <AM lemma="služebna" src="auto">NNFS3-----A----</AM>
 <AM lemma="služebna" src="auto">NNFS6-----A----</AM>
-<AM lemma="služebně_^(poměr,byt,zbraň,...)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="služebně-1_^(*3ý-1)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1062-001-p1s5W8-Ta">
@@ -2482,7 +2482,7 @@
 <LM>w#w-wsj1062-001-p1s5W23</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj1062-001-p1s5W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2552,7 +2552,7 @@
 <LM>w#w-wsj1062-001-p1s5W30</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m-wsj1062-001-p1s5W31-Ta">
 <src.rf>tagger-a</src.rf>

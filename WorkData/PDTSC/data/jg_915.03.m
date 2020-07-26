@@ -895,7 +895,7 @@
 <LM>w#w-d1t1226-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m915-d-id99745">
 <w.rf>
@@ -2748,7 +2748,7 @@
 <LM>w#w-d1t1294-8</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m915-d1t1294-9">
 <w.rf>

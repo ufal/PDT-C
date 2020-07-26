@@ -215,7 +215,7 @@
 <LM>w#w-ln94208-115-p1s2w4</LM>
 </w.rf>
 <form>podává</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-115-p1s2w5">
 <src.rf>manual</src.rf>

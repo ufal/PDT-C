@@ -93,7 +93,7 @@
 <LM>w#w-ln94210-91-p2s1Aw1</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-91-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-ln94210-91-p2s2w9</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94210-91-p2s2w10">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-ln94210-91-p3s1w8</LM>
 </w.rf>
 <form>mocně</form>
-<tag lemma="mocně_^(mající_moc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="mocně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94210-91-p3s1w9">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <LM>w#w-ln94210-91-p3s4w3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94210-91-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1528,7 +1528,7 @@
 <LM>w#w-ln94210-91-p3s8w4</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="vzít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94210-91-p3s8w5">
 <src.rf>manual</src.rf>
@@ -1544,7 +1544,7 @@
 <LM>w#w-ln94210-91-p3s8w6</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94210-91-p3s8w7">
 <src.rf>manual</src.rf>
@@ -2781,7 +2781,7 @@
 <LM>w#w-ln94210-91-p5s2w7</LM>
 </w.rf>
 <form>zove</form>
-<tag lemma="zvát_,n" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zvát" src="auto" selected="1">VB-S---3P-AAI-1</tag>
 </m>
 <m id="m-ln94210-91-p5s2w8">
 <src.rf>manual</src.rf>
@@ -3398,7 +3398,7 @@
 <form>resp</form>
 <tag>
 <AM lemma="respektive_:B" src="auto">Db------------8</AM>
-<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------b</AM>
 </tag>
 </m>
 <m id="m-ln94210-91-p5s5w32">
@@ -3612,7 +3612,7 @@
 <tag>
 <AM lemma="resortně_^(*1í)" src="orig">Dg-------1A----</AM>
 <AM lemma="rezortně_,s_,x_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="resortně_,s_^(^DD**rezortní)_(*1í)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="resortně_^(^DD**rezortně)_(*1í)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-91-p5s6w17">
@@ -3645,7 +3645,7 @@
 <LM>w#w-ln94210-91-p5s6w20</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-ln94210-91-p5s6w21">
 <src.rf>manual</src.rf>
@@ -3871,7 +3871,7 @@
 <LM>w#w-ln94210-91-p6s1w20</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94210-91-p6s1w21">
 <src.rf>manual</src.rf>

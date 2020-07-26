@@ -223,7 +223,7 @@
 <LM>w#w-ln94205-30-p2s1Bw20</LM>
 </w.rf>
 <form>Tallinem</form>
-<tag lemma="Tallin_;G" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Tallin_;G_,s_^(^DD**Tallinn)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94205-30-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-ln94205-30-p2s4w38</LM>
 </w.rf>
 <form>zastavila</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-30-p2s4w39">
 <src.rf>manual</src.rf>

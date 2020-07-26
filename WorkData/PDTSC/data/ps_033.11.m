@@ -1577,7 +1577,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m033-d1t3611-6">
@@ -2358,7 +2358,7 @@
 <LM>w#w-d1t3656-8</LM>
 </w.rf>
 <form>jedeme</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m033-d1t3656-9">
 <w.rf>
@@ -2597,7 +2597,7 @@
 <LM>w#w-d1t3680-4</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m033-d1t3680-5">
 <w.rf>
@@ -3011,7 +3011,7 @@
 <AM lemma="Babylon_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="babylon_^(zmatek,_směsice)" src="auto">NNIS6-----A----</AM>
 <AM lemma="Babylon_;G_;m" src="manual">NNIS6-----A----</AM>
-<AM lemma="Babylon_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Babylon_;G_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m033-d1t3703-9">
@@ -3063,7 +3063,7 @@
 <form>Praha</form>
 <tag>
 <AM lemma="Praha_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Praha_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Praha_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m033-d-m-d1e3696-x4-punct-punct">
@@ -3132,7 +3132,7 @@
 <form>Praha</form>
 <tag>
 <AM lemma="Praha_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Praha_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Praha_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m033-d1t3709-12">
@@ -6166,7 +6166,7 @@
 <LM>w#w-d1t3859-6</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m033-d1t3859-7">
 <w.rf>

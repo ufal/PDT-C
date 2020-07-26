@@ -500,7 +500,7 @@
 <LM>w#w-wsj0672-001-p1s0W38</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0672-001-p1s0W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -755,7 +755,7 @@
 <LM>w#w-wsj0672-001-p1s1W14</LM>
 </w.rf>
 <form>nemocem</form>
-<tag lemma="nemoc_^(choroba)" src="auto" recommended="1">NNFP3-----A---1</tag>
+<tag lemma="nemoc" src="auto" recommended="1">NNFP3-----A---1</tag>
 </m>
 <m id="m-wsj0672-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-wsj0672-001-p1s1W24</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0672-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1519,7 +1519,7 @@
 <LM>w#w-wsj0672-001-p1s3W2</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0672-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>

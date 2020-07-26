@@ -334,7 +334,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-055-p4s1w8">
@@ -523,7 +523,7 @@
 <LM>w#w-mf920923-055-p8s1w3</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-mf920923-055-p8s1w4">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-mf920923-055-p8s2w12</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-mf920923-055-p8s2w13">
 <src.rf>manual</src.rf>
@@ -1894,7 +1894,7 @@
 <LM>w#w-mf920923-055-p12s2w12</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-mf920923-055-p12s2w13">
 <src.rf>manual</src.rf>
@@ -2656,7 +2656,7 @@
 <LM>w#w-mf920923-055-p16s2w9</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-mf920923-055-p16s2w10">
 <src.rf>manual</src.rf>
@@ -2770,7 +2770,7 @@
 <LM>w#w-mf920923-055-p16s3w4</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920923-055-p16s3w5">
 <src.rf>manual</src.rf>
@@ -2988,7 +2988,7 @@
 <LM>w#w-mf920923-055-p16s4w15</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-mf920923-055-p16s4w16">
 <src.rf>manual</src.rf>
@@ -3142,7 +3142,7 @@
 <LM>w#w-mf920923-055-p16s5w13</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-mf920923-055-p16s5w14">
 <src.rf>manual</src.rf>
@@ -4060,7 +4060,7 @@
 <LM>w#w-mf920923-055-p24s2w12</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-055-p24s2w13">
 <src.rf>manual</src.rf>
@@ -4118,7 +4118,7 @@
 <LM>w#w-mf920923-055-p24s3w4</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-mf920923-055-p24s3w5">
 <src.rf>manual</src.rf>
@@ -4630,7 +4630,7 @@
 <form>jako</form>
 <tag>
 <AM lemma="jako-1" src="auto">J,-------------</AM>
-<AM lemma="jako-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jako-1" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-055-p28s1w3">
@@ -5653,7 +5653,7 @@
 <LM>w#w-mf920923-055-p32s6w3</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-055-p32s6w4">
 <src.rf>manual</src.rf>
@@ -6186,7 +6186,7 @@
 <LM>w#w-mf920923-055-p32s8w22</LM>
 </w.rf>
 <form>mířil</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-055-p32s8w23">
 <src.rf>manual</src.rf>

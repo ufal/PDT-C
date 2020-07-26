@@ -450,7 +450,7 @@
 <LM>w#w-wsj0747-001-p1s1W5</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m-wsj0747-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3958,7 +3958,7 @@
 <LM>w#w-wsj0747-001-p1s15W5</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m-wsj0747-001-p1s15W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4691,7 +4691,7 @@
 <LM>w#w-wsj0747-001-p1s18W4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m-wsj0747-001-p1s18W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -38,7 +38,7 @@
 <LM>w#w-lnd92253-082-p1s1w3</LM>
 </w.rf>
 <form>napaden</form>
-<tag lemma="napadnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="napadnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 </s>
 <s id="m-lnd92253-082-p2s1">

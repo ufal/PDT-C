@@ -565,7 +565,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0816-001-p1s2W7-Ta">
@@ -2465,7 +2465,7 @@
 <LM>w#w-wsj0816-001-p1s9W9</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj0816-001-p1s9W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2706,7 +2706,7 @@
 <LM>w#w-wsj0816-001-p1s10W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0816-001-p1s10W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2952,7 +2952,7 @@
 <LM>w#w-wsj0816-001-p1s10W22</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0816-001-p1s10W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3114,7 +3114,7 @@
 <LM>w#w-wsj0816-001-p1s10W33</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0816-001-p1s10W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3210,7 +3210,7 @@
 <LM>w#w-wsj0816-001-p1s11W4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0816-001-p1s11W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3864,7 +3864,7 @@
 <LM>w#w-wsj0816-001-p1s14W8</LM>
 </w.rf>
 <form>raději</form>
-<tag lemma="rád" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="rád-2" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0816-001-p1s14W9-Ta">
 <src.rf>tagger-a</src.rf>

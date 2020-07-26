@@ -525,7 +525,7 @@
 <LM>w#w-mf930709-151-p2s4w15</LM>
 </w.rf>
 <form>postižen</form>
-<tag lemma="postihnout" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag lemma="postihnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-mf930709-151-p2s4w16">
 <src.rf>manual</src.rf>

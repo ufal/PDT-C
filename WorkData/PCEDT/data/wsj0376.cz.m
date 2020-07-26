@@ -3359,7 +3359,7 @@
 <LM>w#w-wsj0376-001-p1s9W20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0376-001-p1s9W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3697,7 +3697,7 @@
 <LM>w#w-wsj0376-001-p1s10W23</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0376-001-p1s10W24-Ta">
 <src.rf>tagger-a</src.rf>

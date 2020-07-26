@@ -449,7 +449,7 @@
 <LM>w#w-d1t1670-42</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m118-d1t1670-43">
 <w.rf>
@@ -499,7 +499,7 @@
 <LM>w#w-d1t1672-2</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m118-d1t1672-4">
 <w.rf>
@@ -1094,7 +1094,7 @@
 <LM>w#w-d1t1688-16</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m118-d1t1688-17">
 <w.rf>
@@ -3385,7 +3385,7 @@
 <LM>w#w-d1t1796-7</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m118-d1t1796-11">
 <w.rf>
@@ -3903,7 +3903,7 @@
 <LM>w#w-d1t1811-10</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m118-d-id144491-punct">
 <w.rf>
@@ -4402,7 +4402,7 @@
 <LM>w#w-d1t1829-20</LM>
 </w.rf>
 <form>sekretářka</form>
-<tag lemma="sekretářka_^(*2)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="sekretářka-2_^(*4-2)" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m118-d1t1829-21">
 <w.rf>
@@ -4923,7 +4923,7 @@
 <LM>w#w-d1t1844-2</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m118-d1t1844-3">
 <w.rf>

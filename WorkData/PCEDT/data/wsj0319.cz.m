@@ -1169,7 +1169,7 @@
 <LM>w#w-wsj0319-001-p1s3W4</LM>
 </w.rf>
 <form>myslel</form>
-<tag lemma="myslet" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m-wsj0319-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3267,7 +3267,7 @@
 <LM>w#w-wsj0319-001-p1s11W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0319-001-p1s11W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4901,7 +4901,7 @@
 <LM>w#w-wsj0319-001-p1s17W5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0319-001-p1s17W6-Ta">
 <src.rf>tagger-a</src.rf>

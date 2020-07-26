@@ -5068,7 +5068,7 @@
 <LM>w#w-wsj1784-001-p1s17W23</LM>
 </w.rf>
 <form>pectoris</form>
-<tag lemma="pectoris" src="auto" recommended="1">F%-------------</tag>
+<tag lemma="pectoris-77" src="auto" recommended="1">F%-------------</tag>
 </m>
 <m id="m-wsj1784-001-p1s17W24-Ta">
 <src.rf>tagger-a</src.rf>

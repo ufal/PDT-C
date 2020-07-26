@@ -1489,7 +1489,7 @@
 <form>ofenzivu</form>
 <tag>
 <AM lemma="ofenziva" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="ofenziva_^(^DD**ofenzíva)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="ofenziva_,s_^(^DD**ofenzíva)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0174-001-p1s5W17-Ta">
@@ -2647,7 +2647,7 @@
 <LM>w#w-wsj0174-001-p1s10W2</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0174-001-p1s10W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3369,7 +3369,7 @@
 <LM>w#w-wsj0174-001-p1s13W15</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0174-001-p1s13W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4233,7 +4233,7 @@
 <LM>w#w-wsj0174-001-p1s16W10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0174-001-p1s16W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5088,7 +5088,7 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="OSN-1_:B_^(Organizace_spojených_národů)" src="auto">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -5983,7 +5983,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -6311,7 +6311,7 @@
 <form>čínsko</form>
 <tag>
 <AM lemma="čínský" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="čínsko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="čínsko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0174-001-p1s23W19-Ta">

@@ -312,7 +312,7 @@
 <LM>w#w-wsj0039-001-p1s2W8</LM>
 </w.rf>
 <form>scénárista</form>
-<tag lemma="scénárista" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="scénárista_,s_^(^DD**scenárista)" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0039-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2022,7 +2022,7 @@
 <LM>w#w-wsj0039-001-p1s8W12</LM>
 </w.rf>
 <form>vydělává</form>
-<tag lemma="vydělávat_^(kůže;peníze)_(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="vydělávat_^(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0039-001-p1s8W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2272,7 +2272,7 @@
 <LM>w#w-wsj0039-001-p1s8W32</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m-wsj0039-001-p1s8W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2635,7 +2635,7 @@
 <LM>w#w-wsj0039-001-p1s9W10</LM>
 </w.rf>
 <form>pojat</form>
-<tag lemma="pojmout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="pojmout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj0039-001-p1s9W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2713,7 +2713,7 @@
 <LM>w#w-wsj0039-001-p1s9W18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0039-001-p1s9W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5205,7 +5205,7 @@
 <LM>w#w-wsj0039-001-p1s20W6</LM>
 </w.rf>
 <form>vyklube</form>
-<tag lemma="vyklubat" src="auto" recommended="1">VB-S---3P-AAP--</tag>
+<tag lemma="vyklubat" src="auto" recommended="1">VB-S---3P-AAP-1</tag>
 </m>
 <m id="m-wsj0039-001-p1s20W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5284,7 +5284,7 @@
 <LM>w#w-wsj0039-001-p1s21W1</LM>
 </w.rf>
 <form>Dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0039-001-p1s21W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5415,7 +5415,7 @@
 <LM>w#w-wsj0039-001-p1s21W13</LM>
 </w.rf>
 <form>zamyslel</form>
-<tag lemma="zamyslet" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="zamyslit" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj0039-001-p1s21W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5899,7 +5899,7 @@
 <LM>w#w-wsj0039-001-p1s23W6</LM>
 </w.rf>
 <form>vymyslel</form>
-<tag lemma="vymyslet" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="vymyslit" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj0039-001-p1s23W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6757,7 +6757,7 @@
 <LM>w#w-wsj0039-001-p1s27W7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0039-001-p1s27W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8379,7 +8379,7 @@
 <LM>w#w-wsj0039-001-p1s32W10</LM>
 </w.rf>
 <form>potratářka</form>
-<tag lemma="potratářka_,h_^(*2)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="potratářka_^(*2)" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0039-001-p1s32W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8417,7 +8417,7 @@
 <LM>w#w-wsj0039-001-p1s33W3</LM>
 </w.rf>
 <form>potratářkou</form>
-<tag lemma="potratářka_,h_^(*2)" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="potratářka_^(*2)" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj0039-001-p1s33W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8959,7 +8959,7 @@
 <LM>w#w-wsj0039-001-p1s36W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0039-001-p1s36W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9414,7 +9414,7 @@
 <LM>w#w-wsj0039-001-p1s37W14</LM>
 </w.rf>
 <form>podává</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0039-001-p1s37W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10143,7 +10143,7 @@
 <LM>w#w-wsj0039-001-p1s40W8</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0039-001-p1s40W9-Ta">
 <src.rf>tagger-a</src.rf>

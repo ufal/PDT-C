@@ -414,7 +414,7 @@
 <LM>w#w-lnd94103-077-p1s2w22</LM>
 </w.rf>
 <form>lahvích</form>
-<tag lemma="lahev" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-lnd94103-077-p1s2w23">
 <src.rf>manual</src.rf>

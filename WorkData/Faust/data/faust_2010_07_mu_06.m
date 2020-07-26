@@ -379,7 +379,7 @@
 <LM>w#w-mu_06-SCzechM-p0555-s1-w35</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" recommended="1">Db-------------</tag>
 </m>
 <m id="mu_06-SCzechM-p0555-s1-w36">
 <w.rf>
@@ -1874,7 +1874,7 @@
 <LM>w#w-mu_06-SCzechM-p0578-s1-w1</LM>
 </w.rf>
 <form>Kdybys</form>
-<tag lemma="kdyby" recommended="1">J,-S---2-------</tag>
+<tag lemma="kdyby" recommended="1">J,-----------s-</tag>
 </m>
 <m id="mu_06-SCzechM-p0578-s1-w2">
 <w.rf>
@@ -1982,7 +1982,7 @@
 <LM>w#w-mu_06-SCzechM-p0579-s1-w4</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" recommended="1">Db-------------</tag>
 </m>
 <m id="mu_06-SCzechM-p0579-s1-w5">
 <w.rf>
@@ -2867,7 +2867,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -3272,7 +3272,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít">VB-S---3P-AAI--</AM>
 <AM lemma="dnít">VB-S---3P-AA--2</AM>
 </tag>
@@ -3644,7 +3644,7 @@
 <LM>w#w-mu_06-SCzechM-p0597-s1-w8</LM>
 </w.rf>
 <form>Vám</form>
-<tag lemma="ty" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="mu_06-SCzechM-p0597-s1-w9">
 <w.rf>
@@ -4121,7 +4121,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -4495,7 +4495,7 @@
 <AM lemma="jed">NNIS2-----A----</AM>
 <AM lemma="jed">NNIS3-----A----</AM>
 <AM lemma="jed">NNIS6-----A----</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">VB-S---1P-AAI--</AM>
+<AM lemma="jet-1" src="manual" selected="1">VB-S---1P-AAI--</AM>
 </tag>
 </m>
 <m id="mu_06-SCzechM-p0614-s1-w11">
@@ -4653,7 +4653,7 @@
 <AM lemma="níže">NNFS2-----A----</AM>
 <AM lemma="níže">NNFS5-----A----</AM>
 <AM lemma="nížit">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" selected="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="mu_06-SCzechM-p0616-s1-w15">
@@ -5297,7 +5297,7 @@
 </w.rf>
 <form>Ahoj</form>
 <tag>
-<AM lemma="ahoj" recommended="1">TT-------------</AM>
+<AM lemma="ahoj" recommended="1">II-------------</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS1-----A----</AM>
 <AM lemma="Ahoj_;m_^(časopis)">NNIS4-----A----</AM>
 </tag>
@@ -5741,7 +5741,7 @@
 <tag>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
-<AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1">NNIXX-----A---b</AM>
 <AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM>
@@ -5824,7 +5824,7 @@
 <tag>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-33" src="auto">Q3-------------</AM>
-<AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr" src="auto" recommended="1">NNIXX-----A---b</AM>
 <AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM>
@@ -6545,7 +6545,7 @@
 <LM>w#w-mu_06-SCzechM-p0629-s1-w16</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" recommended="1">ACYS------A----</tag>
 </m>
 <m id="mu_06-SCzechM-p0629-s1-w17">
 <w.rf>
@@ -6728,7 +6728,7 @@
 <LM>w#w-mu_06-SCzechM-p0633-s1-w8</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" recommended="1">J,-----------m-</tag>
 </m>
 <m id="mu_06-SCzechM-p0633-s1-w9">
 <w.rf>
@@ -6854,7 +6854,7 @@
 <form>dát</form>
 <tag>
 <AM lemma="dát" recommended="1">Vf--------A-P--</AM>
-<AM lemma="dát" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="dát-1" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="mu_06-SCzechM-p0637-s1-w6">

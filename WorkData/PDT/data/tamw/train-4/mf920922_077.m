@@ -139,7 +139,7 @@
 <LM>w#w-mf920922-077-p2s1w10</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920922-077-p2s1w11">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <form>Lancia</form>
 <tag>
 <AM lemma="Lancia-2_;m_^(vozidlo)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lancia_;m" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Lancia_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="lancia_;m" src="auto">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -283,7 +283,7 @@
 <form>Lancia</form>
 <tag>
 <AM lemma="Lancia-2_;m_^(vozidlo)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lancia_;m" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Lancia_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="lancia_;m" src="auto">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -335,7 +335,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920922-077-p2s2w17">
@@ -434,7 +434,7 @@
 <form>min</form>
 <tag>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf920922-077-p2s2w29">

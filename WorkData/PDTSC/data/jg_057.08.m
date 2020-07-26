@@ -1291,7 +1291,7 @@
 <LM>w#w-d1t3021-5</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m057-d1t3021-6">
 <w.rf>
@@ -1301,7 +1301,7 @@
 <tag>
 <AM lemma="ujít-1_^(vzdálenost,_kus_cesty)" src="auto">Vf--------A----</AM>
 <AM lemma="ujít-2_^(výdělek;_pozornost)" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="ujít-1_^(kus_cesty_výdělek)" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="ujít-1_^(kus_cesty,výdělek)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m057-d-m-d1e3014-x2-punct-punct">
@@ -1336,7 +1336,7 @@
 <LM>w#w-d1t3025-3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m057-d1t3025-4">
 <w.rf>
@@ -2209,7 +2209,7 @@
 <LM>w#w-d1t3078-5</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m057-d1t3078-6">
 <w.rf>
@@ -3297,7 +3297,7 @@
 <form>dlouho</form>
 <tag>
 <AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dlouho_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m057-d1t3153-3">
@@ -3782,7 +3782,7 @@
 <LM>w#w-d1t3186-2</LM>
 </w.rf>
 <form>podruhé</form>
-<tag lemma="podruhé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="podruhé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m057-d1t3209-6">
 <w.rf>
@@ -4464,7 +4464,7 @@
 <LM>w#w-d1t3237-5</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m057-d-id151383-punct">
 <w.rf>
@@ -4748,7 +4748,7 @@
 <LM>w#w-d1t3256-11</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m057-d1t3256-12">
 <w.rf>

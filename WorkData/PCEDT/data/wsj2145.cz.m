@@ -1301,7 +1301,7 @@
 <form>Jr</form>
 <tag>
 <AM lemma="jr-88_^(Junior)" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="jr-88_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2145-001-p1s4W16-Ta">
@@ -1624,7 +1624,7 @@
 <LM>w#w-wsj2145-001-p1s5W3</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2145-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1690,7 +1690,7 @@
 <LM>w#w-wsj2145-001-p1s5W9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2145-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1925,7 +1925,7 @@
 <LM>w#w-wsj2145-001-p1s6W13</LM>
 </w.rf>
 <form>potřeb</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj2145-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2135,7 +2135,7 @@
 <LM>w#w-wsj2145-001-p1s6W30</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2145-001-p1s6W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4752,7 +4752,7 @@
 <LM>w#w-wsj2145-001-p1s17W16</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2145-001-p1s17W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4941,7 +4941,7 @@
 <LM>w#w-wsj2145-001-p1s17W35</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m-wsj2145-001-p1s17W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5519,7 +5519,7 @@
 <LM>w#w-wsj2145-001-p1s21W2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj2145-001-p1s21W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5980,7 +5980,7 @@
 <form>Jr</form>
 <tag>
 <AM lemma="jr-88_^(Junior)" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="jr-88_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="auto" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2145-001-p1s22W23-Ta">
@@ -11174,7 +11174,7 @@
 <form>nejistota</form>
 <tag>
 <AM lemma="nejistota" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="jistota" src="manual" selected="1">NNFS1-----N----</AM>
+<AM lemma="nejistota" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2145-001-p1s41W18-Ta">

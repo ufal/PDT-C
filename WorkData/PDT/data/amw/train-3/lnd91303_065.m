@@ -144,7 +144,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd91303-065-p2s1w12">
@@ -217,7 +217,7 @@
 <LM>w#w-lnd91303-065-p2s1w20</LM>
 </w.rf>
 <form>hýbou</form>
-<tag lemma="hýbat" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="hýbat" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd91303-065-p2s1w21">
 <src.rf>manual</src.rf>
@@ -814,7 +814,7 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-065-p3s4w11">
@@ -1127,7 +1127,7 @@
 <LM>w#w-lnd91303-065-p3s5w22</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-lnd91303-065-p3s5w23">
 <src.rf>manual</src.rf>
@@ -1204,7 +1204,7 @@
 <tag>
 <AM lemma="málo-3" src="orig">Dg-------2A----</AM>
 <AM lemma="méně_^(méně_+_2._p.,_méně_peněz)" src="manual">Ca--1----------</AM>
-<AM lemma="méně" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="méně" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-065-p3s6w4">
@@ -1240,7 +1240,7 @@
 <tag>
 <AM lemma="málo-3" src="orig">Dg-------2A----</AM>
 <AM lemma="méně_^(méně_+_2._p.,_méně_peněz)" src="manual">Ca--1----------</AM>
-<AM lemma="méně" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="méně" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-065-p3s6w8">
@@ -1276,7 +1276,7 @@
 <tag>
 <AM lemma="málo-3" src="orig">Dg-------2A----</AM>
 <AM lemma="méně_^(méně_+_2._p.,_méně_peněz)" src="manual">Ca--1----------</AM>
-<AM lemma="méně" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="méně" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-065-p3s6w12">
@@ -2174,7 +2174,7 @@
 <tag>
 <AM lemma="málo-3" src="orig">Dg-------2A----</AM>
 <AM lemma="méně_^(méně_+_2._p.,_méně_peněz)" src="manual">Ca--4----------</AM>
-<AM lemma="méně" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="méně" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-065-p3s13w9">
@@ -3650,7 +3650,7 @@
 <LM>w#w-lnd91303-065-p5s1w22</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-lnd91303-065-p5s1w23">
 <src.rf>manual</src.rf>

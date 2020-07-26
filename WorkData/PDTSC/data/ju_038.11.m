@@ -284,7 +284,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m038-d-id167105-punct">
@@ -456,7 +456,7 @@
 <LM>w#w-d1t3419-7</LM>
 </w.rf>
 <form>Škvrňanech</form>
-<tag lemma="Škvrňany_;G" src="auto" recommended="1">NNIP6-----A----</tag>
+<tag lemma="Škvrňany_;G_,h_^(^GC**Skvrňany)" src="auto" recommended="1">NNIP6-----A----</tag>
 </m>
 <m id="m038-d1e3416-x2-365">
 <w.rf>
@@ -725,7 +725,7 @@
 <form>dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m038-d-m-d1e3422-x4-punct-punct">
@@ -1109,7 +1109,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m038-d1t3468-11">
@@ -1498,7 +1498,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m038-d1e3488-x2-407">
@@ -2274,7 +2274,7 @@
 <LM>w#w-d1t3563-3</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m038-d1t3563-4">
 <w.rf>

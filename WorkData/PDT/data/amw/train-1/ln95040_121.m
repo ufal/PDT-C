@@ -251,7 +251,7 @@
 <LM>w#w-ln95040-121-p1s2w14</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95040-121-p1s2w15">
 <src.rf>manual</src.rf>

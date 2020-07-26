@@ -260,7 +260,7 @@
 </w.rf>
 <form>hodinách</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP6-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -484,7 +484,7 @@
 <LM>w#w-wsj1217-001-p1s1W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1217-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-wsj1217-001-p1s4W17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1217-001-p1s4W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1413,7 +1413,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1217-001-p1s5W17-Ta">
@@ -3331,7 +3331,7 @@
 <LM>w#w-wsj1217-001-p1s13W16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1217-001-p1s13W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5087,7 +5087,7 @@
 <LM>w#w-wsj1217-001-p1s20W19</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1217-001-p1s20W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5132,7 +5132,7 @@
 <LM>w#w-wsj1217-001-p1s20W23</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1217-001-p1s20W24-Ta">
 <src.rf>tagger-a</src.rf>

@@ -782,7 +782,7 @@
 <LM>w#w-wsj1463-001-p1s2W3</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1463-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1644,7 +1644,7 @@
 <LM>w#w-wsj1463-001-p1s5W4</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1463-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4754,7 +4754,7 @@
 <LM>w#w-wsj1463-001-p1s15W6</LM>
 </w.rf>
 <form>zasažena</form>
-<tag lemma="zasáhnout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="zasáhnout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj1463-001-p1s15W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4871,7 +4871,7 @@
 <LM>w#w-wsj1463-001-p1s15W16</LM>
 </w.rf>
 <form>životně</form>
-<tag lemma="životně_^(př._rod_životný)_(souvisí_se_životem;_prostředí,...)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="životně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1463-001-p1s15W17-Ta">
 <src.rf>tagger-a</src.rf>

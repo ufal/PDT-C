@@ -1593,7 +1593,7 @@
 <LM>w#w-wsj1879-001-p1s6W5</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="jr_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1879-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4670,7 +4670,7 @@
 <LM>w#w-wsj1879-001-p1s13W9</LM>
 </w.rf>
 <form>potřebu</form>
-<tag lemma="potřeba" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="potřeba-1" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1879-001-p1s13W10-Ta">
 <src.rf>tagger-a</src.rf>

@@ -71,7 +71,7 @@
 <LM>w#w-ln94204-33-p1s1w7</LM>
 </w.rf>
 <form>kuponů</form>
-<tag lemma="kupón" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kupon_,s_^(^DD**kupón)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-33-p2s1A">
@@ -236,7 +236,7 @@
 <LM>w#w-ln94204-33-p2s1Bw18</LM>
 </w.rf>
 <form>kuponů</form>
-<tag lemma="kupón" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kupon_,s_^(^DD**kupón)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94204-33-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -302,7 +302,7 @@
 <LM>w#w-ln94204-33-p2s2w7</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94204-33-p2s2w8">
 <src.rf>manual</src.rf>
@@ -376,7 +376,7 @@
 <LM>w#w-ln94204-33-p2s3w3</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-33-p2s3w4">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-ln94204-33-p2s4w2</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94204-33-p2s4w3">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-ln94204-33-p2s4w8</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-ln94204-33-p2s4w9">
 <src.rf>manual</src.rf>

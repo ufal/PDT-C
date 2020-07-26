@@ -226,7 +226,7 @@
 <LM>w#w-lnd94105-074-p1s3w21</LM>
 </w.rf>
 <form>předal</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-074-p1s3w22">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-lnd94105-074-p1s4w16</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="EU-1_;m_^(Evropská_Unie)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94105-074-p1s4w17">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-lnd94105-074-p1s6w8</LM>
 </w.rf>
 <form>vydala</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-074-p1s6w9">
 <src.rf>manual</src.rf>
@@ -926,7 +926,7 @@
 <LM>w#w-lnd94105-074-p1s7w14</LM>
 </w.rf>
 <form>VŠE</form>
-<tag lemma="VŠE_;m_^(Vysoká_škola_ekonomická)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="VŠE_;m_^(Vysoká_škola_ekonomická)" src="auto" selected="1">BNFXX-----A----</tag>
 </m>
 <m id="m-lnd94105-074-p1s7w15">
 <src.rf>manual</src.rf>

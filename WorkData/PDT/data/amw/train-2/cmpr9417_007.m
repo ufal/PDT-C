@@ -404,7 +404,7 @@
 <LM>w#w-cmpr9417-007-p4s2w25</LM>
 </w.rf>
 <form>vydělávat</form>
-<tag lemma="vydělávat-1_^(peníze)_(*6at-1)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="vydělávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-cmpr9417-007-p4s2w26">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-cmpr9417-007-p6s2w1</LM>
 </w.rf>
 <form>Opomněli</form>
-<tag lemma="opomenout" src="orig" selected="1">VpMP----R-AA---</tag>
+<tag lemma="opomenout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9417-007-p6s2w2">
 <src.rf>manual</src.rf>
@@ -2989,7 +2989,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-007-p13s1w23">

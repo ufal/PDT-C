@@ -2699,7 +2699,7 @@
 <LM>w#w-wsj1432-001-p1s7W24</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1432-001-p1s7W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7324,7 +7324,7 @@
 <LM>w#w-wsj1432-001-p1s21W18</LM>
 </w.rf>
 <form>nikoliv</form>
-<tag lemma="nikoli" src="auto" recommended="1">TT------------1</tag>
+<tag lemma="nikoliv_,s_^(^DD**nikoli)" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1432-001-p1s21W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7927,7 +7927,7 @@
 <tag>
 <AM lemma="Tchaj-1_;Y_,t" src="auto">NNMXX-----A----</AM>
 <AM lemma="Tchaj-2_;G" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="Tchaj-2_;G" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="Tchaj" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1432-001-p1s23W17-Ta">
@@ -8000,7 +8000,7 @@
 <LM>w#w-wsj1432-001-p1s23W24</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1432-001-p1s23W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9784,7 +9784,7 @@
 <AM lemma="Raděj_;Y" src="auto">NNMS3-----A----</AM>
 <AM lemma="Raděj_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Raděj_;Y" src="auto">NNMS6-----A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád-2" src="auto" recommended="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-wsj1432-001-p1s30W3-Ta">
@@ -9793,7 +9793,7 @@
 <LM>w#w-wsj1432-001-p1s30W3</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Im-</tag>
 </m>
 <m id="m-wsj1432-001-p1s30W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12959,7 +12959,7 @@
 <form>čínsko</form>
 <tag>
 <AM lemma="čínský" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="čínsko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="čínsko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1432-001-p1s41W7-Ta">
@@ -13202,7 +13202,7 @@
 <form>právy</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACTP------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1432-001-p1s42W9-Ta">
@@ -14058,7 +14058,7 @@
 <LM>w#w-wsj1432-001-p1s45W5</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m-wsj1432-001-p1s45W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14429,7 +14429,7 @@
 <form>čínsko</form>
 <tag>
 <AM lemma="čínský" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="čínsko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="čínsko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1432-001-p1s46W21-Ta">

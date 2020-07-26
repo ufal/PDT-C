@@ -436,7 +436,7 @@
 <LM>w#w-d1t2263-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m054-d1t2263-3">
 <w.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-d1t2271-12</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m054-d1t2271-13">
 <w.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-d1t2285-2</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m054-d1t2285-3">
 <w.rf>
@@ -1497,7 +1497,7 @@
 <LM>w#w-d1t2325-17</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m054-d1t2325-18">
 <w.rf>
@@ -1621,7 +1621,7 @@
 <form>kilometrovkou</form>
 <tag>
 <AM lemma="kilometrovka_,n_^(místní_komunikace)" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="kilometrovka_^(místní_komunikace)" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="kilometrovka_,n_^(místní_komunikace)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m054-d1t2331-3">
@@ -2421,7 +2421,7 @@
 <LM>w#w-d1t2376-4</LM>
 </w.rf>
 <form>vzal</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m054-d1t2376-5">
 <w.rf>
@@ -2741,7 +2741,7 @@
 <LM>w#w-d1t2398-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m054-d1t2398-6">
 <w.rf>
@@ -2796,7 +2796,7 @@
 <LM>w#w-d1t2398-14</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m054-d1t2398-7">
 <w.rf>
@@ -2869,7 +2869,7 @@
 <LM>w#w-d1t2403-9</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m054-572-573">
 <w.rf>
@@ -3080,7 +3080,7 @@
 <form>kilometrovkou</form>
 <tag>
 <AM lemma="kilometrovka_,n_^(místní_komunikace)" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="kilometrovka_^(místní_komunikace)" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="kilometrovka_,n_^(místní_komunikace)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m054-d1t2422-1">
@@ -4216,7 +4216,7 @@
 <LM>w#w-d1t2485-5</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m054-d1t2485-7">
 <w.rf>
@@ -4328,7 +4328,7 @@
 <form>Kilometrovkou</form>
 <tag>
 <AM lemma="kilometrovka_,n_^(místní_komunikace)" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="kilometrovka_^(místní_komunikace)" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="kilometrovka_,n_^(místní_komunikace)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m054-d1t2489-5">
@@ -4540,7 +4540,7 @@
 <LM>w#w-d1t2507-2</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m054-d1t2507-3">
 <w.rf>

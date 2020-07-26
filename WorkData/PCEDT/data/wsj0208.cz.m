@@ -404,7 +404,7 @@
 <LM>w#w-wsj0208-001-p1s1W9</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0208-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3342,7 +3342,7 @@
 <LM>w#w-wsj0208-001-p1s10W8</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0208-001-p1s10W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3843,7 +3843,7 @@
 <LM>w#w-wsj0208-001-p1s11W9</LM>
 </w.rf>
 <form>právech</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP6-----A----</tag>
+<tag lemma="právo" src="auto" recommended="1">NNNP6-----A----</tag>
 </m>
 <m id="m-wsj0208-001-p1s11W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5967,7 +5967,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0208-001-p1s18W7-Ta">
@@ -7056,7 +7056,7 @@
 <form>programů</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0208-001-p1s21W23-Ta">
@@ -8223,7 +8223,7 @@
 <LM>w#w-wsj0208-001-p1s25W9</LM>
 </w.rf>
 <form>Evropou</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj0208-001-p1s25W10-Ta">
 <src.rf>tagger-a</src.rf>

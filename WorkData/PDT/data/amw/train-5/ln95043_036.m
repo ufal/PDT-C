@@ -443,7 +443,7 @@
 <AM lemma="UNESCO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Unesco_:B_;m_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="UNESCO-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="UNESCO_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="UNESCO_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-036-p2s2w8">
@@ -460,7 +460,7 @@
 <LM>w#w-ln95043-036-p2s2w9</LM>
 </w.rf>
 <form>předá</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="předat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95043-036-p2s2w10">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-ln95043-036-p2s2w20</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-036-p2s2w21">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <AM lemma="UNESCO_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Unesco_:B_;m_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="UNESCO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UNESCO_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-036-p2s3w6">

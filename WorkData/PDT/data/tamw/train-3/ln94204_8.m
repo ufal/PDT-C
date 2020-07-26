@@ -91,7 +91,7 @@
 <LM>w#w-ln94204-8-p1s1w10</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94204-8-p1s1w11">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <form>tzn</form>
 <tag>
 <AM lemma="tzn-1_:B_:T_^(to_znamená)" src="orig">VB-S---3P-AA--8</AM>
-<AM lemma="tzn-1_^(to_znamená)" src="manual" selected="1">BB-S---3P-AA---</AM>
+<AM lemma="tzn-1_^(to_znamená)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-8-p1s1w17">

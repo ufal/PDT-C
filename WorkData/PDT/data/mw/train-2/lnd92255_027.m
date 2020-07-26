@@ -119,7 +119,7 @@
 <form>genpor</form>
 <tag>
 <AM lemma="generálporučík_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="genpor-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="generálporučík" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92255-027-p2s2w6">
@@ -228,7 +228,7 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-027-p2s3w13">
@@ -239,7 +239,7 @@
 <form>genmjr</form>
 <tag>
 <AM lemma="generálmajor_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="genmjr-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="generálmajor" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92255-027-p2s3w14">
@@ -526,7 +526,7 @@
 <LM>w#w-lnd92255-027-p2s6w11</LM>
 </w.rf>
 <form>vědecko</form>
-<tag lemma="vědecký" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="vědecko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92255-027-p2s6w12">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <LM>w#w-lnd92255-027-p2s7w7</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92255-027-p2s7w8">
 <src.rf>manual</src.rf>

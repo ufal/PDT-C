@@ -2069,7 +2069,7 @@
 <LM>w#w-wsj0817-001-p1s3W29</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0817-001-p1s3W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2156,7 +2156,7 @@
 <LM>w#w-wsj0817-001-p1s3W36</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0817-001-p1s3W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2329,7 +2329,7 @@
 <LM>w#w-wsj0817-001-p1s4W10</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0817-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3462,7 +3462,7 @@
 <LM>w#w-wsj0817-001-p1s8W9</LM>
 </w.rf>
 <form>právech</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP6-----A----</tag>
+<tag lemma="právo" src="auto" recommended="1">NNNP6-----A----</tag>
 </m>
 <m id="m-wsj0817-001-p1s8W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5383,7 +5383,7 @@
 <LM>w#w-wsj0817-001-p1s13W25</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0817-001-p1s13W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7522,7 +7522,7 @@
 <LM>w#w-wsj0817-001-p1s17W39</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0817-001-p1s17W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9004,7 +9004,7 @@
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNP4-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNP5-----A----</AM>
 <AM lemma="Karolínum_;G_;m_,s_^(^DD**Karolinum)" src="auto">NNNS2-----A----</AM>
-<AM lemma="Karolína-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Karolína_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0817-001-p1s20W31-Ta">

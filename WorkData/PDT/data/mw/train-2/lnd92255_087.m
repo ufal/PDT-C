@@ -606,7 +606,7 @@
 <LM>w#w-lnd92255-087-p4s2w2</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd92255-087-p4s2w3">
 <src.rf>manual</src.rf>

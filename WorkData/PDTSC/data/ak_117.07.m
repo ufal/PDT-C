@@ -1869,7 +1869,7 @@
 <form>Nîmes</form>
 <tag>
 <AM lemma="Nîmes" src="auto">X@-------------</AM>
-<AM lemma="Nîmes_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Nîmes_;G_,s_^(^DD**Nimes)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m117-d1e1884-x2-94">
@@ -2878,7 +2878,7 @@
 <LM>w#w-d1t1973-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m117-d1t1973-3">
 <w.rf>

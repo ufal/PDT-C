@@ -3899,7 +3899,7 @@
 <LM>w#w-wsj0810-001-p1s11W19</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0810-001-p1s11W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6704,7 +6704,7 @@
 <LM>w#w-wsj0810-001-p1s21W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0810-001-p1s21W2-Ta">
 <src.rf>tagger-a</src.rf>

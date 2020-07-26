@@ -79,7 +79,7 @@
 <LM>w#w-ln95046-031-p2s1Bw2</LM>
 </w.rf>
 <form>potřetí</form>
-<tag lemma="potřetí" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="potřetí" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95046-031-p2s1Bw3">
 <src.rf>manual</src.rf>

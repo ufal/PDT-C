@@ -135,7 +135,7 @@
 <LM>w#w-ln95040-084-p2s1Bw8</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-084-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -869,7 +869,7 @@
 <LM>w#w-ln95040-084-p2s4w19</LM>
 </w.rf>
 <form>bránily</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95040-084-p2s4w20">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-ln95040-084-p2s4w23</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95040-084-p2s4w24">
 <src.rf>manual</src.rf>

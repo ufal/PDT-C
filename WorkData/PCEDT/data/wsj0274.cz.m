@@ -274,7 +274,7 @@
 <LM>w#w-wsj0274-001-p1s1W2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0274-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1839,7 +1839,7 @@
 <LM>w#w-wsj0274-001-p1s5W3</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0274-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3701,7 +3701,7 @@
 <LM>w#w-wsj0274-001-p1s10W24</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0274-001-p1s10W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4710,7 +4710,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -5899,7 +5899,7 @@
 <LM>w#w-wsj0274-001-p1s19W10</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0274-001-p1s19W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7293,7 +7293,7 @@
 <LM>w#w-wsj0274-001-p1s25W16</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0274-001-p1s25W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7674,7 +7674,7 @@
 <LM>w#w-wsj0274-001-p1s26W29</LM>
 </w.rf>
 <form>datem</form>
-<tag lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS7-----A----</tag>
 </m>
 <m id="m-wsj0274-001-p1s26W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8783,7 +8783,7 @@
 <LM>w#w-wsj0274-001-p1s30W16</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0274-001-p1s30W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8888,7 +8888,7 @@
 <LM>w#w-wsj0274-001-p1s30W27</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0274-001-p1s30W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9554,7 +9554,7 @@
 <LM>w#w-wsj0274-001-p1s34W4</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0274-001-p1s34W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9742,7 +9742,7 @@
 <LM>w#w-wsj0274-001-p1s34W22</LM>
 </w.rf>
 <form>dán</form>
-<tag lemma="dát" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj0274-001-p1s34W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10543,7 +10543,7 @@
 <LM>w#w-wsj0274-001-p1s36W9</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0274-001-p1s36W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10962,7 +10962,7 @@
 <tag>
 <AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0274-001-p1s37W8-Ta">

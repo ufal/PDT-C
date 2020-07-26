@@ -550,7 +550,7 @@
 <form>panenkách</form>
 <tag>
 <AM lemma="panenka-1_^(např_v_oku)" src="auto">NNFP6-----A----</AM>
-<AM lemma="panenka-2_^(na_hraní)" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="panenka" src="auto" recommended="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m129-d1t771-2">
@@ -2656,7 +2656,7 @@
 <LM>w#w-d1t845-16</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m129-d1t845-17">
 <w.rf>
@@ -2879,7 +2879,7 @@
 <LM>w#w-d1t862-2</LM>
 </w.rf>
 <form>panem</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m129-d1t862-4">
 <w.rf>
@@ -3076,7 +3076,7 @@
 <LM>w#w-186-202</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m129-d1t868-21">
 <w.rf>
@@ -4350,7 +4350,7 @@
 <LM>w#w-d1t928-20</LM>
 </w.rf>
 <form>nejely</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpTP----R-NAI--</tag>
+<tag lemma="jet-1" src="auto" recommended="1">VpTP----R-NAI--</tag>
 </m>
 </s>
 <s id="m129-d1e899-x4">
@@ -5350,7 +5350,7 @@
 <LM>w#w-d1t965-6</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m129-d1t965-8">
 <w.rf>

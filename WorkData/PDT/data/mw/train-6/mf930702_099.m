@@ -135,7 +135,7 @@
 <LM>w#w-mf930702-099-p3s1w8</LM>
 </w.rf>
 <form>Cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-099-p3s1w9">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-mf930702-099-p3s1w15</LM>
 </w.rf>
 <form>sci</form>
-<tag lemma="science-2_^(angl._vědecký)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="sci" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930702-099-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1199,7 +1199,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-099-p7s1w11">
@@ -1855,7 +1855,7 @@
 <LM>w#w-mf930702-099-p9s1w14</LM>
 </w.rf>
 <form>cestách</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930702-099-p9s1w15">
 <src.rf>manual</src.rf>

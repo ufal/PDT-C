@@ -280,7 +280,7 @@
 <LM>w#w-wsj1692-001-p1s0W21</LM>
 </w.rf>
 <form>odňali</form>
-<tag lemma="odejmout" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="odejmout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1692-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4171,7 +4171,7 @@
 <LM>w#w-wsj1692-001-p1s8W27</LM>
 </w.rf>
 <form>spořitelen</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1692-001-p1s8W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5441,7 +5441,7 @@
 </w.rf>
 <form>Marcia</form>
 <tag>
-<AM lemma="Marcia_;Y" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Marcia_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Marcio_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Marcio_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Marcius_;Y" src="auto">NNMS2-----A----</AM>
@@ -5619,7 +5619,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1692-001-p1s13W33-Ta">
@@ -6073,7 +6073,7 @@
 <LM>w#w-wsj1692-001-p1s15W21</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1692-001-p1s15W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7317,7 +7317,7 @@
 <LM>w#w-wsj1692-001-p1s20W6</LM>
 </w.rf>
 <form>tajně</form>
-<tag lemma="tajně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="tajně-1_^(*3ý-1)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1692-001-p1s20W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9500,7 +9500,7 @@
 <LM>w#w-wsj1692-001-p1s28W12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1692-001-p1s28W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9615,7 +9615,7 @@
 <LM>w#w-wsj1692-001-p1s28W23</LM>
 </w.rf>
 <form>spořitelen</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1692-001-p1s28W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10436,7 +10436,7 @@
 <form>offo</form>
 <tag>
 <AM lemma="offo_,t_^(lat.,_advokát_ex_offo)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="offo_^(lat.,_advokát_ex_offo)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="offo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1692-001-p1s30W24-Ta">
@@ -11747,7 +11747,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1692-001-p1s35W16-Ta">

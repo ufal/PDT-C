@@ -616,7 +616,7 @@
 <LM>w#w-wsj1529-001-p1s1W7</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m-wsj1529-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-wsj1529-001-p1s1W45</LM>
 </w.rf>
 <form>centrálně</form>
-<tag lemma="centrálně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="centrálně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1529-001-p1s1W46-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1213,7 +1213,7 @@
 <LM>w#w-wsj1529-001-p1s2W3</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-wsj1529-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1329,7 +1329,7 @@
 <LM>w#w-wsj1529-001-p1s3W1</LM>
 </w.rf>
 <form>Například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1529-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2315,7 +2315,7 @@
 <LM>w#w-wsj1529-001-p1s6W24</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1529-001-p1s6W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2819,7 +2819,7 @@
 <LM>w#w-wsj1529-001-p1s7W28</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1529-001-p1s7W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4587,7 +4587,7 @@
 <LM>w#w-wsj1529-001-p1s13W25</LM>
 </w.rf>
 <form>dopaden</form>
-<tag lemma="dopadnout" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="dopadnout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj1529-001-p1s13W26-Ta">
 <src.rf>tagger-a</src.rf>

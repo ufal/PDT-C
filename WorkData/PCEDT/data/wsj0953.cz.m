@@ -2302,7 +2302,7 @@
 <LM>w#w-wsj0953-001-p1s7W1</LM>
 </w.rf>
 <form>Dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0953-001-p1s7W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2739,7 +2739,7 @@
 <LM>w#w-wsj0953-001-p1s9W7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0953-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5076,7 +5076,7 @@
 <LM>w#w-wsj0953-001-p1s19W4</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0953-001-p1s19W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5569,7 +5569,7 @@
 <form>Massachussetts</form>
 <tag>
 <AM lemma="Massachussetts" src="auto">X@-------------</AM>
-<AM lemma="Massachussetts_;G_h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0953-001-p1s21W14-Ta">
@@ -7567,7 +7567,7 @@
 <LM>w#w-wsj0953-001-p1s29W1</LM>
 </w.rf>
 <form>Dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0953-001-p1s29W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8099,7 +8099,7 @@
 <LM>w#w-wsj0953-001-p1s32W4</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0953-001-p1s32W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9017,7 +9017,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0953-001-p1s35W25-Ta">
@@ -9280,7 +9280,7 @@
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS1-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS2-----A----</AM>
 <AM lemma="výše_^(velikost_apod.;_též_tlaková_výše)" src="auto">NNFS5-----A----</AM>
-<AM lemma="vysoko-1_^(výše_než...[uvedeno_výše])" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="vysoko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0953-001-p1s36W14-Ta">

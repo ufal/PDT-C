@@ -130,7 +130,7 @@
 <LM>w#w-ln94200-117-p2s1Bw7</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94200-117-p2s1Bw8">
 <src.rf>manual</src.rf>

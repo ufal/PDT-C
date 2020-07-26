@@ -114,7 +114,7 @@
 <LM>w#w-ln95040-030-p2s1Bw4</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95040-030-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -301,7 +301,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-030-p2s2w4">
@@ -568,7 +568,7 @@
 <form>UEFA</form>
 <tag>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-030-p2s2w37">
@@ -679,7 +679,7 @@
 <form>Baťa</form>
 <tag>
 <AM lemma="Baťa_;Y_;m" src="auto">NNMS1-----A----</AM>
-<AM lemma="Baťa_;Y_;m" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Baťa_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-030-p2s2w50">

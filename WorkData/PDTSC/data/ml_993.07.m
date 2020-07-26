@@ -67,7 +67,7 @@
 <LM>w#w-d1t1775-11</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m993-d1t1775-9">
 <w.rf>
@@ -212,7 +212,7 @@
 <LM>w#w-d1t1797-6</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m993-d-id123492">
 <w.rf>

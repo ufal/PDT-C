@@ -95,7 +95,7 @@
 <form>vin</form>
 <tag>
 <AM lemma="vina" src="orig">NNFP2-----A----</AM>
-<AM lemma="vin-99_;Y" src="manual" selected="1">BNNXX-----A----</AM>
+<AM lemma="vin-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-016-p2s1w4">
@@ -250,7 +250,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-016-p2s1w23">

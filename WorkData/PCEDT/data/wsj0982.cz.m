@@ -390,7 +390,7 @@
 <form>Massachussets</form>
 <tag>
 <AM lemma="Massachussets" src="auto">X@-------------</AM>
-<AM lemma="Massachussets_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Massachussets_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0982-001-p1s1W11-Ta">
@@ -3082,7 +3082,7 @@
 <LM>w#w-wsj0982-001-p1s8W16</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0982-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3261,7 +3261,7 @@
 <LM>w#w-wsj0982-001-p1s9W11</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0982-001-p1s9W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4236,7 +4236,7 @@
 <LM>w#w-wsj0982-001-p1s11W17</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0982-001-p1s11W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4272,7 +4272,7 @@
 <LM>w#w-wsj0982-001-p1s11W21</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0982-001-p1s11W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4950,7 +4950,7 @@
 <LM>w#w-wsj0982-001-p1s13W19</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0982-001-p1s13W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5313,7 +5313,7 @@
 <LM>w#w-wsj0982-001-p1s16W4</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0982-001-p1s16W5-Ta">
 <src.rf>tagger-a</src.rf>

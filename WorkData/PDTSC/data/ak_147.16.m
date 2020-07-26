@@ -3000,7 +3000,7 @@
 <LM>w#w-d1t1563-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m147-d1t1563-3">
 <w.rf>
@@ -3138,7 +3138,7 @@
 <LM>w#w-d1t1579-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m147-d1t1579-7">
 <w.rf>

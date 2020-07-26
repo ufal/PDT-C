@@ -761,7 +761,7 @@
 <form>nar</form>
 <tag>
 <AM lemma="narozený_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="narozený" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="narozený" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92255-148-p3s2w13">
@@ -871,7 +871,7 @@
 <form>naleznete</form>
 <tag>
 <AM lemma="naléznout" src="orig">VB-P---2P-AA---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VB-P---2P-AAP--</AM>
+<AM lemma="naleznout" src="auto" recommended="1" selected="1">VB-P---2P-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92255-148-p3s3w13">
@@ -1238,7 +1238,7 @@
 <LM>w#w-lnd92255-148-p3s6w4</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-148-p3s6w5">
 <src.rf>manual</src.rf>

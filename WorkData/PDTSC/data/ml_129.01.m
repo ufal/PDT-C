@@ -263,7 +263,7 @@
 <LM>w#w-d1t230-3</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m129-d1t230-4">
 <w.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-d1t252-5</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m129-d1t252-6">
 <w.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-d1t258-1</LM>
 </w.rf>
 <form>sehnali</form>
-<tag lemma="sehnat" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="sehnat_^(shánět)" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m129-d1t258-5">
 <w.rf>
@@ -998,7 +998,7 @@
 <LM>w#w-d1t265-14</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m129-d1t265-15">
 <w.rf>
@@ -1427,7 +1427,7 @@
 <LM>w#w-d1t281-16</LM>
 </w.rf>
 <form>zaměstnán</form>
-<tag lemma="zaměstnat-1_^(všeob._význam:_činnost,_zaměstnání)" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="zaměstnat" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m129-d-id65950-punct">
 <w.rf>
@@ -2454,7 +2454,7 @@
 <LM>w#w-d1t335-9</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m129-d-id67983-punct">
 <w.rf>
@@ -2768,7 +2768,7 @@
 <LM>w#w-d1t348-5</LM>
 </w.rf>
 <form>vzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m129-54-68">
 <w.rf>
@@ -3000,7 +3000,7 @@
 </w.rf>
 <form>Velikonocích</form>
 <tag>
-<AM lemma="Velikonoce" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="Velikonoce_;m" src="auto" recommended="1">NNFP6-----A----</AM>
 <AM lemma="velikonoce_^(^DS**Velikonoce)" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -3621,7 +3621,7 @@
 <LM>w#w-d1t400-7</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m129-d1t400-8">
 <w.rf>
@@ -3738,7 +3738,7 @@
 <LM>w#w-d1t400-10</LM>
 </w.rf>
 <form>bála</form>
-<tag lemma="bát" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="bát-1" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m129-d1t402-6">
 <w.rf>
@@ -4525,7 +4525,7 @@
 <LM>w#w-d1t438-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m129-d1t438-3">
 <w.rf>
@@ -4629,7 +4629,7 @@
 <LM>w#w-d1t444-13</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m129-d-m-d1e439-x2-punct-punct">
 <w.rf>

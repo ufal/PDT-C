@@ -27,7 +27,7 @@
 <LM>w#w-mf920924-141-p1s1w2</LM>
 </w.rf>
 <form>ukradli</form>
-<tag lemma="ukrást" src="auto" selected="1">VpMP----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-141-p1s1w3">
 <src.rf>manual</src.rf>
@@ -79,7 +79,7 @@
 <LM>w#w-mf920924-141-p3s1Aw2</LM>
 </w.rf>
 <form>ukradli</form>
-<tag lemma="ukrást" src="auto" selected="1">VpMP----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-141-p3s1Aw3">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <form>ukraden</form>
 <tag>
 <AM lemma="ukradnout" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="ukrást" src="auto" recommended="1" selected="1">VsYS----X-APP--</AM>
+<AM lemma="ukradnout" src="auto" recommended="1" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-mf920924-141-p3s1Bw10">
@@ -345,7 +345,7 @@
 <form>TASS</form>
 <tag>
 <AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TASS_;m_^(ruská_tisková_agentura)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-141-p3s2w8">
@@ -476,7 +476,7 @@
 <LM>w#w-mf920924-141-p3s3w15</LM>
 </w.rf>
 <form>vyzdvihli</form>
-<tag lemma="vyzdvihnout" src="orig" selected="1">VpMP----R-AA---</tag>
+<tag lemma="vyzdvihnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-141-p3s3w16">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-mf920924-141-p3s4w16</LM>
 </w.rf>
 <form>tajně</form>
-<tag lemma="tajně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="tajně-1_^(*3ý-1)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-141-p3s4w17">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-mf920924-141-p3s6w17</LM>
 </w.rf>
 <form>ukradli</form>
-<tag lemma="ukrást" src="auto" selected="1">VpMP----R-AAP-1</tag>
+<tag lemma="ukradnout" src="auto" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-141-p3s6w18">
 <src.rf>manual</src.rf>

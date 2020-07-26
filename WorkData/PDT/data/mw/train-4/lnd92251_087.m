@@ -178,7 +178,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-087-p2s2w14">
@@ -292,7 +292,7 @@
 <LM>w#w-lnd92251-087-p2s3w5</LM>
 </w.rf>
 <form>ušima</form>
-<tag lemma="ucho" src="orig" selected="1">NNFD7-----A----</tag>
+<tag lemma="ucho-2" src="orig" selected="1">NNFD7-----A----</tag>
 </m>
 <m id="m-lnd92251-087-p2s3w6">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-lnd92251-087-p2s5w19</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd92251-087-p2s5w20">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-087-p2s6w12">
@@ -881,7 +881,7 @@
 <LM>w#w-lnd92251-087-p2s6w15</LM>
 </w.rf>
 <form>pomalu</form>
-<tag lemma="pomalu" src="orig" selected="1">Db-------------</tag>
+<tag lemma="pomalu" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92251-087-p2s6w16">
 <src.rf>manual</src.rf>

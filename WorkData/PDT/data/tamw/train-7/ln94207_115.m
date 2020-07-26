@@ -175,7 +175,7 @@
 <form>ul</form>
 <tag>
 <AM lemma="ulice_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ulice" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="ulice" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94207-115-p2s1w20">
@@ -290,7 +290,7 @@
 <LM>w#w-ln94207-115-p3s1w3</LM>
 </w.rf>
 <form>pane</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS5-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-ln94207-115-p3s1w4">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-ln94207-115-p3s3w6</LM>
 </w.rf>
 <form>vydala</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94207-115-p3s3w7">
 <src.rf>manual</src.rf>

@@ -719,7 +719,7 @@
 <LM>w#w-lnd92254-062-p3s5w20</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd92254-062-p3s5w21">
 <src.rf>manual</src.rf>

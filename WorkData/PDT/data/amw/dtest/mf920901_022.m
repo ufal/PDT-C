@@ -156,7 +156,7 @@
 <form>FMPSV</form>
 <tag>
 <AM lemma="FMPSV_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FMPSV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FMPSV_;m_^(Federální_ministerstvo_práce_a_sociálních_věcí)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-022-p2s2w9">
@@ -255,7 +255,7 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-022-p2s2w21">
@@ -660,7 +660,7 @@
 <form>radám</form>
 <tag>
 <AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFP3-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFP3-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFP3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-022-p2s4w12">
@@ -931,7 +931,7 @@
 <form>FMPSV</form>
 <tag>
 <AM lemma="FMPSV_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="FMPSV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FMPSV_;m_^(Federální_ministerstvo_práce_a_sociálních_věcí)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-022-p2s6w5">
@@ -1057,7 +1057,7 @@
 <LM>w#w-mf920901-022-p2s7w2</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920901-022-p2s7w3">
 <src.rf>manual</src.rf>

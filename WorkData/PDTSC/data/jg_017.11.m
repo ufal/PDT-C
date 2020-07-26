@@ -368,7 +368,7 @@
 <LM>w#w-d1t3315-7</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m017-392_2-1161">
 <w.rf>
@@ -1302,7 +1302,7 @@
 <LM>w#w-d1t3387-2</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m017-d1t3387-3">
 <w.rf>
@@ -1360,7 +1360,7 @@
 <LM>w#w-d1t3391-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="zač" src="auto" recommended="1">PY-------------</tag>
+<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m017-d-m-d1e3388-x2-punct-punct">
 <w.rf>
@@ -1435,7 +1435,7 @@
 <LM>w#w-d1t3395-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m017-d1t3395-7">
 <w.rf>

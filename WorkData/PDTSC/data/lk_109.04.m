@@ -158,7 +158,7 @@
 <LM>w#w-d1t583-23</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m109-d1t583-25">
 <w.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-d1t596-14</LM>
 </w.rf>
 <form>jedlo</form>
-<tag lemma="jíst_^(konzumovat_jídlo)" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="jíst" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m109-d-id95401-punct">
 <w.rf>
@@ -644,7 +644,7 @@
 <LM>w#w-d1t596-18</LM>
 </w.rf>
 <form>jedlo</form>
-<tag lemma="jíst_^(konzumovat_jídlo)" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="jíst" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m109-90-92">
 <w.rf>
@@ -764,7 +764,7 @@
 <LM>w#w-d1t605-4</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m109-d1t605-5">
 <w.rf>
@@ -1297,7 +1297,7 @@
 <LM>w#w-d1t620-10</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m109-132-181">
 <w.rf>
@@ -3027,7 +3027,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m109-d1t679-2">
@@ -3071,7 +3071,7 @@
 <LM>w#w-d1t679-6</LM>
 </w.rf>
 <form>začli</form>
-<tag lemma="začít" src="auto" recommended="1">VpMP----R-AAP-6</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpMP----R-AAP-6</tag>
 </m>
 <m id="m109-d1t679-7">
 <w.rf>
@@ -5451,7 +5451,7 @@
 <form>vypalovačku</form>
 <tag>
 <AM lemma="vypalovačka-1_^(člověk)_(*4-1)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="vypalovačka-1_^(člověk;u_počítače)_(*4-1)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="vypalovačka-1_^(*4-1)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m109-d1t756-18">
@@ -5914,7 +5914,7 @@
 <form>vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m109-d1t765-31">
@@ -5962,7 +5962,7 @@
 </w.rf>
 <form>hodinách</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP6-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>

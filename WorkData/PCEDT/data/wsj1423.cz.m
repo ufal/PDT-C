@@ -73,7 +73,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1423-001-p1s0W5-Ta">
@@ -7437,7 +7437,7 @@
 <LM>w#w-wsj1423-001-p1s17W15</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1423-001-p1s17W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7967,7 +7967,7 @@
 <LM>w#w-wsj1423-001-p1s19W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1423-001-p1s19W14-Ta">
 <src.rf>tagger-a</src.rf>

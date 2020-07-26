@@ -105,7 +105,7 @@
 <LM>w#w-lnd92256-029-p3s2w1</LM>
 </w.rf>
 <form>Nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd92256-029-p3s2w2">
 <src.rf>manual</src.rf>
@@ -137,7 +137,7 @@
 <LM>w#w-lnd92256-029-p3s2w5</LM>
 </w.rf>
 <form>vydělala</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-029-p3s2w6">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-lnd92256-029-p3s3w19</LM>
 </w.rf>
 <form>předávat</form>
-<tag lemma="předávat-3_^(někomu_něco)_(*6at-3)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="předávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92256-029-p3s3w20">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-lnd92256-029-p3s5w1</LM>
 </w.rf>
 <form>Vydělala</form>
-<tag lemma="vydělat-1_^(peníze)" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-029-p3s5w2">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-lnd92256-029-p3s5w8</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-lnd92256-029-p3s5w9">
 <src.rf>manual</src.rf>

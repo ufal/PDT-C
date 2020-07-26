@@ -2439,7 +2439,7 @@
 <LM>w#w-wsj1105-001-p1s8W16</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1105-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2759,7 +2759,7 @@
 <LM>w#w-wsj1105-001-p1s10W3</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1105-001-p1s10W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6079,7 +6079,7 @@
 <LM>w#w-wsj1105-001-p1s20W6</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj1105-001-p1s20W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7312,7 +7312,7 @@
 <LM>w#w-wsj1105-001-p1s23W27</LM>
 </w.rf>
 <form>nenecháte</form>
-<tag lemma="nechat" src="auto" recommended="1">VB-P---2P-NAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VB-P---2P-NAP--</tag>
 </m>
 <m id="m-wsj1105-001-p1s23W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7937,7 +7937,7 @@
 <LM>w#w-wsj1105-001-p1s25W2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1105-001-p1s25W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8462,7 +8462,7 @@
 <LM>w#w-wsj1105-001-p1s26W3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1105-001-p1s26W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9055,7 +9055,7 @@
 <LM>w#w-wsj1105-001-p1s28W4</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1105-001-p1s28W5-Ta">
 <src.rf>tagger-a</src.rf>

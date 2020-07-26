@@ -84,7 +84,7 @@
 <LM>w#w-d1t1840-10</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m106-d1t1840-6">
 <w.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-d1t1864-4</LM>
 </w.rf>
 <form>cestami</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m106-d1t1864-5">
 <w.rf>
@@ -1538,7 +1538,7 @@
 <LM>w#w-d1t1888-6</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P7--2-------</tag>
 </m>
 <m id="m106-d1t1888-7">
 <w.rf>

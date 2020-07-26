@@ -121,7 +121,7 @@
 <LM>w#w-wsj0087-001-p1s0W11</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0087-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-wsj0087-001-p1s1W3</LM>
 </w.rf>
 <form>Koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0087-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -419,7 +419,7 @@
 <LM>w#w-wsj0087-001-p1s4W3</LM>
 </w.rf>
 <form>Koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0087-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1204,7 +1204,7 @@
 <LM>w#w-wsj0087-001-p1s7W18</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0087-001-p1s7W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2738,7 +2738,7 @@
 <LM>w#w-wsj0087-001-p1s14W29</LM>
 </w.rf>
 <form>spořitelnám</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m-wsj0087-001-p1s14W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3083,7 +3083,7 @@
 <LM>w#w-wsj0087-001-p1s16W3</LM>
 </w.rf>
 <form>spořitelna</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0087-001-p1s16W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3534,7 +3534,7 @@
 <LM>w#w-wsj0087-001-p1s18W12</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0087-001-p1s18W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4073,7 +4073,7 @@
 <LM>w#w-wsj0087-001-p1s20W10</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj0087-001-p1s20W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4253,7 +4253,7 @@
 <LM>w#w-wsj0087-001-p1s20W24</LM>
 </w.rf>
 <form>spořitelnu</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m-wsj0087-001-p1s20W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4356,7 +4356,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0087-001-p1s21W2-Ta">

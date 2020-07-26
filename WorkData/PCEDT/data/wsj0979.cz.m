@@ -1434,7 +1434,7 @@
 <LM>w#w-wsj0979-001-p1s3W12</LM>
 </w.rf>
 <form>nalezen</form>
-<tag lemma="naleznout" src="auto" recommended="1">VsYS----X-API--</tag>
+<tag lemma="naleznout" src="auto" recommended="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-wsj0979-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3152,7 +3152,7 @@
 <LM>w#w-wsj0979-001-p1s9W11</LM>
 </w.rf>
 <form>dnů</form>
-<tag lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0979-001-p1s9W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4210,7 +4210,7 @@
 <LM>w#w-wsj0979-001-p1s14W11</LM>
 </w.rf>
 <form>rozmyslet</form>
-<tag lemma="rozmyslet" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="rozmyslit" src="auto" recommended="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-wsj0979-001-p1s14W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5109,7 +5109,7 @@
 <LM>w#w-wsj0979-001-p1s18W29</LM>
 </w.rf>
 <form>podávala</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0979-001-p1s18W30-Ta">
 <src.rf>tagger-a</src.rf>

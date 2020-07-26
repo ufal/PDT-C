@@ -777,7 +777,7 @@
 <LM>w#w-ln95041-113-p3s2w26</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95041-113-p3s2w27">
 <src.rf>manual</src.rf>

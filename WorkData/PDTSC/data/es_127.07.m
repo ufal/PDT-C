@@ -586,7 +586,7 @@
 <form>příště</form>
 <tag>
 <AM lemma="příště" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="příště_^(*1í)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="příště" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m127-d1t1588-5">
@@ -791,7 +791,7 @@
 <form>vysoce</form>
 <tag>
 <AM lemma="vysoce" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="vysoce_^(*2ký)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="vysoce" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m127-d1t1602-3">
@@ -1129,7 +1129,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m127-d1t1617-4">
@@ -1448,7 +1448,7 @@
 <LM>w#w-d1t1636-5</LM>
 </w.rf>
 <form>Rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m127-d1t1636-4">
 <w.rf>
@@ -1692,7 +1692,7 @@
 <LM>w#w-d1t1648-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m127-d1t1648-6">
 <w.rf>
@@ -1935,7 +1935,7 @@
 <LM>w#w-d1t1657-2</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m127-d1t1657-5">
 <w.rf>
@@ -2903,7 +2903,7 @@
 <LM>w#w-d1t1696-7</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m127-d1e1687-x2-616">
 <w.rf>
@@ -3167,7 +3167,7 @@
 <form>příjde</form>
 <tag>
 <AM lemma="přijít_,h_,x" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="přijít_,h" src="manual" selected="1">VB-S---3P-AA--6</AM>
+<AM lemma="přijít" src="manual" selected="1">VB-S---3P-AAP-5</AM>
 </tag>
 </m>
 <m id="m127-d1e1703-x2-635">
@@ -3742,7 +3742,7 @@
 <form>často</form>
 <tag>
 <AM lemma="často" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="často_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="často" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m127-d1t1729-12">
@@ -3783,7 +3783,7 @@
 <form>Víc</form>
 <tag>
 <AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
-<AM lemma="více" src="auto" selected="1">Ca--X---------1</AM>
+<AM lemma="více" src="auto" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m127-d1t1731-3">
@@ -3839,7 +3839,7 @@
 </w.rf>
 <form>víc</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="více" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="více" src="auto">Ca--X---------1</AM>
 </tag>
 </m>
@@ -5344,7 +5344,7 @@
 <LM>w#w-d1t1774-1</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m127-d1t1772-17">
 <w.rf>

@@ -708,7 +708,7 @@
 <LM>w#w-lnd91303-081-p2s3Bw11</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-081-p2s3Bw12">
 <src.rf>manual</src.rf>

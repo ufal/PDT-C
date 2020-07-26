@@ -239,7 +239,7 @@
 <LM>w#w-ln95044-055-p2s1Bw10</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-055-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-ln95044-055-p2s2w10</LM>
 </w.rf>
 <form>nejlépe</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-ln95044-055-p2s2w11">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <form>Thalassa</form>
 <tag>
 <AM lemma="Thalassa_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Thalassa-1_;m_^(název_románu)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Thalassa_;G_;m_^(přirozená_družice_Neptunu;román)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Thalassa-2_;G_^(přirozená_družice_Neptunu)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Thalassa-77" src="manual">F%-------------</AM>
 </tag>
@@ -427,7 +427,7 @@
 <form>Thalassa</form>
 <tag>
 <AM lemma="Thalassa_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Thalassa-1_;m_^(název_románu)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Thalassa_;G_;m_^(přirozená_družice_Neptunu;román)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Thalassa-2_;G_^(přirozená_družice_Neptunu)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Thalassa-77" src="manual">F%-------------</AM>
 </tag>
@@ -1278,7 +1278,7 @@
 <LM>w#w-ln95044-055-p2s6w3</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="orig" selected="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P3--2-------</tag>
 </m>
 <m id="m-ln95044-055-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1660,7 +1660,7 @@
 <LM>w#w-ln95044-055-p3s3w11</LM>
 </w.rf>
 <form>nejhůř</form>
-<tag lemma="špatně" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="hůře" src="orig" selected="1">Dg-------3A---1</tag>
 </m>
 <m id="m-ln95044-055-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1908,7 +1908,7 @@
 <form>Thalassu</form>
 <tag>
 <AM lemma="Thalassa" src="orig">NNFS4-----A----</AM>
-<AM lemma="Thalassa-1_;m_^(název_románu)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="Thalassa_;G_;m_^(přirozená_družice_Neptunu;román)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 <AM lemma="Thalassa-2_;G_^(přirozená_družice_Neptunu)" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -2207,7 +2207,7 @@
 <LM>w#w-ln95044-055-p3s7w3</LM>
 </w.rf>
 <form>staly</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-055-p3s7w4">
 <src.rf>manual</src.rf>
@@ -2714,7 +2714,7 @@
 <LM>w#w-ln95044-055-p5s1w2</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-055-p5s1w3">
 <src.rf>manual</src.rf>
@@ -3298,7 +3298,7 @@
 <form>sehnal</form>
 <tag>
 <AM lemma="sehnat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="sehnat" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="sehnat_^(shánět)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95044-055-p5s5w6">
@@ -5145,7 +5145,7 @@
 <LM>w#w-ln95044-055-p9s3w17</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-055-p9s3w18">
 <src.rf>manual</src.rf>
@@ -5325,7 +5325,7 @@
 <LM>w#w-ln95044-055-p9s4w5</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-ln95044-055-p9s4w6">
 <src.rf>manual</src.rf>
@@ -5502,7 +5502,7 @@
 <LM>w#w-ln95044-055-p10s1w2</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSZS6-P2-------</tag>
+<tag lemma="váš_^(přivlast.)" src="orig" selected="1">PSZS6-P2-------</tag>
 </m>
 <m id="m-ln95044-055-p10s1w3">
 <src.rf>manual</src.rf>
@@ -5637,7 +5637,7 @@
 <LM>w#w-ln95044-055-p11s1w1</LM>
 </w.rf>
 <form>Nerad</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------N----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------N----</tag>
 </m>
 <m id="m-ln95044-055-p11s1w2">
 <src.rf>manual</src.rf>
@@ -5856,7 +5856,7 @@
 <LM>w#w-ln95044-055-p11s2w14</LM>
 </w.rf>
 <form>golfa</form>
-<tag lemma="Golf-2_;m_^(vozidlo)" src="orig" selected="1">NNIS4-----A---1</tag>
+<tag lemma="golf" src="orig" selected="1">NNIS4-----A---1</tag>
 </m>
 <m id="m-ln95044-055-p11s2w15">
 <src.rf>manual</src.rf>
@@ -5959,7 +5959,7 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-ln95044-055-p11s2w27">
@@ -6166,7 +6166,7 @@
 <form>Thalassou</form>
 <tag>
 <AM lemma="Thalassa_;m" src="orig">NNFS7-----A----</AM>
-<AM lemma="Thalassa-1_;m_^(název_románu)" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
+<AM lemma="Thalassa_;G_;m_^(přirozená_družice_Neptunu;román)" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 <AM lemma="Thalassa-2_;G_^(přirozená_družice_Neptunu)" src="auto">NNFS7-----A----</AM>
 </tag>
 </m>
@@ -6424,7 +6424,7 @@
 <LM>w#w-ln95044-055-p13s2w3</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95044-055-p13s2w4">
 <src.rf>manual</src.rf>
@@ -6881,7 +6881,7 @@
 <LM>w#w-ln95044-055-p13s5w2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="orig" selected="1">Vc-S---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Ic-</tag>
 </m>
 <m id="m-ln95044-055-p13s5w3">
 <src.rf>manual</src.rf>
@@ -6929,7 +6929,7 @@
 <LM>w#w-ln95044-055-p13s5w8</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="orig" selected="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="orig" selected="1">ACYS------A----</tag>
 </m>
 <m id="m-ln95044-055-p13s5w9">
 <src.rf>manual</src.rf>
@@ -7201,7 +7201,7 @@
 <LM>w#w-ln95044-055-p15s2w5</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" selected="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-055-p15s2w6">
 <src.rf>manual</src.rf>
@@ -7347,7 +7347,7 @@
 <LM>w#w-ln95044-055-p15s3w15</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95044-055-p15s3w16">
 <src.rf>manual</src.rf>
@@ -7706,7 +7706,7 @@
 <LM>w#w-ln95044-055-p17s1w5</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-055-p17s1w6">
 <src.rf>manual</src.rf>

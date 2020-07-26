@@ -801,7 +801,7 @@
 <LM>w#w-wsj2301-001-p1s2W1</LM>
 </w.rf>
 <form>Myslel</form>
-<tag lemma="myslet" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m-wsj2301-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -847,7 +847,7 @@
 <LM>w#w-wsj2301-001-p1s2W6</LM>
 </w.rf>
 <form>byste</form>
-<tag lemma="být" src="auto" recommended="1">Vc-P---2----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ie-</tag>
 </m>
 <m id="m-wsj2301-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -869,7 +869,7 @@
 <LM>w#w-wsj2301-001-p1s2W8</LM>
 </w.rf>
 <form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACMP------A----</tag>
 </m>
 <m id="m-wsj2301-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>

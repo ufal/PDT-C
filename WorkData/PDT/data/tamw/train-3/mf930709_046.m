@@ -37,7 +37,7 @@
 <form>ČSÚ</form>
 <tag>
 <AM lemma="ČSÚ_:B_;m_^(Český_statistický_úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČSÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSÚ_;m_^(Český_statistický_úřad)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-046-p1s1w4">
@@ -188,7 +188,7 @@
 <form>ČSÚ</form>
 <tag>
 <AM lemma="ČSÚ_:B_;m_^(Český_statistický_úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČSÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSÚ_;m_^(Český_statistický_úřad)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-046-p2s1Bw13">
@@ -551,7 +551,7 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-046-p2s3w18">
@@ -788,7 +788,7 @@
 <form>ČSÚ</form>
 <tag>
 <AM lemma="ČSÚ_:B_;m_^(Český_statistický_úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČSÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSÚ_;m_^(Český_statistický_úřad)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-046-p2s5w3">
@@ -911,7 +911,7 @@
 <form>ČSÚ</form>
 <tag>
 <AM lemma="ČSÚ_:B_;m_^(Český_statistický_úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČSÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSÚ_;m_^(Český_statistický_úřad)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-046-p2s5w19">

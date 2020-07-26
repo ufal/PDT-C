@@ -117,7 +117,7 @@
 <LM>w#w-ln94200-13-p2s1w11</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94200-13-p2s1w12">
 <src.rf>manual</src.rf>

@@ -448,7 +448,7 @@
 <LM>w#w-cmpr9416-030-p5s1w5</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="společnost" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-cmpr9416-030-p5s1w6">
 <src.rf>manual</src.rf>

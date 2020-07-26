@@ -506,7 +506,7 @@
 <LM>w#w-wsj1026-001-p1s1W21</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1026-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -949,7 +949,7 @@
 <AM lemma="níže" src="auto">NNFS2-----A----</AM>
 <AM lemma="níže" src="auto">NNFS5-----A----</AM>
 <AM lemma="nížit" src="auto">VeYS------A-I--</AM>
-<AM lemma="nízko-1_^(níže,_než...)" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1026-001-p1s2W19-Ta">
@@ -1154,7 +1154,7 @@
 <LM>w#w-wsj1026-001-p1s3W14</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1026-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9393,7 +9393,7 @@
 <LM>w#w-wsj1026-001-p1s33W6</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1026-001-p1s33W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10670,7 +10670,7 @@
 <LM>w#w-wsj1026-001-p1s37W12</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1026-001-p1s37W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15023,7 +15023,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1026-001-p1s51W24-Ta">
@@ -15390,7 +15390,7 @@
 <LM>w#w-wsj1026-001-p1s52W24</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj1026-001-p1s52W25-Ta">
 <src.rf>tagger-a</src.rf>

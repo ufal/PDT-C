@@ -89,7 +89,7 @@
 <LM>w#w-wsj0379-001-p1s0W9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0379-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1448,7 +1448,7 @@
 <LM>w#w-wsj0379-001-p1s3W25</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0379-001-p1s3W26-Ta">
 <src.rf>tagger-a</src.rf>

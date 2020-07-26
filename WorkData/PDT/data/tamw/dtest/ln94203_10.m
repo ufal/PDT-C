@@ -342,7 +342,7 @@
 <AM lemma="Beatles_;m" src="auto">NNMP5-----A----</AM>
 <AM lemma="Beatles_;m" src="auto">NNMP6-----A----</AM>
 <AM lemma="Beatles_;m" src="auto">NNMP7-----A----</AM>
-<AM lemma="Beatles-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Beatles_;m" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p2s2w10">
@@ -431,7 +431,7 @@
 <form>Tina</form>
 <tag>
 <AM lemma="Tina_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tina-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Tina_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p2s3w8">
@@ -1286,7 +1286,7 @@
 <AM lemma="Beatles_;m" src="auto">NNMP5-----A----</AM>
 <AM lemma="Beatles_;m" src="auto">NNMP6-----A----</AM>
 <AM lemma="Beatles_;m" src="auto">NNMP7-----A----</AM>
-<AM lemma="Beatles-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Beatles_;m" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p4s1w15">
@@ -1335,7 +1335,7 @@
 <LM>w#w-ln94203-10-p4s1w20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94203-10-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1980,7 +1980,7 @@
 <LM>w#w-ln94203-10-p5s3w15</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94203-10-p5s3w16">
 <src.rf>manual</src.rf>
@@ -2595,7 +2595,7 @@
 <LM>w#w-ln94203-10-p6s2w46</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_^(mimo_jiné)" src="orig" selected="1">Db------------b</tag>
+<tag lemma="mj_^(mimo_jiné)" src="orig" selected="1">Bb-------------</tag>
 </m>
 <m id="m-ln94203-10-p6s2w47">
 <src.rf>manual</src.rf>

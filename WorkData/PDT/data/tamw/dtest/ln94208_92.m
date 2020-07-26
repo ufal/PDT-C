@@ -307,7 +307,7 @@
 <LM>w#w-ln94208-92-p2s1w25</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94208-92-p2s1w26">
 <src.rf>manual</src.rf>
@@ -419,7 +419,7 @@
 <tag>
 <AM lemma="Rozladěn_;m" src="orig">NNMS1-----A----</AM>
 <AM lemma="rozladit" src="auto" recommended="1">VsYS---XX-AP---</AM>
-<AM lemma="rozladit" src="manual" selected="1">VsYS----X-APP--</AM>
+<AM lemma="rozladit" src="manual" selected="1">VsYS----X-APP-1</AM>
 </tag>
 </m>
 <m id="m-ln94208-92-p2s1w38">
@@ -456,7 +456,7 @@
 <AM lemma="Konrád_;Y_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Konrád_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="konrád" src="auto">NNMS1-----A----</AM>
-<AM lemma="Konrád-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Konrád_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-92-p2s1w42">
@@ -611,7 +611,7 @@
 <LM>w#w-ln94208-92-p3s1w8</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-1" src="orig" selected="1">ClXS2----------</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-ln94208-92-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1654,7 +1654,7 @@
 <LM>w#w-ln94208-92-p4s4w3</LM>
 </w.rf>
 <form>jede</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="jet-1" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-92-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1686,7 +1686,7 @@
 <LM>w#w-ln94208-92-p4s4w7</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-1" src="orig" selected="1">ClXS6----------</tag>
+<tag lemma="půl-1" src="orig" selected="1">Cl-XX----------</tag>
 </m>
 <m id="m-ln94208-92-p4s4w8">
 <src.rf>manual</src.rf>

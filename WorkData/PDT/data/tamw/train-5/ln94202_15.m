@@ -289,7 +289,7 @@
 <LM>w#w-ln94202-15-p2s1Cw24</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94202-15-p2s1Cw25">
 <src.rf>manual</src.rf>
@@ -1060,7 +1060,7 @@
 <LM>w#w-ln94202-15-p3s1w5</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-15-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1671,7 +1671,7 @@
 <LM>w#w-ln94202-15-p4s1w3</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94202-15-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1687,7 +1687,7 @@
 <LM>w#w-ln94202-15-p4s1w5</LM>
 </w.rf>
 <form>deviz</form>
-<tag lemma="deviza" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="deviza_^(v_peněžnictví)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94202-15-p4s1w6">
 <src.rf>manual</src.rf>
@@ -2453,7 +2453,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln94202-15-p6s2w4">
@@ -2920,7 +2920,7 @@
 <form>jako</form>
 <tag>
 <AM lemma="jako-1" src="auto">J,-------------</AM>
-<AM lemma="jako-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jako-1" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-15-p7s2w17">
@@ -2991,7 +2991,7 @@
 <AM lemma="Corso_;m_^(restaurace)" src="auto">NNNP4-----A----</AM>
 <AM lemma="Corso_;m_^(restaurace)" src="auto">NNNP5-----A----</AM>
 <AM lemma="Corso_;m_^(restaurace)" src="auto">NNNS2-----A----</AM>
-<AM lemma="corsa_;m_^(model_auta)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="corsa_^(model_auta)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-15-p7s2w25">

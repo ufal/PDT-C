@@ -441,7 +441,7 @@
 <LM>w#w-id58422-10</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m975-id58422-11">
 <w.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-id58422-12</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m975-id58422-14">
 <w.rf>
@@ -1929,7 +1929,7 @@
 <LM>w#w-id58862-8</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m975-id58889-1">
 <w.rf>
@@ -3195,7 +3195,7 @@
 <form>Dobře</form>
 <tag>
 <AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dobře" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m975-id59177-x1-664">
@@ -3492,7 +3492,7 @@
 <LM>w#w-id59239-3</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m975-653-869">
 <w.rf>
@@ -3865,7 +3865,7 @@
 <LM>w#w-id59356-7</LM>
 </w.rf>
 <form>vypravěč</form>
-<tag lemma="vypravěč" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="vypravěč_,s_^(^DD**vyprávěč)" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m975-id59366-1">
 <w.rf>
@@ -4311,7 +4311,7 @@
 <LM>w#w-id59425-3</LM>
 </w.rf>
 <form>zaměstnával</form>
-<tag lemma="zaměstnávat-1_^(všeob._význam:_činnost,_zaměstnání)_(*6at-1)" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="zaměstnávat_^(*4at)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m975-d-id63274">
 <w.rf>
@@ -4656,7 +4656,7 @@
 </w.rf>
 <form>Poláků</form>
 <tag>
-<AM lemma="Polák_;E" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="Poláky_;G" src="auto">NNIP2-----A----</AM>
 <AM lemma="polák-1_;U" src="auto">NNMP2-----A----</AM>
 </tag>
@@ -4752,7 +4752,7 @@
 <LM>w#w-id59513-6</LM>
 </w.rf>
 <form>neuměl</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpYS----R-NAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m975-id59523-1">
 <w.rf>
@@ -5319,7 +5319,7 @@
 </w.rf>
 <form>Polákům</form>
 <tag>
-<AM lemma="Polák_;E" src="auto" recommended="1">NNMP3-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="auto" recommended="1">NNMP3-----A----</AM>
 <AM lemma="Poláky_;G" src="auto">NNIP3-----A----</AM>
 <AM lemma="polák-1_;U" src="auto">NNMP3-----A----</AM>
 </tag>

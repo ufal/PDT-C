@@ -693,7 +693,7 @@
 <LM>w#w-d1t222-6</LM>
 </w.rf>
 <form>nemohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---3P-NAI-1</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m793-d-id68934">
 <w.rf>
@@ -1163,7 +1163,7 @@
 <tag>
 <AM lemma="málo-3" src="auto" recommended="1">Dg-------3A----</AM>
 <AM lemma="nejméně" src="auto">Ca--X----------</AM>
-<AM lemma="málo-3_^(málo_důsledný)" src="manual" selected="1">Dg-------3A----</AM>
+<AM lemma="méně" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m793-1398-1638">
@@ -2733,7 +2733,7 @@
 <LM>w#w-d1t271-40</LM>
 </w.rf>
 <form>koutě</form>
-<tag lemma="kout_^(př._dát_něco_do_kouta)" src="auto" recommended="1">NNIS6-----A----</tag>
+<tag lemma="kout-1" src="auto" recommended="1">NNIS6-----A----</tag>
 </m>
 <m id="m793-d1t271-43">
 <w.rf>
@@ -2856,7 +2856,7 @@
 <LM>w#w-d1t271-24</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m793-d1t271-25">
 <w.rf>
@@ -3136,7 +3136,7 @@
 <tag>
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="auto" recommended="1">VpNS---XR-AA---</AM>
 <AM lemma="stávat-3_:T_^(někdo/něco_stojí,_např._na_nohou)_(*5t-3)" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="stávat-2_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VpNS----R-AAI--</AM>
+<AM lemma="stávat-2_^(*5t-2)_(*5t-3)" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m793-d1e26-x49-2674">
@@ -3738,7 +3738,7 @@
 <form>Vždycky</form>
 <tag>
 <AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
-<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m793-d1t293-18">
@@ -4333,7 +4333,7 @@
 <LM>w#w-d1t302-24</LM>
 </w.rf>
 <form>Mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m793-d1t302-23">
 <w.rf>
@@ -5811,7 +5811,7 @@
 <LM>w#w-d1t360-9</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m793-d1t362-2">
 <w.rf>

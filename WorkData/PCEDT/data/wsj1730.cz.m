@@ -258,7 +258,7 @@
 <LM>w#w-wsj1730-001-p1s1W5</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1730-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1386,7 +1386,7 @@
 <LM>w#w-wsj1730-001-p1s4W2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1730-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1910,7 +1910,7 @@
 <LM>w#w-wsj1730-001-p1s6W17</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1730-001-p1s6W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1939,7 +1939,7 @@
 <LM>w#w-wsj1730-001-p1s6W20</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1730-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3266,7 +3266,7 @@
 <LM>w#w-wsj1730-001-p1s12W11</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1730-001-p1s12W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3481,7 +3481,7 @@
 <LM>w#w-wsj1730-001-p1s12W28</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1730-001-p1s12W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6168,7 +6168,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1730-001-p1s22W13-Ta">
@@ -6702,7 +6702,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>
@@ -8967,7 +8967,7 @@
 <LM>w#w-wsj1730-001-p1s31W28</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1730-001-p1s31W29-Ta">
 <src.rf>tagger-a</src.rf>

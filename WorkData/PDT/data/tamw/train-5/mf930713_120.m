@@ -441,7 +441,7 @@
 <LM>w#w-mf930713-120-p2s2w24</LM>
 </w.rf>
 <form>moci</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="moci" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930713-120-p2s2w25">
 <src.rf>manual</src.rf>

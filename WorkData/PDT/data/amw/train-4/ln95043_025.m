@@ -296,7 +296,7 @@
 <LM>w#w-ln95043-025-p2s1Cw16</LM>
 </w.rf>
 <form>přeložen</form>
-<tag lemma="přeložit-1_^(přemístit)" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95043-025-p2s1Cw17">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-ln95043-025-p2s3w13</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="minuta" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-ln95043-025-p2s3w14">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-ln95043-025-p2s4w30</LM>
 </w.rf>
 <form>Nor</form>
-<tag lemma="Nor_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nor_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-025-p2s4w31">
 <src.rf>manual</src.rf>
@@ -1219,7 +1219,7 @@
 <LM>w#w-ln95043-025-p2s5Bw24</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-025-p2s5Bw25">
 <src.rf>manual</src.rf>
@@ -1267,7 +1267,7 @@
 <LM>w#w-ln95043-025-p3s1Bw1</LM>
 </w.rf>
 <form>Podvanácté</form>
-<tag lemma="podvanácté" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podvanácté" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95043-025-p3s1Bw2">
 <src.rf>manual</src.rf>

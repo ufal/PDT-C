@@ -536,7 +536,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>
@@ -2893,7 +2893,7 @@
 <LM>w#w-wsj2154-001-p1s9W16</LM>
 </w.rf>
 <form>Kdybyste</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-P---2-------</tag>
+<tag lemma="kdyby" src="auto" recommended="1">J,-----------e-</tag>
 </m>
 <m id="m-wsj2154-001-p1s9W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3015,7 +3015,7 @@
 <LM>w#w-wsj2154-001-p1s9W28</LM>
 </w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag lemma="vy" src="auto" recommended="1">PP-P3--2-------</tag>
 </m>
 <m id="m-wsj2154-001-p1s9W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3088,7 +3088,7 @@
 <LM>w#w-wsj2154-001-p1s9W33</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj2154-001-p1s9W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4471,7 +4471,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2154-001-p1s14W2-Ta">
@@ -7301,7 +7301,7 @@
 <LM>w#w-wsj2154-001-p1s23W19</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2154-001-p1s23W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7490,7 +7490,7 @@
 <LM>w#w-wsj2154-001-p1s25W4</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj2154-001-p1s25W5-Ta">
 <src.rf>tagger-a</src.rf>

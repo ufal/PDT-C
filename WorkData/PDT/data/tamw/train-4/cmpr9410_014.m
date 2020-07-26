@@ -253,7 +253,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-014-p3s1w27">
@@ -682,7 +682,7 @@
 <form>Dr</form>
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Dr_^(doktor)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w13">
@@ -850,7 +850,7 @@
 <AM lemma="Donau_;G_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Dunaj_;G_,t_,x" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Donau_;G_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Donau_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Donau_;G_,s_^(^DD**Dunaj)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w29">
@@ -869,7 +869,7 @@
 <form>tel</form>
 <tag>
 <AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w31">

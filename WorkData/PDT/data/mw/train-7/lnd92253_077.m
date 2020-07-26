@@ -35,7 +35,7 @@
 <LM>w#w-lnd92253-077-p1s1w3</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="orig" selected="1">PP-P7--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P7--1-------</tag>
 </m>
 </s>
 <s id="m-lnd92253-077-p2s1">
@@ -69,7 +69,7 @@
 <LM>w#w-lnd92253-077-p2s1w4</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="hodina" src="auto" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-lnd92253-077-p2s1w5">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-lnd92253-077-p2s4w11</LM>
 </w.rf>
 <form>Vlastík</form>
-<tag lemma="Vlastík_;Y_,e" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlastík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-077-p2s4w12">
 <src.rf>manual</src.rf>
@@ -964,7 +964,7 @@
 <LM>w#w-lnd92253-077-p2s4w36</LM>
 </w.rf>
 <form>Dan</form>
-<tag lemma="Dan_;Y_,h" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-077-p2s4w37">
 <src.rf>manual</src.rf>
@@ -1276,7 +1276,7 @@
 <LM>w#w-lnd92253-077-p2s5w33</LM>
 </w.rf>
 <form>Barma</form>
-<tag lemma="Barma_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Barma_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-077-p2s5w34">
 <src.rf>manual</src.rf>

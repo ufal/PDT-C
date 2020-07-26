@@ -338,7 +338,7 @@
 <LM>w#w-wsj1997-001-p1s0W29</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1997-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -732,7 +732,7 @@
 <LM>w#w-wsj1997-001-p1s2W2</LM>
 </w.rf>
 <form>Kdykoliv</form>
-<tag lemma="kdykoli" src="auto" recommended="1">Db------------1</tag>
+<tag lemma="kdykoliv_,s_^(^DD**kdykoli)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1997-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-wsj1997-001-p1s2W12</LM>
 </w.rf>
 <form>mysleli</form>
-<tag lemma="myslet" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpMP----R-AAI-1</tag>
 </m>
 <m id="m-wsj1997-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>

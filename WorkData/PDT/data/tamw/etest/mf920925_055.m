@@ -665,7 +665,7 @@
 <LM>w#w-mf920925-055-p7s1w1</LM>
 </w.rf>
 <form>Disciplinárka</form>
-<tag lemma="disciplinárka_,h" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="disciplinárka" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-055-p7s1w2">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-mf920925-055-p7s1w10</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kčs_^(Koruna_čs.)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920925-055-p7s1w11">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-mf920925-055-p8s2w4</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-055-p8s2w5">
 <src.rf>manual</src.rf>

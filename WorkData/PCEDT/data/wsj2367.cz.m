@@ -391,7 +391,7 @@
 <LM>w#w-wsj2367-001-p1s2W3</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2367-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5002,7 +5002,7 @@
 <LM>w#w-wsj2367-001-p1s20W2</LM>
 </w.rf>
 <form>Myslel</form>
-<tag lemma="myslet" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="myslit" src="auto" recommended="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m-wsj2367-001-p1s20W3-Ta">
 <src.rf>tagger-a</src.rf>

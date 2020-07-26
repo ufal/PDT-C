@@ -11814,7 +11814,7 @@
 <LM>w#w-wsj0704-001-p1s40W10</LM>
 </w.rf>
 <form>měsíčně</form>
-<tag lemma="měsíčně_^(arch.;_př._měsíčná_noc)_(lhůta;svit)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="měsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0704-001-p1s40W11-Ta">
 <src.rf>tagger-a</src.rf>

@@ -44,7 +44,7 @@
 <LM>w#w-d1t2627-1</LM>
 </w.rf>
 <form>nemůžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m105-d1t2627-2">
 <w.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-d1t2656-3</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m105-d1t2656-4">
 <w.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-d1t2674-4</LM>
 </w.rf>
 <form>Vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m105-d1t2674-2">
 <w.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-d1t2674-6</LM>
 </w.rf>
 <form>vzala</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m105-661-670">
 <w.rf>
@@ -1039,7 +1039,7 @@
 <LM>w#w-d1t2681-6</LM>
 </w.rf>
 <form>uměla</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m105-673-674">
 <w.rf>
@@ -1613,7 +1613,7 @@
 <LM>w#w-d1t2715-2</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m105-d1t2715-3">
 <w.rf>
@@ -1706,7 +1706,7 @@
 <LM>w#w-d1t2719-6</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m105-d1e2716-x2-94">
 <w.rf>
@@ -1970,7 +1970,7 @@
 <LM>w#w-d1t2725-2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m105-d1t2725-3">
 <w.rf>
@@ -2274,7 +2274,7 @@
 <LM>w#w-d1t2745-8</LM>
 </w.rf>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m105-d1t2745-5">
 <w.rf>
@@ -2441,7 +2441,7 @@
 <LM>w#w-d1t2758-3</LM>
 </w.rf>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m105-d1t2758-4">
 <w.rf>
@@ -2558,7 +2558,7 @@
 <LM>w#w-d1t2762-5</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m105-d1e2716-x4-266">
 <w.rf>
@@ -2574,7 +2574,7 @@
 <LM>w#w-d1t2766-3</LM>
 </w.rf>
 <form>Můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m105-d1t2766-4">
 <w.rf>
@@ -2621,7 +2621,7 @@
 <LM>w#w-d1t2771-3</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m105-d1t2771-4">
 <w.rf>
@@ -2680,7 +2680,7 @@
 <LM>w#w-d1t2777-10</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m105-d1t2777-11">
 <w.rf>
@@ -2767,7 +2767,7 @@
 <LM>w#w-d1t2779-10</LM>
 </w.rf>
 <form>uměla</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m105-294-295">
 <w.rf>
@@ -2797,7 +2797,7 @@
 <LM>w#w-d1t2792-6</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m105-d1t2781-2">
 <w.rf>
@@ -3163,7 +3163,7 @@
 <AM lemma="Barrandův_;Y_^(*2e)" src="auto">AUMS6M---------</AM>
 <AM lemma="Barrandův_;Y_^(*2e)" src="auto">AUNS3M--------6</AM>
 <AM lemma="Barrandův_;Y_^(*2e)" src="auto">AUNS6M---------</AM>
-<AM lemma="Barrandov_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Barrandov_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m105-315-316">

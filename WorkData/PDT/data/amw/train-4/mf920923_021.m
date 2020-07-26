@@ -85,7 +85,7 @@
 <LM>w#w-mf920923-021-p2s1w7</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-021-p2s1w8">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-mf920923-021-p2s2w17</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920923-021-p2s2w18">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <form>vyprávěč</form>
 <tag>
 <AM lemma="vyprávěč_,s" src="orig">NNMS1-----A----</AM>
-<AM lemma="vyprávěč_,h_^(^GC**vypravěč)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="vyprávěč" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-021-p2s2w38">

@@ -197,7 +197,7 @@
 <LM>w#w-mf920902-146-p2s1w13</LM>
 </w.rf>
 <form>dnech</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf920902-146-p2s1w14">
 <src.rf>manual</src.rf>
@@ -205,7 +205,7 @@
 <LM>w#w-mf920902-146-p2s1w14</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920902-146-p2s1w15">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-mf920902-146-p3s1w4</LM>
 </w.rf>
 <form>nedávalo</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf920902-146-p3s1w5">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <tag>
 <AM lemma="jaro" src="orig">NNNP2-----A----</AM>
 <AM lemma="JAR-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-146-p3s1w12">

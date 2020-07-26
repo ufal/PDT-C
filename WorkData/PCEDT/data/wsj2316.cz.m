@@ -4452,7 +4452,7 @@
 <LM>w#w-wsj2316-001-p1s12W15</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m-wsj2316-001-p1s12W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5801,7 +5801,7 @@
 <LM>w#w-wsj2316-001-p1s18W6</LM>
 </w.rf>
 <form>nechalo</form>
-<tag lemma="nechat" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj2316-001-p1s18W7-Ta">
 <src.rf>tagger-a</src.rf>

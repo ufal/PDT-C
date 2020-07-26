@@ -383,7 +383,7 @@
 <LM>w#w-mf930708-133-p2s2w18</LM>
 </w.rf>
 <form>stávaly</form>
-<tag lemma="stávat-3_^(někdo/něco_stojí,_např._na_nohou)_(*5t-3)" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="stávat-2_^(*5t-2)_(*5t-3)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-133-p2s2w19">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <LM>w#w-mf930708-133-p2s6w20</LM>
 </w.rf>
 <form>mohlo</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-133-p2s6w21">
 <src.rf>manual</src.rf>
@@ -1001,7 +1001,7 @@
 <LM>w#w-mf930708-133-p2s6w25</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930708-133-p2s6w26">
 <src.rf>manual</src.rf>

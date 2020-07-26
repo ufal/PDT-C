@@ -274,7 +274,7 @@
 <LM>w#w-wsj2211-001-p1s0W24</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2211-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1104,7 +1104,7 @@
 <LM>w#w-wsj2211-001-p1s2W40</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2211-001-p1s2W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1536,7 +1536,7 @@
 <LM>w#w-wsj2211-001-p1s3W30</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2211-001-p1s3W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5221,7 +5221,7 @@
 <LM>w#w-wsj2211-001-p1s17W13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2211-001-p1s17W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5403,7 +5403,7 @@
 <form>Charlotte</form>
 <tag>
 <AM lemma="Charlotte_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Charlotte-2_;G_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Charlotte_;G_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2211-001-p1s18W3-Ta">
@@ -5485,7 +5485,7 @@
 <AM lemma="Karolinum_;G_;m" src="auto">NNNP5-----A----</AM>
 <AM lemma="Karolinum_;G_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="karolina" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Karolina-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Karolina_;G_;Y_,s_^(^DD**Karolína)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2211-001-p1s18W7-Ta">
@@ -9565,7 +9565,7 @@
 <LM>w#w-wsj2211-001-p1s30W29</LM>
 </w.rf>
 <form>spořitelen</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="spořitelna" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj2211-001-p1s30W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11961,7 +11961,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="auto" recommended="1">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------b</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-wsj2211-001-p1s37W14-Ta">
@@ -12876,7 +12876,7 @@
 <LM>w#w-wsj2211-001-p1s39W23</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2211-001-p1s39W24-Ta">
 <src.rf>tagger-a</src.rf>

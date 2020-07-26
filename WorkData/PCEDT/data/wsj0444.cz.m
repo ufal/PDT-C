@@ -766,7 +766,7 @@
 <LM>w#w-wsj0444-001-p1s3W1</LM>
 </w.rf>
 <form>Ačkoliv</form>
-<tag lemma="ačkoli" src="auto" recommended="1">J,------------1</tag>
+<tag lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0444-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2296,7 +2296,7 @@
 <form>programům</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP3-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP3-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0444-001-p1s7W23-Ta">

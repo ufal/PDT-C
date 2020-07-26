@@ -262,7 +262,7 @@
 <form>švýc</form>
 <tag>
 <AM lemma="švýcarský_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="švýcarský" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="švýcarský" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-047-p8s1w2">

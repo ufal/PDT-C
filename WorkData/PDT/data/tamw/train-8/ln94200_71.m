@@ -375,7 +375,7 @@
 <LM>w#w-ln94200-71-p2s2w3</LM>
 </w.rf>
 <form>předáno</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94200-71-p2s2w4">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-71-p2s5w13">
@@ -919,7 +919,7 @@
 <LM>w#w-ln94200-71-p2s6w1</LM>
 </w.rf>
 <form>Poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94200-71-p2s6w2">
 <src.rf>manual</src.rf>

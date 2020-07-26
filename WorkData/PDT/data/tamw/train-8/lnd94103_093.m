@@ -141,7 +141,7 @@
 <LM>w#w-lnd94103-093-p1s1Bw9</LM>
 </w.rf>
 <form>předáno</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsNS----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd94103-093-p1s1Bw10">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-lnd94103-093-p1s2w7</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94103-093-p1s2w8">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-lnd94103-093-p1s4w10</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94103-093-p1s4w11">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-093-p1s4w18">
@@ -1989,7 +1989,7 @@
 <LM>w#w-lnd94103-093-p1s14w1</LM>
 </w.rf>
 <form>Dává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-093-p1s14w2">
 <src.rf>manual</src.rf>
@@ -2654,7 +2654,7 @@
 <LM>w#w-lnd94103-093-p1s16w22</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-093-p1s16w23">
 <src.rf>manual</src.rf>
@@ -2784,7 +2784,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-093-p1s17w10">
@@ -3369,7 +3369,7 @@
 <LM>w#w-lnd94103-093-p1s20w7</LM>
 </w.rf>
 <form>Dominika</form>
-<tag lemma="Dominika-2_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dominika_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-093-p1s20w8">
 <src.rf>manual</src.rf>
@@ -3393,7 +3393,7 @@
 <LM>w#w-lnd94103-093-p1s20w10</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-093-p1s20w11">
 <src.rf>manual</src.rf>

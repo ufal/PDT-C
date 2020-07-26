@@ -786,7 +786,7 @@
 </w.rf>
 <form>stále</form>
 <tag>
-<AM lemma="stále" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="stále_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="stále_^(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -1204,7 +1204,7 @@
 <form>Pan</form>
 <tag>
 <AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m028-d1t2859-4">
@@ -2102,7 +2102,7 @@
 </w.rf>
 <form>dní</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP2-----A---1</AM>
 <AM lemma="dnít" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -2443,7 +2443,7 @@
 <LM>w#w-d1t2952-11</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m028-d1t2954-1">
 <w.rf>
@@ -2789,7 +2789,7 @@
 <form>vám</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P3--2-------</AM>
 </tag>
 </m>
 <m id="m028-d1t2961-38">
@@ -3745,7 +3745,7 @@
 <form>Myslela</form>
 <tag>
 <AM lemma="myslet" src="auto" recommended="1">VpQW---XR-AAI--</AM>
-<AM lemma="myslet" src="manual" selected="1">VpQW----R-AAI--</AM>
+<AM lemma="myslit" src="manual" selected="1">VpQW----R-AAI-1</AM>
 </tag>
 </m>
 <m id="m028-d1t3024-3">
@@ -3971,7 +3971,7 @@
 <LM>w#w-d1t3032-4</LM>
 </w.rf>
 <form>neuměla</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpQW----R-NAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m028-d1e3027-x2-1270">
 <w.rf>
@@ -4043,7 +4043,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m028-d1t3045-14">
@@ -4157,7 +4157,7 @@
 <LM>w#w-d1t3063-10</LM>
 </w.rf>
 <form>uměla</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m028-d1t3063-11">
 <w.rf>
@@ -4166,7 +4166,7 @@
 <form>hůř</form>
 <tag>
 <AM lemma="špatně" src="auto" recommended="1">Dg-------2A----</AM>
-<AM lemma="špatně_^(*2ý)" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="hůře" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m028-d1t3063-13">
@@ -4916,7 +4916,7 @@
 <LM>w#w-d1t3108-9</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m028-d1t3108-10">
 <w.rf>

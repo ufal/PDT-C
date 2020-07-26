@@ -691,7 +691,7 @@
 <LM>w#w-lnd92252-050-p1s3w19</LM>
 </w.rf>
 <form>otravů</form>
-<tag lemma="otrava" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="otrava-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92252-050-p1s3w20">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-lnd92252-050-p1s3w25</LM>
 </w.rf>
 <form>správně</form>
-<tag lemma="správně_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92252-050-p1s3w26">
 <src.rf>manual</src.rf>
@@ -832,7 +832,7 @@
 <LM>w#w-lnd92252-050-p2s1w7</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92252-050-p2s1w8">
 <src.rf>manual</src.rf>
@@ -1331,7 +1331,7 @@
 <form>rolích</form>
 <tag>
 <AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFP6-----A----</AM>
-<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFP6-----A----</AM>
+<AM lemma="role_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-050-p2s3w3">

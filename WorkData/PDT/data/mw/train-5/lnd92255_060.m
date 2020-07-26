@@ -348,7 +348,7 @@
 <LM>w#w-lnd92255-060-p3s2w30</LM>
 </w.rf>
 <form>vydá</form>
-<tag lemma="vydat-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="vydat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92255-060-p3s2w31">
 <src.rf>manual</src.rf>

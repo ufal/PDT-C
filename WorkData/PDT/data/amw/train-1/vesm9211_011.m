@@ -165,7 +165,7 @@
 <LM>w#w-vesm9211-011-p2s1w14</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" selected="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-vesm9211-011-p2s1w15">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-vesm9211-011-p4s2w5</LM>
 </w.rf>
 <form>běd</form>
-<tag lemma="běda" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="běda-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-vesm9211-011-p4s2w6">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-vesm9211-011-p7s2w19</LM>
 </w.rf>
 <form>běd</form>
-<tag lemma="běda" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="běda-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-vesm9211-011-p7s2w20">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 <LM>w#w-vesm9211-011-p7s2w27</LM>
 </w.rf>
 <form>Hérodotos</form>
-<tag lemma="Hérodotos_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hérodotos_;Y_,s_^(^DD**Herodotos)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-011-p7s2w28">
 <src.rf>manual</src.rf>
@@ -868,7 +868,7 @@
 <LM>w#w-vesm9211-011-p7s2w31</LM>
 </w.rf>
 <form>vynalezeno</form>
-<tag lemma="vynaleznout" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag lemma="vynaleznout" src="orig" selected="1">VsNS----X-APP-1</tag>
 </m>
 <m id="m-vesm9211-011-p7s2w32">
 <src.rf>manual</src.rf>
@@ -2514,7 +2514,7 @@
 <LM>w#w-vesm9211-011-p8s9w7</LM>
 </w.rf>
 <form>Aleš</form>
-<tag lemma="Aleš-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Aleš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-011-p8s9w8">
 <src.rf>manual</src.rf>
@@ -3639,7 +3639,7 @@
 <LM>w#w-vesm9211-011-p11s1w3</LM>
 </w.rf>
 <form>nedává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-vesm9211-011-p11s1w4">
 <src.rf>manual</src.rf>
@@ -3908,7 +3908,7 @@
 <LM>w#w-vesm9211-011-p11s3w1</LM>
 </w.rf>
 <form>Můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-vesm9211-011-p11s3w2">
 <src.rf>manual</src.rf>

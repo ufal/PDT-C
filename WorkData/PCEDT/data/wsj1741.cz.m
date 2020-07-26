@@ -512,7 +512,7 @@
 <LM>w#w-wsj1741-001-p1s0W43</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1741-001-p1s0W44-Ta">
 <src.rf>tagger-a</src.rf>

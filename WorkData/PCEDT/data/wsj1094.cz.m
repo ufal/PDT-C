@@ -4904,7 +4904,7 @@
 <LM>w#w-wsj1094-001-p1s20W38</LM>
 </w.rf>
 <form>intenzivně</form>
-<tag lemma="intenzivně_,s_^(^DD**intenzívní)_(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="intenzivně_^(^DD**intenzívně)_(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1094-001-p1s20W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5400,7 +5400,7 @@
 <LM>w#w-wsj1094-001-p1s22W26</LM>
 </w.rf>
 <form>tápe</form>
-<tag lemma="tápat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="tápat" src="auto" recommended="1">VB-S---3P-AAI-1</tag>
 </m>
 <m id="m-wsj1094-001-p1s22W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6748,7 +6748,7 @@
 <LM>w#w-wsj1094-001-p1s27W5</LM>
 </w.rf>
 <form>vázán</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" recommended="1">VsYS----X-API--</tag>
+<tag lemma="vázat" src="auto" recommended="1">VsYS----X-API--</tag>
 </m>
 <m id="m-wsj1094-001-p1s27W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7084,7 +7084,7 @@
 <LM>w#w-wsj1094-001-p1s28W7</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například" src="auto" recommended="1">Db------------b</tag>
+<tag lemma="například" src="auto" recommended="1">TT------------b</tag>
 </m>
 <m id="m-wsj1094-001-p1s28W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7589,7 +7589,7 @@
 <LM>w#w-wsj1094-001-p1s29W25</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="loni" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj1094-001-p1s29W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7757,7 +7757,7 @@
 <form>práv</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1094-001-p1s29W38-Ta">
@@ -9125,7 +9125,7 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="OSN-1_:B_^(Organizace_spojených_národů)" src="auto">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -12851,7 +12851,7 @@
 <LM>w#w-wsj1094-001-p1s46W14</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1094-001-p1s46W15-Ta">
 <src.rf>tagger-a</src.rf>

@@ -111,7 +111,7 @@
 <LM>w#w-ln95044-105-p2s1Bw4</LM>
 </w.rf>
 <form>předat</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="předat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-105-p2s1Bw5">
 <src.rf>manual</src.rf>

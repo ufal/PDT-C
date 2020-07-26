@@ -267,7 +267,7 @@
 <form>ZČU</form>
 <tag>
 <AM lemma="ZČU-1_:B_;m_^(Západočeská_univerzita)" src="orig">NNFXX-----A----</AM>
-<AM lemma="ZČU-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ZČU_;m_^(Západočeská_univerzita)" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-038-p2s1Bw26">

@@ -51,7 +51,7 @@
 <LM>w#w-ln95040-061-p1s1w5</LM>
 </w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="orig" selected="1">PP-P7--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P7--2-------</tag>
 </m>
 <m id="m-ln95040-061-p1s1w6">
 <src.rf>manual</src.rf>

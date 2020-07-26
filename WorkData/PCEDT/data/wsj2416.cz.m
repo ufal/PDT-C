@@ -325,7 +325,7 @@
 <LM>w#w-wsj2416-001-p1s0W28</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj2416-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1840,7 +1840,7 @@
 <LM>w#w-wsj2416-001-p1s4W13</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2416-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1997,7 +1997,7 @@
 <LM>w#w-wsj2416-001-p1s6W6</LM>
 </w.rf>
 <form>navržena</form>
-<tag lemma="navrhnout" src="auto" recommended="1">VsQW----X-APP--</tag>
+<tag lemma="navrhnout" src="auto" recommended="1">VsQW----X-APP-1</tag>
 </m>
 <m id="m-wsj2416-001-p1s6W7-Ta">
 <src.rf>tagger-a</src.rf>

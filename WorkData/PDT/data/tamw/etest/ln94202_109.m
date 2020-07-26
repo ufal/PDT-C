@@ -343,7 +343,7 @@
 <LM>w#w-ln94202-109-p2s22w3</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s22w4">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-ln94202-109-p2s38w3</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s38w4">
 <src.rf>manual</src.rf>
@@ -1202,7 +1202,7 @@
 <LM>w#w-ln94202-109-p2s54w3</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s54w4">
 <src.rf>manual</src.rf>
@@ -1821,7 +1821,7 @@
 <LM>w#w-ln94202-109-p2s74w3</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s74w4">
 <src.rf>manual</src.rf>
@@ -1863,7 +1863,7 @@
 <LM>w#w-ln94202-109-p2s76w3</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-ln94202-109-p2s76w4">
 <src.rf>manual</src.rf>

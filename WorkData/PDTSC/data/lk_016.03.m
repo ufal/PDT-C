@@ -197,7 +197,7 @@
 <LM>w#w-d1t1532-9</LM>
 </w.rf>
 <form>koupili</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m016-d1t1532-10">
 <w.rf>
@@ -727,7 +727,7 @@
 <LM>w#w-d1t1571-3</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m016-d1t1571-4">
 <w.rf>
@@ -1014,7 +1014,7 @@
 <LM>w#w-d1t1591-1</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m016-d1t1591-3">
 <w.rf>
@@ -2200,7 +2200,7 @@
 <LM>w#w-d1t1652-3</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m016-d1e1647-x2-346">
 <w.rf>
@@ -2858,7 +2858,7 @@
 <LM>w#w-d1t1689-8</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m016-d1t1689-9">
 <w.rf>
@@ -2898,7 +2898,7 @@
 <LM>w#w-d1t1691-4</LM>
 </w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag lemma="vždycky" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m016-d1t1691-5">
 <w.rf>
@@ -3271,7 +3271,7 @@
 <LM>w#w-d1t1713-3</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m016-d1t1713-4">
 <w.rf>
@@ -3514,7 +3514,7 @@
 <LM>w#w-d1t1717-4</LM>
 </w.rf>
 <form>lépe</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="lépe" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m016-d1t1717-5">
 <w.rf>
@@ -3594,7 +3594,7 @@
 <LM>w#w-d1t1717-22</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m016-d-m-d1e1706-x2-punct-punct">
 <w.rf>

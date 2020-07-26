@@ -307,7 +307,7 @@
 <LM>w#w-ln94201-22-p2s2w6</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94201-22-p2s2w7">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-ln94201-22-p2s3w10</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94201-22-p2s3w11">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-ln94201-22-p2s3w21</LM>
 </w.rf>
 <form>pětiprstka</form>
-<tag lemma="pětiprstka_;U_^(rostlina)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="pětiprstka_^(rostlina)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-22-p2s3w22">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-22-p2s3w23">

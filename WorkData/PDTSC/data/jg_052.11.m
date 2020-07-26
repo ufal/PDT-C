@@ -1884,7 +1884,7 @@
 <LM>w#w-d1t4534-3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m052-d-id181722-punct">
 <w.rf>
@@ -3981,7 +3981,7 @@
 <LM>w#w-d1t4673-4</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m052-d1e4668-x2-413">
 <w.rf>

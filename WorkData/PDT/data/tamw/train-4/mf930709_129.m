@@ -67,7 +67,7 @@
 <LM>w#w-mf930709-129-p1s1w7</LM>
 </w.rf>
 <form>Kolodějích</form>
-<tag lemma="Koloděje_;G_;Y" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="Koloděje_;G" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930709-129-p1s1w8">
 <src.rf>manual</src.rf>

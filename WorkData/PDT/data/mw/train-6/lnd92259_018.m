@@ -647,7 +647,7 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
-<AM lemma="atd-1_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-018-p3s3w33">
@@ -733,7 +733,7 @@
 <tag>
 <AM lemma="ÚKDŽ_:B_;m_^(Ústřední_kult._dům_železničářů)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚKDŽ_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ÚKDŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ÚKDŽ_;m_^(Ústřední_kulturní_dům_železničářů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-018-p3s4w10">
@@ -800,7 +800,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-018-p3s4w18">
@@ -1011,7 +1011,7 @@
 <LM>w#w-lnd92259-018-p3s5w10</LM>
 </w.rf>
 <form>hodin</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92259-018-p3s5w11">
 <src.rf>manual</src.rf>

@@ -176,7 +176,7 @@
 <LM>w#w-ln94207-116-p2s1w14</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vf--------A-P--</tag>
+<tag lemma="koupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-116-p2s1w15">
 <src.rf>manual</src.rf>
@@ -1301,7 +1301,7 @@
 <LM>w#w-ln94207-116-p2s6w22</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_^(a_podobně)" src="auto" selected="1">Db------------b</tag>
+<tag lemma="apod_^(a_podobně)" src="auto" selected="1">Bb-------------</tag>
 </m>
 <m id="m-ln94207-116-p2s6w23">
 <src.rf>manual</src.rf>
@@ -1463,7 +1463,7 @@
 <LM>w#w-ln94207-116-p2s7w19</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-116-p2s7w20">
 <src.rf>manual</src.rf>
@@ -1766,7 +1766,7 @@
 <tag>
 <AM lemma="Kammerspiele_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kammerspiele_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Kammerspiele-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Kammerspiele-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-116-p2s9w17">

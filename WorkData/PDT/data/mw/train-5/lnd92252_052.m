@@ -148,7 +148,7 @@
 <LM>w#w-lnd92252-052-p3s2w8</LM>
 </w.rf>
 <form>stranami</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-lnd92252-052-p3s2w9">
 <src.rf>manual</src.rf>

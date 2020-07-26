@@ -119,7 +119,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930703-110-p2s1w9">
@@ -147,7 +147,7 @@
 <LM>w#w-mf930703-110-p2s1w11</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930703-110-p2s1w12">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930703-110-p2s5w15">
@@ -841,7 +841,7 @@
 <LM>w#w-mf930703-110-p2s5w24</LM>
 </w.rf>
 <form>předáni</form>
-<tag lemma="předat-3_^(někomu_něco)" src="orig" selected="1">VsMP----X-APP--</tag>
+<tag lemma="předat" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930703-110-p2s5w25">
 <src.rf>manual</src.rf>

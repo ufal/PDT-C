@@ -64,7 +64,7 @@
 <form>ZOO</form>
 <tag>
 <AM lemma="ZOO_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ZOO" src="auto" recommended="1" selected="1">BNFXX-----A----</AM>
+<AM lemma="ZOO" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="ZOO_:B" src="auto">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -126,7 +126,7 @@
 <LM>w#w-lnd92258-021-p3s1w3</LM>
 </w.rf>
 <form>fsch</form>
-<tag lemma="fsch-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="fsch-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92258-021-p3s1w4">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <LM>w#w-lnd92258-021-p3s5w13</LM>
 </w.rf>
 <form>událostech</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-lnd92258-021-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1243,7 +1243,7 @@
 <form>ZOO</form>
 <tag>
 <AM lemma="ZOO_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZOO" src="auto" recommended="1" selected="1">BNFXX-----A----</AM>
+<AM lemma="ZOO" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="ZOO_:B" src="auto">NNNXX-----A----</AM>
 </tag>
 </m>

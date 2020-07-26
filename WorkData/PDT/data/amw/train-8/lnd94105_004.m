@@ -53,7 +53,7 @@
 <form>EU</form>
 <tag>
 <AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_;m_;^(Evropská_Unie)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EU-1_;m_^(Evropská_Unie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -332,7 +332,7 @@
 <LM>w#w-lnd94105-004-p1s2w6</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------3A----</tag>
 </m>
 <m id="m-lnd94105-004-p1s2w7">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-lnd94105-004-p1s4w24</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-004-p1s4w25">
 <src.rf>manual</src.rf>
@@ -1929,7 +1929,7 @@
 <LM>w#w-lnd94105-004-p1s12Bw22</LM>
 </w.rf>
 <form>Křesťansko</form>
-<tag lemma="křesťanský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="křesťansko-1" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd94105-004-p1s12Bw23">
 <src.rf>manual</src.rf>
@@ -2445,7 +2445,7 @@
 <LM>w#w-lnd94105-004-p1s14w11</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd94105-004-p1s14w12">
 <src.rf>manual</src.rf>

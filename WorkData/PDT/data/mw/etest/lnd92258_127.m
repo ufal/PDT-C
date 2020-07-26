@@ -207,7 +207,7 @@
 <LM>w#w-lnd92258-127-p3s1w7</LM>
 </w.rf>
 <form>pomalu</form>
-<tag lemma="pomalu" src="orig" selected="1">Db-------------</tag>
+<tag lemma="pomalu" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92258-127-p3s1w8">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-lnd92258-127-p3s2w13</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92258-127-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1775,7 +1775,7 @@
 <LM>w#w-lnd92258-127-p5s1w38</LM>
 </w.rf>
 <form>Foggia</form>
-<tag lemma="Foggia_;G" src="auto" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Foggia_;G" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-127-p5s1w39">
 <src.rf>manual</src.rf>
@@ -3579,7 +3579,7 @@
 <LM>w#w-lnd92258-127-p21s1w3</LM>
 </w.rf>
 <form>Foggia</form>
-<tag lemma="Foggia_;G" src="auto" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Foggia_;G" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-127-p21s1w4">
 <src.rf>manual</src.rf>
@@ -3682,7 +3682,7 @@
 <LM>w#w-lnd92258-127-p22s1w3</LM>
 </w.rf>
 <form>Pescara</form>
-<tag lemma="Pescara_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pescara_;Y_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-127-p22s1w4">
 <src.rf>manual</src.rf>
@@ -3923,7 +3923,7 @@
 <tag>
 <AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-127-p24s2w6">
@@ -4493,7 +4493,7 @@
 <LM>w#w-lnd92258-127-p24s5w28</LM>
 </w.rf>
 <form>podeváté</form>
-<tag lemma="podeváté" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="podeváté" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92258-127-p24s5w29">
 <src.rf>manual</src.rf>
@@ -4528,7 +4528,7 @@
 <LM>w#w-lnd92258-127-p24s5w32</LM>
 </w.rf>
 <form>přivezl</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="přivézt" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-127-p24s5w33">
 <src.rf>manual</src.rf>
@@ -4634,7 +4634,7 @@
 <LM>w#w-lnd92258-127-p24s6w5</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92258-127-p24s6w6">
 <src.rf>manual</src.rf>
@@ -5806,7 +5806,7 @@
 <LM>w#w-lnd92258-127-p25s1w121</LM>
 </w.rf>
 <form>Osasuna</form>
-<tag lemma="Osasuna_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Osasuna_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-127-p25s1w122">
 <src.rf>manual</src.rf>
@@ -7260,7 +7260,7 @@
 </w.rf>
 <form>tab</form>
 <tag>
-<AM lemma="tab-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="tab-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="tabulka_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 </tag>
 </m>

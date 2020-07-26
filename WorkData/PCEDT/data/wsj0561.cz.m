@@ -1008,7 +1008,7 @@
 </w.rf>
 <form>koupím</form>
 <tag>
-<AM lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VB-S---1P-AAP--</AM>
+<AM lemma="koupit" src="auto" recommended="1">VB-S---1P-AAP--</AM>
 <AM lemma="koupě_^(př._byla_to_dobrá_koupě)" src="auto">NNFP3-----A----</AM>
 </tag>
 </m>
@@ -2884,7 +2884,7 @@
 <LM>w#w-wsj0561-001-p1s10W4</LM>
 </w.rf>
 <form>správně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="správně_^(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj0561-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3172,7 +3172,7 @@
 <tag>
 <AM lemma="smět" src="auto">VsYS----X-API--</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFP2-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="směna_^(výměna_za_něco;pracovní)" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0561-001-p1s12W11-Ta">
@@ -4978,7 +4978,7 @@
 <tag>
 <AM lemma="smět" src="auto">VsFS4---X-API--</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS4-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="směna_^(výměna_za_něco;pracovní)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0561-001-p1s19W8-Ta">
@@ -5746,7 +5746,7 @@
 <LM>w#w-wsj0561-001-p1s23W2</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0561-001-p1s23W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5818,7 +5818,7 @@
 <LM>w#w-wsj0561-001-p1s23W8</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m-wsj0561-001-p1s23W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5826,7 +5826,7 @@
 <LM>w#w-wsj0561-001-p1s23W9</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1----I--</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m-wsj0561-001-p1s23W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6195,7 +6195,7 @@
 <LM>w#w-wsj0561-001-p1s24W4</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0561-001-p1s24W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6301,7 +6301,7 @@
 <LM>w#w-wsj0561-001-p1s24W12</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj0561-001-p1s24W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6412,7 +6412,7 @@
 <LM>w#w-wsj0561-001-p1s24W20</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj0561-001-p1s24W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7080,7 +7080,7 @@
 <LM>w#w-wsj0561-001-p1s26W11</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0561-001-p1s26W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8009,7 +8009,7 @@
 <LM>w#w-wsj0561-001-p1s28W15</LM>
 </w.rf>
 <form>nechat</form>
-<tag lemma="nechat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="nechat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0561-001-p1s28W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10986,7 +10986,7 @@
 <form>směnách</form>
 <tag>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFP6-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="směna_^(výměna_za_něco;pracovní)" src="auto" recommended="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0561-001-p1s36W27-Ta">
@@ -11526,7 +11526,7 @@
 </w.rf>
 <form>právem</form>
 <tag>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS7-----A----</AM>
 <AM lemma="právem" src="auto">Dg-------1A----</AM>
 </tag>
 </m>

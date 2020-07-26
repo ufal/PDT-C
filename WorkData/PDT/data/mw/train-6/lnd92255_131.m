@@ -292,7 +292,7 @@
 <LM>w#w-lnd92255-131-p2s3w4</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-131-p2s3w5">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-lnd92255-131-p2s5w15</LM>
 </w.rf>
 <form>osmin</form>
-<tag lemma="osmina" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="osmina`8_^(*3)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92255-131-p2s5w16">
 <src.rf>manual</src.rf>

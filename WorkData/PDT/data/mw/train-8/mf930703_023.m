@@ -500,7 +500,7 @@
 <LM>w#w-mf930703-023-p2s3w6</LM>
 </w.rf>
 <form>šlapu</form>
-<tag lemma="šlapat" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="šlapat" src="orig" selected="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-mf930703-023-p2s3w7">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-mf930703-023-p2s6w4</LM>
 </w.rf>
 <form>tržně</form>
-<tag lemma="tržně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="tržně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930703-023-p2s6w5">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
+<AM lemma="ačkoliv_,s_^(^DD**ačkoli)" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-023-p2s7w2">
@@ -2879,7 +2879,7 @@
 <LM>w#w-mf930703-023-p4s4w6</LM>
 </w.rf>
 <form>stali</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-023-p4s4w7">
 <src.rf>manual</src.rf>

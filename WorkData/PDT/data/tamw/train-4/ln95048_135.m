@@ -150,7 +150,7 @@
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČR-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-135-p2s1w16">
@@ -916,7 +916,7 @@
 <form>vzal</form>
 <tag>
 <AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="vzít" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-135-p3s1w4">
@@ -1148,7 +1148,7 @@
 <LM>w#w-ln95048-135-p3s3w5</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="zejména-2" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95048-135-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1533,7 +1533,7 @@
 <form>Zdislava</form>
 <tag>
 <AM lemma="Zdislava_;G_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Zdislava_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Zdislava_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-135-p4s1w20">

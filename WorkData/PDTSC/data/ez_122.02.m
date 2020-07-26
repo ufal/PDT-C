@@ -271,7 +271,7 @@
 <LM>w#w-d1t509-4</LM>
 </w.rf>
 <form>mlada</form>
-<tag lemma="mlado" src="auto" recommended="1">NNNS2-----A----</tag>
+<tag lemma="mlada" src="auto" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="m122-d1t509-5">
 <w.rf>
@@ -751,7 +751,7 @@
 <form>matka</form>
 <tag>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m122-d-id73918-punct">
@@ -1061,7 +1061,7 @@
 <LM>w#w-d1t535-37</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m122-d1t535-39">
 <w.rf>
@@ -2777,7 +2777,7 @@
 <tag>
 <AM lemma="málo-3" src="auto" recommended="1">Dg-------2A---1</AM>
 <AM lemma="méně" src="auto">Ca--X---------1</AM>
-<AM lemma="málo-3_^(málo_důsledný)" src="manual" selected="1">Dg-------2A---1</AM>
+<AM lemma="méně" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m122-d1e627-x4-261">
@@ -3122,7 +3122,7 @@
 <tag>
 <AM lemma="málo-3" src="auto" recommended="1">Dg-------3A---1</AM>
 <AM lemma="nejméně" src="auto">Ca--X---------1</AM>
-<AM lemma="málo-3_^(*2)" src="manual" selected="1">Dg-------3A---1</AM>
+<AM lemma="méně" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m122-d-m-d1e641-x2-punct-punct">
@@ -3726,7 +3726,7 @@
 <LM>w#w-d1t660-7</LM>
 </w.rf>
 <form>matematicko</form>
-<tag lemma="matematický" src="auto" recommended="1">S2--------A----</tag>
+<tag lemma="matematicko" src="auto" recommended="1">S2--------A----</tag>
 </m>
 <m id="m122-d1t660-9">
 <w.rf>
@@ -3871,7 +3871,7 @@
 <LM>w#w-d1t660-22</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="nechat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m122-283-286">
 <w.rf>

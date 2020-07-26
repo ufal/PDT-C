@@ -1497,7 +1497,7 @@
 <LM>w#w-wsj1844-001-p1s3W17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1844-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1807,7 +1807,7 @@
 <LM>w#w-wsj1844-001-p1s4W15</LM>
 </w.rf>
 <form>cestou</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1844-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2192,7 +2192,7 @@
 <LM>w#w-wsj1844-001-p1s5W15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1844-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5204,7 +5204,7 @@
 <tag>
 <AM lemma="Breenemu" src="auto">X@-------------</AM>
 <AM lemma="Breene_;Y" src="manual">NNMS3-----A----</AM>
-<AM lemma="Breene_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+<AM lemma="Breene_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1844-001-p1s14W6-Ta">
@@ -5766,7 +5766,7 @@
 <LM>w#w-wsj1844-001-p1s16W2</LM>
 </w.rf>
 <form>Naším</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
+<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-wsj1844-001-p1s16W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6814,7 +6814,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1844-001-p1s21W6-Ta">
@@ -10027,7 +10027,7 @@
 <LM>w#w-wsj1844-001-p1s29W20</LM>
 </w.rf>
 <form>Evropa</form>
-<tag lemma="Evropa_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1844-001-p1s29W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11262,7 +11262,7 @@
 <LM>w#w-wsj1844-001-p1s33W10</LM>
 </w.rf>
 <form>intenzivně</form>
-<tag lemma="intenzivně_,s_^(^DD**intenzívní)_(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="intenzivně_^(^DD**intenzívně)_(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m-wsj1844-001-p1s33W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16321,7 +16321,7 @@
 <LM>w#w-wsj1844-001-p1s49W5</LM>
 </w.rf>
 <form>jejichž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XXXXP3-------</tag>
+<tag lemma="jehož" src="auto" recommended="1">P1XXXXP3-------</tag>
 </m>
 <m id="m-wsj1844-001-p1s49W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18882,7 +18882,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1844-001-p1s59W11-Ta">
@@ -20220,7 +20220,7 @@
 <LM>w#w-wsj1844-001-p1s67W9</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1844-001-p1s67W10-Ta">
 <src.rf>tagger-a</src.rf>

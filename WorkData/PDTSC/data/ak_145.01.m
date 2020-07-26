@@ -48,7 +48,7 @@
 <LM>w#w-d1t188-5</LM>
 </w.rf>
 <form>nejdřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m145-d1t188-6">
 <w.rf>
@@ -832,7 +832,7 @@
 <LM>w#w-d1t221-2</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m145-d1t221-3">
 <w.rf>
@@ -919,7 +919,7 @@
 <LM>w#w-d1t227-5</LM>
 </w.rf>
 <form>nejdřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------3A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------3A---1</tag>
 </m>
 <m id="m145-d1t227-6">
 <w.rf>
@@ -1687,7 +1687,7 @@
 <form>nechal</form>
 <tag>
 <AM lemma="nechat" src="auto" recommended="1">VpYS----R-AAI--</AM>
-<AM lemma="nechat" src="manual" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="nechat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m145-d-m-d1e234-x2-punct-punct">
@@ -2347,7 +2347,7 @@
 <LM>w#w-d1t268-40</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m145-d1t268-41">
 <w.rf>
@@ -2568,7 +2568,7 @@
 <form>Můžu</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AA---</AM>
-<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VB-S---1P-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VB-S---1P-AAI--</AM>
 </tag>
 </m>
 <m id="m145-d1e291-x2-12">
@@ -2876,7 +2876,7 @@
 <form>jely</form>
 <tag>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpTP----R-AAI--</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">VpTP----R-AAI--</AM>
+<AM lemma="jet-1" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m145-d1t300-19">
@@ -2904,7 +2904,7 @@
 <LM>w#w-d1t300-20</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="auto" recommended="1">PP-P7--1-------</tag>
+<tag lemma="my" src="auto" recommended="1">PP-P7--1-------</tag>
 </m>
 <m id="m145-d1t300-21">
 <w.rf>

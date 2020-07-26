@@ -657,7 +657,7 @@
 <form>Dr</form>
 <tag>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Dr_^(doktor)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-055-p3s1w2">
@@ -1126,7 +1126,7 @@
 <LM>w#w-vesm9211-055-p4s2w8</LM>
 </w.rf>
 <form>práv</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9211-055-p4s2w9">
 <src.rf>manual</src.rf>

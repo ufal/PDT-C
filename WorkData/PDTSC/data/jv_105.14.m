@@ -585,7 +585,7 @@
 <LM>w#w-d1t3096-4</LM>
 </w.rf>
 <form>Mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m105-d1t3096-3">
 <w.rf>
@@ -758,7 +758,7 @@
 <LM>w#w-d1t3107-8</LM>
 </w.rf>
 <form>nemohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW----R-NAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m105-d1t3107-11">
 <w.rf>
@@ -1408,7 +1408,7 @@
 <AM lemma="Barrandův_;Y_^(*2e)" src="auto">AUMS6M---------</AM>
 <AM lemma="Barrandův_;Y_^(*2e)" src="auto">AUNS3M--------6</AM>
 <AM lemma="Barrandův_;Y_^(*2e)" src="auto">AUNS6M---------</AM>
-<AM lemma="Barrandov_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Barrandov_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m105-d1e3146-x2-44">
@@ -1491,7 +1491,7 @@
 <LM>w#w-d1t3155-5</LM>
 </w.rf>
 <form>průmyslovku</form>
-<tag lemma="průmyslovka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="průmyslovka_,h" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m105-62-63">
 <w.rf>
@@ -1694,7 +1694,7 @@
 <LM>w#w-d1t3160-12</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m105-d1t3160-13">
 <w.rf>
@@ -2424,7 +2424,7 @@
 <LM>w#w-d1t3195-17</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m105-d1t3195-10">
 <w.rf>
@@ -2442,7 +2442,7 @@
 </w.rf>
 <form>vydělávat</form>
 <tag>
-<AM lemma="vydělávat-1_^(peníze)_(*6at-1)" src="auto" recommended="1">Vf--------A-I--</AM>
+<AM lemma="vydělávat_^(*4at)" src="auto" recommended="1">Vf--------A-I--</AM>
 <AM lemma="vydělávat-2_:T_^(kůže)_(*6at-2)" src="auto">Vf--------A----</AM>
 </tag>
 </m>

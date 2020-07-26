@@ -441,7 +441,7 @@
 <LM>w#w-mf920925-012-p2s3w6</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920925-012-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1054,7 +1054,7 @@
 <LM>w#w-mf920925-012-p4s2w6</LM>
 </w.rf>
 <form>tatrovek</form>
-<tag lemma="tatrovka_;m_,h" src="auto" selected="1">NNFP2-----A----</tag>
+<tag lemma="tatrovka_,h" src="auto" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920925-012-p4s2w7">
 <src.rf>manual</src.rf>
@@ -2095,7 +2095,7 @@
 <LM>w#w-mf920925-012-p5s3w15</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf920925-012-p5s3w16">
 <src.rf>manual</src.rf>
@@ -2528,7 +2528,7 @@
 <form>nejvíc</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m-mf920925-012-p7s1w7">
@@ -2705,7 +2705,7 @@
 <LM>w#w-mf920925-012-p7s3w4</LM>
 </w.rf>
 <form>bychom</form>
-<tag lemma="být" src="orig" selected="1">Vc-P---1-------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------Im-</tag>
 </m>
 <m id="m-mf920925-012-p7s3w5">
 <src.rf>manual</src.rf>

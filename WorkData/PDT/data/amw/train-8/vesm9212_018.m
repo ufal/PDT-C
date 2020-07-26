@@ -753,7 +753,7 @@
 <LM>w#w-vesm9212-018-p28s1w3</LM>
 </w.rf>
 <form>stále</form>
-<tag lemma="stále" src="auto" selected="1">Db-------------</tag>
+<tag lemma="stále_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9212-018-p28s1w4">
 <src.rf>manual</src.rf>

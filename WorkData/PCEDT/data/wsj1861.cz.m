@@ -3115,7 +3115,7 @@
 <LM>w#w-wsj1861-001-p1s9W28</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1861-001-p1s9W29-Ta">
 <src.rf>tagger-a</src.rf>

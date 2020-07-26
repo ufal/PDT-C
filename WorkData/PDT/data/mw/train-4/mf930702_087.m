@@ -294,7 +294,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-087-p2s2w8">
@@ -332,7 +332,7 @@
 <LM>w#w-mf930702-087-p2s3w1</LM>
 </w.rf>
 <form>Sestřižen</form>
-<tag lemma="sestřihnout" src="orig" selected="1">VsYS----X-APP--</tag>
+<tag lemma="sestřihnout" src="orig" selected="1">VsYS----X-APP-1</tag>
 </m>
 <m id="m-mf930702-087-p2s3w2">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-087-p2s3w16">
@@ -626,7 +626,7 @@
 <LM>w#w-mf930702-087-p2s4w21</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930702-087-p2s4w22">
 <src.rf>manual</src.rf>

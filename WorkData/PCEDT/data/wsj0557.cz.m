@@ -2896,7 +2896,7 @@
 <tag>
 <AM lemma="jr-88_^(Junior)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="jr-88_^(junior)" src="auto">BNXXX-----A----</AM>
-<AM lemma="Jr_^(junior)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0557-001-p1s8W4-Ta">
@@ -3367,7 +3367,7 @@
 <LM>w#w-wsj0557-001-p1s9W4</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0557-001-p1s9W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3980,7 +3980,7 @@
 <LM>w#w-wsj0557-001-p1s11W11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0557-001-p1s11W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4126,7 +4126,7 @@
 <LM>w#w-wsj0557-001-p1s11W20</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0557-001-p1s11W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4294,7 +4294,7 @@
 <LM>w#w-wsj0557-001-p1s12W10</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------3A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="m-wsj0557-001-p1s12W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5300,7 +5300,7 @@
 <form>Lisbeth</form>
 <tag>
 <AM lemma="Lisbeth_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Lisbeth_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lisbeth_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0557-001-p1s14W21-Ta">
@@ -5585,7 +5585,7 @@
 <LM>w#w-wsj0557-001-p1s16W3</LM>
 </w.rf>
 <form>dán</form>
-<tag lemma="dát" src="auto" recommended="1">VsYS----X-APP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj0557-001-p1s16W4-Ta">
 <src.rf>tagger-a</src.rf>

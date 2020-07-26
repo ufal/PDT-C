@@ -43,7 +43,7 @@
 <LM>w#w-mf930702-036-p1s1w4</LM>
 </w.rf>
 <form>česku</form>
-<tag lemma="česko-2_^(ve_spojení_&quot;po_česku&quot;)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="česku_^(ve_spojení_&quot;po_česku&quot;)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 </s>
 <s id="m-mf930702-036-p2s1">
@@ -264,7 +264,7 @@
 <LM>w#w-mf930702-036-p2s2w9</LM>
 </w.rf>
 <form>nejvíc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A---1</tag>
+<tag lemma="více" src="auto" selected="1">Dg-------3A---1</tag>
 </m>
 <m id="m-mf930702-036-p2s2w10">
 <src.rf>manual</src.rf>
@@ -1576,7 +1576,7 @@
 <LM>w#w-mf930702-036-p4s7w1</LM>
 </w.rf>
 <form>Můžeme</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---1P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf930702-036-p4s7w2">
 <src.rf>manual</src.rf>
@@ -2351,7 +2351,7 @@
 <LM>w#w-mf930702-036-p5s6w16</LM>
 </w.rf>
 <form>opomněl</form>
-<tag lemma="opomenout" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag lemma="opomenout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930702-036-p5s6w17">
 <src.rf>manual</src.rf>
@@ -2401,7 +2401,7 @@
 <LM>w#w-mf930702-036-p6s1w4</LM>
 </w.rf>
 <form>česku</form>
-<tag lemma="česko-2_^(ve_spojení_&quot;po_česku&quot;)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="česku_^(ve_spojení_&quot;po_česku&quot;)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930702-036-p6s1w5">
 <src.rf>manual</src.rf>
@@ -2481,7 +2481,7 @@
 <LM>w#w-mf930702-036-p6s1w14</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-036-p6s1w15">
 <src.rf>manual</src.rf>
@@ -2640,7 +2640,7 @@
 <LM>w#w-mf930702-036-p6s3w3</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="moci" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-036-p6s3w4">
 <src.rf>manual</src.rf>

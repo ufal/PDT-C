@@ -59,7 +59,7 @@
 <LM>w#w-lnd92253-036-p1s1w6</LM>
 </w.rf>
 <form>pojedenácté</form>
-<tag lemma="pojedenácté" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="pojedenácté" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92253-036-p1s1w7">
 <src.rf>manual</src.rf>

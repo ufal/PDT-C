@@ -88,7 +88,7 @@
 </w.rf>
 <form>b</form>
 <tag>
-<AM lemma="bod" src="orig" selected="1">NNNXX-----A---b</AM>
+<AM lemma="bod" src="orig" selected="1">NNIXX-----A---b</AM>
 <AM lemma="b-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>
@@ -860,7 +860,7 @@
 </w.rf>
 <form>b</form>
 <tag>
-<AM lemma="bod" src="orig" selected="1">NNNXX-----A---b</AM>
+<AM lemma="bod" src="orig" selected="1">NNIXX-----A---b</AM>
 <AM lemma="b-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>
@@ -1754,7 +1754,7 @@
 </w.rf>
 <form>b</form>
 <tag>
-<AM lemma="bod" src="orig" selected="1">NNNXX-----A---b</AM>
+<AM lemma="bod" src="orig" selected="1">NNIXX-----A---b</AM>
 <AM lemma="b-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>

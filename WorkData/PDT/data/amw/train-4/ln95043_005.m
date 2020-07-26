@@ -566,7 +566,7 @@
 <LM>w#w-ln95043-005-p4s1w10</LM>
 </w.rf>
 <form>podvodně</form>
-<tag lemma="podvodně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="podvodně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-005-p4s1w11">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-ln95043-005-p5s1w3</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="orig" selected="1">Cv-------------</tag>
+<tag lemma="poprvé" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95043-005-p5s1w4">
 <src.rf>manual</src.rf>
@@ -843,7 +843,7 @@
 <LM>w#w-ln95043-005-p5s1w5</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95043-005-p5s1w6">
 <src.rf>manual</src.rf>

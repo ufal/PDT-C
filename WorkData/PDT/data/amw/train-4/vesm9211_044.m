@@ -35,7 +35,7 @@
 <LM>w#w-vesm9211-044-p1s1w3</LM>
 </w.rf>
 <form>prof</form>
-<tag lemma="profesor" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="prof_^(profesor)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-044-p1s1w4">
 <src.rf>manual</src.rf>
@@ -86,7 +86,7 @@
 <LM>w#w-vesm9211-044-p1s1w9</LM>
 </w.rf>
 <form>prof</form>
-<tag lemma="profesor" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="prof_^(profesor)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-044-p1s1w10">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="USA_;m_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---b</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-044-p3s1w27">
@@ -852,7 +852,7 @@
 <LM>w#w-vesm9211-044-p3s2w19</LM>
 </w.rf>
 <form>pan</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-044-p3s2w20">
 <src.rf>manual</src.rf>
@@ -958,7 +958,7 @@
 <LM>w#w-vesm9211-044-p3s3w9</LM>
 </w.rf>
 <form>prof</form>
-<tag lemma="profesor" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="prof_^(profesor)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-044-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1088,7 +1088,7 @@
 <LM>w#w-vesm9211-044-p4s1w1</LM>
 </w.rf>
 <form>RNDr</form>
-<tag lemma="RNDr-1_^(doktor_přír._věd)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="RNDr_^(doktor_přír._věd)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-044-p4s1w2">
 <src.rf>manual</src.rf>

@@ -206,7 +206,7 @@
 <LM>w#w-d1t1574-10</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m042-d-id103967-punct">
 <w.rf>
@@ -368,7 +368,7 @@
 <LM>w#w-d1t1586-10</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m042-419-422">
 <w.rf>
@@ -1139,7 +1139,7 @@
 <LM>w#w-d1t1629-23</LM>
 </w.rf>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------c-</tag>
 </m>
 <m id="m042-d1t1629-24">
 <w.rf>
@@ -2238,7 +2238,7 @@
 <LM>w#w-d1t1683-8</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m042-d1t1683-9">
 <w.rf>
@@ -2685,7 +2685,7 @@
 <LM>w#w-d1t1705-2</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m042-d-id109042-punct">
 <w.rf>
@@ -2927,7 +2927,7 @@
 <LM>w#w-d1t1710-13</LM>
 </w.rf>
 <form>dřív</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A---5</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A---1</tag>
 </m>
 <m id="m042-d1t1710-12">
 <w.rf>
@@ -3156,7 +3156,7 @@
 <LM>w#w-d1t1732-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="zač" src="auto" recommended="1">PY-------------</tag>
+<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m042-d-id109784-punct">
 <w.rf>
@@ -3758,7 +3758,7 @@
 <LM>w#w-d1t1755-1</LM>
 </w.rf>
 <form>Dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m042-d1t1755-2">
 <w.rf>
@@ -4056,7 +4056,7 @@
 <LM>w#w-d1t1788-6</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,h" src="auto" recommended="1">Db------------1</tag>
+<tag lemma="loni" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m042-d-m-d1e1781-x2-punct-punct">
 <w.rf>

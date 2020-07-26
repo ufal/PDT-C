@@ -893,7 +893,7 @@
 <LM>w#w-lnd91301-091-p2s4w15</LM>
 </w.rf>
 <form>pomalu</form>
-<tag lemma="pomalu" src="orig" selected="1">Db-------------</tag>
+<tag lemma="pomalu" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s4w16">
 <src.rf>manual</src.rf>

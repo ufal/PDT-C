@@ -178,7 +178,7 @@
 <LM>w#w-vesm9301-018-p3s1w15</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9301-018-p3s1w16">
 <src.rf>manual</src.rf>
@@ -266,7 +266,7 @@
 <LM>w#w-vesm9301-018-p3s1w26</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="méně" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-vesm9301-018-p3s1w27">
 <src.rf>manual</src.rf>
@@ -1485,7 +1485,7 @@
 <LM>w#w-vesm9301-018-p5s1w15</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="spíš" src="orig" selected="1">TT------------1</tag>
 </m>
 <m id="m-vesm9301-018-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1916,7 +1916,7 @@
 <LM>w#w-vesm9301-018-p5s4w4</LM>
 </w.rf>
 <form>přeloženy</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VsTP----X-APP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-vesm9301-018-p5s4w5">
 <src.rf>manual</src.rf>
@@ -2200,7 +2200,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-vesm9301-018-p5s5w13">
@@ -2339,7 +2339,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-vesm9301-018-p5s5w30">
@@ -2600,7 +2600,7 @@
 <LM>w#w-vesm9301-018-p6s1w18</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9301-018-p6s1w19">
 <src.rf>manual</src.rf>
@@ -3017,7 +3017,7 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-vesm9301-018-p6s4w9">
@@ -3122,7 +3122,7 @@
 <LM>w#w-vesm9301-018-p6s4w21</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="orig" selected="1">Db-------------</tag>
+<tag lemma="například" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9301-018-p6s4w22">
 <src.rf>manual</src.rf>

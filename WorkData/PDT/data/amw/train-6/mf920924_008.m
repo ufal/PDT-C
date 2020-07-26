@@ -199,7 +199,7 @@
 <LM>w#w-mf920924-008-p1s1Cw15</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dost" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-008-p1s1Cw16">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <tag>
 <AM lemma="Prométheus_;Y" src="orig">NNIS1-----A----</AM>
 <AM lemma="Prométheus_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Prométheus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Prométheus_;Y_,s_^(^DD**Prométeus)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-008-p1s1Cw45">
@@ -501,7 +501,7 @@
 <LM>w#w-mf920924-008-p1s2w7</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-008-p1s2w8">
 <src.rf>manual</src.rf>

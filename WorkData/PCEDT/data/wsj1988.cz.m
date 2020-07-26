@@ -232,7 +232,7 @@
 <LM>w#w-wsj1988-001-p1s0W17</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_;G_^(United_States_ofmerica)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1988-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-wsj1988-001-p1s0W29</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_;G_^(United_States_ofmerica)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1988-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-wsj1988-001-p1s1W19</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_;G_^(United_States_ofmerica)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1988-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-wsj1988-001-p1s2W9</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_;G_^(United_States_ofmerica)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1988-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1470,7 +1470,7 @@
 <LM>w#w-wsj1988-001-p1s4W2</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_;G_^(United_States_ofmerica)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag lemma="USA_;G_^(United_States_of_America)" src="auto" recommended="1">BNXXX-----A----</tag>
 </m>
 <m id="m-wsj1988-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1587,7 +1587,7 @@
 <LM>w#w-wsj1988-001-p1s4W12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="více" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj1988-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>

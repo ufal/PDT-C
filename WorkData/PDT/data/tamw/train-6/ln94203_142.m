@@ -69,7 +69,7 @@
 <LM>w#w-ln94203-142-p2s1Aw3</LM>
 </w.rf>
 <form>ma</form>
-<tag lemma="ma-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ma-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-142-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-ln94203-142-p2s1Bw8</LM>
 </w.rf>
 <form>Eurostatem</form>
-<tag lemma="Eurostat_;Y" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Eurostat_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94203-142-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-142-p3s1w21">
@@ -810,7 +810,7 @@
 <form>ČSÚ</form>
 <tag>
 <AM lemma="ČSÚ_:B_;m_^(Český_statistický_úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČSÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSÚ_;m_^(Český_statistický_úřad)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-142-p4s1w11">
@@ -941,7 +941,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-142-p4s1w27">
@@ -1011,7 +1011,7 @@
 <form>mld</form>
 <tag>
 <AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln94203-142-p4s1w35">
@@ -1150,7 +1150,7 @@
 <LM>w#w-ln94203-142-p5s1w12</LM>
 </w.rf>
 <form>Kanadou</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94203-142-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1325,7 +1325,7 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-142-p5s2w19">

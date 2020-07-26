@@ -3787,7 +3787,7 @@
 <LM>w#w-wsj0477-001-p1s11W14</LM>
 </w.rf>
 <form>vloni</form>
-<tag lemma="vloni" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**loni)" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0477-001-p1s11W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5544,7 +5544,7 @@
 <LM>w#w-wsj0477-001-p1s16W37</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0477-001-p1s16W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6750,7 +6750,7 @@
 <LM>w#w-wsj0477-001-p1s19W23</LM>
 </w.rf>
 <form>koupila</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0477-001-p1s19W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7375,7 +7375,7 @@
 <LM>w#w-wsj0477-001-p1s22W6</LM>
 </w.rf>
 <form>dříve</form>
-<tag lemma="brzy" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="dříve" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0477-001-p1s22W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7684,7 +7684,7 @@
 <LM>w#w-wsj0477-001-p1s23W14</LM>
 </w.rf>
 <form>nepodává</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VB-S---3P-NAI--</tag>
+<tag lemma="podávat_^(*4at)" src="auto" recommended="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-wsj0477-001-p1s23W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8129,7 +8129,7 @@
 <LM>w#w-wsj0477-001-p1s25W8</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0477-001-p1s25W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9095,7 +9095,7 @@
 </w.rf>
 <form>dnech</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP6-----A----</AM>
 </tag>
 </m>

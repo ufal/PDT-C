@@ -746,7 +746,7 @@
 <LM>w#w-ln94207-96-p4s1w1</LM>
 </w.rf>
 <form>Dagmar</form>
-<tag lemma="Dagmar_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Dagmar_;Y_;m" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94207-96-p4s1w2">
 <src.rf>manual</src.rf>
@@ -972,7 +972,7 @@
 </w.rf>
 <form>Baptist</form>
 <tag>
-<AM lemma="Baptist_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Baptist_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Baptist_;Y_,t" src="auto" recommended="1">NNMXX-----A----</AM>
 </tag>
 </m>
@@ -1200,7 +1200,7 @@
 <LM>w#w-ln94207-96-p5s3w1</LM>
 </w.rf>
 <form>Přeložili</form>
-<tag lemma="přeložit-3_^(z_jazyka)" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="přeložit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94207-96-p5s3w2">
 <src.rf>manual</src.rf>

@@ -229,7 +229,7 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČNR_;m_^(Česká_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-058-p1s1w28">
@@ -543,7 +543,7 @@
 </w.rf>
 <form>ú</form>
 <tag>
-<AM lemma="účet" src="orig" selected="1">NNIXX-----A---b</AM>
+<AM lemma="ú-33" src="orig" selected="1">Q3-------------</AM>
 <AM lemma="ú-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="ú-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>

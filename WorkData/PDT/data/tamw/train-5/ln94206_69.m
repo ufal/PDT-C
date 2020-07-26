@@ -35,7 +35,7 @@
 <LM>w#w-ln94206-69-p1s1w3</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94206-69-p1s1w4">
 <src.rf>manual</src.rf>

@@ -1356,7 +1356,7 @@
 <LM>w#w-wsj0674-001-p1s2W21</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="dávat-1_^(*5t-1)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0674-001-p1s2W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2925,7 +2925,7 @@
 <LM>w#w-wsj0674-001-p1s7W3</LM>
 </w.rf>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="m-wsj0674-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3128,7 +3128,7 @@
 <LM>w#w-wsj0674-001-p1s8W4</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0674-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3641,7 +3641,7 @@
 <LM>w#w-wsj0674-001-p1s9W27</LM>
 </w.rf>
 <form>například</form>
-<tag lemma="například" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="například" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m-wsj0674-001-p1s9W28-Ta">
 <src.rf>tagger-a</src.rf>

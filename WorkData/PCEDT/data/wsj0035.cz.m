@@ -471,7 +471,7 @@
 <LM>w#w-wsj0035-001-p1s1W11</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0035-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -786,7 +786,7 @@
 <LM>w#w-wsj0035-001-p1s2W20</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" recommended="1">Vf--------A-P-1</tag>
+<tag lemma="říci" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0035-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2603,7 +2603,7 @@
 <LM>w#w-wsj0035-001-p1s8W15</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0035-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>

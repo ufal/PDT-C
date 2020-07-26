@@ -27,7 +27,7 @@
 <LM>w#w-ln94200-132-p1s1w2</LM>
 </w.rf>
 <form>přiveze</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="přivézt" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94200-132-p1s1w3">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-ln94200-132-p2s1w29</LM>
 </w.rf>
 <form>lidí</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94200-132-p2s1w30">
 <src.rf>manual</src.rf>

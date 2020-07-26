@@ -247,7 +247,7 @@
 <LM>w#w-ln94200-91-p2s2w5</LM>
 </w.rf>
 <form>hodinách</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln94200-91-p2s2w6">
 <src.rf>manual</src.rf>

@@ -2361,7 +2361,7 @@
 </w.rf>
 <form>Bondem</form>
 <tag>
-<AM lemma="Bond_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Bond-1_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
 <AM lemma="Bondo_;G" src="auto">NNNS7-----A----</AM>
 <AM lemma="bond" src="auto">NNIS7-----A----</AM>
 </tag>

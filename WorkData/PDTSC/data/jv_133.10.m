@@ -560,7 +560,7 @@
 <LM>w#w-d1t2801-8</LM>
 </w.rf>
 <form>cesta</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="cesta" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m133-d-id160887-punct">
 <w.rf>
@@ -918,7 +918,7 @@
 <LM>w#w-d1t2824-2</LM>
 </w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dlouho" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m133-d1t2824-3">
 <w.rf>
@@ -1917,7 +1917,7 @@
 <LM>w#w-d1t2897-5</LM>
 </w.rf>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád-1" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m133-d-id163765-punct">
 <w.rf>
@@ -1940,7 +1940,7 @@
 <LM>w#w-d1t2903-4</LM>
 </w.rf>
 <form>bych</form>
-<tag lemma="být" src="auto" recommended="1">Vc-S---1-------</tag>
+<tag lemma="být" src="auto" recommended="1">Vc----------Ic-</tag>
 </m>
 <m id="m133-d-id163891-punct">
 <w.rf>
@@ -2222,7 +2222,7 @@
 <LM>w#w-d1t2914-3</LM>
 </w.rf>
 <form>dneska</form>
-<tag lemma="dneska" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dneska_,h" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m133-225-226">
 <w.rf>
@@ -4452,7 +4452,7 @@
 <LM>w#w-d1t3010-2</LM>
 </w.rf>
 <form>abychom</form>
-<tag lemma="aby" src="auto" recommended="1">J,-P---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1">J,-----------m-</tag>
 </m>
 <m id="m133-d1t3010-3">
 <w.rf>
@@ -5119,7 +5119,7 @@
 <LM>w#w-d1t3035-4</LM>
 </w.rf>
 <form>umíte</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-P---2P-AAI--</tag>
+<tag lemma="umět" src="auto" recommended="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m133-d-id169925-punct">
 <w.rf>
@@ -5193,7 +5193,7 @@
 <LM>w#w-d1t3043-6</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m133-d1t3043-7">
 <w.rf>
@@ -5835,7 +5835,7 @@
 <LM>w#w-d1t3069-6</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dost" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m133-d1t3069-7">
 <w.rf>

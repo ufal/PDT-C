@@ -717,7 +717,7 @@
 <LM>w#w-wsj0093-001-p1s1W32</LM>
 </w.rf>
 <form>čínsko</form>
-<tag lemma="čínský" src="auto" recommended="1">S2--------A----</tag>
+<tag lemma="čínsko" src="auto" recommended="1">S2--------A----</tag>
 </m>
 <m id="m-wsj0093-001-p1s1W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1909,7 +1909,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -4944,7 +4944,7 @@
 <LM>w#w-wsj0093-001-p1s14W35</LM>
 </w.rf>
 <form>čínsko</form>
-<tag lemma="čínský" src="auto" recommended="1">S2--------A----</tag>
+<tag lemma="čínsko" src="auto" recommended="1">S2--------A----</tag>
 </m>
 <m id="m-wsj0093-001-p1s14W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6978,7 +6978,7 @@
 </w.rf>
 <form>hodin</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -7165,7 +7165,7 @@
 <AM lemma="politik" src="auto">NNMS3-----A---1</AM>
 <AM lemma="politik" src="auto">NNMS5-----A----</AM>
 <AM lemma="politik" src="auto">NNMS6-----A---1</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS3-----A----</AM>
 <AM lemma="politikum" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -8621,7 +8621,7 @@
 <LM>w#w-wsj0093-001-p1s29W8</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="méně" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m-wsj0093-001-p1s29W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9259,7 +9259,7 @@
 <LM>w#w-wsj0093-001-p1s31W18</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0093-001-p1s31W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9537,7 +9537,7 @@
 <LM>w#w-wsj0093-001-p1s32W17</LM>
 </w.rf>
 <form>poprvé</form>
-<tag lemma="poprvé" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="poprvé" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m-wsj0093-001-p1s32W18-Ta">
 <src.rf>tagger-a</src.rf>
