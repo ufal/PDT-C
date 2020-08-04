@@ -1,0 +1,16 @@
+29 Federal Federal-2_;m NNIS1-----A---- -> Federal_;G_;m NNIS1-----A---- Federal-77 F%------------- Federal_;G_;m NNIS4-----A----
+23 Mobil Mobil_;m NNIS1-----A---- -> mobil NNIS1-----A---- Mobil-77 F%------------- mobil NNIS4-----A----
+11 Par Par_;m NNIS1-----A---- -> par_,l_^(počet_ran_v_golfu) NNIS1-----A---- par_,l_^(počet_ran_v_golfu) NNIS4-----A---- paragraf NNIXX-----A---b pára NNFP2-----A----
+20 Super Super-1_;m_^(druh_benzínu) AAXXX----1A---- -> super-1 AAXXX----1A---- Super-1_;m NNIS1-----A---- Super-1_;m NNIS4-----A---- Super-77 F%------------- super-2 NNIS1-----A---- super-2 NNIS4-----A---- super-3 S2--------A---- super-4 Db-------------
+3 Bond Bond-2_;m NNIS1-----A---- -> bond NNIS1-----A---- Bond-1_;Y NNMS1-----A---- Bond-2_;m NNIXX-----A---- Bond-77 F%------------- Bondo_;G NNNP2-----A---- bond NNIS4-----A----
+3 CA CA-33_^(označení_pomocí_písmene) NNNXX-----A---- -> Ca-1_;G_^(řeka) NNNXX-----A---- CA-88 BNXXX-----A---- Ca-88 BNXXX-----A---- ca-88 BNXXX-----A---- cirka TT------------b
+3 Ca Ca-33_^(označení_pomocí_písmen) NNNXX-----A---- -> Ca-1_;G_^(řeka) NNNXX-----A---- Ca-88 BNXXX-----A---- ca-88 BNXXX-----A---- cirka TT------------b
+3 CD CD-1_^(Audio/Data,_Compact_Disc) BNNXX-----A---- -> Cd_;U_^(kadmium) BNNXX-----A---- CD-1_^(Audio/Data,_Compactisc) BNXXX-----A---- CD-88 BNXXX-----A----
+3 C Celsius NNMXX-----A---- -> C-1_;Y NNMXX-----A---- C-3`100 C}------------- C-33 Q3------------- Celsius_;Y NNMXX-----A---b c-33 Q3------------- c-77 F%-------------
+4 cherry cherry NNNXX-----A---- -> cherry_,s_^(^DD**sherry) NNNXX-----A---- cherry-77 F%-------------
+3 Ethyl Ethyl_;m NNIS1-----A---- -> ethyl_,s_^(^DD**etyl) NNIS1-----A---- ethyl_,s_^(^DD**etyl) NNIS4-----A----
+3 Dušičky Dušičky NNFP4-----A---- -> dušička NNFP4-----A---- dušička NNFP1-----A---- dušička NNFP5-----A---- dušička NNFS2-----A----
+3 Motorsport motorsport_;m NNIS1-----A---- -> motorsport NNIS1-----A---- motorsport NNIS4-----A----
+4 Hlasatele Hlasatel_;m NNMS2-----A---- -> hlasatel NNMS2-----A---- hlasatel NNMP4-----A---- hlasatel NNMS4-----A----
+4 Fluor Fluor_;m NNIS1-----A---- -> fluor_,s_^(^DD**fluór) NNIS1-----A---- Fluora_;m NNFP2-----A---- Fluor-77 F%------------- fluor_,s_^(^DD**fluór) NNIS4-----A----
+8 čtvrtě čtvrt-2_^(čtvrtina) NNFP1-----A---- -> čtvrť_^(města) NNFP1-----A---- čtvrtit VeYS------A-I-- čtvrť_^(města) NNFP4-----A---- čtvrť_^(města) NNFP5-----A---- čtvrť_^(města) NNFS2-----A---- čtvrt CzFP1---------- čtvrt CzFP4---------- čtvrt CzFP5----------
