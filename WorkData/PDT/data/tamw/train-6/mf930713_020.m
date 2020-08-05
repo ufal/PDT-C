@@ -1551,7 +1551,10 @@
 <LM>w#w-mf930713-020-p3s13w17</LM>
 </w.rf>
 <form>Motorsport</form>
-<tag lemma="motorsport_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="motorsport_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="motorsport" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-020-p3s13w18">
 <src.rf>manual</src.rf>
@@ -2097,7 +2100,10 @@
 <LM>w#w-mf930713-020-p3s18w4</LM>
 </w.rf>
 <form>Motorsport</form>
-<tag lemma="motorsport_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="motorsport_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="motorsport" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-020-p3s18w5">
 <src.rf>manual</src.rf>

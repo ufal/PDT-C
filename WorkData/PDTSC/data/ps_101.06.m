@@ -2472,6 +2472,7 @@
 <AM lemma="tři`3" src="auto">ClXP5----------</AM>
 <AM lemma="třít" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="třít" src="auto">Vi-S---3--A-I-4</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-XX----------</AM>
 </tag>
 </m>
 <m id="m101-d1e1077-x2-119">
@@ -2485,9 +2486,10 @@
 <AM lemma="čtvrť_^(města)" src="auto">NNFP4-----A----</AM>
 <AM lemma="čtvrť_^(města)" src="auto">NNFP5-----A----</AM>
 <AM lemma="čtvrť_^(města)" src="auto">NNFS2-----A----</AM>
-<AM lemma="čtvrt-2_^(čtvrtina)" src="auto" selected="1">NNFP1-----A----</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP1-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP4-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP5-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFXX----------</AM>
 </tag>
 </m>
 <m id="m101-d1t1082-6">

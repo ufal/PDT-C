@@ -567,7 +567,10 @@
 <LM>w#w-ln95048-147-p4s1w18</LM>
 </w.rf>
 <form>čtvrtě</form>
-<tag lemma="čtvrt-2_^(čtvrtina)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="orig">NNFP1-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFP1----------</AM>
+</tag>
 </m>
 <m id="m-ln95048-147-p4s1w19">
 <src.rf>manual</src.rf>

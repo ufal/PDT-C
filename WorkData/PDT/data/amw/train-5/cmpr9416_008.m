@@ -23,7 +23,8 @@
 <AM lemma="cherry_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="Cherry_;G_,t_^(např.Cherry_Creek)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Cherry_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="cherry" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="cherry" src="manual">NNNXX-----A----</AM>
+<AM lemma="cherry_,i_^(^DS**sherry)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p2s1w2">
@@ -190,7 +191,8 @@
 <form>cherry</form>
 <tag>
 <AM lemma="cherry_;m" src="orig">NNNXX-----A----</AM>
-<AM lemma="cherry" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="cherry" src="manual">NNNXX-----A----</AM>
+<AM lemma="cherry_,i_^(^DS**sherry)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p4s1w4">
@@ -724,7 +726,8 @@
 <form>cherry</form>
 <tag>
 <AM lemma="cherry_;m" src="orig">NNNXX-----A----</AM>
-<AM lemma="cherry" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="cherry" src="manual">NNNXX-----A----</AM>
+<AM lemma="cherry_,i_^(^DS**sherry)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p6s3w4">
@@ -1088,7 +1091,8 @@
 <form>cherry</form>
 <tag>
 <AM lemma="cherry_;m" src="orig">NNNXX-----A----</AM>
-<AM lemma="cherry" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="cherry" src="manual">NNNXX-----A----</AM>
+<AM lemma="cherry_,i_^(^DS**sherry)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p7s3w6">
@@ -1775,7 +1779,10 @@
 <LM>w#w-cmpr9416-008-p9s2w7</LM>
 </w.rf>
 <form>Forum</form>
-<tag lemma="fórum" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="fórum" src="orig">NNNS1-----A----</AM>
+<AM lemma="Forum_;m" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-008-p9s2w8">
 <src.rf>manual</src.rf>
@@ -2653,7 +2660,10 @@
 <LM>w#w-cmpr9416-008-p11s2w38</LM>
 </w.rf>
 <form>cherry</form>
-<tag lemma="cherry_;m" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="cherry_;m" src="orig">NNNXX-----A----</AM>
+<AM lemma="cherry_,i_^(^DS**sherry)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-008-p11s2w39">
 <src.rf>manual</src.rf>
@@ -3390,7 +3400,10 @@
 <LM>w#w-cmpr9416-008-p13s3w12</LM>
 </w.rf>
 <form>Alfa</form>
-<tag lemma="alfa" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="alfa" src="orig">NNFS1-----A----</AM>
+<AM lemma="Alfa_;m_^(vozidlo)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-008-p13s3w13">
 <src.rf>manual</src.rf>
@@ -4462,7 +4475,8 @@
 <form>cherry</form>
 <tag>
 <AM lemma="cherry_;m" src="orig">NNNXX-----A----</AM>
-<AM lemma="cherry" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="cherry" src="manual">NNNXX-----A----</AM>
+<AM lemma="cherry_,i_^(^DS**sherry)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p18s3w8">

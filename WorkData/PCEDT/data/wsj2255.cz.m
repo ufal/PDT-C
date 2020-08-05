@@ -339,12 +339,12 @@
 <form>Ca</form>
 <tag>
 <AM lemma="Ca-1_;G_^(řeka)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Ca-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="Ca-88" src="auto" selected="1">BNXXX-----A----</AM>
 <AM lemma="ca-5_:B_^(cirka,_circa,_asi,_přibližně)" src="auto">TT-------------</AM>
 <AM lemma="ca-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="cirka_:B" src="auto">TT------------8</AM>
 <AM lemma="Ca-2" src="manual">NNNXX-----A----</AM>
-<AM lemma="Ca-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Ca-33_^(označení_pomocí_písmen)" src="manual">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2255-001-p1s0W28-Ta">
@@ -1417,7 +1417,8 @@
 <form>Caa</form>
 <tag>
 <AM lemma="Caa" src="auto">X@-------------</AM>
-<AM lemma="Caa-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Caa-33_^(označení_pomocí_písmen)" src="manual">NNNXX-----A----</AM>
+<AM lemma="Caa-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2255-001-p1s4W18-Ta">
@@ -1635,7 +1636,8 @@
 <tag>
 <AM lemma="ba" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="bavit" src="auto">VB-S---3P-AAI-5</AM>
-<AM lemma="Ba-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Ba-33_^(označení_pomocí_písmen)" src="manual">NNNXX-----A----</AM>
+<AM lemma="Ba-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2255-001-p1s5W14-Ta">
@@ -1728,11 +1730,11 @@
 <form>Ca</form>
 <tag>
 <AM lemma="Ca-1_;G_^(řeka)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Ca-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="Ca-88" src="auto" selected="1">BNXXX-----A----</AM>
 <AM lemma="ca-5_:B_^(cirka,_circa,_asi,_přibližně)" src="auto">TT-------------</AM>
 <AM lemma="ca-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="cirka_:B" src="auto">TT------------8</AM>
-<AM lemma="Ca-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Ca-33_^(označení_pomocí_písmen)" src="manual">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2255-001-p1s5W22-Ta">
@@ -1755,7 +1757,8 @@
 <form>Caa</form>
 <tag>
 <AM lemma="Caa" src="auto">X@-------------</AM>
-<AM lemma="Caa-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Caa-33_^(označení_pomocí_písmen)" src="manual">NNNXX-----A----</AM>
+<AM lemma="Caa-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2255-001-p1s5W24-Ta">

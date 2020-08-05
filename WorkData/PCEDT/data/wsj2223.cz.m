@@ -2102,7 +2102,10 @@
 <LM>w#w-wsj2223-001-p1s5W2</LM>
 </w.rf>
 <form>Pfizer</form>
-<tag lemma="Pfizer_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pfizer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pfizer-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2223-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

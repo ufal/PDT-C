@@ -113,7 +113,8 @@
 <form>C</form>
 <tag>
 <AM lemma="C-3`100" src="orig">C}-------------</AM>
-<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Celsius" src="manual">NNMXX-----A----</AM>
+<AM lemma="Celsius_;Y" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94104-123-p1s1w13">
@@ -200,7 +201,8 @@
 <form>C</form>
 <tag>
 <AM lemma="C-3`100" src="orig">C}-------------</AM>
-<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Celsius" src="manual">NNMXX-----A----</AM>
+<AM lemma="Celsius_;Y" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94104-123-p1s1w23">
@@ -305,7 +307,8 @@
 <form>C</form>
 <tag>
 <AM lemma="C-33" src="orig">Q3-------------</AM>
-<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Celsius" src="manual">NNMXX-----A----</AM>
+<AM lemma="Celsius_;Y" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94104-123-p1s2w9">

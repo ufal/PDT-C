@@ -207,7 +207,10 @@
 <LM>w#w-cmpr9417-037-p4s1w12</LM>
 </w.rf>
 <form>čtvrtě</form>
-<tag lemma="čtvrt-2_^(čtvrtina)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="orig">NNFP1-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFP1----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-037-p4s1w13">
 <src.rf>manual</src.rf>

@@ -1657,7 +1657,10 @@
 <LM>w#w-ln94202-112-p4s1w31</LM>
 </w.rf>
 <form>Motorsport</form>
-<tag lemma="motorsport_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="motorsport_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="motorsport" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-112-p4s1w32">
 <src.rf>manual</src.rf>

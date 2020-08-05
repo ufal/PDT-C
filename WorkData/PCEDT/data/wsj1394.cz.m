@@ -1672,7 +1672,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s6W4-Ta">
@@ -2250,7 +2251,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s8W10-Ta">
@@ -2680,7 +2682,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s10W8-Ta">
@@ -3138,7 +3141,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s11W12-Ta">
@@ -3476,7 +3480,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s12W6-Ta">
@@ -4007,7 +4012,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s13W28-Ta">
@@ -4666,7 +4672,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s16W21-Ta">
@@ -5522,7 +5529,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s19W30-Ta">
@@ -6265,7 +6273,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s24W5-Ta">
@@ -8879,7 +8888,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s37W6-Ta">
@@ -9952,7 +9962,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s41W7-Ta">
@@ -11342,7 +11353,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s45W9-Ta">
@@ -11588,7 +11600,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s46W8-Ta">
@@ -11945,7 +11958,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s47W3-Ta">
@@ -12787,7 +12801,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s50W9-Ta">
@@ -13067,7 +13082,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s51W10-Ta">
@@ -13808,7 +13824,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s53W36-Ta">
@@ -13865,7 +13882,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s54W5-Ta">
@@ -14232,7 +14250,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s55W16-Ta">
@@ -15809,7 +15828,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s60W11-Ta">
@@ -16200,7 +16220,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s62W9-Ta">
@@ -16931,7 +16952,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s64W13-Ta">
@@ -18214,7 +18236,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s70W8-Ta">
@@ -18627,7 +18650,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s72W7-Ta">
@@ -20355,7 +20379,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s77W32-Ta">
@@ -20473,7 +20498,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s78W8-Ta">
@@ -22246,7 +22272,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s87W17-Ta">
@@ -23075,7 +23102,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s89W37-Ta">
@@ -23994,7 +24022,8 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Federal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Federal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Federal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s93W11-Ta">

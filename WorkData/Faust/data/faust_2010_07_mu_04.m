@@ -6008,7 +6008,9 @@
 <AM lemma="CD-2_:B_,t_^(Cash_Deposit)">NNIXX-----A---8</AM>
 <AM lemma="kadmium_:B_;U_,t">NNNXX-----A---8</AM>
 <AM lemma="CD-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">BNNXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="manual">BNNXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compactisc)" src="manual">BNNXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compactisc)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_04-SCzechM-p0406-s1-w7">

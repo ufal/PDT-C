@@ -339,7 +339,8 @@
 <form>Special</form>
 <tag>
 <AM lemma="special" src="orig">NNIS1-----A----</AM>
-<AM lemma="Special-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Special-77" src="manual">F%-------------</AM>
+<AM lemma="Special_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-007-p4s1w28">
@@ -534,7 +535,10 @@
 <LM>w#w-mf920901-007-p5s2w3</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Super-1_;m_^(druh_benzínu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Super-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-007-p5s2w4">
 <src.rf>manual</src.rf>
@@ -600,7 +604,8 @@
 <form>Special</form>
 <tag>
 <AM lemma="special" src="orig">NNIS1-----A----</AM>
-<AM lemma="Special-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Special-77" src="manual">F%-------------</AM>
+<AM lemma="Special_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-007-p5s2w12">
@@ -723,7 +728,10 @@
 <LM>w#w-mf920901-007-p5s3w14</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Super-1_;m_^(druh_benzínu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Super-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-007-p5s3w15">
 <src.rf>manual</src.rf>
@@ -749,7 +757,8 @@
 <form>Special</form>
 <tag>
 <AM lemma="special" src="orig">NNIS1-----A----</AM>
-<AM lemma="Special-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Special-77" src="manual">F%-------------</AM>
+<AM lemma="Special_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-007-p5s3w18">
@@ -986,7 +995,10 @@
 <LM>w#w-mf920901-007-p7s1w13</LM>
 </w.rf>
 <form>Benzinolem</form>
-<tag lemma="benzinol" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="benzinol" src="orig">NNIS7-----A----</AM>
+<AM lemma="Benzinol_;m" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-007-p7s1w14">
 <src.rf>manual</src.rf>

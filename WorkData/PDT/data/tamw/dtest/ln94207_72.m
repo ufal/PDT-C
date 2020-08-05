@@ -35,7 +35,10 @@
 <LM>w#w-ln94207-72-p1s1w3</LM>
 </w.rf>
 <form>médyjí</form>
-<tag lemma="médyjum_,h" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="médyjum_,h" src="orig">NNNP2-----A----</AM>
+<AM lemma="médyjum_,i_^(^DS**médium)" src="manual" selected="1">NNNP2-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94207-72-p2s1A">
@@ -2103,11 +2106,11 @@
 </w.rf>
 <form>Hlasateli</form>
 <tag>
-<AM lemma="Hlasatel_;m" src="orig" selected="1">NNMS6-----A----</AM>
+<AM lemma="Hlasatel_;m" src="orig">NNMS6-----A----</AM>
 <AM lemma="hlasatel" src="auto">NNMP7-----A----</AM>
 <AM lemma="hlasatel" src="auto">NNMS3-----A----</AM>
 <AM lemma="hlasatel" src="auto">NNMS5-----A----</AM>
-<AM lemma="hlasatel" src="auto" recommended="1">NNMS6-----A----</AM>
+<AM lemma="hlasatel" src="auto" recommended="1" selected="1">NNMS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-72-p4s5w7">
@@ -4048,10 +4051,11 @@
 </w.rf>
 <form>Hlasatele</form>
 <tag>
-<AM lemma="Hlasatel_;m" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Hlasatel_;m" src="orig">NNMS2-----A----</AM>
 <AM lemma="hlasatel" src="auto">NNMP4-----A----</AM>
 <AM lemma="hlasatel" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="hlasatel" src="auto">NNMS4-----A----</AM>
+<AM lemma="hlasatel" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-72-p5s3w3">
@@ -5065,10 +5069,11 @@
 </w.rf>
 <form>Hlasatele</form>
 <tag>
-<AM lemma="Hlasatel_;m" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Hlasatel_;m" src="orig">NNMS2-----A----</AM>
 <AM lemma="hlasatel" src="auto">NNMP4-----A----</AM>
 <AM lemma="hlasatel" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="hlasatel" src="auto">NNMS4-----A----</AM>
+<AM lemma="hlasatel" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-72-p6s4w4">
@@ -5668,9 +5673,9 @@
 </w.rf>
 <form>Hlasatele</form>
 <tag>
-<AM lemma="Hlasatel_;m" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Hlasatel_;m" src="orig">NNMS2-----A----</AM>
 <AM lemma="hlasatel" src="auto">NNMP4-----A----</AM>
-<AM lemma="hlasatel" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="hlasatel" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="hlasatel" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>

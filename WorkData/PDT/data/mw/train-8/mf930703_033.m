@@ -43,7 +43,10 @@
 <LM>w#w-mf930703-033-p1s1w4</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Super-1_;m_^(druh_benzínu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Super-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-033-p1s1w5">
 <src.rf>manual</src.rf>
@@ -213,7 +216,10 @@
 <LM>w#w-mf930703-033-p2s1w18</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Super-1_;m_^(druh_benzínu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Super-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-033-p2s1w19">
 <src.rf>manual</src.rf>
@@ -431,7 +437,10 @@
 <LM>w#w-mf930703-033-p2s2w26</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Super-1_;m_^(druh_benzínu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Super-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-033-p2s2w27">
 <src.rf>manual</src.rf>
@@ -505,7 +514,10 @@
 <LM>w#w-mf930703-033-p2s3w2</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Super-1_;m_^(druh_benzínu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Super-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-033-p2s3w3">
 <src.rf>manual</src.rf>
@@ -702,7 +714,10 @@
 <LM>w#w-mf930703-033-p2s4w14</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Super-1_;m_^(druh_benzínu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Super-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-033-p2s4w15">
 <src.rf>manual</src.rf>

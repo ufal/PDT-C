@@ -6595,7 +6595,8 @@
 <AM lemma="mobil" src="auto">NNIS4-----A----</AM>
 <AM lemma="mobile-1_^(t-mobile)" src="auto">NNIS1-----A----</AM>
 <AM lemma="mobile-1_^(t-mobile)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Mobil_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mobil_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Mobil-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1226-001-p1s24W5-Ta">

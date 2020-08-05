@@ -1859,7 +1859,8 @@
 <AM lemma="dušička" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="dušička" src="auto">NNFP5-----A----</AM>
 <AM lemma="dušička" src="auto">NNFS2-----A----</AM>
-<AM lemma="Dušičky" src="manual" selected="1">NNFP4-----A----</AM>
+<AM lemma="Dušičky" src="manual">NNFP4-----A----</AM>
+<AM lemma="Dušičky_;m" src="manual" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
 <m id="m149-d1t1090-52">

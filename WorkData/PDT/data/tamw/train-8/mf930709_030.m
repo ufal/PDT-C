@@ -203,7 +203,10 @@
 <LM>w#w-mf930709-030-p2s1Bw8</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Super-1_;m_^(druh_benzínu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Super-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-030-p2s1Bw9">
 <src.rf>manual</src.rf>
