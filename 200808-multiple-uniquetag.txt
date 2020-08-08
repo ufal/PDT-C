@@ -1,0 +1,115 @@
+3 Volkswagenu Volkswagen_;m NNIS2-----A---- -> volkswagen_^(vozidlo) NNIS2-----A---- Volkswagen_;m NNIS2-----A---2 Volkswagen_;m NNIS3-----A---1 Volkswagen_;m NNIS6-----A---1 volkswagen_^(vozidlo) NNIS3-----A---- volkswagen_^(vozidlo) NNIS6-----A----
+4 Ol Ol-88 BNXXX-----A---- -> ol-99_;Y BNXXX-----A---- Ola_;G_;Y_^(i_Joškar-Ola) NNFP2-----A---- ol-77 F%------------- olympijský AAXXX----1A---b
+4 P Post-1_^(Post_Office,_pošta) AAXXX----1A---b -> popisný AAXXX----1A---b P-33 Q3------------- p-33 Q3------------- p-77 F%------------- pod-1 RR--4---------b pod-1 RR--7---------b podnik NNIXX-----A---b
+5 N N-77 F%------------- -> n-77 F%------------- N-1_;U_^(zn._dusíku) BNXXX-----A---- N-33 Q3------------- n-1 S2--------A---- n-33 Q3------------- nad-1 RR--7---------b náš_^(přivlast.) PSZS2-P1------b náš_^(přivlast.) PSZS7-P1------b
+5 KRÁLOVÉ Králové_;G_^(Dvůr_Králové) NNFS2-----A---- -> Králová_;Y NNFS2-----A---- Král_;Y NNMP1-----A---- Král_;Y NNMP5-----A---- Králová_;Y NNFP1-----A---- Králová_;Y NNFP4-----A---- Králová_;Y NNFP5-----A---- Králová_;Y NNFS3-----A---- Králová_;Y NNFS6-----A---- Králové_;G_^(Dvůr_Králové) NNIS1-----A---- Králové_;G_^(Dvůr_Králové) NNIXX-----A---- král NNMP1-----A---- král NNMP5-----A----
+1 Aristidovi Aristide_;Y NNMS3-----A---- -> Aristid_;Y NNMS3-----A---- Aristid_;Y NNMS6-----A---- Aristide_;Y NNMS3-----A---1 Aristide_;Y NNMS6-----A---1 Aristidův_;Y_^(*2) AUMP1M--------- Aristidův_;Y_^(*2) AUMP5M---------
+1 ad ad-88 BNXXX-----A---- -> ad-99_;Y BNXXX-----A---- ad-1_^(a_další) BAXXX----1A---- ad-77 F%-------------
+1 Any Ana-2_;G NNFS2-----A---- -> Ana_;Y NNFS2-----A---- Ana_;Y NNFP1-----A---- Ana_;Y NNFP4-----A---- Ana_;Y NNFP5-----A---- Anya_;Y NNFP2-----A---- an-3 SNIP1-----A---- an-3 SNIP4-----A---- an-3 SNIP5-----A---- an-3 SNIP7-----A---- anus NNIP1-----A---- anus NNIP4-----A---- anus NNIP5-----A----  - hned to první ad, anus NNIP7-----A---- any-77 F%-------------
+1 Antonov Antonov-2_;G NNIS1-----A---- -> antonov_^(letadlo_Antonov) NNIS1-----A---- Antonov_;Y NNMS1-----A---- antonov_^(letadlo_Antonov) NNIS4-----A----
+1 Apollo Apollo-2_;m NNXXX-----A---- -> apollo NNXXX-----A---- Apollo-1_;m NNNS1-----A---- Apollo-1_;m NNNS4-----A---- Apollo-1_;m NNNS5-----A---- Apollo-2_;Y NNMS1-----A---- Apollo-2_;Y NNMS5-----A----
+1 ART Art-2_;m AAXXX----1A---- -> art-2 AAXXX----1A---- Art-1_;Y NNMS1-----A---- Art-77 F%------------- art-1 NNIS1-----A---- art-1 NNIS4-----A---- art-3 S2--------A---- art-77 F%-------------
+2 Athena Athena-2_;m NNFS1-----A---- -> Athena_;Y_,s_^(^DD**Athéna) NNFS1-----A---- Athena-77 F%-------------
+1 Babba Babb_;Y NNMS4-----A---- -> Babbo_;Y NNMS4-----A---- Babbo_;Y NNMS2-----A----
+6 Royal Royal-2_;m NNIS1-----A---- -> royal NNIS1-----A---- Royal-77 F%------------- royal NNIS4-----A----
+5 Sterling Sterling-2_;m NNIS1-----A---- -> sterling_,s_^(^DD**šterlink) NNIS1-----A---- Sterling_;Y NNMS1-----A---- Sterling-77 F%------------- sterling_,s_^(^DD**šterlink) NNIS4-----A----
+2 B Banský AAXXX----1A---b -> bodový AAXXX----1A---b B-33 Q3------------- b-33 Q3------------- bod NNIXX-----A---b
+1 Bělehrad Bělehrad_;G_;m NNIS4-----A---- -> Bělehrad_;G NNIS4-----A---- Bělehrad_;G NNIS1-----A----
+2 Bougainville Bougainville-1_;G_;m NNNXX-----A---- -> Bougainville-3_;G NNNXX-----A---- Bougainville-1_;G NNIS1-----A---- Bougainville-1_;G NNIS4-----A---- Bougainville-1_;G NNIXX-----A---- Bougainville-2_;Y NNMS1-----A---- Bougainville-2_;Y NNMS5-----A----
+1 Campbellu Campbell-2_;G_;m NNIS6-----A---- -> Campbell-2_;m NNIS6-----A---- Campbell-2_;m NNIS2-----A---- Campbell-2_;m NNIS3-----A---- Campbell_;Y NNMS3-----A---1 Campbell_;Y NNMS6-----A---1
+2 Donaukraft Donaukraft_;Y NNIS1-----A---- -> Donaukraft_;G NNIS1-----A---- Donaukraft_;G NNIS4-----A----
+1 Blockbuster Blockbuster_;m NNIS1-----A---- -> blockbuster_,l_^(filmový_trhák) NNIS1-----A---- Blockbuster-77 F%------------- blockbuster_,l_^(filmový_trhák) NNIS4-----A----
+2 Bon Bon_;m NNIS1-----A---- -> bon NNIS1-----A---- Bon_;Y NNMS1-----A---- bon NNIS4-----A---- bona NNFP2-----A----
+1 Boss Boss_;Y NNMS1-----A---- -> boss NNMS1-----A---- Boss-77 F%-------------
+1 Bundeswehru Bundeswehr NNIS2-----A---- -> bundeswehr NNIS2-----A---- bundeswehr NNIS3-----A---- bundeswehr NNIS6-----A----
+1 Capovu Capův-2_;Y_^(*4-2) AUFS4M--------- -> capův-2_^(*4-2) AUFS4M--------- capův-2_^(*4-2) AUIS3M--------- capův-2_^(*4-2) AUIS6M--------1 capův-2_^(*4-2) AUMS3M--------- capův-2_^(*4-2) AUMS6M--------1 capův-2_^(*4-2) AUNS3M--------- capův-2_^(*4-2) AUNS6M--------1
+1 Court Court_;m NNIS1-----A---- -> court-1 NNIS1-----A---- Court-77 F%------------- court-1 NNIS4-----A---- court-77 F%-------------
+1 Džihád Džihád_;m NNIS1-----A---- -> džihád NNIS1-----A---- džihád NNIS4-----A----
+1 Blackjack Blackjack_;G NNIS1-----A---- -> blackjack_^(karetní_hra) NNIS1-----A---- blackjack_^(karetní_hra) NNIS4-----A----
+2 Chodovská chodovský NNFS1-----A---- -> Chodovská_;G NNFS1-----A---- Chodovská_;G NNFS5-----A---- chodovský AAFS1----1A---- chodovský AAFS5----1A---- chodovský AANP1----1A---- chodovský AANP4----1A---- chodovský AANP5----1A----
+1 Devon Devon-2_;G NNIS1-----A---- -> devon NNIS1-----A---- Devon_;Y NNMS1-----A---- devon NNIS4-----A----
+1 Columbovi Columbus_;Y NNMS6-----A---- -> Columbo_;Y NNMS6-----A---- Columbo_;Y NNMS3-----A---- Columbus-1_;Y NNMS3-----A---2 Columbus-1_;Y NNMS6-----A---2 Columbův_;Y_^(*2o) AUMP1M--------- Columbův_;Y_^(*2o) AUMP5M---------
+1 Doubravníku Doubravník-2_;G NNIS2-----A---- -> doubravník_^(rostlina) NNIS2-----A---- Doubravník-2_;G NNIS2-----A---1 Doubravník-2_;G NNIS3-----A---- Doubravník-2_;G NNIS5-----A---- Doubravník-2_;G NNIS6-----A---- Doubravník_;Y NNMS3-----A---1 Doubravník_;Y NNMS5-----A---- Doubravník_;Y NNMS6-----A---1 doubravník_^(rostlina) NNIS3-----A---- doubravník_^(rostlina) NNIS5-----A---- doubravník_^(rostlina) NNIS6-----A----
+2 EF EF-33_^(označení_pomocí_písmene) NNNXX-----A---- -> ef_^(název_hlásky_f) NNNXX-----A---- EF-88 BNXXX-----A----
+1 H H-9_;Y NNFXX-----A---b -> hodina NNFXX-----A---b H-33 Q3------------- h-33 Q3------------- hodinový AAXXX----1A---b
+1 K K-0_;Y NNMXX-----A---b -> kůň NNMXX-----A---b K-33 Q3------------- k-1 RR--3---------- k-33 Q3------------- komanditní AAXXX----1A---b
+1 k knocked AAXXX----1A---b -> komanditní AAXXX----1A---b k-1 RR--3---------- k-33 Q3------------- kůň NNMXX-----A---b
+1 Ln LN-1_;m_^(Lidové_noviny,_deník) BNXXX-----A---- -> Ln-88 BNXXX-----A---- ln_^(přirozený_logaritmus) BNIXX-----A----
+1 Elefant Elefant_;m NNMS1-----A---- -> elefant NNMS1-----A---- Elefanta_;G NNFP2-----A----
+1 Grad Grad_;m NNIS1-----A---- -> grad NNIS1-----A---- Grada_;Y_;m NNFP2-----A---- grad NNIS4-----A----
+1 GRAF Graf_;m NNIS1-----A---- -> graf NNIS1-----A---- Graf_;Y NNMS1-----A---- graf NNIS4-----A----
+1 Helikon Helikon_;m NNIS1-----A---- -> helikon NNIS1-----A---- helikon NNIS4-----A----
+1 Holding Holding_;m NNIS1-----A---- -> holding NNIS1-----A---- Holding-77 F%------------- holding NNIS4-----A----
+1 Hubertus Hubertus_;m NNIS1-----A---- -> hubertus NNIS1-----A---- hubertus NNIS4-----A----
+1 Interface Interface_;m NNIS1-----A---- -> interface NNIS1-----A---- interface NNIS4-----A---- interface NNIXX-----A----
+1 Kaťuší Katuša_;m NNFP2-----A---- -> kaťuše_,l_^(^GC**katuše) NNFP2-----A---- kaťuše_,l_^(^GC**katuše) NNFS7-----A----
+1 Korzo Korzo_;m NNNS1-----A---- -> korzo NNNS1-----A---- korzo NNNS4-----A---- korzo NNNS5-----A----
+2 Esíčku Esíčko_;G NNNS6-----A---- -> esíčko NNNS6-----A---- Esíčko_;Y NNMS3-----A---1 Esíčko_;Y NNMS6-----A---1 esíčko NNNS3-----A----
+1 Kafr Kafr-2_;G NNIS1-----A---- -> kafr NNIS1-----A---- Kafr_;E NNMS1-----A---- kafr NNIS4-----A----
+1 Favorita Favorit_;m_^(vozidlo) NNMS4-----A---- -> favorit-2 NNMS4-----A---- Favorit_;m_^(vozidlo) NNIS2-----A---1 Favorit_;m_^(vozidlo) NNIS4-----A---1 favorit-1_^(vozidlo) NNIS2-----A---1 favorit-1_^(vozidlo) NNIS4-----A---1 favorit-2 NNMS2-----A----
+1 Fayovi Fay-1_;Y NNMS3-----A---- -> Faye_;Y_^(muž) NNMS3-----A---- Fay-1_;Y NNMS3-----A---1 Fay-1_;Y NNMS6-----A---1 Faye_;Y_^(muž) NNMS6-----A---- Fayův_;Y_^(*2-1)_(*2e) AUMP1M--------- Fayův_;Y_^(*2-1)_(*2e) AUMP5M---------
+2 IT IT_^(informační_technologie) NNFXX-----A---b -> Itálie_;G NNFXX-----A---b IT_^(informačníechnologie) BNFXX-----A---- It-77 F%------------- it-77 F%-------------
+1 Jang Jang-1_;Y NNMXX-----A---- -> jang-2 NNMXX-----A---- Jang-1_;Y NNMS1-----A---- Jang-2 S2--------A---- jang-1 NNIS1-----A---- jang-1 NNIS4-----A---- jang-2 NNMS1-----A----
+1 Jaru Jar-2_;G_;m_^(na_mytí_nádobí_Babí_Jar) NNNS6-----A---- -> jaro NNNS6-----A---- Jar_;G_;m NNIS2-----A---- Jar_;G_;m NNIS3-----A---- Jar_;G_;m NNIS6-----A---- Jara_;Y NNMS4-----A---- jar_^(na_mytí_nádobí) NNIS2-----A---- jar_^(na_mytí_nádobí) NNIS3-----A---- jar_^(na_mytí_nádobí) NNIS6-----A---- jaro NNNS3-----A----
+1 Klepači klepač-2 NNMP1-----A---- -> Klepač_;Y NNMP1-----A---- Klepač_;Y NNMP5-----A---- Klepač_;Y NNMP7-----A---- Klepač_;Y NNMS3-----A---- Klepač_;Y NNMS5-----A---- Klepač_;Y NNMS6-----A---- klepač NNIP7-----A---- klepač NNIS3-----A---- klepač NNIS5-----A---- klepač NNIS6-----A----
+1 Macintosh Macintosh-2_;m NNMS1-----A---- -> Macintosh-1_;Y NNMS1-----A---- Macintosh-2_;m NNIS1-----A---- Macintosh-2_;m NNIS4-----A---- Macintosh-77 F%------------- macintosh NNIS1-----A---- macintosh NNIS4-----A----
+1 Mac Mac_;Y NNXXX-----A---- -> Mac-2_;m NNXXX-----A---- Mac-1_;Y_^(MacIntosh) NNMS1-----A---- Mac-77 F%-------------
+1 Levi Levi_;m NNMS1-----A---- -> Levi_;Y NNMS1-----A---- Levi_;Y NNMS5-----A---- Levi_;Y NNMXX-----A----
+1 Loganova Loganův_;G_^(*2) AUNS2M--------- -> Loganův_;Y_^(*2) AUNS2M--------- Loganův_;Y_^(*2) AUFS1M--------- Loganův_;Y_^(*2) AUFS5M--------- Loganův_;Y_^(*2) AUIS2M--------- Loganův_;Y_^(*2) AUMS2M--------- Loganův_;Y_^(*2) AUMS4M--------- Loganův_;Y_^(*2) AUNP1M--------- Loganův_;Y_^(*2) AUNP4M--------- Loganův_;Y_^(*2) AUNP5M--------- Loganov_;Y NNMS2-----A---- Loganov_;Y NNMS4-----A----
+1 Londýn Londýn_;G_;m NNIS4-----A---- -> Londýn_;G NNIS4-----A---- Londýn_;G NNIS1-----A----
+2 Louvre Louvre-2_;m NNIS1-----A---- -> Louvre_;G NNIS1-----A---- Louvre_;G NNIS4-----A---- Louvre_;G NNIXX-----A----
+1 Malý malý-2_,h NNMS1-----A---- -> Malý_;Y NNMS1-----A---- Malá_;Y_^(*1ý) NNFP1-----A---6 Malá_;Y_^(*1ý) NNFP4-----A---6 Malá_;Y_^(*1ý) NNFP5-----A---6 Malá_;Y_^(*1ý) NNFS2-----A---6 Malá_;Y_^(*1ý) NNFS3-----A---6 Malá_;Y_^(*1ý) NNFS6-----A---6 Malý_;Y NNMP1-----A---6 Malý_;Y NNMP4-----A---6 Malý_;Y NNMP5-----A---6 Malý_;Y NNMS5-----A---- malý AAFP1----1A---6 malý AAFP4----1A---6 malý AAFP5----1A---6 malý AAFS2----1A---6 malý AAFS3----1A---6 malý AAFS6----1A---6 malý AAIP1----1A---6 malý AAIP4----1A---6 malý AAIP5----1A---6 malý AAIS1----1A---- malý AAIS4----1A---- malý AAIS5----1A---- malý AAMP1----1A---6 malý AAMP4----1A---6 malý AAMP5----1A---6 malý AAMS1----1A---- malý AAMS5----1A---- malý AANP1----1A---7 malý AANP4----1A---7 malý AANP5----1A---7 malý AANS1----1A---6 malý AANS4----1A---6 malý AANS5----1A---6
+1 GriD GriD_;m NNIS1-----A---- -> grid NNIS1-----A---- Grid-77 F%------------- grid NNIS4-----A----
+1 Helladě Hellada_;Y NNFS6-----A---- -> Hellada_;G_,s_^(^DD**Helada) NNFS6-----A---- Hellada_;G_,s_^(^DD**Helada) NNFS3-----A----
+1 jang jang-2_;Y NNMS1-----A---- -> jang-2 NNMS1-----A---- jang-1 NNIS1-----A---- jang-1 NNIS4-----A---- jang-2 NNMXX-----A----
+1 jangovi jang-2_;Y NNMS3-----A---- -> jang-2 NNMS3-----A---- jang-2 NNMS6-----A---- jangův-2_^(*4-2) AUMP1M--------- jangův-2_^(*4-2) AUMP5M---------
+1 Mauretánii Mauretánie_;G_;m NNFS4-----A---- -> Mauretánie_;G NNFS4-----A---- Mauretánie_;G NNFS3-----A---- Mauretánie_;G NNFS6-----A----
+1 Merz Merz-2_;m NNIS1-----A---- -> merz NNIS1-----A---- Merz_;Y NNMS1-----A---- merz NNIS4-----A----
+1 Nucleus Nucleus_;m NNIS1-----A---- -> nucleus_,s_^(^DD**nukleus) NNIS1-----A---- nucleus_,s_^(^DD**nukleus) NNIS4-----A----
+1 Opera Opera_;m NNFS1-----A---- -> opera NNFS1-----A---- Opera-77 F%-------------
+1 Pantheon Pantheon_;m NNIS1-----A---- -> pantheon_,s_^(^DD**panteon) NNIS1-----A---- pantheon_,s_^(^DD**panteon) NNIS4-----A----
+1 MAZLA Mazel_;Y NNMS2-----A---- -> mazel NNMS2-----A---- Mazel_;Y NNMS2-----A---1 Mazel_;Y NNMS4-----A---1
+1 pater patero NNNP2-----A---- -> patro NNNP2-----A---- pater NNMS1-----A---- patero`5 CjNP2----------
+1 Payna Payne_;Y NNMS2-----A---- -> Payno_;Y NNMS2-----A---- Payne_;Y NNMS2-----A---1 Payne_;Y NNMS4-----A---1 Payno_;Y NNMS4-----A----
+1 Payna Payne_;Y NNMS4-----A---- -> Payno_;Y NNMS4-----A---- Payne_;Y NNMS2-----A---1 Payne_;Y NNMS4-----A---1 Payno_;Y NNMS2-----A----
+1 Mladá mladá_,h NNFS1-----A---- -> Mladá_;Y NNFS1-----A---- Mladá_;Y NNFS5-----A---- Mladé_;G NNNP1-----A---- Mladé_;G NNNP4-----A---- Mladé_;G NNNP5-----A---- mladý AAFS1----1A---- mladý AAFS5----1A---- mladý AANP1----1A---- mladý AANP4----1A---- mladý AANP5----1A----
+1 Nabucco Nabucco NNNS1-----A---- -> Nabucco-2 NNNS1-----A---- Nabucco-1_;Y_;m NNMS1-----A---- Nabucco-1_;Y_;m NNMS5-----A---- Nabucco-2 NNNS4-----A---- Nabucco-2 NNNS5-----A----
+1 Nabuccu Nabucco NNNS6-----A---- -> Nabucco-2 NNNS6-----A---- Nabucco-2 NNNS3-----A----
+2 Novellová Novellová_;Y AAFS1----1A---- -> novellový AAFS1----1A---- novellový AAFS5----1A---- novellový AANP1----1A---- novellový AANP4----1A---- novellový AANP5----1A----
+1 Otty Otto_;Y NNMS2-----A---- -> Otta-1_;Y NNMS2-----A---- Ott_;Y NNMP4-----A---- Ott_;Y NNMP7-----A---- Otta-1_;Y NNMP4-----A---- Otta-1_;Y NNMP7-----A---- Otta-2_;G NNFP1-----A---- Otta-2_;G NNFP4-----A---- Otta-2_;G NNFP5-----A---- Otta-2_;G NNFS2-----A---- Otto_;Y NNMP4-----A---- Otto_;Y NNMP7-----A----
+1 Oves Oves_;Y NNIS1-----A---- -> oves NNIS1-----A---- oves NNIS4-----A----
+2 pražsku pražsko NNNS6-----A---- -> pražsko-2 NNNS6-----A---- pražsko-2 NNNS3-----A----
+1 N N-88 BNXXX-----A---- -> N-1_;U_^(zn._dusíku) BNXXX-----A---- N-33 Q3------------- n-1 S2--------A---- n-33 Q3------------- n-77 F%------------- nad-1 RR--7---------b náš_^(přivlast.) PSZS2-P1------b náš_^(přivlast.) PSZS7-P1------b
+1 O o-88 BNXXX-----A---- -> O-2_^(kyslík) BNXXX-----A---- O-33 Q3------------- O-77 F%------------- o-1 RR--4---------- o-1 RR--6---------- o-33 Q3------------- o-77 F%------------- obchodní AAFXX----1A---a omezený AANS7----1A---b
+1 Nichola Nichole_;Y NNMS2-----A---- -> Nichol_;Y NNMS2-----A---- Nichol_;Y NNMS4-----A----
+1 Prior Prior_;Y_;m NNIS1-----A---- -> Prior_;m NNIS1-----A---- Prior_;m NNIS4-----A---- prius NNNP2-----A---- prior NNMS1-----A----
+2 PS PS-2_;m_^(poštovní_schránka) NNFXX-----A---b -> pikosekunda NNFXX-----A---b PS-88 BNXXX-----A---- ps-99_;Y BNXXX-----A----
+1 SB Sb-1_^(Sbírka,_např._zákonů) BNXXX-----A---- -> SB-88 BNXXX-----A---- Sb_;U_^(chem._prvek_antimon) BNNXX-----A---- sbírka NNFXX-----A---b
+1 Pumová Pumová_;Y AAFS1----1A---- -> pumový AAFS1----1A---- pumový AAFS5----1A---- pumový AANP1----1A---- pumový AANP4----1A---- pumový AANP5----1A----
+1 ReD ReD-88 BNXXX-----A---- -> red-99_;Y BNXXX-----A---- ReD_;m_^(revue) NNIS1-----A---- ReD_;m_^(revue) NNIS4-----A---- Red-77 F%------------- Red_;Y NNMS1-----A---- Reda_;G NNFP2-----A---- red-77 F%------------- redakce NNFXX-----A---b
+2 Requiem Requiem_,m NNNXX-----A---- -> requiem_,s_^(^DD**rekviem) NNNXX-----A---- Requiem-77 F%-------------
+2 Spartak spartak-1_;m_^(automobil) NNIS1-----A---- -> spartak_^(automobil_zn._Spartak) NNIS1-----A---- Spartak_;Y NNMS1-----A---- spartak_^(automobil_zn._Spartak) NNIS4-----A----
+1 Strauss Strauss_;m NNMS1-----A---- -> Strauss_;Y NNMS1-----A---- Strauss-77 F%-------------
+1 Stacker Stacker_;m NNIS1-----A---- -> stacker NNIS1-----A---- stacker NNIS4-----A---
+1 Telson Telson_;m NNIS1-----A---- -> telson_,s_^(^DD**telzon) NNIS1-----A---- Telson-77 F%------------- telson_,s_^(^DD**telzon) NNIS4-----A----
+1 Tempo Tempo_;m NNNS1-----A---- -> tempo NNNS1-----A---- tempo NNNS4-----A---- tempo NNNS5-----A----
+1 Thema Thema_;m NNNS1-----A---- -> thema_,a_^(^DD**téma) NNNS1-----A---- thema_,a_^(^DD**téma) NNNS4-----A---- thema_,a_^(^DD**téma) NNNS5-----A----
+1 Vertexu Vertex-2_;m NNIS6-----A---- -> vertex NNIS6-----A---- vertex NNIS2-----A---- vertex NNIS3-----A----
+2 Světozor Světozor_;Y_;m NNIS1-----A---- -> Světozor_;m NNIS1-----A---- Světozor_;m NNIS4-----A----
+1 Terese Teresa-2_;G NNFS6-----A---- -> Teresa_;Y NNFS6-----A---- Teresa_;Y NNFS3-----A----
+1 Valery Valery_;Y NNFS2-----A---- -> Valera-2_;G NNFS2-----A---- Valera-2_;G NNFP1-----A---- Valera-2_;G NNFP4-----A---- Valera-2_;G NNFP5-----A---- Valera-1_;Y NNMP4-----A---- Valera-1_;Y NNMP7-----A---- Valera-1_;Y NNMS2-----A----
+1 Vltavy Vltava_;G_;m NNFS2-----A---- -> Vltava_;G NNFS2-----A---- Vltava_;G NNFP1-----A---- Vltava_;G NNFP4-----A---- Vltava_;G NNFP5-----A----
+1 Vltavě Vltava_;G_;m NNFS6-----A---- -> Vltava_;G NNFS6-----A---- Vltava_;G NNFS3-----A----
+1 Washburn Washburn-2_;Y NNIS1-----A---- -> Washburn_;G NNIS1-----A---- Washburn_;G NNIS4-----A----
+1 Svitu Svit_;m NNIS6-----A---1 -> svit NNIS6-----A---1 Svit_;G_;m NNIS2-----A---- Svit_;G_;m NNIS3-----A---- Svit_;G_;m NNIS6-----A---- svit NNIS2-----A---- svit NNIS3-----A---- svita NNFS4-----A----
+1 Viktorie Viktorie_;Y NNFS1-----A---- -> viktorie NNFS1-----A---- Viktoria_;Y_;m NNFP1-----A---- Viktoria_;Y_;m NNFP4-----A---- Viktoria_;Y_;m NNFP5-----A---- Viktoria_;Y_;m NNFS1-----A---1 Viktoria_;Y_;m NNFS2-----A---- Viktoria_;Y_;m NNFS5-----A---- viktorie NNFP1-----A---- viktorie NNFP4-----A---- viktorie NNFP5-----A---- viktorie NNFS2-----A---- viktorie NNFS5-----A----
+1 Volkswagenu Volkswagen_;m NNIS6-----A---- -> volkswagen_^(vozidlo) NNIS6-----A---- Volkswagen_;m NNIS2-----A---2 Volkswagen_;m NNIS3-----A---1 Volkswagen_;m NNIS6-----A---1 volkswagen_^(vozidlo) NNIS2-----A---- volkswagen_^(vozidlo) NNIS3-----A----
+1 Tab Tab-88 BNXXX-----A---- -> tab-99_;Y BNXXX-----A---- Tab_;G NNIS1-----A---- Tab_;G NNIS4-----A---- Taba_;G NNFP2-----A---- tabulka NNFXX-----A---b
+1 Vilja Vilij_;Y NNMS4-----A---- -> Viljo_;Y NNMS4-----A---- Vilja_;Y_;m NNFS1-----A---- Viljo_;Y NNMS2-----A----
+1 Vyšní Vyšní_;G AANS1----1A---- -> vyšní AANS1----1A---- vyšní AAFP1----1A---- vyšní AAFP4----1A---- vyšní AAFP5----1A---- vyšní AAFS1----1A---- vyšní AAFS2----1A---- vyšní AAFS3----1A---- vyšní AAFS4----1A---- vyšní AAFS5----1A---- vyšní AAFS6----1A---- vyšní AAFS7----1A---- vyšní AAIP1----1A---- vyšní AAIP4----1A---- vyšní AAIP5----1A---- vyšní AAIS1----1A---- vyšní AAIS4----1A---- vyšní AAIS5----1A---- vyšní AAMP1----1A---- vyšní AAMP4----1A---- vyšní AAMP5----1A---- vyšní AAMS1----1A---- vyšní AAMS5----1A---- vyšní AANP1----1A---- vyšní AANP4----1A---- vyšní AANP5----1A---- vyšní AANS4----1A---- vyšní AANS5----1A----
+1 Vyšné Vyšný_;G AAFP1----1A---- -> vyšný AAFP1----1A---- Vyšné_;G NNNP1-----A---1 Vyšné_;G NNNP4-----A---1 Vyšné_;G NNNP5-----A---1 Vyšné_;G NNNS1-----A---- Vyšné_;G NNNS4-----A---- Vyšné_;G NNNS5-----A---- vyšný AAFP4----1A---- vyšný AAFP5----1A---- vyšný AAFS2----1A---- vyšný AAFS3----1A---- vyšný AAFS6----1A---- vyšný AAIP1----1A---- vyšný AAIP4----1A---- vyšný AAIP5----1A---- vyšný AAMP4----1A---- vyšný AANP1----1A---6 vyšný AANP4----1A---6 vyšný AANP5----1A---6 vyšný AANS1----1A---- vyšný AANS4----1A---- vyšný AANS5----1A----
+2 Vyšný Vyšný_;G AAIS1----1A---- -> vyšný AAIS1----1A---- Vyšné_;G NNNP1-----A---6 Vyšné_;G NNNP4-----A---6 Vyšné_;G NNNP5-----A---6 Vyšné_;G NNNS1-----A---6 Vyšné_;G NNNS4-----A---6 Vyšné_;G NNNS5-----A---6 vyšný AAFP1----1A---6 vyšný AAFP4----1A---6 vyšný AAFP5----1A---6 vyšný AAFS2----1A---6 vyšný AAFS3----1A---6 vyšný AAFS6----1A---6 vyšný AAIP1----1A---6 vyšný AAIP4----1A---6 vyšný AAIP5----1A---6 vyšný AAIS4----1A---- vyšný AAIS5----1A---- vyšný AAMP1----1A---6 vyšný AAMP4----1A---6 vyšný AAMP5----1A---6 vyšný AAMS1----1A---- vyšný AAMS5----1A---- vyšný AANP1----1A---7 vyšný AANP4----1A---7 vyšný AANP5----1A---7 vyšný AANS1----1A---6 vyšný AANS4----1A---6 vyšný AANS5----1A---6
+2 Vyšné Vyšný_;G AANS1----1A---- -> vyšný AANS1----1A---- Vyšné_;G NNNP1-----A---1 Vyšné_;G NNNP4-----A---1 Vyšné_;G NNNP5-----A---1 Vyšné_;G NNNS1-----A---- Vyšné_;G NNNS4-----A---- Vyšné_;G NNNS5-----A---- vyšný AAFP1----1A---- vyšný AAFP4----1A---- vyšný AAFP5----1A---- vyšný AAFS2----1A---- vyšný AAFS3----1A---- vyšný AAFS6----1A---- vyšný AAIP1----1A---- vyšný AAIP4----1A---- vyšný AAIP5----1A---- vyšný AAMP4----1A---- vyšný AANP1----1A---6 vyšný AANP4----1A---6 vyšný AANP5----1A---6 vyšný AANS4----1A---- vyšný AANS5----1A----
+2 Vysoké Vysoký-2_;G AANS1----1A---- -> vysoký AANS1----1A---- Vysoká_;G_;Y NNFP1-----A---- Vysoká_;G_;Y NNFP4-----A---- Vysoká_;G_;Y NNFP5-----A---- Vysoká_;G_;Y NNFS2-----A---- Vysoká_;G_;Y NNFS3-----A---- Vysoká_;G_;Y NNFS6-----A---- Vysoké_;G NNNP1-----A---1 Vysoké_;G NNNP4-----A---1 Vysoké_;G NNNP5-----A---1 Vysoké_;G NNNS1-----A---- Vysoké_;G NNNS4-----A---- Vysoké_;G NNNS5-----A---- Vysoký_;Y NNMP4-----A---- vysoký AAFP1----1A---- vysoký AAFP4----1A---- vysoký AAFP5----1A---- vysoký AAFS2----1A---- vysoký AAFS3----1A---- vysoký AAFS6----1A---- vysoký AAIP1----1A---- vysoký AAIP4----1A---- vysoký AAIP5----1A---- vysoký AAMP4----1A---- vysoký AANP1----1A---6 vysoký AANP4----1A---6 vysoký AANP5----1A---6 vysoký AANS4----1A---- vysoký AANS5----1A---- vysoká_^(zvěř) NNFP1-----A---- vysoká_^(zvěř) NNFP4-----A---- vysoká_^(zvěř) NNFP5-----A---- vysoká_^(zvěř) NNFS2-----A---- vysoká_^(zvěř) NNFS3-----A---- vysoká_^(zvěř) NNFS6-----A----
+1 tonga tong_;Y NNMS2-----A---- -> tong NNMS2-----A---- tonga NNFS1-----A---- tong NNMS4-----A----
+1 Veselého Veselý_;Y AAMS2----1A---- -> veselý AAMS2----1A---- Veselé_;G NNNS2-----A---- Veselý_;Y NNMS2-----A---- Veselý_;Y NNMS4-----A---- veselý AAIS2----1A---- veselý AAMS4----1A---- veselý AANS2----1A----
