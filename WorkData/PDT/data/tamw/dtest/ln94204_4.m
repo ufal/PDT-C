@@ -972,7 +972,10 @@
 <LM>w#w-ln94204-4-p3s1w69</LM>
 </w.rf>
 <form>Vysoké</form>
-<tag lemma="Vysoký-2_;G" src="orig" selected="1">AANS1----1A----</tag>
+<tag>
+<AM lemma="Vysoký-2_;G" src="orig">AANS1----1A----</AM>
+<AM lemma="vysoký" src="manual" selected="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-4-p3s1w70">
 <src.rf>manual</src.rf>

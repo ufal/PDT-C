@@ -3628,7 +3628,10 @@
 <LM>w#w-lnd92253-080-p18s1w9</LM>
 </w.rf>
 <form>Donaukraft</form>
-<tag lemma="Donaukraft_;Y" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Donaukraft_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Donaukraft_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-080-p18s1w10">
 <src.rf>manual</src.rf>

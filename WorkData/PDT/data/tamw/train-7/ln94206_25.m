@@ -1983,10 +1983,11 @@
 </w.rf>
 <form>Bon</form>
 <tag>
-<AM lemma="Bon_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bon_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="bon" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bon" src="auto">NNIS4-----A----</AM>
 <AM lemma="bona" src="auto">NNFP2-----A----</AM>
+<AM lemma="Bon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-25-p6s3w25">

@@ -318,9 +318,12 @@
 </w.rf>
 <form>Mac</form>
 <tag>
-<AM lemma="Mac_;Y" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Mac_;Y" src="orig">NNXXX-----A----</AM>
 <AM lemma="Mac_;Y_^(MacIntosh)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Mac-77" src="manual">F%-------------</AM>
+<AM lemma="Mac_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Mac_;Y_^(MacIntosh)" src="manual">NNMXX-----A----</AM>
+<AM lemma="Mac_;Y_^(MacIntosh)" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-98-p2s2w5">

@@ -122,7 +122,10 @@
 <LM>w#w-lnd92252-080-p3s1w2</LM>
 </w.rf>
 <form>KRÁLOVÉ</form>
-<tag lemma="Králové_;G_^(Dvůr_Králové)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="orig">NNFS2-----A----</AM>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-080-p3s1w3">
 <src.rf>manual</src.rf>
@@ -949,7 +952,10 @@
 <LM>w#w-lnd92252-080-p4s2w1</LM>
 </w.rf>
 <form>Králové</form>
-<tag lemma="Králové_;G_^(Dvůr_Králové)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="orig">NNFS2-----A----</AM>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-080-p4s2w2">
 <src.rf>manual</src.rf>
@@ -4588,7 +4594,10 @@
 <LM>w#w-lnd92252-080-p8s2w1</LM>
 </w.rf>
 <form>Králové</form>
-<tag lemma="Králové_;G_^(Dvůr_Králové)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="orig">NNFS2-----A----</AM>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-080-p8s2w2">
 <src.rf>manual</src.rf>

@@ -2100,7 +2100,10 @@
 <LM>w#w-ln94208-5-p4s1w2</LM>
 </w.rf>
 <form>Volkswagenu</form>
-<tag lemma="Volkswagen_;m" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Volkswagen_;m" src="auto">NNIS2-----A----</AM>
+<AM lemma="Volkswagen_;m" src="manual" selected="1">NNIS2-----A---2</AM>
+</tag>
 </m>
 <m id="m-ln94208-5-p4s1w3">
 <src.rf>manual</src.rf>

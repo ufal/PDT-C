@@ -3102,7 +3102,7 @@
 </w.rf>
 <form>Doubravníku</form>
 <tag>
-<AM lemma="Doubravník-2_;G" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Doubravník-2_;G" src="orig">NNIS2-----A----</AM>
 <AM lemma="Doubravník_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Doubravník_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Doubravník_;Y" src="auto">NNMS6-----A---1</AM>
@@ -3110,6 +3110,7 @@
 <AM lemma="doubravník_;U_^(rostlina)" src="auto">NNIS3-----A----</AM>
 <AM lemma="doubravník_;U_^(rostlina)" src="auto">NNIS5-----A----</AM>
 <AM lemma="doubravník_;U_^(rostlina)" src="auto">NNIS6-----A----</AM>
+<AM lemma="Doubravník-2_;G" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930713-002-p18s1w4">

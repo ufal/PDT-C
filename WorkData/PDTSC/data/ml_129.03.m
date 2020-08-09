@@ -3099,7 +3099,8 @@
 <AM lemma="Vltava_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Vltava_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vltava_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Vltava_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Vltava_;G_;m" src="manual">NNFS2-----A----</AM>
+<AM lemma="Vltava_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m129-186-203">
@@ -3129,7 +3130,8 @@
 <tag>
 <AM lemma="Vltava_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Vltava_;G" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Vltava_;G_;m" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Vltava_;G_;m" src="manual">NNFS6-----A----</AM>
+<AM lemma="Vltava_;G" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m129-d1t873-9">

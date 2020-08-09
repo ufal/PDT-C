@@ -268,7 +268,8 @@
 <tag>
 <AM lemma="novellový" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="novellový" src="auto">AAFS7----1A----</AM>
-<AM lemma="Novellová_;Y" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="Novellová_;Y" src="manual">AAFS4----1A----</AM>
+<AM lemma="Novellová_;Y" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2226-001-p1s0W22-Ta">
@@ -294,10 +295,10 @@
 <w.rf>
 <LM>w#w-wsj2226-001-p1s1W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>ji</form>
-<tag>
-<AM lemma="on-1" src="auto" recommended="1">PEFS4--3-------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="on-1" src="auto" recommended="1">PEFS4--3-------</tag>
+</m>
 <m id="m-wsj2226-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -397,7 +398,8 @@
 <AM lemma="novellový" src="auto">AANP1----1A----</AM>
 <AM lemma="novellový" src="auto">AANP4----1A----</AM>
 <AM lemma="novellový" src="auto">AANP5----1A----</AM>
-<AM lemma="Novellová_;Y" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="Novellová_;Y" src="manual">AAFS1----1A----</AM>
+<AM lemma="Novellová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2226-001-p1s1W13-Ta">
@@ -408,7 +410,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-3`100" src="auto">C}-------------</AM>
-<AM lemma="C-33" src="auto">Q3-------------</AM>
+<AM lemma="C-33" src="auto" selected="1">Q3-------------</AM>
 <AM lemma="Celsius" src="auto">NNMXX-----A---8</AM>
 <AM lemma="C-33" src="auto">Q3-------------</AM>
 <AM lemma="c-88" src="auto" recommended="1">BNXXX-----A----</AM>
@@ -680,7 +682,8 @@
 <AM lemma="novellový" src="auto">AANP1----1A----</AM>
 <AM lemma="novellový" src="auto">AANP4----1A----</AM>
 <AM lemma="novellový" src="auto">AANP5----1A----</AM>
-<AM lemma="Novellová_;Y" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="Novellová_;Y" src="manual">AAFS1----1A----</AM>
+<AM lemma="Novellová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2226-001-p1s2W3-Ta">
@@ -1184,7 +1187,8 @@
 <AM lemma="novellový" src="auto">AANS1----1A----</AM>
 <AM lemma="novellový" src="auto">AANS4----1A----</AM>
 <AM lemma="novellový" src="auto">AANS5----1A----</AM>
-<AM lemma="Novellová_;Y" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="Novellová_;Y" src="manual">AAFS2----1A----</AM>
+<AM lemma="Novellová_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2226-001-p1s4W6-Ta">

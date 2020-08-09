@@ -10248,7 +10248,9 @@
 <AM lemma="PP-98_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
 <AM lemma="PP-1_:B_^(podnikatelský_plán)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="PP-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="PP-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="PP-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="PP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-056-p17s3w11">
@@ -10313,7 +10315,9 @@
 <form>QQ</form>
 <tag>
 <AM lemma="QQ-98_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="QQ-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="QQ-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="QQ-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="QQ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-056-p17s4w7">
@@ -10498,7 +10502,9 @@
 <form>PQRP</form>
 <tag>
 <AM lemma="PQRP-98_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="PQRP-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="PQRP-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="PQRP-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="PQRP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-056-p17s5w3">
@@ -10609,7 +10615,9 @@
 <AM lemma="PR-2_:B_,t_^(parciální_remise)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="pr" src="auto">II-------------</AM>
 <AM lemma="právo_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="PR-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="PR-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="PR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="PR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-056-p17s5w16">
@@ -10644,7 +10652,9 @@
 <form>EF</form>
 <tag>
 <AM lemma="EF-1_:B_;m_,t_^(Europäische_Freihandelszone)" src="auto">NNNXX-----A----</AM>
-<AM lemma="EF-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="EF-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="EF-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="EF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-056-p17s5w20">
@@ -10765,7 +10775,9 @@
 <AM lemma="PR-2_:B_,t_^(parciální_remise)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="pr" src="auto">II-------------</AM>
 <AM lemma="právo_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="PR-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="PR-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="PR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="PR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-056-p17s5w33">
@@ -10862,7 +10874,9 @@
 <AM lemma="PR-2_:B_,t_^(parciální_remise)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="pr" src="auto">II-------------</AM>
 <AM lemma="právo_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="PR-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="PR-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="PR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="PR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-056-p17s6w11">
@@ -11027,7 +11041,9 @@
 <AM lemma="PR-2_:B_,t_^(parciální_remise)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="pr" src="auto">II-------------</AM>
 <AM lemma="právo_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="PR-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="PR-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="PR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="PR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-056-p17s7w14">
@@ -11371,7 +11387,9 @@
 <form>EF</form>
 <tag>
 <AM lemma="EF-1_:B_;m_,t_^(Europäische_Freihandelszone)" src="auto">NNNXX-----A----</AM>
-<AM lemma="EF-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="EF-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="EF-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="EF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-056-p17s8w18">

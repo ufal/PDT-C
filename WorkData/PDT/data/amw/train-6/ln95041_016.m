@@ -300,7 +300,8 @@
 <form>Prior</form>
 <tag>
 <AM lemma="Prior_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Prior_;Y_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Prior_;Y_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Prior_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p2s1Bw26">

@@ -1307,7 +1307,11 @@
 <LM>w#w-lnd92256-083-p4s1w8</LM>
 </w.rf>
 <form>PS</form>
-<tag lemma="PS-2_;m_^(poštovní_schránka)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag>
+<AM lemma="PS-2_;m_^(poštovní_schránka)" src="orig">NNFXX-----A---b</AM>
+<AM lemma="PS-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="PS-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-083-p4s1w9">
 <src.rf>manual</src.rf>

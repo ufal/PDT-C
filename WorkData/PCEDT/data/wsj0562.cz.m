@@ -3098,6 +3098,7 @@
 <AM lemma="Loganův_;G_^(*2)" src="auto" recommended="1">AUNS2M---------</AM>
 <AM lemma="Loganov_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Loganov_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Loganův_;Y_^(*2)" src="manual" selected="1">AUNS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0562-001-p1s9W15-Ta">

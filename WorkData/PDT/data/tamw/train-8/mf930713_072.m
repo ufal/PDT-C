@@ -338,7 +338,10 @@
 <LM>w#w-mf930713-072-p2s2w2</LM>
 </w.rf>
 <form>Volkswagenu</form>
-<tag lemma="Volkswagen_;m" src="auto" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="Volkswagen_;m" src="auto">NNIS6-----A----</AM>
+<AM lemma="Volkswagen_;m" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-mf930713-072-p2s2w3">
 <src.rf>manual</src.rf>

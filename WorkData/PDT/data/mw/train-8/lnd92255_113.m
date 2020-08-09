@@ -440,7 +440,10 @@
 <LM>w#w-lnd92255-113-p2s1w43</LM>
 </w.rf>
 <form>Vyšný</form>
-<tag lemma="Vyšný_;G" src="orig" selected="1">AAIS1----1A----</tag>
+<tag>
+<AM lemma="Vyšný_;G" src="orig">AAIS1----1A----</AM>
+<AM lemma="vyšný" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-113-p2s1w44">
 <src.rf>manual</src.rf>

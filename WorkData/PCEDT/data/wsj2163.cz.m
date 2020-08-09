@@ -2523,7 +2523,8 @@
 <form>mart</form>
 <tag>
 <AM lemma="mart" src="auto">X@-------------</AM>
-<AM lemma="mart_^(K_mart)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="mart_^(K_mart)" src="manual">NNIXX-----A----</AM>
+<AM lemma="mart" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2163-001-p1s7W12-Ta">
@@ -2567,39 +2568,43 @@
 <form>N</form>
 <tag>
 <AM lemma="N-1_:B_;U_^(zn._dusíku)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="N-33" src="auto">Q3-------------</AM>
+<AM lemma="N-33" src="auto" selected="1">Q3-------------</AM>
 <AM lemma="N-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSZS2-P1------8</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSZS7-P1------8</AM>
 <AM lemma="n-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="n-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="n_^(n-tice)" src="auto">A2--------A----</AM>
-<AM lemma="nad-1_:B" src="auto">RR--7---------8</AM></tag>
-</m><m id="m-wsj2163-001-p1s7W15-Ta-sw1">
+<AM lemma="nad-1_:B" src="auto">RR--7---------8</AM>
+</tag>
+</m>
+<m id="m-wsj2163-001-p1s7W15-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2163-001-p1s7W15</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m-wsj2163-001-p1s7W15-Ta-sw2">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m-wsj2163-001-p1s7W15-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2163-001-p1s7W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-33" src="auto">Q3-------------</AM>
+<AM lemma="V-33" src="auto" selected="1">Q3-------------</AM>
 <AM lemma="V-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="volt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM>
+</tag>
+</m>
 <m id="m-wsj2163-001-p1s7W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -256,7 +256,8 @@
 <form>Columbovi</form>
 <tag>
 <AM lemma="Columbo_;Y" src="orig">NNMS6-----A----</AM>
-<AM lemma="Columbus_;Y" src="manual" selected="1">NNMS6-----A----</AM>
+<AM lemma="Columbus_;Y" src="manual">NNMS6-----A----</AM>
+<AM lemma="Columbus_;Y" src="manual" selected="1">NNMS6-----A---2</AM>
 </tag>
 </m>
 <m id="m-ln94207-118-p2s2w4">

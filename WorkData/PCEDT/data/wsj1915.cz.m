@@ -27745,8 +27745,8 @@
 <form>Terese</form>
 <tag>
 <AM lemma="Teresa_;Y" src="auto">NNFS3-----A----</AM>
-<AM lemma="Teresa_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Teresa-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Teresa_;Y" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
+<AM lemma="Teresa-2_;G" src="manual">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1915-001-p1s72W10-Ta">

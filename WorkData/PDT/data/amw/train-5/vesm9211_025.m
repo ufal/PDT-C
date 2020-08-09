@@ -4469,7 +4469,8 @@
 <form>Tab</form>
 <tag>
 <AM lemma="tabulka_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Tab-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Tab-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="tabulka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-025-p57s1w2">

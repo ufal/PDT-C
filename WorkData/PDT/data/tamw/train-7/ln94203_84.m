@@ -435,7 +435,8 @@
 <form>Babím</form>
 <tag>
 <AM lemma="babí" src="orig">AANS6----1A----</AM>
-<AM lemma="Babí_;G" src="manual" selected="1">NNNP6-----A----</AM>
+<AM lemma="Babí_;G" src="manual">NNNP6-----A----</AM>
+<AM lemma="babí" src="manual" selected="1">AAIS6----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-84-p2s3w5">
@@ -446,7 +447,9 @@
 <form>Jaru</form>
 <tag>
 <AM lemma="jaro" src="orig">NNNS6-----A----</AM>
-<AM lemma="Jar-2_;G_;m_^(na_mytí_nádobí_Babí_Jar)" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="Jar-2_;G_;m_^(na_mytí_nádobí_Babí_Jar)" src="manual">NNNS6-----A----</AM>
+<AM lemma="Jar-2_;G_;m" src="manual">NNIS6-----A----</AM>
+<AM lemma="Jar_;G_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-84-p2s3w6">

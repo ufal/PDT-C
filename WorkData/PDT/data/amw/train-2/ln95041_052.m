@@ -678,7 +678,8 @@
 <AM lemma="Gana_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Gana_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Gana_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Gany_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Gany_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Gany-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-052-p3s1w17">
@@ -755,7 +756,10 @@
 <LM>w#w-ln95041-052-p3s1w25</LM>
 </w.rf>
 <form>kafetérie</form>
-<tag lemma="kafetérie_,a" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kafetérie_,a" src="orig">NNFS1-----A----</AM>
+<AM lemma="kafetérie_,s_^(^DD**kafeterie)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-052-p3s1w26">
 <src.rf>manual</src.rf>
@@ -766,7 +770,8 @@
 <tag>
 <AM lemma="Louvre_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Louvre_;G" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Louvre-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Louvre-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Louvre_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-052-p3s1w27">

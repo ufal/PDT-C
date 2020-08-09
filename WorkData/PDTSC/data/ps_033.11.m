@@ -110,10 +110,10 @@
 </w.rf>
 <form>Korzo</form>
 <tag>
-<AM lemma="korzo" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="korzo" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="korzo" src="auto">NNNS4-----A----</AM>
 <AM lemma="korzo" src="auto">NNNS5-----A----</AM>
-<AM lemma="Korzo_;m" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Korzo_;m" src="manual">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m033-d-id181635-punct">

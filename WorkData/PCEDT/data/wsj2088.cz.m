@@ -103,7 +103,9 @@
 <AM lemma="anus" src="auto">NNIP5-----A----</AM>
 <AM lemma="anus" src="auto">NNIP7-----A----</AM>
 <AM lemma="any-77" src="auto">F%-------------</AM>
-<AM lemma="Ana-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Ana-2_;G" src="manual">NNFS2-----A----</AM>
+<AM lemma="Ana_;G_;Y" src="manual">NNFS2-----A----</AM>
+<AM lemma="Ana_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2088-001-p1s0W9-Ta">
@@ -649,6 +651,7 @@
 <w.rf>
 <LM>w#w-wsj2088-001-p1s1W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Hollanderova</form>
 <tag>
 <AM lemma="Hollanderův_;Y_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
@@ -659,8 +662,9 @@
 <AM lemma="Hollanderův_;Y_^(*2)" src="auto">AUNP1M---------</AM>
 <AM lemma="Hollanderův_;Y_^(*2)" src="auto">AUNP4M---------</AM>
 <AM lemma="Hollanderův_;Y_^(*2)" src="auto">AUNP5M---------</AM>
-<AM lemma="Hollanderův_;Y_^(*2)" src="auto">AUNS2M---------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Hollanderův_;Y_^(*2)" src="auto">AUNS2M---------</AM>
+</tag>
+</m>
 <m id="m-wsj2088-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

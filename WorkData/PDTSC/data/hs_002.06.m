@@ -807,7 +807,8 @@
 <AM lemma="Ivo_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Ivo_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
 <AM lemma="Ivo_;Y" src="auto">NNMS7-----A---1</AM>
-<AM lemma="Ivo_;Y" src="manual" selected="1">NNMXX-----A---1</AM>
+<AM lemma="Ivo_;Y" src="manual">NNMXX-----A---1</AM>
+<AM lemma="Ivo_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m002-d1t1689-9">
@@ -921,7 +922,8 @@
 <form>Requiem</form>
 <tag>
 <AM lemma="rekviem_,s_,x" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Requiem_,m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Requiem_,m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Requiem_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m002-1624-1708">
@@ -1573,6 +1575,7 @@
 <AM lemma="Nabucco" src="auto">NNNS5-----A----</AM>
 <AM lemma="Nabucco_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Nabucco_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Nabucco-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m002-1855-2065">
@@ -1804,6 +1807,7 @@
 <tag>
 <AM lemma="Nabucco" src="auto">NNNS3-----A----</AM>
 <AM lemma="Nabucco" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Nabucco-2_;m" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m002-840-1406">

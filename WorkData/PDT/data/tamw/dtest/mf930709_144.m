@@ -35,7 +35,10 @@
 <LM>w#w-mf930709-144-p1s1w3</LM>
 </w.rf>
 <form>Vyšném</form>
-<tag lemma="Vyšný_;G" src="orig" selected="1">AANS6----1A----</tag>
+<tag>
+<AM lemma="Vyšný_;G" src="orig">AANS6----1A----</AM>
+<AM lemma="vyšný" src="manual" selected="1">AANS6----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-144-p1s1w4">
 <src.rf>manual</src.rf>
@@ -82,7 +85,10 @@
 <LM>w#w-mf930709-144-p2s1Aw1</LM>
 </w.rf>
 <form>Vyšné</form>
-<tag lemma="Vyšný_;G" src="orig" selected="1">AANS1----1A----</tag>
+<tag>
+<AM lemma="Vyšný_;G" src="orig">AANS1----1A----</AM>
+<AM lemma="vyšný" src="manual" selected="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-144-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -241,7 +247,10 @@
 <LM>w#w-mf930709-144-p2s1Bw12</LM>
 </w.rf>
 <form>Vyšném</form>
-<tag lemma="Vyšný_;G" src="orig" selected="1">AANS6----1A----</tag>
+<tag>
+<AM lemma="Vyšný_;G" src="orig">AANS6----1A----</AM>
+<AM lemma="vyšný" src="manual" selected="1">AANS6----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-144-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -715,7 +724,10 @@
 <LM>w#w-mf930709-144-p2s3w10</LM>
 </w.rf>
 <form>Vyšném</form>
-<tag lemma="Vyšný_;G" src="orig" selected="1">AANS6----1A----</tag>
+<tag>
+<AM lemma="Vyšný_;G" src="orig">AANS6----1A----</AM>
+<AM lemma="vyšný" src="manual" selected="1">AANS6----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-144-p2s3w11">
 <src.rf>manual</src.rf>

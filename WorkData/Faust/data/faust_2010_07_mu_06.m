@@ -2801,7 +2801,8 @@
 <AM lemma="Itálie_:B_;G" recommended="1">NNFXX-----A----</AM>
 <AM lemma="IT_,t_^(informační_technologie)">NNFXX-----A---8</AM>
 <AM lemma="it_,t_^(angl._to)">PPNXX--3-------</AM>
-<AM lemma="IT_^(informační_technologie)" src="manual" selected="1">NNFXX-----A---b</AM>
+<AM lemma="IT_^(informační_technologie)" src="manual">NNFXX-----A---b</AM>
+<AM lemma="IT_^(informační_technologie)" src="manual" selected="1">BNFXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_06-SCzechM-p0585-s1-w49">

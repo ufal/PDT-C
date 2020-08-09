@@ -2609,9 +2609,9 @@
 </w.rf>
 <form>Bělehrad</form>
 <tag>
-<AM lemma="Bělehrad_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Bělehrad_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bělehrad_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bělehrad_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bělehrad_;G_;m" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m035-1479-1512">
@@ -2809,9 +2809,9 @@
 </w.rf>
 <form>Bělehrad</form>
 <tag>
-<AM lemma="Bělehrad_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Bělehrad_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bělehrad_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bělehrad_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bělehrad_;G_;m" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m035-1514-1522">
@@ -2850,9 +2850,9 @@
 </w.rf>
 <form>Bělehrad</form>
 <tag>
-<AM lemma="Bělehrad_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Bělehrad_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bělehrad_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bělehrad_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bělehrad_;G_;m" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m035-1524-1525">
@@ -2902,9 +2902,9 @@
 </w.rf>
 <form>Bělehrad</form>
 <tag>
-<AM lemma="Bělehrad_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Bělehrad_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bělehrad_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bělehrad_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bělehrad_;G_;m" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m035-1524-1527">
@@ -3361,8 +3361,8 @@
 <form>Bělehrad</form>
 <tag>
 <AM lemma="Bělehrad_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Bělehrad_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Bělehrad_;G_;m" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Bělehrad_;G" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
+<AM lemma="Bělehrad_;G_;m" src="manual">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m035-1561-1564">

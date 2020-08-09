@@ -519,7 +519,8 @@
 <AM lemma="Royal_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="royal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="royal" src="auto">NNIS4-----A----</AM>
-<AM lemma="Royal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Royal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Royal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1462-001-p1s0W45-Ta">
@@ -606,7 +607,8 @@
 <AM lemma="Royal_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="royal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="royal" src="auto">NNIS4-----A----</AM>
-<AM lemma="Royal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Royal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Royal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1462-001-p1s1W3-Ta">
@@ -856,7 +858,8 @@
 <AM lemma="Royal_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="royal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="royal" src="auto">NNIS4-----A----</AM>
-<AM lemma="Royal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Royal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Royal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1462-001-p1s2W3-Ta">
@@ -1248,7 +1251,8 @@
 <AM lemma="Royal_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="royal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="royal" src="auto">NNIS4-----A----</AM>
-<AM lemma="Royal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Royal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Royal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1462-001-p1s3W4-Ta">
@@ -1449,7 +1453,8 @@
 <AM lemma="Royal_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="royal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="royal" src="auto">NNIS4-----A----</AM>
-<AM lemma="Royal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Royal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Royal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1462-001-p1s3W21-Ta">
@@ -1491,7 +1496,8 @@
 <AM lemma="Royal_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="royal" src="auto">NNIS1-----A----</AM>
 <AM lemma="royal" src="auto">NNIS4-----A----</AM>
-<AM lemma="Royal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Royal-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Royal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1462-001-p1s4W3-Ta">

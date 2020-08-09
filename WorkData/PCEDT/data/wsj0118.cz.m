@@ -11348,7 +11348,7 @@
 </w.rf>
 <form>pater</form>
 <tag>
-<AM lemma="patro" src="auto">NNNP2-----A----</AM>
+<AM lemma="patro" src="auto" selected="1">NNNP2-----A----</AM>
 <AM lemma="pater" src="auto">NNMS1-----A----</AM>
 <AM lemma="patero" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>

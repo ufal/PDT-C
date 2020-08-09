@@ -5529,7 +5529,9 @@
 <tag>
 <AM lemma="Elefanta_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="elefant" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Elefant_;m" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Elefant_;m" src="manual">NNMS1-----A----</AM>
+<AM lemma="Elefant_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Elefant_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m977-id64482-x14-1732">

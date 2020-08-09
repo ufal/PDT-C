@@ -3470,7 +3470,8 @@
 <AM lemma="bon" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bon" src="auto">NNIS4-----A----</AM>
 <AM lemma="bona" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bon_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bon_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Bon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0102-001-p1s13W3-Ta">

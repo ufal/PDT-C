@@ -709,7 +709,8 @@
 <form>Veselého</form>
 <tag>
 <AM lemma="veselý" src="orig">AAMS2----1A----</AM>
-<AM lemma="Veselý_;Y" src="manual" selected="1">AAMS2----1A----</AM>
+<AM lemma="Veselý_;Y" src="manual">AAMS2----1A----</AM>
+<AM lemma="Veselý_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-003-p3s7w13">

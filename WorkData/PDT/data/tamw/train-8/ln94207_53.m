@@ -243,8 +243,8 @@
 </w.rf>
 <form>Holding</form>
 <tag>
-<AM lemma="Holding_;m" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="holding" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Holding_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="holding" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="holding" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

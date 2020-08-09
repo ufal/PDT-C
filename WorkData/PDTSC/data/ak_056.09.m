@@ -3469,7 +3469,8 @@
 <tag>
 <AM lemma="oves" src="auto">NNIS1-----A----</AM>
 <AM lemma="oves" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Oves_;Y" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Oves_;Y" src="manual">NNIS1-----A----</AM>
+<AM lemma="Oves_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m056-d1t2813-8">

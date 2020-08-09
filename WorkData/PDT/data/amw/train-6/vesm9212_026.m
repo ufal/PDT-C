@@ -128,7 +128,10 @@
 <LM>w#w-vesm9212-026-p2s1w3</LM>
 </w.rf>
 <form>H</form>
-<tag lemma="H-9_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="H-9_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-026-p2s1w4">
 <src.rf>manual</src.rf>
@@ -144,7 +147,10 @@
 <LM>w#w-vesm9212-026-p2s1w5</LM>
 </w.rf>
 <form>H</form>
-<tag lemma="H-9_;Y" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag>
+<AM lemma="H-9_;Y" src="orig">NNFXX-----A---b</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-026-p2s1w6">
 <src.rf>manual</src.rf>

@@ -6143,8 +6143,8 @@
 <AM lemma="Apple_;m" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;m" src="auto">NNIXX-----A----</AM>
 <AM lemma="apple_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Apple-77" src="manual">F%-------------</AM>
-<AM lemma="Apple_;m" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Apple-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Apple_;m" src="manual">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s3w13">
@@ -6156,7 +6156,8 @@
 <tag>
 <AM lemma="Macintosh_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Macintosh_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Macintosh-2_;m" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Macintosh-2_;m" src="manual">NNMS1-----A----</AM>
+<AM lemma="Macintosh-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s3w14">

@@ -5680,9 +5680,9 @@
 </w.rf>
 <form>Džihád</form>
 <tag>
-<AM lemma="džihád" src="auto">NNIS1-----A----</AM>
+<AM lemma="džihád" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="džihád" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Džihád_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Džihád_;m" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0174-001-p1s21W15-Ta">

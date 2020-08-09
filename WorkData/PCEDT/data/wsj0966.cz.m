@@ -3365,7 +3365,9 @@
 <tag>
 <AM lemma="pantheon_,s_^(^DD**panteon)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pantheon_,s_^(^DD**panteon)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pantheon_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Pantheon_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Pantheon_;G" src="manual">NNIS1-----A----</AM>
+<AM lemma="Pantheon_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0966-001-p1s9W70-Ta">

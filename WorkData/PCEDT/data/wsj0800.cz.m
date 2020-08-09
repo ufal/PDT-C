@@ -3668,7 +3668,8 @@
 <form>Aichi</form>
 <tag>
 <AM lemma="Aichi_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Aichi-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Aichi-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Aichi_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0800-001-p1s14W7-Ta">
@@ -4140,7 +4141,8 @@
 <tag>
 <AM lemma="Morishitova" src="auto">X@-------------</AM>
 <AM lemma="Morishitův_;Y_^(*2)" src="manual">AUFS1M---------</AM>
-<AM lemma="Morishitův_;Y_^(*2)_(*2a)" src="manual" selected="1">AUFS1M---------</AM>
+<AM lemma="Morishitův_;Y_^(*2)_(*2a)" src="manual">AUFS1M---------</AM>
+<AM lemma="Morishitův_;Y" src="manual" selected="1">AUFS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0800-001-p1s16W3-Ta">
@@ -4703,6 +4705,7 @@
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="a-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0800-001-p1s17W21-Ta">
@@ -4714,7 +4717,8 @@
 <tag>
 <AM lemma="court_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="court_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Court_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Court_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Court_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0800-001-p1s17W22-Ta">
@@ -4884,7 +4888,8 @@
 <form>Aichi</form>
 <tag>
 <AM lemma="Aichi_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Aichi-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Aichi-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Aichi_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0800-001-p1s17W37-Ta">
@@ -7248,7 +7253,8 @@
 <form>Morishitův</form>
 <tag>
 <AM lemma="Morishitův" src="auto">X@-------------</AM>
-<AM lemma="Morishitův_;Y_^(*2)_(*2a)" src="manual" selected="1">AUMS1M---------</AM>
+<AM lemma="Morishitův_;Y_^(*2)_(*2a)" src="manual">AUMS1M---------</AM>
+<AM lemma="Morishitův_;Y" src="manual" selected="1">AUMS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0800-001-p1s27W20-Ta">
@@ -7597,7 +7603,8 @@
 <form>Aichi</form>
 <tag>
 <AM lemma="Aichi_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Aichi-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Aichi-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Aichi_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0800-001-p1s29W18-Ta">
@@ -8124,7 +8131,8 @@
 <form>Aichi</form>
 <tag>
 <AM lemma="Aichi_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Aichi-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Aichi-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Aichi_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0800-001-p1s32W12-Ta">
@@ -9797,7 +9805,8 @@
 <form>Morishitově</form>
 <tag>
 <AM lemma="Morishitově" src="auto">X@-------------</AM>
-<AM lemma="Morishitův_;Y_^(*2)_(*2a)" src="manual" selected="1">AUNS6M---------</AM>
+<AM lemma="Morishitův_;Y_^(*2)_(*2a)" src="manual">AUNS6M---------</AM>
+<AM lemma="Morishitův_;Y" src="manual" selected="1">AUNS6M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0800-001-p1s39W3-Ta">
@@ -10205,7 +10214,8 @@
 <form>Aichi</form>
 <tag>
 <AM lemma="Aichi_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Aichi-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Aichi-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Aichi_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0800-001-p1s40W18-Ta">
@@ -10601,7 +10611,8 @@
 <form>Aichi</form>
 <tag>
 <AM lemma="Aichi_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Aichi-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Aichi-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Aichi_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0800-001-p1s43W10-Ta">
@@ -12014,7 +12025,8 @@
 <form>Morishitovo</form>
 <tag>
 <AM lemma="Morishitovo" src="auto">X@-------------</AM>
-<AM lemma="Morishitovo_;Y_^(*2)_(*2a)" src="manual" selected="1">AUNS1M---------</AM>
+<AM lemma="Morishitovo_;Y_^(*2)_(*2a)" src="manual">AUNS1M---------</AM>
+<AM lemma="Morishitovo_;Y" src="manual" selected="1">AUNS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0800-001-p1s50W14-Ta">

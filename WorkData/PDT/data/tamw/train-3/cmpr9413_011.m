@@ -6220,7 +6220,8 @@
 <form>Volkswagenu</form>
 <tag>
 <AM lemma="Volkswagen_;m_,x" src="auto">NNIS2-----A----</AM>
-<AM lemma="Volkswagen_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Volkswagen_;m" src="manual">NNIS2-----A----</AM>
+<AM lemma="Volkswagen_;m" src="manual" selected="1">NNIS2-----A---2</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-011-p24s4w11">

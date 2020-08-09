@@ -928,8 +928,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33" src="orig">Q3-------------</AM>
-<AM lemma="Banský" src="manual" selected="1">AAXXX----1A---b</AM>
+<AM lemma="B-33" src="orig" selected="1">Q3-------------</AM>
+<AM lemma="Banský" src="manual">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p4s2w64">
@@ -1864,7 +1864,9 @@
 <form>B</form>
 <tag>
 <AM lemma="B-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Banský" src="manual" selected="1">AAXXX----1A---b</AM>
+<AM lemma="Banský" src="manual">AAXXX----1A---b</AM>
+<AM lemma="B-33" src="manual">AAXXX----1A---8</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p8s1w4">
