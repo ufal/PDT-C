@@ -44,9 +44,10 @@
 </w.rf>
 <form>Payna</form>
 <tag>
-<AM lemma="Payne_;Y" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Payne_;Y" src="orig">NNMS4-----A----</AM>
 <AM lemma="Payno_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Payno_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Payne_;Y" src="manual" selected="1">NNMS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94205-59-p1s1w5">

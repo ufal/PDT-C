@@ -7479,7 +7479,10 @@
 <LM>w#w-vesm9303-036-p26s1w11</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="doktor_^(doktor,_akad._titul)" src="orig">NNMXX-----A---b</AM>
+<AM lemma="dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-036-p26s1w12">
 <src.rf>manual</src.rf>
@@ -7504,9 +7507,10 @@
 </w.rf>
 <form>Nichola</form>
 <tag>
-<AM lemma="Nichole_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Nichole_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Nichol_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Nichol_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Nichole-2_;Y" src="manual" selected="1">NNMS2-----A---2</AM>
 </tag>
 </m>
 <m id="m-vesm9303-036-p26s1w15">
@@ -7791,7 +7795,8 @@
 <form>dr</form>
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="dr_^(doktor)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="dr_^(doktor)" src="manual">BNXXX-----A----</AM>
+<AM lemma="dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-036-p26s2w22">
@@ -7809,8 +7814,9 @@
 </w.rf>
 <form>Nichole</form>
 <tag>
-<AM lemma="Nichole_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Nichole_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Nichol_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Nichole-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-036-p26s2w24">

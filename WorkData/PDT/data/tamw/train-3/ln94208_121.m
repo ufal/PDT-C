@@ -463,9 +463,10 @@
 </w.rf>
 <form>Babba</form>
 <tag>
-<AM lemma="Babb_;Y" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Babb_;Y" src="orig">NNMS4-----A----</AM>
 <AM lemma="Babbo_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Babbo_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Babb-2_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-121-p2s3w15">

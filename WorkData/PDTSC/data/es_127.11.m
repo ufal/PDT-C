@@ -2392,11 +2392,12 @@
 <form>Favorita</form>
 <tag>
 <AM lemma="Favorit_;m_^(vozidlo)" src="auto">NNIS2-----A---1</AM>
-<AM lemma="Favorit_;m_^(vozidlo)" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="Favorit_;m_^(vozidlo)" src="auto">NNMS4-----A----</AM>
 <AM lemma="favorit-1_;m_^(vozidlo)" src="auto">NNIS2-----A---1</AM>
 <AM lemma="favorit-1_;m_^(vozidlo)" src="auto">NNMS4-----A----</AM>
 <AM lemma="favorit-2" src="auto">NNMS2-----A----</AM>
 <AM lemma="favorit-2" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Favorit_;m_^(vozidlo)" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m127-d-id191041-punct">

@@ -808,7 +808,8 @@
 <tag>
 <AM lemma="Londýn_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Londýn_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Londýn_;G_;m" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Londýn_;G_;m" src="manual">NNIS4-----A----</AM>
+<AM lemma="Londýn_;G" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m140-d-id144891-punct">

@@ -8333,7 +8333,9 @@
 <AM lemma="volkswagen_;m_,x_^(vozidlo)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="volkswagen_;m_,x_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="volkswagen_;m_,x_^(vozidlo)" src="auto">NNIS6-----A----</AM>
-<AM lemma="Volkswagen_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Volkswagen_;m" src="manual">NNIS2-----A----</AM>
+<AM lemma="Volkswagen_;m" src="manual">NNIS2-----A---1</AM>
+<AM lemma="Volkswagen_;m" src="manual" selected="1">NNIS2-----A---2</AM>
 </tag>
 </m>
 <m id="m-wsj1744-001-p1s27W13-Ta">

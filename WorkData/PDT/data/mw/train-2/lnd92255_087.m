@@ -548,7 +548,10 @@
 <LM>w#w-lnd92255-087-p4s1w4</LM>
 </w.rf>
 <form>Hajka</form>
-<tag lemma="Hajko_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Hajko_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Hajek_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-087-p4s1w5">
 <src.rf>manual</src.rf>

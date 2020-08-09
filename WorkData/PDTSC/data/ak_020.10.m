@@ -1210,6 +1210,7 @@
 <tag>
 <AM lemma="hubertus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="hubertus" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hubertus_;m" src="manual">NNIS1-----A----</AM>
 <AM lemma="Hubertus_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

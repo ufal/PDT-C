@@ -2299,7 +2299,10 @@
 <LM>w#w-lnd92254-075-p3s26w6</LM>
 </w.rf>
 <form>Světozor</form>
-<tag lemma="Světozor_;Y_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Světozor_;Y_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Světozor_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-075-p3s26w7">
 <src.rf>manual</src.rf>

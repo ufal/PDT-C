@@ -1235,6 +1235,7 @@
 <tag>
 <AM lemma="pražsko" src="auto">NNNS3-----A----</AM>
 <AM lemma="pražsko" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="pražsku" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m130-529-536">
@@ -1325,6 +1326,7 @@
 <tag>
 <AM lemma="pražsko" src="auto">NNNS3-----A----</AM>
 <AM lemma="pražsko" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="pražsku" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m130-d1t493-54">

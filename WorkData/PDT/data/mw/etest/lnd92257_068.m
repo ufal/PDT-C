@@ -71,7 +71,9 @@
 <form>Requiem</form>
 <tag>
 <AM lemma="rekviem_,s_,x" src="auto">NNNXX-----A----</AM>
-<AM lemma="Requiem_,m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Requiem_,m" src="manual">NNNXX-----A----</AM>
+<AM lemma="requiem_,s_^(^DD**rekviem)" src="manual">NNNXX-----A----</AM>
+<AM lemma="Requiem_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-068-p2s1w3">

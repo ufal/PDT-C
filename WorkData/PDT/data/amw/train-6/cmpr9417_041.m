@@ -3181,7 +3181,10 @@
 <LM>w#w-cmpr9417-041-p13s1w19</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="Post-1_^(Post_Office,_pošta)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag>
+<AM lemma="Post-1_^(Post_Office,_pošta)" src="orig">AAXXX----1A---b</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-041-p13s1w20">
 <src.rf>manual</src.rf>
@@ -3197,7 +3200,10 @@
 <LM>w#w-cmpr9417-041-p13s1w21</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="Office-1_^(př._Post_Office,_pošt._úřad)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag>
+<AM lemma="Office-1_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A---b</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-041-p13s1w22">
 <src.rf>manual</src.rf>
@@ -3213,7 +3219,10 @@
 <LM>w#w-cmpr9417-041-p13s1w23</LM>
 </w.rf>
 <form>Box</form>
-<tag lemma="box-2_^(krabice,_schránka)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="box-2_^(krabice,_schránka)" src="orig">NNIXX-----A----</AM>
+<AM lemma="box-1" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-041-p13s1w24">
 <src.rf>manual</src.rf>

@@ -8834,7 +8834,8 @@
 <form>Athena</form>
 <tag>
 <AM lemma="Athena_;Y_,s_^(^DD**Athéna)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Athena-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Athena-2_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Athena_;Y_;m_,s_^(^DD**Athéna)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0975-001-p1s28W8-Ta">
@@ -9188,7 +9189,8 @@
 <form>Athena</form>
 <tag>
 <AM lemma="Athena_;Y_,s_^(^DD**Athéna)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Athena-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Athena-2_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Athena_;Y_;m_,s_^(^DD**Athéna)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0975-001-p1s29W3-Ta">

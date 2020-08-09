@@ -1641,7 +1641,8 @@
 <form>Kafr</form>
 <tag>
 <AM lemma="kafr" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kafr-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Kafr-2_;G" src="manual">NNIS1-----A----</AM>
+<AM lemma="Kafr-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-115-p5s2w14">
@@ -1669,7 +1670,10 @@
 <LM>w#w-ln95048-115-p5s2w16</LM>
 </w.rf>
 <form>Zajját</form>
-<tag lemma="Zajját_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Zajját_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Zajját-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-115-p5s2w17">
 <src.rf>manual</src.rf>

@@ -16386,7 +16386,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-2_:B_^(kyslík)" src="auto">NNIXX-----A----</AM>
-<AM lemma="O-33" src="auto">Q3-------------</AM>
+<AM lemma="O-33" src="auto" selected="1">Q3-------------</AM>
 <AM lemma="O-77" src="auto">F%-------------</AM>
 <AM lemma="O-33" src="auto">Q3-------------</AM>
 <AM lemma="o-1" src="auto">RR--4----------</AM>

@@ -263,6 +263,7 @@
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="a-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1496-001-p1s0W22-Ta">
@@ -734,6 +735,7 @@
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="a-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1496-001-p1s1W20-Ta">
@@ -742,7 +744,10 @@
 <LM>w#w-wsj1496-001-p1s1W20</LM>
 </w.rf>
 <form>Dollar</form>
-<tag lemma="Dollar_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Dollar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Dollar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1496-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1608,6 +1613,7 @@
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="a-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1496-001-p1s3W43-Ta">
@@ -1616,7 +1622,10 @@
 <LM>w#w-wsj1496-001-p1s3W43</LM>
 </w.rf>
 <form>Dollar</form>
-<tag lemma="Dollar_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Dollar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Dollar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1496-001-p1s3W44-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1830,6 +1839,7 @@
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="a-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1496-001-p1s5W6-Ta">
@@ -1838,7 +1848,10 @@
 <LM>w#w-wsj1496-001-p1s5W6</LM>
 </w.rf>
 <form>Dollar</form>
-<tag lemma="Dollar_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Dollar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Dollar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1496-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -138,7 +138,8 @@
 <AM lemma="Nižný_;G_^(např._Nižnyj_Novgorod)" src="auto">AANS1----1A---6</AM>
 <AM lemma="Nižný_;G_^(např._Nižnyj_Novgorod)" src="auto">AANS4----1A---6</AM>
 <AM lemma="Nižný_;G_^(např._Nižnyj_Novgorod)" src="auto">AANS5----1A---6</AM>
-<AM lemma="Nižný_;G_^(např._Nižnyj_Novgorod)" src="manual" selected="1">AANS1----1A---6</AM>
+<AM lemma="Nižný_;G_^(např._Nižnyj_Novgorod)" src="manual">AANS1----1A---6</AM>
+<AM lemma="nižný" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m951-d1t921-2">
@@ -156,7 +157,7 @@
 <AM lemma="Studené_;G" src="auto">NNNP1-----A---6</AM>
 <AM lemma="Studené_;G" src="auto">NNNP4-----A---6</AM>
 <AM lemma="Studené_;G" src="auto">NNNP5-----A---6</AM>
-<AM lemma="Studené_;G" src="auto" selected="1">NNNS1-----A---6</AM>
+<AM lemma="Studené_;G" src="auto">NNNS1-----A---6</AM>
 <AM lemma="Studené_;G" src="auto">NNNS4-----A---6</AM>
 <AM lemma="Studené_;G" src="auto">NNNS5-----A---6</AM>
 <AM lemma="Studený_;Y" src="auto">NNMP1-----A---6</AM>
@@ -188,6 +189,7 @@
 <AM lemma="studený" src="auto">AANS1----1A---6</AM>
 <AM lemma="studený" src="auto">AANS4----1A---6</AM>
 <AM lemma="studený" src="auto">AANS5----1A---6</AM>
+<AM lemma="Studený-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m951-d1e886-x4-1592">
@@ -216,7 +218,7 @@
 <AM lemma="vyšní" src="auto">AAIP1----1A----</AM>
 <AM lemma="vyšní" src="auto">AAIP4----1A----</AM>
 <AM lemma="vyšní" src="auto">AAIP5----1A----</AM>
-<AM lemma="vyšní" src="auto">AAIS1----1A----</AM>
+<AM lemma="vyšní" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="vyšní" src="auto">AAIS4----1A----</AM>
 <AM lemma="vyšní" src="auto">AAIS5----1A----</AM>
 <AM lemma="vyšní" src="auto">AAMP1----1A----</AM>
@@ -230,7 +232,7 @@
 <AM lemma="vyšní" src="auto">AANS1----1A----</AM>
 <AM lemma="vyšní" src="auto">AANS4----1A----</AM>
 <AM lemma="vyšní" src="auto">AANS5----1A----</AM>
-<AM lemma="Vyšní_;G" src="manual" selected="1">AANS1----1A----</AM>
+<AM lemma="Vyšní_;G" src="manual">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m951-d1t929-2">
@@ -248,7 +250,7 @@
 <AM lemma="Studené_;G" src="auto">NNNP1-----A---6</AM>
 <AM lemma="Studené_;G" src="auto">NNNP4-----A---6</AM>
 <AM lemma="Studené_;G" src="auto">NNNP5-----A---6</AM>
-<AM lemma="Studené_;G" src="auto" selected="1">NNNS1-----A---6</AM>
+<AM lemma="Studené_;G" src="auto">NNNS1-----A---6</AM>
 <AM lemma="Studené_;G" src="auto">NNNS4-----A---6</AM>
 <AM lemma="Studené_;G" src="auto">NNNS5-----A---6</AM>
 <AM lemma="Studený_;Y" src="auto">NNMP1-----A---6</AM>
@@ -280,6 +282,7 @@
 <AM lemma="studený" src="auto">AANS1----1A---6</AM>
 <AM lemma="studený" src="auto">AANS4----1A---6</AM>
 <AM lemma="studený" src="auto">AANS5----1A---6</AM>
+<AM lemma="Studený-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m951-d1e886-x4-1596">

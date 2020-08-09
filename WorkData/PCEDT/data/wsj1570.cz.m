@@ -5811,6 +5811,7 @@
 <w.rf>
 <LM>w#w-wsj1570-001-p1s19W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Příležitosti</form>
 <tag>
 <AM lemma="příležitost" src="auto" recommended="1">NNFP1-----A----</AM>
@@ -5819,8 +5820,9 @@
 <AM lemma="příležitost" src="auto">NNFS2-----A----</AM>
 <AM lemma="příležitost" src="auto">NNFS3-----A----</AM>
 <AM lemma="příležitost" src="auto">NNFS5-----A----</AM>
-<AM lemma="příležitost" src="auto">NNFS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="příležitost" src="auto">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1570-001-p1s19W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11750,6 +11752,7 @@
 <w.rf>
 <LM>w#w-wsj1570-001-p1s32W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>jež</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFP1----------</AM>
@@ -11761,8 +11764,9 @@
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJXP4----------</AM>
 <AM lemma="jež-99_:B_;Y" src="auto">NNXXX-----A----</AM>
 <AM lemma="ježit" src="auto">Vi-S---2--A-I--</AM>
-<AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM>
+</tag>
+</m>
 <m id="m-wsj1570-001-p1s32W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12083,7 +12087,8 @@
 <tag>
 <AM lemma="Washburn_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Washburn_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Washburn-2_;Y" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Washburn-2_;Y" src="manual">NNIS1-----A----</AM>
+<AM lemma="Washburn-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1570-001-p1s32W34-Ta">
@@ -17477,6 +17482,7 @@
 <w.rf>
 <LM>w#w-wsj1570-001-p1s47W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>jež</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFP1----------</AM>
@@ -17488,8 +17494,9 @@
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJXP4----------</AM>
 <AM lemma="jež-99_:B_;Y" src="auto">NNXXX-----A----</AM>
 <AM lemma="ježit" src="auto">Vi-S---2--A-I--</AM>
-<AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM>
+</tag>
+</m>
 <m id="m-wsj1570-001-p1s47W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

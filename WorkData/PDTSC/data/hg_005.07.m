@@ -2535,12 +2535,12 @@
 <AM lemma="Mladé_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Mladé_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Mladé_;G" src="auto">NNNP5-----A----</AM>
-<AM lemma="mladý" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="mladý" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="mladý" src="auto">AAFS5----1A----</AM>
 <AM lemma="mladý" src="auto">AANP1----1A----</AM>
 <AM lemma="mladý" src="auto">AANP4----1A----</AM>
 <AM lemma="mladý" src="auto">AANP5----1A----</AM>
-<AM lemma="mladá_,h" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="mladá_,h" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m005-d1t2525-7">

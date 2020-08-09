@@ -5000,7 +5000,11 @@
 <LM>w#w-mf930701-122-p9s2w17</LM>
 </w.rf>
 <form>Brit</form>
-<tag lemma="Británie_;m" src="orig" selected="1">BNFXX-----A---9</tag>
+<tag>
+<AM lemma="Británie_;m" src="orig">BNFXX-----A---9</AM>
+<AM lemma="Británie_;G" src="manual">BNFXX-----A---b</AM>
+<AM lemma="Británie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
+</tag>
 </m>
 <m id="m-mf930701-122-p9s2w18">
 <src.rf>manual</src.rf>
@@ -5276,13 +5280,13 @@
 <AM lemma="N-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="můj_:B_^(přivlast.,jen_př._n._l.,_před_naším_letopočtem,_našeho_letopočtu)" src="auto">PSZS2-P1------8</AM>
 <AM lemma="můj_:B_^(přivlast.,jen_př._n._l.,_před_naším_letopočtem,_našeho_letopočtu)" src="auto">PSZS7-P1------8</AM>
-<AM lemma="N-33" src="auto">Q3-------------</AM>
+<AM lemma="N-33" src="auto" selected="1">Q3-------------</AM>
 <AM lemma="n-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="n_^(n-tice)" src="auto">A2--------A----</AM>
 <AM lemma="nad-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="nádraží_:B" src="auto">NNNXX-----A---9</AM>
 <AM lemma="národní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="N-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="N-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-122-p10s1w11">
@@ -5449,7 +5453,8 @@
 <form>Ting</form>
 <tag>
 <AM lemma="Ting_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ting_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ting_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Ting-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-122-p10s3w4">
@@ -5466,7 +5471,10 @@
 <LM>w#w-mf930701-122-p10s3w5</LM>
 </w.rf>
 <form>weng</form>
-<tag lemma="weng_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="weng_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="weng" src="manual" selected="1">SNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-122-p10s3w6">
 <src.rf>manual</src.rf>

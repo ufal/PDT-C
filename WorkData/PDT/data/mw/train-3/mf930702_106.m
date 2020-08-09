@@ -3440,7 +3440,10 @@
 <LM>w#w-mf930702-106-p7s2w47</LM>
 </w.rf>
 <form>Helladě</form>
-<tag lemma="Hellada_;Y" src="auto" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="Hellada_;Y" src="auto">NNFS6-----A----</AM>
+<AM lemma="Hellada_;G_,s_^(^DD**Helada)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-106-p7s2w48">
 <src.rf>manual</src.rf>

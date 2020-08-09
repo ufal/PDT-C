@@ -2236,6 +2236,7 @@
 <AM lemma="Vyšný_;G" src="auto">AANS1----1A---6</AM>
 <AM lemma="Vyšný_;G" src="auto">AANS4----1A---6</AM>
 <AM lemma="Vyšný_;G" src="auto">AANS5----1A---6</AM>
+<AM lemma="vyšný" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m977-id58688-5">
@@ -2286,6 +2287,7 @@
 <AM lemma="Nižný_;G_^(např._Nižnyj_Novgorod)" src="auto">AANS1----1A---6</AM>
 <AM lemma="Nižný_;G_^(např._Nižnyj_Novgorod)" src="auto">AANS4----1A---6</AM>
 <AM lemma="Nižný_;G_^(např._Nižnyj_Novgorod)" src="auto">AANS5----1A---6</AM>
+<AM lemma="nižný" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m977-id58688-7">
@@ -5230,6 +5232,7 @@
 <AM lemma="Vyšný_;G" src="auto">AANS1----1A----</AM>
 <AM lemma="Vyšný_;G" src="auto">AANS4----1A----</AM>
 <AM lemma="Vyšný_;G" src="auto">AANS5----1A----</AM>
+<AM lemma="vyšný" src="manual" selected="1">AAFP1----1A----</AM>
 </tag>
 </m>
 <m id="m977-id59037-x5-1028">

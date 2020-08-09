@@ -2557,7 +2557,7 @@
 <tag>
 <AM lemma="západní" src="auto">AAFP3----1A----</AM>
 <AM lemma="západní" src="auto">AAIP3----1A----</AM>
-<AM lemma="západní" selected="1" src="auto">AAIS6----1A----</AM>
+<AM lemma="západní" src="auto" selected="1">AAIS6----1A----</AM>
 <AM lemma="západní" src="auto">AAIS7----1A----</AM>
 <AM lemma="západní" src="auto">AAMP3----1A----</AM>
 <AM lemma="západní" src="auto">AAMS6----1A----</AM>
@@ -5889,11 +5889,11 @@
 </w.rf>
 <form>Kaťuší</form>
 <tag>
-<AM lemma="katuše_,l" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="katuše_,l" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="katuše_,l" src="auto">NNFS7-----A----</AM>
 <AM lemma="kaťuše_,l" src="auto">NNFP2-----A----</AM>
 <AM lemma="kaťuše_,l" src="auto">NNFS7-----A----</AM>
-<AM lemma="Katuša_;m" src="manual" selected="1">NNFP2-----A----</AM>
+<AM lemma="Katuša_;m" src="manual">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m976-id59580-12">

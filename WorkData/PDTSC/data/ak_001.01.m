@@ -1467,8 +1467,8 @@
 <form>Esíčku</form>
 <tag>
 <AM lemma="esíčko" src="auto">NNNS3-----A----</AM>
-<AM lemma="esíčko" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="Esíčko_;G" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="esíčko" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
+<AM lemma="Esíčko_;G" src="manual">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m001-1360-1369">
@@ -1813,8 +1813,8 @@
 <form>Esíčku</form>
 <tag>
 <AM lemma="esíčko" src="auto">NNNS3-----A----</AM>
-<AM lemma="esíčko" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="Esíčko_;G" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="esíčko" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
+<AM lemma="Esíčko_;G" src="manual">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m001-1586-1689">

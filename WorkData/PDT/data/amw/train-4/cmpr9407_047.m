@@ -1254,7 +1254,10 @@
 <LM>w#w-cmpr9407-047-p6s1w47</LM>
 </w.rf>
 <form>Vysoké</form>
-<tag lemma="Vysoký-2_;G" src="orig" selected="1">AANS1----1A----</tag>
+<tag>
+<AM lemma="Vysoký-2_;G" src="orig">AANS1----1A----</AM>
+<AM lemma="vysoký" src="manual" selected="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-047-p6s1w48">
 <src.rf>manual</src.rf>
@@ -1278,7 +1281,10 @@
 <LM>w#w-cmpr9407-047-p6s1w50</LM>
 </w.rf>
 <form>Agrostroj</form>
-<tag lemma="Agrostroj" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Agrostroj" src="orig">NNIS1-----A----</AM>
+<AM lemma="Agrostroj_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-047-p6s1w51">
 <src.rf>manual</src.rf>
@@ -1438,7 +1444,10 @@
 <LM>w#w-cmpr9407-047-p6s1w70</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Kovo_;Y_;m" src="orig">NNNS1-----A----</AM>
+<AM lemma="Kovo_;m" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-047-p6s1w71">
 <src.rf>manual</src.rf>
@@ -1462,7 +1471,10 @@
 <LM>w#w-cmpr9407-047-p6s1w73</LM>
 </w.rf>
 <form>Kovoplast</form>
-<tag lemma="Kovoplast" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Kovoplast" src="orig">NNIS1-----A----</AM>
+<AM lemma="Kovoplast_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-047-p6s1w74">
 <src.rf>manual</src.rf>

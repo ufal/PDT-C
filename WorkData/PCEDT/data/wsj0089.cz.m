@@ -2512,14 +2512,14 @@
 <LM>w#w-wsj0089-001-p1s8W8</LM>
 </w.rf>
 <form>64</form>
-<tag>
-<AM lemma="64" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="64" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0089-001-p1s8W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0089-001-p1s8W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -2544,8 +2544,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0089-001-p1s8W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6850,6 +6851,7 @@
 <w.rf>
 <LM>w#w-wsj0089-001-p1s24W9</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Panny</form>
 <tag>
 <AM lemma="panna" src="auto">NNFP1-----A----</AM>
@@ -6859,8 +6861,9 @@
 <AM lemma="pannus_;U" src="auto">NNIP1-----A----</AM>
 <AM lemma="pannus_;U" src="auto">NNIP4-----A----</AM>
 <AM lemma="pannus_;U" src="auto">NNIP5-----A----</AM>
-<AM lemma="pannus_;U" src="auto">NNIP7-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="pannus_;U" src="auto">NNIP7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0089-001-p1s24W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8576,6 +8579,7 @@
 <w.rf>
 <LM>w#w-wsj0089-001-p1s29W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>zápěstí</form>
 <tag>
 <AM lemma="zápěstí" src="auto">NNNP1-----A----</AM>
@@ -8587,8 +8591,9 @@
 <AM lemma="zápěstí" src="auto">NNNS3-----A----</AM>
 <AM lemma="zápěstí" src="auto">NNNS4-----A----</AM>
 <AM lemma="zápěstí" src="auto">NNNS5-----A----</AM>
-<AM lemma="zápěstí" src="auto">NNNS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="zápěstí" src="auto">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0089-001-p1s29W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10226,6 +10231,7 @@
 <w.rf>
 <LM>w#w-wsj0089-001-p1s34W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>části</form>
 <tag>
 <AM lemma="část" src="auto">NNFP1-----A----</AM>
@@ -10234,8 +10240,9 @@
 <AM lemma="část" src="auto">NNFS2-----A----</AM>
 <AM lemma="část" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="část" src="auto">NNFS5-----A----</AM>
-<AM lemma="část" src="auto">NNFS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="část" src="auto">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0089-001-p1s34W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11072,6 +11079,7 @@
 <tag>
 <AM lemma="devon" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="devon" src="auto">NNIS4-----A----</AM>
+<AM lemma="Devon-2_;G" src="manual">NNIS1-----A----</AM>
 <AM lemma="Devon-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

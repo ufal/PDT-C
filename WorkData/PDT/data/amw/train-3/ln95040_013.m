@@ -135,7 +135,7 @@
 </w.rf>
 <form>Gany</form>
 <tag>
-<AM lemma="Gany_;m" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Gany_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Gan_;G" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="Gan_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Gan_;G" src="auto">NNIP5-----A----</AM>
@@ -143,6 +143,7 @@
 <AM lemma="Gana_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Gana_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Gana_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Gany-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-013-p1s1w16">
@@ -228,7 +229,8 @@
 <form>Louvre</form>
 <tag>
 <AM lemma="Louvre_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Louvre-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Louvre-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Louvre_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-013-p1s1w26">

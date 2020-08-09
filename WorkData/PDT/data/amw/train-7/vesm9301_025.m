@@ -11634,10 +11634,11 @@
 </w.rf>
 <form>Vilja</form>
 <tag>
-<AM lemma="Vilij_;Y" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Vilij_;Y" src="orig">NNMS4-----A----</AM>
 <AM lemma="Vilja_;Y_;m" src="auto">NNFS1-----A----</AM>
 <AM lemma="Viljo_;Y_,t" src="auto">NNMS2-----A----</AM>
 <AM lemma="Viljo_;Y_,t" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Vilj_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-025-p31s1w21">

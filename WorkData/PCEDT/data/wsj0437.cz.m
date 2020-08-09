@@ -3456,7 +3456,9 @@
 <AM lemma="Bougainville-1_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Bougainville-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bougainville-2_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Bougainville-1_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Bougainville-1_;G_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Bougainville-1_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Bougainville-1_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0437-001-p1s13W17-Ta">
@@ -4369,7 +4371,8 @@
 <AM lemma="Bougainville-1_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Bougainville-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bougainville-2_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Bougainville-1_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Bougainville-1_;G_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Bougainville-1_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0437-001-p1s17W9-Ta">

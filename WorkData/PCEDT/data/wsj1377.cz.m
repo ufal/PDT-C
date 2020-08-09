@@ -1152,7 +1152,8 @@
 <AM lemma="Dodge_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Dodge_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Dodge_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Dodge_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Dodge_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Dodge-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1377-001-p1s5W15-Ta">
@@ -1332,6 +1333,7 @@
 <tag>
 <AM lemma="Accura_;m_^(vozidlo)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="accura_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Acura_;m_,s_^(vozidlo)_(^DD**Accura)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1377-001-p1s5W29-Ta">
@@ -1352,7 +1354,8 @@
 <AM lemma="Sterling_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="sterling" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sterling" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sterling-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sterling-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Sterling-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1377-001-p1s5W31-Ta">

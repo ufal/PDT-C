@@ -3311,9 +3311,9 @@
 <form>Mauretánii</form>
 <tag>
 <AM lemma="Mauretánie_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Mauretánie_;G" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Mauretánie_;G" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 <AM lemma="Mauretánie_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Mauretánie_;G_;m" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Mauretánie_;G_;m" src="manual">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m914-d-id90178">

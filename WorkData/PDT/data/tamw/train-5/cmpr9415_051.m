@@ -6253,12 +6253,13 @@
 </w.rf>
 <form>Pumová</form>
 <tag>
-<AM lemma="Pumová_;Y" src="orig" selected="1">AAFS1----1A----</AM>
+<AM lemma="Pumová_;Y" src="orig">AAFS1----1A----</AM>
 <AM lemma="pumový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="pumový" src="auto">AAFS5----1A----</AM>
 <AM lemma="pumový" src="auto">AANP1----1A----</AM>
 <AM lemma="pumový" src="auto">AANP4----1A----</AM>
 <AM lemma="pumový" src="auto">AANP5----1A----</AM>
+<AM lemma="Pumová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 </s>

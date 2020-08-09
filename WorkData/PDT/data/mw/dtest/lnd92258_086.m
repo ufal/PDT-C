@@ -3982,7 +3982,8 @@
 <form>Bundeswehru</form>
 <tag>
 <AM lemma="bundeswehr" src="orig">NNIS2-----A----</AM>
-<AM lemma="Bundeswehr" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Bundeswehr" src="manual">NNIS2-----A----</AM>
+<AM lemma="Bundeswehr_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-086-p5s8w33">

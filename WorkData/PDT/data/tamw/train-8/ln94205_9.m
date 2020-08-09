@@ -122,6 +122,7 @@
 <form>GRAF</form>
 <tag>
 <AM lemma="graf" src="orig">NNIS1-----A----</AM>
+<AM lemma="Graf_;m" src="manual">NNIS1-----A----</AM>
 <AM lemma="Graf_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -2878,8 +2879,8 @@
 <AM lemma="Levi_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Levi_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Levi_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Levi_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Levi_;m" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Levi_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Levi_;m" src="manual">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-9-p11s1w7">
@@ -2889,8 +2890,8 @@
 </w.rf>
 <form>Strauss</form>
 <tag>
-<AM lemma="Strauss_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strauss_;m" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Strauss_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Strauss_;m" src="manual">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-9-p11s1w8">

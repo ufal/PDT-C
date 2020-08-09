@@ -2305,8 +2305,8 @@
 </w.rf>
 <form>Opera</form>
 <tag>
-<AM lemma="opera" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Opera_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="opera" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Opera_;m" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m714-d-id81976">

@@ -1486,7 +1486,8 @@
 <form>Aristidovi</form>
 <tag>
 <AM lemma="Aristid_;Y" src="orig">NNMS3-----A----</AM>
-<AM lemma="Aristide_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Aristide_;Y" src="manual">NNMS3-----A----</AM>
+<AM lemma="Aristide_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930702-113-p4s5w14">

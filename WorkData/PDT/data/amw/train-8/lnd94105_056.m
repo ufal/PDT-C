@@ -3259,7 +3259,8 @@
 <AM lemma="Faye_;Y_^(muž)" src="auto">NNMS6-----A----</AM>
 <AM lemma="Fayův_;Y_^(*2e)" src="auto">AUMP1M---------</AM>
 <AM lemma="Fayův_;Y_^(*2e)" src="auto">AUMP5M---------</AM>
-<AM lemma="Fay-1_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Fay-1_;Y" src="manual">NNMS3-----A----</AM>
+<AM lemma="Fay-1_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94105-056-p1s18w5">

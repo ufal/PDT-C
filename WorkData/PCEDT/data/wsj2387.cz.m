@@ -6262,7 +6262,8 @@
 <tag>
 <AM lemma="grid" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="grid" src="auto">NNIS4-----A----</AM>
-<AM lemma="GriD_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="GriD_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Grid_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2387-001-p1s20W29-Ta">

@@ -743,7 +743,8 @@
 <form>Chodovská</form>
 <tag>
 <AM lemma="Chodovská_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="chodovský" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="chodovský" src="manual">NNFS1-----A----</AM>
+<AM lemma="chodovský" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-055-p5s1w2">
@@ -1225,7 +1226,8 @@
 <form>Chodovská</form>
 <tag>
 <AM lemma="Chodovská_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="chodovský" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="chodovský" src="manual">NNFS1-----A----</AM>
+<AM lemma="chodovský" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-055-p6s1w2">

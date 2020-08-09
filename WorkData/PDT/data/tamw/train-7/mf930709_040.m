@@ -1165,7 +1165,8 @@
 <form>ART</form>
 <tag>
 <AM lemma="Art-2_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Art-2_;m" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Art-2_;m" src="manual">AAXXX----1A----</AM>
+<AM lemma="art-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-040-p28s1w2">
