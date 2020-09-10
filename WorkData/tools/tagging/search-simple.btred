@@ -1,0 +1,30 @@
+#!btred -N -T -e search_mu()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+my $input = '200910-lemmata.txt';
+open my $in, '<:encoding(UTF-8)', $input or die $!;
+chomp( my @lemmas = <$in> );
+my $lemmas_re = join '|', map quotemeta, @lemmas;
+$lemmas_re = qr/^($lemmas_re)\b/;
+
+sub search_mu {
+    return if $this == $root;
+
+    my $form = $this->{form};
+    my $tag = $this->attr('tag');
+    if (IsAlt($tag)) {
+        my @tags = AltV($tag);
+        undef $tag;
+        $tag = (grep $_->{selected}, @tags)[0];
+        $tag ||= (grep $_->{recommended}, @tags)[0];
+        die Position() unless $tag;
+    }
+
+    my $lemma = $tag->{lemma};
+    if ($lemma =~ /$lemmas_re/) {
+        print "$lemma\t";
+        FPosition();
+    }
+}
