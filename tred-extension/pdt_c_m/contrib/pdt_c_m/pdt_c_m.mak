@@ -1528,26 +1528,40 @@ undef @VALID_TAGS{qw(
     Vt-S---3P-NAI-4 Vt-S---3P-NAI-6 Vt-S---3P-NAI-7 Vt-S---3P-NAP-2
     Vt-S---3P-NAP-3 Vt-S---3P-NAP-5 Vt-S---3P-NAP-6 Vt-S---3P-NAP-7
     Xx------------- XX------------- Z:------------- NNMP2-----N---1
-    NNMP3-----N---1 NNFXX-----N---- NNNXX-----N---- NNPS6-----A---6
-    NNPS6-----N---6 NNNP7-----N---2 NNFS1-----N---1 NNIPX-----A----
-    NNIPX-----N---- P4ZS6--------s7 P4FS3--------s6 P4FS6--------s6
-    P4NS1--------s6 P4NP4--------s6 P4NS4--------s6 P4FS2--------s6
-    P4NP4--------s7 P4YS1--------s6 P4IS4--------s6 P4XP2--------s6
-    P4XP6--------s6 P4XP3--------s6 P4XP7--------s6 P4FD7--------s6
-    P4FS4--------s- P4FS7--------s- P4ZS6--------s6 P4ZS7--------s6
-    P4NP4--------s- P4NS1--------s- P4NS4--------s- P4FS2--------s-
-    P4FS6--------s- P4ZS2--------s- P4YS1--------s- P4IS4--------s-
-    P4ZS2--------s6 P4MS4--------s6 P4XP7--------s7 P4FD7--------s-
-    P4ZS3--------s6 PJFS4---------1 PJZS7---------1 PJXP2---------1
-    PJFS2---------1 PJFS3---------1 PJFS7---------1 PEFS2--3------1
-    PEFS3--3------1 PEFS7--3------1 PEZS2--3------2 PEXP2--3------1
-    P4XP4--------s6 P4ZS7--------s9 P4XP3--------s9 NNNP7-----A---8
-    NNNP7-----N---8 CnXXX---------1 PJXP4---------1 PJNS4---------1
-    P1FXXFS3------- P9FXXFS3------- PJFS6---------1 PJXP6---------1
-    PJXP1---------- PJZS2---------3 PJZS4---------3 PJZS2---------4
-    VpNP----R-AAP-6 VpNP----R-NAP-6 VsNP----X-APP-6 VsNP----X-NPP-6
-    VpNP----R-AAB-6 VpNP----R-NAB-6 VsNP----X-APB-6 VsNP----X-NPB-6
-    VpNP----R-AAI-6 VpNP----R-NAI-6 VsNP----X-API-6 VsNP----X-NPI-6
+    NNMP3-----N---1 NNFXX-----N---- NNNXX-----N---- NNNP7-----N---2
+    NNFS1-----N---1 NNIPX-----A---- NNIPX-----N---- P4ZS6--------s7
+    P4FS3--------s6 P4FS6--------s6 P4NS1--------s6 P4NP4--------s6
+    P4NS4--------s6 P4FS2--------s6 P4NP4--------s7 P4YS1--------s6
+    P4IS4--------s6 P4XP2--------s6 P4XP6--------s6 P4XP3--------s6
+    P4XP7--------s6 P4FD7--------s6 P4FS4--------s- P4FS7--------s-
+    P4ZS6--------s6 P4ZS7--------s6 P4NP4--------s- P4NS1--------s-
+    P4NS4--------s- P4FS2--------s- P4FS6--------s- P4ZS2--------s-
+    P4YS1--------s- P4IS4--------s- P4ZS2--------s6 P4MS4--------s6
+    P4XP7--------s7 P4FD7--------s- P4ZS3--------s6 PJFS4---------1
+    PJZS7---------1 PJXP2---------1 PJFS2---------1 PJFS3---------1
+    PJFS7---------1 PEFS2--3------1 PEFS3--3------1 PEFS7--3------1
+    PEZS2--3------2 PEXP2--3------1 P4XP4--------s6 P4ZS7--------s9
+    P4XP3--------s9 NNNP7-----A---8 NNNP7-----N---8 CnXXX---------1
+    PJXP4---------1 PJNS4---------1 P1FXXFS3------- P9FXXFS3-------
+    PJFS6---------1 PJXP6---------1 PJXP1---------- PJZS2---------3
+    PJZS4---------3 PJZS2---------4 VpNP----R-AAP-6 VpNP----R-NAP-6
+    VsNP----X-APP-6 VsNP----X-NPP-6 VpNP----R-AAB-6 VpNP----R-NAB-6
+    VsNP----X-APB-6 VsNP----X-NPB-6 VpNP----R-AAI-6 VpNP----R-NAI-6
+    VsNP----X-API-6 VsNP----X-NPI-6 NNFD7-----N---- NNMS1-----N---2
+    CzFXX---------1 PDXXX---------b NNFS1-----N---6 NNIS6-----N---7
+    NNIS7-----A---7 NNIS7-----N---7 NNFS4-----N---6 NNMS5-----N---2
+    VsNP----X-APP-7 VsNP----X-NPP-7 VsNP----X-API-7 VsNP----X-NPI-7
+    VpNP----R-AAP-7 VpNP----R-NAP-7 VpNP----R-AAB-7 VpNP----R-NAB-7
+    VpNP----R-AAI-7 VpNP----R-NAI-7 NNFP7-----A---8 NNFP7-----N---8
+    VsNP----X-API-8 VsNP----X-NPI-8 VpNP----R-AAP-8 VpNP----R-NAP-8
+    VpNP----R-AAP-9 VpNP----R-NAP-9 VsNP----X-APP-8 VsNP----X-NPP-8
+    VpNP----R-AAI-8 VpNP----R-NAI-8 P4FS4---------1 P4XP3---------1
+    P4XP7---------1 P4ZS4---------2 P4ZS3---------1 P4ZS7---------1
+    P4XP2---------1 P4FS2---------1 P4FS3---------1 P4FS7---------1
+    P4XP4---------1 P4NS4---------1 P4FS6---------1 P4XP6---------1
+    P4XP1---------- P4XP4---------- P4ZS2---------3 P4ZS4---------3
+    P4ZS2---------4 P4FS1---------6 P4YS4---------6 P4ZS2---------1
+    P4ZS4---------1 P4ZS4---------- VsNS----X-NPP-5
 )};
 my $NO_ANALYSIS = qr/^X@-+[-01]$/;
 my %VALID_POSITION;
