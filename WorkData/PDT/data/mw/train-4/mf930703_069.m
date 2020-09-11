@@ -268,7 +268,10 @@
 <LM>w#w-mf930703-069-p2s3w5</LM>
 </w.rf>
 <form>čtvrt</form>
-<tag lemma="čtvrt-1_^(neskl.)" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="čtvrt-1_^(neskl.)" src="orig">ClXS2----------</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930703-069-p2s3w6">
 <src.rf>manual</src.rf>

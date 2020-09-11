@@ -237,12 +237,13 @@
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS1----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS2----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS3----------</AM>
-<AM lemma="čtvrt-1_^(neskl.)" src="auto" selected="1">ClXS4----------</AM>
+<AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS4----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS6----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS7----------</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS1-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS5-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFS4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0291-001-p1s0W17-Ta">
@@ -1894,12 +1895,14 @@
 <w.rf>
 <LM>w#w-wsj0291-001-p1s3W42</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>pomocí</form>
 <tag>
 <AM lemma="pomoc" src="auto">NNFP2-----A----</AM>
 <AM lemma="pomoc" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="pomocí" src="auto">RR--2----------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="pomocí" src="auto">RR--2----------</AM>
+</tag>
+</m>
 <m id="m-wsj0291-001-p1s3W43-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

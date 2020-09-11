@@ -4424,6 +4424,7 @@
 <w.rf>
 <LM>w#w-wsj0322-001-p1s17W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>nakupování</form>
 <tag>
 <AM lemma="nakupování_^(*3at)" src="auto">NNNP1-----A----</AM>
@@ -4435,8 +4436,9 @@
 <AM lemma="nakupování_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="nakupování_^(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="nakupování_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="nakupování_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="nakupování_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0322-001-p1s17W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6224,6 +6226,7 @@
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS1-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS4-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS5-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFS4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0322-001-p1s26W9-Ta">
@@ -6419,12 +6422,14 @@
 <w.rf>
 <LM>w#w-wsj0322-001-p1s27W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="z-33" src="auto">Q3-------------</AM>
-<AM lemma="z-33" src="auto">Q3-------------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0322-001-p1s27W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

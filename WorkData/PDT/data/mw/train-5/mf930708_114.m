@@ -79,7 +79,8 @@
 <form>Olympique</form>
 <tag>
 <AM lemma="Olympique-1_;m_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Olympique-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Olympique-77" src="manual">F%-------------</AM>
+<AM lemma="Olympique-1_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-114-p2s1w6">
@@ -90,7 +91,8 @@
 <form>Marseille</form>
 <tag>
 <AM lemma="Marseille_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Marseille-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Marseille-77" src="manual">F%-------------</AM>
+<AM lemma="Marseille-1_;G" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-114-p2s1w7">
@@ -140,10 +142,10 @@
 </w.rf>
 <form>Valenciennes</form>
 <tag>
-<AM lemma="Valenciennes_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Valenciennes_;m" src="orig" selected="1">NNIXX-----A----</AM>
 <AM lemma="Valenciennes_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Valenciennes_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="Valenciennes-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Valenciennes-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-114-p2s1w13">
@@ -403,7 +405,8 @@
 <form>Olympique</form>
 <tag>
 <AM lemma="Olympique-1_;m_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Olympique-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Olympique-77" src="manual">F%-------------</AM>
+<AM lemma="Olympique-1_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-114-p2s1w44">
@@ -585,10 +588,10 @@
 </w.rf>
 <form>Valenciennes</form>
 <tag>
-<AM lemma="Valenciennes_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Valenciennes_;m" src="orig" selected="1">NNIXX-----A----</AM>
 <AM lemma="Valenciennes_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Valenciennes_;m" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Valenciennes-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Valenciennes-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-114-p2s3w11">

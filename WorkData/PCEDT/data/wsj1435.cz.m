@@ -124,7 +124,7 @@
 <AM lemma="čtvrť_^(města)" src="auto">NNFS2-----A---1</AM>
 <AM lemma="čtvrť_^(města)" src="auto">NNFS3-----A----</AM>
 <AM lemma="čtvrť_^(města)" src="auto">NNFS5-----A----</AM>
-<AM lemma="čtvrť_^(města)" src="auto">NNFS6-----A----</AM>
+<AM lemma="čtvrť_^(města)" src="auto" selected="1">NNFS6-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP1-----A---1</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP4-----A---1</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP5-----A---1</AM>
@@ -3625,13 +3625,14 @@
 <LM>w#w-wsj1435-001-p1s14W6</LM>
 </w.rf>
 <form>15</form>
-<tag>
-<AM lemma="15" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1435-001-p1s14W6-Ta-sw1">
+<tag lemma="15" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1435-001-p1s14W6-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1435-001-p1s14W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>librové</form>
 <tag>
 <AM lemma="librový" src="auto">AAFP1----1A----</AM>
@@ -3649,8 +3650,9 @@
 <AM lemma="librový" src="auto">AANP5----1A---6</AM>
 <AM lemma="librový" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="librový" src="auto">AANS4----1A----</AM>
-<AM lemma="librový" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="librový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1435-001-p1s14W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

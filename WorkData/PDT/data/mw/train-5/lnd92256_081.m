@@ -2027,7 +2027,10 @@
 <LM>w#w-lnd92256-081-p5s4w2</LM>
 </w.rf>
 <form>Hollywood</form>
-<tag lemma="Hollywood_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Hollywood_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Hollywood-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-081-p5s4w3">
 <src.rf>manual</src.rf>

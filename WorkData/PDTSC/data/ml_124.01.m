@@ -3492,8 +3492,9 @@
 <AM lemma="čtvrť_^(města)" src="auto">NNFP5-----A----</AM>
 <AM lemma="čtvrť_^(města)" src="auto">NNFS2-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP1-----A----</AM>
-<AM lemma="čtvrt-2_^(čtvrtina)" src="auto" selected="1">NNFP4-----A----</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP4-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP5-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFP4----------</AM>
 </tag>
 </m>
 <m id="m124-d1t321-13">

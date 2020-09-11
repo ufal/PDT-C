@@ -130,8 +130,9 @@
 </w.rf>
 <form>vlk</form>
 <tag>
-<AM lemma="vlk-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="vlk-99_;Y" src="orig">NNXXX-----A---b</AM>
 <AM lemma="vlk" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="vlk-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-071-p2s1w8">
@@ -286,7 +287,8 @@
 <form>Olympique</form>
 <tag>
 <AM lemma="Olympique-1_;m_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Olympique-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Olympique-77" src="manual">F%-------------</AM>
+<AM lemma="Olympique-1_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -297,7 +299,10 @@
 <LM>w#w-mf930702-071-p2s2w1</LM>
 </w.rf>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Marseille_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Marseille-1_;G" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-071-p2s2w2">
 <src.rf>manual</src.rf>
@@ -553,7 +558,10 @@
 <LM>w#w-mf930702-071-p2s3w17</LM>
 </w.rf>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="Marseille_;G" src="orig">NNNS2-----A----</AM>
+<AM lemma="Marseille-1_;G" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-071-p2s3w18">
 <src.rf>manual</src.rf>
@@ -1261,7 +1269,10 @@
 <LM>w#w-mf930702-071-p3s2w14</LM>
 </w.rf>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Marseille_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Marseille-1_;G" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-071-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1629,7 +1640,10 @@
 <LM>w#w-mf930702-071-p3s4w19</LM>
 </w.rf>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Marseille_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Marseille-1_;G" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-071-p3s4w20">
 <src.rf>manual</src.rf>

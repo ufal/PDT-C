@@ -4320,6 +4320,7 @@
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS1-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS4-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS5-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFS1----------</AM>
 </tag>
 </m>
 <m id="m116-d1t1726-20">

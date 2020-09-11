@@ -452,7 +452,10 @@
 <LM>w#w-lnd92259-013-p3s2w4</LM>
 </w.rf>
 <form>čtvrtě</form>
-<tag lemma="čtvrt-2_^(čtvrtina)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="orig">NNFP4-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFP4----------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-013-p3s2w5">
 <src.rf>manual</src.rf>

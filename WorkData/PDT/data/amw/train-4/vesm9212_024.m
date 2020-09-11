@@ -3189,7 +3189,10 @@
 <LM>w#w-vesm9212-024-p6s2w15</LM>
 </w.rf>
 <form>čtvrt</form>
-<tag lemma="čtvrt-2_^(čtvrtina)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="orig">NNFS4-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFS4----------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-024-p6s2w16">
 <src.rf>manual</src.rf>

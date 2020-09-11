@@ -4080,7 +4080,7 @@
 </w.rf>
 <form>ve</form>
 <tag>
-<AM lemma="v-1" src="auto">RV--4----------</AM>
+<AM lemma="v-1" src="auto" selected="1">RV--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RV--6----------</AM>
 </tag>
 </m>
@@ -4094,11 +4094,12 @@
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS2----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS3----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS4----------</AM>
-<AM lemma="čtvrt-1_^(neskl.)" src="auto" recommended="1" selected="1">ClXS6----------</AM>
+<AM lemma="čtvrt-1_^(neskl.)" src="auto" recommended="1">ClXS6----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS7----------</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS1-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS4-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS5-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFS4----------</AM>
 </tag>
 </m>
 <m id="m029-d1t3268-14">
@@ -4561,12 +4562,13 @@
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS1----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto" recommended="1">ClXS2----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS3----------</AM>
-<AM lemma="čtvrt-1_^(neskl.)" src="auto" selected="1">ClXS4----------</AM>
+<AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS4----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS6----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS7----------</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS1-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS4-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS5-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFS4----------</AM>
 </tag>
 </m>
 <m id="m029-d-m-d1e3273-x2-punct-punct">

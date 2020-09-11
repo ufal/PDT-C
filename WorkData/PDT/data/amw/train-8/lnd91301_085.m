@@ -441,7 +441,10 @@
 <form>Olympique</form>
 <tag>
 <AM lemma="Olympique-1_;m_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Olympique-1_;m_^(souč._názvu_franc._sport._klubů)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Olympique-1_;m_^(souč._názvu_franc._sport._klubů)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Olympique-77" src="manual">F%-------------</AM>
+<AM lemma="Olympique-1_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Olympique_;m" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-085-p5s1w13">
@@ -450,7 +453,10 @@
 <LM>w#w-lnd91301-085-p5s1w13</LM>
 </w.rf>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Marseille_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Marseille-1_;G" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-085-p5s1w14">
 <src.rf>manual</src.rf>

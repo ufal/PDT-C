@@ -1915,8 +1915,9 @@
 <AM lemma="čtvrť_^(města)" src="auto">NNFP5-----A----</AM>
 <AM lemma="čtvrť_^(města)" src="auto">NNFS2-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="čtvrt-2_^(čtvrtina)" src="auto" selected="1">NNFP4-----A----</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP4-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP5-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFP4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0267-001-p1s7W6-Ta">
@@ -2911,14 +2912,14 @@
 <LM>w#w-wsj0267-001-p1s9W7</LM>
 </w.rf>
 <form>80</form>
-<tag>
-<AM lemma="80" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="80" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0267-001-p1s9W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0267-001-p1s9W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>stránkové</form>
 <tag>
 <AM lemma="stránkový" src="auto">AAFP1----1A----</AM>
@@ -2936,8 +2937,9 @@
 <AM lemma="stránkový" src="auto">AANP5----1A---6</AM>
 <AM lemma="stránkový" src="auto">AANS1----1A----</AM>
 <AM lemma="stránkový" src="auto">AANS4----1A----</AM>
-<AM lemma="stránkový" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="stránkový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0267-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11369,10 +11371,10 @@
 <w.rf>
 <LM>w#w-wsj0267-001-p1s31W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>jedním</form>
-<tag>
-<AM lemma="jeden`1" src="auto" recommended="1">CnZS7----------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="jeden`1" src="auto" recommended="1">CnZS7----------</tag>
+</m>
 <m id="m-wsj0267-001-p1s31W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

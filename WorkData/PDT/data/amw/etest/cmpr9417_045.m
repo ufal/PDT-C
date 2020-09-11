@@ -4374,7 +4374,10 @@
 <LM>w#w-cmpr9417-045-p16s2w20</LM>
 </w.rf>
 <form>čtvrt</form>
-<tag lemma="čtvrt-1_^(neskl.)" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="čtvrt-1_^(neskl.)" src="orig">ClXS2----------</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFXX----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-045-p16s2w21">
 <src.rf>manual</src.rf>
@@ -4449,7 +4452,10 @@
 <LM>w#w-cmpr9417-045-p16s2w29</LM>
 </w.rf>
 <form>čtvrt</form>
-<tag lemma="čtvrt-2_^(čtvrtina)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="orig">NNFS4-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFS4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-045-p16s2w30">
 <src.rf>manual</src.rf>

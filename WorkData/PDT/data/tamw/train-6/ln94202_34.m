@@ -88,7 +88,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>čtvrtě</form>
-<tag lemma="čtvrt-2_^(čtvrtina)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="orig">NNFP4-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFP4----------</AM>
+</tag>
 </m>
 <m id="m-ln94202-34-p1s1w10">
 <src.rf>manual</src.rf>
@@ -1928,7 +1931,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>čtvrtě</form>
-<tag lemma="čtvrt-2_^(čtvrtina)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="orig">NNFP4-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFP4----------</AM>
+</tag>
 </m>
 <m id="m-ln94202-34-p5s4w14">
 <src.rf>manual</src.rf>

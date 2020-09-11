@@ -1439,7 +1439,10 @@
 <LM>w#w-mf920924-017-p2s11w3</LM>
 </w.rf>
 <form>čtvrt</form>
-<tag lemma="čtvrt-2_^(čtvrtina)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="orig">NNFS1-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFS1----------</AM>
+</tag>
 </m>
 <m id="m-mf920924-017-p2s11w4">
 <src.rf>manual</src.rf>

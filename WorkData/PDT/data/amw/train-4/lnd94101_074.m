@@ -2628,7 +2628,10 @@
 <LM>w#w-lnd94101-074-p1s12w16</LM>
 </w.rf>
 <form>čtvrt</form>
-<tag lemma="čtvrt-1_^(neskl.)" src="orig" selected="1">ClXS7----------</tag>
+<tag>
+<AM lemma="čtvrt-1_^(neskl.)" src="orig">ClXS7----------</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFXX----------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-074-p1s12w17">
 <src.rf>manual</src.rf>

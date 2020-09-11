@@ -2833,7 +2833,8 @@
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP4-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP5-----A----</AM>
-<AM lemma="čtvrt-2_^(čtvrtina)_(*2)" src="manual" selected="1">NNFP4-----A----</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)_(*2)" src="manual">NNFP4-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFP4----------</AM>
 </tag>
 </m>
 <m id="m032-d1t2549-12">

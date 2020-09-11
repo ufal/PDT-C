@@ -5239,7 +5239,7 @@
 <AM lemma="čtvrť_^(města)" src="auto">NNFP1-----A---1</AM>
 <AM lemma="čtvrť_^(města)" src="auto">NNFP4-----A---1</AM>
 <AM lemma="čtvrť_^(města)" src="auto">NNFP5-----A---1</AM>
-<AM lemma="čtvrť_^(města)" src="auto">NNFS2-----A---1</AM>
+<AM lemma="čtvrť_^(města)" src="auto" selected="1">NNFS2-----A---1</AM>
 <AM lemma="čtvrť_^(města)" src="auto">NNFS3-----A----</AM>
 <AM lemma="čtvrť_^(města)" src="auto">NNFS5-----A----</AM>
 <AM lemma="čtvrť_^(města)" src="auto">NNFS6-----A----</AM>

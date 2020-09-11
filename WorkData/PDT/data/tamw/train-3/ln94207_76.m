@@ -20613,7 +20613,10 @@
 <LM>w#w-ln94207-76-p13s3w15</LM>
 </w.rf>
 <form>čtvrt</form>
-<tag lemma="čtvrt-2_^(čtvrtina)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="orig">NNFS4-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFS4----------</AM>
+</tag>
 </m>
 <m id="m-ln94207-76-p13s3w16">
 <src.rf>manual</src.rf>
@@ -20653,7 +20656,10 @@
 <LM>w#w-ln94207-76-p13s3w20</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-76-p13s3w21">
 <src.rf>manual</src.rf>

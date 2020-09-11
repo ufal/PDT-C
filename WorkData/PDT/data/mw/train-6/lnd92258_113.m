@@ -501,7 +501,10 @@
 <LM>w#w-lnd92258-113-p3s3w1</LM>
 </w.rf>
 <form>Čtvrt</form>
-<tag lemma="čtvrt-2_^(čtvrtina)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="orig">NNFS4-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFS4----------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-113-p3s3w2">
 <src.rf>manual</src.rf>

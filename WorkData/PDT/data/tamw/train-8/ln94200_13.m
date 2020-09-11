@@ -239,7 +239,10 @@
 <LM>w#w-ln94200-13-p2s2w3</LM>
 </w.rf>
 <form>čtvrt</form>
-<tag lemma="čtvrt-1_^(neskl.)" src="orig" selected="1">ClXS6----------</tag>
+<tag>
+<AM lemma="čtvrt-1_^(neskl.)" src="orig">ClXS6----------</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFXX----------</AM>
+</tag>
 </m>
 <m id="m-ln94200-13-p2s2w4">
 <src.rf>manual</src.rf>

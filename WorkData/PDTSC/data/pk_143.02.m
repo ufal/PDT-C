@@ -4871,7 +4871,8 @@
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP4-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP5-----A----</AM>
 <AM lemma="čtvrt" src="manual">CzFP1----------</AM>
-<AM lemma="čtvrt" src="manual" selected="1">CzFXX----------</AM>
+<AM lemma="čtvrt" src="manual">CzFXX----------</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFXX---------1</AM>
 </tag>
 </m>
 <m id="m143-d1t761-1">
