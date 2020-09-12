@@ -1,5 +1,9 @@
 # -*- mode: org -*-
 
+* Rename vallex
+
+  find . -name .git -prune -o -type f -exec grep 'vallex3\.xml' {} + |  grep -v id= 
+
 * Broken links t->a
 
 for tb in PCEDT PDTSC ; do
