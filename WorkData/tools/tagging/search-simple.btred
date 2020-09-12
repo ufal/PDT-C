@@ -7,7 +7,7 @@ my $input = '200910-lemmata.txt';
 open my $in, '<:encoding(UTF-8)', $input or die $!;
 chomp( my @lemmas = <$in> );
 my $lemmas_re = join '|', map quotemeta, @lemmas;
-$lemmas_re = qr/^($lemmas_re)\b/;
+$lemmas_re = qr/^($lemmas_re)(?:\b|_)/;
 
 sub search_mu {
     return if $this == $root;
