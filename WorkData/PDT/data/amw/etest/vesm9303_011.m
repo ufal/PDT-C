@@ -1964,7 +1964,8 @@
 <form>Doc</form>
 <tag>
 <AM lemma="docent_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Doc_^(docent)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Doc_^(docent)" src="manual">BNXXX-----A----</AM>
+<AM lemma="doc_^(docent)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-011-p7s1w2">
@@ -2427,7 +2428,8 @@
 <form>Doc</form>
 <tag>
 <AM lemma="docent_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Doc_^(docent)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Doc_^(docent)" src="manual">BNXXX-----A----</AM>
+<AM lemma="doc_^(docent)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-011-p8s1w2">

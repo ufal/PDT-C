@@ -5452,7 +5452,8 @@
 <AM lemma="baba" src="auto">NNFS2-----A----</AM>
 <AM lemma="baby-1" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="baby-2" src="auto">AAXXX----1A----</AM>
-<AM lemma="Baby_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Baby_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Baby-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2013-001-p1s19W33-Ta">
@@ -5465,7 +5466,8 @@
 <AM lemma="doc-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="docent_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="docentka_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Doc_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Doc_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Doc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2013-001-p1s19W34-Ta">

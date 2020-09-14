@@ -1645,7 +1645,8 @@
 <form>Doc</form>
 <tag>
 <AM lemma="docent_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Doc_^(docent)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="Doc_^(docent)" src="manual">NNXXX-----A---b</AM>
+<AM lemma="doc_^(docent)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p7s1w2">

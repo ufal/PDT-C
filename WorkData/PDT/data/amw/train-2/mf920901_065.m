@@ -2394,7 +2394,8 @@
 <form>Olympiquem</form>
 <tag>
 <AM lemma="Olympique_;m_,t" src="orig">NNIS7-----A----</AM>
-<AM lemma="Olympique_;m" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Olympique_;m" src="manual">NNIS7-----A----</AM>
+<AM lemma="Olympique-1_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-065-p4s2w12">
