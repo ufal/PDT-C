@@ -2726,7 +2726,7 @@
 <LM>w#w-d1t1025-5</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m103-d1t1025-6">
 <w.rf>

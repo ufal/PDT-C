@@ -1557,7 +1557,7 @@
 <LM>w#w-mf920901-063-p5s1w39</LM>
 </w.rf>
 <form>Kr</form>
-<tag lemma="Králové_;G" src="orig" selected="1">NNFS2-----A---b</tag>
+<tag lemma="Králové_;G_^(Dvůr_Králové)" src="orig" selected="1">NNFS2-----A---b</tag>
 </m>
 <m id="m-mf920901-063-p5s1w40">
 <src.rf>manual</src.rf>
@@ -1693,7 +1693,7 @@
 <LM>w#w-mf920901-063-p5s1w56</LM>
 </w.rf>
 <form>Kr</form>
-<tag lemma="Králové_;G" src="orig" selected="1">NNFS2-----A---b</tag>
+<tag lemma="Králové_;G_^(Dvůr_Králové)" src="orig" selected="1">NNFS2-----A---b</tag>
 </m>
 <m id="m-mf920901-063-p5s1w57">
 <src.rf>manual</src.rf>

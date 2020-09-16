@@ -3034,7 +3034,7 @@
 <LM>w#w-wsj1306-001-p1s10W5</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="m-wsj1306-001-p1s10W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -3991,7 +3991,7 @@
 <LM>w#w-vesm9212-045-p3s2w14</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9212-045-p3s2w15">
 <src.rf>manual</src.rf>
@@ -4948,7 +4948,7 @@
 <LM>w#w-vesm9212-045-p4s5w26</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9212-045-p4s5w27">
 <src.rf>manual</src.rf>

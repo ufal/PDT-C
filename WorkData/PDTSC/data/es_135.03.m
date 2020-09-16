@@ -4564,7 +4564,7 @@
 <LM>w#w-d1t605-3</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="m135-d1t605-4">
 <w.rf>

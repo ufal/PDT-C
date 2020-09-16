@@ -1771,7 +1771,7 @@
 <LM>w#w-d1t1021-5</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m045-d-m-d1e1016-x2-punct-punct">
 <w.rf>

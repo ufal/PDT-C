@@ -892,7 +892,7 @@
 <tag>
 <AM lemma="Brit_;E" src="orig">NNMS1-----A----</AM>
 <AM lemma="Brit_;E" src="manual">NNMS1-----A---8</AM>
-<AM lemma="Británie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Británie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-120-p1s11w15">

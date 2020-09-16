@@ -425,7 +425,7 @@
 <LM>w#w-ln95042-057-p2s2w34</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95042-057-p2s2w35">
 <src.rf>manual</src.rf>
@@ -2963,7 +2963,7 @@
 <LM>w#w-ln95042-057-p3s11w13</LM>
 </w.rf>
 <form>jimž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP3----------</tag>
 </m>
 <m id="m-ln95042-057-p3s11w14">
 <src.rf>manual</src.rf>
@@ -6653,7 +6653,7 @@
 <LM>w#w-ln95042-057-p6s5w33</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln95042-057-p6s5w34">
 <src.rf>manual</src.rf>

@@ -496,7 +496,7 @@
 <LM>w#w-wsj0711-001-p1s1W5</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS6----------</tag>
 </m>
 <m id="m-wsj0711-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -651,7 +651,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>

@@ -1387,7 +1387,7 @@
 <LM>w#w-lnd94104-042-p1s11w13</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd94104-042-p1s11w14">
 <src.rf>manual</src.rf>
@@ -1574,7 +1574,7 @@
 <LM>w#w-lnd94104-042-p1s11w36</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd94104-042-p1s11w37">
 <src.rf>manual</src.rf>
@@ -1816,7 +1816,7 @@
 <LM>w#w-lnd94104-042-p1s12w28</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-lnd94104-042-p1s12w29">
 <src.rf>manual</src.rf>
@@ -1970,7 +1970,7 @@
 <LM>w#w-lnd94104-042-p1s13w15</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd94104-042-p1s13w16">
 <src.rf>manual</src.rf>
@@ -2053,7 +2053,7 @@
 <LM>w#w-lnd94104-042-p1s14w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd94104-042-p1s14w2">
 <src.rf>manual</src.rf>

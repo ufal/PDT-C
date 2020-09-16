@@ -70,7 +70,7 @@
 </w.rf>
 <form>mel</form>
 <tag>
-<AM lemma="mel-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="mel-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="mlít" src="auto">Vi-S---3--A-I-4</AM>
@@ -314,7 +314,7 @@
 <LM>w#w-ln94207-64-p2s1Bw27</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94207-64-p2s1Bw28">
 <src.rf>manual</src.rf>

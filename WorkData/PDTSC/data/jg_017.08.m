@@ -657,7 +657,7 @@
 <LM>w#w-d1t2395-5</LM>
 </w.rf>
 <form>vašemu</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS3-P2-------</tag>
 </m>
 <m id="m017-d1t2395-6">
 <w.rf>

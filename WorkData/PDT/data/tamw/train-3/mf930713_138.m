@@ -1667,7 +1667,7 @@
 <LM>w#w-mf930713-138-p4s3w13</LM>
 </w.rf>
 <form>nímž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS7---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS7---------1</tag>
 </m>
 <m id="m-mf930713-138-p4s3w14">
 <src.rf>manual</src.rf>
@@ -2189,7 +2189,7 @@
 <LM>w#w-mf930713-138-p5s2w25</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf930713-138-p5s2w26">
 <src.rf>manual</src.rf>
@@ -2377,7 +2377,7 @@
 <LM>w#w-mf930713-138-p6s2w10</LM>
 </w.rf>
 <form>jímž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS7----------</tag>
 </m>
 <m id="m-mf930713-138-p6s2w11">
 <src.rf>manual</src.rf>

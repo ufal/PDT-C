@@ -1273,7 +1273,7 @@
 <LM>w#w-mu_08-SCzechM-p0784-s1-w9</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="mu_08-SCzechM-p0784-s1-w10">
 <w.rf>

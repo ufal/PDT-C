@@ -3525,7 +3525,7 @@
 </w.rf>
 <form>niž</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJFS4---------1</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4FS4---------1</AM>
 <AM lemma="nížit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="nížit" src="auto">Vi-S---3--A-I-4</AM>
 </tag>
@@ -5707,7 +5707,7 @@
 <LM>w#w-wsj0477-001-p1s17W9</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj0477-001-p1s17W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7052,7 +7052,7 @@
 <LM>w#w-wsj0477-001-p1s21W4</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m-wsj0477-001-p1s21W5-Ta">
 <src.rf>tagger-a</src.rf>

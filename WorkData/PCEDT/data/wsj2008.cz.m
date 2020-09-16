@@ -3502,7 +3502,7 @@
 <LM>w#w-wsj2008-001-p1s11W7</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj2008-001-p1s11W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3746,7 +3746,7 @@
 <AM lemma="Bonito-1_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Bonito-2_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="bonita" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Bonita-3_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Bonita_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s11W27-Ta">

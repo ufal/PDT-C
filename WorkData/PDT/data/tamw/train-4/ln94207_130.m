@@ -93,7 +93,7 @@
 <LM>w#w-ln94207-130-p2s1w9</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-ln94207-130-p2s1w10">
 <src.rf>manual</src.rf>

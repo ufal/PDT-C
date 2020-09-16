@@ -1600,7 +1600,7 @@
 <LM>w#w-lnd92251-036-p7s2w12</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-lnd92251-036-p7s2w13">
 <src.rf>manual</src.rf>

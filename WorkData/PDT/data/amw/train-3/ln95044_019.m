@@ -347,7 +347,7 @@
 <LM>w#w-ln95044-019-p3s1w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95044-019-p3s1w2">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-ln95044-019-p3s4w17</LM>
 </w.rf>
 <form>němuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS3---------1</tag>
 </m>
 <m id="m-ln95044-019-p3s4w18">
 <src.rf>manual</src.rf>

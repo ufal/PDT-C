@@ -5158,7 +5158,7 @@
 <LM>w#w-2359-1936</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m023-2359-1937">
 <w.rf>

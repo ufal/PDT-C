@@ -4099,7 +4099,7 @@
 <LM>w#w-ln94204-130-p4s19w15</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94204-130-p4s19w16">
 <src.rf>manual</src.rf>
@@ -4325,7 +4325,7 @@
 <LM>w#w-ln94204-130-p4s21w9</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-ln94204-130-p4s21w10">
 <src.rf>manual</src.rf>

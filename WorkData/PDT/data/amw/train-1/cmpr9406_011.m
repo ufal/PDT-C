@@ -585,7 +585,7 @@
 <form>vlastně</form>
 <tag>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
-<AM lemma="vlastně-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-011-p4s4w5">
@@ -666,7 +666,7 @@
 <LM>w#w-cmpr9406-011-p4s4w14</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9406-011-p4s4w15">
 <src.rf>manual</src.rf>
@@ -1772,7 +1772,7 @@
 <LM>w#w-cmpr9406-011-p9s1w10</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9406-011-p9s1w11">
 <src.rf>manual</src.rf>

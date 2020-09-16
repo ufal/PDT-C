@@ -1602,7 +1602,7 @@
 <LM>w#w-d1t1272-13</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m001-d1t1272-14">
 <w.rf>
@@ -1763,7 +1763,7 @@
 <LM>w#w-d1t1277-14</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m001-134-142">
 <w.rf>
@@ -4953,7 +4953,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1" selected="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1" selected="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -5144,7 +5144,7 @@
 </w.rf>
 <form>Jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1" selected="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1" selected="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -6354,7 +6354,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1" selected="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1" selected="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>

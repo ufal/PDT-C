@@ -1872,7 +1872,7 @@
 <LM>w#w-d1t179-1</LM>
 </w.rf>
 <form>Mému</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS3-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS3-S1-------</tag>
 </m>
 <m id="m006-d1t179-2">
 <w.rf>
@@ -2152,7 +2152,7 @@
 </w.rf>
 <form>Jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>

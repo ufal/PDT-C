@@ -2246,7 +2246,7 @@
 <LM>w#w-wsj1862-001-p1s6W11</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj1862-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>

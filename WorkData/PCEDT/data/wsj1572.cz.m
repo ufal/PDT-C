@@ -651,7 +651,7 @@
 <LM>w#w-wsj1572-001-p1s5W16</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS6----------</tag>
 </m>
 <m id="m-wsj1572-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7293,7 +7293,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -8596,7 +8596,7 @@
 <LM>w#w-wsj1572-001-p1s32W17</LM>
 </w.rf>
 <form>nímž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS7---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS7---------1</tag>
 </m>
 <m id="m-wsj1572-001-p1s32W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13727,7 +13727,7 @@
 <LM>w#w-wsj1572-001-p1s50W25</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1572-001-p1s50W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14130,7 +14130,7 @@
 <LM>w#w-wsj1572-001-p1s52W13</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj1572-001-p1s52W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15117,7 +15117,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -19081,7 +19081,7 @@
 <LM>w#w-wsj1572-001-p1s69W31</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" src="auto" recommended="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="auto" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="m-wsj1572-001-p1s69W32-Ta">
 <src.rf>tagger-a</src.rf>

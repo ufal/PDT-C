@@ -513,7 +513,7 @@
 <LM>w#w-mf920902-093-p2s3w32</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920902-093-p2s3w33">
 <src.rf>manual</src.rf>

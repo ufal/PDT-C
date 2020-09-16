@@ -2512,7 +2512,7 @@
 <LM>w#w-mf920925-101-p9s3w5</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf920925-101-p9s3w6">
 <src.rf>manual</src.rf>

@@ -3041,7 +3041,7 @@
 <LM>w#w-wsj1022-001-p1s7W14</LM>
 </w.rf>
 <form>nimiž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP7---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP7---------1</tag>
 </m>
 <m id="m-wsj1022-001-p1s7W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3092,7 +3092,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -9284,7 +9284,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -9778,7 +9778,7 @@
 <LM>w#w-wsj1022-001-p1s28W24</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m-wsj1022-001-p1s28W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10359,7 +10359,7 @@
 </w.rf>
 <form>Jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -10929,7 +10929,7 @@
 <LM>w#w-wsj1022-001-p1s32W24</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m-wsj1022-001-p1s32W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15213,7 +15213,7 @@
 <LM>w#w-wsj1022-001-p1s44W35</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj1022-001-p1s44W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15348,7 +15348,7 @@
 <LM>w#w-wsj1022-001-p1s45W9</LM>
 </w.rf>
 <form>nimž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP3---------1</tag>
 </m>
 <m id="m-wsj1022-001-p1s45W10-Ta">
 <src.rf>tagger-a</src.rf>

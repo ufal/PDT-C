@@ -3856,7 +3856,7 @@
 <LM>w#w-mu_05-SCzechM-p0496-s1-w35</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="mu_05-SCzechM-p0496-s1-w36">
 <w.rf>
@@ -6730,7 +6730,7 @@
 <LM>w#w-mu_05-SCzechM-p0538-s1-w42</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="mu_05-SCzechM-p0538-s1-w43">
 <w.rf>

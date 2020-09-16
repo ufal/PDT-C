@@ -1115,7 +1115,7 @@
 <LM>w#w-d1t1021-14</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m711-d1e875-x16-278">
 <w.rf>
@@ -2649,7 +2649,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -4019,7 +4019,7 @@
 <LM>w#w-d1t1147-14</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
+<tag lemma="co-1" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m711-d-id108183">
 <w.rf>

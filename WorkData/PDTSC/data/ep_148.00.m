@@ -816,7 +816,7 @@
 <LM>w#w-d1t60-8</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m148-d1t60-9">
 <w.rf>

@@ -1706,7 +1706,7 @@
 <LM>w#w-wsj1360-001-p1s3W39</LM>
 </w.rf>
 <form>jímž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS7----------</tag>
 </m>
 <m id="m-wsj1360-001-p1s3W40-Ta">
 <src.rf>tagger-a</src.rf>

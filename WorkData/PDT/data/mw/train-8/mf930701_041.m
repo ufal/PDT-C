@@ -1594,7 +1594,7 @@
 <LM>w#w-mf930701-041-p3s3w31</LM>
 </w.rf>
 <form>oč</form>
-<tag lemma="co" src="orig" selected="1">PQ--4--------o-</tag>
+<tag lemma="co-1" src="orig" selected="1">PQ--4--------o-</tag>
 </m>
 <m id="m-mf930701-041-p3s3w32">
 <src.rf>manual</src.rf>
@@ -1821,7 +1821,7 @@
 <LM>w#w-mf930701-041-p4s1w20</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930701-041-p4s1w21">
 <src.rf>manual</src.rf>
@@ -2244,7 +2244,7 @@
 <LM>w#w-mf930701-041-p4s3w20</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930701-041-p4s3w21">
 <src.rf>manual</src.rf>

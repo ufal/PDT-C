@@ -628,7 +628,7 @@
 <LM>w#w-mf920923-128-p4s4w12</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920923-128-p4s4w13">
 <src.rf>manual</src.rf>

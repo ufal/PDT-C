@@ -801,7 +801,7 @@
 <LM>w#w-d1t3369-13</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="m139-d1t3369-14">
 <w.rf>
@@ -2420,7 +2420,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9XXXZS3-------</AM>
 </tag>
 </m>
 <m id="m139-d1t3514-2">

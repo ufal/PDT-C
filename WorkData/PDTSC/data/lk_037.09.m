@@ -2600,7 +2600,7 @@
 <LM>w#w-d1t3074-26</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m037-287-288">
 <w.rf>
@@ -3714,7 +3714,7 @@
 <LM>w#w-d1t3155-23</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m037-d1t3155-13">
 <w.rf>

@@ -964,7 +964,7 @@
 <LM>w#w-d1t857-24</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m714-d-id103910">
 <w.rf>
@@ -1642,7 +1642,7 @@
 <LM>w#w-d1t880-21</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m714-d1t880-26">
 <w.rf>
@@ -5748,7 +5748,7 @@
 <LM>w#w-d1t967-7</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m714-d-id112170">
 <w.rf>

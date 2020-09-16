@@ -1433,7 +1433,7 @@
 <LM>w#w-vesm9303-048-p6s1w38</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-vesm9303-048-p6s1w39">
 <src.rf>manual</src.rf>

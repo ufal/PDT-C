@@ -2015,7 +2015,7 @@
 <LM>w#w-d1t551-15</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m915-d1t551-16">
 <w.rf>
@@ -2173,7 +2173,7 @@
 <LM>w#w-d1t551-27</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m915-d-id73463">
 <w.rf>
@@ -5051,7 +5051,7 @@
 <LM>w#w-d1t690-7</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m915-d1t690-8">
 <w.rf>
@@ -6595,7 +6595,7 @@
 <LM>w#w-d1t751-4</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m915-d1t751-5">
 <w.rf>

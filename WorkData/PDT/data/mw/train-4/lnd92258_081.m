@@ -2260,7 +2260,7 @@
 <LM>w#w-lnd92258-081-p5s6w40</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-lnd92258-081-p5s6w41">
 <src.rf>manual</src.rf>

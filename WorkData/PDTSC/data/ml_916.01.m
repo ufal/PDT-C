@@ -2728,7 +2728,7 @@
 <LM>w#w-d1t505-4</LM>
 </w.rf>
 <form>mému</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS3-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS3-S1-------</tag>
 </m>
 <m id="m916-d1t505-5">
 <w.rf>
@@ -3927,7 +3927,7 @@
 <LM>w#w-d1t553-5</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m916-d-id76359">
 <w.rf>
@@ -4153,7 +4153,7 @@
 <LM>w#w-d1t565-4</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m916-d1t565-5">
 <w.rf>
@@ -4211,7 +4211,7 @@
 <LM>w#w-d1t565-10</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m916-d1t565-12">
 <w.rf>
@@ -5353,7 +5353,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -7001,7 +7001,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -7452,7 +7452,7 @@
 <LM>w#w-d1t695-9</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8XP7----------</tag>
 </m>
 <m id="m916-d1t695-10">
 <w.rf>

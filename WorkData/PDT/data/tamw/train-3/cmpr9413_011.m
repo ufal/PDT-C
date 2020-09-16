@@ -1658,7 +1658,7 @@
 <LM>w#w-cmpr9413-011-p8s3w3</LM>
 </w.rf>
 <form>našemu</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS3-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS3-P1-------</tag>
 </m>
 <m id="m-cmpr9413-011-p8s3w4">
 <src.rf>manual</src.rf>
@@ -4338,7 +4338,7 @@
 <LM>w#w-cmpr9413-011-p20s2w6</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-cmpr9413-011-p20s2w7">
 <src.rf>manual</src.rf>

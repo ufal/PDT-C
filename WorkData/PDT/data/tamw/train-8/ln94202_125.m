@@ -1782,7 +1782,7 @@
 <LM>w#w-ln94202-125-p4s2w3</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-ln94202-125-p4s2w4">
 <src.rf>manual</src.rf>

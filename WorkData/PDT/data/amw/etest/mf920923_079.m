@@ -194,7 +194,7 @@
 <LM>w#w-mf920923-079-p1s1Cw15</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920923-079-p1s1Cw16">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <form>doc</form>
 <tag>
 <AM lemma="docent_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="doc_^(docent)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="doc_^(docent)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-079-p1s1Cw44">

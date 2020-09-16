@@ -2990,7 +2990,7 @@
 </w.rf>
 <form>Stranu</form>
 <tag>
-<AM lemma="Strana_;G_^(př._Malá_Strana)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="strana" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="strana" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>

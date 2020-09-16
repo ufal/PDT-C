@@ -662,7 +662,7 @@
 <LM>w#w-d1t3026-12</LM>
 </w.rf>
 <form>mému</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS3-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS3-S1-------</tag>
 </m>
 <m id="m020-d1t3026-13">
 <w.rf>
@@ -1237,7 +1237,7 @@
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VeYS------A-I--</AM>
 <AM lemma="vlastně-2_^(totiž)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="vlastně-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>

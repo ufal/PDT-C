@@ -2368,7 +2368,7 @@
 <LM>w#w-d1t2357-5</LM>
 </w.rf>
 <form>Jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m059-d1t2357-2">
 <w.rf>

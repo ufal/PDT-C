@@ -1679,7 +1679,7 @@
 <LM>w#w-cmpr9406-066-p11s3w24</LM>
 </w.rf>
 <form>nimiž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP7---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP7---------1</tag>
 </m>
 <m id="m-cmpr9406-066-p11s3w25">
 <src.rf>manual</src.rf>
@@ -2128,7 +2128,7 @@
 <LM>w#w-cmpr9406-066-p11s6w17</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9406-066-p11s6w18">
 <src.rf>manual</src.rf>

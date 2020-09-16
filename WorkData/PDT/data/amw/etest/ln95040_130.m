@@ -1746,7 +1746,7 @@
 <LM>w#w-ln95040-130-p3s9w33</LM>
 </w.rf>
 <form>jejími</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP7FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP7FS3-------</tag>
 </m>
 <m id="m-ln95040-130-p3s9w34">
 <src.rf>manual</src.rf>
@@ -2323,7 +2323,7 @@
 <LM>w#w-ln95040-130-p3s13w8</LM>
 </w.rf>
 <form>jejímu</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS3FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS3FS3-------</tag>
 </m>
 <m id="m-ln95040-130-p3s13w9">
 <src.rf>manual</src.rf>

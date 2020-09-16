@@ -1183,7 +1183,7 @@
 <LM>w#w-ln94201-49-p4s2w16</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94201-49-p4s2w17">
 <src.rf>manual</src.rf>
@@ -1223,7 +1223,7 @@
 <LM>w#w-ln94201-49-p4s2w21</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-ln94201-49-p4s2w22">
 <src.rf>manual</src.rf>
@@ -2050,7 +2050,7 @@
 <LM>w#w-ln94201-49-p6s2w5</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln94201-49-p6s2w6">
 <src.rf>manual</src.rf>

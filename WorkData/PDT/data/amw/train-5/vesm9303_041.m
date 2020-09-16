@@ -391,7 +391,7 @@
 <LM>w#w-vesm9303-041-p4s3w3</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9303-041-p4s3w4">
 <src.rf>manual</src.rf>
@@ -575,7 +575,7 @@
 <LM>w#w-vesm9303-041-p4s3w26</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9303-041-p4s3w27">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-vesm9303-041-p4s6w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9303-041-p4s6w2">
 <src.rf>manual</src.rf>
@@ -1132,7 +1132,7 @@
 <LM>w#w-vesm9303-041-p4s10w3</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9303-041-p4s10w4">
 <src.rf>manual</src.rf>
@@ -1796,7 +1796,7 @@
 <LM>w#w-vesm9303-041-p8s1w8</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9303-041-p8s1w9">
 <src.rf>manual</src.rf>
@@ -2980,7 +2980,7 @@
 <LM>w#w-vesm9303-041-p9s1w9</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-vesm9303-041-p9s1w10">
 <src.rf>manual</src.rf>
@@ -5016,7 +5016,7 @@
 <LM>w#w-vesm9303-041-p10s4w8</LM>
 </w.rf>
 <form>jimiž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP7----------</tag>
 </m>
 <m id="m-vesm9303-041-p10s4w9">
 <src.rf>manual</src.rf>
@@ -9224,7 +9224,7 @@
 <LM>w#w-vesm9303-041-p16s3w7</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9303-041-p16s3w8">
 <src.rf>manual</src.rf>
@@ -11053,7 +11053,7 @@
 <LM>w#w-vesm9303-041-p18s6w9</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9303-041-p18s6w10">
 <src.rf>manual</src.rf>
@@ -13225,7 +13225,7 @@
 <LM>w#w-vesm9303-041-p22s3w15</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9303-041-p22s3w16">
 <src.rf>manual</src.rf>
@@ -22239,7 +22239,7 @@
 <LM>w#w-vesm9303-041-p38s2w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9303-041-p38s2w2">
 <src.rf>manual</src.rf>
@@ -22806,7 +22806,7 @@
 <LM>w#w-vesm9303-041-p39s1w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9303-041-p39s1w2">
 <src.rf>manual</src.rf>
@@ -27976,7 +27976,7 @@
 <LM>w#w-vesm9303-041-p48s4w29</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9303-041-p48s4w30">
 <src.rf>manual</src.rf>
@@ -28212,7 +28212,7 @@
 <LM>w#w-vesm9303-041-p49s2w12</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-vesm9303-041-p49s2w13">
 <src.rf>manual</src.rf>

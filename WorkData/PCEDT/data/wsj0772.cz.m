@@ -2364,7 +2364,7 @@
 <LM>w#w-wsj0772-001-p1s6W16</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj0772-001-p1s6W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2989,7 +2989,7 @@
 <LM>w#w-wsj0772-001-p1s8W16</LM>
 </w.rf>
 <form>jejími</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP7FS3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XP7FS3-------</tag>
 </m>
 <m id="m-wsj0772-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>

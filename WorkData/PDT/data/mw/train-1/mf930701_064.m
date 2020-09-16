@@ -51,7 +51,7 @@
 <LM>w#w-mf930701-064-p1s1w5</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-064-p2s1">
@@ -195,7 +195,7 @@
 <LM>w#w-mf930701-064-p2s1w17</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-064-p2s1w18">
 <src.rf>manual</src.rf>
@@ -341,7 +341,7 @@
 <LM>w#w-mf930701-064-p2s2w12</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-064-p2s2w13">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-mf930701-064-p2s2w24</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-064-p2s2w25">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-mf930701-064-p2s4w5</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-064-p2s4w6">
 <src.rf>manual</src.rf>

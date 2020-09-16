@@ -203,7 +203,7 @@
 <LM>w#w-wsj1041-001-p1s0W14</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1431,7 +1431,7 @@
 <LM>w#w-wsj1041-001-p1s4W11</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1947,7 +1947,7 @@
 <LM>w#w-wsj1041-001-p1s6W13</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2546,7 +2546,7 @@
 <LM>w#w-wsj1041-001-p1s8W6</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s8W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2759,7 +2759,7 @@
 <LM>w#w-wsj1041-001-p1s8W24</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s8W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2947,7 +2947,7 @@
 <LM>w#w-wsj1041-001-p1s9W15</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s9W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3542,7 +3542,7 @@
 <LM>w#w-wsj1041-001-p1s12W34</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s12W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3585,7 +3585,7 @@
 <LM>w#w-wsj1041-001-p1s13W3</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s13W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4616,7 +4616,7 @@
 <LM>w#w-wsj1041-001-p1s18W5</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s18W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7054,7 +7054,7 @@
 <LM>w#w-wsj1041-001-p1s26W14</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s26W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7570,7 +7570,7 @@
 <LM>w#w-wsj1041-001-p1s28W11</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s28W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9271,7 +9271,7 @@
 <LM>w#w-wsj1041-001-p1s34W6</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s34W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9438,7 +9438,7 @@
 <LM>w#w-wsj1041-001-p1s34W23</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s34W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9493,7 +9493,7 @@
 <LM>w#w-wsj1041-001-p1s35W4</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1041-001-p1s35W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9649,7 +9649,7 @@
 <LM>w#w-wsj1041-001-p1s35W20</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj1041-001-p1s35W21-Ta">
 <src.rf>tagger-a</src.rf>

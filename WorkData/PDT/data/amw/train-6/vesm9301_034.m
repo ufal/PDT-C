@@ -201,7 +201,7 @@
 <LM>w#w-vesm9301-034-p4s1w11</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-vesm9301-034-p4s1w12">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-vesm9301-034-p5s1w9</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-vesm9301-034-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1762,7 +1762,7 @@
 <LM>w#w-vesm9301-034-p5s4w12</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9301-034-p5s4w13">
 <src.rf>manual</src.rf>
@@ -4448,7 +4448,7 @@
 <LM>w#w-vesm9301-034-p7s12w10</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9301-034-p7s12w11">
 <src.rf>manual</src.rf>
@@ -5839,7 +5839,7 @@
 <LM>w#w-vesm9301-034-p9s2w7</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9301-034-p9s2w8">
 <src.rf>manual</src.rf>
@@ -6089,7 +6089,7 @@
 <LM>w#w-vesm9301-034-p9s3w26</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-vesm9301-034-p9s3w27">
 <src.rf>manual</src.rf>
@@ -6898,7 +6898,7 @@
 <LM>w#w-vesm9301-034-p9s8w13</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9301-034-p9s8w14">
 <src.rf>manual</src.rf>
@@ -7116,7 +7116,7 @@
 <LM>w#w-vesm9301-034-p9s10w2</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9301-034-p9s10w3">
 <src.rf>manual</src.rf>
@@ -7481,7 +7481,7 @@
 <LM>w#w-vesm9301-034-p9s11w33</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9301-034-p9s11w34">
 <src.rf>manual</src.rf>
@@ -8896,7 +8896,7 @@
 <LM>w#w-vesm9301-034-p11s2w17</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9301-034-p11s2w18">
 <src.rf>manual</src.rf>
@@ -11548,7 +11548,7 @@
 <LM>w#w-vesm9301-034-p12s13w15</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9301-034-p12s13w16">
 <src.rf>manual</src.rf>
@@ -13427,7 +13427,7 @@
 <LM>w#w-vesm9301-034-p14s7w23</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9301-034-p14s7w24">
 <src.rf>manual</src.rf>
@@ -14582,7 +14582,7 @@
 <LM>w#w-vesm9301-034-p16s1w34</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9301-034-p16s1w35">
 <src.rf>manual</src.rf>

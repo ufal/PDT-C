@@ -1217,7 +1217,7 @@
 <LM>w#w-mf920922-061-p2s7w11</LM>
 </w.rf>
 <form>němuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS3---------1</tag>
 </m>
 <m id="m-mf920922-061-p2s7w12">
 <src.rf>manual</src.rf>
@@ -2205,7 +2205,7 @@
 <LM>w#w-mf920922-061-p2s13w6</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf920922-061-p2s13w7">
 <src.rf>manual</src.rf>

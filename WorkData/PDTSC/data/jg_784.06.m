@@ -476,7 +476,7 @@
 <LM>w#w-d1t2101-19</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS3----------</tag>
 </m>
 <m id="m784-d1t2101-20">
 <w.rf>

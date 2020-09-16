@@ -4667,7 +4667,7 @@
 <LM>w#w-lnd92258-106-p6s4w7</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS3----------</tag>
 </m>
 <m id="m-lnd92258-106-p6s4w8">
 <src.rf>manual</src.rf>

@@ -762,7 +762,7 @@
 <LM>w#w-mf920925-059-p2s4w6</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS6-S1-------</tag>
 </m>
 <m id="m-mf920925-059-p2s4w7">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <form>vlastně</form>
 <tag>
 <AM lemma="vlastně-2_^(totiž)" src="orig">Db-------------</AM>
-<AM lemma="vlastně-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-059-p2s5Bw5">

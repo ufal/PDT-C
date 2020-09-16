@@ -421,7 +421,7 @@
 <LM>w#w-id63442-13</LM>
 </w.rf>
 <form>dítětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag lemma="dítě-1" src="auto" recommended="1">NNNS7-----A----</tag>
 </m>
 <m id="m713-id63442-14">
 <w.rf>

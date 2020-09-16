@@ -837,7 +837,7 @@
 <LM>w#w-ln95044-105-p3s3w18</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95044-105-p3s3w19">
 <src.rf>manual</src.rf>

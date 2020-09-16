@@ -6480,7 +6480,7 @@
 <LM>w#w-wsj0666-001-p1s25W16</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj0666-001-p1s25W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8142,7 +8142,7 @@
 <form>vlastně</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VeYS------A-I--</AM>
-<AM lemma="vlastně-3" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -8881,7 +8881,7 @@
 <LM>w#w-wsj0666-001-p1s33W5</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj0666-001-p1s33W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1431,14 +1431,14 @@
 <LM>w#w-d1t2714-6</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8XP7----------</tag>
 </m>
 <m id="m043-d1t2714-7">
 <w.rf>
 <LM>w#w-d1t2714-7</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m043-d-id144119-punct">
 <w.rf>
@@ -1952,7 +1952,7 @@
 <LM>w#w-d1t2754-8</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m043-d1t2757-2">
 <w.rf>
@@ -3374,7 +3374,7 @@
 <LM>w#w-d1t2856-9</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m043-d-id148984-punct">
 <w.rf>

@@ -3212,7 +3212,7 @@
 <LM>w#w-cmpr9407-002-p11s3w12</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9407-002-p11s3w13">
 <src.rf>manual</src.rf>
@@ -7667,7 +7667,7 @@
 <LM>w#w-cmpr9407-002-p20s2w8</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9407-002-p20s2w9">
 <src.rf>manual</src.rf>

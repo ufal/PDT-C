@@ -786,7 +786,7 @@
 <LM>w#w-d1t795-2</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m783-d1e790-x2-3260">
 <w.rf>
@@ -2032,7 +2032,7 @@
 <LM>w#w-d1t840-4</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" src="auto" recommended="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="auto" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="m783-d1t840-5">
 <w.rf>

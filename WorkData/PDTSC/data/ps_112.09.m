@@ -278,7 +278,7 @@
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VeYS------A-I--</AM>
 <AM lemma="vlastně-2_^(totiž)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="vlastně-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -1131,7 +1131,7 @@
 <form>jejich</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9XXXXP3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9XXXXP3-------</AM>
 </tag>
 </m>
 <m id="m112-d1t2333-22">
@@ -1552,7 +1552,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9XXXZS3-------</AM>
 </tag>
 </m>
 <m id="m112-d1t2350-12">
@@ -2892,7 +2892,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9XXXZS3-------</AM>
 </tag>
 </m>
 <m id="m112-d1t2395-12">
@@ -3267,7 +3267,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9XXXZS3-------</AM>
 </tag>
 </m>
 <m id="m112-d1t2403-4">

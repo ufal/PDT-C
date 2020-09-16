@@ -219,7 +219,7 @@
 <LM>w#w-wsj2067-001-p1s0W19</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8XP7----------</tag>
 </m>
 <m id="m-wsj2067-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -260,7 +260,7 @@
 <LM>w#w-wsj2067-001-p1s0W23</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj2067-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>

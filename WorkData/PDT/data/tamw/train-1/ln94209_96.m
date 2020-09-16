@@ -1058,7 +1058,7 @@
 <LM>w#w-ln94209-96-p2s6w1</LM>
 </w.rf>
 <form>Naším</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-ln94209-96-p2s6w2">
 <src.rf>manual</src.rf>

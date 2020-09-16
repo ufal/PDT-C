@@ -2280,7 +2280,7 @@
 <LM>w#w-mf930701-078-p2s14w4</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-mf930701-078-p2s14w5">
 <src.rf>manual</src.rf>

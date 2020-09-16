@@ -305,7 +305,7 @@
 <LM>w#w-lnd91301-045-p2s3w4</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd91301-045-p2s3w5">
 <src.rf>manual</src.rf>

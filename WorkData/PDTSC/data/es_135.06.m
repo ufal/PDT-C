@@ -1898,7 +1898,7 @@
 <LM>w#w-d1t1091-8</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m135-292-324">
 <w.rf>
@@ -2280,7 +2280,7 @@
 <LM>w#w-d1t1100-13</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m135-d1t1100-14">
 <w.rf>
@@ -2498,7 +2498,7 @@
 <LM>w#w-d1t1106-4</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m135-d1t1106-5">
 <w.rf>
@@ -2883,7 +2883,7 @@
 <LM>w#w-d1t1123-6</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m135-d1t1125-1">
 <w.rf>
@@ -4815,7 +4815,7 @@
 <LM>w#w-d1t1179-5</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m135-d1t1179-6">
 <w.rf>
@@ -5627,7 +5627,7 @@
 <LM>w#w-d1t1204-19</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m135-d1t1204-20">
 <w.rf>

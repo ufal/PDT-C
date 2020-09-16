@@ -373,7 +373,7 @@
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VeYS------A-I--</AM>
 <AM lemma="vlastně-2_^(totiž)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="vlastně-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -458,7 +458,7 @@
 <LM>w#w-d1t2691-1</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m025-d1t2691-5">
 <w.rf>
@@ -1470,7 +1470,7 @@
 <LM>w#w-d1t2784-2</LM>
 </w.rf>
 <form>mými</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP7-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSXP7-S1-------</tag>
 </m>
 <m id="m025-d1t2784-3">
 <w.rf>
@@ -3600,7 +3600,7 @@
 <LM>w#w-d1t2962-3</LM>
 </w.rf>
 <form>mému</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS3-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS3-S1-------</tag>
 </m>
 <m id="m025-d1t2962-5">
 <w.rf>

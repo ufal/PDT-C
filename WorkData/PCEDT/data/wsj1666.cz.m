@@ -2268,7 +2268,7 @@
 <LM>w#w-wsj1666-001-p1s8W8</LM>
 </w.rf>
 <form>jejími</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP7FS3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XP7FS3-------</tag>
 </m>
 <m id="m-wsj1666-001-p1s8W9-Ta">
 <src.rf>tagger-a</src.rf>

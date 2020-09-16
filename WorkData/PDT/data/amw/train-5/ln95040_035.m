@@ -2937,7 +2937,7 @@
 <LM>w#w-ln95040-035-p2s22w16</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-ln95040-035-p2s22w17">
 <src.rf>manual</src.rf>
@@ -3762,7 +3762,7 @@
 <LM>w#w-ln95040-035-p2s28w10</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95040-035-p2s28w11">
 <src.rf>manual</src.rf>
@@ -5400,7 +5400,7 @@
 <LM>w#w-ln95040-035-p2s36w9</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS6-S1-------</tag>
 </m>
 <m id="m-ln95040-035-p2s36w10">
 <src.rf>manual</src.rf>

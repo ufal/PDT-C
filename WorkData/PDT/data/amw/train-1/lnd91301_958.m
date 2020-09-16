@@ -206,7 +206,7 @@
 <LM>w#w-lnd91301-958-p2s1Aw19</LM>
 </w.rf>
 <form>nimiž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP7---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP7---------1</tag>
 </m>
 <m id="m-lnd91301-958-p2s1Aw20">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-lnd91301-958-p4s1Aw16</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd91301-958-p4s1Aw17">
 <src.rf>manual</src.rf>
@@ -1637,7 +1637,7 @@
 <form>vlastně</form>
 <tag>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
-<AM lemma="vlastně-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p4s1Aw41">

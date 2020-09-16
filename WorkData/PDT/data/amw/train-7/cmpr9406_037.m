@@ -5193,7 +5193,7 @@
 </w.rf>
 <form>expertízu</form>
 <tag>
-<AM lemma="expertíza_,s_^(^DD**expertýza)" src="orig" selected="1">NNFS4-----A----</AM>
+<AM lemma="expertíza_,s_^(^DD**expertiza)" src="orig" selected="1">NNFS4-----A----</AM>
 <AM lemma="expertiza_,x" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>

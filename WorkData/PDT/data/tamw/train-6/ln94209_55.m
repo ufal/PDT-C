@@ -1744,7 +1744,7 @@
 <LM>w#w-ln94209-55-p3s4w13</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94209-55-p3s4w14">
 <src.rf>manual</src.rf>
@@ -2036,7 +2036,7 @@
 <LM>w#w-ln94209-55-p5s1w6</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94209-55-p5s1w7">
 <src.rf>manual</src.rf>
@@ -3035,7 +3035,7 @@
 <LM>w#w-ln94209-55-p6s3w23</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94209-55-p6s3w24">
 <src.rf>manual</src.rf>
@@ -6169,7 +6169,7 @@
 <LM>w#w-ln94209-55-p11s2w10</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-ln94209-55-p11s2w11">
 <src.rf>manual</src.rf>
@@ -6454,7 +6454,7 @@
 <LM>w#w-ln94209-55-p11s3w16</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94209-55-p11s3w17">
 <src.rf>manual</src.rf>
@@ -6772,7 +6772,7 @@
 <LM>w#w-ln94209-55-p12s1w29</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-ln94209-55-p12s1w30">
 <src.rf>manual</src.rf>
@@ -7101,7 +7101,7 @@
 <LM>w#w-ln94209-55-p12s2w13</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94209-55-p12s2w14">
 <src.rf>manual</src.rf>

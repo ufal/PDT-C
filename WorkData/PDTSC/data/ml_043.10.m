@@ -4075,7 +4075,7 @@
 <LM>w#w-d1t3446-15</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m043-459-468">
 <w.rf>

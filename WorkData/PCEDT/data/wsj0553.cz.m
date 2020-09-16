@@ -284,7 +284,7 @@
 <LM>w#w-wsj0553-001-p1s1W10</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS3----------</tag>
 </m>
 <m id="m-wsj0553-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -560,7 +560,7 @@
 </w.rf>
 <form>Jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -4333,7 +4333,7 @@
 <form>vlastně</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VeYS------A-I--</AM>
-<AM lemma="vlastně-3" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -8259,7 +8259,7 @@
 <LM>w#w-wsj0553-001-p1s26W23</LM>
 </w.rf>
 <form>jejímu</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS3FS3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9ZS3FS3-------</tag>
 </m>
 <m id="m-wsj0553-001-p1s26W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8672,7 +8672,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -10284,7 +10284,7 @@
 <LM>w#w-wsj0553-001-p1s36W14</LM>
 </w.rf>
 <form>nímž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS7---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS7---------1</tag>
 </m>
 <m id="m-wsj0553-001-p1s36W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11989,7 +11989,7 @@
 <form>Vlastně</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VeYS------A-I--</AM>
-<AM lemma="vlastně-3" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -13253,7 +13253,7 @@
 <form>vlastně</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VeYS------A-I--</AM>
-<AM lemma="vlastně-3" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -15036,7 +15036,7 @@
 </w.rf>
 <form>Jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>

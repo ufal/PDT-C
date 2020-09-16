@@ -1875,7 +1875,7 @@
 <form>zač</form>
 <tag>
 <AM lemma="zač" recommended="1">PY-------------</AM>
-<AM lemma="co" src="manual" selected="1">PQ--4--------z-</AM>
+<AM lemma="co-1" src="manual" selected="1">PQ--4--------z-</AM>
 </tag>
 </m>
 <m id="mu_14-SCzechM-p1437-s1-w3">
@@ -3821,7 +3821,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS4--3-------</AM>
 </tag>

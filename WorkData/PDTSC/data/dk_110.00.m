@@ -1222,7 +1222,7 @@
 <LM>w#w-d1t95-4</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="m110-d1t95-5">
 <w.rf>

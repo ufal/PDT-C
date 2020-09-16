@@ -2390,7 +2390,7 @@
 <LM>w#w-ln94206-55-p5s3w15</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln94206-55-p5s3w16">
 <src.rf>manual</src.rf>

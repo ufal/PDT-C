@@ -131,7 +131,7 @@
 <LM>w#w-ln95040-092-p1s1w15</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95040-092-p1s1w16">
 <src.rf>manual</src.rf>

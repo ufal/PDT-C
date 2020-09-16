@@ -1913,7 +1913,7 @@
 <LM>w#w-wsj1499-001-p1s9W21</LM>
 </w.rf>
 <form>jimž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP3----------</tag>
 </m>
 <m id="m-wsj1499-001-p1s9W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6550,7 +6550,7 @@
 <LM>w#w-wsj1499-001-p1s32W11</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj1499-001-p1s32W12-Ta">
 <src.rf>tagger-a</src.rf>

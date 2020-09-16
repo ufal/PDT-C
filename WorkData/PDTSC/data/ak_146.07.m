@@ -2703,7 +2703,7 @@
 <LM>w#w-d1t1381-7</LM>
 </w.rf>
 <form>dítětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag lemma="dítě-1" src="auto" recommended="1">NNNS7-----A----</tag>
 </m>
 <m id="m146-d1e1378-x2-731">
 <w.rf>
@@ -2927,7 +2927,7 @@
 <LM>w#w-d1t1383-2</LM>
 </w.rf>
 <form>Mému</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS3-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS3-S1-------</tag>
 </m>
 <m id="m146-d1t1383-3">
 <w.rf>

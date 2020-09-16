@@ -510,7 +510,7 @@
 <LM>w#w-mf930709-002-p3s1w20</LM>
 </w.rf>
 <form>jejímu</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS3FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS3FS3-------</tag>
 </m>
 <m id="m-mf930709-002-p3s1w21">
 <src.rf>manual</src.rf>

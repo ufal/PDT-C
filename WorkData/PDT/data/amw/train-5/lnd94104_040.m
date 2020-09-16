@@ -993,7 +993,7 @@
 <tag>
 <AM lemma="expertíza" src="orig">NNFS7-----A----</AM>
 <AM lemma="expertiza" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="expertiza_,s_^(^DD**expertýza)" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="expertiza" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-040-p1s6w6">

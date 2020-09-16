@@ -328,7 +328,7 @@
 <LM>w#w-mf920924-006-p1s3w9</LM>
 </w.rf>
 <form>vašimi</form>
-<tag lemma="váš_^(přivlast.)" src="orig" selected="1">PSXP7-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSXP7-P2-------</tag>
 </m>
 <m id="m-mf920924-006-p1s3w10">
 <src.rf>manual</src.rf>

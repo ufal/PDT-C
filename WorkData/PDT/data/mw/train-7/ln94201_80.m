@@ -6070,7 +6070,7 @@
 </w.rf>
 <form>Lot</form>
 <tag>
-<AM lemma="Lotyšsko_;G" src="orig" selected="1">NNNXX-----A---b</AM>
+<AM lemma="Lotyšsko_;G" src="orig" selected="1">NNNXX-----A---a</AM>
 <AM lemma="Lot_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Lota_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="lot" src="auto" recommended="1">NNIS1-----A----</AM>

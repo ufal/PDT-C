@@ -660,7 +660,7 @@
 <LM>w#w-wsj2428-001-p1s2W8</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj2428-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5575,7 +5575,7 @@
 <form>řiditel</form>
 <tag>
 <AM lemma="řiditel_,a" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="řiditel_,a_^(^DD**ředitel)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="řiditel_,h_^(^GC**ředitel)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2428-001-p1s17W10-Ta">
@@ -7467,7 +7467,7 @@
 <LM>w#w-wsj2428-001-p1s21W37</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS3----------</tag>
 </m>
 <m id="m-wsj2428-001-p1s21W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9232,7 +9232,7 @@
 <form>řiditel</form>
 <tag>
 <AM lemma="řiditel_,a" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="řiditel_,a_^(^DD**ředitel)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="řiditel_,h_^(^GC**ředitel)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2428-001-p1s27W17-Ta">
@@ -19854,7 +19854,7 @@
 <LM>w#w-wsj2428-001-p1s63W10</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj2428-001-p1s63W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -22577,7 +22577,7 @@
 <LM>w#w-wsj2428-001-p1s73W20</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8XP7----------</tag>
 </m>
 <m id="m-wsj2428-001-p1s73W21-Ta">
 <src.rf>tagger-a</src.rf>

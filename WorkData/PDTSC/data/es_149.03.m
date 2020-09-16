@@ -3013,7 +3013,7 @@
 <LM>w#w-d1t696-25</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m149-d1t696-26">
 <w.rf>
@@ -4809,7 +4809,7 @@
 <LM>w#w-d1t775-4</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m149-d-id92358-punct">
 <w.rf>

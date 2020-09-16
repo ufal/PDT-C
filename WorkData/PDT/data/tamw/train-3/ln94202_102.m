@@ -2913,7 +2913,7 @@
 <LM>w#w-ln94202-102-p6s3w2</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS6-S1-------</tag>
 </m>
 <m id="m-ln94202-102-p6s3w3">
 <src.rf>manual</src.rf>

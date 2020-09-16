@@ -93,7 +93,7 @@
 <LM>w#w-mf920901-042-p1s1Bw6</LM>
 </w.rf>
 <form>SVÉM</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-mf920901-042-p1s1Bw7">
 <src.rf>manual</src.rf>
@@ -3962,7 +3962,7 @@
 <LM>w#w-mf920901-042-p6s6w15</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS6-S1-------</tag>
 </m>
 <m id="m-mf920901-042-p6s6w16">
 <src.rf>manual</src.rf>
@@ -6236,7 +6236,7 @@
 <LM>w#w-mf920901-042-p10s3w12</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf920901-042-p10s3w13">
 <src.rf>manual</src.rf>
@@ -6456,7 +6456,7 @@
 <LM>w#w-mf920901-042-p11s2w9</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf920901-042-p11s2w10">
 <src.rf>manual</src.rf>
@@ -7220,7 +7220,7 @@
 <LM>w#w-mf920901-042-p12s5w6</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-mf920901-042-p12s5w7">
 <src.rf>manual</src.rf>
@@ -8219,7 +8219,7 @@
 <LM>w#w-mf920901-042-p13s4w3</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf920901-042-p13s4w4">
 <src.rf>manual</src.rf>
@@ -12092,7 +12092,7 @@
 <LM>w#w-mf920901-042-p20s2w27</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf920901-042-p20s2w28">
 <src.rf>manual</src.rf>

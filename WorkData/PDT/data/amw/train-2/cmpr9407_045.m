@@ -264,7 +264,7 @@
 <LM>w#w-cmpr9407-045-p3s2w9</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-cmpr9407-045-p3s2w10">
 <src.rf>manual</src.rf>

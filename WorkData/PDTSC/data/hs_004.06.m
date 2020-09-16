@@ -2582,7 +2582,7 @@
 <LM>w#w-d1t2544-2</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m004-d1t2546-2">
 <w.rf>
@@ -5089,7 +5089,7 @@
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VeYS------A-I--</AM>
 <AM lemma="vlastně-2_^(totiž)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="vlastně-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>

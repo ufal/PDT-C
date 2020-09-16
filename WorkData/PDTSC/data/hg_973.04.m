@@ -514,7 +514,7 @@
 <LM>w#w-id63690-9</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS7-P1-------</tag>
 </m>
 <m id="m973-id63709-1">
 <w.rf>
@@ -6100,7 +6100,7 @@
 <LM>w#w-id64772-17</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="m973-id64772-18">
 <w.rf>

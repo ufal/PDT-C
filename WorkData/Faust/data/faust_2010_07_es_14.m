@@ -1824,7 +1824,7 @@
 <form>zač</form>
 <tag>
 <AM lemma="zač" recommended="1">PY-------------</AM>
-<AM lemma="co" src="manual" selected="1">PQ--4--------z-</AM>
+<AM lemma="co-1" src="manual" selected="1">PQ--4--------z-</AM>
 </tag>
 </m>
 </s>

@@ -956,7 +956,7 @@
 <LM>w#w-ln94209-7-p4s2w10</LM>
 </w.rf>
 <form>nimž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP3---------1</tag>
 </m>
 <m id="m-ln94209-7-p4s2w11">
 <src.rf>manual</src.rf>

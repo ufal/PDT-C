@@ -2112,7 +2112,7 @@
 <form>jejich</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9XXXXP3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9XXXXP3-------</AM>
 </tag>
 </m>
 <m id="m013-d1t1272-3">
@@ -2208,7 +2208,7 @@
 <form>jejich</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9XXXXP3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9XXXXP3-------</AM>
 </tag>
 </m>
 <m id="m013-d1t1278-13">
@@ -5165,7 +5165,7 @@
 <form>jejich</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9XXXXP3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9XXXXP3-------</AM>
 </tag>
 </m>
 <m id="m013-d1t1571-2">

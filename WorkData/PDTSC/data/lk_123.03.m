@@ -2899,7 +2899,7 @@
 <LM>w#w-d1t1088-4</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m123-d-id92788-punct">
 <w.rf>
@@ -5814,7 +5814,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9XXXZS3-------</AM>
 </tag>
 </m>
 <m id="m123-d1t1268-4">
@@ -5942,7 +5942,7 @@
 <LM>w#w-d1t1277-3</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m123-d1t1279-1">
 <w.rf>
@@ -5991,7 +5991,7 @@
 <form>jejich</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9XXXXP3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9XXXXP3-------</AM>
 </tag>
 </m>
 <m id="m123-d1t1279-6">

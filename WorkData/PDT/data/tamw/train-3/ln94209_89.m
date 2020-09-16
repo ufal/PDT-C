@@ -2819,7 +2819,7 @@
 <LM>w#w-ln94209-89-p4s6Aw21</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94209-89-p4s6Aw22">
 <src.rf>manual</src.rf>
@@ -3239,7 +3239,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>niž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS4---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS4---------1</tag>
 </m>
 <m id="m-ln94209-89-p4s8w13">
 <src.rf>manual</src.rf>
@@ -3745,7 +3745,7 @@
 <LM>w#w-ln94209-89-p4s10w16</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln94209-89-p4s10w17">
 <src.rf>manual</src.rf>
@@ -4211,7 +4211,7 @@
 <LM>w#w-ln94209-89-p4s11w32</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln94209-89-p4s11w33">
 <src.rf>manual</src.rf>

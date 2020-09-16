@@ -2269,7 +2269,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS4--3-------</AM>
 </tag>
@@ -5366,7 +5366,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="es_10-SCzechM-p1049-s1-w28">
 <w.rf>

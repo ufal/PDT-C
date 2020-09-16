@@ -1151,7 +1151,7 @@
 <LM>w#w-ln94207-85-p4s2w13</LM>
 </w.rf>
 <form>jemuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS3----------</tag>
 </m>
 <m id="m-ln94207-85-p4s2w14">
 <src.rf>manual</src.rf>
@@ -4985,7 +4985,7 @@
 <LM>w#w-ln94207-85-p11s4w17</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94207-85-p11s4w18">
 <src.rf>manual</src.rf>
@@ -9168,7 +9168,7 @@
 <LM>w#w-ln94207-85-p15s9w4</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-ln94207-85-p15s9w5">
 <src.rf>manual</src.rf>
@@ -9816,7 +9816,7 @@
 <LM>w#w-ln94207-85-p16s3w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94207-85-p16s3w2">
 <src.rf>manual</src.rf>
@@ -12893,7 +12893,7 @@
 <LM>w#w-ln94207-85-p17s3w17</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94207-85-p17s3w18">
 <src.rf>manual</src.rf>

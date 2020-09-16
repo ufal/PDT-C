@@ -1967,7 +1967,7 @@
 <LM>w#w-lnd94104-016-p1s12w10</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94104-016-p1s12w11">
 <src.rf>manual</src.rf>

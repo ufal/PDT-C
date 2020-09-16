@@ -7385,7 +7385,7 @@
 <LM>w#w-wsj0277-001-p1s21W23</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj0277-001-p1s21W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9744,7 +9744,7 @@
 <LM>w#w-wsj0277-001-p1s28W10</LM>
 </w.rf>
 <form>jímž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS7----------</tag>
 </m>
 <m id="m-wsj0277-001-p1s28W11-Ta">
 <src.rf>tagger-a</src.rf>

@@ -671,7 +671,7 @@
 <LM>w#w-mf920922-118-p4s5w15</LM>
 </w.rf>
 <form>jímž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS7----------</tag>
 </m>
 <m id="m-mf920922-118-p4s5w16">
 <src.rf>manual</src.rf>

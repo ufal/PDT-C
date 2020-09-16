@@ -27,7 +27,7 @@
 <LM>w#w-wsj1402-001-p1s0W2</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m-wsj1402-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>

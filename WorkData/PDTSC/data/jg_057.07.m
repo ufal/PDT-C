@@ -34,7 +34,7 @@
 <LM>w#w-d1t2467-3</LM>
 </w.rf>
 <form>vašemu</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS3-P2-------</tag>
 </m>
 <m id="m057-d1t2467-4">
 <w.rf>
@@ -833,7 +833,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -860,7 +860,7 @@
 </w.rf>
 <form>Jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -981,7 +981,7 @@
 <LM>w#w-d1t2567-6</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m057-d1t2567-7">
 <w.rf>
@@ -3850,7 +3850,7 @@
 <LM>w#w-d1t2795-1</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m057-d1t2797-1">
 <w.rf>

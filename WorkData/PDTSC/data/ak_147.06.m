@@ -811,7 +811,7 @@
 <LM>w#w-d1t598-4</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS3----------</tag>
 </m>
 <m id="m147-d1t598-5">
 <w.rf>

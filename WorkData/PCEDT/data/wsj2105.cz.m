@@ -1978,7 +1978,7 @@
 <LM>w#w-wsj2105-001-p1s7W10</LM>
 </w.rf>
 <form>jejímu</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS3FS3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9ZS3FS3-------</tag>
 </m>
 <m id="m-wsj2105-001-p1s7W11-Ta">
 <src.rf>tagger-a</src.rf>

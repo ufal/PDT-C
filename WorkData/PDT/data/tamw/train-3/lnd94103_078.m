@@ -792,7 +792,7 @@
 <LM>w#w-lnd94103-078-p1s8w3</LM>
 </w.rf>
 <form>železnic</form>
-<tag lemma="železnice_^(*3ík-1)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="železnice" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd94103-078-p1s8w4">
 <src.rf>manual</src.rf>

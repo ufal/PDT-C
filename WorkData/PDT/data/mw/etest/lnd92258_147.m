@@ -323,7 +323,7 @@
 <LM>w#w-lnd92258-147-p2s3w11</LM>
 </w.rf>
 <form>niž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS4---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS4---------1</tag>
 </m>
 <m id="m-lnd92258-147-p2s3w12">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 <LM>w#w-lnd92258-147-p4s3w8</LM>
 </w.rf>
 <form>jejímu</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS3FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS3FS3-------</tag>
 </m>
 <m id="m-lnd92258-147-p4s3w9">
 <src.rf>manual</src.rf>

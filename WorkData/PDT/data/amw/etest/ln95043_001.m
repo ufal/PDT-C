@@ -1921,7 +1921,7 @@
 <LM>w#w-ln95043-001-p3s4w1</LM>
 </w.rf>
 <form>Dětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-ln95043-001-p3s4w2">
 <src.rf>manual</src.rf>

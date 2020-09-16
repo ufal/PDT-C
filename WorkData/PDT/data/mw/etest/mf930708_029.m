@@ -774,7 +774,7 @@
 <form>expertiza</form>
 <tag>
 <AM lemma="expertíza" src="orig">NNFS1-----A----</AM>
-<AM lemma="expertiza_,s_^(^DD**expertýza)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="expertiza" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-029-p2s5w12">

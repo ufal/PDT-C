@@ -949,7 +949,7 @@
 <LM>w#w-ln95047-055-p3s2w3</LM>
 </w.rf>
 <form>jimiž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP7----------</tag>
 </m>
 <m id="m-ln95047-055-p3s2w4">
 <src.rf>manual</src.rf>
@@ -3756,7 +3756,7 @@
 <form>vlastně</form>
 <tag>
 <AM lemma="vlastně-2_^(totiž)" src="orig">Db-------------</AM>
-<AM lemma="vlastně-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-055-p6s2w9">
@@ -3970,7 +3970,7 @@
 <LM>w#w-ln95047-055-p6s3w4</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95047-055-p6s3w5">
 <src.rf>manual</src.rf>

@@ -4686,7 +4686,7 @@
 <LM>w#w-d1t719-3</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m137-d1t719-7">
 <w.rf>

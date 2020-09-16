@@ -3424,7 +3424,7 @@
 <LM>w#w-jh_04-SCzechM-p0358-s1-w5</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" recommended="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="jh_04-SCzechM-p0358-s1-w6">
 <w.rf>
@@ -4644,7 +4644,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS4--3-------</AM>
 </tag>

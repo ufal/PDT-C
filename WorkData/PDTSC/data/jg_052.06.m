@@ -3352,7 +3352,7 @@
 <LM>w#w-d1t2412-2</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8XP7----------</tag>
 </m>
 <m id="m052-d1t2412-3">
 <w.rf>
@@ -4288,7 +4288,7 @@
 <LM>w#w-d1t2490-5</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m052-d1t2490-6">
 <w.rf>

@@ -996,7 +996,7 @@
 <LM>w#w-ln95049-016-p3s5w10</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-ln95049-016-p3s5w11">
 <src.rf>manual</src.rf>

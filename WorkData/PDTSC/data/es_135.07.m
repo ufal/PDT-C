@@ -991,7 +991,7 @@
 <LM>w#w-d1t1262-1</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m135-d1t1262-2">
 <w.rf>
@@ -1195,7 +1195,7 @@
 <LM>w#w-d1t1264-24</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m135-d1t1264-26">
 <w.rf>

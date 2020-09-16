@@ -221,7 +221,7 @@
 <LM>w#w-ln94210-5-p2s1Bw16</LM>
 </w.rf>
 <form>mému</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS3-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS3-S1-------</tag>
 </m>
 <m id="m-ln94210-5-p2s1Bw17">
 <src.rf>manual</src.rf>

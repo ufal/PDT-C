@@ -1574,7 +1574,7 @@
 <form>svém</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="manual" selected="1">P8ZS6----------</AM>
+<AM lemma="svůj-1" src="manual" selected="1">P8ZS6----------</AM>
 </tag>
 </m>
 <m id="m130-d1t1003-19">

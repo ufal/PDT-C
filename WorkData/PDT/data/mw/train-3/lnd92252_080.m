@@ -124,7 +124,7 @@
 <form>KRÁLOVÉ</form>
 <tag>
 <AM lemma="Králové_;G_^(Dvůr_Králové)" src="orig">NNFS2-----A----</AM>
-<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-080-p3s1w3">
@@ -644,7 +644,7 @@
 <LM>w#w-lnd92252-080-p3s4w25</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92252-080-p3s4w26">
 <src.rf>manual</src.rf>
@@ -954,7 +954,7 @@
 <form>Králové</form>
 <tag>
 <AM lemma="Králové_;G_^(Dvůr_Králové)" src="orig">NNFS2-----A----</AM>
-<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-080-p4s2w2">
@@ -1311,7 +1311,7 @@
 <LM>w#w-lnd92252-080-p5s2w6</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd92252-080-p5s2w7">
 <src.rf>manual</src.rf>
@@ -3751,7 +3751,7 @@
 <LM>w#w-lnd92252-080-p6s12w1</LM>
 </w.rf>
 <form>Naším</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-lnd92252-080-p6s12w2">
 <src.rf>manual</src.rf>
@@ -3905,7 +3905,7 @@
 <LM>w#w-lnd92252-080-p6s13w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92252-080-p6s13w2">
 <src.rf>manual</src.rf>
@@ -4596,7 +4596,7 @@
 <form>Králové</form>
 <tag>
 <AM lemma="Králové_;G_^(Dvůr_Králové)" src="orig">NNFS2-----A----</AM>
-<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-080-p8s2w2">

@@ -1873,7 +1873,7 @@
 <LM>w#w-mf920924-004-p2s12w7</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS6-S1-------</tag>
 </m>
 <m id="m-mf920924-004-p2s12w8">
 <src.rf>manual</src.rf>

@@ -351,7 +351,7 @@
 <LM>w#w-mf930702-037-p2s2w8</LM>
 </w.rf>
 <form>železnic</form>
-<tag lemma="železnice_^(*3ík-1)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="železnice" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930702-037-p2s2w9">
 <src.rf>manual</src.rf>
@@ -1491,7 +1491,7 @@
 <LM>w#w-mf930702-037-p4s1w4</LM>
 </w.rf>
 <form>železnic</form>
-<tag lemma="železnice_^(*3ík-1)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="železnice" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930702-037-p4s1w5">
 <src.rf>manual</src.rf>
@@ -2171,7 +2171,7 @@
 <LM>w#w-mf930702-037-p5s1w11</LM>
 </w.rf>
 <form>železnic</form>
-<tag lemma="železnice_^(*3ík-1)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="železnice" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930702-037-p5s1w12">
 <src.rf>manual</src.rf>
@@ -2688,7 +2688,7 @@
 <LM>w#w-mf930702-037-p6s1w6</LM>
 </w.rf>
 <form>železnic</form>
-<tag lemma="železnice_^(*3ík-1)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="železnice" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930702-037-p6s1w7">
 <src.rf>manual</src.rf>

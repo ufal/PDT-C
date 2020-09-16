@@ -502,7 +502,7 @@
 <LM>w#w-cmpr9407-007-p6s1w27</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-cmpr9407-007-p6s1w28">
 <src.rf>manual</src.rf>

@@ -586,7 +586,7 @@
 <LM>w#w-mf920901-112-p3s2w2</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-mf920901-112-p3s2w3">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-mf920901-112-p3s2w10</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf920901-112-p3s2w11">
 <src.rf>manual</src.rf>

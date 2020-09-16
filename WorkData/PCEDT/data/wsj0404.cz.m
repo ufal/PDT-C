@@ -8793,7 +8793,7 @@
 <LM>w#w-wsj0404-001-p1s25W10</LM>
 </w.rf>
 <form>expertízou</form>
-<tag lemma="expertíza_,s_^(^DD**expertýza)" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="expertíza_,s_^(^DD**expertiza)" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m-wsj0404-001-p1s25W11-Ta">
 <src.rf>tagger-a</src.rf>

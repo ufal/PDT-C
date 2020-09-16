@@ -436,7 +436,7 @@
 <form>vlastně</form>
 <tag>
 <AM lemma="vlastně-2_^(totiž)" src="orig">Db-------------</AM>
-<AM lemma="vlastně-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-50-p2s2w17">

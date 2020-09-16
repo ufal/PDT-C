@@ -3433,7 +3433,7 @@
 <LM>w#w-mf930709-113-p2s24w17</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-mf930709-113-p2s24w18">
 <src.rf>manual</src.rf>

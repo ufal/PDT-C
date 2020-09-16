@@ -803,7 +803,7 @@
 </w.rf>
 <form>niž</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJFS4---------1</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4FS4---------1</AM>
 <AM lemma="nížit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="nížit" src="auto">Vi-S---3--A-I-4</AM>
 </tag>
@@ -5193,7 +5193,7 @@
 <LM>w#w-wsj2017-001-p1s15W15</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj2017-001-p1s15W16-Ta">
 <src.rf>tagger-a</src.rf>

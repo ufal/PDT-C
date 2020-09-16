@@ -1972,7 +1972,7 @@
 <LM>w#w-d1t1544-2</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m048-d1t1544-3">
 <w.rf>

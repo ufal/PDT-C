@@ -130,7 +130,7 @@
 <LM>w#w-lnd91303-083-p3s1w6</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS6-S1-------</tag>
 </m>
 <m id="m-lnd91303-083-p3s1w7">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <LM>w#w-lnd91303-083-p5s2w6</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-lnd91303-083-p5s2w7">
 <src.rf>manual</src.rf>
@@ -2563,7 +2563,7 @@
 <LM>w#w-lnd91303-083-p10s3w10</LM>
 </w.rf>
 <form>mými</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP7-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSXP7-S1-------</tag>
 </m>
 <m id="m-lnd91303-083-p10s3w11">
 <src.rf>manual</src.rf>

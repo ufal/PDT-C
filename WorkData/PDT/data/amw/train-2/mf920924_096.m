@@ -541,7 +541,7 @@
 <LM>w#w-mf920924-096-p3s5w6</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-mf920924-096-p3s5w7">
 <src.rf>manual</src.rf>

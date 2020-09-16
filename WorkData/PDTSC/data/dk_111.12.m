@@ -3970,7 +3970,7 @@
 </w.rf>
 <form>botech</form>
 <tag>
-<AM lemma="bota" src="auto" recommended="1">NNFP6-----A---1</AM>
+<AM lemma="bota" src="auto" recommended="1">NNFP6-----A---6</AM>
 <AM lemma="bota" src="auto">NNFP6-----A---6</AM>
 </tag>
 </m>

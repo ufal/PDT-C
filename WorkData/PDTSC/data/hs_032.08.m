@@ -2104,7 +2104,7 @@
 <form>jejich</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9XXXXP3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9XXXXP3-------</AM>
 </tag>
 </m>
 <m id="m032-d1t2785-10">

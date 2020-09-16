@@ -242,7 +242,7 @@
 <LM>w#w-d1t43-2</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m954-d1t43-3">
 <w.rf>
@@ -1672,7 +1672,7 @@
 <LM>w#w-d1t155-4</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m954-d1t155-6">
 <w.rf>

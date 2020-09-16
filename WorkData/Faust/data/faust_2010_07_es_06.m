@@ -1308,7 +1308,7 @@
 <LM>w#w-es_06-SCzechM-p0565-s1-w15</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" recommended="1">P8XP7----------</tag>
+<tag lemma="svůj-1" recommended="1">P8XP7----------</tag>
 </m>
 <m id="es_06-SCzechM-p0565-s1-w16">
 <w.rf>
@@ -1366,7 +1366,7 @@
 <LM>w#w-es_06-SCzechM-p0568-s1-w5</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" recommended="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" recommended="1">NNNS2-----A----</tag>
 </m>
 </s>
 <s id="s-es_06-SCzechM-p0572-s1-w1">
@@ -2000,7 +2000,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS4--3-------</AM>
 </tag>
@@ -2084,7 +2084,7 @@
 <LM>w#w-es_06-SCzechM-p0585-s1-w1</LM>
 </w.rf>
 <form>Naším</form>
-<tag lemma="náš_^(přivlast.)" recommended="1">PSZS7-P1-------</tag>
+<tag lemma="náš" recommended="1">PSZS7-P1-------</tag>
 </m>
 <m id="es_06-SCzechM-p0585-s1-w2">
 <w.rf>
@@ -2618,7 +2618,7 @@
 <form>IT</form>
 <tag>
 <AM lemma="Itálie_:B_;G" recommended="1">NNFXX-----A----</AM>
-<AM lemma="IT_^(informační_technologie)" selected="1">NNFXX-----A---8</AM>
+<AM lemma="IT_^(informační_technologie)" selected="1">BNFXX-----A----</AM>
 <AM lemma="it_,t_^(angl._to)">PPNXX--3-------</AM>
 </tag>
 </m>
@@ -7107,7 +7107,7 @@
 <LM>w#w-es_06-SCzechM-p0639-s1-w55</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="es_06-SCzechM-p0639-s1-w56">
 <w.rf>

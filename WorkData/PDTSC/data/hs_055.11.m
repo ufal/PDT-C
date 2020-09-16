@@ -555,7 +555,7 @@
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VeYS------A-I--</AM>
 <AM lemma="vlastně-2_^(totiž)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="vlastně-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -2553,7 +2553,7 @@
 <LM>w#w-d1t4220-2</LM>
 </w.rf>
 <form>mými</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP7-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSXP7-S1-------</tag>
 </m>
 <m id="m055-d1t4220-3">
 <w.rf>
@@ -2602,7 +2602,7 @@
 <form>jejich</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9XXXXP3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9XXXXP3-------</AM>
 </tag>
 </m>
 <m id="m055-d1t4220-7">
@@ -4503,7 +4503,7 @@
 <form>řiditel</form>
 <tag>
 <AM lemma="řiditel_,a" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="řiditel_,a_^(^DD**ředitel)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="řiditel_,h_^(^GC**ředitel)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m055-d1t4355-8">

@@ -1278,7 +1278,7 @@
 <LM>w#w-ln94209-17-p3s6w3</LM>
 </w.rf>
 <form>jemuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS3----------</tag>
 </m>
 <m id="m-ln94209-17-p3s6w4">
 <src.rf>manual</src.rf>

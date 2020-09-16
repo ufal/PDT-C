@@ -3316,7 +3316,7 @@
 <LM>w#w-ln95044-085-p6s2w8</LM>
 </w.rf>
 <form>dítětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95044-085-p6s2w9">
 <src.rf>manual</src.rf>

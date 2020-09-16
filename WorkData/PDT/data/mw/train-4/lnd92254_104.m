@@ -2773,7 +2773,7 @@
 <form>Brit</form>
 <tag>
 <AM lemma="Británie_:B_;m" src="auto">NNFXX-----A---9</AM>
-<AM lemma="Británie_;G" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="Británie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-104-p2s12w32">

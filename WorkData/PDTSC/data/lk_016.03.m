@@ -1791,7 +1791,7 @@
 <LM>w#w-d1t1622-3</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m016-d1t1622-4">
 <w.rf>

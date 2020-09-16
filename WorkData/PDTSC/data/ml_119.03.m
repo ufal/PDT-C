@@ -3187,7 +3187,7 @@
 <LM>w#w-d1t771-28</LM>
 </w.rf>
 <form>Dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m119-d1t771-29">
 <w.rf>

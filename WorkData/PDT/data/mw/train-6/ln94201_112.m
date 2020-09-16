@@ -185,7 +185,7 @@
 <LM>w#w-ln94201-112-p2s1w15</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-ln94201-112-p2s1w16">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-ln94201-112-p2s1w45</LM>
 </w.rf>
 <form>mému</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS3-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS3-S1-------</tag>
 </m>
 <m id="m-ln94201-112-p2s1w46">
 <src.rf>manual</src.rf>

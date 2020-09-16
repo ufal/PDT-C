@@ -4204,7 +4204,7 @@
 <LM>w#w-d1t1096-4</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m118-d1t1098-1">
 <w.rf>

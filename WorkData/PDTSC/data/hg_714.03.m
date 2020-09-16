@@ -451,7 +451,7 @@
 <LM>w#w-d1t616-7</LM>
 </w.rf>
 <form>dítětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag lemma="dítě-1" src="auto" recommended="1">NNNS7-----A----</tag>
 </m>
 <m id="m714-d1t616-9">
 <w.rf>

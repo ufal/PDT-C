@@ -27,7 +27,7 @@
 <LM>w#w-ln94211-41-p1s1w2</LM>
 </w.rf>
 <form>Dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94211-41-p1s1w3">
 <src.rf>manual</src.rf>

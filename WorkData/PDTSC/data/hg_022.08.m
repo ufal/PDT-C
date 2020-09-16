@@ -4399,7 +4399,7 @@
 <LM>w#w-d1t2698-9</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m022-d1t2698-10">
 <w.rf>

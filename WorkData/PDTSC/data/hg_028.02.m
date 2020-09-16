@@ -2580,7 +2580,7 @@
 <LM>w#w-d1t775-11</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m028-d-id82386-punct">
 <w.rf>
@@ -4126,7 +4126,7 @@
 <LM>w#w-d1t875-3</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m028-d-m-d1e870-x2-punct-punct">
 <w.rf>
@@ -4547,7 +4547,7 @@
 <LM>w#w-d1t906-4</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m028-d-m-d1e903-x2-punct-punct">
 <w.rf>
@@ -4594,7 +4594,7 @@
 <LM>w#w-d1t910-4</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m028-d-id87001-punct">
 <w.rf>

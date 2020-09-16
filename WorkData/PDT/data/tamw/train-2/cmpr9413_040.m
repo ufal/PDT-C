@@ -607,7 +607,7 @@
 <LM>w#w-cmpr9413-040-p5s1w25</LM>
 </w.rf>
 <form>jejímu</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS3FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS3FS3-------</tag>
 </m>
 <m id="m-cmpr9413-040-p5s1w26">
 <src.rf>manual</src.rf>

@@ -4656,7 +4656,7 @@
 <LM>w#w-d1t135-22</LM>
 </w.rf>
 <form>ulejvala</form>
-<tag lemma="ulejvat" src="auto" recommended="1">VpQW----R-AAI--</tag>
+<tag lemma="ulejvat_,h_^(^GC**ulévat)" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m111-d-id63460-punct">
 <w.rf>

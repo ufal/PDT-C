@@ -593,7 +593,7 @@
 <LM>w#w-wsj2070-001-p1s1W19</LM>
 </w.rf>
 <form>němuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS3---------1</tag>
 </m>
 <m id="m-wsj2070-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1593,7 +1593,7 @@
 <LM>w#w-wsj2070-001-p1s5W4</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m-wsj2070-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>

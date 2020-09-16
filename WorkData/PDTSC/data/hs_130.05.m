@@ -1065,7 +1065,7 @@
 <form>svými</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="manual" selected="1">P8XP7----------</AM>
+<AM lemma="svůj-1" src="manual" selected="1">P8XP7----------</AM>
 </tag>
 </m>
 <m id="m130-d1t739-6">
@@ -2311,7 +2311,7 @@
 <LM>w#w-d1t764-32</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m130-d1t764-33">
 <w.rf>
@@ -4337,7 +4337,7 @@
 <LM>w#w-d1t818-21</LM>
 </w.rf>
 <form>dětech</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m130-d1t818-22">
 <w.rf>

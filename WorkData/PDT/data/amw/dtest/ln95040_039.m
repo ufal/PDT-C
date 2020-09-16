@@ -813,7 +813,7 @@
 <LM>w#w-ln95040-039-p2s2w41</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-ln95040-039-p2s2w42">
 <src.rf>manual</src.rf>
@@ -1985,7 +1985,7 @@
 <LM>w#w-ln95040-039-p4s1w17</LM>
 </w.rf>
 <form>t</form>
-<tag lemma="tento_^(př._t._r.,_t._č.)" src="orig" selected="1">PDXXX---------b</tag>
+<tag lemma="tento" src="orig" selected="1">PDXXX---------b</tag>
 </m>
 <m id="m-ln95040-039-p4s1w18">
 <src.rf>manual</src.rf>

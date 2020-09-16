@@ -2584,7 +2584,7 @@
 <LM>w#w-wsj1461-001-p1s7W29</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8XP7----------</tag>
 </m>
 <m id="m-wsj1461-001-p1s7W30-Ta">
 <src.rf>tagger-a</src.rf>

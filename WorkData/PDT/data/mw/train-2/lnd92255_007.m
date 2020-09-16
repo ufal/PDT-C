@@ -3250,7 +3250,7 @@
 <LM>w#w-lnd92255-007-p11s1w15</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92255-007-p11s1w16">
 <src.rf>manual</src.rf>
@@ -3805,7 +3805,7 @@
 <LM>w#w-lnd92255-007-p12s2w3</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92255-007-p12s2w4">
 <src.rf>manual</src.rf>

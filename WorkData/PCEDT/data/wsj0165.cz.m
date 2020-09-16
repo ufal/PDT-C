@@ -2222,7 +2222,7 @@
 <LM>w#w-wsj0165-001-p1s5W25</LM>
 </w.rf>
 <form>jimiž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP7----------</tag>
 </m>
 <m id="m-wsj0165-001-p1s5W26-Ta">
 <src.rf>tagger-a</src.rf>

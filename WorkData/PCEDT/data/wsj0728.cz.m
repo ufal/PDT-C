@@ -1366,7 +1366,7 @@
 <LM>w#w-wsj0728-001-p1s2W20</LM>
 </w.rf>
 <form>vašimi</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSXP7-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSXP7-P2-------</tag>
 </m>
 <m id="m-wsj0728-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2735,7 +2735,7 @@
 <LM>w#w-wsj0728-001-p1s7W9</LM>
 </w.rf>
 <form>vašimi</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSXP7-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSXP7-P2-------</tag>
 </m>
 <m id="m-wsj0728-001-p1s7W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4832,7 +4832,7 @@
 <LM>w#w-wsj0728-001-p1s16W8</LM>
 </w.rf>
 <form>vašimi</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSXP7-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSXP7-P2-------</tag>
 </m>
 <m id="m-wsj0728-001-p1s16W9-Ta">
 <src.rf>tagger-a</src.rf>

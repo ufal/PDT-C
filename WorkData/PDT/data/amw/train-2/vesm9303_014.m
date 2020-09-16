@@ -1601,7 +1601,7 @@
 <LM>w#w-vesm9303-014-p2s1w12</LM>
 </w.rf>
 <form>němuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS3---------1</tag>
 </m>
 <m id="m-vesm9303-014-p2s1w13">
 <src.rf>manual</src.rf>

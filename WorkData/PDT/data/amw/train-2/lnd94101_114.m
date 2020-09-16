@@ -1080,7 +1080,7 @@
 <LM>w#w-lnd94101-114-p1s7w1</LM>
 </w.rf>
 <form>Naším</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-lnd94101-114-p1s7w2">
 <src.rf>manual</src.rf>

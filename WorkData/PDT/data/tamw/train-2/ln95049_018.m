@@ -280,7 +280,7 @@
 <LM>w#w-ln95049-018-p1s2w11</LM>
 </w.rf>
 <form>němuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS3---------1</tag>
 </m>
 <m id="m-ln95049-018-p1s2w12">
 <src.rf>manual</src.rf>

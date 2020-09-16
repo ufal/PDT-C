@@ -969,7 +969,7 @@
 <LM>w#w-wsj2155-001-p1s2W16</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m-wsj2155-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7371,7 +7371,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS3----------</tag>
 </m>
 <m id="m-wsj2155-001-p1s24W9-Ta">
 <src.rf>tagger-a</src.rf>

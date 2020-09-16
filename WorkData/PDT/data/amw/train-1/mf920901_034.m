@@ -35,7 +35,7 @@
 <LM>w#w-mf920901-034-p1s1w3</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-034-p2s1">

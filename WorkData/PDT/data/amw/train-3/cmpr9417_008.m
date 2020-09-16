@@ -85,7 +85,7 @@
 <LM>w#w-cmpr9417-008-p3s1w7</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-cmpr9417-008-p3s1w8">
 <src.rf>manual</src.rf>

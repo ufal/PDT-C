@@ -1431,7 +1431,7 @@
 <LM>w#w-vesm9303-039-p4s2w26</LM>
 </w.rf>
 <form>dětech</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-vesm9303-039-p4s2w27">
 <src.rf>manual</src.rf>
@@ -1705,7 +1705,7 @@
 <LM>w#w-vesm9303-039-p4s4w15</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9303-039-p4s4w16">
 <src.rf>manual</src.rf>
@@ -3300,7 +3300,7 @@
 <LM>w#w-vesm9303-039-p6s2w13</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9303-039-p6s2w14">
 <src.rf>manual</src.rf>

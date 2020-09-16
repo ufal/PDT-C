@@ -4632,7 +4632,7 @@
 <LM>w#w-wsj2366-001-p1s22W19</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m-wsj2366-001-p1s22W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5526,7 +5526,7 @@
 <LM>w#w-wsj2366-001-p1s26W3</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj2366-001-p1s26W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7088,7 +7088,7 @@
 <LM>w#w-wsj2366-001-p1s33W29</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8XP7----------</tag>
 </m>
 <m id="m-wsj2366-001-p1s33W30-Ta">
 <src.rf>tagger-a</src.rf>

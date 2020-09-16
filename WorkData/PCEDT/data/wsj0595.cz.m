@@ -7715,7 +7715,7 @@
 <LM>w#w-wsj0595-001-p1s22W33</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj0595-001-p1s22W34-Ta">
 <src.rf>tagger-a</src.rf>

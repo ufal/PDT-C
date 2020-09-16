@@ -2529,7 +2529,7 @@
 <LM>w#w-d1t805-23</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m038-d1e800-x2-62">
 <w.rf>

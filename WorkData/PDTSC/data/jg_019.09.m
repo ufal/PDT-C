@@ -2537,7 +2537,7 @@
 <LM>w#w-d1t3202-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
+<tag lemma="co-1" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m019-d-id144460-punct">
 <w.rf>
@@ -2728,7 +2728,7 @@
 <LM>w#w-d1t3241-4</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m019-d1t3241-5">
 <w.rf>

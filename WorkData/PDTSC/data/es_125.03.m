@@ -2971,7 +2971,7 @@
 <LM>w#w-d1t572-20</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="m125-d1t572-21">
 <w.rf>
@@ -3895,7 +3895,7 @@
 <LM>w#w-d1t589-48</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8XP7----------</tag>
 </m>
 <m id="m125-d1t589-49">
 <w.rf>

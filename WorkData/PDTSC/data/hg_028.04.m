@@ -585,7 +585,7 @@
 <form>vašem</form>
 <tag>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</AM>
-<AM lemma="váš_^(přivlast.)" src="manual" selected="1">PSZS6-P2-------</AM>
+<AM lemma="váš" src="manual" selected="1">PSZS6-P2-------</AM>
 </tag>
 </m>
 <m id="m028-d1t1250-7">
@@ -2939,7 +2939,7 @@
 <LM>w#w-d1t1429-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
+<tag lemma="co-1" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m028-d-id105408-punct">
 <w.rf>

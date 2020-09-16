@@ -3986,7 +3986,7 @@
 <LM>w#w-d1t293-4</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="m943-d1t293-5">
 <w.rf>

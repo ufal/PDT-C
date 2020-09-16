@@ -35,7 +35,7 @@
 <LM>w#w-vesm9212-017-p1s1w3</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS6-S1-------</tag>
 </m>
 <m id="m-vesm9212-017-p1s1w4">
 <src.rf>manual</src.rf>

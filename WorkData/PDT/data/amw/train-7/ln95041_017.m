@@ -1765,7 +1765,7 @@
 <LM>w#w-ln95041-017-p3s1w21</LM>
 </w.rf>
 <form>dítětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95041-017-p3s1w22">
 <src.rf>manual</src.rf>

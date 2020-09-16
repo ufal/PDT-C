@@ -4044,7 +4044,7 @@
 <LM>w#w-wsj0804-001-p1s16W4</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj0804-001-p1s16W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5214,7 +5214,7 @@
 <LM>w#w-wsj0804-001-p1s20W26</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj0804-001-p1s20W27-Ta">
 <src.rf>tagger-a</src.rf>

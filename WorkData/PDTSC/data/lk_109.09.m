@@ -5797,7 +5797,7 @@
 <LM>w#w-d1t1546-12</LM>
 </w.rf>
 <form>strejček</form>
-<tag lemma="strejček" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="strejček_,s_^(^DD**strýček)" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m109-d1t1546-13">
 <w.rf>

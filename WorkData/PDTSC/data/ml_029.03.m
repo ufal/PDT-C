@@ -1550,7 +1550,7 @@
 <LM>w#w-d1t1060-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
+<tag lemma="co-1" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m029-d-id86495-punct">
 <w.rf>
@@ -1872,7 +1872,7 @@
 <LM>w#w-d1t1082-4</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m029-d1t1082-5">
 <w.rf>

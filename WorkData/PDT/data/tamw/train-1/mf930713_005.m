@@ -1354,7 +1354,7 @@
 <LM>w#w-mf930713-005-p3s8w27</LM>
 </w.rf>
 <form>jichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP2---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP2---------1</tag>
 </m>
 <m id="m-mf930713-005-p3s8w28">
 <src.rf>manual</src.rf>

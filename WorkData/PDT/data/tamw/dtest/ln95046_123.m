@@ -746,7 +746,7 @@
 <LM>w#w-ln95046-123-p2s4w6</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln95046-123-p2s4w7">
 <src.rf>manual</src.rf>
@@ -4266,7 +4266,7 @@
 <LM>w#w-ln95046-123-p7s1w29</LM>
 </w.rf>
 <form>nimiž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP7---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP7---------1</tag>
 </m>
 <m id="m-ln95046-123-p7s1w30">
 <src.rf>manual</src.rf>
@@ -4695,7 +4695,7 @@
 <LM>w#w-ln95046-123-p8s2w12</LM>
 </w.rf>
 <form>železnic</form>
-<tag lemma="železnice_^(*3ík-1)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="železnice" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95046-123-p8s2w13">
 <src.rf>manual</src.rf>

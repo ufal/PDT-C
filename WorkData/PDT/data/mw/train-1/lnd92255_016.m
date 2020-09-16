@@ -350,7 +350,7 @@
 <LM>w#w-lnd92255-016-p1s2w7</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-lnd92255-016-p1s2w8">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-lnd92255-016-p1s2w28</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92255-016-p1s2w29">
 <src.rf>manual</src.rf>

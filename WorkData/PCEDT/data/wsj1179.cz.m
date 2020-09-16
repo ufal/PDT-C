@@ -121,7 +121,7 @@
 <LM>w#w-wsj1179-001-p1s0W11</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m-wsj1179-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>

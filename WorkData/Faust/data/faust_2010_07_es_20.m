@@ -2883,7 +2883,7 @@
 </w.rf>
 <form>Jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS4--3-------</AM>
 </tag>
@@ -9043,7 +9043,7 @@
 <LM>w#w-es_20-SCzechM-p2185-s1-w35</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="es_20-SCzechM-p2185-s1-w36">
 <w.rf>

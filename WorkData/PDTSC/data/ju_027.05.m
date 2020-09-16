@@ -4754,7 +4754,7 @@
 <LM>w#w-d1t1650-7</LM>
 </w.rf>
 <form>Mému</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS3-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS3-S1-------</tag>
 </m>
 <m id="m027-d1t1650-8">
 <w.rf>
@@ -5623,7 +5623,7 @@
 <LM>w#w-d1t1720-20</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m027-d-m-d1e1715-x2-punct-punct">
 <w.rf>

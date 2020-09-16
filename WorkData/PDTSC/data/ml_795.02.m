@@ -6536,7 +6536,7 @@
 <LM>w#w-d1t675-13</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m795-d1t675-14">
 <w.rf>

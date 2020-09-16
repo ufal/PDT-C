@@ -1855,7 +1855,7 @@
 <LM>w#w-lnd91303-033-p4s4w12</LM>
 </w.rf>
 <form>našemu</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS3-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS3-P1-------</tag>
 </m>
 <m id="m-lnd91303-033-p4s4w13">
 <src.rf>manual</src.rf>

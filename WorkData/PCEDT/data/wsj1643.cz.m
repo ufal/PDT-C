@@ -9387,7 +9387,7 @@
 <LM>w#w-wsj1643-001-p1s49W17</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS3----------</tag>
 </m>
 <m id="m-wsj1643-001-p1s49W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10562,7 +10562,7 @@
 <form>Vlastně</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VeYS------A-I--</AM>
-<AM lemma="vlastně-3" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vlastně-2" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>

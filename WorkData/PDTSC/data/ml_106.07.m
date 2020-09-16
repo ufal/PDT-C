@@ -818,7 +818,7 @@
 <LM>w#w-d1t1677-17</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m106-d1e1670-x2-666">
 <w.rf>

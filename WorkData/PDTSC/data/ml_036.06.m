@@ -521,7 +521,7 @@
 <LM>w#w-d1t1443-8</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m036-220-221">
 <w.rf>
@@ -3373,7 +3373,7 @@
 <LM>w#w-d1t1566-10</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m036-d1t1566-8">
 <w.rf>

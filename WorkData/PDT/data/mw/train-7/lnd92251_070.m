@@ -1127,7 +1127,7 @@
 <LM>w#w-lnd92251-070-p4s2w16</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-lnd92251-070-p4s2w17">
 <src.rf>manual</src.rf>

@@ -402,7 +402,7 @@
 <LM>w#w-d1t3452-2</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m049-d1t3452-3">
 <w.rf>

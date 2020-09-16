@@ -3888,7 +3888,7 @@
 <LM>w#w-jh_13-SCzechM-p1372-s1-w14</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" recommended="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="jh_13-SCzechM-p1372-s1-w15">
 <w.rf>

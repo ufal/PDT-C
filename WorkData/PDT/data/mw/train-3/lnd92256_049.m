@@ -668,7 +668,7 @@
 <LM>w#w-lnd92256-049-p2s3w16</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92256-049-p2s3w17">
 <src.rf>manual</src.rf>

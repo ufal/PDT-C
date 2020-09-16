@@ -1251,7 +1251,7 @@
 <LM>w#w-mf930708-135-p3s5w21</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-mf930708-135-p3s5w22">
 <src.rf>manual</src.rf>
@@ -2029,7 +2029,7 @@
 <LM>w#w-mf930708-135-p4s6w5</LM>
 </w.rf>
 <form>niž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS4---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS4---------1</tag>
 </m>
 <m id="m-mf930708-135-p4s6w6">
 <src.rf>manual</src.rf>

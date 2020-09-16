@@ -268,7 +268,7 @@
 <LM>w#w-d1t2324-10</LM>
 </w.rf>
 <form>dětma</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A---6</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A---6</tag>
 </m>
 <m id="m102-d1t2324-11">
 <w.rf>
@@ -4510,7 +4510,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -4530,7 +4530,7 @@
 </w.rf>
 <form>Jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>

@@ -1227,7 +1227,7 @@
 <LM>w#w-cmpr9407-034-p8s4w13</LM>
 </w.rf>
 <form>nimž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP3---------1</tag>
 </m>
 <m id="m-cmpr9407-034-p8s4w14">
 <src.rf>manual</src.rf>

@@ -32,7 +32,7 @@
 <LM>w#w-wsj0411-001-p1s0W2</LM>
 </w.rf>
 <form>vašemu</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS3-P2-------</tag>
 </m>
 <m id="m-wsj0411-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -847,7 +847,7 @@
 <LM>w#w-wsj0411-001-p1s2W14</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m-wsj0411-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>

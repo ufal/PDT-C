@@ -1403,7 +1403,7 @@
 <LM>w#w-d1t1640-3</LM>
 </w.rf>
 <form>vašemu</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1" selected="1">PSZS3-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1" selected="1">PSZS3-P2-------</tag>
 </m>
 <m id="m063-d1t1640-4">
 <w.rf>

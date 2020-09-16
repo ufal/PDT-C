@@ -4718,7 +4718,7 @@
 <LM>w#w-ln95048-104-p10s3w11</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95048-104-p10s3w12">
 <src.rf>manual</src.rf>
@@ -6266,7 +6266,7 @@
 <LM>w#w-ln95048-104-p14s3w10</LM>
 </w.rf>
 <form>dítětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95048-104-p14s3w11">
 <src.rf>manual</src.rf>
@@ -6503,7 +6503,7 @@
 <LM>w#w-ln95048-104-p14s4w4</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95048-104-p14s4w5">
 <src.rf>manual</src.rf>

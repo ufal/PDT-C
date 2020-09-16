@@ -3858,7 +3858,7 @@
 <form>vašemu</form>
 <tag>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</AM>
-<AM lemma="váš_^(přivlast.)" src="manual" selected="1">PSZS3-P2-------</AM>
+<AM lemma="váš" src="manual" selected="1">PSZS3-P2-------</AM>
 </tag>
 </m>
 <m id="m783-d1t1381-7">
@@ -4010,7 +4010,7 @@
 <LM>w#w-d1t1385-11</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m783-d1e1378-x3-11738">
 <w.rf>

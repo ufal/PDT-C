@@ -3235,7 +3235,7 @@
 <LM>w#w-cmpr9415-038-p11s3w18</LM>
 </w.rf>
 <form>jimž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP3----------</tag>
 </m>
 <m id="m-cmpr9415-038-p11s3w19">
 <src.rf>manual</src.rf>
@@ -4216,7 +4216,7 @@
 <LM>w#w-cmpr9415-038-p14s1w19</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9415-038-p14s1w20">
 <src.rf>manual</src.rf>

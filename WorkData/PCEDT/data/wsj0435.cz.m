@@ -839,7 +839,7 @@
 <LM>w#w-wsj0435-001-p1s2W6</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-wsj0435-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>

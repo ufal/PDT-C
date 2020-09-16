@@ -1331,7 +1331,7 @@
 <LM>w#w-mf930713-151-p2s10w18</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-mf930713-151-p2s10w19">
 <src.rf>manual</src.rf>
@@ -3785,7 +3785,7 @@
 <LM>w#w-mf930713-151-p2s28w34</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf930713-151-p2s28w35">
 <src.rf>manual</src.rf>

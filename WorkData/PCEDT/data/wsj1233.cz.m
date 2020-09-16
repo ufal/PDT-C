@@ -258,7 +258,7 @@
 <LM>w#w-wsj1233-001-p1s1W3</LM>
 </w.rf>
 <form>jemuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS3----------</tag>
 </m>
 <m id="m-wsj1233-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-wsj1233-001-p1s2W6</LM>
 </w.rf>
 <form>jemuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS3----------</tag>
 </m>
 <m id="m-wsj1233-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -935,7 +935,7 @@
 <LM>w#w-wsj1233-001-p1s3W6</LM>
 </w.rf>
 <form>jemuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS3----------</tag>
 </m>
 <m id="m-wsj1233-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>

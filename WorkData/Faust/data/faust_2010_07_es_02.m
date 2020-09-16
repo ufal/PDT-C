@@ -896,7 +896,7 @@
 <LM>w#w-es_02-SCzechM-p0103-s1-w21</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="náš_^(přivlast.)" recommended="1">PSXP7-P1-------</tag>
+<tag lemma="náš" recommended="1">PSXP7-P1-------</tag>
 </m>
 <m id="es_02-SCzechM-p0103-s1-w22">
 <w.rf>
@@ -1668,7 +1668,7 @@
 <LM>w#w-es_02-SCzechM-p0112-s1-w23</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="es_02-SCzechM-p0112-s1-w24">
 <w.rf>
@@ -2214,7 +2214,7 @@
 <LM>w#w-es_02-SCzechM-p0116-s1-w6</LM>
 </w.rf>
 <form>mými</form>
-<tag lemma="můj_^(přivlast.)" recommended="1">PSXP7-S1-------</tag>
+<tag lemma="můj" recommended="1">PSXP7-S1-------</tag>
 </m>
 <m id="es_02-SCzechM-p0116-s1-w7">
 <w.rf>
@@ -4888,7 +4888,7 @@
 <LM>w#w-es_02-SCzechM-p0156-s1-w2</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="es_02-SCzechM-p0156-s1-w3">
 <w.rf>

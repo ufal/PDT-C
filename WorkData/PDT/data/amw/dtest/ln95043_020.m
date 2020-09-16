@@ -332,7 +332,7 @@
 <LM>w#w-ln95043-020-p2s2w7</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-ln95043-020-p2s2w8">
 <src.rf>manual</src.rf>

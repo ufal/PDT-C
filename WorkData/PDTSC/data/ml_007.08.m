@@ -1211,7 +1211,7 @@
 <LM>w#w-d1t2473-32</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m007-d1t2473-33">
 <w.rf>

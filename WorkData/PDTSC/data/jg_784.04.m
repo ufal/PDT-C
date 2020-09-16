@@ -6939,7 +6939,7 @@
 <LM>w#w-d1t1807-2</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m784-d1t1807-5">
 <w.rf>

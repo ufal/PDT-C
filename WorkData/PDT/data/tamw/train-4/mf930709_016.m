@@ -236,7 +236,7 @@
 <LM>w#w-mf930709-016-p2s2w5</LM>
 </w.rf>
 <form>železnic</form>
-<tag lemma="železnice_^(*3ík-1)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="železnice" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930709-016-p2s2w6">
 <src.rf>manual</src.rf>

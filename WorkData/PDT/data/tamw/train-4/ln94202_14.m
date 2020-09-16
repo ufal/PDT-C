@@ -2365,7 +2365,7 @@
 <LM>w#w-ln94202-14-p4s5w10</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" src="orig" selected="1">PSZS6-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSZS6-P2-------</tag>
 </m>
 <m id="m-ln94202-14-p4s5w11">
 <src.rf>manual</src.rf>

@@ -99,7 +99,7 @@
 <LM>w#w-wsj2029-001-p1s0W9</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m-wsj2029-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>

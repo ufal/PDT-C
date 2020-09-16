@@ -2276,7 +2276,7 @@
 <LM>w#w-mf930713-075-p6s1w10</LM>
 </w.rf>
 <form>nimiž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP7---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP7---------1</tag>
 </m>
 <m id="m-mf930713-075-p6s1w11">
 <src.rf>manual</src.rf>

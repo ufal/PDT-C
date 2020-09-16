@@ -32,16 +32,11 @@ if (@ARGV) {
 my $lemmas = Ufal::MorphoDiTa::TaggedLemmas->new();
 
 my $group_script = "python3 " . dirname($0) . "/consistency_vertical_grouper.py";
-open (my $f_uniquelemma_comment_change, "|-", "$group_script uniquelemma_comment_change.txt") or die;
-open (my $f_uniquelemma_resensed_comment_change, "|-", "$group_script uniquelemma_resensed_comment_change.txt") or die;
-open (my $f_uniquelemma_sense_change, "|-", "$group_script uniquelemma_sense_change.txt") or die;
-open (my $f_uniquelemma_tag_change, "|-", "$group_script uniquelemma_tag_change.txt") or die;
-open (my $f_unique_rest, "|-", "$group_script unique_rest.txt") or die;
+open (my $f_unique, "|-", "$group_script unique.txt") or die;
 open (my $f_multiple_uniquetag, "|-", "$group_script multiple_uniquetag.txt") or die;
 open (my $f_multiple_nonuniquetag, "|-", "$group_script multiple_non-uniquetag.txt") or die;
 
-my ($total, $full_matches, $uniquelemma_resensed_comment_change, $uniquelemma_comment_change, $uniquelemma_sense_change) = (0, 0, 0, 0, 0);
-my ($uniquelemma_tag_change, $unique_rest, $multiple_uniquetag, $multiple_nonuniquetag, $no_analysis) = (0, 0, 0, 0, 0);
+my ($total, $full_matches, $unique, $multiple_uniquetag, $multiple_nonuniquetag, $no_analysis) = (0, 0, 0, 0, 0, 0);
 while (<>) {
   chomp;
   next if /^$/;
@@ -74,32 +69,18 @@ while (<>) {
     push @match_indices, $i;
   }
 
-  # Unique replacements
-  if (@match_indices == 1 && $tags[$match_indices[0]] eq $tag && $dictionary->lemmaId($lemmas[$match_indices[0]]) eq $dictionary->lemmaId($lemma)) {
-    $uniquelemma_comment_change++;
-    print $f_uniquelemma_comment_change "$node $form $lemma $tag -> $lemmas[$match_indices[0]] $tags[$match_indices[0]]\n";
-    next;
-  }
-  if (@match_indices == 1 && $tags[$match_indices[0]] eq $tag && $dictionary->lemmaId($lemmas[$match_indices[0]]) eq ($resensing{$dictionary->lemmaId($lemma)} || "")) {
-    $uniquelemma_resensed_comment_change++;
-    print $f_uniquelemma_resensed_comment_change "$node $form $lemma $tag -> $lemmas[$match_indices[0]] $tags[$match_indices[0]]\n";
-    next;
-  }
-  if (@match_indices == 1 && $tags[$match_indices[0]] eq $tag) {
-    $uniquelemma_sense_change++;
-    print $f_uniquelemma_sense_change "$node $form $lemma $tag -> $lemmas[$match_indices[0]] $tags[$match_indices[0]]\n";
-    next;
-  }
-  if (@match_indices == 1 && $lemmas[$match_indices[0]] eq $lemma) {
-    $uniquelemma_tag_change++;
-    print $f_uniquelemma_tag_change "$node $form $lemma $tag -> $lemmas[$match_indices[0]] $tags[$match_indices[0]]\n";
+  # Unique replacements have either correct tag or full lemma
+  if (@match_indices == 1 &&
+      ($tags[$match_indices[0]] eq $tag || $lemmas[$match_indices[0]] eq $lemma)) {
+    $unique++;
+    print $f_unique "$node $form $lemma $tag -> $lemmas[$match_indices[0]] $tags[$match_indices[0]]\n";
     next;
   }
 
-  # Rest changes
+  # If there is only single analysis, it is also a unique replacement
   if (@lemmas == 1) {
-    $unique_rest++;
-    print $f_unique_rest "$node $form $lemma $tag -> $lemmas[0] $tags[0]\n";
+    $unique++;
+    print $f_unique "$node $form $lemma $tag -> $lemmas[0] $tags[0]\n";
   } else {
     # Count matching tags
     my @match_indices = ();
@@ -131,11 +112,7 @@ while (<>) {
 
 my $cummulative = 0;
 printf "Full matches: %.2f%% (%d forms).\n", 100. * ($cummulative += $full_matches) / $total, $full_matches;
-printf "Uniquelemma_comment_change: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $uniquelemma_comment_change / $total, $uniquelemma_comment_change, 100. * ($cummulative += $uniquelemma_comment_change) / $total;
-printf "Uniquelemma_resensed_comment_change: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $uniquelemma_resensed_comment_change / $total, $uniquelemma_resensed_comment_change, 100. * ($cummulative += $uniquelemma_resensed_comment_change) / $total;
-printf "Uniquelemma_sense_change: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $uniquelemma_sense_change / $total, $uniquelemma_sense_change, 100. * ($cummulative += $uniquelemma_sense_change) / $total;
-printf "Uniquelemma_tag_change: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $uniquelemma_tag_change / $total, $uniquelemma_tag_change, 100. * ($cummulative += $uniquelemma_tag_change) / $total;
-printf "Unique rest: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $unique_rest / $total, $unique_rest, 100. * ($cummulative += $unique_rest) / $total;
+printf "Unique: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $unique / $total, $unique, 100. * ($cummulative += $unique) / $total;
 printf "Multiple_uniquetag: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $multiple_uniquetag / $total, $multiple_uniquetag, 100. * ($cummulative += $multiple_uniquetag) / $total;
 printf "Multiple_non-uniquetag: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $multiple_nonuniquetag / $total, $multiple_nonuniquetag, 100. * ($cummulative += $multiple_nonuniquetag) / $total;
 printf "No analysis: %.2f%% (%d forms) (cummulative %.2f%%).\n", 100. * $no_analysis / $total, $no_analysis, 100. * ($cummulative += $no_analysis) / $total;

@@ -83,7 +83,7 @@
 <LM>w#w-vesm9303-037-p1s1w9</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-vesm9303-037-p1s1w10">
 <src.rf>manual</src.rf>

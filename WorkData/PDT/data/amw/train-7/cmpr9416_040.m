@@ -682,7 +682,7 @@
 <LM>w#w-cmpr9416-040-p3s1Ew10</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Ew11">
 <src.rf>manual</src.rf>

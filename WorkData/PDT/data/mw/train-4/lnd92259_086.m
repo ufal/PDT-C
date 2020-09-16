@@ -483,7 +483,7 @@
 <LM>w#w-lnd92259-086-p3s2w15</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-lnd92259-086-p3s2w16">
 <src.rf>manual</src.rf>
@@ -5613,7 +5613,7 @@
 </w.rf>
 <form>mel</form>
 <tag>
-<AM lemma="mel-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="mel-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="mlít" src="auto">Vi-S---3--A-I-4</AM>

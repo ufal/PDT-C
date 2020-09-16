@@ -671,7 +671,7 @@
 <LM>w#w-d1t891-4</LM>
 </w.rf>
 <form>mými</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP7-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSXP7-S1-------</tag>
 </m>
 <m id="m983-d1t891-5">
 <w.rf>

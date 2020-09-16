@@ -825,7 +825,7 @@
 <LM>w#w-d1t2402-2</LM>
 </w.rf>
 <form>mýma</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSFD7-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSFD7-S1-------</tag>
 </m>
 <m id="m110-d1t2402-3">
 <w.rf>

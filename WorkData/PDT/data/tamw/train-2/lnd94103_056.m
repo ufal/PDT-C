@@ -167,7 +167,7 @@
 <LM>w#w-lnd94103-056-p1s2Aw7</LM>
 </w.rf>
 <form>nimž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP3---------1</tag>
 </m>
 <m id="m-lnd94103-056-p1s2Aw8">
 <src.rf>manual</src.rf>
@@ -4037,7 +4037,7 @@
 <LM>w#w-lnd94103-056-p1s40w17</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd94103-056-p1s40w18">
 <src.rf>manual</src.rf>

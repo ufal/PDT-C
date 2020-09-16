@@ -1284,7 +1284,7 @@
 <LM>w#w-lnd92259-040-p4s3w9</LM>
 </w.rf>
 <form>jimž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP3----------</tag>
 </m>
 <m id="m-lnd92259-040-p4s3w10">
 <src.rf>manual</src.rf>

@@ -485,7 +485,7 @@
 <LM>w#w-d1t727-7</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m911-d1t727-8">
 <w.rf>
@@ -1726,7 +1726,7 @@
 <LM>w#w-d1t782-8</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m911-d1t782-9">
 <w.rf>
@@ -3989,7 +3989,7 @@
 <LM>w#w-d1t862-19</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m911-d1t862-20">
 <w.rf>
@@ -6132,7 +6132,7 @@
 <LM>w#w-d1t960-6</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="m911-d1t962-1">
 <w.rf>

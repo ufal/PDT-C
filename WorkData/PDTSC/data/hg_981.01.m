@@ -4039,7 +4039,7 @@
 <LM>w#w-d1t778-20</LM>
 </w.rf>
 <form>oč</form>
-<tag lemma="co" src="auto" recommended="1">PQ--4--------o-</tag>
+<tag lemma="co-1" src="auto" recommended="1">PQ--4--------o-</tag>
 </m>
 <m id="m981-d1t778-21">
 <w.rf>

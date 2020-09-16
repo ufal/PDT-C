@@ -4760,7 +4760,7 @@
 <LM>w#w-mu_10-SCzechM-p1046-s1-w22</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="náš_^(přivlast.)" recommended="1">PSZS7-P1-------</tag>
+<tag lemma="náš" recommended="1">PSZS7-P1-------</tag>
 </m>
 <m id="mu_10-SCzechM-p1046-s1-w23">
 <w.rf>
@@ -5343,7 +5343,7 @@
 <LM>w#w-mu_10-SCzechM-p1049-s1-w21</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="mu_10-SCzechM-p1049-s1-w22">
 <w.rf>

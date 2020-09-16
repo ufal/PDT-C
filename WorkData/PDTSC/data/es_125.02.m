@@ -1057,7 +1057,7 @@
 <LM>w#w-d1t385-9</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m125-130-136">
 <w.rf>
@@ -3117,7 +3117,7 @@
 <LM>w#w-d1t438-5</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m125-d1t438-6">
 <w.rf>

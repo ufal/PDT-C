@@ -1220,7 +1220,7 @@
 <LM>w#w-lnd92258-100-p4s3w15</LM>
 </w.rf>
 <form>našemu</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS3-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS3-P1-------</tag>
 </m>
 <m id="m-lnd92258-100-p4s3w16">
 <src.rf>manual</src.rf>

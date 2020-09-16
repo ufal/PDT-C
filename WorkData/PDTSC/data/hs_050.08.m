@@ -545,7 +545,7 @@
 <LM>w#w-d1t2295-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
+<tag lemma="co-1" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m050-d-id135119-punct">
 <w.rf>
@@ -940,7 +940,7 @@
 <LM>w#w-d1t2320-12</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8XP7----------</tag>
 </m>
 <m id="m050-d1t2320-13">
 <w.rf>

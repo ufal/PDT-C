@@ -570,7 +570,7 @@
 <LM>w#w-lnd92251-087-p2s5w1</LM>
 </w.rf>
 <form>Svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP7----------</tag>
 </m>
 <m id="m-lnd92251-087-p2s5w2">
 <src.rf>manual</src.rf>

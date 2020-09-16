@@ -871,7 +871,7 @@
 <LM>w#w-d1t1079-8</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m116-d1t1079-9">
 <w.rf>

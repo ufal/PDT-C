@@ -65,7 +65,7 @@
 <form>KRÁLOVÉ</form>
 <tag>
 <AM lemma="Králové_;G_^(Dvůr_Králové)" src="orig">NNFS2-----A----</AM>
-<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-012-p3s1w3">
@@ -289,7 +289,7 @@
 <form>Králové</form>
 <tag>
 <AM lemma="Králové_;G_^(Dvůr_Králové)" src="orig">NNFS2-----A----</AM>
-<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-012-p3s2w27">
@@ -1342,7 +1342,7 @@
 <LM>w#w-lnd92257-012-p3s9w2</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-lnd92257-012-p3s9w3">
 <src.rf>manual</src.rf>
@@ -1398,7 +1398,7 @@
 <LM>w#w-lnd92257-012-p3s9w9</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd92257-012-p3s9w10">
 <src.rf>manual</src.rf>

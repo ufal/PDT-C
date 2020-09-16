@@ -817,7 +817,7 @@
 <LM>w#w-ln94201-15-p2s6w1</LM>
 </w.rf>
 <form>Jejími</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP7FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP7FS3-------</tag>
 </m>
 <m id="m-ln94201-15-p2s6w2">
 <src.rf>manual</src.rf>

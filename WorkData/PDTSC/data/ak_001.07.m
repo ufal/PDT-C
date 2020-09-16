@@ -1966,7 +1966,7 @@
 <LM>w#w-d1t2107-3</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
+<tag lemma="co-1" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m001-d1e2104-x2-199">
 <w.rf>

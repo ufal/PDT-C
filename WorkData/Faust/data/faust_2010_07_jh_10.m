@@ -1275,7 +1275,7 @@
 <LM>w#w-jh_10-SCzechM-p0996-s1-w3</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" recommended="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" recommended="1">P8ZS3----------</tag>
 </m>
 <m id="jh_10-SCzechM-p0996-s1-w4">
 <w.rf>
@@ -2233,7 +2233,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS4--3-------</AM>
 </tag>
@@ -5571,7 +5571,7 @@
 <LM>w#w-jh_10-SCzechM-p1049-s1-w26</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="jh_10-SCzechM-p1049-s1-w27">
 <w.rf>

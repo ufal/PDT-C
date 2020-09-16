@@ -327,7 +327,7 @@
 <LM>w#w-cmpr9413-009-p3s3w7</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-cmpr9413-009-p3s3w8">
 <src.rf>manual</src.rf>

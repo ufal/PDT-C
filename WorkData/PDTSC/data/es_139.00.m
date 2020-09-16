@@ -5470,7 +5470,7 @@
 <form>vašem</form>
 <tag>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</AM>
-<AM lemma="váš_^(přivlast.)" src="manual" selected="1">PSZS6-P2-------</AM>
+<AM lemma="váš" src="manual" selected="1">PSZS6-P2-------</AM>
 </tag>
 </m>
 <m id="m139-d1t379-7">

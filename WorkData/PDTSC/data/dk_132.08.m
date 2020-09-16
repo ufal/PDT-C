@@ -441,7 +441,7 @@
 <LM>w#w-d1t2242-11</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m132-163-170">
 <w.rf>

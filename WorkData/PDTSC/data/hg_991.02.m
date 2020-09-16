@@ -4614,7 +4614,7 @@
 <LM>w#w-d1t1049-11</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m991-d1e1038-x3-2408">
 <w.rf>

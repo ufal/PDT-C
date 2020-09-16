@@ -2266,7 +2266,7 @@
 <LM>w#w-mf930703-024-p4s10w7</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf930703-024-p4s10w8">
 <src.rf>manual</src.rf>

@@ -1830,7 +1830,7 @@
 <LM>w#w-ln94210-105-p4s6w3</LM>
 </w.rf>
 <form>tezemi</form>
-<tag lemma="teze_,s_^(^DD**téze)" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="teze" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln94210-105-p4s6w4">
 <src.rf>manual</src.rf>
@@ -2019,7 +2019,7 @@
 <LM>w#w-ln94210-105-p5s2w2</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94210-105-p5s2w3">
 <src.rf>manual</src.rf>
@@ -2271,7 +2271,7 @@
 <LM>w#w-ln94210-105-p6s1w11</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94210-105-p6s1w12">
 <src.rf>manual</src.rf>

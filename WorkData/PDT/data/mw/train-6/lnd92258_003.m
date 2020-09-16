@@ -765,7 +765,7 @@
 <LM>w#w-lnd92258-003-p3s4w10</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92258-003-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1449,7 +1449,7 @@
 <form>expertiz</form>
 <tag>
 <AM lemma="expertíza" src="orig">NNFP2-----A----</AM>
-<AM lemma="expertiza_,s_^(^DD**expertýza)" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
+<AM lemma="expertiza" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-003-p4s1w20">
@@ -2007,7 +2007,7 @@
 <AM lemma="expertíza" src="orig">NNFP2-----A----</AM>
 <AM lemma="expertiza" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="expertiza_,s_^(^DD**expertýza)" src="manual">NNFP2-----A----</AM>
-<AM lemma="expertiza_,s_^(^DD**expertýza)" src="manual" selected="1">NNFP2-----A----</AM>
+<AM lemma="expertiza" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-003-p4s4w15">
@@ -2169,7 +2169,7 @@
 <tag>
 <AM lemma="expertíza" src="orig">NNFP2-----A----</AM>
 <AM lemma="expertiza" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="expertiza_,s_^(^DD**expertýza)" src="manual" selected="1">NNFP2-----A----</AM>
+<AM lemma="expertiza" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-003-p4s4w34">
@@ -2383,7 +2383,7 @@
 <LM>w#w-lnd92258-003-p5s2w2</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92258-003-p5s2w3">
 <src.rf>manual</src.rf>

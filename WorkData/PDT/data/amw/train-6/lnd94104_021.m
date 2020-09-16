@@ -142,7 +142,7 @@
 <LM>w#w-lnd94104-021-p1s1Aw16</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94104-021-p1s1Aw17">
 <src.rf>manual</src.rf>
@@ -174,7 +174,7 @@
 <LM>w#w-lnd94104-021-p1s1Aw20</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd94104-021-p1s1Aw21">
 <src.rf>manual</src.rf>

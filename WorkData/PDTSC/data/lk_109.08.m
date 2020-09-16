@@ -2906,7 +2906,7 @@
 <LM>w#w-d1t1313-6</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m109-d1t1313-4">
 <w.rf>
@@ -3330,7 +3330,7 @@
 <LM>w#w-d1t1329-12</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m109-d1t1331-1">
 <w.rf>

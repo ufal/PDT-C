@@ -406,7 +406,7 @@
 <LM>w#w-wsj2352-001-p1s0W32</LM>
 </w.rf>
 <form>vaším</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS7-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS7-P2-------</tag>
 </m>
 <m id="m-wsj2352-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>

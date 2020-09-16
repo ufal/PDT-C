@@ -4517,7 +4517,7 @@
 <LM>w#w-wsj0044-001-p1s19W22</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS6----------</tag>
 </m>
 <m id="m-wsj0044-001-p1s19W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8660,7 +8660,7 @@
 <LM>w#w-wsj0044-001-p1s33W1</LM>
 </w.rf>
 <form>Jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj0044-001-p1s33W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9554,7 +9554,7 @@
 <LM>w#w-wsj0044-001-p1s35W13</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS6----------</tag>
 </m>
 <m id="m-wsj0044-001-p1s35W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14222,7 +14222,7 @@
 <LM>w#w-wsj0044-001-p1s48W9</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj0044-001-p1s48W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14832,7 +14832,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -17099,7 +17099,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -22177,7 +22177,7 @@
 <LM>w#w-wsj0044-001-p1s79W26</LM>
 </w.rf>
 <form>jejímu</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS3FS3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9ZS3FS3-------</tag>
 </m>
 <m id="m-wsj0044-001-p1s79W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -24588,7 +24588,7 @@
 <LM>w#w-wsj0044-001-p1s87W6</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m-wsj0044-001-p1s87W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -27077,7 +27077,7 @@
 <LM>w#w-wsj0044-001-p1s98W15</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m-wsj0044-001-p1s98W16-Ta">
 <src.rf>tagger-a</src.rf>

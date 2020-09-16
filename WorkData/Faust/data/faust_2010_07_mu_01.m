@@ -5262,7 +5262,7 @@
 <LM>w#w-mu_01-SCzechM-p0094-s1-w17</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="mu_01-SCzechM-p0094-s1-w18">
 <w.rf>

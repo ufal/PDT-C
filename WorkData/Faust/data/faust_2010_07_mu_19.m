@@ -2564,7 +2564,7 @@
 <LM>w#w-mu_19-SCzechM-p2021-s1-w32</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="mu_19-SCzechM-p2021-s1-w33">
 <w.rf>

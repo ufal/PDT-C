@@ -270,7 +270,7 @@
 <LM>w#w-ln94210-38-p2s1Bw21</LM>
 </w.rf>
 <form>jimiž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP7----------</tag>
 </m>
 <m id="m-ln94210-38-p2s1Bw22">
 <src.rf>manual</src.rf>

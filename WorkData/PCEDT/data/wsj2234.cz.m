@@ -4681,7 +4681,7 @@
 <LM>w#w-wsj2234-001-p1s11W18</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS3----------</tag>
 </m>
 <m id="m-wsj2234-001-p1s11W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9278,7 +9278,7 @@
 </w.rf>
 <form>železnic</form>
 <tag>
-<AM lemma="železnice_^(*3ík-1)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="železnice" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="železnice-1_,s_^(výrobce_železa)_(*5ík-1)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>

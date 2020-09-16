@@ -1590,7 +1590,7 @@
 <LM>w#w-mf920925-048-p2s5w16</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf920925-048-p2s5w17">
 <src.rf>manual</src.rf>
@@ -1632,7 +1632,7 @@
 <form>expertizu</form>
 <tag>
 <AM lemma="expertíza" src="orig">NNFS4-----A----</AM>
-<AM lemma="expertiza_,s_^(^DD**expertýza)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="expertiza" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s5w22">

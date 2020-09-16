@@ -4253,7 +4253,7 @@
 <LM>w#w-wsj2021-001-p1s17W7</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS3----------</tag>
 </m>
 <m id="m-wsj2021-001-p1s17W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8751,7 +8751,7 @@
 <LM>w#w-wsj2021-001-p1s35W12</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-wsj2021-001-p1s35W13-Ta">
 <src.rf>tagger-a</src.rf>

@@ -3355,7 +3355,7 @@
 </w.rf>
 <form>Strana</form>
 <tag>
-<AM lemma="Strana_;G_^(př._Malá_Strana)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="strana" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="strana" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -5184,7 +5184,7 @@
 <LM>w#w-d1t121-22</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS7-P1-------</tag>
 </m>
 <m id="m142-d1t121-23">
 <w.rf>

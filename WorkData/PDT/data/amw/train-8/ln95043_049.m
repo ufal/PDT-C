@@ -1105,7 +1105,7 @@
 <LM>w#w-ln95043-049-p2s7w10</LM>
 </w.rf>
 <form>nimž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP3---------1</tag>
 </m>
 <m id="m-ln95043-049-p2s7w11">
 <src.rf>manual</src.rf>

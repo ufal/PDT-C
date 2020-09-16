@@ -3960,7 +3960,7 @@
 <LM>w#w-mu_13-SCzechM-p1372-s1-w14</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="mu_13-SCzechM-p1372-s1-w15">
 <w.rf>

@@ -953,7 +953,7 @@
 <LM>w#w-ln95040-123-p3s5w18</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-ln95040-123-p3s5w19">
 <src.rf>manual</src.rf>

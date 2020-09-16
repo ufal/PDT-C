@@ -189,7 +189,7 @@
 <LM>w#w-mf920923-037-p2s1w18</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-mf920923-037-p2s1w19">
 <src.rf>manual</src.rf>
@@ -968,7 +968,7 @@
 <LM>w#w-mf920923-037-p3s2w6</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-mf920923-037-p3s2w7">
 <src.rf>manual</src.rf>

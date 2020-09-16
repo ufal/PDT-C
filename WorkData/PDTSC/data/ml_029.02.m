@@ -1230,7 +1230,7 @@
 <LM>w#w-d1t727-5</LM>
 </w.rf>
 <form>mému</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS3-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS3-S1-------</tag>
 </m>
 <m id="m029-d1t727-6">
 <w.rf>
@@ -3079,7 +3079,7 @@
 <LM>w#w-d1t859-5</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m029-d1t859-3">
 <w.rf>
@@ -4080,7 +4080,7 @@
 <LM>w#w-d1t926-14</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m029-d-m-d1e921-x2-punct-punct">
 <w.rf>
@@ -4171,7 +4171,7 @@
 <LM>w#w-d1t942-4</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m029-d-m-d1e939-x2-punct-punct">
 <w.rf>

@@ -2168,7 +2168,7 @@
 <LM>w#w-d1t1580-36</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m141-d1e1577-x2-784">
 <w.rf>
@@ -4533,7 +4533,7 @@
 <LM>w#w-d1t1616-40</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m141-d-m-d1e1594-x3-punct-punct">
 <w.rf>

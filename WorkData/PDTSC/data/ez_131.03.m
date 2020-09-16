@@ -1295,7 +1295,7 @@
 <LM>w#w-d1t655-13</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m131-64-65">
 <w.rf>

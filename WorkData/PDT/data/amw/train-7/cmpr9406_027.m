@@ -1662,7 +1662,7 @@
 <LM>w#w-cmpr9406-027-p7s8w8</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-cmpr9406-027-p7s8w9">
 <src.rf>manual</src.rf>
@@ -5304,7 +5304,7 @@
 <LM>w#w-cmpr9406-027-p15s6w3</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-cmpr9406-027-p15s6w4">
 <src.rf>manual</src.rf>

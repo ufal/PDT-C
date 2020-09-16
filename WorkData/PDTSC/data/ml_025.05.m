@@ -2813,7 +2813,7 @@
 <LM>w#w-d1t2125-8</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m025-d1t2125-9">
 <w.rf>

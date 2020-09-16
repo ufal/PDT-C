@@ -1941,7 +1941,7 @@
 <LM>w#w-d1t82-11</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m124-d-id58431-punct">
 <w.rf>
@@ -4590,7 +4590,7 @@
 <LM>w#w-d1t199-9</LM>
 </w.rf>
 <form>dětech</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m124-d-m-d1e196-x2-punct-punct">
 <w.rf>
@@ -5079,7 +5079,7 @@
 <LM>w#w-d1t208-15</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS3----------</tag>
 </m>
 <m id="m124-d1t208-14">
 <w.rf>

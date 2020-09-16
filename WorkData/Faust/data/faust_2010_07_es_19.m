@@ -2638,7 +2638,7 @@
 <LM>w#w-es_19-SCzechM-p2021-s1-w31</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="es_19-SCzechM-p2021-s1-w32">
 <w.rf>

@@ -5300,7 +5300,7 @@
 <LM>w#w-d1t1097-6</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m027-d1t1097-7">
 <w.rf>

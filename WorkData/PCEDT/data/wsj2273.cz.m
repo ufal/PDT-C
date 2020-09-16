@@ -161,7 +161,7 @@
 <LM>w#w-wsj2273-001-p1s1W15</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj2273-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-wsj2273-001-p1s1W23</LM>
 </w.rf>
 <form>jejími</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP7FS3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XP7FS3-------</tag>
 </m>
 <m id="m-wsj2273-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-wsj2273-001-p1s2W21</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj2273-001-p1s2W22-Ta">
 <src.rf>tagger-a</src.rf>

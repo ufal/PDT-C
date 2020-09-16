@@ -1102,7 +1102,7 @@
 <LM>w#w-ln95046-035-p3s2w9</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln95046-035-p3s2w10">
 <src.rf>manual</src.rf>

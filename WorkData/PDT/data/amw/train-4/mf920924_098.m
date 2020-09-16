@@ -2178,7 +2178,7 @@
 <LM>w#w-mf920924-098-p10s2w13</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920924-098-p10s2w14">
 <src.rf>manual</src.rf>

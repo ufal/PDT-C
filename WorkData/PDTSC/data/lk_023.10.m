@@ -811,7 +811,7 @@
 <LM>w#w-d1t3525-4</LM>
 </w.rf>
 <form>vašemu</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS3-P2-------</tag>
 </m>
 <m id="m023-d1t3525-5">
 <w.rf>
@@ -850,7 +850,7 @@
 <LM>w#w-d1t3529-2</LM>
 </w.rf>
 <form>Mému</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS3-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS3-S1-------</tag>
 </m>
 <m id="m023-d1t3529-3">
 <w.rf>
@@ -5004,7 +5004,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>

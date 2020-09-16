@@ -1795,7 +1795,7 @@
 <LM>w#w-ln94211-99-p4s2w11</LM>
 </w.rf>
 <form>jimiž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP7----------</tag>
 </m>
 <m id="m-ln94211-99-p4s2w12">
 <src.rf>manual</src.rf>

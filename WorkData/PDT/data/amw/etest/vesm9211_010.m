@@ -1065,7 +1065,7 @@
 <LM>w#w-vesm9211-010-p4s1w8</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-vesm9211-010-p4s1w9">
 <src.rf>manual</src.rf>
@@ -2579,7 +2579,7 @@
 <LM>w#w-vesm9211-010-p5s3w13</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9211-010-p5s3w14">
 <src.rf>manual</src.rf>
@@ -2862,7 +2862,7 @@
 <LM>w#w-vesm9211-010-p6s1w21</LM>
 </w.rf>
 <form>mými</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP7-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSXP7-S1-------</tag>
 </m>
 <m id="m-vesm9211-010-p6s1w22">
 <src.rf>manual</src.rf>
@@ -3689,7 +3689,7 @@
 <LM>w#w-vesm9211-010-p7s3w12</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9211-010-p7s3w13">
 <src.rf>manual</src.rf>
@@ -3745,7 +3745,7 @@
 <LM>w#w-vesm9211-010-p7s3w19</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9211-010-p7s3w20">
 <src.rf>manual</src.rf>
@@ -4797,7 +4797,7 @@
 <LM>w#w-vesm9211-010-p8s3w31</LM>
 </w.rf>
 <form>jejími</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP7FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP7FS3-------</tag>
 </m>
 <m id="m-vesm9211-010-p8s3w32">
 <src.rf>manual</src.rf>
@@ -5358,7 +5358,7 @@
 <LM>w#w-vesm9211-010-p8s6w15</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9211-010-p8s6w16">
 <src.rf>manual</src.rf>
@@ -5647,7 +5647,7 @@
 <LM>w#w-vesm9211-010-p9s2w24</LM>
 </w.rf>
 <form>jimiž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP7----------</tag>
 </m>
 <m id="m-vesm9211-010-p9s2w25">
 <src.rf>manual</src.rf>

@@ -742,7 +742,7 @@
 <form>svými</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="manual" selected="1">P8XP7----------</AM>
+<AM lemma="svůj-1" src="manual" selected="1">P8XP7----------</AM>
 </tag>
 </m>
 <m id="m127-d1t46-7">
@@ -942,7 +942,7 @@
 <LM>w#w-d1t48-18</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS7-P1-------</tag>
 </m>
 <m id="m127-d1t48-19">
 <w.rf>

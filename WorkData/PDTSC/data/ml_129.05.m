@@ -1921,7 +1921,7 @@
 <LM>w#w-d1t1253-1</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSXP7-P1-------</tag>
 </m>
 <m id="m129-24-27">
 <w.rf>
@@ -3077,7 +3077,7 @@
 <LM>w#w-d1t1305-17</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m129-101-102">
 <w.rf>

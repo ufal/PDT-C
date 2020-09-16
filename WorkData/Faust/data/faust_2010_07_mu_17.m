@@ -3025,7 +3025,7 @@
 <LM>w#w-mu_17-SCzechM-p1778-s1-w49</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" recommended="1">P8XP7----------</tag>
+<tag lemma="svůj-1" recommended="1">P8XP7----------</tag>
 </m>
 <m id="mu_17-SCzechM-p1778-s1-w50">
 <w.rf>
@@ -3743,7 +3743,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS4--3-------</AM>
 </tag>

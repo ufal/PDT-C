@@ -1208,7 +1208,7 @@
 <LM>w#w-mf920924-044-p2s5w17</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920924-044-p2s5w18">
 <src.rf>manual</src.rf>

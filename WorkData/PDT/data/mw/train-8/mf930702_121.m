@@ -546,7 +546,7 @@
 <LM>w#w-mf930702-121-p2s2w16</LM>
 </w.rf>
 <form>jímž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS7----------</tag>
 </m>
 <m id="m-mf930702-121-p2s2w17">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-mf930702-121-p2s2w26</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-mf930702-121-p2s2w27">
 <src.rf>manual</src.rf>

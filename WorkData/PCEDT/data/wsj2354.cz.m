@@ -1211,7 +1211,7 @@
 <LM>w#w-wsj2354-001-p1s3W21</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj2354-001-p1s3W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5643,7 +5643,7 @@
 <LM>w#w-wsj2354-001-p1s15W13</LM>
 </w.rf>
 <form>našemu</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS3-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS3-P1-------</tag>
 </m>
 <m id="m-wsj2354-001-p1s15W14-Ta">
 <src.rf>tagger-a</src.rf>

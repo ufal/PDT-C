@@ -2502,7 +2502,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9301-008-p5s6w16">
 <src.rf>manual</src.rf>

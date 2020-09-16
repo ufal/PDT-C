@@ -2154,7 +2154,7 @@
 <LM>w#w-d1t260-8</LM>
 </w.rf>
 <form>vaším</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS7-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS7-P2-------</tag>
 </m>
 <m id="m981-d1t260-9">
 <w.rf>

@@ -2622,7 +2622,7 @@
 <LM>w#w-cmpr9415-031-p8s3w20</LM>
 </w.rf>
 <form>jímž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS7----------</tag>
 </m>
 <m id="m-cmpr9415-031-p8s3w21">
 <src.rf>manual</src.rf>

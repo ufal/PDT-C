@@ -2270,7 +2270,7 @@
 <LM>w#w-d1t780-13</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m037-d1t780-12">
 <w.rf>
@@ -3778,7 +3778,7 @@
 <LM>w#w-d1t881-8</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m037-d1t881-9">
 <w.rf>

@@ -3225,7 +3225,7 @@
 </w.rf>
 <form>železnic</form>
 <tag>
-<AM lemma="železnice_^(*3ík-1)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="železnice" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="železnice-1_,s_^(výrobce_železa)_(*5ík-1)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -3649,7 +3649,7 @@
 <LM>w#w-wsj1502-001-p1s9W18</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS6----------</tag>
 </m>
 <m id="m-wsj1502-001-p1s9W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11202,7 +11202,7 @@
 <LM>w#w-wsj1502-001-p1s33W31</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj1502-001-p1s33W32-Ta">
 <src.rf>tagger-a</src.rf>

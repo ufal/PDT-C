@@ -4530,14 +4530,14 @@
 <LM>w#w-d1t1726-8</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSXP7-P1-------</tag>
 </m>
 <m id="m062-d1t1726-9">
 <w.rf>
 <LM>w#w-d1t1726-9</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m062-100-102">
 <w.rf>

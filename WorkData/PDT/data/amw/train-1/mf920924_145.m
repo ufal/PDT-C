@@ -556,7 +556,7 @@
 <LM>w#w-mf920924-145-p3s2w7</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-mf920924-145-p3s2w8">
 <src.rf>manual</src.rf>

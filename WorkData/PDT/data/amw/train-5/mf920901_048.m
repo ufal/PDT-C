@@ -1351,7 +1351,7 @@
 <AM lemma="Britský_:B_;m" src="auto">AAXXX----1A---9</AM>
 <AM lemma="Británie_:B_;m" src="auto">NNFXX-----A---9</AM>
 <AM lemma="britský_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Británie_;G" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="Británie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920901-048-p4s3w18">

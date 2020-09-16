@@ -2070,7 +2070,7 @@
 <LM>w#w-jh_19-SCzechM-p2018-s1-w30</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="jh_19-SCzechM-p2018-s1-w31">
 <w.rf>
@@ -2414,7 +2414,7 @@
 <LM>w#w-jh_19-SCzechM-p2020-s1-w6</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="jh_19-SCzechM-p2020-s1-w7">
 <w.rf>
@@ -2836,7 +2836,7 @@
 <LM>w#w-jh_19-SCzechM-p2021-s1-w30</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="jh_19-SCzechM-p2021-s1-w31">
 <w.rf>

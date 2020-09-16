@@ -260,7 +260,7 @@
 <LM>w#w-wsj1260-001-p1s0W21</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m-wsj1260-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1694,7 +1694,7 @@
 <LM>w#w-wsj1260-001-p1s3W18</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS6----------</tag>
 </m>
 <m id="m-wsj1260-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>

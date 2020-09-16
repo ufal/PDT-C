@@ -194,7 +194,7 @@
 <LM>w#w-ln95046-071-p2s1Bw15</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln95046-071-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -254,7 +254,7 @@
 <tag>
 <AM lemma="expertíza" src="orig">NNFP7-----A----</AM>
 <AM lemma="expertiza" src="auto" recommended="1">NNFP7-----A----</AM>
-<AM lemma="expertiza_,s_^(^DD**expertýza)" src="manual" selected="1">NNFP7-----A----</AM>
+<AM lemma="expertiza" src="manual" selected="1">NNFP7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-071-p2s1Bw23">

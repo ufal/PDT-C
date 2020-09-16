@@ -1253,7 +1253,7 @@
 <LM>w#w-d1t99-5</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m032-d-m-d1e81-x2-punct-punct">
 <w.rf>

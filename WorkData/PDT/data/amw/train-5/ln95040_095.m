@@ -133,7 +133,7 @@
 <LM>w#w-ln95040-095-p2s1w12</LM>
 </w.rf>
 <form>t</form>
-<tag lemma="tento_^(př._t._r.,_t._č.)" src="orig" selected="1">PDXXX---------b</tag>
+<tag lemma="tento" src="orig" selected="1">PDXXX---------b</tag>
 </m>
 <m id="m-ln95040-095-p2s1w13">
 <src.rf>manual</src.rf>
@@ -1178,7 +1178,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dítěte</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95040-095-p2s6w19">
 <src.rf>manual</src.rf>
@@ -3326,7 +3326,7 @@
 <LM>w#w-ln95040-095-p3s3w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95040-095-p3s3w2">
 <src.rf>manual</src.rf>
@@ -4012,7 +4012,7 @@
 <LM>w#w-ln95040-095-p3s6w23</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln95040-095-p3s6w24">
 <src.rf>manual</src.rf>

@@ -731,7 +731,7 @@
 <LM>w#w-lnd92255-116-p4s2w9</LM>
 </w.rf>
 <form>němuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS3---------1</tag>
 </m>
 <m id="m-lnd92255-116-p4s2w10">
 <src.rf>manual</src.rf>
@@ -977,7 +977,7 @@
 <LM>w#w-lnd92255-116-p4s4w5</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS3----------</tag>
 </m>
 <m id="m-lnd92255-116-p4s4w6">
 <src.rf>manual</src.rf>

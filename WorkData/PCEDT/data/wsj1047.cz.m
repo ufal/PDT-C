@@ -7206,7 +7206,7 @@
 <LM>w#w-wsj1047-001-p1s23W13</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m-wsj1047-001-p1s23W14-Ta">
 <src.rf>tagger-a</src.rf>

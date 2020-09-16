@@ -1805,7 +1805,7 @@
 <LM>w#w-lnd91301-034-p7s1w1</LM>
 </w.rf>
 <form>Našimi</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-lnd91301-034-p7s1w2">
 <src.rf>manual</src.rf>
@@ -2949,7 +2949,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Naším</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-lnd91301-034-p7s10w2">
 <src.rf>manual</src.rf>

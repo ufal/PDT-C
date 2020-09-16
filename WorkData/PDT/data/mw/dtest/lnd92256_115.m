@@ -251,7 +251,7 @@
 <LM>w#w-lnd92256-115-p3s3w7</LM>
 </w.rf>
 <form>železnic</form>
-<tag lemma="železnice_^(*3ík-1)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="železnice" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92256-115-p3s3w8">
 <src.rf>manual</src.rf>

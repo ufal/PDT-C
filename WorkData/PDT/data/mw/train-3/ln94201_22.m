@@ -193,7 +193,7 @@
 <LM>w#w-ln94201-22-p2s1w17</LM>
 </w.rf>
 <form>Strana</form>
-<tag lemma="Strana_;G_^(př._Malá_Strana)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-22-p2s1w18">
 <src.rf>manual</src.rf>

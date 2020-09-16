@@ -2355,7 +2355,7 @@
 <LM>w#w-d1t4156-5</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8XP7----------</tag>
 </m>
 <m id="m049-d1t4156-6">
 <w.rf>

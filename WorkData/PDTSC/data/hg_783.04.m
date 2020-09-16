@@ -2229,7 +2229,7 @@
 <LM>w#w-d1t1643-4</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" src="auto" recommended="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="auto" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="m783-d-id109551">
 <w.rf>
@@ -2533,7 +2533,7 @@
 <LM>w#w-d1t1666-16</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m783-d1e1663-x2-655">
 <w.rf>
@@ -3538,7 +3538,7 @@
 <form>vašemu</form>
 <tag>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</AM>
-<AM lemma="váš_^(přivlast.)" src="manual" selected="1">PSZS3-P2-------</AM>
+<AM lemma="váš" src="manual" selected="1">PSZS3-P2-------</AM>
 </tag>
 </m>
 <m id="m783-d1t1737-6">
@@ -3589,7 +3589,7 @@
 <form>vašemu</form>
 <tag>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</AM>
-<AM lemma="váš_^(přivlast.)" src="manual" selected="1">PSZS3-P2-------</AM>
+<AM lemma="váš" src="manual" selected="1">PSZS3-P2-------</AM>
 </tag>
 </m>
 <m id="m783-d1t1739-3">
@@ -4536,7 +4536,7 @@
 <LM>w#w-d1t1790-8</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="m783-d1t1790-9">
 <w.rf>

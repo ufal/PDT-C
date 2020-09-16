@@ -3992,7 +3992,7 @@
 <LM>w#w-vesm9212-009-p7s3Aw19</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-vesm9212-009-p7s3Aw20">
 <src.rf>manual</src.rf>
@@ -5119,7 +5119,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>niž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS4---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS4---------1</tag>
 </m>
 <m id="m-vesm9212-009-p12s1w7">
 <src.rf>manual</src.rf>

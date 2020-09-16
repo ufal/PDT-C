@@ -9964,7 +9964,7 @@
 <LM>w#w-vesm9303-054-p12s4w45</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9303-054-p12s4w46">
 <src.rf>manual</src.rf>
@@ -11395,7 +11395,7 @@
 <LM>w#w-vesm9303-054-p14s1w21</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9303-054-p14s1w22">
 <src.rf>manual</src.rf>
@@ -14047,7 +14047,7 @@
 <LM>w#w-vesm9303-054-p16s3w19</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9303-054-p16s3w20">
 <src.rf>manual</src.rf>
@@ -18946,7 +18946,7 @@
 <LM>w#w-vesm9303-054-p19s2w27</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-vesm9303-054-p19s2w28">
 <src.rf>manual</src.rf>

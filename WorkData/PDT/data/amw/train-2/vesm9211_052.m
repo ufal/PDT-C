@@ -2527,7 +2527,7 @@
 <LM>w#w-vesm9211-052-p5s2w6</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-vesm9211-052-p5s2w7">
 <src.rf>manual</src.rf>
@@ -3162,7 +3162,7 @@
 <LM>w#w-vesm9211-052-p6s2w47</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9211-052-p6s2w48">
 <src.rf>manual</src.rf>

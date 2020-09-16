@@ -583,7 +583,7 @@
 <LM>w#w-lnd92256-015-p3s4w13</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd92256-015-p3s4w14">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-lnd92256-015-p3s5w13</LM>
 </w.rf>
 <form>Karlovou</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-lnd92256-015-p3s5w14">
 <src.rf>manual</src.rf>

@@ -1949,7 +1949,7 @@
 <LM>w#w-ln95049-039-p2s12w20</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-ln95049-039-p2s12w21">
 <src.rf>manual</src.rf>

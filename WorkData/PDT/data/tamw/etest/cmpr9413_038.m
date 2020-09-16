@@ -621,7 +621,7 @@
 <LM>w#w-cmpr9413-038-p4s1w19</LM>
 </w.rf>
 <form>vašimi</form>
-<tag lemma="váš_^(přivlast.)" src="orig" selected="1">PSXP7-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSXP7-P2-------</tag>
 </m>
 <m id="m-cmpr9413-038-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1900,7 +1900,7 @@
 <LM>w#w-cmpr9413-038-p6s4w8</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-cmpr9413-038-p6s4w9">
 <src.rf>manual</src.rf>

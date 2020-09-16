@@ -2858,7 +2858,7 @@
 <LM>w#w-vesm9211-016-p18s1w26</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9211-016-p18s1w27">
 <src.rf>manual</src.rf>

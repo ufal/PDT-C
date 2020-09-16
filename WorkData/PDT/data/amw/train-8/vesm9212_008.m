@@ -827,7 +827,7 @@
 <LM>w#w-vesm9212-008-p3s3w27</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9212-008-p3s3w28">
 <src.rf>manual</src.rf>
@@ -3288,7 +3288,7 @@
 <LM>w#w-vesm9212-008-p4s2w17</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9212-008-p4s2w18">
 <src.rf>manual</src.rf>

@@ -311,7 +311,7 @@
 <LM>w#w-wsj1052-001-p1s0W27</LM>
 </w.rf>
 <form>němuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS3---------1</tag>
 </m>
 <m id="m-wsj1052-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>

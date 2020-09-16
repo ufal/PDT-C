@@ -4225,7 +4225,7 @@
 <LM>w#w-wsj0749-001-p1s13W5</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" src="auto" recommended="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="auto" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="m-wsj0749-001-p1s13W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4901,7 +4901,7 @@
 <LM>w#w-wsj0749-001-p1s14W32</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="m-wsj0749-001-p1s14W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5146,7 +5146,7 @@
 <LM>w#w-wsj0749-001-p1s16W4</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj0749-001-p1s16W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6151,7 +6151,7 @@
 <LM>w#w-wsj0749-001-p1s22W19</LM>
 </w.rf>
 <form>vašemu</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS3-P2-------</tag>
 </m>
 <m id="m-wsj0749-001-p1s22W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9139,7 +9139,7 @@
 <LM>w#w-wsj0749-001-p1s42W2</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-wsj0749-001-p1s42W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9476,7 +9476,7 @@
 <LM>w#w-wsj0749-001-p1s44W9</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="m-wsj0749-001-p1s44W10-Ta">
 <src.rf>tagger-a</src.rf>

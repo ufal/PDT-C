@@ -4447,7 +4447,7 @@
 <LM>w#w-cmpr9410-028-p16s2w2</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9410-028-p16s2w3">
 <src.rf>manual</src.rf>
@@ -5171,7 +5171,7 @@
 <LM>w#w-cmpr9410-028-p19s1w5</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9410-028-p19s1w6">
 <src.rf>manual</src.rf>
@@ -5723,7 +5723,7 @@
 <LM>w#w-cmpr9410-028-p22s1w19</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9410-028-p22s1w20">
 <src.rf>manual</src.rf>
@@ -8070,7 +8070,7 @@
 <LM>w#w-cmpr9410-028-p28s2w1</LM>
 </w.rf>
 <form>Jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9410-028-p28s2w2">
 <src.rf>manual</src.rf>
@@ -8861,7 +8861,7 @@
 <LM>w#w-cmpr9410-028-p30s1w17</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9410-028-p30s1w18">
 <src.rf>manual</src.rf>
@@ -12712,7 +12712,7 @@
 <LM>w#w-cmpr9410-028-p39s1w13</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9410-028-p39s1w14">
 <src.rf>manual</src.rf>
@@ -14726,7 +14726,7 @@
 <LM>w#w-cmpr9410-028-p45s1w8</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9410-028-p45s1w9">
 <src.rf>manual</src.rf>

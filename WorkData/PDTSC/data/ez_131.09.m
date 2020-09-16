@@ -2954,7 +2954,7 @@
 <LM>w#w-d1t1858-6</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m131-d1t1858-7">
 <w.rf>

@@ -7465,7 +7465,7 @@
 <LM>w#w-cmpr9406-053-p28s3w8</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" src="orig" selected="1">PSZS6-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSZS6-P2-------</tag>
 </m>
 <m id="m-cmpr9406-053-p28s3w9">
 <src.rf>manual</src.rf>

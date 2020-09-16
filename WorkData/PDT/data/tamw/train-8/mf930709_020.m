@@ -670,7 +670,7 @@
 <LM>w#w-mf930709-020-p2s4Bw5</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS3----------</tag>
 </m>
 <m id="m-mf930709-020-p2s4Bw6">
 <src.rf>manual</src.rf>
@@ -954,7 +954,7 @@
 <LM>w#w-mf930709-020-p2s6w18</LM>
 </w.rf>
 <form>nimiž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP7---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP7---------1</tag>
 </m>
 <m id="m-mf930709-020-p2s6w19">
 <src.rf>manual</src.rf>

@@ -3911,7 +3911,7 @@
 <LM>w#w-d1t1373-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
+<tag lemma="co-1" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m032-d-id99591-punct">
 <w.rf>

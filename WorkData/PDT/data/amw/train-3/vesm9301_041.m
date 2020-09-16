@@ -5499,7 +5499,7 @@
 <LM>w#w-vesm9301-041-p17s1w49</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-vesm9301-041-p17s1w50">
 <src.rf>manual</src.rf>

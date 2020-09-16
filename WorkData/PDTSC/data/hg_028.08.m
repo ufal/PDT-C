@@ -1465,7 +1465,7 @@
 <LM>w#w12-342</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="a_tree-cs-s10-n199">
 <w.rf>

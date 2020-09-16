@@ -186,7 +186,7 @@
 <LM>w#w-cmpr9417-010-p4s1w13</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9417-010-p4s1w14">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-cmpr9417-010-p10s1w12</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9417-010-p10s1w13">
 <src.rf>manual</src.rf>
@@ -5247,7 +5247,7 @@
 <LM>w#w-cmpr9417-010-p22s1w25</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-cmpr9417-010-p22s1w26">
 <src.rf>manual</src.rf>
@@ -7536,7 +7536,7 @@
 <LM>w#w-cmpr9417-010-p30s1w29</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9417-010-p30s1w30">
 <src.rf>manual</src.rf>
@@ -8487,7 +8487,7 @@
 <LM>w#w-cmpr9417-010-p37s6w8</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9417-010-p37s6w9">
 <src.rf>manual</src.rf>
@@ -8665,7 +8665,7 @@
 <LM>w#w-cmpr9417-010-p37s7w10</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9417-010-p37s7w11">
 <src.rf>manual</src.rf>
@@ -10223,7 +10223,7 @@
 <LM>w#w-cmpr9417-010-p53s1w11</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9417-010-p53s1w12">
 <src.rf>manual</src.rf>
@@ -16937,7 +16937,7 @@
 <LM>w#w-cmpr9417-010-p66s1w1</LM>
 </w.rf>
 <form>Našemu</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS3-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS3-P1-------</tag>
 </m>
 <m id="m-cmpr9417-010-p66s1w2">
 <src.rf>manual</src.rf>

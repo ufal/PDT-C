@@ -774,7 +774,7 @@
 <LM>w#w-d1t637-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
+<tag lemma="co-1" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m046-d-id69883-punct">
 <w.rf>
@@ -3200,7 +3200,7 @@
 <LM>w#w-d1t819-4</LM>
 </w.rf>
 <form>dětech</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m046-d-m-d1e814-x2-punct-punct">
 <w.rf>

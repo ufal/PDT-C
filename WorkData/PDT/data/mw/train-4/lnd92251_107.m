@@ -143,7 +143,7 @@
 <LM>w#w-lnd92251-107-p2s2w11</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-lnd92251-107-p2s2w12">
 <src.rf>manual</src.rf>

@@ -2726,7 +2726,7 @@
 <LM>w#w-vesm9212-029-p13s1w4</LM>
 </w.rf>
 <form>Vašimi</form>
-<tag lemma="váš_^(přivlast.)" src="orig" selected="1">PSXP7-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSXP7-P2-------</tag>
 </m>
 <m id="m-vesm9212-029-p13s1w5">
 <src.rf>manual</src.rf>

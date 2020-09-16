@@ -1991,7 +1991,7 @@
 <LM>w#w-d1t553-2</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="m025-d1t553-3">
 <w.rf>

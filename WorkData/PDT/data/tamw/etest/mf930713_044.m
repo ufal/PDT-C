@@ -3358,7 +3358,7 @@
 <LM>w#w-mf930713-044-p9s3w12</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930713-044-p9s3w13">
 <src.rf>manual</src.rf>
@@ -4133,7 +4133,7 @@
 <LM>w#w-mf930713-044-p9s7w19</LM>
 </w.rf>
 <form>nímž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS7---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS7---------1</tag>
 </m>
 <m id="m-mf930713-044-p9s7w20">
 <src.rf>manual</src.rf>
@@ -7117,7 +7117,7 @@
 <LM>w#w-mf930713-044-p19s2w2</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-mf930713-044-p19s2w3">
 <src.rf>manual</src.rf>
@@ -10142,7 +10142,7 @@
 <LM>w#w-mf930713-044-p26s1w12</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" src="orig" selected="1">PSZS6-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSZS6-P2-------</tag>
 </m>
 <m id="m-mf930713-044-p26s1w13">
 <src.rf>manual</src.rf>
@@ -10683,7 +10683,7 @@
 <LM>w#w-mf930713-044-p27s4w2</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930713-044-p27s4w3">
 <src.rf>manual</src.rf>
@@ -12641,7 +12641,7 @@
 <LM>w#w-mf930713-044-p32s2w6</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930713-044-p32s2w7">
 <src.rf>manual</src.rf>
@@ -12673,7 +12673,7 @@
 <LM>w#w-mf930713-044-p32s2w10</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-mf930713-044-p32s2w11">
 <src.rf>manual</src.rf>

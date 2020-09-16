@@ -4873,7 +4873,7 @@
 <LM>w#w-d1t1803-2</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="co" src="auto" recommended="1" selected="1">PQ--4--------z-</tag>
+<tag lemma="co-1" src="auto" recommended="1" selected="1">PQ--4--------z-</tag>
 </m>
 <m id="m149-d-m-d1e1800-x2-punct-punct">
 <w.rf>

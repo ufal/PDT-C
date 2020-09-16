@@ -4763,7 +4763,7 @@
 <LM>w#w-d1t3044-4</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS3----------</tag>
 </m>
 <m id="m061-d1t3044-5">
 <w.rf>
@@ -5168,7 +5168,7 @@
 <LM>w#w36-240</LM>
 </w.rf>
 <form>Královém</form>
-<tag lemma="Králové_;G_^(Dvůr_Králové)" src="auto" recommended="1">NNIS6-----A----</tag>
+<tag lemma="Králové_;G_^(Dvůr_Králové)" src="auto" recommended="1">NNFS6-----A---6</tag>
 </m>
 <m id="a_tree-cs-s9-n141">
 <w.rf>

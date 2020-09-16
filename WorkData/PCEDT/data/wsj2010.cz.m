@@ -88,7 +88,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -1956,7 +1956,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -3354,7 +3354,7 @@
 <AM lemma="Abo-2_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Abo-2_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Abe_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Abe_;Y" src="manual" selected="1">NNMS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2010-001-p1s9W31-Ta">

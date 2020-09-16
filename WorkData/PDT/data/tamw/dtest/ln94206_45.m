@@ -841,7 +841,7 @@
 <LM>w#w-ln94206-45-p4s2w3</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP7----------</tag>
 </m>
 <m id="m-ln94206-45-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 <LM>w#w-ln94206-45-p5s2w6</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94206-45-p5s2w7">
 <src.rf>manual</src.rf>
@@ -1707,7 +1707,7 @@
 <form>t</form>
 <tag>
 <AM lemma="tento_:B_^(př._t._r.,_t._č.)" src="orig">PDXXX---------8</AM>
-<AM lemma="tento" src="manual" selected="1">PDXXX---------8</AM>
+<AM lemma="tento" src="manual" selected="1">PDXXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln94206-45-p6s2w28">

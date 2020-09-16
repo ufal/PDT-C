@@ -1182,7 +1182,7 @@
 <LM>w#w-ln95049-091-p3s4w8</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95049-091-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1683,7 +1683,7 @@
 <LM>w#w-ln95049-091-p4s3w6</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95049-091-p4s3w7">
 <src.rf>manual</src.rf>
@@ -2064,7 +2064,7 @@
 <tag>
 <AM lemma="expertíza" src="orig">NNFP2-----A----</AM>
 <AM lemma="expertiza" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="expertiza_,s_^(^DD**expertýza)" src="manual" selected="1">NNFP2-----A----</AM>
+<AM lemma="expertiza" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-091-p5s1w14">
@@ -2297,7 +2297,7 @@
 <LM>w#w-ln95049-091-p5s2w2</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-ln95049-091-p5s2w3">
 <src.rf>manual</src.rf>

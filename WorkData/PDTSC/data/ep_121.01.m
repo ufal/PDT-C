@@ -2075,7 +2075,7 @@
 <LM>w#w-d1t339-14</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" src="auto" recommended="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="auto" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="m121-d1t339-22">
 <w.rf>
@@ -3275,7 +3275,7 @@
 <LM>w#w-d1t370-16</LM>
 </w.rf>
 <form>dítětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNNS7-----A----</tag>
+<tag lemma="dítě-1" src="auto" recommended="1">NNNS7-----A----</tag>
 </m>
 <m id="m121-d1t370-12">
 <w.rf>

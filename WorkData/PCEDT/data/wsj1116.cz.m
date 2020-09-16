@@ -2023,7 +2023,7 @@
 <LM>w#w-wsj1116-001-p1s6W7</LM>
 </w.rf>
 <form>dětech</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m-wsj1116-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>

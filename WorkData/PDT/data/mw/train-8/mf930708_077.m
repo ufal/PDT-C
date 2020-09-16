@@ -1127,7 +1127,7 @@
 <LM>w#w-mf930708-077-p2s8w1</LM>
 </w.rf>
 <form>Jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf930708-077-p2s8w2">
 <src.rf>manual</src.rf>
@@ -4736,7 +4736,7 @@
 <LM>w#w-mf930708-077-p8s6w2</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930708-077-p8s6w3">
 <src.rf>manual</src.rf>
@@ -6070,7 +6070,7 @@
 <LM>w#w-mf930708-077-p11s2w1</LM>
 </w.rf>
 <form>Jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf930708-077-p11s2w2">
 <src.rf>manual</src.rf>

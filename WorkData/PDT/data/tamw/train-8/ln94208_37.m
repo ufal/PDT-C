@@ -900,7 +900,7 @@
 <LM>w#w-ln94208-37-p2s4w7</LM>
 </w.rf>
 <form>řiditel</form>
-<tag lemma="řiditel_,a_^(^DD**ředitel)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="řiditel_,h_^(^GC**ředitel)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-37-p2s4w8">
 <src.rf>manual</src.rf>

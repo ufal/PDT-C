@@ -4308,7 +4308,7 @@
 <LM>w#w-wsj0803-001-p1s12W7</LM>
 </w.rf>
 <form>jichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP2---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP2---------1</tag>
 </m>
 <m id="m-wsj0803-001-p1s12W8-Ta">
 <src.rf>tagger-a</src.rf>

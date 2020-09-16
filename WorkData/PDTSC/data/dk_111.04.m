@@ -1973,7 +1973,7 @@
 <form>Keňu</form>
 <tag>
 <AM lemma="Keňa_;G" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="keňa_^(plavidlo)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="keňa_^(loďka)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m111-d1t656-4">
@@ -2942,7 +2942,7 @@
 <form>keňu</form>
 <tag>
 <AM lemma="keňu" src="auto">X@-------------</AM>
-<AM lemma="keňa_^(plavidlo)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="keňa_^(loďka)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m111-146-154">

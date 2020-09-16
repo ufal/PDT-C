@@ -2004,7 +2004,7 @@
 <LM>w#w-d1t2886-2</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m010-d1t2886-3">
 <w.rf>
@@ -2815,7 +2815,7 @@
 <LM>w#w-d1t2985-4</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m010-d1t2985-5">
 <w.rf>

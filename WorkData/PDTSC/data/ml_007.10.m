@@ -4416,7 +4416,7 @@
 <LM>w#w-d1t3132-10</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m007-d1t3132-11">
 <w.rf>

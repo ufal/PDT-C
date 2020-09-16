@@ -8040,7 +8040,7 @@
 <LM>w#w-wsj1372-001-p1s23W2</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m-wsj1372-001-p1s23W3-Ta">
 <src.rf>tagger-a</src.rf>

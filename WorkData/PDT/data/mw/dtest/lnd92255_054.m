@@ -1745,7 +1745,7 @@
 <LM>w#w-lnd92255-054-p5s2w10</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-lnd92255-054-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1881,7 +1881,7 @@
 <tag>
 <AM lemma="expertíza" src="orig">NNFS4-----A----</AM>
 <AM lemma="expertiza_,x" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="expertíza_,s_^(^DD**expertýza)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="expertíza_,s_^(^DD**expertiza)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-054-p5s3w7">
@@ -3140,7 +3140,7 @@
 <LM>w#w-lnd92255-054-p7s1w21</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92255-054-p7s1w22">
 <src.rf>manual</src.rf>

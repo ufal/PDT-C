@@ -5415,7 +5415,7 @@
 <LM>w#w-wsj0117-001-p1s17W5</LM>
 </w.rf>
 <form>jichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP2---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP2---------1</tag>
 </m>
 <m id="m-wsj0117-001-p1s17W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6592,7 +6592,7 @@
 <LM>w#w-wsj0117-001-p1s20W5</LM>
 </w.rf>
 <form>jichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP2---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP2---------1</tag>
 </m>
 <m id="m-wsj0117-001-p1s20W6-Ta">
 <src.rf>tagger-a</src.rf>

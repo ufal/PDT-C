@@ -141,7 +141,7 @@
 <LM>w#w-ln94208-7-p1s1w15</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln94208-7-p1s1w16">
 <src.rf>manual</src.rf>

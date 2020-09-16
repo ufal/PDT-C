@@ -343,7 +343,7 @@
 <LM>w#w-lnd91301-023-p1s3w5</LM>
 </w.rf>
 <form>dítětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-lnd91301-023-p1s3w6">
 <src.rf>manual</src.rf>

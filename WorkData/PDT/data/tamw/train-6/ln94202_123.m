@@ -535,7 +535,7 @@
 <LM>w#w-ln94202-123-p2s3w9</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln94202-123-p2s3w10">
 <src.rf>manual</src.rf>
@@ -1691,7 +1691,7 @@
 <LM>w#w-ln94202-123-p3s3w11</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-ln94202-123-p3s3w12">
 <src.rf>manual</src.rf>
@@ -7294,7 +7294,7 @@
 <LM>w#w-ln94202-123-p11s13w14</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94202-123-p11s13w15">
 <src.rf>manual</src.rf>
@@ -9820,7 +9820,7 @@
 </w.rf>
 <form>Kr</form>
 <tag>
-<AM lemma="Králové_;G" src="orig" selected="1">NNFS2-----A---b</AM>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="orig" selected="1">NNFS2-----A---b</AM>
 <AM lemma="Kr-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -12683,7 +12683,7 @@
 <LM>w#w-ln94202-123-p23s8w10</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln94202-123-p23s8w11">
 <src.rf>manual</src.rf>

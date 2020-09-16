@@ -2006,7 +2006,7 @@
 <LM>w#w-wsj2011-001-p1s9W5</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m-wsj2011-001-p1s9W6-Ta">
 <src.rf>tagger-a</src.rf>

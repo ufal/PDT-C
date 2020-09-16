@@ -4440,7 +4440,7 @@
 <LM>w#w-ln95044-030-p3s21w2</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS6-S1-------</tag>
 </m>
 <m id="m-ln95044-030-p3s21w3">
 <src.rf>manual</src.rf>

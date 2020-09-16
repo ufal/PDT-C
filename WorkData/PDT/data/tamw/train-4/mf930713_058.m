@@ -962,7 +962,7 @@
 <tag>
 <AM lemma="budhizmus" src="orig">NNIS7-----A----</AM>
 <AM lemma="buddhizmus_,x" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="budhismus_,s_^(^DD**budhizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="budhismus_,s_^(^DD**buddhizmus)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-058-p4s5w19">
@@ -1821,7 +1821,7 @@
 <LM>w#w-mf930713-058-p6s4w5</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930713-058-p6s4w6">
 <src.rf>manual</src.rf>

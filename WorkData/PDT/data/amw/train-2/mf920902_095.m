@@ -1374,7 +1374,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>niž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS4---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS4---------1</tag>
 </m>
 <m id="m-mf920902-095-p3s4w8">
 <src.rf>manual</src.rf>

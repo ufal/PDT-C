@@ -2687,7 +2687,7 @@
 <LM>w#w-wsj1839-001-p1s9W9</LM>
 </w.rf>
 <form>mému</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS3-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS3-S1-------</tag>
 </m>
 <m id="m-wsj1839-001-p1s9W10-Ta">
 <src.rf>tagger-a</src.rf>

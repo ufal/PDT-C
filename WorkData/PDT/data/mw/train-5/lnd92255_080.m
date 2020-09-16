@@ -335,7 +335,7 @@
 <LM>w#w-lnd92255-080-p3s1w15</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92255-080-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-lnd92255-080-p5s2w1</LM>
 </w.rf>
 <form>Jejími</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP7FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP7FS3-------</tag>
 </m>
 <m id="m-lnd92255-080-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2114,7 +2114,7 @@
 <LM>w#w-lnd92255-080-p6s3w1</LM>
 </w.rf>
 <form>Jejími</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP7FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP7FS3-------</tag>
 </m>
 <m id="m-lnd92255-080-p6s3w2">
 <src.rf>manual</src.rf>
@@ -3536,7 +3536,7 @@
 <LM>w#w-lnd92255-080-p9s4w6</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92255-080-p9s4w7">
 <src.rf>manual</src.rf>
@@ -3612,7 +3612,7 @@
 <LM>w#w-lnd92255-080-p9s6w2</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd92255-080-p9s6w3">
 <src.rf>manual</src.rf>
@@ -4975,7 +4975,7 @@
 <LM>w#w-lnd92255-080-p10s11w15</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92255-080-p10s11w16">
 <src.rf>manual</src.rf>
@@ -6439,7 +6439,7 @@
 <LM>w#w-lnd92255-080-p12s9w1</LM>
 </w.rf>
 <form>Jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd92255-080-p12s9w2">
 <src.rf>manual</src.rf>
@@ -6591,7 +6591,7 @@
 <LM>w#w-lnd92255-080-p12s9w20</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd92255-080-p12s9w21">
 <src.rf>manual</src.rf>
@@ -9782,7 +9782,7 @@
 <LM>w#w-lnd92255-080-p17s4w23</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92255-080-p17s4w24">
 <src.rf>manual</src.rf>
@@ -12292,7 +12292,7 @@
 <LM>w#w-lnd92255-080-p20s1w15</LM>
 </w.rf>
 <form>niž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS4---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS4---------1</tag>
 </m>
 <m id="m-lnd92255-080-p20s1w16">
 <src.rf>manual</src.rf>
@@ -13267,7 +13267,7 @@
 <LM>w#w-lnd92255-080-p23s3w16</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd92255-080-p23s3w17">
 <src.rf>manual</src.rf>
@@ -13553,7 +13553,7 @@
 <LM>w#w-lnd92255-080-p24s3w2</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92255-080-p24s3w3">
 <src.rf>manual</src.rf>
@@ -17511,7 +17511,7 @@
 <LM>w#w-lnd92255-080-p29s2w13</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92255-080-p29s2w14">
 <src.rf>manual</src.rf>
@@ -18207,7 +18207,7 @@
 <LM>w#w-lnd92255-080-p30s1w48</LM>
 </w.rf>
 <form>jejími</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP7FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP7FS3-------</tag>
 </m>
 <m id="m-lnd92255-080-p30s1w49">
 <src.rf>manual</src.rf>
@@ -18978,7 +18978,7 @@
 <LM>w#w-lnd92255-080-p31s3w16</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd92255-080-p31s3w17">
 <src.rf>manual</src.rf>
@@ -19632,7 +19632,7 @@
 <LM>w#w-lnd92255-080-p32s2w2</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-lnd92255-080-p32s2w3">
 <src.rf>manual</src.rf>
@@ -20953,7 +20953,7 @@
 <LM>w#w-lnd92255-080-p33s3w2</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92255-080-p33s3w3">
 <src.rf>manual</src.rf>
@@ -21292,7 +21292,7 @@
 <LM>w#w-lnd92255-080-p34s2w7</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd92255-080-p34s2w8">
 <src.rf>manual</src.rf>
@@ -22837,7 +22837,7 @@
 <LM>w#w-lnd92255-080-p39s2w2</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-lnd92255-080-p39s2w3">
 <src.rf>manual</src.rf>
@@ -22917,7 +22917,7 @@
 <LM>w#w-lnd92255-080-p39s2w12</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-lnd92255-080-p39s2w13">
 <src.rf>manual</src.rf>
@@ -24115,7 +24115,7 @@
 <LM>w#w-lnd92255-080-p40s3w18</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92255-080-p40s3w19">
 <src.rf>manual</src.rf>

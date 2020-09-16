@@ -2139,7 +2139,7 @@
 <LM>w#w-jh_02-SCzechM-p0113-s1-w2</LM>
 </w.rf>
 <form>mými</form>
-<tag lemma="můj_^(přivlast.)" recommended="1">PSXP7-S1-------</tag>
+<tag lemma="můj" recommended="1">PSXP7-S1-------</tag>
 </m>
 <m id="jh_02-SCzechM-p0113-s1-w3">
 <w.rf>

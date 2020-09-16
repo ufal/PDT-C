@@ -922,7 +922,7 @@
 <LM>w#w-vesm9301-011-p1s7w8</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-vesm9301-011-p1s7w9">
 <src.rf>manual</src.rf>

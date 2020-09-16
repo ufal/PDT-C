@@ -346,7 +346,7 @@
 <LM>w#w-lnd92251-092-p3s1w25</LM>
 </w.rf>
 <form>t</form>
-<tag lemma="tento_^(př._t._r.,_t._č.)" src="orig" selected="1">PDXXX---------b</tag>
+<tag lemma="tento" src="orig" selected="1">PDXXX---------b</tag>
 </m>
 <m id="m-lnd92251-092-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1753,7 +1753,7 @@
 <LM>w#w-lnd92251-092-p5s4w9</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS3----------</tag>
 </m>
 <m id="m-lnd92251-092-p5s4w10">
 <src.rf>manual</src.rf>

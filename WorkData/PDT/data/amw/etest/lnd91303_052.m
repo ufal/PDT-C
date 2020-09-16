@@ -3945,7 +3945,7 @@
 <LM>w#w-lnd91303-052-p8s5w14</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd91303-052-p8s5w15">
 <src.rf>manual</src.rf>
@@ -12327,7 +12327,7 @@
 <LM>w#w-lnd91303-052-p18s8w15</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd91303-052-p18s8w16">
 <src.rf>manual</src.rf>
@@ -13120,7 +13120,7 @@
 <LM>w#w-lnd91303-052-p18s12w20</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd91303-052-p18s12w21">
 <src.rf>manual</src.rf>
@@ -13944,7 +13944,7 @@
 <LM>w#w-lnd91303-052-p20s3w21</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd91303-052-p20s3w22">
 <src.rf>manual</src.rf>
@@ -18902,7 +18902,7 @@
 <LM>w#w-lnd91303-052-p25s5w3</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd91303-052-p25s5w4">
 <src.rf>manual</src.rf>
@@ -18974,7 +18974,7 @@
 <LM>w#w-lnd91303-052-p25s5w12</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd91303-052-p25s5w13">
 <src.rf>manual</src.rf>
@@ -19937,7 +19937,7 @@
 <LM>w#w-lnd91303-052-p26s6w12</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd91303-052-p26s6w13">
 <src.rf>manual</src.rf>

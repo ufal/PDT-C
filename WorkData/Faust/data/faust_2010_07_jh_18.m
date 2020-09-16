@@ -2882,7 +2882,7 @@
 <LM>w#w-jh_18-SCzechM-p1887-s1-w15</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="jh_18-SCzechM-p1887-s1-w16">
 <w.rf>
@@ -7610,7 +7610,7 @@
 <LM>w#w-jh_18-SCzechM-p1968-s1-w2</LM>
 </w.rf>
 <form>vašem</form>
-<tag lemma="váš_^(přivlast.)" recommended="1">PSZS6-P2-------</tag>
+<tag lemma="váš" recommended="1">PSZS6-P2-------</tag>
 </m>
 <m id="jh_18-SCzechM-p1968-s1-w3">
 <w.rf>

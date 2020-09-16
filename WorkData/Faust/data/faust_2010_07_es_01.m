@@ -5541,7 +5541,7 @@
 <LM>w#w-es_01-SCzechM-p0094-s1-w20</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="es_01-SCzechM-p0094-s1-w21">
 <w.rf>

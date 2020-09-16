@@ -971,7 +971,7 @@
 <LM>w#w-mf930701-007-p4s3w13</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930701-007-p4s3w14">
 <src.rf>manual</src.rf>

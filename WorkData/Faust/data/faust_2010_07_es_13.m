@@ -3728,7 +3728,7 @@
 <LM>w#w-es_13-SCzechM-p1372-s1-w13</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" recommended="1">NNFP2-----A----</tag>
 </m>
 </s>
 <s id="s-es_13-SCzechM-p1373-s1-w1">

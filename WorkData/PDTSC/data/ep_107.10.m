@@ -2718,7 +2718,7 @@
 <LM>w#w-d1t1912-1</LM>
 </w.rf>
 <form>Jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m107-d1t1912-2">
 <w.rf>
@@ -4009,7 +4009,7 @@
 <LM>w#w-d1t1941-5</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m107-d1e1938-x2-313">
 <w.rf>
@@ -4109,7 +4109,7 @@
 <LM>w#w-d1t1954-2</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m107-d-id183639-punct">
 <w.rf>

@@ -2488,7 +2488,7 @@
 <LM>w#w-wsj1123-001-p1s9W10</LM>
 </w.rf>
 <form>nač</form>
-<tag lemma="co" src="auto" recommended="1">PQ--4--------n-</tag>
+<tag lemma="co-1" src="auto" recommended="1">PQ--4--------n-</tag>
 </m>
 <m id="m-wsj1123-001-p1s9W11-Ta">
 <src.rf>tagger-a</src.rf>

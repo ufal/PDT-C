@@ -83,7 +83,7 @@
 <LM>w#w-vesm9212-030-p2s1w6</LM>
 </w.rf>
 <form>Vašemu</form>
-<tag lemma="váš_^(přivlast.)" src="orig" selected="1">PSZS3-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSZS3-P2-------</tag>
 </m>
 <m id="m-vesm9212-030-p2s1w7">
 <src.rf>manual</src.rf>

@@ -2490,7 +2490,7 @@
 <LM>w#w-lnd92252-006-p4s9w12</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92252-006-p4s9w13">
 <src.rf>manual</src.rf>
@@ -3995,7 +3995,7 @@
 <LM>w#w-lnd92252-006-p5s6w17</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-lnd92252-006-p5s6w18">
 <src.rf>manual</src.rf>

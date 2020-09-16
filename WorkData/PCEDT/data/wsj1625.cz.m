@@ -257,7 +257,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -873,7 +873,7 @@
 <LM>w#w-wsj1625-001-p1s4W9</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj1625-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1340,7 +1340,7 @@
 <LM>w#w-wsj1625-001-p1s5W21</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1625-001-p1s5W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1481,7 +1481,7 @@
 <LM>w#w-wsj1625-001-p1s6W9</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj1625-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6372,7 +6372,7 @@
 <LM>w#w-wsj1625-001-p1s24W40</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj1625-001-p1s24W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7540,7 +7540,7 @@
 <LM>w#w-wsj1625-001-p1s29W6</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1625-001-p1s29W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7731,7 +7731,7 @@
 <LM>w#w-wsj1625-001-p1s29W21</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1625-001-p1s29W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7950,7 +7950,7 @@
 <LM>w#w-wsj1625-001-p1s30W17</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" src="auto" recommended="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="auto" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="m-wsj1625-001-p1s30W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8713,7 +8713,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>
@@ -9131,7 +9131,7 @@
 <LM>w#w-wsj1625-001-p1s34W46</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1625-001-p1s34W47-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11992,7 +11992,7 @@
 <LM>w#w-wsj1625-001-p1s44W23</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS6----------</tag>
 </m>
 <m id="m-wsj1625-001-p1s44W24-Ta">
 <src.rf>tagger-a</src.rf>

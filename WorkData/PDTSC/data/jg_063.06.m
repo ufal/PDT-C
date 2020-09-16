@@ -1284,7 +1284,7 @@
 <LM>w#w-d1t2431-5</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m063-d-id122779-punct">
 <w.rf>
@@ -3340,7 +3340,7 @@
 <form>jejich</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9XXXXP3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9XXXXP3-------</AM>
 </tag>
 </m>
 <m id="m063-d1t2655-7">
@@ -3733,7 +3733,7 @@
 <LM>w#w-d1t2706-6</LM>
 </w.rf>
 <form>vaším</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1" selected="1">PSZS7-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1" selected="1">PSZS7-P2-------</tag>
 </m>
 <m id="m063-d1t2706-7">
 <w.rf>

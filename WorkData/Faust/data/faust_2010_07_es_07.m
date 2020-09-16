@@ -533,7 +533,7 @@
 <LM>w#w-es_07-SCzechM-p0653-s1-w6</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="es_07-SCzechM-p0653-s1-w7">
 <w.rf>

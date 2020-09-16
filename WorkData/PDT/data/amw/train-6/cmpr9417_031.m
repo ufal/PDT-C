@@ -4132,7 +4132,7 @@
 <LM>w#w-cmpr9417-031-p17s1w11</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-cmpr9417-031-p17s1w12">
 <src.rf>manual</src.rf>

@@ -206,7 +206,7 @@
 <form>t</form>
 <tag>
 <AM lemma="tento_:B_^(př._t._r.,_t._č.)" src="orig">PDXXX---------8</AM>
-<AM lemma="tento" src="manual" selected="1">PDXXX---------8</AM>
+<AM lemma="tento" src="manual" selected="1">PDXXX---------b</AM>
 </tag>
 </m>
 <m id="m-lnd91303-060-p3s2w9">
@@ -2659,7 +2659,7 @@
 <LM>w#w-lnd91303-060-p4s6w1</LM>
 </w.rf>
 <form>Jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd91303-060-p4s6w2">
 <src.rf>manual</src.rf>
@@ -3208,7 +3208,7 @@
 <LM>w#w-lnd91303-060-p5s1w48</LM>
 </w.rf>
 <form>jemuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS3----------</tag>
 </m>
 <m id="m-lnd91303-060-p5s1w49">
 <src.rf>manual</src.rf>

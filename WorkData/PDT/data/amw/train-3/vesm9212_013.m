@@ -4567,7 +4567,7 @@
 <LM>w#w-vesm9212-013-p12s2w5</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-vesm9212-013-p12s2w6">
 <src.rf>manual</src.rf>

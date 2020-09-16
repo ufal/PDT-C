@@ -1243,7 +1243,7 @@
 <form>řiditel</form>
 <tag>
 <AM lemma="řiditel_,a" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="řiditel_,a_^(^DD**ředitel)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="řiditel_,h_^(^GC**ředitel)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m984-d1t832-3">

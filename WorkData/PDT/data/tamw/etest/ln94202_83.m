@@ -5517,7 +5517,7 @@
 <LM>w#w-ln94202-83-p14s1w10</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS3----------</tag>
 </m>
 <m id="m-ln94202-83-p14s1w11">
 <src.rf>manual</src.rf>

@@ -920,7 +920,7 @@
 <form>Doc</form>
 <tag>
 <AM lemma="docent_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="doc_^(docent)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="doc_^(docent)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-007-p5s1w2">
@@ -1281,7 +1281,7 @@
 <form>Doc</form>
 <tag>
 <AM lemma="docentka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="doc_^(docent)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="doc_^(docent)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-007-p6s1w2">
@@ -1588,7 +1588,7 @@
 <LM>w#w-vesm9301-007-p6s3w17</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9301-007-p6s3w18">
 <src.rf>manual</src.rf>

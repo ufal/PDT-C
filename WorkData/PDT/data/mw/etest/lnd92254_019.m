@@ -3194,7 +3194,7 @@
 <LM>w#w-lnd92254-019-p6s8w17</LM>
 </w.rf>
 <form>němuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS3---------1</tag>
 </m>
 <m id="m-lnd92254-019-p6s8w18">
 <src.rf>manual</src.rf>

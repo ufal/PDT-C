@@ -4072,7 +4072,7 @@
 <LM>w#w-d1t2226-2</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSXP7-P1-------</tag>
 </m>
 <m id="m100-d1t2226-3">
 <w.rf>

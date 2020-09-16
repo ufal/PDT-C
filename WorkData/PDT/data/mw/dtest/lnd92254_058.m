@@ -506,7 +506,7 @@
 <LM>w#w-lnd92254-058-p3s2w49</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-lnd92254-058-p3s2w50">
 <src.rf>manual</src.rf>

@@ -969,7 +969,7 @@
 <LM>w#w-wsj1727-001-p1s2W6</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m-wsj1727-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -78,7 +78,7 @@
 <LM>w#w-mf930703-021-p1s1w8</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930703-021-p1s1w9">
 <src.rf>manual</src.rf>

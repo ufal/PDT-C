@@ -6632,7 +6632,7 @@
 <LM>w#w-d1t1088-1</LM>
 </w.rf>
 <form>Jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m143-d1t1088-2">
 <w.rf>

@@ -298,7 +298,7 @@
 <LM>w#w-lnd94103-114-p1s6w4</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd94103-114-p1s6w5">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <form>Brit</form>
 <tag>
 <AM lemma="Brit_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Británie_;G" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="Británie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-114-p1s14w15">

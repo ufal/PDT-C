@@ -3204,7 +3204,7 @@
 <LM>w#w-mf930708-141-p5s5w7</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP7----------</tag>
 </m>
 <m id="m-mf930708-141-p5s5w8">
 <src.rf>manual</src.rf>

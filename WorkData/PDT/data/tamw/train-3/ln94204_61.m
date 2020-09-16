@@ -531,7 +531,7 @@
 <LM>w#w-ln94204-61-p2s3w11</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-ln94204-61-p2s3w12">
 <src.rf>manual</src.rf>

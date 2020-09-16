@@ -1561,7 +1561,7 @@
 <AM lemma="Králové_;G_^(Dvůr_Králové)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="král" src="auto">NNMP1-----A----</AM>
 <AM lemma="král" src="auto">NNMP5-----A----</AM>
-<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m138-d1e2976-x2-450">
@@ -3822,7 +3822,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
 </tag>

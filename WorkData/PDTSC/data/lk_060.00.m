@@ -2558,7 +2558,7 @@
 <form>svými</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="manual" selected="1">P8XP7----------</AM>
+<AM lemma="svůj-1" src="manual" selected="1">P8XP7----------</AM>
 </tag>
 </m>
 <m id="m060-d1t121-11">
@@ -2762,7 +2762,7 @@
 <form>svými</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="manual" selected="1">P8XP7----------</AM>
+<AM lemma="svůj-1" src="manual" selected="1">P8XP7----------</AM>
 </tag>
 </m>
 <m id="m060-d1t123-17">
@@ -2770,7 +2770,7 @@
 <LM>w#w-d1t123-17</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m060-d-id59381-punct">
 <w.rf>
@@ -4999,7 +4999,7 @@
 <LM>w#w-d1t204-33</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m060-d-m-d1e199-x2-punct-punct">
 <w.rf>
@@ -5351,7 +5351,7 @@
 <LM>w#w-d1t218-26</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m060-d1t218-27">
 <w.rf>

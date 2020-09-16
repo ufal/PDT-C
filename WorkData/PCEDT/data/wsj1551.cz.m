@@ -1691,7 +1691,7 @@
 <LM>w#w-wsj1551-001-p1s6W14</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSXP7-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-wsj1551-001-p1s6W15-Ta">
 <src.rf>tagger-a</src.rf>

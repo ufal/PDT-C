@@ -1949,7 +1949,7 @@
 <LM>w#w-wsj0744-001-p1s5W20</LM>
 </w.rf>
 <form>naším</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS7-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS7-P1-------</tag>
 </m>
 <m id="m-wsj0744-001-p1s5W21-Ta">
 <src.rf>tagger-a</src.rf>

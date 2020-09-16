@@ -3249,7 +3249,7 @@
 <LM>w#w-d1t1907-10</LM>
 </w.rf>
 <form>dětech</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m139-d-id106939-punct">
 <w.rf>

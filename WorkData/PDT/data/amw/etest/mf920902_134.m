@@ -357,7 +357,7 @@
 <LM>w#w-mf920902-134-p4s3w14</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-mf920902-134-p4s3w15">
 <src.rf>manual</src.rf>

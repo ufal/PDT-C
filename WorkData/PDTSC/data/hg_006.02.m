@@ -263,7 +263,7 @@
 <LM>w#w-d1e654-x2-429</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m006-d1e654-x2-430">
 <w.rf>

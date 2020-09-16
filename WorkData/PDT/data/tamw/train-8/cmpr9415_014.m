@@ -859,7 +859,7 @@
 <LM>w#w-cmpr9415-014-p9s2w24</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-cmpr9415-014-p9s2w25">
 <src.rf>manual</src.rf>

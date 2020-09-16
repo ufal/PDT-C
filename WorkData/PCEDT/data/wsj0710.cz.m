@@ -443,7 +443,7 @@
 <LM>w#w-wsj0710-001-p1s1W13</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="m-wsj0710-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -2626,7 +2626,7 @@
 <LM>w#w-d1t1298-15</LM>
 </w.rf>
 <form>dětech</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m147-d1t1298-12">
 <w.rf>

@@ -231,7 +231,7 @@
 <LM>w#w-lnd94105-020-p1s3w17</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd94105-020-p1s3w18">
 <src.rf>manual</src.rf>
@@ -1002,7 +1002,7 @@
 <form>doc</form>
 <tag>
 <AM lemma="docent_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="doc_^(docent)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="doc_^(docent)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-020-p1s8w5">
@@ -1239,7 +1239,7 @@
 <LM>w#w-lnd94105-020-p1s10w2</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd94105-020-p1s10w3">
 <src.rf>manual</src.rf>

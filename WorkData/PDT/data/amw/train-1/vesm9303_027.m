@@ -1016,7 +1016,7 @@
 <LM>w#w-vesm9303-027-p3s3w41</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-vesm9303-027-p3s3w42">
 <src.rf>manual</src.rf>

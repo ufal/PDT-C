@@ -3207,7 +3207,7 @@
 <LM>w#w-d1t550-15</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m134-d-m-d1e543-x2-punct-punct">
 <w.rf>

@@ -2524,7 +2524,7 @@
 <LM>w#w-d1t1298-4</LM>
 </w.rf>
 <form>zač</form>
-<tag lemma="co" src="auto" recommended="1">PQ--4--------z-</tag>
+<tag lemma="co-1" src="auto" recommended="1">PQ--4--------z-</tag>
 </m>
 <m id="m041-d-id91893-punct">
 <w.rf>

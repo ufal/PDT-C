@@ -380,7 +380,7 @@
 <LM>w#w-mf930713-118-p2s3w10</LM>
 </w.rf>
 <form>Železnic</form>
-<tag lemma="železnice_^(*3ík-1)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="železnice" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930713-118-p2s3w11">
 <src.rf>manual</src.rf>

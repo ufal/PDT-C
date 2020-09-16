@@ -2078,7 +2078,7 @@
 <LM>w#w-lnd92258-099-p6s4w3</LM>
 </w.rf>
 <form>t</form>
-<tag lemma="tento_^(př._t._r.,_t._č.)" src="orig" selected="1">PDXXX---------b</tag>
+<tag lemma="tento" src="orig" selected="1">PDXXX---------b</tag>
 </m>
 <m id="m-lnd92258-099-p6s4w4">
 <src.rf>manual</src.rf>
@@ -2283,7 +2283,7 @@
 <LM>w#w-lnd92258-099-p6s5w1</LM>
 </w.rf>
 <form>Jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-lnd92258-099-p6s5w2">
 <src.rf>manual</src.rf>
@@ -2392,7 +2392,7 @@
 <LM>w#w-lnd92258-099-p7s1w5</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-lnd92258-099-p7s1w6">
 <src.rf>manual</src.rf>
@@ -2536,7 +2536,7 @@
 <LM>w#w-lnd92258-099-p7s1w23</LM>
 </w.rf>
 <form>našimi</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSXP7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP7-P1-------</tag>
 </m>
 <m id="m-lnd92258-099-p7s1w24">
 <src.rf>manual</src.rf>

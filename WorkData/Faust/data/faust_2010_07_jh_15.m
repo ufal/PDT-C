@@ -1709,7 +1709,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS4--3-------</AM>
 </tag>
@@ -2387,7 +2387,7 @@
 </w.rf>
 <form>jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS4--3-------</AM>
 </tag>
@@ -4190,7 +4190,7 @@
 <LM>w#w-jh_15-SCzechM-p1613-s1-w2</LM>
 </w.rf>
 <form>mými</form>
-<tag lemma="můj_^(přivlast.)" recommended="1">PSXP7-S1-------</tag>
+<tag lemma="můj" recommended="1">PSXP7-S1-------</tag>
 </m>
 <m id="jh_15-SCzechM-p1613-s1-w3">
 <w.rf>

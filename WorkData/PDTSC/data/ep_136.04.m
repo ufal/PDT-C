@@ -369,7 +369,7 @@
 <LM>w#w-d1t1856-3</LM>
 </w.rf>
 <form>vašemu</form>
-<tag lemma="váš_^(přivlast.)" src="auto" recommended="1">PSZS3-P2-------</tag>
+<tag lemma="váš" src="auto" recommended="1">PSZS3-P2-------</tag>
 </m>
 <m id="m136-d1t1856-4">
 <w.rf>
@@ -4267,7 +4267,7 @@
 <LM>w#w-d1t2113-4</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m136-d-id118786-punct">
 <w.rf>

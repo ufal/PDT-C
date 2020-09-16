@@ -3357,7 +3357,7 @@
 <LM>w#w-cmpr9417-002-p11s5w37</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-cmpr9417-002-p11s5w38">
 <src.rf>manual</src.rf>
@@ -3373,7 +3373,7 @@
 <LM>w#w-cmpr9417-002-p11s5w39</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-cmpr9417-002-p11s5w40">
 <src.rf>manual</src.rf>
@@ -5070,7 +5070,7 @@
 <LM>w#w-cmpr9417-002-p16s1w12</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-cmpr9417-002-p16s1w13">
 <src.rf>manual</src.rf>
@@ -7002,7 +7002,7 @@
 <LM>w#w-cmpr9417-002-p18s3w9</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS6----------</tag>
 </m>
 <m id="m-cmpr9417-002-p18s3w10">
 <src.rf>manual</src.rf>
@@ -7500,7 +7500,7 @@
 <LM>w#w-cmpr9417-002-p20s2w17</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9417-002-p20s2w18">
 <src.rf>manual</src.rf>
@@ -8866,7 +8866,7 @@
 <LM>w#w-cmpr9417-002-p22s3w12</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9417-002-p22s3w13">
 <src.rf>manual</src.rf>
@@ -9292,7 +9292,7 @@
 <LM>w#w-cmpr9417-002-p22s6w7</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-cmpr9417-002-p22s6w8">
 <src.rf>manual</src.rf>

@@ -2451,7 +2451,7 @@
 <LM>w#w-wsj1313-001-p1s10W9</LM>
 </w.rf>
 <form>našemu</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS3-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS3-P1-------</tag>
 </m>
 <m id="m-wsj1313-001-p1s10W10-Ta">
 <src.rf>tagger-a</src.rf>

@@ -294,7 +294,7 @@
 <LM>w#w-jh_20-SCzechM-p2081-s1-w25</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="jh_20-SCzechM-p2081-s1-w26">
 <w.rf>
@@ -1426,7 +1426,7 @@
 <LM>w#w-jh_20-SCzechM-p2102-s1-w5</LM>
 </w.rf>
 <form>dětí</form>
-<tag lemma="dítě" recommended="1">NNFP2-----A----</tag>
+<tag lemma="dítě-2" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="jh_20-SCzechM-p2102-s1-w6">
 <w.rf>
@@ -1489,7 +1489,7 @@
 <LM>w#w-jh_20-SCzechM-p2102-s1-w10</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="jh_20-SCzechM-p2102-s1-w11">
 <w.rf>
@@ -3025,7 +3025,7 @@
 </w.rf>
 <form>Jeho</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" recommended="1">P9XXXZS3-------</AM>
+<AM lemma="jeho" recommended="1">P9XXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)">PPYS4--3-------</AM>
 </tag>

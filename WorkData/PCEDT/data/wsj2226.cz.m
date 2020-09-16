@@ -552,7 +552,7 @@
 <LM>w#w-wsj2226-001-p1s1W25</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8XP7----------</tag>
 </m>
 <m id="m-wsj2226-001-p1s1W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -872,7 +872,7 @@
 <LM>w#w-wsj2226-001-p1s2W17</LM>
 </w.rf>
 <form>dítěte</form>
-<tag lemma="dítě" src="auto" recommended="1">NNNS2-----A----</tag>
+<tag lemma="dítě-1" src="auto" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="m-wsj2226-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>

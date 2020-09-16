@@ -5022,7 +5022,7 @@
 <LM>w#w-d1t751-1</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m010-d1t751-2">
 <w.rf>

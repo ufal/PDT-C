@@ -569,7 +569,7 @@
 <LM>w#w-ln94203-12-p3s2w3</LM>
 </w.rf>
 <form>jichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP2---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP2---------1</tag>
 </m>
 <m id="m-ln94203-12-p3s2w4">
 <src.rf>manual</src.rf>

@@ -3767,7 +3767,7 @@
 <LM>w#w-mf930701-049-p2s27w9</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-mf930701-049-p2s27w10">
 <src.rf>manual</src.rf>
@@ -4705,7 +4705,7 @@
 <LM>w#w-mf930701-049-p2s35w7</LM>
 </w.rf>
 <form>svými</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP7----------</tag>
 </m>
 <m id="m-mf930701-049-p2s35w8">
 <src.rf>manual</src.rf>

@@ -3032,7 +3032,7 @@
 <LM>w#w-mf930701-039-p7s5w20</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS6-S1-------</tag>
 </m>
 <m id="m-mf930701-039-p7s5w21">
 <src.rf>manual</src.rf>
@@ -5191,7 +5191,7 @@
 <LM>w#w-mf930701-039-p15s3w25</LM>
 </w.rf>
 <form>jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-mf930701-039-p15s3w26">
 <src.rf>manual</src.rf>

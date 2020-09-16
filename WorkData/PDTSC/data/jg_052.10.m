@@ -609,7 +609,7 @@
 <LM>w#w-d1t3955-3</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="auto" recommended="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="auto" recommended="1">PSZS6-P1-------</tag>
 </m>
 <m id="m052-d1t3955-4">
 <w.rf>
@@ -2591,7 +2591,7 @@
 <LM>w#w-d1t4115-5</LM>
 </w.rf>
 <form>Jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m052-d1t4115-4">
 <w.rf>

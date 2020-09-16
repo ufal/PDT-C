@@ -2535,7 +2535,7 @@
 <LM>w#w-wsj2091-001-p1s6W23</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj2091-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4136,7 +4136,7 @@
 <LM>w#w-wsj2091-001-p1s11W16</LM>
 </w.rf>
 <form>jejich</form>
-<tag lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XXXXP3-------</tag>
+<tag lemma="jeho" src="auto" recommended="1">P9XXXXP3-------</tag>
 </m>
 <m id="m-wsj2091-001-p1s11W17-Ta">
 <src.rf>tagger-a</src.rf>

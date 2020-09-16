@@ -1177,7 +1177,7 @@
 <LM>w#w-ln95043-044-p4s2w17</LM>
 </w.rf>
 <form>Josému</form>
-<tag lemma="José_;Y" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="José-1_;Y" src="auto" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95043-044-p4s2w18">
 <src.rf>manual</src.rf>
@@ -4062,7 +4062,7 @@
 <LM>w#w-ln95043-044-p10s2w24</LM>
 </w.rf>
 <form>niž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS4---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS4---------1</tag>
 </m>
 <m id="m-ln95043-044-p10s2w25">
 <src.rf>manual</src.rf>
@@ -4115,7 +4115,7 @@
 <LM>w#w-ln95043-044-p10s3w1</LM>
 </w.rf>
 <form>Jeho</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XXXZS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XXXZS3-------</tag>
 </m>
 <m id="m-ln95043-044-p10s3w2">
 <src.rf>manual</src.rf>

@@ -1864,7 +1864,7 @@
 <LM>w#w-mf930703-065-p2s11w18</LM>
 </w.rf>
 <form>niž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS4---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS4---------1</tag>
 </m>
 <m id="m-mf930703-065-p2s11w19">
 <src.rf>manual</src.rf>

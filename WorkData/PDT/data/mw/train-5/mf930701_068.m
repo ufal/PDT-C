@@ -2786,7 +2786,7 @@
 <LM>w#w-mf930701-068-p2s20w4</LM>
 </w.rf>
 <form>našem</form>
-<tag lemma="náš_^(přivlast.)" src="orig" selected="1">PSZS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS6-P1-------</tag>
 </m>
 <m id="m-mf930701-068-p2s20w5">
 <src.rf>manual</src.rf>

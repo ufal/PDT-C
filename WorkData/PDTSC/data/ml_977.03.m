@@ -98,7 +98,7 @@
 <LM>w#w-id61821-6</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1" selected="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1" selected="1">P8ZS3----------</tag>
 </m>
 <m id="m977-id61821-7">
 <w.rf>

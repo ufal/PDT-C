@@ -2427,7 +2427,7 @@
 <LM>w#w-d1t1985-4</LM>
 </w.rf>
 <form>dětem</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP3-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP3-----A----</tag>
 </m>
 <m id="m105-d1t1985-8">
 <w.rf>

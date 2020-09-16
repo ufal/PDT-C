@@ -878,7 +878,7 @@
 <LM>w#w-d1t1850-2</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m784-d-id116663">
 <w.rf>
@@ -1267,7 +1267,7 @@
 <LM>w#w-d1t1863-4</LM>
 </w.rf>
 <form>mém</form>
-<tag lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS6-S1-------</tag>
+<tag lemma="můj" src="auto" recommended="1">PSZS6-S1-------</tag>
 </m>
 <m id="m784-d1t1863-5">
 <w.rf>

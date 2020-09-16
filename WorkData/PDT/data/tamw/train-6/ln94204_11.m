@@ -43,7 +43,7 @@
 <LM>w#w-ln94204-11-p1s1w4</LM>
 </w.rf>
 <form>Mariettou</form>
-<tag lemma="Marietta_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Marietta_;G_;Y_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-11-p2s1A">

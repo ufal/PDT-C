@@ -109,7 +109,7 @@
 <LM>w#w-wsj1035-001-p1s0W7</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS6----------</tag>
 </m>
 <m id="m-wsj1035-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>

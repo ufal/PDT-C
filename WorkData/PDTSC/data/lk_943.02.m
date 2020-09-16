@@ -7422,7 +7422,7 @@
 <LM>w#w-d1t1294-5</LM>
 </w.rf>
 <form>dětmi</form>
-<tag lemma="dítě" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dítě-2" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m943-d-id101656">
 <w.rf>

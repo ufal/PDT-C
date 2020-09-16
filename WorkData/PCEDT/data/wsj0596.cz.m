@@ -1321,7 +1321,7 @@
 <LM>w#w-wsj0596-001-p1s2W48</LM>
 </w.rf>
 <form>němž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS6----------</tag>
 </m>
 <m id="m-wsj0596-001-p1s2W49-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6040,7 +6040,7 @@
 <LM>w#w-wsj0596-001-p1s21W17</LM>
 </w.rf>
 <form>jemuž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS3----------</tag>
 </m>
 <m id="m-wsj0596-001-p1s21W18-Ta">
 <src.rf>tagger-a</src.rf>

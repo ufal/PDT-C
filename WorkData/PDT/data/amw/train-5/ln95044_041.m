@@ -910,7 +910,7 @@
 <LM>w#w-ln95044-041-p2s5w14</LM>
 </w.rf>
 <form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS6----------</tag>
 </m>
 <m id="m-ln95044-041-p2s5w15">
 <src.rf>manual</src.rf>

@@ -5802,7 +5802,7 @@
 <LM>w#w-wsj1962-001-p1s21W12</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS3----------</tag>
 </m>
 <m id="m-wsj1962-001-p1s21W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11750,7 +11750,7 @@
 <LM>w#w-wsj1962-001-p1s45W15</LM>
 </w.rf>
 <form>svému</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS3----------</tag>
+<tag lemma="svůj-1" src="auto" recommended="1">P8ZS3----------</tag>
 </m>
 <m id="m-wsj1962-001-p1s45W16-Ta">
 <src.rf>tagger-a</src.rf>
